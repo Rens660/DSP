@@ -24,28 +24,38 @@
 <body>
     
     <div class="container">
-        <div class="row">
-            <ul class="nav nav-tabs" id="myTab">
-                <li class="nav-item">
-                    <a href="#home" class="nav-link active">Home</a>
+        <div class="row p-5">
+            <ul class="nav nav-tabs nav-fill" id="myTab">
+                <li class="nav-item" role="presentation">
+                    <a href="#home" class="nav-link active" role="tab">Home</a>
                 </li>
-                <li class="nav-item">
-                    <a href="#profile" class="nav-link">Tableau</a>
+                <li class="nav-item" role="presentation">
+                    <a href="#analysis1" class="nav-link" role="tab">Analyse 1</a>
                 </li>
-                <li class="nav-item">
-                    <a href="#messages" class="nav-link">Form</a>
+                <li class="nav-item" role="presentation">
+                    <a href="#analysis2" class="nav-link" role="tab">Analyse 2</a>
+                </li>
+                <li class="nav-item" role="presentation">
+                    <a href="#scraper" class="nav-link" role="tab">Courtcase scraper</a>
+                </li>
+                <li class="nav-item" role="presentation">
+                    <a href="#form" class="nav-link" role="tab">Form</a>
                 </li>
             </ul>
             <div class="tab-content">
                 <div class="tab-pane fade show active" id="home">
-                    <div class="rounded bg-light p-5">
-                        <p>
-                            Op deze website kan je makkelijk switchen tussen dashboards en dynamisch grafieken laten zien. Enjoy!
-                        </p>
+                    <div class="rounded bg-soft p-5">
+                        <h3>Lorem, ipsum dolor.</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa commodi eligendi aperiam fugit nostrum aspernatur quam.</p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta perspiciatis magnam ipsam architecto, laborum ea libero assumenda eos nostrum doloremque animi sapiente, non rerum consectetur! Rem, eum? Ipsam eos optio quibusdam ratione?</p>
+                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consequatur sint sunt, nulla quibusdam illo ex laborum soluta doloribus sequi harum provident sapiente odio optio ipsum assumenda repellat ipsa accusamus ut nisi, minima odit eligendi reiciendis aut. Ut quasi reiciendis unde.</p>
+                        <br>
+                        <h5>Lorem, ipsum.</h5>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque provident, veniam saepe voluptatibus eum dolores iusto corrupti quam itaque, quasi rerum explicabo mollitia. Voluptates eligendi animi distinctio optio amet natus dolore explicabo architecto earum? Natus totam est perspiciatis obcaecati dignissimos, necessitatibus ducimus, iste possimus expedita odio adipisci, molestias dolorem tempore doloremque ratione.</p>
                     </div>
                 </div>
-                <div class="tab-pane fade" id="profile">
-                    <div class="rounded bg-light p-5">
+                <div class="tab-pane fade" id="analysis1">
+                    <div class="rounded bg-soft p-5">
                         <div class='tableauPlaceholder'>
                             <object class='tableauViz'>
                                 <param name='host_url' value='https%3A%2F%2Fprod-uk-a.online.tableau.com%2F' /> 
@@ -57,8 +67,21 @@
                         </div> 
                     </div>
                 </div>
-                <div class="tab-pane fade" id="messages">
-                    <div class="rounded bg-light p-5">
+                <div class="tab-pane fade" id="analysis2">
+                    <div class="rounded bg-soft p-5">
+                        <h3>Lorem ipsum dolor sit.</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur ex dignissimos consectetur quaerat molestias quam reprehenderit optio nisi, soluta rerum alias veritatis quasi reiciendis sed fugiat ducimus. Id suscipit aspernatur minima incidunt maxime minus commodi ex laudantium? Quisquam ratione ipsam optio dolorum, harum labore quod incidunt praesentium illo quas aliquam unde hic vel aut possimus officiis et consectetur facilis iste earum?</p>
+                    </div>
+                </div>
+                <div class="tab-pane fade" id="scraper">
+                    <div class="rounded bg-soft p-5">
+                        <h3>Lorem, ipsum.</h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat ratione facere consectetur a doloribus explicabo? Voluptatibus est repellendus quos harum quidem asperiores et sequi, veritatis cum voluptas magni sit aspernatur magnam aliquid animi error quaerat fuga. Fugit.</p>
+                        <button class="btn btn-lg btn-dark" type="submit">Start scraping</button>
+                    </div>
+                </div>
+                <div class="tab-pane fade" id="form">
+                    <div class="rounded bg-soft p-5">
                         <h3>Upload files here.</h3>
                         <hr>
                         {% if uploaded_file_url %}

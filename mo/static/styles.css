@@ -1,7 +1,7 @@
 .tableauPlaceholder,
 .tableauViz {
     width: 100%;
-    height: 75vh;
+    height: 70vh;
 }
 
 .tableauViz {
@@ -15,4 +15,9 @@
 .nav-link:focus,
 .nav-link:hover {
     color: var(--bs-secondary);
+}
+
+.bg-soft {
+    background-color: #F3F9FF;
+    width: 100%;
 }
