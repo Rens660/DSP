@@ -1,0 +1,134 @@
+
+
+RECHTBANK HAARLEM
+Sector bestuursrecht meervoudige douanekamer
+Procedurenummer: AWB 06/8589
+ 
+Uitspraakdatum: 24 augustus 2007 
+Uitspraak als bedoeld in afdeling 8.2.6 van de Algemene wet bestuursrecht (Awb) in het geding tussen 
+de besloten vennootschap met beperkte aansprakelijkheid X B.V. gevestigd te Z eiseres 
+en 
+de inspecteur van de Belastingdienst/Douane Rotterdam kantoor Rotterdam Laan op Zuid verweerder. 
+1.	Ontstaan en loop van het geding 
+1.1. Op 16 februari 2006 heeft verweerder een beschikking betreffende een bindende tariefindeling (BTI) afgegeven met referentie NL 000 kenmerk NL 000. Het tegen de BTI gemaakte bezwaar heeft verweerder bij uitspraak op bezwaar van 15 juni 2006 afgewezen.  
+1.2. Eiseres heeft daartegen bij brief van 20 juli 2006 ontvangen bij de rechtbank op 21 juli 2006 beroep ingesteld. Verweerder heeft een verweerschrift ingediend. 
+
+1.3. Het onderzoek ter zitting heeft plaatsgevonden op 6 juli 2007 te Haarlem. Namens eiseres is daar verschenen A1 B1 C1 namens Y BV zijn verschenen D1 en E1.
+Verweerder heeft zich doen vertegenwoordigen door F1 en G1. 
+Partijen hebben een pleitnota voorgedragen en exemplaren daarvan overgelegd aan de rechtbank en aan elkaar. De inhoud van de pleitnota’s geldt als hier opgenomen.
+ 
+2.	Tussen partijen vaststaande feiten 
+
+2.1. Eiseres heeft op 17 november 2005 namens Y BV een BTI aangevraagd voor Betain96 (het product). Als beoogde indeling is in vak 7 van het aanvraagformulier ingevuld:
+“Nomenclatuurcode: 1703.9000.00”
+In vak 8 van het aanvraagformulier is ingevuld:
+“Melasse verkregen bij de extractie of de raffinage van suiker Produktnaam: Betain96”. 
+ 
+
+2.2. In afwijking van de aanvraag is het product ingedeeld in post 2923.9000 van het GDT. In de door verweerder onder 1.1. genoemde afgegeven BTI is vermeld: 
+Onder 6 indeling van het goed in de douanenomenclatuur”
+“2923900090”
+onder 7 Omschrijving van het goed:
+“Betain96 zijnde licht geel gekleurde korrels verkregen bij de extractie of de raffinage van suiker. Het produkt een provitamine wordt gebruikt als toevoeging in diervoeding”
+onder 8 Handelsbenaming en aanvullende gegevens:
+“Betain96 -volgens opgave- specificatie:(…………………………………………………… ………………………………………………………………………...……………………………………………………………………”)
+onder 9 Motivering voor de indeling van het goed:
+“De indeling is vastgesteld op basis van de algemene regels 1 en 6 voor de interpretatie van de gecombineerde nomenclatuur en de tekst van de GN-codes 2923 2923 90 en 2923 9000”
+onder 14 Sleutelwoorden:
+“BETANAFTYLAMINE EN ZOUTEN
+VOOR DIERVOEDING
+PROVITAMINE VITAMINEN
+DIERENVOER
+VITAMINEN
+VOOR DIEREN”.
+ 
+2.3. Tot de stukken van het geding behoort een deskundigenbericht van C1 hoogleraar veterinaire diervoeding bij de Faculteit der Diergeneeskunde van de Universiteit van Utrecht van 4 september 2006 waarin voor zover van belang is vermeld:  
+“Gelet op de omschrijving en de definitie valt TNIbetain96 niet onder GN code 29.23. TNIbetain96 is namelijk geen zout”.  
+3.	Geschil 
+
+Tussen partijen is niet in geschil dat het product ingedeeld moet worden in hoofdstuk 29 van het Gemeenschappelijk Douanetarief (GDT). In geschil is of het product dient te worden ingedeeld in post 2936 2990 van het GDT zoals eiseres bepleit dan wel in post 2923 9000 hetgeen verweerder voorstaat. 
+Partijen doen hun standpunten steunen op de gronden die daartoe door hen zijn aangevoerd in de van hen afkomstige stukken.
+ 
+4.	De in geding zijnde posten van de GDT aantekeningen en toelichtingen  
+4.1. De door partijen voorgestane posten luiden: 
+
+Post 2936 2990  
+2936	Provitaminen en vitaminen natuurlijke of door synthese gereproduceerd (natuurlijke concentraten daaronder begrepen) alsmede derivaten daarvan die hoofdzakelijk als vitaminen worden gebruikt ook indien deze stoffen onderling zijn vermengd of in oplossing zijn gebracht:
+(...)
+	– vitaminen en derivaten daarvan niet vermengd:
+(...)
+2936 29	– –   andere vitaminen en derivaten daarvan:
+2936 2990	– – –  andere.
+ 
+
+Post 2923 9000
+2923	Quaternaire ammoniumzouten en -hydroxiden; lecithinen en andere 	fosfoaminolipiden al dan niet chemisch welbepaald:
+(...)
+2923 9000	– andere.
+ 
+4.2. Aantekeningen 
+
+Aanvullende aantekeningen op Hoofdstuk 29 (organische chemische producten) luiden als volgt:
+“1. De posten van dit hoofdstuk hebben voorzover uit de context niet het tegendeel blijkt uitsluitend betrekking op:
+(...)
+c) producten bedoeld bij de posten 2936 tot en met 2939 ethers acetaten en esters van suikers en zouten daarvan bedoeld bij post 2940 en producten bedoeld bij post 2941 al dan niet chemisch welbepaald.
+(...)
+3. Een product dat kan worden ingedeeld onder twee of meer posten van dit hoofdstuk moet geacht worden te behoren tot de post die in volgorde van nummering het laatst is geplaatst.”
+ 
+4.3. Toelichtingen 
+
+In de Toelichting op de Gecombineerde nomenclatuur van de Internationale Douaneraad staat onder hoofdstuk 29.23 voor zover van belang vermeld:
+“(...) De belangrijkste zouten en substitutiederivaten van quaternaire ammoniumbasen zijn: (...) 6. betaïne een quaternair intramoleculair zout  en betaïnehydrochloride; deze producten worden bijvoorbeeld gebruikt in de geneeskunde in cosmetische producten en in veevoeder.”
+ 
+
+Onder hoofdstuk 29.36 staat voor zover van belang vermeld:
+“Lijst van producten die moeten worden ingedeeld als provitaminen of vitaminen in de zin van post 29.36.
+de opsomming van producten in elk van de volgende groepen is niet uitputtend. De vermelde producten gelden uitsluitend als voorbeelden.”
+ 
+5.	Standpunten van partijen 
+
+5.1. Eiseres stelt zich kort weergegeven op het standpunt dat het product voldoet aan de definitie van pro-vitaminen en net als de vitaminen C en D stofwisselingsstoringen en deficiëntie ziekten voorkomt. Ook heeft het product sterke overeenkomsten met de vitaminen C en E. Uit de commerciële toepassing die door Y BV aan het product wordt gegeven blijkt dat het product specifiek wordt ingezet als osmoregulator. Het product gaat een afname van intracellulaire enzymactiviteit tijdens stresssituaties tegen. Deze osmoregulerende werking van het product is volgens eiseres een vitamine-effect. Eiseres concludeert dat de toediening van het product onmisbaar is voor het normaal functioneren van het dierlijk organisme aangezien het organisme niet in staat is deze stoffen in voldoende hoeveelheden te synthetiseren. Op grond van de positionering van het product in de product data sheet in marketingmateriaal en op de website van Y BV wordt het product hoofdzakelijk aangeboden en gebruikt als vitamine. Eiseres verwijst naar het onder 2.3. vermelde rapport. Onder verwijzing naar het onder 2.3. genoemde rapport stelt eiseres dat het product geen quaternair ammoniumzout is zoals bedoeld is in post 2923 van het GDT. Het product is geen zuivere betaïne. 
+Subsidiair stelt eiseres dat indien beide posten voor de classificatie van het product in aanmerking komen het product volgens aantekening 3 op hoofdstuk 29 van het GDT ingedeeld dient te worden onder post 2936.
+ 
+
+5.2. Verweerder stelt zich kort weergegeven op het standpunt dat in de afgegeven BTI abusievelijk is opgenomen dat het product een pro-vitamine betreft en dat indien de rechtbank van oordeel is dat het product als zodanig moet worden beschouwd de afgegeven BTI voor wat betreft de omschrijving van het goed moeten worden vervangen om deze vergissing te corrigeren.
+Onder code 2923 vallen de quaternaire ammoniumzouten en hydroxiden. In de toelichting op deze post wordt betaïne genoemd en vermeld dat deze producten worden gebruikt in de geneeskunde in cosmetische producten en in veevoeder. Er is geen verwijzing naar vitaminen. Verweerder is van mening dat het product ingedeeld blijft onder post 2923 ook al heeft dit eigenschappen die overeenkomen met die van vitaminen. Voorts stelt verweerder dat uit de opsommingen op pagina 2 van het onder 2.3. genoemde deskundigenbericht en de product data sheet blijkt dat het product kan worden gebruikt tegen een aantal ziekten of aandoeningen maar dat dit niet betekent dat het alleen werkzaam is als osmoregulator. 
+Verweerder is van mening van het niet van belang is dat het geen chemisch zuiver product is en verwijst naar aantekening 1 onder a. 
+Met betrekking tot de samenstelling van het product is verweerder van mening dat er in post 2923 geen melding gemaakt wordt dat zwitterionen uitgezonderd zijn van deze post. Betaïne wordt in de toelichting op post 2923 met name genoemd. Ook in de Europese Douane Naamlijst Chemische stoffen (ECICS) wordt onder nummer CUS 11864 betaïne genoemd waarbij als code 2923 9000 staat vermeld. Verweerder stelt dat eiser zelf aangeeft dat het product voor minimaal 96% uit betaïne bestaat. 
+Met betrekking tot het subsidiaire standpunt van eiseres is verweerder van mening dat er geen gronden zijn om het product aan te merken als vitamine. In de literatuur wordt betaïne omschreven als een “Quasi vitamin”of “vitamin-like substance”. Verweerder verwijst naar de door eiseres overgelegde stukken. Drie van de daar genoemde “vitamin-like substances” te weten para-Animo-benzoic acid (PABA) Inositol en Vitamin F (essential fatty acids) worden onder post aan het slot van de GS-toelichting op post 2936 expliciet uitgezonderd van de indeling als vitamine onder post 2936 terwijl verweerder van mening is dat betaïne niet uitgezonderd behoeft te worden omdat dit reeds met name in de toelichting van post 2923 wordt vermeld. Verweerder verwijst naar de tot de gedingstukken behorende literatuur: Martindale The complete drug reference; The Merck Index; Informatorium Medicamentorium. In deze literatuur wordt nergens vermeld dat betaïne als een vitamine wordt beschouwd.
+Anders dan eiseres stelt verweerder dat hij niet toekomt aan de toepassing van aantekening 3 op hoofdstuk 29.
+ 
+5.3. Voor de overige standpunten verwijst de rechtbank naar de stukken van het geding. 
+6.	Beoordeling van het geschil 
+6.1. Op grond van de stukken van het geding en hetgeen ter zitting door partijen naar voren is gebracht is de rechtbank van oordeel dat het betreffende product geen zout is. De rechtbank baseert zich daarbij op de door C1 onder 2.3 vermelde verklaring. Verweerders verklaring ter zitting – zakelijk weergegeven - dat de juistheid van deze stelling niet relevant is aangezien slechts naar de tariefindeling dient te worden geoordeeld maakt dit oordeel niet anders. Met het oordeel van de rechtbank dat het product geen zout betreft oordeelt de rechtbank voorts dat het product naar de tekst van post 2936 9000 niet onder deze post ingedeeld kan worden. In de toelichting van de Internationale Douaneraad (IDR)  op post 2936 wordt weliswaar genoemd “(...) 6. betaïne een quaternair intramoleculair zout” doch aan dit (gezaghebbend) hulpmiddel bij de uitlegging van de Gecombineerde Nomenclatuur kan alleen betekenis toegekend worden indien de letterlijke bewoording van de post wordt uitgelegd of toegelicht. Nu de rechtbank van oordeel is dat het product geen zout is kan aan de toelichting in dit geval geen betekenis worden toegekend nu de toelichting een uitbreiding geeft aan de letterlijke tekst. 
+6.2. Ter zitting zijn partijen tot de slotsom gekomen dat wetenschap en indelingssystematiek niet tot dezelfde uitkomst leiden. De rechtbank volgt eiseres in haar stelling dat het product ingedeeld moet worden als een (pro)vitamine. Verweerders stelling dat de onder post 2936 genoemde vitamines uitputtend bedoeld zijn vindt geen steun in de toelichting van de IDR. Door eiseres is gesteld en door verweerder niet bestreden dat er geen sluitende definitie is van vitamine. Door eiseres is gesteld en door verweerder niet bestreden dat het product in haar werkzaamheid overeenkomsten heeft met vitaminen.  
+
+6.3. Gelet op het vorenoverwogene is de rechtbank van oordeel dat het product ingedeeld moet worden als (pro)vitamine in de zin van post 2936 2990 van het GDT.
+Het beroep dient gegrond te worden verklaard.
+ 
+7.	Proceskosten 
+De rechtbank vindt aanleiding verweerder te veroordelen in de kosten die eiseres in verband met de behandeling van het bezwaar en het beroep redelijkerwijs heeft moeten maken. Deze kosten zijn op de voet van het Besluit proceskosten bestuursrecht voor de door een derde beroepsmatig verleende rechtsbijstand vastgesteld op € 966 (1 punt voor het indienen van het bezwaarschrift 1 punt voor het verschijnen ter hoorzitting met een waarde per punt van € 161 1 punt voor het indienen van het beroepschrift 1 punt voor het verschijnen ter zitting met een waarde per punt van  €  322- en een wegingsfactor 1).  
+8.	Beslissing 
+
+De rechtbank:
+-	verklaart het beroep gegrond;
+-	vernietigt de uitspraak op bezwaar;
+-	vernietigt de BTI;
+-	bepaalt dat het product Betain96 ingedeeld moet worden in post 2936 2990 van het Gemeenschappelijk 		douanetarief;
+-	veroordeelt verweerder in de proceskosten van eiseres ten bedrage van € 966 en wijst de Staat der 		Nederlanden (Ministerie van Financiën) / aan dit bedrag aan eiseres te voldoen;
+-	gelast dat de Staat der Nederlanden (Ministerie van Financiën) het door eiseres betaalde griffierecht van € 		28100 vergoedt.
+ 
+Deze uitspraak is gedaan op 24 augustus 2007 en op dezelfde dag in het openbaar uitgesproken door mr. A.J. Roke voorzitter mr. E. Polak en mr. L.G. Jobse rechters in tegenwoordigheid van mr. J.P. Wismeijer griffier. 
+Afschrift verzonden aan partijen op: 
+De rechtbank heeft geen bezwaar tegen afgifte door de griffier van een afschrift van de uitspraak in geanonimiseerde vorm. 
+Rechtsmiddel 
+Tegen deze uitspraak kunnen partijen binnen zes weken na de verzenddatum hoger beroep instellen bij het gerechtshof te Amsterdam (belastingkamer) Postbus 1312 1000 BH Amsterdam. 
+
+Bij het instellen van hoger beroep dient het volgende in acht te worden genomen:
+1 - bij het beroepschrift wordt een afschrift van deze uitspraak overgelegd;
+2 - het beroepschrift moet ondertekend zijn en ten minste het volgende vermelden:
+ 	a. de naam en het adres van de indiener;
+	b. een dagtekening;
+c. een omschrijving van de uitspraak waartegen het hoger beroep is ingesteld;
+d. de gronden van het hoger beroep.
+

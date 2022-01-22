@@ -1,0 +1,560 @@
+
+
+GERECHTSHOF DEN HAAG 
+Afdeling Civiel recht 
+
+Zaaknummer	: 200.228.753/01
+ 
+
+Zaaknummer rechtbank	: C/09/537158/KG ZA 17-1072 
+ 
+
+
+arrest van 8 mei 2018
+
+ 
+
+inzake
+ 
+
+
+Fresenius Kabi Nederland B.V.
+gevestigd te ‘s-Hertogenbosch
+appellante
+hierna te noemen: Fresenius
+advocaat: mr. P.L. Reeskamp te Amsterdam
+ 
+
+tegen
+ 
+
+
+Eli Lilly & Company
+
+gevestigd te Indianapolis Verenigde Staten
+geïntimeerde
+hierna te noemen: Lilly
+advocaat: mr. J.A. Dullaart te Naaldwijk.
+ 
+
+
+
+1 Het geding 
+
+Bij exploot van 21 november 2017 is Fresenius in hoger beroep gekomen van een door de voorzieningenrechter in de rechtbank Den Haag tussen partijen gewezen vonnis van 24 oktober 2017. Bij memorie van grieven met producties heeft Fresenius veertien grieven aangevoerd. Daarna heeft Fresenius nog een akte overlegging producties ingediend. Bij memorie van antwoord heeft Lilly de grieven bestreden. 
+ 
+
+Vervolgens hebben partijen op 22 maart 2018 de zaak doen bepleiten Fresenius door haar advocaat voornoemd en Lilly door mrs. K.A.J. Bisschop en H.J. Ridderinkhof advocaten te Amsterdam aan beide zijden aan de hand van overgelegde pleitnotities. Ten slotte hebben partijen arrest gevraagd.
+ 
+
+
+
+2 De feiten 
+
+Het hof gaat uit van de navolgende feiten. 
+ 
+
+2.1
+Lilly is onderdeel van het Lilly concern dat wereldwijd opereert en actief is op het gebied van onderzoek ontwikkeling en verhandeling van nieuwe innovatieve geneesmiddelen. 
+
+
+2.2
+Lilly brengt onder meer het geneesmiddel Alimta® op de markt. Dit geneesmiddel wordt toegepast bij de behandeling van bepaalde longkankers (tumorgroei). Het actieve bestanddeel in Alimta® (na oplossing) bestaat uit pemetrexed anionen. In Alimta® zijn de anionen gebonden aan natriumionen en wordt daarmee het pemetrexed dinatriumzout gevormd. Het antifolaat (zie 2.17 hierna) pemetrexed werd aanvankelijk beschermd door Europees octrooi EP 0 432 677 (hierna: EP 677). EP 677 is het basisoctrooi voor Aanvullend Beschermingscertificaat 300181 voor ‘pemetrexed desgewenst in de vorm van een farmaceutisch aanvaardbaar zout’ (hierna: het ABC). Het ABC was van kracht tot en met 9 december 2015. 
+
+
+2.3
+Lilly is houdster van het Europees octrooi EP (NL) 1 313 508 (hierna: EP 508 of het octrooi) voor een ‘Combination containing an antifolate and methylmalonic acid lowering agent’  (in de Nederlandse vertaling: “Samenstelling welke een antifolaat en methylmalonzuur verlagend middel bevat”). De aanvraag voor EP 508 werd ingediend op 15 juni 2001 met beroep op de prioriteitsdata 30 juni 2000 27 september 2000 en 18 april 2001 van een drietal Amerikaanse octrooiaanvragen. De verlening van EP 508 is gepubliceerd op 18 april 2007. Het octrooi is in Nederland van kracht tot en met 14 juni 2021. 
+
+
+2.4
+De onafhankelijke conclusies 1 en 12 van het octrooi luiden in de authentieke Engelse versie: 
+
+
+“1. Use of pemetrexed disodium in the manufacture of a medicament for use in combination therapy for inhibiting tumor growth in mammals wherein said medicament is to be administered in combination with vitamin B12 or a pharmaceutical derivative thereof said pharmaceutical derivative of vitamin B12 being hydroxocobalamin cyano-10-chlorocobalamin aquocobalamin perchlorate aquo-10-chlorocobalamin perchlorate azidocobalamin chlorocobalamin or cobalamin.
+
+ 
+
+
+12. A product containing pemetrexed disodium vitamin B12 or a pharmaceutical derivative thereof said pharmaceutical derivative of vitamin B12 being hydroxocobalamin cyano-10-chlorocobalamin aquocobalamin perchlorate aquo-10-chlorocobalamin perchlorate azidocobalamin chlorocobalamin or cobalamin and optionally a folic binding protein binding agent selected from the group consisting of folic acid (6R)-5-methyl-5678-tetrahydrofolic acid and (6R)-5-formyl-5678-tetrahydrofolic acid or a physiologically available salt or ester thereof as a combined preparation for the simultaneous separate or sequential use in inhibiting tumor growth.
+
+ 
+
+
+2.5
+In de Nederlandse vertaling luiden deze conclusies als volgt: 
+
+“1. Toepassing van pemetrexed dinatrium bij het bereiden van een geneesmiddel voor toepassing bij combinatietherapie voor het remmen van tumorgroei bij zoogdieren waarbij het geneesmiddel dient te worden toegediend in combinatie met vitamine B12 of een farmaceutisch derivaat daarvan waarbij het farmaceutisch derivaat van vitamine B12 hydroxocobalamine cyaan-10-chloorcobalamine aquocobalamine perchloraat aquo-10-chloorcobalamine perchloraat azidocobalamine chloorcobalamine of cobalamine is.
+ 
+
+
+12. Product dat pemetrexed dinatrium vitamine B12 of een farmaceutisch derivaat daarvan waarbij het farmaceutisch derivaat van vitamine B12 hydroxocobalamine cyaan-10-chloorcobalamine aquocobalamine perchloraat aquo-10-chloorcobalamine perchloraat azidocobalamine chloorcobalamine of cobalamine is en eventueel een foliumbindend eiwitbindend middel gekozen uit de groep bestaande uit foliumzuur (6R)-5-methyl-5678-tetrahydrofoliumzuur en (6R)-5-formyl-5678-tetrahydrofoliumzuur of een fysiologisch aanvaardbaar zout of ester daarvan als een gecombineerd preparaat voor gelijktijdige afzonderlijk of achtereenvolgend gebruik bij remmen van tumorgroei bevat.
+
+ 
+
+
+2.6
+In de authentieke Engelse versie van de beschrijving van het octrooi is onder meer het volgende opgenomen: 
+
+
+“[0002] Antifolates represent one of the most thoroughly studied classes of antineoplastic agents with aminopterin initially demonstrating clinical activity approximately 50 years ago. Methotrexate was developed shortly thereafter and today is a standard component of effective chemotherapeutic regimens for malignancies such as lymphoma breast cancer and head and neck cancer. (Bonnadonna G Zambetti M Valagussa P. Sequential or alternating doxorubicin and CMF regimens in breast cancer with more than three positive nodes: Ten year results. JAMA 1995;273(7):542-547; Bonnadonna G Valagussa P Moliterni A Zambetti M Brambilla C. Adjuvant cyclophosphamide methotrexate and fluorouracil in node-positive breast cancer: The results of 20 years of follow-up. N Engl J Med 1995;332(14):901-906; and Hong WK Schaefer S Issell B et al A prospective randomized trial of methotrexate versus cisplatin in the treatment of recurrent squamous cell carcinoma of the head and neck. Cancer 1983;52:206-210.) Antifolates inhibit one or several key folate-requiring enzymes of the thymidine and purine biosynthetic pathways in particular thymidylate synthase (TS) dihydrofolate reductase (DHFR) and glycinamide ribonucleotide formyltransferase (GARFT) by competing with reduced folates for binding sites of these enzymes. (Shih C Habeck LL Mendelsohn LG Chen VJ Schultz RM. Multiple folate enzyme inhibition: Mechanism of a novel pytrolopyrimidine-based antifolate LY231514 (MTA). Advan Enzyme Regul 1998; 38:135-152 and Shih C Chen VJ Gossett LS et al. LY231514 a pyrrolo[23-d]pyrimidine-based antifolaten that inhibits multiple folate-requiring enzymes. Cancer Res 1997;57:1116-1123.) Several antifolate drugs are currently in development. Examples of antifolates that have thymidylate synthase inhibiting ("TSI") characteristics include 5-fluorouracil and Tomudex®. An example of an antifolate that has dihydrofolate reductase inhibiting ("DHFRI'') characteristic is Methotrexate®. An example of an antifolate that has glycinamide ribonucleotide formyltransferase inhibiting (''GARFTI") characteristics is Lometrexol. Many of these antifolate drugs inhibit more than one biosynthetic pathway.
+
+
+For example Lometrexol is also an inhibitor of dihydrofolate reductase and pemetrexed disodium (Alimta® Eli Lilly and Company Indianapolis IN) has demonstrated thymidylate synthase dihydrofolate reductase and glycinamide ribonucleotide formyltransferase inhibition.
+
+ 
+
+
+(…)
+
+ 
+
+
+[0005] Surprisingly and unexpectedly we have now discovered that certain toxic effects such as mortality and nonhematologic events such as skin rashes and fatigue caused by antifolates as a class can be significantly reduced by the presence of a methylmalonic acid lowering agent as vitamin B12 without adverse adversely affecting therapeutic efficacy. The present invention thus generally relates to a use in the manufacture of a medicament for improving the therapeutic utility of antifolate drugs by administering to the host undergoing treatment with a methylmalonic acid lowering agent as vitamin B12. We have discovered that increased levels of methylmalonic acid is a predictor of toxic events in patients that receive an antifolate drug and that treatment for the increased methylmalonic acid such as treatment with vitamin B12 reduces mortality and nonhematologic events such as skin rashes and fatigue events previously associated with the antifolate drugs. Thus the present invention generally relates to a use in the manufacture of a medicament for reducing the toxicity associated with the administration of an antifolate to a mammal by administering to said mammal an effective amount of said antifolate in combination with a methylmalonic acid lowering agent as vitamin B12.
+
+
+[0006] Additionally we have discovered that the combination of a methylmalonic acid lowering agent as vitamin B12 and folic acid synergistically reduces the toxic events associated with the administration of antifolate drugs. Although the treatment and prevention of cardiovascular disease with folic acid in combination with vitamin B12 is known the use of the combination for the treatment of toxicity associated with the administration of antifolate drugs was unknown heretofore.
+
+ 
+
+
+(…)
+
+ 
+
+
+[0010] The invention specifically provides the use of the antifolate pemetrexed disodium in the manufacture of a medicament for use in combination therapy for inhibiting tumor growth in mammals wherein said medicament is to be administered in combination with a methylmalonic acid lowering agent selected from vitamin B12 and pharmaceutical derivatives thereof.
+
+ 
+
+
+(…)
+
+ 
+
+
+[0022] The terms "antifolate" and ''antifolate drug' generally refer to a chemical compound which inhibits at least one key folate-requiring enzyme of the thymidine or purine biosynthetic pathways preferably thymidylate synthase ("TS") dihydrofolate reductase ("DHFR") or glycinamide ribonucleotide formyltransferase ("GARFT") by competing with reduced folates for binding sites of these enzymes. The "antifolate" or ''antifolate drug" for use in this invention is Pemetrexed Disodium (ALIMTA0) as manufactured by Eli Lilly & Co.”
+
+ 
+
+
+(…)
+
+ 
+
+
+[0035] The animals were maintained on sterilized standard lab chow ad libitum and sterilized water ad libitum. The human MX-1 tumor cells (5 x 106) obtained from donor tumors were implanted subcutaneously in a thigh of female nude mice 8- to 1 0-weeks old. Beginning on day 7 post tumor cell implantation the animals were treated with pemetrexed disodium (ALIMTA®) (100 mg/kg or 150 mg/kg) once daily on days 7 through 11 and 14 through 18 by intraperitoneal injection alone or along with folic acid (6 mg/kg or 60 mg/kg) and/or vitamin B12 (165 mg/kg) by intraperitoneal injection on the same schedule.
+
+
+(...) 
+
+
+[0037] The human MX-1 breast carcinoma xenograft was responsive to treatment with pemetrexed disodium (ALIMTA®) with doses of 100 mg/kg and 150 mg/kg producing tumor growth delays of 17 days and 21 days respectively. Folic acid was administered to the animals alone at two doses 6 mg/kg and 60 mg/kg on the same schedule as pemetrexed disodium (ALIMTA®) and produced tumor growth delays of 7 days and 12 days respectively. Vitamin B12 administered alone at a dose of 165 mg/kg resulted in a tumor growth delay of 12 days. Combinations of pemetrexed disodium (ALIMTA®) at each of the two doses were administered along with each of the vitamins as simultaneous combination regimens. Administration of folic acid (6 mg/kg) along with pemetrexed disodium (ALlMTA®) did not alter the tumor growth delay produced from that obtained with pemetrexed disodium (ALlMTA®) alone. The addition of folic acid at the higher dose (60 mg/kg) along with each dose of pemetrexed disodium (ALIMTA®) resulted in small increases in tumor growth delay to 22 days and 23 days at the pemetrexed disodium (ALlMTA®) doses of 100 mg/kg and 150 mg/kg respectively. The tumor growth delays with pemetrexed disodium (ALIMTA®) and vitamin B12 (165 mg/kg) treatment were 22 days and 24 days at pemetrexed disodium (ALIMTA®) doses of 100 mg/kg and 150 mg/kg respectively. Body weight was used as a general measure of toxicity for each of the treatment regimens. The body weight loss pattern reflected the treatment regimens with weight decrease during the treatment times of days 7 through 11 and 14 through 18 with some weight recovery during the intervening two days. The weight loss due to pemetrexed disodium (ALIMTA®) was dose dependent but overall minor (3%). Folic acid alone at either 6 mg/kg or 60 mg/kg did not cause weight loss in fact folic acid treated animals maintained weight and gained weight over the course of the experiment better than the control animals. The animals treated with pemetrexed disodium (ALIMTA) (100 mg/kg) and folic acid (60 mg/kg) gained weight (about 20%) over the course of the experiment. 
+
+
+[0038] Administration of vitaminB12 did not prevent weight gain in the animals over the time course of the experiment. The animals treated with pemetrexed disodium (ALlMTA®) (100 mg/kg) along with vitamin B12 gained weight while those treated with pemetrexed disodium (ALlMTA®) (150 mg/kg) along with vitamin B12 maintained weight over the course of the experiment. 
+
+
+[0039] In conclusion administration of super-physiologic but non-toxic doses of the vitamins folic acid and vitamin B12 did not alter the antitum or activity of pemetrexed disodium (ALIMTA®) in the human MX-1 breast carcinoma xenograft tumor in nude mice and did not increase the toxicity of pemetrexed disodium (ALIMTA®) as determined by body weight measurements of the animals. 
+
+ 
+
+
+(…)
+
+ 
+
+
+[0045] In preparation for the foregoing clinical study pilot studies in humans have established that vitamin B12 given to patients receiving pemetrexed disodium (ALIMTA®) has effected reduced side effects due to the pemetrexed disodium (ALIMTA®). (…)”.
+
+ 
+
+
+2.7
+Het geregistreerde gebruik voor Alimta® betreft het gebruik van pemetrexed dinatrium in combinatie met vitamine B12 en foliumzuur voor de behandeling van maligne mesothelioom van de pleura en niet-kleincellig longcarcinoom. Dit in EP 508 door middel van tweede medische indicatie conclusies onder bescherming gestelde gebruik van  pemetrexed dinatrium (in ‘Swiss type’ conclusie 1 in combinatie met vitamine B12; in ‘EPC 2000’ conclusie 12 in combinatie met vitamine B12 en optioneel foliumzuur) is ontwikkeld nadat pemetrexed tijdens klinisch Fase III-onderzoek zoveel toxiciteit vertoonde dat het zelfs sterftegevallen tot gevolg had. 
+
+
+2.8
+Na de verlening van EP 508 is door Teva Pharmaceuticals Industry (hierna: Teva Pharmaceuticals) oppositie ingesteld bij het Europees Octrooibureau (hierna: EOB). De oppositieafdeling van het EOB heeft bij de mondelinge behandeling op 18 november 2010 de oppositie afgewezen en het octrooi in stand gelaten zoals verleend. Teva Pharmaceuticals heeft tegen de beslissing van de oppositieafdeling beroep aangetekend maar heeft dit beroep vervolgens eenzijdig ingetrokken. 
+
+
+2.9
+Fresenius maakt onderdeel uit van het Fresenius concern. Zij is eveneens actief op de geneesmiddelenmarkt en verhandelt wereldwijd diverse intraveneus toegediende geneesmiddelen. Een van deze geneesmiddelen betreft Pemetrexed Fresenius een geneesmiddel met als actieve stof (na oplossing) het pemetrexed anion. In Pemetrexed Fresenius zijn de anionen gebonden aan waterstofatomen en tromethaminegroepen waarmee het pemetrexed dizuur met tromethamine wordt gevormd. Pemetrexed Fresenius wordt voorgeschreven in combinatie met een vitaminesupplement dat bestaat uit foliumzuur oraal toegediend en vitamine B12 toegediend via intramusculaire injectie.  
+
+
+2.10
+Alimta® betreft een gevriesdroogd poeder waarvoor de hulpstoffen mannitol zoutzuur en natriumhydroxide worden gebruikt. In de Summary of Product Characteristics (hierna: SmPC)  is - onder meer - opgenomen dat Alimta® verdund dient te worden in een fysiologische zoutoplossing (ten behoeve van infusie). Voor de formulering van Pemetrexed Fresenius zijn deelfde hulpstoffen gebruikt als voor Alimta met dien verstande dat in plaats van natriumhydroxide de hulpstof tromethamine wordt gebruikt. In de SmPC van Pemetrexed Fresenium is - onder meer - opgenomen dat het geneesmiddel in poedervorm verdund dient te worden in een glucoseoplossing (ten behoeve van infusie). 
+
+
+2.11
+In het European Public Assessment Report (EPAR) voor Pemetrexed Fresenius zijn de volgende passages opgenomen (Productie EP8): 
+
+pagina 7: 
+ “The difference in active substance salt form between the applied product and the reference product is therefore not relevant for the clinical efficacy and safety of the ready to use infusion.” 
+ 
+
+pagina 8: 
+
+“The active substance in Fresenius Kabi’s Pemetrexed for Injection is pemetrexed diacid instead of pemetrexed disodium as in the originator product Alimta. Both products are intended for intravenous use and must be reconstituted and further diluted prior to use. When reconstituted and diluted for administration the active moiety remains the same irrespective of the salt form.” 
+ 
+
+pagina 10: 
+
+"The aim of the .pharmaceutical development was to develop a finished product generic to the reference medicinal product Alimta (Eli Lilly Nederland B.V). The active substance in Pemetrexed Fresenius Kabi is pemetrexed diacid instead of pemetrexed disodium (Alimta). Since the active moiety in the solution for infusion remains the same irrespective of the salt form used for manufacture it has no impact." 
+ 
+
+pagina 11: 
+
+"The excipients used in the formulation of Pemetrexed Fresenius Kabi are the same used in the reference product except sodium hydroxide which is replaced by trometamol. Trometamol is a known buffering agent I pH adjuster and solubilizer. " 
+ 
+
+pagina 12: 
+
+"No bioequivalence study was deemed required as the finished product is to be administered as an aqueous solution containing the same active substance in the same concentration as the reference product." 
+
+ 
+
+pagina 15: 
+
+"No bioequivalence studies have been submitted. Referring to the Guideline on the lnvestigation of Bioequivalence (CPMPIEWPIQWP/1401198 Rev. 1 Corr **) the applicant claims that a bioequivalence study is not required for this application since Pemetrexed 100 mg and 500 mg powder for concentrate for solution for infusion is to be administered as an aqueous intravenous solution containing the same active substance as the reference product Alimta powder for concentrate for solution for infusion. Different salts esters ethers isomers mixtures of isomers complexes or derivatives of an active substance are considered to be the same active substance unless they differ significantly in properties with regard to safety and/or efficacy.” 
+ 
+
+pagina 16: 
+
+"The active substance in Fresenius Kabi's Pemetrexed for injection is Pemetrexed diacid instead of Pemetrexed disodium as in Alimta 100 mgl 500 mg powder for concentrate for solution for infusion. When reconstituted and diluted for administration the active moiety remains the same irrespective of the salt form. Accordingly both medicinal products are considered to contain the same active substances. Trometamol is a known buffering agent I pH adjuster used in formulations available in Europe and US. lt is agreed that the quantity used in Fresenius Kabi's formulation is less than the required quantity to produce pharmacological action and would not be expected to cause any adverse effects of its own. The other excipients are well known and commonly used in aqueous intravenous solution available on the European market. The existing differences in the excipients of the applied product as compared to the reference product are not expected to have any significant impact in properties with regards to bioavailability pharmacokinetics safety and efficacy between these products." 
+ 
+
+
+2.12
+Binnen Europa lopen verschillende procedures tussen Lilly en Fresenius of andere aanbieders van generieke of hybride varianten van Alimta® wegens (niet-)inbreuk op buitenlandse delen van EP 508.  
+
+
+Verenigd Koninkrijk
+
+Actavis UK Limited c.s. (thans Teva) heeft in 2012 een niet-inbreukprocedure aanhangig gemaakt jegens Lilly voor de High Court. Zij verzocht een verklaring voor recht dat commercialisering van bepaalde zoutvormen van pemetrexed ( pemetrexed dikalium pemetrexed dizuur en pemetrexed ditromethamine) geen inbreuk maakt op EP 508 in het Verenigd Koninkrijk Italië Frankrijk en Spanje. De High Court heeft zichzelf bevoegd verklaard met betrekking tot de Franse Italiaanse en Spaanse octrooien. In zijn uitspraak van 15 mei 2014 heeft Justice Arnold (hierna: Arnold J) een verklaring van niet-inbreuk toegewezen waarbij hij overwoog dat de door Actavis genoemde producten direct noch indirect inbreuk maken op EP 508. 
+ 
+
+In hoger beroep heeft de Court of Appeal bij uitspraak van 25 juni 2015 (van Lord Justice Floyd met instemming van Kitchin LJ en Longmore LJ) de uitspraak van Arnold J onderschreven ten aanzien van het oordeel dat geen sprake is van directe inbreuk. De uitspraak van Arnold J is echter ten dele vernietigd met betrekking tot het oordeel over de indirecte inbreuk. Indien de door Actavis genoemde pemetrexed producten verdund worden in een saline-oplossing (met natriumchloride) is volgens de Court of Appeal sprake van indirecte inbreuk op EP 508. De vraag of ook sprake is van indirecte inbreuk wanneer wordt aangeraden dat het pemetrexed dizuur of het dikaliumzout verdund wordt in een dextroseoplossing is terugverwezen naar de High Court.
+De UKSC heeft bij uitspraak van 12 juli 2017 (met leading speech van Lord Justice Neuberger) geoordeeld dat de beschermingsomvang van EP 508 zich ook uitstrekt tot andere zouten dan pemetrexed dinatrium zodat de door Actavis genoemde pemetrexed producten directe inbreuk maken op EP 508.
+ 
+
+
+Duitsland
+
+Lilly is jegens Actavis (thans: Teva) een inbreukprocedure gestart. In een uitspraak van 3 april 2014 heeft het Landgericht Düsseldorf geoordeeld dat pemetrexed dikalium (van Actavis) als equivalent directe inbreuk maakt op het Duitse deel van EP 508. In hoger beroep heeft het Oberlandesgericht Düsseldorf bij uitspraak van 5 maart 2015 geoordeeld dat de beschermingsomvang van EP 508 beperkt is tot pemetrexed dinatrium zodat gebruik van pemetrexed dikalium geen directe inbreuk oplevert ook niet op basis van equivalentie. In cassatie heeft het Bundesgerichtshof (hierna: BGH) bij arrest van 14 juni 2016 de zaak terugverwezen naar het Oberlandesgericht Düsseldorf omdat het BGH van oordeel was dat het Oberlandesgericht de Duitse equivalentieleer niet correct had toegepast. Het Oberlandesgericht Düsseldorf heeft in die zaak een deskundige benoemd. 
+ 
+
+Lilly heeft jegens Ratiopharm (onderdeel van de Teva groep) een ex parte verbod gevorderd welk verbod op 6 april 2016 door het Landgericht München is toegewezen. Op 24 juni 2016 heeft het Landgericht München na een inter partes zitting het voorlopig verbod gehandhaafd oordelend dat Ratiopharms pemetrexed dizuur als equivalent directe inbreuk maakt op EP 508. Het Oberlandesgericht München heeft bij uitspraak van 18 mei 2017 in hoger beroep het besluit van het Landgericht München in stand gehouden.
+ 
+
+Eind november 2016 heeft het Landgericht München bij voorlopige voorziening een ex parte inbreukverbod opgelegd aan Fresenius met betrekking tot Pemetrexed Fresenius op basis van directe inbreuk op het Duitse deel van EP 508 op grond van equivalentie.  
+ 
+
+
+Zwitserland
+
+Het Bundespatentgericht heeft bij uitspraak van 9 maart 2017 een door Actavis gevorderde verklaring van niet-inbreuk voor de pemetrexed producten (dikalium ditromethamine of dizuur) toegewezen. Op 20 oktober 2017 heeft het Bundesgericht de hoogste Zwitserse rechter in hoger beroep de beslissing van het Bundespatentgericht vernietigd en geoordeeld dat het door Actavis op de markt gebrachte product Amtiris® (wat hetzelfde product is als Armisarte®) inbreuk maakt op EP 508. Het Bundesgericht heeft de zaak terug verwezen naar het Bundespatentgericht om te beoordelen of ook de twee producten die Actavis niet op de markt heeft gebracht pemetrexed dikalium en pemetrexed ditromethamine als gevriesdroogd product (wat hetzelfde product is als dat van Fresenius) inbreuk maken op EP 508. Op 21 december 2017 heeft het Bundespatentgericht geoordeeld dat ook deze producten inbreuk maken op EP 508.
+ 
+
+
+Denemarken
+
+Op 8 december 2017 heeft de Deense Maritieme en Commerciële rechtbank een door Lilly gevorderd voorlopig inbreukverbod tegen Fresenius Kabi toegewezen.  
+ 
+
+
+Oostenrijk
+
+Na eerdere afwijzing van een door Lilly verzocht ex parte verbod heeft de rechtbank op 22 december 2017 in een inter partes procedure een verbod aan Fresenius Kabi opgelegd.  
+ 
+
+
+Finland
+
+Op 29 december 2017 heeft de Finse rechter op verzoek van Lilly een inbreukverbod tegen Actavis en Ratiopharm toegewezen.
+ 
+
+
+Zweden
+
+Op 31 januari 2018 heeft de Zweedse rechter het door Lilly gevorderde inbreukverbod tegen Actavis toegewezen. 
+ 
+
+
+Italië
+
+In de door Fresenius bij de rechtbank Milaan tegen Lilly aanhangig gemaakte kort gedingprocedure tot verkrijging van een verklaring voor recht van niet-inbreuk heeft de rechtbank bij uitspraak van 10 september 2017 geoordeeld dat Fresenius met haar pemetrexed-product geen inbreuk maakt op EP 508. In het aanhangige hoger beroep is nog niet beslist.
+ 
+
+
+2.13
+De marktvergunning voor Pemetrexed Fresenius is verleend op 22 juli 2016  
+
+
+2.14
+Fresenius heeft Pemetrexed Fresenius laten opnemen in de zogenaamde G-standaard van februari 2017 die op 17 januari 2017 is gepubliceerd. Enige tijd daarna heeft Fresenius het geneesmiddel op de Nederlandse markt gebracht.  
+
+
+2.15
+Lilly heeft bij dagvaarding van 23 mei 2017 een bodemprocedure aanhangig gemaakt tegen Fresenius. De zaak staat voor pleidooi op 1 juni 2018.  
+
+
+2.16
+Sandoz B.V. aan wie bij vonnis van de voorzieningenrechter in de rechtbank Den Haag van 1 maart 2017 een verbod is opgelegd om het generieke pemetrexed dinatrium te verhandelen heeft een nietigheidsvordering met betrekking tot EP 508 ingesteld bij de rechtbank Den Haag. In die zaak is (thans) vonnis bepaald op 23 mei 2018.  
+
+
+2.17
+Antifolaten zijn antineoplastische middelen dat wil zeggen dat zij de vorming van (kanker)gezwellen tegengaan. Kankercellen zijn snelgroeiende cellen en hebben een grote vraag naar bouwstenen voor DNA zoals folaten. Hierdoor zijn zij gevoelig voor de effecten van antifolaten. Het lichaam bevat tevens snelgroeiende normale (gezonde) cellen zoals cellen in het beenmerg en cellen in het maagdarmkanaal. Hierdoor zijn ook dergelijke normale cellen gevoelig voor de effecten van antifolaten. Antifolaten maken geen onderscheid tussen gezonde cellen en kankercellen. Dit brengt met zich dat het mechanisme van antifolaten waardoor kankercellen worden gedood ook leidt tot het doden van normale cellen waardoor significante toxiciteit kan ontstaan en zelfs sterfte kan optreden.  
+
+
+2.18
+De stof pemetrexed is een antifolaat en was op de prioriteitsdatum bekend. Ook was bekend dat zoutvormen van pemetrexed konden worden vervaardigd waaronder het door Lilly vervaardigde pemetrexed dinatrium. Deze zoutvorm werd op de prioriteitsdatum toegepast in klinisch onderzoek bij de behandeling van kanker bij mensen. Tijdens dat klinisch onderzoek werd de toxiciteit van pemetrexed aanvankelijk verdraagbaar en beheersbaar geacht maar later bleek dat bij een aantal patiënten toch sprake was van zeer ernstige bijwerkingen.  
+
+
+2.19
+De moleculaire structuren van pemetrexed dizuur Alimta® en Pemetrexed Fresenius zien er als volgt uit: 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+pemetrexed dizuur				Alimta® (pemetrexed dinatrium)
+ 
+
+
+
+
+
+
+Pemetrexed Fresenius (pemetrexed dizuur met tromethamine) 
+ 
+
+Het anion pemetrexed is in groen afgebeeld. 
+ 
+
+
+2.20
+Op de prioriteitsdatum was de vakman er mee bekend dat alleen het pemetrexed anion verantwoordelijk is voor de biologische activiteit van pemetrexed. Het is echter niet mogelijk een toedieningsvorm te vervaardigen met als actieve stof het anion; men kan alleen neutrale stoffen hanteren en dat impliceert de aanwezigheid van een kation (een positief geladen deeltje waarmee pemetrexedzout wordt gevormd) of waterstof (waarmee pemetrexed dizuur wordt gevormd). Het kation/waterstof is hierboven in rood weergegeven. In een waterige oplossing (ten behoeve van intraveneuze toediening) worden de kationen van de rest van het molecuul gescheiden en resteert het anion.  
+
+
+2.21
+De zoutvorm kan van invloed zijn op bijvoorbeeld de oplosbaarheid en de chemische opslagstabiliteit van pemetrexed en daarmee van invloed op de praktische bruikbaarheid als geneesmiddel. De geschiktheid van een zoutvorm kan worden vastgesteld door een zoutenonderzoek (‘salt screening’).  
+
+
+
+
+3 Het geschil in eerste aanleg en in hoger beroep   
+
+3.1
+In eerste aanleg heeft Lilly gevorderd dat de voorzieningenrechter Fresenius verbiedt inbreuk te maken op het Nederlandse deel van EP 508 met nevenvorderingen en op straffe van dwangsommen met veroordeling van Fresenius in de volledige proceskosten ex artikel 1019h van het Wetboek van Burgerlijke Rechtsvordering (hierna: Rv) een en ander voor zover mogelijk uitvoerbaar bij voorraad. Zij heeft daartoe aangevoerd dat Pemetrexed Fresenius onder de beschermingsomvang valt van EP 508.  
+
+
+3.2
+De voorzieningenrechter heeft het inbreukverbod toegewezen alsmede een deel van de gevorderde opgave. De gevorderde recall en rectificatie zijn afgewezen. 
+
+
+3.3
+Met haar grieven beoogt Fresenius het geschil voor zover betrekking hebbend op de toegewezen vorderingen in volle omvang aan het hof voor te leggen.  
+
+
+3.4
+Bij memorie van antwoord heeft Lilly haar vordering betreffende de opgave gewijzigd in die zin dat zij thans opgave verlangt binnen 14 dagen (in plaats van 7) na betekening zulks vanwege de door de voorzieningenrechter aan Fresenius gegunde termijn van 14 dagen na betekening voordat het verbod van inbreuk van kracht is geworden.  
+
+
+
+
+4 Beoordeling  
+
+4.1
+De vraag die partijen verdeeld houdt is of Pemetrexed Fresenius onder de beschermingsomvang van EP 508 valt. Bij de beantwoording van die vraag stelt het hof het volgende voorop.  
+
+
+4.2
+Ter zake de uitleg van een octrooiconclusie teneinde de beschermingsomvang ervan vast te stellen heeft de Hoge Raad in het arrest Medinol / Abbott (HR 4 april 2014 ECLI:NL:HR:2014:816) onder meer als volgt overwogen (in r.o. 3.4.2.): 
+
+
+Art. 69 lid 1 Europees Octrooi-verdrag (EOV) houdt in dat de beschermingsomvang van een octrooi wordt bepaald door de conclusies van het octrooischrift waarbij de beschrijving en de tekeningen dienen tot uitleg van die conclusies. Art. 1 van het bij art. 69 EOV behorende uitlegprotocol (hierna: het Protocol) luidt: “Artikel 69 mag niet worden uitgelegd in de zin als zou de beschermingsomvang van het Europees octrooi worden bepaald door de letterlijke tekst van de conclusies en als zouden de beschrijving en de tekeningen alleen maar mogen dienen om de onduidelijkheden welke in de conclusies zouden kunnen voorkomen op te heffen. Het mag evenmin worden uitgelegd in die zin als zouden de conclusies alleen als richtlijn dienen en als zou de bescherming zich ook mogen uitstrekken tot datgene wat de octrooihouder naar het oordeel van de deskundige die de beschrijving en de tekeningen bestudeert heeft willen beschermen. De uitleg moet daarentegen tussen deze twee uitersten het midden houden waarbij zowel een redelijke bescherming aan de aanvrager als een redelijke rechtszekerheid aan derden wordt geboden. “In overeenstemming met deze uitlegregel van het Protocol heeft de Hoge Raad de in zijn eerdere uitspraken gebezigde formuleringen “hetgeen voor de uitvinding waarvan de bescherming wordt ingeroepen wezenlijk is” onderscheidenlijk “de achter de woorden van die conclusies liggende uitvindingsgedachte” bestempeld als gezichtspunt tegenover de letterlijke tekst van de conclusies (de “uitersten” in de woorden van het Protocol) (vgl. HR 7 september 2007 ECLI:NL:HR:2007:BA3522 NJ 2007/466 en HR 25 mei 2012 ECLI:NL:HR:2012:BV3680 NJ 2013/68). Daarbij dient het achterhalen van de achter de woorden van de conclusies liggende uitvindingsgedachte ertoe een uitsluitend op de letterlijke betekenis van de bewoordingen gegronde en daarom voor een redelijke bescherming van de octrooihouder wellicht te beperkte of onnodig ruime uitleg te vermijden (vgl. HR 13 januari 1995 ECLI:NL:HR:1995:ZC1609 NJ 1995/391). De beschrijving en de tekeningen vormen in dat kader een belangrijke bron. Van de beschrijving maakt onderdeel uit een weergave van de stand van de techniek die de aanvrager als nuttig beschouwt voor het begrijpen van de uitvinding (regel 42 van het uitvoeringsreglement bij het EOV). Ook niet in de beschrijving genoemde stand van de techniek kan van belang zijn. Bij de uitleg van een octrooi is immers leidend het perspectief van de gemiddelde vakman met zijn kennis van de stand van de techniek.	
+ 
+
+
+4.3
+Bij het vaststellen van de beschermingsomvang dient op grond van artikel 2 van het Protocol voorts op passende wijze rekening te worden gehouden met elk element dat equivalent is aan een in de conclusies omschreven element. 
+
+
+4.4
+Zoals de voorzieningenrechter met juistheid heeft overwogen geldt aangaande de te hanteren peildatum voor de beoordeling van inbreuk dat onderscheiden dient te worden tussen enerzijds de vraag naar de uitleg van het octrooi met het oog op de vaststelling van de beschermingsomvang daarvan en anderzijds de daarop volgende vraag of een voortbrengsel (of in voorkomend geval: werkwijze) onder de aldus vastgestelde beschermingsomvang valt.  
+
+
+4.5
+In het kader van de uitleg en vaststelling van de beschermingsomvang van de conclusie(s) van een octrooi kunnen diverse gezichtspunten een rol spelen zoals de achter de woorden van de conclusies liggende uitvindingsgedachte de rechtszekerheid voor derden en de aard van het concrete geval waaronder de mate waarin de uitvinding vernieuwing heeft gebracht (zie r.o. 3.3.1 van HR 13 januari 1995 inzake Ciba Geigy / Oté Optics ECLI:NL:HR:1995:ZC1609; r.o. 3.3. van HR 7 september 2007 inzake Lely / Delaval ECLI:NL:HR:2007:BA3522; r.o. 4.2.2. van HR 25 mei 2012 inzake AGA / Occlutech ECLI:NL:HR:2012:BV3680; r.o. 3.4.2. van het arrest Medinol / Abbott geciteerd in 4.2 hiervoor en r.o. 3.3.5. van HR 5 februari 2016 inzake Bayer / Sandoz ECLI:NL:HR:2016:196).  
+
+
+4.6
+Bij het achterhalen van de uitvindingsgedachte gaat het om de vaststelling van hetgeen het octrooi toevoegt aan de stand van de techniek en is het perspectief van de gemiddelde vakman en diens kennis van de stand van de techniek op de prioriteitsdatum richtinggevend (vgl. HR in Medinol / Abbott r.o. 3.5.2). Daarnaast vormen de beschrijving en de tekeningen een belangrijke bron voor het achterhalen van de uitvindingsgedachte (vgl. HR in Medinol / Abbott r.o. 3.4.2 in 4.2 hiervoor geciteerd).  
+
+
+4.7
+In het kader van de inbreukvraag kan mede betekenis worden gehecht aan de kennis van de gemiddelde vakman ten tijde van de beweerde inbreuk in het bijzonder waar het erom gaat of sprake is van equivalente elementen (vergelijk artikel 2 van het Protocol). 
+
+
+4.8
+Ter zake van het beschermen van equivalenten heeft de Hoge Raad in het Bayer / Sandoz arrest onder meer overwogen: 
+
+3.3.6
+
+Voor zover onderdeel 1.1.1 het hof verwijt de regel te hebben miskend dat de maatstaf voor het niet beschermen van equivalente maatregelen daarin gezocht moet worden dat een goede grond ervoor moet bestaan dat de octrooihouder afstand heeft gedaan van die bescherming hoewel hij die had kunnen verkrijgen gaat het uit van een opvatting die geen steun vindt in het recht. Het hof heeft terecht onderzocht of de gemiddelde vakman uit conclusie 1 van EP 791 zou begrijpen dat de octrooihouder in de oxidatiestap een bewuste keuze heeft gemaakt voor het gebruik van rutheniumzout als katalysator. Daartoe heeft het hof in aanmerking genomen: de inhoud van het octrooi de stand van de techniek het met de geoctrooieerde werkwijze beoogde doel de bijkomende voordelen van die werkwijze de kennis van het bestaan van de betrokken stoffen de aard van en de verhouding tussen die stoffen alsmede de mate en wijze waarin zij tot het beoogde resultaat leiden dit alles vanuit het perspectief van de gemiddelde vakman. Het wegen van al deze omstandigheden heeft het hof tot het oordeel gebracht (samengevat in rov. 4.20) dat Bayer bewust voor rutheniumzout heeft gekozen zodat het gebruik van tempo als katalysator geen inbreuk maakt op EP 791. Dit oordeel berust op een aan het hof voorbehouden weging van relevante factoren en is niet onbegrijpelijk of ontoereikend gemotiveerd.
+ 
+
+
+3.3.7
+
+Onderdeel 1.1.2 ziet om te beginnen eraan voorbij dat uit rov. 4.19 volgt dat naar het oordeel van het hof voor de gemiddelde vakman tempo niet een stof was waarmee hetzelfde resultaat bereikt kon worden als met rutheniumzout zodat reeds daarom niet van equivalentie sprake kan zijn. Voorts miskent het dat het bij de hier aan de orde zijnde vraag erom gaat of in de perceptie van de gemiddelde vakman de conclusies gelezen in het licht van de beschrijving en de tekeningen ruimte laten voor equivalenten gelet op enerzijds een adequate bescherming van de octrooihouder en anderzijds de rechtszekerheid voor derden. Daarbij speelt de wil of de bedoeling van de aanvrager om van die bescherming afstand te doen geen beslissende rol. Voor het overige bouwen de klachten van onderdeel 1.1.2 evenals die van onderdeel 1.1.3 voort op die van onderdeel 1.1.1 zodat die het lot daarvan moeten delen.
+ 
+
+
+
+4.9
+Partijen verschillen van mening over de vraag wie heeft te gelden als de gemiddelde vakman. Lilly meent dat de gemiddelde vakman dient te worden omschreven als een oncoloog met gespecialiseerde farmacologische kennis over en ervaring met het gebruik van antifolaten voor de behandeling van tumoren. Fresenius meent dat de gemiddelde vakman tevens chemische kennis moet worden toegedicht. Hoewel Lilly kan worden nagegeven dat het octrooi niet ziet op de ontwikkeling van een nieuwe chemische stof maar in wezen op een combinatietherapie (via de constructie van tweede medische indicatie conclusies in verband met de uitsluiting van octrooibescherming voor een geneeskundige behandelmethode) volgt het hof het standpunt van Fresenius. Zoals zij onbestreden heeft aangevoerd kan de (zout)vorm waarin het antifolaat pemetrexed wordt toegediend immers wel van invloed zijn op bijvoorbeeld de stabiliteit en oplosbaarheid en daarmee op de therapeutische werkzaamheid van het farmaceutisch preparaat. Aldus dient de gemiddelde vakman tevens chemische kennis te worden toegedicht over de formulering van geneesmiddelen. Daarom moet de gemiddelde vakman naar het oordeel van het hof worden geacht te bestaan uit een team waarvan zowel een oncoloog zoals hiervoor omschreven als ook een chemicus / formuleringsdeskundige deel uitmaakt.    
+
+
+4.10
+De onafhankelijke conclusies van EP 508 betreffen tweede medische indicatie conclusies in zogenoemde EPC 2000 vorm respectievelijk Swiss Type vorm. Beide conclusies ontlenen nieuwheid en inventiviteit niet aan de stof pemetrexed dinatrium die immers reeds bekend was maar aan de nieuwe therapeutische toepassing ervan in dit geval door toediening in combinatie met vitamine B12 (en optioneel foliumzuur). De gemiddelde vakman zal bij lezing van de beschrijving onderkennen dat de uitvinding daarop ziet dat door het gebruik van vitamine B12 (en optioneel foliumzuur) in combinatie met het antifolaat pemetrexed de ernstige toxische bijwerkingen van de pemetrexed anionen verminderen terwijl de werkzaamheid van de pemetrexed anionen bij het remmen van tumorgroei behouden blijft. In dat inzicht is de uitvindingsgedachte van EP 508 gelegen. Deze ‘algemene leer’ van het octrooi blijkt duidelijk uit de paragrafen 5 en 6 van de beschrijving die evenzeer maar niet alleen zien op de toepassing van de in paragraaf 10 specifiek geduide dinatrium zoutvorm.   
+
+
+4.11
+In aanmerking genomen dat de vakman weet dat alleen het anion verantwoordelijk is voor de werkzaamheid (en toxiciteit) van pemetrexed vindt hij bovendien bevestiging voor het inzicht dat de uitvinding veeleer betrekking heeft op de actieve vorm van pemetrexed na toediening ervan en niet op de specifieke daarin geopenbaarde dinatrium zoutvorm in de beschrijving van het muismodel (in paragrafen 35-39 van de beschrijving van EP 508). Naar de partijdeskundige aan de zijde van Lilly prof. Smit onvoldoende gemotiveerd weersproken heeft verklaard (par. 8) – is de genoemde hoeveelheid toegediende stof hoewel aangeduid als pemetrexed dinatrium uitgedrukt in het gewicht van alleen de hoeveelheid actieve stof dus van de pemetrexed anionen zónder het gewicht van de natrium ionen.      
+
+
+4.12
+De gemiddelde vakman zal inzien dat de conclusies van EP 508 beperkter zijn geformuleerd dan waartoe de uitvindingsgedachte aanleiding geeft omdat alleen de pemetrexed dinatrium zoutvorm wordt geclaimd. Vast staat dat pemetrexed dizuur met tromethamine chemisch niet hetzelfde is als pemetrexed dinatrium (zie 2.19 hiervoor). De vraag die derhalve voorligt is of de conclusies van EP 508 aldus moeten worden uitgelegd mede in aanmerking genomen equivalenten zoals voorgeschreven door artikel 2 van het Protocol dat pemetrexed dizuur met tromethamine niettemin binnen de beschermingsomvang van de conclusies van EP 508 valt. Het hof oordeelt daarover als volgt.  
+
+
+4.13
+Fresenius erkent dat ‘de uitvindingsgedachte onder omstandigheden door de tekst van de conclusie heen [kan] breken’ (paragraaf 11 pleitnota HB) maar zij stelt dat daarvan geen sprake kan zijn als derden hadden mogen veronderstellen dat Lilly bewust voor dinatrium heeft gekozen. Zij verwijst voor die beperkende ‘bewuste keuze’ voorwaarde naar het voornoemde Bayer / Sandoz arrest van de Hoge Raad en de conclusie van A-G Van Peursem in de rosuvastatine-zaak (ECLI:NL:PHR:2017:1282).  
+
+
+4.14
+Het Hof stelt voorop dat uit het Bayer / Sandoz arrest van de Hoge Raad gelezen in samenhang met de in cassatie bestreden overwegingen van het hof volgt dat ‘bewuste keuze’ als bedoeld in dat arrest moet worden begrepen als ‘bewuste keuze die technische voordelen biedt (zie rov. 4.20 van het hof-arrest in Bayer / Sandoz) of ruimer geformuleerd als ‘bewuste keuze die op een technische reden is gebaseerd’ waarbij onder ‘technische reden’ alle redenen van technische aard moeten worden verstaan ook indien die niets van doen hebben met de uitvindinggedachte. Wanneer bijvoorbeeld in een octrooiconclusie voor een inventieve constructie is voorgeschreven dat de onderdelen daarvan bijeen worden gehouden door schroeven dan zal in het geval dat op de plaats van montage een aanzienlijk gewicht wordt uitgeoefend de vakman menen dat specifiek schroeven en niet ook spijkers zijn bedoeld. Voor het toepassen van schroeven bestaat dan een technische reden namelijk dat die beter gewicht kunnen dragen dan spijkers zodat aangenomen moet worden dat bewust voor schroeven is gekozen. Wanneer de situatie op de plaats van montage echter zodanig is dat het technisch gezien niet uitmaakt of schroeven of spijkers worden gebruikt dan is er geen technische reden om specifiek schroeven voor te schrijven en kan geen bewuste keuze daarvoor worden aangenomen. Van een beperkende voorwaarde als hiervoor in 4.12 bedoeld kan derhalve sprake zijn als er voor de gemiddelde vakman (op grond van bijvoorbeeld zijn algemene vakkennis of gebaseerd op de beschrijving) kenbaar technische overwegingen ten grondslag hebben gelegen aan de formulering van (een) conclusie(s) met een beperktere beschermingsomvang dan die waarop indachtig het gezichtspunt van de uitvindingsgedachte aanspraak had kunnen worden gemaakt.  
+
+
+4.15
+Fresenius heeft aangevoerd dat Lilly een ‘farmaceutische grootmacht’ is waarvan moet worden aangenomen dat zij haar beslissingen weloverwogen neemt zodat de gemiddelde vakman er vanuit zal gaan dat de redactie van de conclusies van EP 508 berust op een bewuste keuze. Wat daarvan verder zij de enkele status van ‘farmaceutische grootmacht’ is onvoldoende voor het aannemen van een voor de gemiddelde vakman kenbare technische reden voor het opnemen van de tot de dinatrium zoutvorm beperkte conclusies in EP 508. Datzelfde geldt voor het niet opnemen in de conclusies van een zinsnede als ‘or another therapeutically acceptable salt form of pemetrexed’. Nog daargelaten dat geenszins zeker is dat een dergelijke toevoeging door de Examiner zou zijn geaccepteerd (aangezien voor ‘permetrexed’ al geen basis aanwezig werd geacht en geen enkele andere zoutvorm dan dinatrium in de oorspronkelijke aanvrage was geopenbaard zie 4.25 e.v. hierna) maakt het enkele niet opnemen van zo’n zinsnede voor de gemiddelde vakman niet inzichtelijk welke technische reden Lilly voor de keuze voor dinatrium zou hebben gehad. Dat dergelijke bredere of rekkelijke definities wel zijn opgenomen in relatie tot vitamine B12 en foliumzuur of in andere octrooien van Lilly maakt dat niet anders.   
+
+
+4.16
+Anders dan Fresenius heeft aangevoerd kan naar het oordeel van het hof evenmin een op een technische reden gebaseerde bewuste keuze voor specifiek alleen pemetrexed dinatrium worden afgeleid uit de beschrijving.  
+
+
+4.17
+Het antifolaat pemetrexed als zodanig was op de prioriteitsdatum reeds bekend. Het behoorde voorts op de prioriteitsdatum tot de algemene vakkennis van de gemiddelde vakman dat het werkzame bestanddeel verantwoordelijk voor de remming van tumorgroei én de toxiciteit van het antifolaat pemetrexed het anion is maar dat toediening ervan dient te geschieden in zuur- of zoutvorm omdat het niet mogelijk is een poeder of concentraat te maken van een anion (zie r.o. 2.20 hiervoor). Het was zoals hiervoor reeds overwogen evenzeer algemene vakkennis op die datum dat de vorm waarin de pemetrexed anionen worden toegediend van invloed kan zijn op de werkzaamheid van een farmaceutisch preparaat omdat het onder meer de stabiliteit en oplosbaarheid ervan beïnvloedt. Een zoutenonderzoek (salt-screening) is een routinematig onderzoek dat binnen het bereik ligt van de gemiddelde vakman om uit te vinden welke zoutvorm(en) (het meest) geschikt is / zijn zoals Lilly onder verwijzing naar de verklaringen van haar partijdeskundigen en rechtspraak van de kamers van beroep van het EOB heeft aangevoerd en door Fresenius en haar partijdeskundige prof. Dr. H. Vromans niet voldoende gemotiveerd bestreden. De partijdeskundige leidt uit het specifiek genoemd zijn van de dinatrium zoutvorm in de conclusies en de beschrijving af dat specifiek daarvoor is gekozen evenwel zonder duidelijk te maken waarom hij aanneemt dat aan die keuze een technische reden ten grondslag heeft gelegen. Dat op voorhand onvoorspelbaar was of de zuurvorm of andere zoutvormen geschikt zijn is in dat opzicht niet voldoende zoals hierna (in 4.19 e.v.) uiteengezet. Dat in het stofoctrooi voor pemetrexed is vermeld dat verschillende zoutvormen mogelijk zijn en dat particularly the disodium salts are advantageous’ acht het hof in dat opzicht evenzeer onvoldoende omdat daaruit niet blijkt op grond waarvan die voorkeur zou bestaan (over de farmacologische eigenschappen en werkzaamheid van de verschillende zoutvormen openbaart dat stofoctrooi niets) en al helemaal niet waarom die zoutvorm specifiek voordelig zou zijn voor toepassing bij de door EP 508 door middel van tweede medische indicatie conclusies onder bescherming gestelde combinatietherapie.  
+
+
+4.18
+Het was naar beide partijen stellen voorts algemene vakkennis dat er ook andere kationen dan natrium in aanmerking kwamen om een pemetrexedzout mee te vormen. In de beschrijving vindt de gemiddelde vakman evenwel geen aanwijzing dat er speciaal is gezocht naar (de meest) geschikte zouten van pemetrexed. De stabiliteit oplosbaarheid absorptie of andere voor de formulering en werkzaamheid van een geneesmiddel relevante aspecten worden in de beschrijving van EP 508 niet beschreven voor dinatrium en andere zoutvormen worden niet geopenbaard. Anders dan Fresenius heeft aangevoerd zal de gemiddelde vakman daarom niet veronderstellen dat aan de keuze voor natrium een zoutenonderzoek ten grondslag heeft gelegen. Dat geldt temeer omdat het voor de voor de gemiddelde vakman gelet op de uitvindingsgedachte van EP 508 duidelijk is dat de uitvinding ook niet ziet op het vinden van de (meest) geschikte pemetrexed zoutvorm.   
+
+
+4.19
+Aan Fresenius kan worden toegegeven dat op voorhand onvoorspelbaar was (en in die zin op de prioriteitsdatum dus niet voorzienbaar) of een bepaald pemetrexedzout of het pemetrexed dizuur in die zin zou werken dat deze voldoende stabiel is (in het bijzonder tijdens opslag) en voldoende oplosbaar om de anionen in voldoende mate beschikbaar te maken en aldus voldoende therapeutische werking te hebben. De gekozen vorm waarin de pemetrexed anionen in het lichaam worden gebracht kan daarop van invloed zijn zoals de partij-deskundigen aan de zijde van Fresenius ook hebben verklaard. Dat betekent echter nog niet dat de gemiddelde vakman er reeds daarom van uitging dat Lilly een zoutenonderzoek had uitgevoerd en/of om die reden bewust voor een beperking tot de dinatrium zoutvorm had gekozen.  
+
+
+4.20
+Vanzelfsprekend zou de gemiddelde vakman op grond van de beschrijving vanwege de daarin beschreven onderzoeken begrijpen dat dinatrium een geschikte zoutvorm is maar er was geen reden voor hem om aan te nemen dat de zuurvorm of een of meer andere zoutvormen niet geschikt zouden kunnen zijn – welke geschiktheid hij door routinematig een zoutenonderzoek te doen zou kunnen vaststellen – dan wel dat de dinatrium zoutvorm vanwege daaraan verbonden voordelen bij uitstek geschikt zou zijn. Uit de beschrijving blijkt niet dat er enige specifieke betekenis toekomt aan de keuze voor natrium als kation / tegenion. De gemiddelde vakman leest in de beschrijving dat pemetrexed dinatrium tijdens de klinische studies intraveneus is toegediend en begrijpt daaruit dat de ionen vóór toediening in die oplossing zullen zijn gedissocieerd en dat de natriumionen voor de werkzaamheid van het antifolaat pemetrexed verder geen betekenis hebben. Verder leest de gemiddelde vakman in de beschrijving niet dat de gekozen zoutvorm enige invloed heeft op de gecombineerde toediening van de werkzame pemetrexed anionen met vitamine B12 (en optioneel foliumzuur). EP 508 ziet op het tegengaan van de toxische effecten van de pemetrexed anionen die optreden ongeacht de vorm waarin die anionen zijn toegediend en na oplossing beschikbaar zijn gekomen. Aan het kation komt in dat opzicht geen enkele betekenis toe.  
+
+
+4.21
+Met het standpunt van Fresenius dat de gemiddelde vakman gewicht zal toekennen aan het geselecteerde zout omdat het pemetrexed anion nu eenmaal een zout nodig heeft om in de bloedbaan terecht te komen miskent zij dat de gemiddelde vakman zoals hiervoor overwogen zal inzien dat het nodig is dat de pemetrexed anionen gebonden zijn aan waterstofatomen dan wel kationen om daarmee het dizuur of een zout te vormen teneinde een hanteerbaar geneesmiddel te verkrijgen maar dat aan de keuze voor natrium ionen geen technische relevantie toekomt. Hij weet dat hij niet met zekerheid vooraf kan voorspellen of de zuurvorm en welke zoutvormen geschikt zijn maar ook dat hij dit wel door middel van routinematig onderzoek kan vaststellen.  
+
+
+4.22
+Naar het oordeel van het hof zou de gemiddelde vakman inzien dat de dinatrium zoutvorm niet vanwege enig specifiek aan die zoutvorm verbonden technisch voordeel of uit een zoutenonderzoek gebleken technische geschiktheid in de beschrijving is genoemd (waarvoor de beschrijving immers ook geen aanwijzing bevat) maar veeleer omdat de dinatrium zoutvorm nu eenmaal voorhanden was. In paragraaf 2 van de beschrijving wordt pemetrexed dinatrium aangeduid met de merknaam Alimta® afkomstig van Lilly genoemd als voorbeeld van een antifolaat dat meerdere biosynthetische routes blokkeert. In paragrafen 35-39 wordt een muis-model beschreven waarbij pemetrexed dinatrium is toegediend in combinatie met vitamine B12 en/of foliumzuur. In paragraaf 45 is vermeld dat ter voorbereiding van klinische studies pilot studies zijn gedaan door toediening van pemetrexed dinatrium. Daarbij is achter ‘pemetrexed dinatrium’ steeds de merknaam Alimta® vermeld. In paragraaf 22 van het octrooi is vermeld: “The “antifolate” or “antifolate drug” for use in this invention is Pemetrexed Disodium (ALIMTA®) as manufactured by Eli Lilly & Co.” Uit die vermeldingen van de merknaam en de octrooihouder als fabrikant zal de gemiddelde vakman begrijpen dat van dit bestaande Alimta-product gebruik is gemaakt in de onderzoeken die hebben geleid tot de uitvinding en dat de kennelijke focus op dit bestaande product ervoor heeft gezorgd dat de dinatrium zoutvorm in de beschrijving is genoemd.  
+
+
+4.23
+Op grond van dat alles – waaronder de wetenschap dat de werkzaamheid (en bijkomende toxiciteit) van pemetrexed volledig is gelegen in het na oplossing vrijgekomen anion onafhankelijk van de vorm die nodig is om het geneesmiddel te kunnen hanteren én het gebrek aan enig kenbaar specifiek voordeel verbonden aan de dinatrium zoutvorm – was het naar het oordeel van het hof voor de gemiddelde vakman die op de prioriteitsdatum kennis nam van de beschrijving duidelijk dat de octrooihouder niet alleen pemetrexed dinatrium maar iedere farmaceutisch aanvaardbare vorm van pemetrexed – waarmee een voldoende stabiel en oplosbaar preparaat wordt bereikt – voor ogen had. Juist omdat de gemiddelde vakman op grond van zijn algemene vakkennis wist dat ook de zuurvorm en andere zoutvormen van pemetrexed mogelijk waren begreep hij dat het expliciet genoemd zijn van dinatrium daardoor was ingegeven dat deze vorm reeds bestond en bij onderzoek naar de uitvinding was gebruikt en daarom veeleer moest worden gezien als illustratie. Het was voor hem duidelijk dat ook voor andere vormen van pemetrexed gold dat zij binnen de uitvindingsgedachte van EP 508 vielen terwijl de beschrijving geen aanleiding gaf te veronderstellen dat er voor de octrooihouder een technische reden was zich niettemin tot de dinatrium zoutvorm te beperken.  
+
+
+4.24
+Naar het oordeel van het hof geeft de beschrijving aan de gemiddelde vakman derhalve geen aanleiding te veronderstellen dat er een technische reden zou zijn waarom Lilly de beschermingsomvang van EP 508 heeft willen beperken tot de dinatrium zoutvorm van pemetrexed. Door Fresenius is niet voldoende gemotiveerd gesteld dat en waarom de gemiddelde vakman wel in die veronderstelling zou verkeren op grond van zijn algemene vakkennis. De partij-deskundigen aan de zijde van Fresenius hebben dat evenmin kunnen verduidelijken. Zij hebben in elk geval niet aangegeven waarom de dimatrium zoutvorm vanuit technisch oogpunt verkieslijk zou zijn. 
+
+
+4.25
+Volgens Fresenius zou de gemiddelde vakman een bewuste beperking tot pemetrexed dinatrium (ook) afleiden uit het verleningsdossier. De oorspronkelijke aanvrage van Lilly bevatte conclusies die zagen op een combinatietherapie met antifolaten. Vanwege bezwaren van de Examiner van het Europees Octrooibureau (hierna: EOB) met betrekking tot nieuwheid duidelijkheid en nawerkbaarheid heeft Lilly haar conclusies beperkt tot het antifolaat pemetrexed. Vervolgens heeft de Examiner van het EOB daar bezwaar tegen gemaakt op de grond dat de oorspronkelijke aanvrage voor een dergelijke conclusie geen basis zou bieden omdat ‘pemetrexed çertainly a distinct compound’ is van de wel in de oorspronkelijke aanvrage geopenbaarde pemetrexed dinatrium zoutvorm. Daarna heeft Lilly (op 8 maart 2006) de conclusies van EP 508 daartoe beperkt.  
+
+
+4.26
+Naar het oordeel van het hof staat een tijdens de verleningsprocedure gedane beperking van de conclusies (en daarmee samenhangende aanpassingen van de beschrijving) op aanwijzing van de Examiner wegens een op artikel 123 lid 2 EOV (toegevoegde materie) gebaseerd bezwaar er niet aan in de weg dat een octrooihouder zich beroept op toepassing van artikel 2 van het Protocol (equivalentie) bij de vaststelling van de beschermingsomvang van de conclusies van een octrooi.   
+
+
+4.27
+Ten tijde van de verleningsprocedure van EP 508 was het vast beleid van de Examiners en Boards of Appeal van het EOB om bij de beoordeling van toelaatbaarheid van gewijzigde conclusies in het licht van artikel 123 lid 2 EOV – derhalve bij de beantwoording van de vraag of de door een voorgestelde conclusie bestreken materie direct en ondubbelzinnig door de oorspronkelijke aanvrage wordt geopenbaard – geen equivalenten in aanmerking te nemen. Dat volgt onmiskenbaar uit vaste jurisprudentie zoals ook besproken in de publicatie Case Law of the Boards of Appeal 7e editie (2013) p. 367 ev. De ratio voor de voorwaarde van artikel 123 lid 2 EOV is daarin gelegen dat de gewijzigde conclusies niet méér onder bescherming mogen stellen dan datgene dat op de prioriteitsdatum daadwerkelijk is uitgevonden en als zodanig in de oorspronkelijke aanvrage is geopenbaard. Bij de beoordeling of aan die voorwaarde wordt voldaan wordt de algemene vakkennis in aanmerking genomen om te bepalen wat in de oorspronkelijke aanvrage direct en ondubbelzinnig expliciet of impliciet wordt geopenbaard maar dat gaat niet zo ver dat equivalenten als impliciet geopenbaard worden aangemerkt.    
+
+
+4.28
+De vraag naar de toelaatbaarheid van gewijzigde conclusies ten opzichte van de oorspronkelijk ingediende conclusies tijdens de verleningsprocedure is een wezenlijk andere vraag dan die van de vaststelling van de beschermingsomvang van verleende conclusies in het kader van een inbreukprocedure. Die laatste vraag wordt beheerst door artikel 69 EOV en het Protocol waarvan artikel 2 nadrukkelijk voorschrijft dat equivalenten daarbij wel in aanmerking dienen te worden genomen.  
+
+
+4.29
+Het hanteren van een strikte toets bij de beoordeling van artikel 123 lid 2 EOV en het in aanmerking nemen van equivalenten bij de vaststelling van de beschermingsomvang voorziet in een evenwicht. Indien bij de beoordeling van de toelaatbaarheid van gewijzigde conclusies reeds acht zou worden geslagen op equivalenten van hetgeen direct en ondubbelzinnig in de oorspronkelijke aanvrage is geopenbaard dan zou dat leiden tot een wellicht ongerechtvaardigd grote beschermingsomvang. Immers ingevolge artikel 2 van het Protocol zouden dan ook equivalenten van die equivalenten onder de beschermingsomvang kunnen worden gebracht. Indien echter reeds vanwege de strikte 123 lid 2 EOV-toets waardoor de octrooihouder  het moet doen met beperktere conclusies dan die waartoe de uitvindingsgedachte zich uitstrekt geen aanspraak meer zou mogen worden gemaakt op bescherming van equivalenten dan zou dat in strijd komen met artikel 2 van het Protocol en kunnen leiden tot een te beperkte beschermingsomvang waarbij niet het midden wordt gehouden tussen de billijke bescherming van de octrooihouder en de redelijke rechtszekerheid van derden. Dit is ook als volgt in te zien. Het artikel 123 lid 2 EOV-bezwaar van de Examiner laat onverlet dat de octrooihouder op de prioriteitsdatum daadwerkelijk het pemetrexed dinartrium zout heeft uitgevonden (vgl. 4.23). Voor deze uitvinding – die ook in de uiteindelijke octrooiconclusies is terechtgekomen – geldt de equivalentieregel van artikel 2 van het Protocol.    
+
+
+4.30
+Het hof acht daarbij van belang dat de gemiddelde vakman zal inzien dat de verdere beperking van de conclusies tot de specifieke dinatrium zoutvorm van pemetrexed slechts is ingegeven door de strikte 123 lid 2 EOV-toets die door het EOB wordt gehanteerd zonder dat aan die beperking enige technische reden ten grondslag ligt. De gemiddelde vakman wist reeds op de prioriteitsdatum dat de werkzaamheid van pemetrexed dinatrium uitsluitend is gelegen in het pemetrexed anion dat beschikbaar komt na oplossing van het zout. Enige technische reden waarom specifiek gekozen zou zijn voor de dinatrium zoutvorm is zoals reeds overwogen uit de beschrijving niet af te leiden terwijl evenmin voldoende inzichtelijk is gemaakt dat hij dit op grond van zijn algemene vakkennis zou aannemen.   
+
+
+4.31
+Uit het voorgaande volgt dat  niet van belang is dat Lilly zich niet heeft verzet tegen de door de Examiner noodzakelijk geachte tweede beperking tot pemetrexed dinatrium al dan niet onder inroeping van de ‘3-stappen toets’ waarop Fresenius heeft gewezen onder verwijzing naar Case Law (2016) p. 448 (welke test blijkens die passage niet zozeer ziet op de beperking van een conclusie wegens gebrek aan directe on ondubbelzinnige basis voor een bredere conclusie maar meer in het bijzonder op de weglating of vervanging van een conclusie-element waarop Lilly ook heeft gewezen). Het is bovendien geenszins zeker dat de uitkomst van een dergelijk verzet (en eventueel beroep) zou zijn geweest dat bredere conclusies waren verleend bijvoorbeeld doordat alsnog een conclusie voor alle therapeutisch aanvaardbare zoutvormen van pemetrexed zou zijn toegelaten. Dat ligt niet in de rede aangezien de Examiner voor pemetrexed geen basis aanwezig achtte en de enige zoutvorm die in de oorspronkelijke aanvrage was geopenbaard de dinatrium zoutvorm was. Daarenboven was het aan Lilly voorbehouden ervoor te kiezen niet die (mogelijk langdurige) weg te bewandelen maar in plaats daarvan te kiezen voor snelle verlening van haar octrooi en erop te vertrouwen dat zo nodig in een inbreukprocedure de beperkte conclusies met een beroep op equivalentie een ruime(re) beschermingsomvang zouden worden toegekend. Om diezelfde redenen kan Lilly niet op straffe van verval van een beroep op artikel 2 Protocol het verwijt worden gemaakt dat zij geen afsplitsing(en) van EP 508 heeft ingediend hoewel zij zich het recht om dat te doen wel had voorbehouden.  
+
+
+4.32
+Andere gezichtspunten die bij de uitleg van conclusies in aanmerking genomen kunnen worden zoals de mate waarin het vernieuwing heeft gebracht leiden er niet toe dat toch van een tot de letter van de conclusies beperkte beschermingsomvang zou moeten worden uitgegaan. Integendeel. Doel van de uitvinding is het tegengaan van de ernstige bijwerkingen van het antifolaat pemetrexed. Daartoe stelt het octrooi een combinatietherapie met vitamine B12 (en optioneel een foliumzuur) onder bescherming. Door die uitvinding wordt een belangrijke vooruitgang geboekt omdat daardoor de voorheen vanwege de significante toxiciteit niet beschikbare therapeutische toepassing van pemetrexed alsnog mogelijk wordt gemaakt. Naar de gemiddelde vakman op de prioriteitsdatum wist op grond van zijn algemene vakkennis werden die bijwerkingen veroorzaakt door het actieve bestanddeel het pemetrexed anion. Omdat uit de beschrijving niet blijkt van enige relevantie daarbij van de vorm waarin het pemetrexed anion wordt toegediend zal hij begrijpen dat het voordeel van de uitvinding wordt bewerkstelligd bij alle vormen van pemetrexed waarbij na oplossing het werkzame anion beschikbaar komt. 
+
+
+4.33
+Het voorgaande leidt tot de slotsom dat geen van de bij de uitleg van de conclusies relevante gezichtspunten erop wijst dat derden mochten veronderstellen dat Lilly vanwege een technische reden bewust voor pemetrexed dinatrium heeft gekozen. De bredere uitvindingsgedachte leidt er daarom toe dat niettegenstaande de beperktere tekst van de conclusies de beschermingsomvang van EP 508 zich tevens uitstrekt tot andere vormen van pemetrexed waarbij na oplossing het werkzame anion beschikbaar komt.  
+
+
+4.34
+Het hof is met Lilly van oordeel dat het pemetrexed dizuur met tromethamine in het product van Fresenius moet worden beschouwd als technisch equivalent aan pemetrexed dinatrium. De kationen verschillen maar spelen bij de functie werkingsmechanisme en resultaat van de beide geneesmiddelen geen rol. In beide gevallen is sprake van dissociatie in waterige oplossing waarbij hetzelfde werkzame pemetrexed anion beschikbaar komt dat dezelfde functie vervult namelijk om als antifolaat in het lichaam te werken met hetzelfde resultaat: het tegengaan van tumorgroei én toxiciteit. Het voordeel van de uitvinding het tegengaan van de toxiciteit van het pemetrexed anion zonder dat de therapeutische werkzaamheid van pemetrexed wordt beïnvloed wordt op dezelfde wijze bereikt namelijk door gecombineerde toediening van vitamine B12 (en optioneel foliumzuur). Voor zover de hulpstoffen in Pemetrexed Fresenius verschillen van die in Alimta is dat voor de werkzaamheid niet van geen belang. Het betreft een algemeen bekende en bij intraveneuze toediening gebruikte stof waarvan geen nadelig (toxicologisch) effect is te verwachten. Dit alles blijkt genoegzaam uit de EPAR met betrekking tot Pemetrexed Fresenius  (zie 2.11). Fresenius heeft ook erkend dat van ‘biologische of zo men wil therapeutische equivalentie’ sprake is (Appeldagvaarding par. 17)   
+
+
+4.35
+Fresenius heeft zich op het standpunt gesteld dat recente rechtspraak van de Hoge Raad erop neer zou komen dat er in beginsel geen beroep op equivalentie mogelijk is tenzij het gaat om varianten die op de prioriteitsdatum voor de vakman nog niet voorzienbaar waren. Dat standpunt moet worden verworpen reeds omdat in het onderhavige geval geen sprake is van een voorzienbare variant. Hoewel op de prioriteitsdatum voorzienbaar was dat ook de pemetrexed zuurvorm en andere pemetrexed zouten dan het dinatrium zout geschikt zouden kunnen zijn voor toepassing van de uitvindingsgedachte was op de prioriteitsdatum immers geenszins voorspelbaar en dus niet voorzienbaar of een specifiek zout zoals pemetrexed dizuur met tromethamine voldoende stabiel en oplosbaar en dus voldoende therapeutisch werkzaam zou zijn. Daarnaar diende immers (routinematig) onderzoek gedaan te worden zoals Fresenius onder verwijzing naar haar partijdeskundige ook nadrukkelijk heeft gesteld. Overigens erkent Fresenius dat er (kennelijk ook voor wel voorzienbare varianten) ook plaats is voor equivalentie in het geval van vergissingen en vergeetachtigheden tijdens het formuleren van de conclusies (par. 18 sub b Appeldagvaarding). Naar het oordeel van het hof volgt uit het voorgaande – in het bijzonder dat de gemiddelde vakman geen aanleiding had te veronderstellen dat er een technische reden zou zijn waarom Lilly de beschermingsomvang van EP 508 heeft willen beperken tot de dinatrium zoutvorm van pemetrexed – dat het hier in het geding zijnde octrooi in die categorie is onder te brengen.  
+
+
+4.36
+Overigens moet het standpunt dat indien de gemiddelde vakman in aanmerking genomen de beschrijving en zijn algemene vakkennis in de conclusies van EP 508 voorzienbare varianten op pemetrexed dinatrium meeleest geen aanspraak gemaakt kan worden op bescherming voor die varianten omdat Lilly die dan had moeten claimen bij gebreke waarvan zij geacht moet worden daarvoor geen bescherming te zoeken worden verworpen. Naar het oordeel van het hof verhoudt een dergelijke regel zich niet met artikel 2 van het Protocol dat dan in hoge mate tot een dode letter zou verworden en – dat indachtig - is een dergelijke algemene regel niet af te leiden uit de rechtspraak van de Hoge Raad. Dat geldt ook voor het AGA / Occlutech arrest. De overwegingen van de Hoge Raad in die zaak kunnen niet los worden gezien van de daaraan ten grondslag liggende feiten in het bijzonder dat in de beschrijving en tekeningen geen aanknopingspunten te vinden waren voor een van de bewoordingen van de conclusie afwijkende (bredere) uitvindingsgedachte en voor een ruimere beschermingsomvang evenmin aanleiding bestond vanuit het gezichtspunt van de mate waarin de uitvinding vernieuwing heeft gebracht. Het is met name dat laatste aspect waarop r.o. 4.2.6. uit dat arrest betrekking heeft terwijl die overweging tevens moet worden begrepen tegen de feitelijke achtergrond te weten dat een uitvoeringsvorm die volgens de octrooihouder onder het equivalentiebereik van de conclusies viel wel in de beschrijving was geopenbaard maar niet was geclaimd (omdat de octrooihouder vanwege tijdens de verleningsprocedure gebleken nieuwheidsbezwaren zijn conclusies had moeten beperken) waarop in r.o. 4.4.2 van dat arrest is gewezen. Een dergelijke regel is ook niet af te leiden uit het Medinol / Abbott arrest in het bijzonder ook niet uit r.o. 3.5.2. waarin is overwogen dat voor de beoordeling van de beschermingsomvang naar het perspectief van de gemiddelde vakman op de prioriteitsdatum moet worden gekeken. Het ging in deze overweging namelijk alleen om de beoordelingsdatum bij een beroep op equivalentie. Overigens is in onderhavige zaak geen sprake van een voorzienbare variant zoals hiervoor onder 4.35 is uiteengezet.    
+
+
+4.37
+Naar het oordeel van het hof is de hiervoor aan de conclusies van EP 508 gegeven uitleg in overeenstemming met artikel 69 EPC en artikel 1 van het Protocol. Het leidt tot een billijke bescherming van de octrooihouder die aan de stand van de techniek heeft toegevoegd dat het antifolaat pemetrexed voldoende veilig kan worden toegediend als dat gebeurt in combinatie met vitamine B12 (en optioneel foliumzuur). Omdat het voor de gemiddelde vakman bij lezing van de beschrijving duidelijk is dat de octrooihouder een dergelijke ruime bescherming conform het gezichtspunt van de uitvindingsgedachte voor ogen stond en de gemiddelde vakman ook geen technische redenen zag waarom de octrooihouder niettemin heeft willen opteren (of: bewust heeft gekozen) voor een beperktere beschermingsomvang komt een dergelijke uitleg niet in strijd met de redelijke rechtszekerheid voor derden.  
+
+
+4.38
+Het voorgaande leidt tot de conclusie dat geen van de door Fresenius aangedragen grieven kunnen leiden tot vernietiging van het bestreden vonnis. In dit stadium van de procedure waarin reeds geruime tijd een verbod van kracht is geeft een belangenafweging geen aanleiding om niettegenstaande het oordeel dat van inbreuk op de conclusies van EP 508 sprake is het reeds opgelegde verbod op te heffen. Het bestreden vonnis zal daarom worden bekrachtigd. Tegen de door Lilly gevorderde eiswijziging heeft Fresenius geen bezwaar gemaakt en evenmin heeft zij daartegen verweer gevoerd zodat deze toewijsbaar is.  
+
+
+4.39
+Fresenius zal als de in het ongelijk gestelde partij worden veroordeeld in de proceskosten van Lilly in dit hoger beroep begroot op EUR 75.000- welke kosten het hof niet onredelijk of onevenredig voorkomen en derhalve zullen worden toegewezen.  
+
+
+Beslissing
+
+ 
+
+Het hof:
+ 
+- bekrachtigt het vonnis waarvan beroep met dien verstande dat onder 5.2 van het dictum in plaats van ‘zeven dagen’ dient te worden gelezen “veertien dagen’; 
+- veroordeelt Fresenius in de proceskosten van dit hoger beroep aan de zijde van Lilly begroot op EUR 75.000-; 
+- verklaart de proceskostenveroordeling uitvoerbaar bij voorraad. 
+
+Dit arrest is gewezen door mrs. R. Kalden M.Y. Bonneur en C.J.J.C. van Nispen en is uitgesproken ter openbare terechtzitting van 8 mei 2018 in aanwezigheid van de griffier.
+
+
+

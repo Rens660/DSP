@@ -1,0 +1,1191 @@
+
+
+RECHTBANK AMSTERDAM
+
+
+VONNIS
+
+ 
+
+Parketnummer: 13/997030-17 (Promis)
+ 
+
+Datum uitspraak: 7 december 2018
+ 
+
+Vonnis van de rechtbank Amsterdam meervoudige strafkamer in de strafzaak tegen
+ 
+
+
+
+          [verdachte]
+        
+ 
+
+geboren te [geboorteplaats] op [geboortedatum] 1975
+ingeschreven in de basisregistratie personen op het adres [adres]  [woonplaats] 
+gedetineerd in de Penitentiaire Inrichting “ [naam PI] ” te [plaats] .
+ 
+
+
+
+1 Het onderzoek op de terechtzitting 
+
+Dit vonnis is op tegenspraak gewezen naar aanleiding van het onderzoek op de terechtzittingen op 20 24 26 28 september en 26 november 2018.
+ 
+
+De rechtbank heeft kennisgenomen van de vordering van de officier van justitie mr. J. Plooij en van wat verdachte en zijn raadsman mr. C.W. Flokstra naar voren hebben gebracht.
+ 
+
+
+
+2 De beschuldiging 
+
+Verdachte wordt – na wijziging van de tenlastelegging op de zitting – kort gezegd beschuldigd van: 
+ 
+
+
+het medeplegen van in-/vervoeren van 261 kg cocaïne op 10 juni 2017. Als dat niet kan worden bewezen wordt hij beschuldigd van medeplichtigheid daaraan;
+
+
+de deelname aan een criminele organisatie met als doel het plegen van drugsgerelateerde delicten in de periode van februari 2015 tot en met 10 juni 2017;
+
+
+het uitlokken/medeplegen van een poging doodslag van [slachtoffer 1] op 14 juni 2015. Als dat niet kan worden bewezen dan wordt hij beschuldigd van het uitlokken/medeplegen van bedreiging van [slachtoffer 1] door op dezelfde datum gericht op de ramen te schieten van de woning waarin [slachtoffer 1] zich bevond;
+
+
+het aanwezig hebben van twee multiband jammers zonder een daartoe verleende vergunning op grond van de Telecommunicatiewet.
+
+
+
+De volledige tekst van de tenlastelegging staat in een bijlage. Die bijlage hoort bij dit vonnis en maakt hiervan deel uit. 
+ 
+
+
+
+3 Achtergrond en aanleiding onderzoek 
+
+De rechtbank wijst dit vonnis in het strafrechtelijk onderzoek Tandem III. Dit onderzoek is voortgekomen uit de onderzoeken Tandem I en Tandem II. In het onderzoek Tandem I zijn vijf mannen bij vonnissen van 20 juli 2017 door de rechtbank Amsterdam veroordeeld voor (onder meer) hun betrokkenheid bij een liquidatiepoging op [slachtoffer 2] in 2015. In het onderzoek Tandem I kwam medeverdachte [medeverdachte] naar voren en is het onderzoek Tandem II gestart. [medeverdachte] is bij vonnis van 19 april 2018 veroordeeld door de rechtbank. Uit het onderzoek Tandem II bleek dat [medeverdachte] via beveiligde telefoons ook contact had met de gebruiker(s) van het e-mailadres [e-mailadres 1] (hierna: [e-mailadres 1] ). Op basis van dit contact is het onderzoek Tandem III gestart waarin verdachte en zijn medeverdachten naar voren zijn gekomen. 
+ 
+
+Een aanzienlijk deel van het dossier in de strafzaak tegen verdachte (hierna: [verdachte] ) en zijn medeverdachten [medeverdachte 1] en [medeverdachte 2] (hierna: [medeverdachte 1] respectievelijk [medeverdachte 2] ) bestaat uit versleutelde berichten die zijn verstuurd met speciaal daarvoor uitgeruste telefoons. Gelet op de rol die deze berichten spelen in deze strafzaak zal de rechtbank hier dieper op ingaan.
+ 
+
+3.1.
+
+De Ennetcom-data
+ 
+
+Het Nederlandse bedrijf Ennetcom leverde diensten op het gebied van versleutelde communicatie. Met BlackBerry-telefoontoestellen voorzien van specifieke software konden via het PGP(pretty good privacy)-protocol met daaraan gekoppelde e-mailadressen versleutelde tekstberichten en notities worden verzonden. De gebruikers van de telefoons en e-mailadressen konden op die manier volledig anoniem communiceren. De encryptiesleutels waren opgeslagen op de Blackberry Enterprise Servers van Ennetcom. Deze servers bevonden zich in Toronto Canada. Na een rechtshulpverzoek van Nederland aan de Canadese autoriteiten zijn op 19 april 2016 de gegevens op de servers die door Ennetcom werden gebruikt veiliggesteld. Het rechtshulpverzoek zag op vier lopende strafrechtelijke onderzoeken; het onderzoek Tandem maakte hier geen deel van uit. 
+ 
+
+Op 13 september 2016 besliste het Superior Court of Justice in Canada dat de bij Ennetcom in beslag genomen data (hierna: de Ennetcom-data) aan Nederland mochten worden verstrekt waarbij het voorbehoud werd gemaakt dat de data alleen in de vier eerder genoemde onderzoeken mochten worden gebruikt. Uit de beslissing van de Canadese rechter blijkt dat hij voorzag dat ook andere Nederlandse opsporingsonderzoeken interesse zouden kunnen hebben in de Ennetcom-data maar dat hij wilde voorkomen dat de Nederlandse autoriteiten een ‘fishing expedition’ zouden gaan uitvoeren in deze grote hoeveelheid data. Om de rechten van derden te beschermen bepaalde de Canadese rechter dat voor toegang tot de Ennetcom-data in andere dan de vier genoemde onderzoeken een Nederlandse rechter van tevoren een machtiging moest afgeven. Met deze voorwaarde heeft het Superior Court of Justice een praktische invulling willen geven aan de bescherming van de belangen van de naar schatting 19.000 geregistreerde gebruikers van Ennetcom en hun contacten zonder dat voor ieder nieuw onderzoek een afzonderlijke vordering van de Nederlandse autoriteiten aan de Canadese autoriteiten noodzakelijk zou zijn. De Canadese rechter heeft geen nadere voorwaarden of beperkingen gesteld aan het doorzoeken en het gebruiken van de Ennetcom-data door daartoe gemachtigden.
+ 
+
+
+3.2.
+
+De Tandem-dataset
+ 
+
+Toen het onderzoeksteam van Tandem I toegang wilde tot de Ennetcom-data heeft het Openbaar Ministerie (hierna: OM) aan de rechter-commissaris om toestemming verzocht. Het Wetboek van Strafvordering (hierna: Sv) kent geen constructie om de door de Canadese rechter bedoelde machtiging af te geven. Daarom heeft de rechter-commissaris gekozen voor een juridische figuur die naar zijn oordeel het meest recht doet aan zowel het wettelijk kader van strafvordering als aan wat de Canadese rechter voor ogen stond. De vordering van de officier van justitie tot toegang tot de Ennetcom-data heeft de rechter-commissaris opgevat als een vordering aan hem om zelf onderzoek te doen met daarbij de aanbeveling om dat onderzoek op de voet van artikel 177 Sv te delegeren aan het onderzoeksteam.
+ 
+
+De rechter-commissaris heeft voor het beantwoorden van de vraag of in het onderzoek Tandem I toegang mocht worden verleend tot de Ennetcom-data aansluiting gezocht bij de eisen die artikel 126ng tweede lid Sv aan het verkrijgen van telecomgegevens stelt. Die eisen komen volgens de rechter-commissaris tegemoet aan de belangen die de Canadese rechter met de door hem gestelde voorwaarden heeft willen beschermen. In artikel 126ng tweede lid Sv staan drie vereisten:
+
+
+
+het moet gaan om een misdrijf waarvoor voorlopige hechtenis is toegestaan en dat een ernstige inbreuk op de rechtsorde oplevert;
+
+
+het belang van het onderzoek moet dringend vorderen dat toegang tot de gegevens wordt verkregen;
+
+
+het moet gaan om gegevens die klaarblijkelijk van de verdachte afkomstig zijn voor hem bestemd zijn op hem betrekking hebben of tot het begaan van het strafbare feit hebben gediend of met betrekking tot welke gegevens klaarblijkelijk het strafbare feit is gepleegd.
+
+
+
+De rechter-commissaris oordeelde vervolgens dat in het onderzoek Tandem I aan deze voorwaarden is voldaan en dat het onderzoeksteam onderzoek kon verrichten aan de Ennetcom‑data. Dat onderzoek werd in omvang beperkt omdat het moest worden verricht aan de hand van een specifiek plan van aanpak dat door de rechter‑commissaris vooraf moest worden goedgekeurd. Aan de hand van zoektermen in het door de rechter-commissaris goedgekeurde plan van aanpak en de nadere plannen van aanpak zijn de Ennetcom-data gefilterd op basis van die zoektermen. Het onderzoeksteam Tandem I kon alleen verder onderzoek doen naar de gegevens die door middel van die zoektermen waren verkregen. Die gegevens samen vormen de Tandem‑dataset. 
+ 
+
+
+3.3.
+
+De Ennetcom-data in Tandem III
+ 
+
+In de onderzoeken Tandem I en II zijn met toestemming van de rechter-commissaris veel Ennetcom-berichten doorzocht. Nadat de Ennetcom-dataset werd doorzocht op één van de al aangehouden verdachten ( [naam aangehouden verdachte] ) kwam het e-mailadres [e-mailadres 1] naar voren. Met dit e-mailadres was op 23 november 2015 een bericht verzonden en ontvangen waaruit kon worden afgeleid dat de gebruiker van [e-mailadres 1] in verband met [naam aangehouden verdachte] op zoek was naar “ [naam advocaat] ”. Het OM vermoedde dat daarmee de advocaat van [naam aangehouden verdachte] werd bedoeld [naam advocaat]  die zich nog geen twee weken later zou stellen als nieuwe advocaat van [naam aangehouden verdachte] . Daarnaast had de gebruiker van [e-mailadres 1] de persoonsgegevens van de broer van [naam aangehouden verdachte] en die van een andere verdachte in die zaak opgeslagen.
+ 
+
+De rechter-commissaris heeft op vordering van het OM op grond van deze berichten op 20 april 2017 in de zaak tegen [medeverdachte] toestemming gegeven tot het verkrijgen van alle gegevens met betrekking tot de [e-mailadres 1] -lijn waaronder contactgegevens berichten en notities en dezelfde gegevens van de e-mailadressen die in direct contact hadden gestaan met [e-mailadres 1] .
+ 
+
+Bij het onderzoek naar de [e-mailadres 1] -lijn kwamen [medeverdachte 1]  [verdachte] en [medeverdachte 2] in beeld bij het onderzoeksteam. [e-mailadres 1] had contact met de gebruiker van [e-mail adres 2] (hierna: [e-mail adres 2] ) [e-mail adres 3] (hierna: [e-mail adres 3] ) en [e-mail adres 4] (hierna: [e-mail adres 4] ). Deze gebruiker werd door het onderzoeksteam geïdentificeerd als [verdachte] . Verder kwamen in berichten en opgeslagen contacten de (bij)namen ‘ [bijnaam 1] ’ en ‘ [bijnaam 2] ’ voor waarmee volgens het onderzoeksteam [medeverdachte 2] wordt bedoeld. Op 11 januari 2018 is door de rechter-commissaris een machtiging gegeven tot onderzoek in de Ennetcom-data naar de hiervoor genoemde e-mailadressen en (bij)namen.
+ 
+
+Uit dit onderzoek is vervolgens de (bij)naam ‘ [bijnaam 3] ’ (door het onderzoeksteam toegeschreven aan [medeverdachte 2] ) naar voren gekomen. Ook voor deze bijnaam heeft de rechter-commissaris een machtiging gegeven om de Ennetcom-data op te doorzoeken.
+ 
+
+
+
+
+4 De vormverzuimen  
+
+De verdediging heeft zich op het standpunt gesteld dat sprake is van verschillende vormverzuimen als bedoeld in artikel 359a Sv. Het gaat volgens de verdediging om vormverzuimen begaan met betrekking tot de Ennetcom-data en de machtiging van de rechter-commissaris en met betrekking tot het bevel tot stelselmatige observatie als bedoeld in artikel 126g Sv. De rechtbank bespreekt deze verweren hieronder afzonderlijk.
+ 
+
+4.1.
+
+Het gebruik van de Ennetcomdata
+ 
+
+4.1.1.
+Het standpunt van de verdediging 
+
+Alle Ennetcom-data die in dit onderzoek zijn verkregen moeten worden uitgesloten van het bewijs. Er is namelijk sprake van onherstelbare en verstrekkende vormverzuimen als bedoeld in artikel 359a Sv in de zaken tegen [medeverdachte 1]  [verdachte] en [medeverdachte 2] . Er is in strijd gehandeld met de bedoeling van de Canadese rechter. Er was weliswaar een legitiem onderzoek naar [medeverdachte]  maar er waren geen gegronde redenen om de volledige communicatie van de [e-mailadres 1] -lijn bloot te leggen zoals bij machtiging van de rechter-commissaris van 20 april 2017 is gebeurd. Daarnaast heeft de rechter-commissaris gedurende het onderzoek geen enkel materieel en/of formeel toezicht gehouden waardoor in feite sprake is geweest van een administratief proces. Iets dat de Canadese rechter zo blijkt uit zijn beslissing expliciet heeft willen voorkomen. 
+ 
+
+Ook is in strijd gehandeld met de Nederlandse wet. Volgens artikel 126ng tweede lid Sv kunnen telecomgegevens worden gevorderd “voor zover zij klaarblijkelijk van de verdachte afkomstig zijn voor hem bestemd zijn op hem betrekking hebben of tot het begaan van het strafbare feit hebben gediend of klaarblijkelijk met betrekking tot die gegevens het strafbare feit is gepleegd.” In dit geval werd echter een ongeclausuleerde machtiging afgegeven die niet beperkt was in tijd of tot e-mails tussen [e-mailadres 1] en [medeverdachte]  op deze [medeverdachte] betrekking hadden of die tot het begaan van de liquidatiepoging hadden gediend. 
+ 
+
+Ten slotte is in strijd gehandeld met het recht op privacy zoals bepaald in artikel 8 van het Europees Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden (EVRM) omdat niet is voldaan aan de beginselen van noodzakelijkheid en proportionaliteit.
+ 
+
+Deze vormverzuimen zijn onherstelbaar en verstrekkend. Het gebruik van de Ennetcom-data zou dan ook een schending van het recht op een eerlijk proces opleveren. De Ennetcom-data moeten worden uitgesloten van het bewijs omdat sprake is van een schending van artikel 6 EVRM dan wel omdat sprake is van een aanzienlijke schending van een belangrijk rechtsbeginsel neergelegd in (artikel 8 EVRM) en bewijsuitsluiting noodzakelijk is om soortgelijke schendingen in de toekomst te voorkomen.
+ 
+
+
+4.1.2.
+Het standpunt van de officier van justitie 
+
+De officier van justitie heeft zich op het standpunt gesteld dat geen sprake is van enig vormverzuim in het voorbereidend onderzoek. Het verweer moet worden verworpen. De door de Canadese rechter voorgeschreven weg is in Nederland bewandeld doordat telkens een machtiging van de rechter-commissaris is gevorderd én afgegeven voorafgaand aan het doorzoeken van de Ennetcom-data. Geen rechtsregel verzet zich ertegen dat nadat een machtiging is afgegeven onderzoek wordt gedaan naar eventuele andere strafbare feiten dan waarvoor de machtiging aanvankelijk was afgegeven.
+ 
+
+Het doorzoeken van de Ennetcom-data op alle gegevens van de [e-mailadres 1] -lijn was noodzakelijk en proportioneel. Van tevoren is niet bekend waar zich in de dataset mogelijk relevante berichten bevinden. Het was heel goed mogelijk dat ten aanzien van de aanslag op [slachtoffer 2] in de periode daarvoor of daarna iets uit die data naar boven zou komen. Dat hiervoor geen nadere aanwijzingen zijn gevonden terwijl wél aanwijzingen voor andere strafbare feiten zijn aangetroffen maakt dat niet anders. Van een fishing expedition is dan ook geen sprake geweest.
+ 
+
+Ook van een schending van artikel 126ng Sv kan geen sprake zijn omdat de rechter-commissaris met de door hem gekozen constructie zoveel mogelijk recht heeft gedaan aan het vonnis van de Canadese rechter die een constructie voor ogen stond die in Nederland simpelweg niet bestond. De rechter-commissaris heeft dan ook aansluiting gezocht bij voornoemd artikel. Deze juridische constructie is door de rechtbank Amsterdam bij vonnis van 19 april 2018 (inzake [medeverdachte] ) toelaatbaar geacht. 
+ 
+
+Ten slotte is de onderbouwing van het verzoek om de [e-mailadres 1] -lijn te onderzoeken voldoende omdat uit het bericht over [naam advocaat] valt af te leiden dat de gebruiker van [e-mailadres 1] vermoedelijk een rol speelde in het voor of in elk geval in overleg met [medeverdachte] regelen van een andere advocaat voor twee verdachten van de aanslag op [slachtoffer 2] . In het onderzoek naar de vermoedelijke rol van [medeverdachte] bij die aanslag was elk contact van [medeverdachte] in relatie tot de verdachten van die aanslag relevant.
+ 
+
+
+4.1.3.
+Het oordeel van de rechtbank 
+
+Artikel 359a Sv bepaalt dat als een vormverzuim onherstelbaar is het rechtsgevolg daarvan niet uit de wet voortvloeit en het vormverzuim is begaan in het voorbereidend onderzoek de rechtbank daaraan bepaalde rechtsgevolgen kan verbinden. Ten aanzien van het voorbereidend onderzoek overweegt de rechtbank als volgt.
+ 
+
+Volgens vaste rechtspraak van de Hoge Raad1 heeft het voorbereidend onderzoek zoals bedoeld in artikel 359a Sv alleen betrekking op het voorbereidend onderzoek tegen de verdachte voor zover het gaat over de in deze zaak aan verdachte tenlastegelegde feiten waarover de rechtbank nu moet oordelen. Artikel 359a Sv is dus niet van toepassing als het verzuim is begaan in het voorbereidend onderzoek van een andere zaak en zag op een ander dan de nu aan verdachte tenlastegelegde feiten. 
+ 
+
+De rechter-commissaris heeft een machtiging tot toegang tot de Ennetcom-data afgegeven in het voorbereidend onderzoek tegen [medeverdachte] op grond van een verdenking van de liquidatiepoging op [slachtoffer 2] . Die verdenking is in de zaak waar de rechtbank vandaag uitspraak in doet niet aan verdachten ten laste gelegd. Het vermeende vormverzuim is dus niet begaan in het voorbereidend onderzoek naar een van de verdachten in het onderzoek Tandem III. Alleen al daarom kan het verweer van de verdediging niet slagen. De rechtbank is verder niet gebleken van een grove schending van fundamentele rechtsbeginselen waardoor eventuele vormverzuimen in een ander voorbereidend onderzoek toch gevolgen zouden moeten hebben in deze zaak. 
+ 
+
+De rechtbank constateert ambtshalve dat de [e-mailadres 1] -lijn nadat deze door de machtiging van 20 april 2017 was blootgelegd inzake Tandem II werd gevoegd in het onderzoek Tandem III. Voor het gebruik van de gegevens in dit onderzoek was echter geen rechterlijke machtiging afgegeven. Dit had wel moeten gebeuren zoals de Canadese rechter expliciet in zijn beslissing heeft overwogen. Dit levert een vormverzuim op in het voorbereidend onderzoek naar de verdachten in deze zaak die nu ter beoordeling van de rechtbank ligt. Dit vormverzuim kan niet meer worden hersteld. Daarmee is het recht op privacy van de gebruiker(s) van [e-mailadres 1] en de gebruikers waarmee de [e-mailadres 1] contact heeft geschonden. Omdat het onderzoeksteam er vanuit gaat dat in de gegevens van de [e-mailadres 1] -lijn alle drie de verdachten naar voren komen zijn zij daardoor ook daadwerkelijk in hun belangen geschaad. De rechtbank is van oordeel dat daaraan in dit geval geen rechtsgevolgen hoeven te worden verbonden omdat verdachten geen daadwerkelijk nadeel hebben geleden door het vormverzuim. Naar het oordeel van de rechtbank is buiten twijfel dat als het OM de rechter-commissaris verzocht zou hebben om de gegevens van de [e-mailadres 1] -lijn en diens contacten te voegen in onderzoek Tandem III de rechter-commissaris daartoe op basis van de toen beschikbare gegevens zonder meer machtiging zou hebben verleend. De rechter-commissaris heeft vervolgens in 2018 wel machtigingen gegeven voor nader onderzoek in de Ennetcom-data in het onderzoek Tandem III (zie 3.3) De rechtbank volstaat met een constatering van het genoemde vormverzuim. 
+ 
+
+
+
+4.2.
+
+Het bevel tot stelselmatige observatie zoals bedoeld in artikel 126g Sv
+ 
+
+Op grond van berichten tussen de gebruiker(s) van [e-mailadres 1] (door het OM toegeschreven aan [medeverdachte 1] ) en [medeverdachte] (gebruikmakend van [e-mail adres 5] (hierna: [e-mail adres 5] )) uit 2015 is een verdenking ontstaan van witwassen door [medeverdachte 1] en/of [medeverdachte] . Op 11 mei 2017 is een vordering ingediend tot het afgeven van een bevel tot stelselmatige observatie van [medeverdachte 1] . Op 12 mei 2017 is dit bevel door de officier van justitie afgegeven voor een periode van drie maanden. Vervolgens hebben op 6 7 9 en 10 juni 2017 observaties plaatsgevonden.
+ 
+
+4.2.1.
+Het standpunt van de verdediging 
+
+De berichten uit 2015 kunnen geen grond kunnen vormen voor een bevel tot stelselmatige observatie in 2017. Er was geen aanvullende informatie met betrekking tot [medeverdachte 1] die de actuele verdenking en daarmee de inzet van het middel van stelselmatige observatie zou kunnen rechtvaardigen. Er is niet voldaan aan de eisen van noodzakelijkheid en proportionaliteit. De stelselmatige observatie valt dan ook te kwalificeren als een fishing expedition. Het gevolg van dit vormverzuim moet zijn dat de observaties worden uitgesloten van het bewijs.
+ 
+
+
+4.2.2.
+Het standpunt van de officier van justitie 
+
+Het verweer moet worden verworpen. Uit het proces-verbaal van verdenking van 2 mei 2017 blijkt het redelijk vermoeden dat [medeverdachte 1] in 2015 over een PGP-telefoon een horloge van het merk Audemars Piguet en over grote geldbedragen kon beschikken. Bovendien was het redelijk om te vermoeden dat deze gedragingen ook na november 2015 zouden voortduren. Er was dan ook op grond van de beschreven witwasverdenking voldoende aanleiding om [medeverdachte 1] stelselmatig te observeren.
+ 
+
+
+4.2.3.
+Het oordeel van de rechtbank 
+
+Artikel 126g Sv stelt voor een bevel tot stelselmatig observatie de eis van “verdenking van een misdrijf”. Uit het proces-verbaal van verdenking bij de vordering tot stelselmatige observatie van 11 mei 2017 kan een redelijk vermoeden worden afgeleid dat de gebruiker van [e-mailadres 1] ( [medeverdachte 1]  volgens het OM) en/of [medeverdachte] zich schuldig maakten aan witwassen. [medeverdachte 1] zou meerdere PGP-toestellen en een horloge van het merk Audemars Piguet naar Ierland waar [medeverdachte] verbleef hebben vervoerd en hij zou kunnen beschikken over meerdere grote geldbedragen. Dat sprake is van enig tijdsverloop tussen de feiten uit 2015 en het bevel van 2017 doet hier niet aan af. Daarmee is aan het wettelijke vereiste voldaan en is er geen sprake van een vormverzuim. 
+ 
+
+
+5.	De waardering van het bewijs
+2
+
+ 
+
+
+
+5.1.
+
+De identificatie van de Ennetcom-accounts
+ 
+
+Uit het onderzoek naar de [e-mailadres 1] zijn de volgende voor dit vonnis relevante e-mailadressen naar voren gekomen:
+
+
+-
+
+            [e-mail adres 3] (hierna: [e-mail adres 3] );
+
+-
+
+            [e-mail adres 4] (hierna: [e-mail adres 4] );
+
+-
+
+            [e-mail adres 2] (hierna: [e-mail adres 2] );
+
+-
+
+            [e-mail adres 6] (hierna: [e-mail adres 6] );
+
+-
+
+            [e-mail adres 7] (hierna: [e-mail adres 7] ).
+
+
+
+Gelet op de onderlinge contacten en de inhoud van de berichten tussen (onder andere) deze accounts is het vermoeden ontstaan dat de gebruikers ervan zich schuldig hebben gemaakt aan het plegen van verschillende strafbare feiten. De eerste vraag die de rechtbank moet beantwoorden is of en zo ja welke accounts aan (een van de) verdachten kunnen worden toegeschreven. 
+ 
+
+5.1.1.
+Het standpunt van de verdediging 
+
+De [e-mailadres 1] -lijn kan niet aan [medeverdachte 1] worden gekoppeld of in ieder geval niet aan hem alleen worden gekoppeld. Uit de inhoud van de berichten blijkt (ook) van andere gebruikers. De gebruiker van [e-mailadres 1] spreekt over een trip naar Madrid op 24 maart 2015 terwijl [medeverdachte 1] op dat moment feitelijk naar Leeds is gevlogen. Ook wordt over de [e-mailadres 1] -lijn gesproken over personen die niet in de richting wijzen van [medeverdachte 1] . Zo stuurt [e-mail adres 3] aan [e-mailadres 1] : “Ik ben heel trots jacob” en “als ik het wil kan het we’ll. Jij wou met niemand praten maar toch werd ik je vriend en die gave heb ik. Doe dat maar s na op jou nivo als blanke toe te treden hahahahahahahahaha moe ik wil die dikke een keer zien”. Ook verstuurd [e-mailadres 1] zelf de volgende berichten: “Hello friend How are you ?? Alles goed How is your nederlands habhah It me you mocrocain friend of roy” en “I am not the maroc guy friend 1 have this pgp with me 1 ask him where he is when he answer 1 tell you”.
+Ten slotte zou de gebruiker van [e-mailadres 1] op 21 augustus 2015 in Marokko zijn (hij verstuurd namelijk het bericht: “Oued loua onderweg naar Hoceima 181 km te gaan nog!”) terwijl dat van [medeverdachte 1] niet kan worden vastgesteld. 
+ 
+
+De raadslieden van [verdachte] en [medeverdachte 2] hebben zich niet uitgelaten over de identificatie van de e-mailadressen ( [verdachte] ) en de bijnamen ( [medeverdachte 2] ).
+ 
+
+
+5.1.2.
+Het standpunt van de officier van justitie 
+
+
+
+              [medeverdachte 1] – [e-mailadres 1] 
+
+De [e-mailadres 1] -lijn is aan [medeverdachte 1] te koppelen. De inhoud van verschillende berichten van de [e-mailadres 1] komt overeen met feiten met betrekking tot [medeverdachte 1] . De [e-mailadres 1] bericht over het hebben van een rechtszitting op 18 november 2015. [medeverdachte 1] heeft op die datum een zitting. Ook zijn berichten over vluchten het regelen van een auto voor zijn toenmalige vriendin en een hotelboeking voor [verdachte] door het onderzoeksteam uitgezocht en blijken die berichten steeds terug te voeren op [medeverdachte 1] . 
+ 
+
+Er is geen aanleiding om te veronderstellen dat sprake zou zijn van meerdere gebruikers van [e-mailadres 1] . De door de verdediging aangehaalde berichten leiden niet tot de conclusie dat sprake zou zijn van andere personen dan [medeverdachte 1] ; ‘Jacob’ is een kledingmerk ‘ [bijnaam 4] ’ gaat over [verdachte] en [e-mailadres 1] geeft in zijn bericht over ‘the maroc guy’ juist aan dat hij niet ‘the mocrocain friend’ is. Verder kan misschien niet worden vastgesteld of [medeverdachte 1] op 21 augustus 2015 in Marokko is geweest. Het kan ook niet worden uitgesloten. De enige die daar duidelijkheid over kan verschaffen is [medeverdachte 1] zelf en dat hij heeft nagelaten. Dat [e-mailadres 1] op 24 maart 2015 in Madrid zou zijn geweest is niet geloofwaardig. Het is aannemelijker dat een grapje wordt gemaakt omdat de gebruiker van [e-mail adres 3] direct daarna schrijft: “haha”. 
+ 
+
+
+
+              [verdachte] – [e-mail adres 3]  [e-mail adres 4] en [e-mail adres 2]
+
+De accounts [e-mail adres 3]  [e-mail adres 4] en [e-mail adres 2] kunnen aan verdachte [verdachte] (hierna: [verdachte] ) worden toegeschreven. Met de [e-mail adres 3] stuurde [verdachte] zijn eigen BSN naar [e-mailadres 1] en met de [e-mail adres 4] communiceerde hij met [e-mailadres 1] over een aanhouding wat in lijn is met het onderzoek Higgins. [verdachte] is als gebruiker van de [e-mail adres 2] naar voren gekomen door communicatie met de [e-mailadres 1] over betaling van € 25.000- aan [naam 1] . Die betaling werd een dag later ook daadwerkelijk geregistreerd.
+ 
+
+
+
+              [medeverdachte 2] – ‘ [bijnaam 1] ’ ‘ [bijnaam 2] ’ en ‘ [bijnaam 3] ’
+
+Van [medeverdachte 2] zijn geen hele gesprekslijnen uit de Ennetcom-data gekomen. Wel kan uit verschillende berichten tussen [medeverdachte 1] en [verdachte] worden afgeleid dat [medeverdachte 2] de bijnamen ‘ [bijnaam 1] ’ ‘ [bijnaam 2] ’ en ‘ [bijnaam 3] ’ had dan wel gebruikte. ‘ [bijnaam 1] ’ stuurde een door hemzelf opgeslagen nummer door naar [verdachte] . Dit blijkt het BSN van [medeverdachte 2] te zijn. Ook stuurde ‘ [bijnaam 1] ’ een bericht naar [verdachte] dat hij zich terugtrekt. Als [verdachte] dit bericht doorstuurt naar [medeverdachte 1]  reageert deze dat ‘ [bijnaam 2] ’ zich niet zomaar kan terugtrekken. Als [verdachte] een bericht doorstuurt van ene ‘ [bijnaam 3] ’ stuurt hij zelf het bericht mee dat ‘ [bijnaam 2] ’ weer doordramt.
+ 
+
+Geen van de verdachten heeft deze bevindingen gemotiveerd weersproken. Ze hebben zich op dit punt alle drie op hun zwijgrecht beroepen. 
+ 
+
+
+5.1.3.
+Het oordeel van de rechtbank 
+
+
+
+              [medeverdachte 1] – [e-mailadres 1]
+
+
+- Op 25 juni 2015 heeft [e-mailadres 1] het adres van een bedrijf (Batley Cars) in Leeds Verenigd Koninkrijk doorgegeven. Precies dezelfde gegevens zijn bewaard in een iMessage-gesprek tussen [naam 2] en [medeverdachte 1] op 7 november 2015.3
+- Op 1 september 2015 schreef [e-mailadres 1] dat “[naam 3] (…) om een kleine goedkope auto” vroeg. Enkele dagen later op 5 september 2015 werd een auto op naam van [naam 3] ingeschreven. Deze [naam 3] was op dat moment de vriendin van [medeverdachte 1] . De aansprakelijke voor het voertuig was vanaf dat moment [naam B.V.] De eigenaar van dit bedrijf [naam 2] is een contact van [medeverdachte 1] .4
+- Op 17 november 2015 stuurde [e-mailadres 1] een bericht naar een e-mailadres ( [e-mail adres 5] ) dat in gebruik was bij [medeverdachte] .5 [e-mailadres 1] schreef: “morgen heb ik die zitting om 09:00”. Op 18 november 2015 om 9:00 uur stond bij het Gerechtshof Amsterdam een rechtszaak van [medeverdachte 1] op de rol.6
+- In dezelfde maand communiceerde [e-mailadres 1] met [medeverdachte] over een vlucht van Aer Lingus op 18 november 2015 en een vlucht van Ryanair op 28 november 2015 beide van Amsterdam naar Dublin.7 [medeverdachte 1] stond bij beide vluchten op de passagierslijst.8 
+
+Gelet op bovenstaande bevindingen kan het naar het oordeel van de rechtbank niet anders zijn dan dat [medeverdachte 1] de gebruiker was van de [e-mailadres 1] -lijn. 
+ 
+
+De raadsman heeft aangevoerd dat mogelijk (ook) andere personen gebruik hebben gemaakt van [e-mailadres 1] . De verdediging wijst daartoe op een aantal berichten. De context waarin deze berichten zijn verstuurd of ontvangen geven de rechtbank echter geen aanleiding daaruit op te maken dat hier sprake is van een andere gebruiker van de [e-mailadres 1] -lijn.
+
+
+-
+Waar wordt gesproken over ‘Jacob’ is de rechtbank net als de officier van justitie van oordeel dat niet aannemelijk is dat de gebruiker van de [e-mailadres 1] -lijn wordt aangeduid maar veeleer dat over een kledingmerk wordt gesproken. In berichten in hetzelfde gesprek en tussen dezelfde contacten wordt immers gesproken over een ‘outfit’ en over ‘Jacob cohen’ wat een bekend kledingmerk is. 
+
+-
+Waar de gebruiker van [e-mail adres 3] ‘ [bijnaam 4] ’ noemt interpreteert de rechtbank dat niet als een aanduiding van de gebruiker van [e-mailadres 1] maar als een verwijzing naar zichzelf (volgens het OM [verdachte] ). 
+
+-
+Ten aanzien van ‘the mocrocain friend’ kan de rechtbank uit de berichten niet afleiden dat hiermee de gebruiker van [e-mailadres 1] wordt bedoeld. Ten aanzien van de reisbewegingen is de rechtbank van oordeel dat niet kan worden vastgesteld dat [medeverdachte 1] niet in Marokko is geweest op 21 augustus 2015 terwijl het bericht over ‘Madrid’ voornamelijk gelet op de inhoud en context van de andere berichten niet tot de conclusie dwingt dat de gebruiker van [e-mailadres 1] daadwerkelijk in Madrid moet zijn geweest. 
+
+
+
+Al met al is de rechtbank van oordeel dat [medeverdachte 1] de gebruiker was van [e-mailadres 1] en dat alle berichten met betrekking tot dat account aan [medeverdachte 1] zijn toe te schrijven. Hierna zal de rechtbank de gebruiker van [e-mailadres 1] aanduiden als [medeverdachte 1] .
+ 
+
+
+
+              [verdachte] – [e-mail adres 3]  [e-mail adres 4] en [e-mail adres 2]
+
+
+
+              [e-mail adres 3]
+            
+
+Op 19 maart 2015 stuurde [e-mail adres 3] naar [medeverdachte 1] : “Mijne [nummer ]”. Dit nummer bleek het Burger Service Nummer (BSN) van [verdachte] .9 Op 21 juli 2015 vroeg [e-mail adres 3] aan [medeverdachte 1] om voor hem een hotelkamer te boeken in het Marriott-hotel in Parijs. [e-mail adres 3] wil wel dat onder een andere naam wordt geboekt. Als [medeverdachte 1] vervolgens schrijft dat dit niet kan en dat het op naam van zijn vrouw moet stuurt [e-mail adres 3] de gegevens van [naam vriendin]  de vriendin van [verdachte] .10 Uit een rechtshulpverzoek is gebleken dat [verdachte] en zijn vriendin tussen 23 en 25 juli 2015 hebben verbleven in hat Marriott-hotel in Parijs.11
+ 
+
+
+
+              [e-mail adres 4]
+            
+
+Op 4 maart 2015 werd [verdachte] staande gehouden terwijl hij reed in een Volkswagen Golf met kenteken [kenteken] op naam van Axis Gemaksdiensten BV. Op naam van deze BV bleek nog een belastingschuld open te staan. Dezelfde dag vond er een gesprek plaats tussen [e-mailadres 1] en [e-mail adres 4] waarin werd gesproken ‘Axis’ ‘Golf’ en ‘ontneming’. Op 19 maart 2015 vroeg [e-mailadres 1] aan [e-mail adres 3] “die gegevens van die boete”. In de inbox van [e-mailadres 1] stond een afbeelding van een naheffingsaanslag geadresseerd aan Axis Gemaksdiensten BV met betrekking tot een voertuig met het kenteken [kenteken] .12
+ 
+
+
+
+              [e-mail adres 2]
+            
+
+Op 8 september 2015 werd schriftelijk aan [verdachte] meegedeeld dat de Volkswagen Golf waarop conservatoir beslag lag aan hem zou worden teruggegeven tegen een zekerheidsstelling van € 25.000-. Op 22 september 2015 stuurde [e-mailadres 1] ( [medeverdachte 1] ) aan [e-mail adres 2] : “€ 25.000- + € 2.500- de kosten voor het wit maken! Totaal € 27.500- wordt dan van jou verwacht! Morgen wordt het bedrag overgemaakt naar [naam 1] en op wie zijn naam komt die auto?” Hierop antwoordde [e-mail adres 2] : “Ovj zegt tegen [naam 4] maakt niet uit waar vandaan als het maar namens [verdachte] betaald word. Want wij zien hem als eig en raken de auto niet meer aan. Dat zegt ovj.” [medeverdachte 1] stuurde terug: “die mensen van het bedrijf hebben geen zin in problemen en vragen van FIOD waarom zij betalen etc dus zij adviseren dat de auto op naam van hun bedrijf komt en er een constructie wordt verzonnen door hun dat regelen zij allemaal!” Op 23 september 2015 ontving het OM een bedrag van € 25.000-. Dit geld was afkomstig van een zogeheten jive-rekening. Dit is een bankrekening die op aanvraag van ‘de klant’ gebruikt kan worden. Op deze rekening was € 10.000- contant afgestort door [naam 2]  de jongere broer van [naam directeur]  directeur van Axis Gemaksdiensten BV. Ook werd tweemaal € 10.000- overgemaakt door [naam B.V.] . Vervolgens werd het restant (€ 5.000-) overgeschreven naar een rekening op naam van [medeverdachte 1]  onder de vermelding van “Lening”.13
+ 
+
+Gelet op bovenstaande bevindingen stelt de rechtbank vast dat [verdachte] de gebruiker was van de lijnen [e-mail adres 3]  [e-mail adres 4] en [e-mail adres 2] . De rechtbank zal hierna de gebruiker van die lijnen aanduiden als [verdachte] . 
+ 
+
+
+
+              [medeverdachte 2] – ‘ [bijnaam 1] ’ ‘ [bijnaam 2] ’ en ‘ [bijnaam 3] ’
+
+‘[bijnaam 1]’
+Op 19 maart 2015 ontving [verdachte] van een persoon in zijn contactenlijst heeft opgeslagen als ‘ [bijnaam 1] ’ een bericht met een BSN. Dit BSN bleek van [medeverdachte 2] . Vervolgens stuurde [verdachte] dit BSN door naar [medeverdachte 1]  onder vermelding van ‘ [bijnaam 2] ’.14
+ 
+
+‘[bijnaam 2] ’
+Op 3 april 2015 stuurde ‘ [bijnaam 1] ’ een bericht aan [verdachte] ( [e-mail adres 3] ) met de mededeling dat hij zich terugtrekt. Nadat [verdachte] dit bericht heeft doorgestuurd naar [medeverdachte 1]  bericht hij dat ‘ [bijnaam 2] ’ [zich] niet zomaar kan terugtrekken.15
+ 
+
+‘[bijnaam 3]’
+Op 11 oktober 2015 stuurt [e-mail adres 2] ( [verdachte] ) een bericht afkomstig van ‘ [bijnaam 3] ’ door naar [e-mailadres 1] ( [medeverdachte 1] ): “Geen [naam  boot] . [naam 8] is al 2x door het oog van de naald gegaan met [naam  boot] . Dus zij is geen optie voor [naam 8] . Er zijn meerdere die deze kant opgaan dus geen verrassingen”. [verdachte] stuurt als bericht mee naar [medeverdachte 1] dat ‘ [bijnaam 2] ’ weer doordramt.16
+ 
+
+Gelet op bovenstaande bevindingen stelt de rechtbank vast dat verdachte [medeverdachte 2] van anderen de bijnamen ‘ [bijnaam 1] ’ ‘ [bijnaam 2] ’ en ‘ [bijnaam 3] ’ kreeg.
+ 
+
+
+
+              [medeverdachte] – [e-mail adres 5]  [e-mail adres 6] en [e-mail adres 7]
+
+In de Ennetcom-berichten komt regelmatig [medeverdachte] naar voren. Uit het onderzoek is gebleken dat hij gebruikmaakte van de accounts [e-mail adres 5]  [e-mail adres 6] en [e-mail adres 7] .17
+ 
+
+
+
+5.2.
+
+De tenlastegelegde feiten
+ 
+
+5.2.1.
+
+Feit 1 – invoer van 261 kg cocaïne
+ 
+
+5.2.1.1. Het standpunt van de officier van justitie
+ 
+
+Bewezen kan worden dat [medeverdachte 1] samen met anderen de cocaïne heeft ingevoerd. [naam 5] (hierna: [naam 5] ) heeft vrijwel onmiddellijk na zijn aanhouding een bekennende verklaring afgelegd zonder enige kennis van het dossier. Die verklaring houdt onder meer in dat hij door twee mannen is bedreigd om hem zover te krijgen om op 10 juni 2017 drugs op te vissen uit zee en daarvoor op 9 juni 2017 iemand op te halen. Deze verklaring sluit naadloos aan bij observatiebeelden baken- en telecomgegevens van de auto en de telefoon van [medeverdachte 1] en meerdere getuigenverklaringen. Anders dan [naam 5] heeft [medeverdachte 1] zich tot voor kort consequent op zijn zwijgrecht beroepen. Pas op 6 september 2018 na volledige kennisneming van het dossier heeft hij een inhoudelijke verklaring afgelegd. Deze verklaring houdt in dat hij op de hoogte was van het drugstransport maar dat hij steeds alleen aanwezig was om voor [naam 5] te bemiddelen. Deze verklaring is niet aannemelijk omdat deze onvoldoende wordt ondersteund of zelfs ronduit wordt tegengesproken door andere feiten en omstandigheden. De verklaringen van [naam 5] en [medeverdachte 2] stroken niet met de door [medeverdachte 1] afgelegde verklaring. Ook is het volstrekt niet logisch dat [medeverdachte 1] meer dan een jaar wacht met het afleggen van deze verklaring terwijl hij in detentie zit als hij werkelijk slechts ‘de boel wilde sussen’. 
+ 
+
+5.2.1.2. Het standpunt van de verdediging
+ 
+
+
+            [verdachte] moet van feit 1 worden vrijgesproken. Verdachte was niet op de parkeerplaats hij was niet betrokken bij voorbesprekingen van wat voor aard dan ook verder kan er niets over hem met betrekking tot dit feit worden vastgesteld. 
+ 
+
+5.2.1.3. Het oordeel van de rechtbank
+ 
+
+
+            [verdachte] wordt vrijgesproken van de strafbare deelname aan de invoer van de cocaïne. Anders dan zijn medeverdachten is [verdachte] in de week van het transport niet in beeld gekomen bij het onderzoeksteam. Hij is niet gezien bij de observaties op 6 9 en 10 juni 2017 en ook getuige [naam 5] heeft niets verklaard over betrokkenheid van [verdachte] bij het transport. 
+ 
+
+
+5.2.2.
+
+Feit 2 – De criminele organisatie
+ 
+
+5.2.2.1. Het standpunt van de officier van justitie 
+ 
+
+Bewezen kan worden dat [medeverdachte 1] deel heeft genomen aan een criminele organisatie in de periode van februari 2015 tot en met november 2015 die zich bezighield met misdrijven die samenhangen met harddrugs. Dit volgt uit de Ennetcom-berichten die voor waar kunnen worden aangenomen. Zo wordt enkele keren een foto meegestuurd komt de inhoud van diverse berichten overeen met feitelijke gebeurtenissen en is de in een bericht uit 2015 beschreven werkwijze precies hetzelfde als de wijze waarop het transport op 10 juni 2017 is uitgevoerd. Dat de organisatie het doel had om misdrijven met betrekking tot harddrugs te plegen volgt rechtstreeks uit de berichten waarbij overigens niet is vereist dat een beoogd misdrijf daadwerkelijk is uitgevoerd. Ook was er een zekere structuur binnen het samenwerkingsverband: [medeverdachte 2] had een coördinerende rol als verantwoordelijke voor enkele vissers en hij zorgde ervoor dat [medeverdachte 1] via [verdachte] coördinaten op zee doorkreeg (waar de overboord gezette lading kon worden opgepikt). [medeverdachte 1] was de baas onderhield contact met de leverancier(s) en hield de kosten en baten bij. [verdachte] werkte intensief met [medeverdachte 1] samen en was tussen [medeverdachte 1] en [medeverdachte 2] het rustig denkende brein. 
+ 
+
+5.2.2.2. Het standpunt van de verdediging
+ 
+
+Dat de invoer in juni 2017 een onderdeel is van de criminele organisatie die in 2015 zou hebben bestaan blijkt nergens uit. Daar komt bij dat [verdachte] van die invoer in 2017 moet worden vrijgesproken. Wat uit de Ennetcom-berichten uit 2015 zou kunnen worden opgemaakt is dat er enkele gesprekken zijn geweest over (de invoer van) drugs. Uit die berichten waarvan het waarheidsgehalte niet kan worden vastgesteld blijkt niet dat er daadwerkelijk drugs zijn ingevoerd. Voor zover de rechtbank tot een bewezenverklaring zou komen kan in elk geval niet worden bewezen dat een eventuele organisatie langer heeft bestaan dan tot november 2015 omdat nergens uit blijkt dat het transport op 10 juni 2017 een product is van het vermeende samenwerkingsverband in de periode februari – november 2015.
+ 
+
+5.2.2.3.. Het oordeel van de rechtbank
+ 
+
+De rechtbank vindt bewezen dat verdachten [medeverdachte 1]  [verdachte] en [medeverdachte 2] in de periode tussen februari en november 2015 hebben deelgenomen aan een criminele organisatie die zich bezig hield met de handel in en de invoer van harddrugs. Om te laten zien hoe zij tot dit oordeel is gekomen bespreekt de rechtbank eerst de voor dit feit relevante Ennetcom-berichten tussen februari en november 2015. Daarna wordt het juridisch kader voor een criminele organisatie zoals bedoeld in artikel 11b van de Opiumwet uiteen gezet en vervolgens toegepast op de zaak van verdachten. 
+ 
+
+
+De relevante Ennetcom-berichten
+
+ 
+
+
+1 februari 2015
+
+
+            [medeverdachte 1] stuurt het volgende bericht naar [medeverdachte] :
+ 
+
+“Ja bro is goed verhaal alleen ze moeten wel mensen op die boot kennen die kunnen gooien ik heb mee mogen doen op die [naam  boot] die mannen weten wat ze moeten doen en 1 man van andere kant moet mee om akkoord te geven om te gooien 1 deze weken komt weer wat dan maak ik foto van hoe die tas moet zijn touw licht jerrycan en dan stuur ik jou die direct heb je iemand die die verhaal kan vullen?”18
+ 
+
+Kort voor dit bericht op 21 januari 2015 is een partij cocaïne ingevoerd die in zee werd gegooid vanaf de [naam  boot] en werd opgevist door een viskotter de [nummer viskotter] .19 Deze werkwijze lijkt sterk op die bij het transport op 9-10 juni 2017 waarbij de kotter [nummer viskotter] tassen met verdovende middelen had opgevist nadat deze vanaf een containerschip in zee waren gegooid (zie feit 1). 
+ 
+
+
+25 februari 2015
+
+
+            [medeverdachte 1] stuurt een bericht naar zichzelf met namen van boten en vissers waaronder “[nummer viskotter] [naam 5]”. Ook stuurt [medeverdachte 1] een parketnummer naar zichzelf dat gekoppeld is aan een zaak tegen [medeverdachte 2] .20
+ 
+
+
+25 februari 2015
+
+
+            [verdachte] stuurt [medeverdachte 1] het bericht: “Ik denk dat die 800 van hun waren”.21
+ 
+
+Hiermee bedoelt [verdachte] mogelijk een partij verdovende middelen van 791 kilogram die op 21 januari 2015 in beslag werd genomen. Deze partij was in zee gegooid vanaf het containerschip de [naam  boot] en werd opgevist door een boot van [naam 6] .22
+ 
+
+
+25 februari 2015
+
+
+            [verdachte] stuurt [medeverdachte 1] het bericht: “[bijnaam 3] is samen met [naam 5] een nieuwe kotter begonnen!” waarop [medeverdachte 1] reageert: “Klopt ja de [nummer viskotter] lekker he?”23
+ 
+
+De firma [naam firma]24 heeft op 28 januari 2015 een leningsovereenkomst in het Belgische scheepsregister laten inschrijven ten behoeve van de aankoop van de [nummer viskotter]25 en deze kotter is op 21 februari 2015 op Urk gedoopt.26
+ 
+
+
+16 maart 2015
+
+
+            [medeverdachte 1] stuurt aan het Ennetcom-account ( [account] ) van een onbekend gebleven persoon: “Dag vriend kan jij jou vriend zeggen dat dit de positie is en zij moeten vragen of zij hier langs komen? [nummer ] Dit is de positie”. Vervolgens vraagt [verdachte] aan [medeverdachte 1] of hij de ‘pos’ heeft afgegeven en wanneer ze ongeveer gaan ‘spelen’. [verdachte] stuurt [medeverdachte 1] : “Het moet hangen RECHTS achter!” en de hoeveelheid licht: “Min 6 lichten liefst meer totaal” en “Alles zit meestal aan elkaar gebonden op elk pak gewoon een lampje dan moeten we het zien”. Hierop reageert [medeverdachte 1] : “Ok bro 3 lampen per tas beter veel dan weinig zitten paar korte lontjes bij daarom zeg ik duidelijk hier pos hier staan wij”.27
+ 
+
+
+19 maart 2015
+
+
+            [medeverdachte 1] stuurt een bericht naar [verdachte] waarin hij vraagt om “die BSN van iedereen”. Later die dag stuurt hij het volgende bericht aan [verdachte] :
+“Broer dit ga ik doorgeven ok klopt dit allemaal?
+
+
+              [verdachte] [nummer ]
+
+
+
+              [naam 5] 
+
+
+
+              [medeverdachte 2] [nummer ]
+
+
+
+              [naam 7] ”
+
+            [verdachte] reageert door te zeggen dat het klopt.28
+ 
+
+
+20 maart 2015
+
+Op de vraag van [medeverdachte] hoe het zit met “die vissersboot verhaal” antwoordt [medeverdachte 1] : “Broer we wachten nu op die joegos 1 is naar de overkant en komt einde van de maand terug dan gaan we aan tafel en jou man komt dan mee aan tafel aanhoren voor het meezitten die vissers van mij staan klaar”.29
+ 
+
+
+25 maart 2015
+
+
+            [medeverdachte 2] stuurt het volgende bericht aan [verdachte]  die dat weer doorstuurt aan [medeverdachte 1] : 
+“Voor het kanaal is te heet. Hij pakt hem in het kanaal frans plat. De pos krijg ik nog. Spreek hem zaterdag weer. Vorige week zei hij binnenkort wil ik het doen maar moet f nog even over de streep trekken en dan kan het met mijn eigen bemanning. Degene die mee gaat als controle moet wel een nederlander zijn. Waar hij vist passeerde 2 weken geleden de [naam  boot] nog. Hij heeft nog met de nachtkijker gekeken of hij wat zag hangen maar hij zag niets haha”. 
+
+            [verdachte] schrijft vervolgens aan [medeverdachte 1] : “Dus franse plat pos volgt. Is het goed zit je met die mensen?” waarop [medeverdachte 1] antwoordt: “Ik zit nu met hun ja ze zeggen we wachten op die pos dan en dan praten we verder en ze gaan geen 10 procent betalen”.
+
+            [medeverdachte 1] geeft ook te kennen dat ‘ze’ vragen stellen “(…) als hoe groot is die kot en hoeveel bemanning zit er op (…)”. 
+Hierop vraagt [verdachte] aan [medeverdachte 2] : “ hoeveel mtr? Hoeveel man?” waarop [medeverdachte 2] antwoordt: “24m 4 man plus controleman als is 5”. 
+
+            [medeverdachte 2] schrijft aan [verdachte] : “Het is logisch als het fregat heel dicht in de buurt ligt dat hun niet gooien en wij niet pakken want dan zit iedereen erin. Ze moeten wel begrijpen dat niemand dit werk wil doen als ze ook moeten pakken als er een fregat heel dicht in de buurt ligt. We gaan voor veiligheid en niet voor een lange gratis vakantie. Ik heb dit ook nog nooit meegemaakt dat je moet pakken als er een fregat op je zei ligt.” En: “Wij hebben vroeger wel vaker een pos op het allerlaatste moment veranderd als er bv te veel visserij in dat gebied was maar dat kun terplekke pas bekijken”.30
+ 
+
+
+30 maart 2015
+
+
+            [medeverdachte 1] informeert bij een contact dat hij in zijn telefoon heeft opgeslagen als ‘ [contact] ’ over wat de huidige prijs is. Hierop ontvangt hij een foto van een stempel (zie onder) en stuurt die door naar [verdachte] met het bericht: “Broer top handel net aangenomen voor 29” en “die gaan we zo doorstoten kijken wat ze ervoor betalen”. [verdachte] wil weten hoeveel er van zijn waarna [medeverdachte 1] schrijft “partij binnen gekomen van 250 broer en van die 250 mogen wij er 50 verkopen”.31
+ 
+
+
+
+
+
+
+32
+ 
+
+
+5 april 2015
+
+
+            [verdachte] stuurt een bericht van [medeverdachte 2] door naar [medeverdachte 1] : “[naam 8] is geweest en heb pos. Momenteel nog 2 weken reparatie. Als reparatie klaar is mag je plennen mits degene die nu bij hem vaart zijn vaarbevoegdheid goed is gekeurd maar dat weet ik volgende week zondag van hem want daar zou hij deze week achteraan gaan. 500 max meer kan hij niet verstoppen. Als deze goed is gegaan wil hij er nog een paar doen. Gooien kan alleen op di wo en do want vrij moet hij naar binnen en za en zon vaart hij nooit.”33
+ 
+
+
+18 april 2015
+
+
+            [medeverdachte 1] stuurt een bericht aan [medeverdachte] waarin hij schrijft over verschillende opties en percentages waaronder een man die 10 procent betaalt “om op open water over te zetten”. Ook wordt gesproken over het aantal tussenstops waarop [medeverdachte] reageert: “Ja kijk broo iets dat we zelfd heelen maal van begin tot einde kunnen invullen zou het affste ziin!!” Vervolgens spreekt [medeverdachte 1] over prijzen : “in NL is die bruin nu 18K ongeveer maar in UK 40K euro bro uitbetaalt in NL dus is dubbel zo goed !”34
+ 
+
+5 en 10 juli 2015
+
+
+          [medeverdachte 1] stuurt op 5 juli 2015 aan [verdachte] : “Oke bro! Die ene die is afgeleverd ik ga er even mee klote kijken of er wat mee gedaan kan worden”. Een uur later stuurt hij een foto naar [verdachte]  voorzien van de tekst: “Allemaal vocht broer!”. 
+
+
+
+
+
+
+Vervolgens schrijft [medeverdachte 1] aan [verdachte] : “Dus ze zijn niet goed gedroogd broer! lk ga deze opnieuw proberen te drogen en dan proberen te breken die vocht zit binnen daarom zijn die blokken zwaar Zodra een klant ze op de weegschaal zet en ze wegen meer dan 1002 gram krijgen wij al gezeik! Maar ik heb begrepen dat ze handel hoe dan ook nog weg moet want mensen moeten betaald worden!”35
+ 
+
+Op 10 juli 2015 stuurt [medeverdachte 1] aan [verdachte] : “Schade! Dan weet je dat! Dit is niet te verkopen wat goed is is te verkopen!” [medeverdachte 1] stuurt met dit bericht twee foto’s mee:36
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+22 en 29 juli 2015
+
+
+          [verdachte] stuurt op 22 juli 2015 het volgende bericht naar [medeverdachte 1] : “Broer dit persoon voor mij even checken mogelijk kan hij werken voor ons in de toekomst. [naam 6] [geboortedatum 1] [geboorteplaats] .” waarna [medeverdachte 1] deze persoonsgegevens doorstuurt naar [gebruiker 1] (hierna: [gebruiker 1] ) van een onbekend gebleven gebruiker.37 
+
+
+            [medeverdachte 1] ontvangt op 29 juli 2015 een bericht van [gebruiker 1] met de gegevens van [naam 5] en de boodschap dat er “geen meldingen bij hem” zijn. Hierop antwoordt [medeverdachte 1] : “Oke broer hij kan dus gewoon werken!”38
+ 
+
+
+            [naam 6] is op 21 december 2017 veroordeeld voor het invoeren van 703 kilo cocaïne (in de media vaak aangeduid als 800 kilo) door op 21 januari 2015 met zijn vissersboot (de [nummer viskotter] ) tassen met cocaïne op te vissen en aan land te brengen.39 Zie ook de hiervoor genoemde berichten van [verdachte] en [medeverdachte 1] hierover op 25 februari 2015. 
+
+            [naam 5] is op 16 mei 2018 veroordeeld voor het invoeren van 261 kilo cocaïne op 10 juni 2017 die met zijn kotter de [nummer viskotter] was opgevist (zie ook feit 1).40
+ 
+
+
+30 juli 2015
+
+
+            [medeverdachte 1] stuurt het volgende bericht aan [medeverdachte] : “Broer dit is het verhaal omtrent die vissers: We hebben een groep vissers die op het water kunnen aannemen en opvangen dan gaat het om de botenlijnen die boven lopen en de Noordzee. Wat we nodig hebben is iemand die op containerschepen mensen heeft of een eigen boot heeft waarmee die bij de boven botenlijnen kan komen. Die vissers geven een positie af waar die boten elkaar moeten treffen als het een containerschip is dan moeten die mensen aan boord het kunnen lossen en als het een eigen boot is dan kunnen ze naast elkaar liggen en overladen. Die mensen vragen minimaal 500 stuks en dan een afhaal percentage van 10 procent mag ook minder aantallen zijn zolang zij maar 50 stuks ontvangen dus bijvoorbeeld een test van 250 stuks dan nemen zij 50 stuks als percentage ze willen ook mee zetten en geven hun inzet geld van te voren af. Als iemand op dit systeem kan werken bro dan komen er meer details zoals de coordinaten waar ze elkaar treffen en hoe de spullen verpakt moeten zijn etc ken jij mensen die op dit systeem kunnen werken bro? Dit systeem kan alleen vanaf Maart tot Oktober omdat het water dan rustig is boven met onrustig water kan het wel maar is heel moeilijk werken dus die vissers raden dat af!”
+
+            [medeverdachte] antwoordt: “Ken het systeem sir yoego hebben die lyn in hun hand en crew op veel boten mensen van montengro sir die hebben die boot mensen die na zuid ameri gaan en laden ze en lossen op deze manier”.41
+ 
+
+
+4 augustus 2015
+
+
+            [verdachte] en [medeverdachte 1] wisselen berichten uit over de vraag of de ‘paraplu’s’ geschikt zijn voor de Engelse markt. [medeverdachte 1] stuurt vervolgens: “Broer daarvan zijn er 7 nog en ik heb nu een KLAVER voor mij liggen alleen waar let die man op? Welke punten?” Vervolgens stuurt hij een foto naar [verdachte] .42
+ 
+
+
+
+
+
+
+4 en 5 augustus 2015
+
+Op 4 augustus 2015 vraagt [medeverdachte 1] aan [verdachte] of hij meedoet “op die verhaal van 12750 dollar?” [verdachte] reageert een dag later: “Wanneer moeten we zetten?” Hierop antwoordt [medeverdachte 1] : “Ik ben in de ochtend alle papieren gaan afleveren broer totaal komen er 40 als het goed is waarvan ik 5 heb gezet jij reageerde gisteren en eergisteren niet op die vraag van mij dus ik dacht je vindt het niet intressant! Wil jij wel of niet meezetten op die lijn?” [verdachte] schrijft: “3 voor mij bro”. Vervolgens [medeverdachte 1] geeft enkele details aan [verdachte] : “Oke broer bij deze die nu gaat komen wordt het moeilijk alle plekken zijn ingevuld ik ga kijken voor jou je hoort het van mij inzet is 12750 dollar en de winst is uiteindelijk met de kosten eraf rond de 6500 euro tot 8000 euro hangt van de kwaliteit en de verkoop af! Beslis of jij hoe dan ook mee zet want dan hoef ik niet meer te vragen! Het wordt gezet in de vloer van een AKE container uit Punta Cana op de ARKE vlucht er gaat max 40 in de vloer nu gaan wij 1 container spelen de partij vanaf Punta Cana zet er 20 en dan is 20 hier verdeelt 18 stuks door de groep die de contact heeft in Punta Cana en 10 stuks door de groep die hier de uithaal contact heeft en wij zijn van de uithaal contact die 10 stuks zijn verdeeld onder ons dus! Waarvan ik er 5 heb gezet en 5 losse jongens de man 1 in die 5 van mij zit 1 voor onze vriend en 1 van dikke 3 van mij zelf! Ik doe mijn best om jou nog op deze te krijgen! De bedoeling is dat we gaan opbouwen naar 2 AKE per vlucht per week dan tikt het lekker aan!”43 
+
+
+21 augustus 2015
+
+
+            [medeverdachte 1] vraagt [gebruiker 1] “nog wat gehoord omtrent die PRADA?” Een paar uur later krijgt [medeverdachte 1] twee foto’s teruggestuurd:
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+            [medeverdachte 1] stuurt deze foto’s door aan [verdachte] en schrijft: “BENTLEY is weg PRADA ligt er nog maar we gaan er nu mee aan de slag!” Vervolgens wil [verdachte] weten wat ‘die prada’ kosten.44 Kort daarop stuurt [gebruiker 1] drie foto’s naar [medeverdachte 1]  waarna [medeverdachte 1] informeert naar de prijs. 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+Ook wil [medeverdachte 1] het volgende weten: “Wat kookt ie uit? Is de geur goed ? Structuur op daglicht? Gelijk hard en die knak?” Hierop wordt geantwoord: “Kookt 8 of 9 geur is goed die ding is goed hij heeft er 16 weg gedaan vandaag hij heeft er hier 5”. 
+Vervolgens stuurt [medeverdachte 1] deze drie foto’s door naar [verdachte] met het bericht: “Broer deze net aangepakt 5 stuks verkoop 29”.45
+ 
+
+
+1 september 2015
+
+
+            [medeverdachte 1] stuurt [medeverdachte] : “Die kapitein en bemanning broer komen op positie die garantie geef ik zelfs maar als die mensen verkeerd gooien zonder licht of weinig balans gewicht en het verzuipt of iets anders ja daar kunnen we niets aan doen! Die mensen hadden het over 1000 stuks om de eerste keer te gooien ik praat gewoon rustig met ze broer en probeer om die klus binnen te halen zij kwamen zogenaamd met stoeltie om die tafel heen staan alsof die jongen daarvan onder de indruk moest zijn! lk zeg die vissers leg voordat we beginnen met werken met hun 600k klaar voor het geval iets fout gaat kan gelijk team pikieuw ingeschakeld worden!”46
+ 
+
+
+22 september 2015
+
+
+            [medeverdachte 1] schrijft aan [verdachte] dat hij ‘ [bijnaam 2] ’ wil zien. Hij “wil hem zelf zien en het verhaal uitleggen wij hebben behoorlijk wat gezeik door dat grapje van jou krijg elke dag door stuur mails waar ik niet van gediend ben en wil [bijnaam 2] duidelijk maken dat het jou probleem is en niet die van hem of [naam 8] of zijn knecht en wat de bedoeling nu is met [naam 8]”. [verdachte] schrijft: “Nogmaals het zal nooit meer gebeuren. Heb geen contact meer met hem. Vind het erg voor onze kort onstane vriendschap. Excuses.”47
+ 
+
+
+11 oktober 2015
+
+
+            [medeverdachte 1] schrijft aan een onbekend gebleven gebruiker ( [gebruiker 2]  hierna: [gebruiker 2] ): “Broer mijn man is als het goed gaat allemaal vanaf de eerste week van December inzetbaar beneden! Op het moment vist hij boven ivm de vergunning! Die wordt eind November omgeschakeld naar beneden en dat duurt een week! De boot mag niet in het weekend komen want dan ligt hij officieel in de haven! Het werk moet gedaan kunnen worden Maandag avond dinsdag avond en het liefst zelfs Donderdagavond/nacht! De boot naam moet vooraf bekend zijn bij ons zodat wij de route en los punt kunnen bepalen in de bestaande botenlijn! Voor de eerste week van December kunnen wij niks aanpakken/opvissen beneden! Is dit duidelijk?” In een volgend bericht schrijf [medeverdachte 1] : “Broer het volgende is ook belangrijk! Bij windkracht 6 tot 7 kan de boot niet uit varen! De havenmeester weet dat en douane ook het weer heeft niemand in de hand dan weet je dat! Mocht hij al op zee zijn aan het werk dan kan hij gewoon het werk afmaken en bij rustig weer terug varen naar de haven! Mocht hij nog moeten uit varen en het weer laat het niet toe dan moeten jou mensen in staat zijn om het goed te verstoppen aan boord en dan op de terug reis klaar staan om te gooien! Als alles goed gaat dan ontvangen jullie de spullen in een vrachtwagen met lege viskisten! Die moet ergens naar binnen kunnen rijden we gaan geen kamikaze acties doen met op een parkeerplaats etc! Is dit duidelijk broer? En wat kost het vanaf daar om mee te zetten?”48
+ 
+
+Later die dag vindt een berichtenwisseling plaats tussen [medeverdachte 1] en [verdachte] waaruit blijkt dat [verdachte] een bericht door moet sturen naar [medeverdachte 2] (‘ [bijnaam 2] ’). Ook vraagt [medeverdachte 1] : “voor alle duidelijkheid hoe zij het werk moeten doen per hoeveel kg aantal jerrycans sterke touw aan elkaar vastgezet hoeveel lichtjes etc!” waarop [verdachte] antwoordt: “Kannen van 30 l tegen 30 st dus een op een. Op alle pakken 4 licht rondom!” 
+
+            [medeverdachte 1] wil weten of zijn bericht “naar die gasten toe duidelijk is bevonden door
+
+
+              [bijnaam 2]
+            ”. [medeverdachte 1] schrijft ook aan [verdachte] dat hij nog twee mails naar ‘die joegos’ heeft gestuurd en dat hij het antwoord door zal sturen waarna [verdachte] het door moet sturen naar [medeverdachte 2] om te “bevestigen dat alles klopt”. [medeverdachte 1] schrijft aan [gebruiker 2] : “Jullie zijn verantwoordelijk voor het contact met mensen aan boord wij zijn verantwoordelijk om op de afgesproken positie die dag klaar te staan!”49
+Ook laat [medeverdachte 1] aan [gebruiker 2] weten: “Broer die satteliet telefoons prepaid zijn heel belangrijk voor het contact! In die gebied wordt de marifoon afgeluisterd van iedereen! Hebben jullie die satteliet telefoons al in bezit? [gebruiker 2] antwoordt hierop: “Bro sateliet telefoons hebben we liggen gewoon ... moet alleen nieuwe activeerde simkaarten”. [medeverdachte 1] reageert met: “Oke broer maar 1 moet aan boord zijn he bij die personen die het gaan gooien! Heb net begrepen dat het contact leggen echt belangrijk is vandaar dat ik jou mail! 1 satteliet telefoon met ons mee met jou man op ons bootje! 1 op de grote schip met de mensen die het gaan gooien!”50
+Vervolgens stuurt [medeverdachte 1] aan [verdachte] : “Oke wel kut als ze personeel hebben op de [naam  boot] ! Maar [bijnaam 2] ik ga het doorgeven! Wij gooien 100 mee dikke ik en vriend!” Hierop stuurt [verdachte] : “Dus 200 al van onze kant dus? Jullie en wij?” Kort hierna stuurt [verdachte] een bericht van [medeverdachte 2] (‘ [bijnaam 3] ’) door aan [medeverdachte 1] : “Geen [naam  boot] . [naam 8] is al 2x door het oog van de naald gegaan met [naam  boot] . Dus zij is geen optie voor [naam 8] . Er zijn meerdere die deze kant opgaan dus geen verrassingen”. Hierop stuurt [medeverdachte 1] een bericht aan [gebruiker 2] : “Broer het mag geen [naam  boot] zijn op die schip zit een vloek! Dan weet je dat!”.51
+ 
+
+Met ‘ [naam 8] ’ wordt vermoedelijk [naam 8] bedoeld. Hij heeft verklaard twee keer gecontroleerd te zijn in de buurt van de [naam  boot]  in Harlingen en in België.52 Dit wordt bevestigd door inlichtingen van de Belgische autoriteiten.53
+ 
+
+
+15 oktober 2015
+
+
+            [medeverdachte 1] vraagt aan [verdachte] hoeveel zij nu totaal doen: “82 stuks?” wat [verdachte] bevestigt. [medeverdachte 2] (‘ [bijnaam 3] ’) wil weten of zij hun inzet ook terugkrijgen “als het aan hun kant gepakt wordt”. [medeverdachte 1] stuurt [verdachte] een berekening: “Ik heb 82 x 5040 maakt 413.280 liggen van jullie plus 25 procent over 413.280 maakt 10.332 klopt dat?” 
+In de mailbox van [medeverdachte 1] staat een notitie dat met ‘de joego groep’ een verdeling van 50/50 wordt aangehouden en dat een bankier verantwoordelijk is voor het geld. Deze bankier vraagt 25 procent borgstelling/garantiestelling. “Het opzetten kost 1000 euro per blok aan de matrozen! Het spul kost 3500 euro! Het versturen kost 12 procent totaal kom je op 5040 euro met opzet en spul en versturen!”54
+ 
+
+
+18 oktober 2015
+
+
+            [verdachte] stuurt aan [medeverdachte 1] : “[naam 5] heeft 4 boten!!! [naam 5] is de beste klaar.” Even later vraagt [verdachte] aan [medeverdachte 1] : “Gaat er een joego man mee aan boord? Om te kijken bij ons?” waarop [medeverdachte 1] antwoordt: “Ja 1 van ons 1 van hun! Die verantwoordelijk is voor de communicatie als die ene van ons zeg bro ze hebben verkeerd gegooid of iets dergelijks betalen wij niks uit!”. [verdachte] stuurt: “Gooien met licht gaat wel meestal wel goed . De kijker is belangrijk die moet voorop blijven staan en de kapitein de goede kant op blijven sturen. Net zolang.”.55
+ 
+
+
+26 november 2015
+
+
+            [verdachte] vraagt aan [medeverdachte 1] of hij kan “zetten in equador die haven quaciel? Achter de deur?” [medeverdachte 1] antwoordt: “Ja als het goed is wel maar op welke kade daar? Of met welke schip? [naam  boot] dergelijke?”.56
+ 
+
+In de aangehaalde berichten wordt gesproken over vissers schepen en personen die in verband kunnen worden gebracht met de invoer van harddrugs. De drie verdachten bespreken locaties het in zee gooien en opvissen van goederen en de manier waarop de goederen verpakt moeten worden. Er wordt gesproken over andere mensen waarmee zaken gedaan moeten worden over bedragen die worden ingezet welke partij het risico draagt de prijs van ‘het spul’ en het versturen ervan berekeningen van te verwachten kosten en opbrengsten. Bij sommige berichten zitten foto’s van zeer waarschijnlijk harddrugs gezien het verpakkingsmateriaal de stempels en de context van de berichten. Ook wordt in de berichten gesproken over het nat worden van blokken waardoor ze meer dan 1000 gram wegen en schade wordt geleden. De rechtbank stelt op grond van deze berichten in onderlinge samenhang bezien vast dat [medeverdachte 1]  [verdachte] en [medeverdachte 2] in de periode februari tot en met november 2015 regelmatig contact hebben gehad met elkaar over de handel in en de invoer van harddrugs.
+ 
+
+De rechtbank ziet geen aanknopingspunten voor de door de verdediging geopperde grootspraak. De inhoud van verschillende berichten wordt zoals hiervoor weergegeven ondersteund door feitelijke gebeurtenissen of andere omstandigheden. Bovendien heeft geen van de verdachten een verklaring gegeven voor de inhoud van de verzonden en/of ontvangen berichten die verder strekt dan dat de berichten niet van hen afkomstig zijn dan wel eenvoudigweg niet waar (kunnen) zijn. 
+ 
+
+
+Juridisch kader criminele organisatie artikel 11b Opiumwet
+
+Op basis van de wet en de vaste rechtspraak over dit onderwerp moet een criminele organisatie zoals bedoeld in artikel 11b van de Opiumwet aan een aantal eisen voldoen. Het moet gaan om (1) een samenwerkingsverband van tenminste twee personen met (2) een zekere duurzaamheid en (3) structuur die (4) als doel heeft het invoeren vervoeren handelen of aanwezig hebben van harddrugs dan wel voorbereidingshandelingen daartoe. Voor deelneming (5) aan zo’n organisatie is in het algemeen vereist dat de verdachte tot de organisatie behoort en dat de verdachte een aandeel heeft in of gedragingen ondersteunt die strekken tot of rechtstreeks verband houden met de verwezenlijking van het doel van de organisatie. 
+ 
+
+Gelet op de hiervoor besproken berichten was sprake van een samenwerkingsverband tussen in ieder geval [medeverdachte 1]  [verdachte]  [medeverdachte 2] (1). Gedurende een periode van tien maanden was er zowel direct als indirect regelmatig contact tussen de verdachten waarin werd gepraat over verdovende middelen. Hiermee is ook voldaan aan de eis van een zekere duurzaamheid (2). Binnen dit samenwerkingsverband was sprake van een hiërarchische structuur waarin elke verdachte een andere rol vertolkte (3). [medeverdachte 1] had het contact met de leveranciers van de harddrugs en ging over de financiën. [verdachte] was een enigszins ondergeschikte partner van [medeverdachte 1] en de link tussen het transport van en het naar binnen halen van de drugs. Hij kreeg informatie van [medeverdachte 1] over transporten of harddrugs en gaf [medeverdachte 1] details over de werkwijze van het ‘gooien’ van de harddrugs. Ook werd hij door [medeverdachte 1] in de gelegenheid gesteld om ‘mee te zetten’ met bepaalde transporten. Ten slotte was hij de tussenpersoon tussen [medeverdachte 1] en [medeverdachte 2]  waarbij die laatste het contact met de vissers onderhield. Ook gaf [medeverdachte 2]  via [verdachte]  cruciale informatie voor het slagen van een transport aan [medeverdachte 1] . Zo stuurde hij coördinaten door waar de drugs in zee moesten worden gegooid zodat deze op die locatie konden worden opgevist.
+ 
+
+Uit de berichten blijkt ook dat de organisatie het doel had om te handelen in harddrugs harddrugs in te voeren en voor beide doelen voorbereidingen te treffen.(4) De berichten werden daarnaast versleuteld verzonden via zogenoemde PGP-telefoons. Verdachten hebben voor deze dure en ingewikkelde manier van communiceren geen bevredigende verklaring gegeven.
+ 
+
+De rechtbank is ten slotte ook van oordeel dat [medeverdachte 1]  [verdachte] en [medeverdachte 2] aan deze organisatie hebben deelgenomen (5). Uit de berichten en de hiervoor besproken rolverdeling blijkt dat elke verdachte wist van het doel van de organisatie en een eigen bijdrage leverde aan de verwezenlijking daarvan. 
+ 
+
+Omdat de berichten die het bewijs vormen voor de deelname aan de criminele organisatie van februari 2015 tot en met november 2015 zijn en in het dossier geen stukken zitten waaruit blijkt dat de organisatie daarna op dezelfde manier is voortgezet kan dit feit alleen voor die periode in 2015 worden bewezen. Voor de tenlastegelegde periode van december 2015 tot en met juni 2017 worden verdachten vrijgesproken.
+ 
+
+
+5.2.3.
+
+Feit 3 – De beschieting van de woning in [plaats]
+ 
+
+5.2.3.1. Het standpunt van de officier van justitie 
+ 
+
+Het feit kan worden bewezen. Vastgesteld kan worden dat [verdachte] [medeverdachte 1] opzettelijk heeft uitgelokt tot het beschieten van de woning van [slachtoffer 1] en dat [medeverdachte 1] deze beschieting heeft medegepleegd. [verdachte] had in elk geval voorwaardelijk opzet op de dood van [slachtoffer 1] en heeft dit feit gepleegd door [medeverdachte 1]  opzettelijk uitgelokt door de belofte van een aanzienlijk geldbedrag en door aanwijzingen over de locatie te geven. 
+ 
+
+5.2.3.2. Het standpunt van de verdediging
+ 
+
+Omdat niet kan worden bewezen dat er een aanmerkelijke kans was dat [slachtoffer 1] om het leven zou komen kan (voorwaardelijk) opzet op de dood en daarmee (de uitlokking van) poging doodslag niet worden bewezen. De bewuste nacht zijn ‘maar’ drie kogels afgevuurd op een specifieke plaats op de ruit van de erker. Daarbij is niet gericht op [slachtoffer 1] geschoten die als hij in de erker zat zichtbaar was vanaf de straat. Een aanmerkelijke kans op dodelijk letsel heeft dus feitelijk nooit bestaan. Ten aanzien van de tenlastegelegde bedreiging heeft de verdediging geen verweer gevoerd. 
+ 
+
+5.2.3.3. Het oordeel van de rechtbank
+ 
+
+Uit de bewijsmiddelen volgt dat [verdachte] [medeverdachte 1] de opdracht heeft gegeven het huis van [slachtoffer 1] op een specifiek adres in [plaats] te beschieten. Omdat de rechtbank vindt dat bij (het opdrachtgeven tot) die beschieting geen aanmerkelijke kans op de dood kan worden aangenomen worden verdachten [medeverdachte 1] en [verdachte] vrijgesproken van de poging doodslag. Het (opdracht geven tot het) beschieten van de woning levert (uitlokken tot) een bedreiging op waarvoor verdachten worden veroordeeld. Hierna volgt hoe de rechtbank tot dit oordeel is gekomen. 
+ 
+
+Op 12 juni 2015 worden een aantal voor dit feit relevante berichten uitgewisseld tussen [verdachte] en [medeverdachte 1] 57 waaronder:
+Om 18:38:30 uur een bericht van [verdachte] aan [medeverdachte 1] : “Broer die dikke van mij vuile kankerhond ik weet waarom je zorgen maakte. Broer zijn woning moet beschoten worden mooie locatie. 6k spoed”.
+Om 18:39:48 uur schrijft [medeverdachte 1] aan [verdachte] : “Stuur adres broer zijn uitvalswegen enzo? Wat is gebeurd?”
+
+            [verdachte] antwoordt om 18:41:19 uur: “[adres 1] hoek huls [plaats] ! Of naar [plaats] of [plaats] of [plaats] . Lang vehaal gepraat over me vader enz spoed!”
+en om 18:41:43 uur: “10k spoed doe maar!”
+Om 18:46:22 uur antwoordt [medeverdachte 1] aan [verdachte] : “Oke broer ik ga even kijken of er een auto standby staat of kan diegene daar wegkomen rennend?”. 
+Hierna reageert [verdachte] om 18:47:05 uur met: “Ja je bent daar snel weg 3 uitwegen”.
+ 
+
+Later die dag geeft [verdachte] [medeverdachte 1] meer specifieke instructies. Hij vraagt [medeverdachte 1] om een ‘AK’ te gebruiken ‘een ei’ erbij te doen vertelt waar ‘het ei’ naar binnen moet (in het tuinhuis) dat er haast bij is en hij het bedrag (steeds) verhoogt naar ‘25k’ dat ze de ramen hoog moeten raken want “dikke moet er niet af ” en op verzoek van [medeverdachte 1] geeft hij het adres nog een keer door: “[adres 1]”. [medeverdachte 1] zegt op zijn beurt dat hij jongens en materiaal aan het regelen is dat een AK duur is en het een actie met een glock wordt. Hij verzekert [verdachte] dat de klus geklaard wordt [medeverdachte 1] gaat zelf mee en voert de jongens aan. [medeverdachte 1] stuurt [verdachte] foto’s van de woning en vertelt dat het op 13 juni 2015 om 04.00 uur zal gebeuren. Die nacht lukt het niet omdat het te druk is op straat dus zal het de volgende nacht rond 03.00 uur gebeuren. Op 13 juni 2015 schrijft [medeverdachte 1] aan [verdachte] : “Broer ik heb nu een glock 19 en AK daar in de buurt klaar staan! Wanneer wij beginnen broer dan beslissen wij wat het beste is te gebruiken en die dikke zijn leven garandeer ik niet!” Even later in het gesprek schrijft [medeverdachte 1] dat ze hun best gaan doen om hem niet te raken. “En ja als hij wordt geraakt is kut voor hem!”
+ 
+
+Op het door [verdachte] opgegeven adres blijkt [slachtoffer 1] ingeschreven te staan.58 Uit deze berichtenwisseling leidt de rechtbank af dat:
+
+
+-
+
+              [verdachte] [medeverdachte 1] opdracht gaf om het huis van [slachtoffer 1] te beschieten en een handgranaat (‘een ei’) in het tuinhuis te gooien;
+
+-
+
+              [verdachte] daar uiteindelijk een bedrag van € 25.000 (’25 k’) voor wilde betalen;
+
+-
+
+              [verdachte] met dat doel het adres van [slachtoffer 1] aan [medeverdachte 1] heeft doorgegeven;
+
+-
+
+              [medeverdachte 1] de opdracht heeft aangenomen;
+
+-
+
+              [medeverdachte 1] uitvoerders (‘jongens’) en wapens (‘glock en AK’ (de rechtbank begrijpt AK-47)) heeft geregeld;
+
+-
+De opdracht van [verdachte] niet gericht was op het doden van [slachtoffer 1] ;
+
+-
+
+              [medeverdachte 1] geen garanties kon geven voor het leven van [slachtoffer 1]  zeker niet bij gebruik van een AK zoals [verdachte] wenste.
+
+
+
+Op 14 juni 2015 tussen 3:15 en 3:30 is de woning van [slachtoffer 1]  meer specifiek het raam van de erker beschoten. [slachtoffer 1] zat op dat moment in een stoel in de erker te slapen. Er zaten drie gaten in de ramen van de erker. Voor de erker lagen drie kogelhulzen.59
+ 
+
+
+Rollen [verdachte] en [medeverdachte 1]
+
+De rechtbank concludeert dat [verdachte]  opzettelijk heeft uitgelokt tot het beschieten van de woning van [slachtoffer 1] in [plaats] op 14 juni 2015 door daartoe opdracht te geven en er een geldbedrag tegenover te zetten. [medeverdachte 1] heeft daarop de uitvoerders en het materiaal geregeld en de uitvoerders aangestuurd en van instructies voorzien. Daarmee vindt de rechtbank dat [medeverdachte 1] een zodanige bijdrage aan de beschieting heeft geleverd dat hij medepleger van de beschieting is.
+ 
+
+
+Poging doodslag?
+
+De rechtbank ziet zich vervolgens de vraag gesteld of de beschieting een poging tot doodslag oplevert. Voor een veroordeling voor poging tot doodslag moet bewezen worden dat verdachten opzet hadden op de dood van het [slachtoffer 1] (vol opzet) of dat zij de aanmerkelijke kans hebben aanvaard dat [slachtoffer 1] dood zou gaan (voorwaardelijk opzet). 
+ 
+
+De rechtbank kan uit de inhoud van de berichten niet vaststellen dat [verdachte] en [medeverdachte 1] vol opzet hadden op de dood van [slachtoffer 1] . In de berichten dringt [verdachte] aan op het beschieten van de woning maar zegt daarbij dat hij niet wil dat [slachtoffer 1] daarbij dood gaat en [medeverdachte 1] zegt daarop dat hij daarvoor zijn best gaat doen maar het niet kan garanderen. 
+ 
+
+Voor voorwaardelijk opzet moet zowel sprake zijn van een aanmerkelijke kans op de dood van [slachtoffer 1] als van de aanvaarding van die kans door verdachten. Bij [medeverdachte 1] gaat het gezien zijn rol als aanstuurder van de uitvoerders om het moment dat hij de opdracht van [verdachte] heeft doorgegeven aan de uitvoerders. De rechtbank moet dan ook beoordelen of er op dat moment een aanmerkelijke kans was op de dood van [slachtoffer 1] en of [medeverdachte 1] die kans heeft aanvaard. 
+Uit de berichten blijkt dat [medeverdachte 1] zegt de opdracht van [verdachte] aan de uitvoerders door te zullen geven (waaronder ook dat [slachtoffer 1] niet dood moet). De opdracht was hoog in de ramen van de woning schieten en later kwam daarbij dat een handgranaat in het tuinhuis moest worden gegooid. 
+De rechtbank vindt dat met het doorgeven van deze opdracht geen aanmerkelijke kans ontstond op de dood van [slachtoffer 1] . Naar algemene ervaringsregels kan niet worden gesteld dat het ‘s nachts afvuren van kogels hoog in de ramen van een woning de aanmerkelijke kans oplevert dat de bewoner daarbij om het leven komt ook niet met de impliciete aanvaarding van het risico dat de uitvoerders de opdracht niet precies conform de instructies van de opdrachtgever zullen uitvoeren. Verdachte wordt dus vrijgesproken voor poging doodslag. 
+ 
+
+
+Bedreiging
+
+Voor een veroordeling voor bedreiging met een misdrijf tegen het leven gericht is vereist dat de bedreigde op de hoogte is geraakt van de bedreiging en bij hem daardoor in redelijkheid de vrees kon ontstaan dat hij het leven zou kunnen verliezen en dat het opzet van de verdachte daarop was gericht. 
+ 
+
+Het spreekt voor zich dat [slachtoffer 1] door de beschieting van zijn woning terwijl hij in de erker zat op de hoogte is geraakt van de bedreiging. Ook kon bij hem door de beschieting in redelijkheid de vrees ontstaan dat hij het leven zou kunnen verliezen. Uit de berichten blijkt overduidelijk dat [slachtoffer 1] bang moest worden gemaakt omdat hij zijn mond voorbij had gepraat. De rechtbank komt dan ook tot een veroordeling voor de onder 3 meer subsidiair tenlastegelegde uitlokking van bedreiging.
+ 
+
+
+5.2.4.
+
+Feit 4 – De jammers
+ 
+
+5.2.4.1. Het standpunt van de officier van justitie 
+ 
+
+Feit 4 kan wettig en overtuigend worden bewezen. De jammers zijn aangetroffen in de woning van de vriendin van verdachte waar hij ook verbleef. Deze vriendin [naam vriendin]  heeft verdachte aangewezen als gebruiker van de jammers. Verdachte heeft weliswaar verklaard dat de jammers wellicht van de ex van [naam vriendin] zijn maar dit kan simpelweg niet waar zijn omdat deze persoon in 2011 is overleden terwijl de jammers in 2013 zijn geproduceerd. 
+ 
+
+5.2.4.2. Het standpunt van de verdediging
+ 
+
+Verdachte heeft het feit ontkend: de jammers zijn niet van hem. Misschien zijn ze van de ex-vriend van [naam vriendin] .
+ 
+
+5.2.4.3.. Het oordeel van de rechtbank 
+ 
+
+
+            [verdachte] wordt van dit feit vrijgesproken. 
+ 
+
+Op 5 september 2017 zijn in de woning van [naam vriendin]  waar verdachte regelmatig verbleef twee jammers aangetroffen en in beslag genomen. [naam vriendin] heeft verklaard dat de gevonden apparaten van verdachte zijn en dat ze zouden zijn gebruikt om “te kijken voor zendertjes”. Ze heeft dat niet zelf gezien maar [verdachte] erover horen praten.
+ 
+
+Omdat de jammers niet in de woning van [verdachte] zijn aangetroffen en niet kan worden vastgesteld dat [verdachte] de jammers heeft gebruikt kan de rechtbank niet vaststellen dat [verdachte] de jammers voorhanden heeft gehad. De verklaring van [naam vriendin] is daarvoor onvoldoende omdat zij niet heeft gezien dat [verdachte] de apparaten heeft gebruikt en jammers niet bedoeld zijn om mee naar zenders te zoeken maar om signalen mee te verstoren. 
+ 
+
+
+
+
+
+6 Bewezenverklaring 
+
+De rechtbank acht ten aanzien van verdachte op grond van de hiervoor onder 5. opgenomen bewijsmiddelen bewezen dat
+ 
+
+
+Feit 2:
+
+ 
+
+
+verdachte in de periode van februari 2015 tot en met november 2015 in Nederland heeft deelgenomen aan een organisatie bestaande uit vte en [medeverdachte 1] en anderen welke organisatie tot oogmerk had het plegen van misdrijven als bedoeld in artikel 2 onder A en/of B en/of C en/of 10a Opiumwet;
+
+ 
+
+
+Feit 3 meer subsidiair:
+
+ 
+
+
+
+          [medeverdachte 1] en tot op heden onbekend gebleven personen op 14 juni 2015 te [plaats] opzettelijk [slachtoffer 1] hebben bedreigd met enig misdrijf tegen het leven gericht door van korte afstand en gericht met vuurwapens kogelpatronen op de ramen van de erker van de woning van die [slachtoffer 1]  waar die [slachtoffer 1] zich op dat moment bevond af te schieten;
+
+ 
+
+
+welk misdrijf verdachte in de periode van 12 juni 2015 tot en met 14 juni 2015 te [plaats] opzettelijk heeft uitgelokt door beloften en het verschaffen van inlichtingen te weten door daartoe
+
+
+
+-
+
+Een geldbedrag van 25.000 euro af te spreken en
+
+
+-
+
+het adres van de woning die moest worden beschoten door te geven en andere aanwijzingen voor de uitvoering van dat misdrijf te geven.
+
+
+
+
+Voor zover in de tenlastelegging taal- en/of schrijffouten voorkomen zijn deze verbeterd. Verdachte is hierdoor niet in de verdediging geschaad.
+ 
+
+
+
+7 De strafbaarheid van de feiten en de strafbaarheid van verdachte 
+
+De bewezenverklaarde feiten zijn strafbaar en verdachte is daarvoor strafbaar.
+ 
+
+
+
+8 Motivering van de straffen en maatregelen 
+
+8.1.
+De eis van de officier van justitie 
+
+De officier van justitie heeft gevorderd dat [verdachte] wordt veroordeeld tot een gevangenisstraf van zes jaar met aftrek van voorarrest.
+ 
+
+
+8.2.
+Het standpunt van de verdediging 
+
+De verdediging gaat bij feit 3 anders dan de officier van justitie uit van een bedreiging. Dit zou dan ook tot uitdrukking moeten komen in een op te leggen straf. Dit geldt ook voor feit 2 waarbij rekening moet worden gehouden met de organisatiegraad.
+ 
+
+
+8.3.
+Het oordeel van de rechtbank 
+
+De hierna te noemen strafoplegging is in overeenstemming met de ernst van het bewezen geachte de omstandigheden waaronder dit is begaan en de persoon van verdachte zoals daarvan op de zitting is gebleken. De rechtbank heeft bij de keuze tot het opleggen van een vrijheidsbenemende straf en bij de vaststelling van de duur daarvan in het bijzonder het volgende laten meewegen.
+ 
+
+
+De ernst van de feiten
+
+In 2015 heeft [verdachte] deelgenomen aan een criminele organisatie die zich bezighield met het plegen van drugsdelicten. De ernst van dit soort drugsdelicten zit hem in de wereld die erachter schuil gaat. Enerzijds is dat de gebruikerskant: cocaïne werkt sterk verslavend en is schadelijk voor de gezondheid. Bovendien plegen verslaafde gebruikers van cocaïne vaak strafbare feiten om in hun verslaving te kunnen voorzien. Anderzijds is dat de wereld van de georganiseerde criminaliteit die vaak bij de harddrugshandel betrokken is. Zo moet het verdiende geld worden witgewassen en worden aan drugs gerelateerde conflicten in de onderwereld niet zelden ‘opgelost’ door het gebruik van zwaar geweld. De rechtbank wijst hierbij op zogeheten ripdeals of conflicten over een verdwenen of inbeslaggenomen partij drugs waarbij het gebruik van extreem geweld in de openbare ruimte met alle risico’s voor onschuldige omstanders van dien niet wordt geschuwd. In dit geval valt niet uit te sluiten dat de beschieting in [plaats] ook verband hield met de handel in harddrugs. 
+ 
+
+
+          [medeverdachte 1] heeft in opdracht van [verdachte] een woning laten beschieten omdat [verdachte] boos is op de bewoner die zijn mond voorbij zou hebben gepraat. Er werd zelfs overwogen om een aanvalsgeweer en een handgranaat in te zetten. De roekeloze wijze waarop [medeverdachte 1] en verdachte dit conflict met zwaar geweld in een woonwijk wilden oplossen gaat naar het oordeel van de rechtbank alle perken te buiten. Dit geldt temeer omdat beide verdachten geen enkel oog hebben gehad voor het risico op onschuldige slachtoffers. 
+ 
+
+Uit het strafblad van [verdachte] blijkt dat hij eerder is veroordeeld voor strafbare feiten die verband houden met harddrugs. Dat weegt de rechtbank strafverzwarend mee. 
+ 
+
+
+De op te leggen straf
+
+De rechtbank legt aan [verdachte] één straf voor alle bewezenverklaarde feiten op. Om inzichtelijk te maken hoe de rechtbank tot de strafmaat is gekomen zal de rechtbank per feit uiteenzetten welke straf zij daarvoor passend vindt. Bij het bepalen van de (hoogte van de) op te leggen straf heeft de rechtbank gekeken naar de oriëntatiepunten die de rechtbanken met elkaar hebben afgesproken. 
+ 
+
+Voor het deelnemen aan een criminele drugsorganisatie hebben de rechtbanken geen oriëntatiepunten vastgesteld. De rechtbank vindt de rollen van [verdachte] en [medeverdachte 1] binnen die organisatie vergelijkbaar en zal hen daarvoor dezelfde straf opleggen. De rechtbank houdt daarnaast rekening met de omvang van de organisatie en de periode waarover de organisatie bewezen is verklaard. Dat leidt voor [verdachte] tot een gevangenisstraf van drie jaar. 
+ 
+
+De beschieting van de woning levert een bedreiging op. De oriëntatiepunten die de rechtbanken hebben voor bedreiging zijn in deze zaak niet passend omdat die zijn geschreven voor bedreiging waarbij een vuurwapen is getoond en niet zoals hier gebruikt. De maximumstraf voor bedreiging is een gevangenisstraf van twee jaar. De rechtbank vindt dat deze specifieke bedreiging – met wapens op een huis schieten – zeer ernstig is en de strafmaat dan ook tegen het maximum aan zou moeten zitten. De rechtbank zal een gevangenisstraf van één jaar en zes maanden opleggen.
+ 
+
+Deze straffen leveren samen een totale gevangenisstraf op van vier jaar en zes maanden. 
+ 
+
+
+
+
+9 Toepasselijke wettelijke voorschriften 
+
+De op te leggen straf is gegrond op de artikelen 47 57 63 en 285 van het Wetboek van Strafrecht en artikel 11b van de Opiumwet.
+ 
+
+
+
+10 Beslissing 
+
+Verklaart het onder 1. primair en subsidiair 3. primair en subsidiair en het onder 4. ten laste gelegde niet bewezen en spreekt verdachte daarvan vrij.
+ 
+
+Verklaart bewezen dat verdachte het onder 2. en 3. meer subsidiair ten laste gelegde heeft begaan zoals hiervoor in rubriek 6 is vermeld.
+ 
+
+Verklaart niet bewezen wat aan verdachte meer of anders is ten laste gelegd dan hiervoor is bewezen verklaard en spreekt verdachte daarvan vrij.
+ 
+
+Het bewezen verklaarde levert op:
+ 
+
+
+Feit 2:
+
+ 
+
+
+Deelnemen aan een organisatie die tot oogmerk heeft het plegen van een misdrijf als bedoeld in artikel 10 derde vierde en vijfde lid of artikel 10a eerste lid van de Opiumwet;
+
+ 
+
+
+Feit 3 meer subsidiair:
+
+ 
+
+
+De uitlokking van het medeplegen van bedreiging met enig misdrijf tegen het leven gericht;
+
+ 
+
+Verklaart het bewezene strafbaar.
+ 
+
+Verklaart verdachte [verdachte] daarvoor strafbaar.
+ 
+
+Veroordeelt verdachte tot een gevangenisstraf van 4 (vier) jaar en 6 (zes) maanden.
+ 
+
+Beveelt dat de tijd die door veroordeelde voor de tenuitvoerlegging van deze uitspraak in verzekering en in voorlopige hechtenis is doorgebracht bij de tenuitvoerlegging van die straf in mindering gebracht zal worden.
+ 
+
+Dit vonnis is gewezen door 
+mr. G.H. Marcus 	voorzitter
+mrs. C.M. Degenaar en J. Huber 	rechters
+in tegenwoordigheid van mr. J.B.P. Terwindt 	griffier
+en uitgesproken op de openbare terechtzitting van deze rechtbank van 7 december 2018.
+ 
+
+1
+ Zie rechtsoverweging 3.4.2. van de uitspraak van de Hoge Raad van 30 maart 2004 ECLI:NL:HR:2004:AM2533. 
+2
+ Voor zover niet anders vermeld wordt in de hierna volgende voetnoten telkens verwezen naar bewijsmiddelen die zich in het aan deze zaak ten grondslag liggende dossier bevinden volgens de in dat dossier toegepaste nummering. Tenzij anders vermeld gaat het daarbij om processen-verbaal in de wettelijke vorm opgemaakt door daartoe bevoegde opsporingsambtenaren.
+3
+ Proces-verbaal (ongenummerd) van 10 september 2018 met proces-verbaalnummer LERAB15019-4016
+4
+ AD 1625-1628 met bijlagen
+5
+ AD 056-064
+6
+ AD 024-025
+7
+ AD 085-093
+8
+ AD 1293-1322
+9
+ AD 078-079
+10
+ AD 1338-1359
+11
+ AD 1826-1841
+12
+ AD 079-082
+13
+ AD 082-084
+14
+ [medeverdachte 2] 405-410
+15
+ AD 0996-0997
+16
+ [medeverdachte 2] 429
+17
+ AD 056-064 AD 065-070 en AD 071-077
+18
+ Een uitdraai van de Tandem-dataset C18 565
+19
+ vonnis van de Rechtbank Rotterdam in de zaak met parketnummer 10/960039-15 AD 1446-1473
+20
+ C18 448
+21
+ C18 436
+22
+vonnis van de Rechtbank Rotterdam in de zaak met parketnummer 10/960039-15 AD 1446-1473
+23
+ C18 465
+24
+ [medeverdachte 2] 233
+25
+ Bijlage 2 van het requisitoir van de officier van justitie 
+26
+
+https://www.visserijnieuws.nl/nieuws/z-181-dubbele-senior-gedoopt
+
+27
+ C18 128-129
+28
+ C18 466
+29
+ C18 437
+30
+ [medeverdachte 2] 053-057
+31
+Een uitdraai van de Tandem-dataset C18 597-608
+32
+Een uitdraai van de Tandem-dataset C18 602
+33
+ [medeverdachte 2] 057
+34
+Een uitdraai van de Tandem-dataset C18 609-611
+35
+Een uitdraai van de Tandem-dataset C18 624-629
+36
+Een uitdraai van de Tandem-dataset C18 632-634
+37
+Een uitdraai van de Tandem-dataset AD 1220-1221
+38
+Een uitdraai van de Tandem-dataset AD 1217-1218
+39
+ AD 1446-1473
+40
+ Vonnis van de rechtbank Amsterdam van 16 mei 2018 in de zaak tegen [naam 5] met parketnummer 13/997034-17 AD 1665-1683
+41
+ C18 437-438
+42
+Een uitdraai van de Tandem-dataset C18 637-644
+43
+Een uitdraai van de Tandem-dataset C18 730-735
+44
+Een uitdraai van de Tandem-dataset C18 736-760
+45
+Een uitdraai van de Tandem-dataset C18 785-799
+46
+Een uitdraai van de Tandem-dataset AD 1219
+47
+ [medeverdachte 2] 059-060
+48
+Een uitdraai van de Tandem-dataset C18 648-650
+49
+ C18 439-440
+50
+Een uitdraai van de Tandem-dataset C18 670-672
+51
+ AD 0915-0917
+52
+ AD 0982
+53
+ AD 1406 met bijlagen
+54
+ [medeverdachte 2]  432-438
+55
+ AD 0943-0949 met bijlagen
+56
+ C18 695-696
+57
+ C20 067-078
+58
+ C20 006
+59
+ C20 083-084

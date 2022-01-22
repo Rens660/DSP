@@ -1,0 +1,885 @@
+
+
+Rechtbank Rotterdam
+
+Team straf 2
+ 
+
+Parketnummer: 10/960249-17
+Datum uitspraak: 3 juli 2019
+Tegenspraak
+ 
+
+Vonnis van de rechtbank Rotterdam meervoudige kamer voor strafzaken in de zaak tegen de verdachte:
+ 
+
+
+
+          [naam verdachte] 
+
+geboren te [geboorteplaats verdachte] op [geboortedatum verdachte]  
+ten tijde van het onderzoek op de terechtzitting verblijvende op het adres: 
+
+        [verblijfadres verdachte]  [verblijfplaats verdachte] 
+raadsman mr. M.A.M. Pijnenburg advocaat te Amsterdam.
+
+
+
+
+1 Onderzoek op de terechtzitting
+Gelet is op het onderzoek op de terechtzittingen van 27 mei 2019 en 3 juli 2019.
+
+
+
+2 Tenlastelegging
+Aan de verdachte is ten laste gelegd hetgeen is vermeld in de vordering nadere omschrijving tenlastelegging waarbij de oorspronkelijke opgave van de feiten als bedoeld in artikel 261 derde lid van het Wetboek van Strafvordering (hierna Sv) overeenkomstig de vordering van de officier van justitie is gewijzigd op de terechtzitting van 7 november 2018. De tekst van de nader omschreven tenlastelegging is als bijlage I aan dit vonnis gehecht. 
+
+
+
+3 Eis officier van justitie
+De officieren van justitie mrs. M.A. van der Vlugt en D.J. Laman hebben gevorderd:
+
+-
+vrijspraak van het onder 6 tenlastegelegde;
+
+-
+bewezenverklaring van het onder 1 tot en met 5 en 7 tenlastegelegde;
+
+-
+veroordeling van de verdachte tot een gevangenisstraf voor de duur van 65 jaar met aftrek van voorarrest;
+
+-
+verbeurdverklaring van de diverse gegevensdragers en het geldbedrag van € 2.630-.
+
+
+
+
+
+4 Ontvankelijkheid officier van justitie
+
+4.1.
+
+
+Standpunt verdediging
+
+In het onderzoek “ 26Gravesac ” zijn vormen verzuimd waarbij doelbewust een grove veronachtzaming van het recht op een eerlijk proces heeft plaatsgevonden rond de overname door politie en justitie van de website “ Hansa Market ”. Met het overnemen van de site op het darkweb werd drugshandel gefaciliteerd. Het overnemen en beheren van deze site is een opsporingsmiddel waarvoor een wettelijke basis ontbreekt. Verder is voor zover artikel 126h Sv als wettelijke basis kan worden gezien geen enkel zicht verkregen op de wijze waarop de infiltratie heeft plaatsgevonden. Niet te controleren is of het optreden van de opsporingsambtenaren rechtmatig was en of is voldaan aan de proportionaliteitseis. Om die reden dient het openbaar ministerie niet-ontvankelijk te worden verklaard in de vervolging van de verdachte. 
+
+
+
+4.2.
+
+
+Standpunt officier van justitie
+
+Artikel 126h Sv biedt een wettelijke grondslag voor het overnemen en beheren van de website Hansa Market . Van onrechtmatig opsporingsonderzoek is geen sprake. De infiltratie was in overeenstemming met de eisen van proportionaliteit en subsidiariteit. De verdediging heeft bovendien onvoldoende aangevoerd in hoeverre de belangen van de verdachte zijn geschaad. 
+
+
+
+4.3.
+
+
+Beoordeling
+
+In juni 2016 is onder de projectnaam 26Gravesac door medewerkers van het Team High Tech Crime van de Landelijke Eenheid (hierna: het onderzoeksteam) onder verantwoordelijkheid van het Landelijk Parket Rotterdam een strafrechtelijk onderzoek gestart met als doel de illegale online marktplaats op het darkweb bekend als Hansa Market (ook wel een darkmarket genoemd) te elimineren. Op Hansa Market werd grootschalig gehandeld in strafbare goederen. Het merendeel van de aangeboden goederen betrof drugs zoals XTC cocaïne speed en amfetamine. Verkopers (vendors) en kopers (buyers) op dit soort marktplaatsen wanen zich anoniem gesprekken tussen kopers en verkopers worden vaak versleuteld door middel van “PGP” en betalingen worden verricht door middel van “cryptocurrencies” zoals bitcoins waarna de bestelde producten per pakketpost worden afgeleverd op het gewenste adres. 
+ 
+
+Op 20 juni 2017 werd op grond van artikel 126h Sv een bevel infiltratie afgegeven door de officier van justitie. Dit bevel werd op 11 juli 2017 verlengd en liep af op 25 juli 2017. Onder dit bevel is de infrastructuur van Hansa Market naar Nederlands grondgebied geëmigreerd en is Hansa Market heimelijk en ongewijzigd door het onderzoeksteam overgenomen met als doel wachtwoorden berichten orderinformatie en bitcoins niet-versleuteld af te vangen teneinde verdachten te identificeren en illegale goederen in beslag te nemen. Het onderzoeksteam fungeerde daarbij als beheerder van Hansa Market  reageerde op verzoeken van kopers nam deel aan berichtenverkeer onderhield contacten en verrichtte een aantal pseudokopen. Dit genereerde informatie met betrekking tot de verschillende online aanbieders en kopers van drugs wereldwijd. Op 20 juli 2017 werd de infiltratieactie beëindigd en werd de marktplaats offline gehaald.
+ 
+
+Naar aanleiding van de bevindingen in het onderzoek 26Gravesac is in juni 2017 een nieuw opsporingsonderzoek gestart onder de naam “26Moore” met betrekking tot de (vermoedelijk) Nederlandse vendor “ [naam 1] ” welk onderzoek ten grondslag ligt aan de strafzaak tegen de verdachte en zijn medeverdachten. 
+ 
+
+Naar het oordeel van de rechtbank valt genoemde (digitale) infiltratieactie bestaande uit het overnemen en beheren van Hansa Market  onder de bijzondere opsporingsbevoegdheid als bedoeld in artikel 126h Sv. Het verweer van de raadsman dat een wettelijke basis ontbreekt wordt derhalve verworpen. Dat geldt evenzeer voor het verweer dat niet te controleren valt of is voldaan aan de eisen van proportionaliteit en subsidiariteit. Het strafdossier in de onderhavige zaak bevat een aanvullend proces-verbaal Gravesac waarin uitvoerig de inzet van de infiltratieactie alsmede de overdracht van gegevens aan onderzoek 26Moore is beschreven. Dit proces-verbaal geeft naar het oordeel van de rechtbank voldoende inzicht in de werkwijze van de opsporingsambtenaren tijdens de infiltratie. Op grond van dit proces-verbaal en hetgeen de officier van justitie ter terechtzitting heeft aangevoerd is voldoende gebleken dat op het moment van het afgeven van het bevel tot infiltratie het onderzoek de inzet van dit opsporingsmiddel dringend vorderde. Daarbij neemt de rechtbank in aanmerking dat het enkel in beslag nemen van servers van illegale marktplaatsen eerder niet heeft geleid tot een effectieve verstoring van de handel in verdovende middelen maar tot een verplaatsing hiervan met behoud van de digitale structuur bij de verkopers op een andere website (het zgn. ‘waterbedeffect’). Hetgeen op grond van het dossier is gebleken omtrent de aard en de ernst van de internationale online handel in verdovende middelen alsmede de kennelijke onmogelijkheid om langs andere weg inzicht te verkrijgen in de strafbare feiten de identiteit van verkopers en kopers te achterhalen en eventuele criminele tegoeden van hen in beslag te nemen maakt naar het oordeel van de rechtbank dat met de inzet van het opsporingsmiddel gedurende een begrensde periode van iets langer dan een maand aan de eisen van proportionaliteit en subsidiariteit is voldaan. 
+ 
+
+Voor zover de raadsman heeft gesuggereerd dat verkopers op Hansa Market mogelijk zijn aangemoedigd of uitgelokt om deel te nemen aan online drugshandel overweegt de rechtbank dat zich in het dossier voor die stelling geen aanknopingspunten bevinden. Daarbij geldt dat Hansa Market een online marktplaats betrof waar uitsluitend illegale diensten en producten werden aangeboden. Met de geruisloze overname van Hansa Market heeft het onderzoeksteam de bestaande situatie in zoverre ongewijzigd voortgezet. Niet gebleken is dat verkopers (of kopers) door de overname dan wel door het handelen van het onderzoeksteam zijn gebracht tot het begaan van andere strafbare feiten dan waarop hun opzet reeds van tevoren was gericht. Het toelaten van nieuwe vendors en aanbieden van een korting bij personen bij wie al het opzet bestond om te handelen in verdovende middelen op deze specifieke en verborgen website past in dit kader en kan dan ook niet worden gekwalificeerd als uitlokking. 
+ 
+
+Evenmin bevat het dossier aanwijzingen dat het onderzoeksteam met het overnemen van het kennelijk op drugshandel gerichte Hansa Market de handel in kinderporno ransomware terroristische handleidingen of huurmoorden heeft gefaciliteerd. 
+ 
+
+Gelet op het bovenstaande beoordeelt de rechtbank de infiltratie niet als onrechtmatig. Van een vormverzuim in het strafrechtelijk vooronderzoek jegens de verdachte is dan ook geen sprake. Het verweer van de raadsman wordt verworpen. 
+
+
+
+4.4.
+
+
+Conclusie
+
+De officier van justitie is ontvankelijk in de vervolging van de verdachte. 
+
+
+
+
+
+5 Waardering van het bewijs
+
+5.1.
+
+Vrijspraak ten aanzien van de feiten 2 en 6:
+ 
+
+Uit de inhoud van het dossier en het verhandelde ter terechtzitting is niet gebleken dat er onderzoek is gedaan of de verdachte in het bezit van een registratie of een handelsvergunning ter zake van de ketamine is geweest zodat deze tenlastegelegde bestanddelen niet bewezen kunnen worden verklaard. De verdachte zal om die reden van feit 2 worden vrijgesproken. 
+ 
+
+Met de officier van justitie en de verdediging is de rechtbank van oordeel dat het onder 6  ten laste gelegde niet wettig en overtuigend is bewezen zodat de verdachte daarvan zonder nadere motivering zal worden vrijgesproken.
+
+
+
+5.2.
+
+
+Bewezenverklaring zonder nadere motivering van feit 4 en 7
+
+Het onder 4 en 7 ten laste gelegde is door de verdachte bekend terwijl door de raadsman geen vrijspraak is bepleit. Dit feit zal zonder nadere bespreking bewezen worden verklaard. 
+
+
+
+5.3.
+
+Bewijswaardering
+
+
+5.3.1.
+
+
+Standpunt verdediging
+
+De raadsman heeft vrijspraak bepleit van de tenlastegelegde periode van 1 januari 2016 tot juli 2017 en van het medeplegen van het onder 1 en 3 tenlastegelegde en voert daartoe aan dat de verdachte in mei 2017 het bestaande account [naam 1] heeft overgenomen waarbij toen al sprake was van een rijdende trein en een bestaand postorderbedrijf in drugs. In juli 2017 werd Hansa Market offline gehaald; er werd opnieuw gestart in augustus 2017 waarbij ieder van de verdachten een eigen account had en voor eigen rekening werkte zodat er geen sprake was van een gezamenlijke uitvoering met inwisselbare rollen. Ten aanzien van het tenlastegelegde witwassen is aangevoerd dat de inkomsten van de verdachte uit eigen misdrijf afkomstig zijn zodat ontslag van rechtsvervolging dient te volgen. Hiernaast geldt dat de verdachte niet betrokken was bij het omzetten van bitcoins zodat de vereiste omzettingshandeling voor witwassen bij inkomsten uit eigen misdrijf niet kan worden vastgesteld.
+
+
+
+5.3.2.
+
+
+Beoordeling
+
+Uit het onderzoek 26Gravesac blijkt dat de verkoper [naam 1] vanuit Nederland sinds mei 2016 grootschalig verschillende soorten verdovende middelen aanbood op het darkweb Hansa Market . Dit heeft geleid tot het onderzoek 26Moore en tot de aanhouding van de verdachte samen met medeverdachten [naam medeverdachte 1] en [naam medeverdachte 2] op 13 maart 2018 in de woonkamer van het pand aan de [adres 1] (hierna: het pand [adres 1] ). De medeverdachte [naam medeverdachte 3] werd in Werkendam aangehouden. De verdachte heeft bekend dat hij zich vanuit het pand [adres 1] bezig heeft gehouden met de handel in drugs via het internet. Hij bestrijdt dat er sprake was van medeplegen alsmede dat hij al aan deze handel deed voor mei 2017.
+ 
+
+
+Medeplegen
+
+Het standpunt van de verdediging is dat de verdachten ieder voor hun eigen aandeel verantwoordelijk waren en ook onder hun eigen vendornaam drugs verkochten. Gelet hierop was van medeplegen geen sprake aldus de verdediging.
+ 
+
+De rechtbank verwerpt dit verweer. Reeds de omstandigheden waaronder de verdachten bij hun aanhouding op 13 maart 2018 tezamen werden aangetroffen wijst op het gezamenlijk uitoefenen van wat zonder meer als een bedrijf kan worden beschouwd. Het pand [adres 1] was specifiek ingericht als ‘office’ zoals het door de verdachten ook wel werd aangeduid. In de woonkamer van voornoemd pand stonden drie bureaus met computers en meerdere beeldschermen. Deze computers waren ingelogd op een verborgen en afgeschermd programma onder de domeinnaam start.com op een server in Parijs die verbonden was met “Dream Market”. Ter plaatse waren de verdachten [naam medeverdachte 1]  [naam verdachte] en [naam medeverdachte 2] nagenoeg dagelijks gedurende enkele uren aanwezig en dikwijls samen werkzaam. In het pand werd een grote voorraad verdovende middelen verpakkingsmateriaal ‘stealths’ weegschalen sealapparatuur fotoapparatuur bestellijsten en voorgedrukte vensterenveloppen met adressen van afnemers in binnen- en buitenland aangetroffen. Afgeluisterde gesprekken (taps en OVC) waarin over aantallen bestellingen inkomsten en werktijden wordt gesproken alsmede observaties bevestigen de bedrijfsmatige samenwerking. De verdachten [naam medeverdachte 1]  [naam verdachte] en [naam medeverdachte 2] haalden geplaatste orders binnen verpakten de drugs en leverden deze voorts in wisselende samenstelling af in brievenbussen of ter verzending als postpakket. In het pand van de medeverdachte [naam medeverdachte 3] aan de [adres 2] werd een computer aangetroffen met een aansluiting op voornoemd programma met zes 3D-printers waarvan er vier in werking waren voor het printen van stealths alsmede rollen filament bedoeld voor de aanmaak van stealths en een USB-stick. Uit het dossier is gebleken dat de medeverdachte [naam medeverdachte 3] de stealths heeft geleverd aan de verdachte en de medeverdachten [naam medeverdachte 1] en [naam medeverdachte 2] die samen de verdovende middelen hierin verstopten en deze per post lieten verzenden aan hun afnemers. Kosten (waaronder de inkoop van verdovende middelen) werden door de verdachte [naam medeverdachte 1] en [naam medeverdachte 3] gemeenschappelijk gedeclareerd. 
+ 
+
+Het digitale onderzoek ondersteunt de conclusie dat er sprake was van een nauwe en bewuste samenwerking.
+Uit het onderzoek op de verborgen domeinnaam start.com bleek dat er een gezamenlijke - blijkbaar centraal bijgehouden - professionele digitale administratie was met een voorraad- en orderbeheer en digitale verwerking van de bestellingen (hierna: “de administratie”). De medeverdachte [naam medeverdachte 1] heeft verklaard dat hij dit systeem deels heeft gebouwd en heeft verbeterd. In de administratie werden kennelijk nauwkeurig en systematisch inlognamen vastgelegd orders in een bestellijst ingeboekt en kosten betalingen en pinopnames onder de inlog- c.q. vendornaam op datum doorlopend geregistreerd. Voorts communiceerden de verdachten [naam medeverdachte 1]  [naam verdachte] en [naam medeverdachte 3] online via een interne pagina (“kladblok”) van start.com. Op de bij de medeverdachte [naam medeverdachte 3] aangetroffen USB-stick met gegevens over zijn legale bedrijf stonden ook mappen/bestanden met toegang tot start.com een introductietekst van [schuilnaam 1] op Hansa Market en een (verwijderde) foto die voorkwam in de geheugenkaart van de aangetroffen camera in het pand [adres 1] . Uit de kladblok-pagina op start.com blijkt dat de vendor [naam 2]  die aangeduid werd met [schuilnaam 2] of [schuilnaam 3]  ook toegang kreeg tot start.com voor het plaatsen van orders. Uit de bewijsmiddelen in onderlinge samenhang bezien blijkt dat de medeverdachte [naam medeverdachte 3] in de laatste fase onder deze vendornaam opereerde. 
+ 
+
+Uit het vorenstaande blijkt dat de verdachte een grote materiële en intellectuele bijdrage heeft geleverd in de gezamenlijke uitvoering en dat hij daartoe bewust nauw en intensief heeft samengewerkt met de medeverdachten zodat er sprake is van medeplegen. Dat de verdachte verantwoordelijk zou zijn voor zijn eigen aandeel hierin maakt dit niet anders. 
+ 
+
+
+Periode
+
+De rechtbank overweegt over de periode waarin de tenlastegelegde drugshandel plaatsvond het volgende.
+ 
+
+De handel in verdovende middelen werd na het ‘uit de lucht halen’ van Hansa Market in juli 2017 onderbroken en voortgezet op de server in Parijs op “Dream Market” in de periode van november 2017 tot en met 13 maart 2018. Uit start.com bleek dat een bericht onder de gebruikersnaam [gebruikersnaam 1] was gestuurd aan een koper dat [naam 1] “terug” was en dat de gebruikersnamen [gebruikersnaam 1]  [gebruikersnaam 2]  [gebruikersnaam 3] en [gebruikersnaam 4] in die periode gekoppeld waren aan de vendoren [naam 3]  [naam 4]  [naam 5]  [naam 6] en [naam 2] . Bij de aanhouding van de verdachten in het pand [adres 1] was de verdachte [naam medeverdachte 1] ingelogd op Dream Market onder de inlognaam [gebruikersnaam 5] met als account [naam 4]  de verdachte onder de inlognaam [gebruikersnaam 2] met als account [naam 5] en was het middelste bureau ingelogd onder de inlognaam [gebruikersnaam 3] met als account [naam 6] . 
+ 
+
+Op de pagina ADMIN (admini.php) van start.com (voor het laatst opgehaald op 18 oktober 2017) is een lijst gevonden met kennelijke inkomsten en uitgaven die kan worden gezien als een “kasboek” met aanduidingen als “pinnen” en “coke” “pillen” en “mdma” en met vermeldingen van de namen [gebruikersnaam 1]  [gebruikersnaam 2] en [gebruikersnaam 4] . Deze lijst bevat als vroegste datumaanduiding juni 2016. 
+ 
+
+De verdachte verklaarde bij de politie dat de medeverdachte [naam medeverdachte 1] de inlognaam [gebruikersnaam 1] hield in het pand [adres 1] . De medeverdachte [naam medeverdachte 1] beheerde de administratie de prijzen de bitcoinwallets en de debetcards. Verder valt op dat het systeem van de administratie van de periode in het pand [adres 3] (hierna het pand [adres 3] ) naar de periode Van der Werfstraat een sterke mate van continuïteit kent. De verdachte heeft bekend dat reeds in het pand aan de [adres 3] via een verborgen server in Litouwen in de periode vóór juli 2017 op Hansa Market drugs werden verhandeld. Er blijkt uit de administratie dat vanaf de eerste registraties in 2016 tot de inbeslagneming door de politie de inlog- en vendornamen van de verdachte en de medeverdachten [naam medeverdachte 1] en [naam medeverdachte 3] in de administratie vanaf 2016 veelvuldig en systematisch voorkomen. Chatsessies gevonden in de telefoon van de medeverdachte [naam medeverdachte 3] tussen hem en de verdachte vanaf april 2016 bevestigen dit beeld nu daarin onder meer wordt gesproken over betalingen en soorten drugs. De registraties vinden ook verankering in de getuigenverklaring van [naam getuige] . Hij heeft verklaard dat de verdachte met de medeverdachte [naam medeverdachte 1] de eerste keer aanwezig was bij het ophalen van Nintendospellen. Dit sluit naadloos aan bij de registratie van de factuur van 8 maart 2016 met de vermelding van het factuurbedrag van € 160- in het kasboek onder de inlognaam [gebruikersnaam 2] bij nr. 55. De verdachte heeft in 2016 kosten betaald voor de medeverdachte [naam medeverdachte 1] . In het kasboek komt de naam [naam 7] voor bij de aankoop van een laptop voor € 500- onder de gebruikersnaam [gebruikersnaam 2] bij het eerdere nummer 38 en blijkt uit nummer 6 bij de inlognaam [gebruikersnaam 2] dat de verdachte € 4.200- aan huur en borg heeft betaald. De verdachte komt ook voor in de Admin-lijst van registraties pinnen en uitbetaald bij nummer 441 (“gepind 4 december 2016 [gebruikersnaam 2] ”) en komt voorts veelvuldig voor bij eerdere volgnummers.  
+Deze administratie vormt een belangrijke onderbouwing voor de conclusie dat de verdachte [naam medeverdachte 1] en [naam medeverdachte 3] uiterlijk in het voorjaar van 2016 zelf drugs verhandelden op vergelijkbare wijze als later in het pand [adres 1] . 
+ 
+
+Deze conclusie wordt voorts ondersteund door het volgende.
+ 
+
+De verdovende middelen werden betaald met bitcoins op bitcoinaccountwallets die gekoppeld waren aan met valse identiteiten aangemaakte debet- credit- en prepaidcards bij bitcoinexchanger Xapo. In de periode van mei 2016 tot en met 13 maart 2018 werd hierop in totaal € 871.382- ontvangen en werd in totaal € 853.522- uitbetaald of gepind aan/door [gebruikersnaam 1]  [gebruikersnaam 2] en in mindere mate [gebruikersnaam 4] . In de (gemeenschappelijke) slaapkamer van de medeverdachten [naam medeverdachte 1] en [naam medeverdachte 2] in de woning van de medeverdachte [naam medeverdachte 2] werd een aantal van deze cards aangetroffen bij de doorzoeking op 13 maart 2018. Uit de camerabeelden bij pinautomaten van banken blijkt bovendien dat de verdachte op 3 december 2017 met creditcardnummer [creditcardnummer 1] en de medeverdachte [naam medeverdachte 1] op 18 december 2017 met creditcardnummer [creditcardnummer 2] (in de fase in het pand [adres 1] ) van deze rekeningen geldbedragen hebben gepind. Uit het kasboek in voornoemde periode blijkt ook dat uitgaven voor onder andere de aanschaf van drugs 3D-printers filament postzegels de huur van het pand en het doen van uitbetalingen zijn geboekt onder de namen [gebruikersnaam 1]  [gebruikersnaam 2]  [gebruikersnaam 4]  [bijnaam] (de (bij)naam van de verdachte) [naam 7] en [schuilnaam 3] en dat hierover door hen werd gecommuniceerd op het kladblok. In totaal bedroegen de uitgaven in het kasboek € 915.329-. 
+ 
+
+Dat de verdachten hun eigen inlognamen hadden ligt voor de hand maar wordt ook bevestigd door de vaststelling in het dossier dat uit start.com is gebleken dat [gebruikersnaam 1]  [gebruikersnaam 2] en [gebruikersnaam 3] doordeweeks in de ochtend vanaf 11:00 uur tot in de middag van 14:00-15:00 uur werkzaam zijn geweest in de handel in verdovende middelen terwijl [gebruikersnaam 4] in de vroege ochtenduren in de avonduren en in het weekend werkzaam was. 
+ 
+
+Daargelaten de gestelde reden voor de verdachte om aan drugshandel te beginnen (vanwege een schuld uit lening) levert het onderzoek geen andere conclusie op dan dat de verdachte zelf een substantieel aandeel in de handel heeft gehad en voorts dat het hierbij in enkele jaren tijd om grote hoeveelheden leveringen is gegaan over de hele wereld.
+ 
+
+Het verweer wordt verworpen.
+ 
+
+De verdachte heeft zich gedurende een lange periode door middel van vele transacties tezamen en in vereniging met anderen ook schuldig gemaakt aan het tenlastegelegde gewoontewitwassen van een bedrag van een bedrag van € 853.522-. 
+
+
+
+5.3.3.
+
+
+Conclusie
+
+Er is voldoende wettig en overtuigend bewijs  voor het medeplegen van het tenlastegelegde onder 1 3 en 5. 
+
+
+
+
+5.4.
+
+
+Bewezenverklaring
+
+In bijlage II heeft de rechtbank de inhoud van wettige bewijsmiddelen opgenomen houdende voor de bewezenverklaring redengevende feiten en omstandigheden. Op grond daarvan en op grond van de redengevende inhoud van het voorgaande is wettig en overtuigend bewezen dat de verdachte het onder 1 3 tot en met 5 tenlastegelegde heeft begaan op die wijze dat:
+ 
+
+1.
+hij in de periode van 1 januari 2016 tot en met 12 maart 2018 in Nederland tezamen en in vereniging met anderen opzettelijk heeft  bewerkt verwerkt verkocht afgeleverd verstrekt vervoerd en/of aanwezig gehad (telkens) één of meer (grote) hoeveelheden harddrugs te weten in totaal 
+38.709 		pillen XTC en/of
+63.742 		trips/hoeveelheden LSD en/of
+95.85535 	gram molly/MDMA en/of
+  3.912 		capsules MDMA en/of
+ 5.0192 	gram cocaïne en/of
+   129 		gram meth/amfetamine
+en/of
+buiten het grondgebied van Nederland heeft gebracht (telkens) één of meet (grote)
+hoeveelheden harddrugs te weten in totaal 
+38.126 		pillen XTC en/of
+61.029 		trips/hoeveelheden LSD en/of
+95.31835 	gram molly/MDMA en/of
+  3.805 		capsules MDMA en/of
+  4.72055 	gram cocaïne en/of
+    127 		gram meth/amfetamine
+ zijnde  middelen als
+bedoeld in de bij de Opiumwet behorende lijst 1.
+ 
+
+3.
+hij in  de periode van 1 januari 2016 tot en met 12 maart 2018  in Nederland tezamen en in vereniging met  anderen  opzettelijk heeft  bewerkt verwerkt verkocht afgeleverd verstrekt vervoerd en/of aanwezig heeft gehad
+één of meer hoeveelheden in totaal  1.4365 gram hasj en/of hennep
+en/of buiten het grondgebied van Nederland heeft gebracht één of meer hoeveelheden in totaal 1.4305 gram hasj en/of hennep  zijnde hasjiesj en/of hennep een middel als bedoeld in de bij die wet behorende lijst II.
+ 
+
+4.
+hij op  13 maart 2018 te Amsterdam  tezamen en in vereniging met  anderen  opzettelijk aanwezig heeft gehad 
+
+- 10.21254 gram MDMA/XTC en
+-          563 	gram cocaïne en
+- 13.521 zegels LSD 
+
+ zijnde MDMA/XTC en cocaïne en LSD (telkens) een middel als bedoeld in de bij de Opiumwet behorende lijst 1;
+en/
+hij op of omstreeks 13 maart 2018 te Amsterdam tezamen en in vereniging met een ander of anderen althans alleen opzettelijk in voorraad heeft gehad ongeveer 17217 gram Ketamine althans een hoeveelheid Ketamine zijnde een geneesmiddel waarvoor geen handelsvergunning geldt
+en
+hij op  13 maart 2018 te Amsterdam  tezamen en in vereniging met  anderen  opzettelijk aanwezig heeft gehad 22280 	gram Cannabis en
+  1650 	gram Paddo’s
+  zijnde hasjiesj en hennep en paddo’s (telkens) een middel als bedoeld in de bij de Opiumwet behorende lijst II.
+ 
+
+5.
+hij  in  de periode van 1 januari 2016 tot en met 13 maart 2018  in Nederland tezamen en in vereniging met  anderen  (telkens) van  voorwerpen te weten  (contant(e) geldbedragen en/of  bitcoins ter waarde van in totaal  EUR 853.522- de werkelijke aard en/of de herkomst  heeft verborgen en/of verhuld 
+en/of
+deze geldbedragen en/of bitcoins verworven en/of voorhanden gehad en/of overgedragen en/of omgezet en/of van deze geldbedragen en/of bitcoinsgebruik gemaakt 
+terwijl verdachte en/of zijn mededaders wisten dat voornoemde geldbedragen en/of bitcoins - onmiddellijk of middellijk - afkomstig waren uit enig misdrijf
+door
+
+- bitcoins voorhanden te hebben die afkomstig waren van enig misdrijf en/of (vervolgens)
+- zichzelf en/of één of zijn mededader(s) toegang tot die bitcoins te verschaffen via
+
+betaalkaarten terwijl (een deel van) die betaalkaarten op naam van (een) ander(en)
+was/waren gesteld en/of (vervolgens)
+
+- die betaalkaarten voorhanden te hebben en/of (vervolgens)
+- met die betaalkaarten contante geldbedragen op te nemen en/of (vervolgens)
+- die contante geldbedragen voorhanden te hebben en/of over te dragen;
+en hij verdachte en zijn mededadersvan het plegen van dit feit een gewoonte heeft gemaakt. 
+
+In bijlage III heeft de rechtbank een opgave gedaan van wettige bewijsmiddelen houdende voor de bewezenverklaring redengevende feiten en omstandigheden. Met deze opgave wordt volstaan nu de verdachte het onder 7 bewezen verklaarde heeft bekend en nadien geen vrijspraak is bepleit. Op grond daarvan is wettig en overtuigend bewezen dat de verdachte het onder 7 ten laste gelegde heeft begaan op die wijze dat:
+ 
+
+7.
+hij op  19 december 2017 te Amsterdam   wapens van categorie III te weten:
+
+- een pistool merk Glock model 26 kaliber 9mm x 19 (9mm Luger) en
+- een revolver merk Smith & Wesson model 625-2 kaliber .45 ACP
+
+en
+munitie van categorie III te weten:
+
+- ongeveer 4 kogelpatronen MMS 9mm Luger en
+- ongeveer 9 kogelpatronen R-P “Remmington-Peters” en
+- ongeveer 3 kogelpatronen Winchester .45 ACP en
+- ongeveer 47 kogelpatronen .45 ACP (merk PPU) en
+- ongeveer 50 kogelpatronen 635 mm Browning merk GECO
+
+voorhanden heeft gehad
+en
+hij op omstreeks 13 maart 2018 te Amsterdam  munitie van categorie III te weten:
+
+- 2 kogelpatronen kaliber 9mm Makarov (merk Skarzysko-Kamnienna) en
+- 1 kogelpatroon kaliber .38 special merk GECO
+
+voorhanden heeft gehad.
+Hetgeen meer of anders is ten laste gelegd is niet bewezen. De verdachte moet daarvan worden vrijgesproken.
+
+
+
+
+
+6 Strafbaarheid feiten
+Over de strafbaarheid van feit 5 (witwassen) wordt het volgende overwogen. De rechtbank heeft hiervoor tot uitdrukking gebracht dat de witgewassen geldbedragen afkomstig zijn uit een door de verdachte en zijn medeverdachten begaan misdrijf namelijk de online verkoop van verdovende middelen. Dat staat echter aan de strafbaarheid van dit feit niet in de weg. De zogeheten ‘eigen misdrijf exceptie’ is immers niet van toepassing nu de verdachte en zijn medeverdachten het bewezenverklaarde bedrag niet alleen hebben verworven en voorhanden hebben gehad door ontvangst van de betalingen in bitcoins maar deze betalingen vervolgens hebben omgezet naar cash (het pinnen).  
+
+De bewezen feiten leveren op:
+ 
+
+1.
+
+medeplegen van opzettelijk handelen in strijd met het in artikel 2 onder A onder B en onder C van de Opiumwet gegeven verbod; 
+ 
+
+3.
+
+medeplegen van opzettelijk handelen in strijd met het in artikel 3 onder A onder B en onder C van de Opiumwet gegeven verbod;
+ 
+
+4.
+
+medeplegen van opzettelijk handelen in strijd met het in artikel 2 onder C van de Opiumwet gegeven verbod;
+
+ 
+
+5.
+
+medeplegen van gewoontewitwassen;
+
+ 
+
+7.
+
+handelen in strijd met artikel 26 eerste lid van de Wet wapens en munitie en het feit begaan met betrekking tot een wapen van categorie III
+
+
+en 
+
+
+handelen in strijd met artikel 26 eerste lid van de Wet wapens en munitie.
+
+ 
+
+Er zijn geen feiten of omstandigheden aannemelijk geworden die de strafbaarheid van de feiten uitsluiten.
+ 
+
+De feiten zijn dus strafbaar.
+
+
+
+
+7 Strafbaarheid verdachte
+Er is geen omstandigheid aannemelijk geworden die de strafbaarheid van de verdachte uitsluit. 
+
+De verdachte is dus strafbaar.
+ 
+
+
+
+8 Motivering straf 
+
+8.1.
+
+
+Algemene overweging
+
+De straf die aan de verdachte wordt opgelegd is gegrond op de ernst van de feiten de omstandigheden waaronder de feiten zijn begaan de persoon en de persoonlijke omstandigheden van de verdachte. Daarbij wordt in het bijzonder het volgende in aanmerking genomen.
+ 
+
+De verdachte heeft zich samen met zijn mededaders schuldig gemaakt aan grootschalige internationale handel in verdovende middelen over een periode van 2 jaar. De verdachte en zijn mededaders verkochten anoniem en op professionele wijze drugs op het darkweb als Hansa Market en Dream Market. Hij heeft met zijn mededaders 38.000 XTC-pillen 63.000 trips LDS bijna 100 kilo MDMA 5 kilo cocaïne en kleinere hoeveelheden amfetamine verkocht verwerkt en verzonden aan afnemers over de hele wereld. De verdachte en zijn mededaders trachtten op een geraffineerde manier buiten beeld van justitie te blijven met verhullende digitale mogelijkheden als een verborgen en beveiligd digitaal netwerk/server in het buitenland en door het gebruik van stealths. De drugs werden verwerkt en in computerspellen en in op maat ‘geprinte’ make-updoosjes verstopt en werden vervolgens als postpakket met retouradressen van nietsvermoedende derden via de reguliere post verstuurd naar afnemers wereldwijd. De verdachte had samen met zijn mededaders een handelsvoorraad aan verdovende middelen en het geneesmiddel ketamine voorhanden in een woning die hiervoor speciaal was ingericht. 
+ 
+
+De verdachte heeft kennelijk enkel uit winstbejag gehandeld en heeft geen oog gehad voor de schadelijke gevolgen van zijn handelen voor anderen gedupeerden en de maatschappij. Het is algemeen bekend dat het gebruik van harddrugs verslavend is en een onaanvaardbaar gevaar oplevert voor de volksgezondheid en het welzijn van de gebruikers. De verdachte heeft ook bijgedragen aan het in stand houden van een “onderwereld”: een crimineel circuit van de productie en handel van/in drugs waarin geweld en bedreiging een grote rol spelen en dat gevaar schade en overlast veroorzaakt voor de samenleving. Voorts zijn er de grote risico’s van de aanwezigheid van drugslaboratoria in woonwijken dumping van chemisch afval van de synthetische drugsproductie waarbij anderen of de maatschappij voor de kosten opdraaien en/of waardoor schade aan het milieu wordt toegebracht aantasting van de legale economie door het witwassen van criminele inkomsten en vermogens en betrokkenheid van nietsvermoedende (post)bedrijven en burgers. Ten slotte weegt de rechtbank mee dat de verdachte zich heeft beziggehouden met een betrekkelijk nieuwe vorm van drugshandel via het internet waarin Nederland voorop loopt en die met kracht bestreden moet worden. 
+ 
+
+De verdachte heeft zich samen met zijn mededaders verder schuldig gemaakt aan het witwassen van de met drugshandel verdiende opbrengsten. De verdovende middelen werden met bitcoins betaald. Voor het opnemen van de ontvangen bitcoins zijn debetcards aangevraagd met behulp van de identiteitsgegevens van nietsvermoedende derden. 
+Het witwassen van crimineel vermogen faciliteert de onderliggende criminaliteit vormt een aantasting van de legale economie en is mede vanwege de corrumperende invloed ervan op het reguliere handelsverkeer een bedreiging van de integriteit van het financiële handelsverkeer. Op deze manier worden ook inkomsten en vermogens onttrokken aan het zicht van de Belastingdienst. 
+ 
+
+De verdachte heeft ten slotte twee vuurwapens met munitie in een woning voorhanden gehad. Het ongecontroleerd bezit van vuurwapens roept een onaanvaardbaar gevaar voor de veiligheid van personen in het leven omdat de ervaring leert dat het bezit hiervan in situaties die verband staan met handel in en bezit van verdovende middelen al snel leidt tot het gebruik daarvan of kan leiden tot ongevallen met ernstige of zelfs fatale gevolgen. 
+
+
+
+8.2.
+
+Persoonlijke omstandigheden verdachte
+
+
+8.2.1.
+
+
+Strafblad
+
+De rechtbank heeft acht geslagen op een uittreksel uit de justitiële documentatie van 5 juni 2018 waaruit blijkt dat de verdachte niet eerder is veroordeeld voor soortgelijke strafbare feiten.
+
+
+
+
+8.3.
+
+
+Strafmaat
+
+Gezien de ernst van de feiten kan niet anders worden gereageerd dan met het opleggen van een onvoorwaardelijke gevangenisstraf van aanzienlijke duur. Bij de bepaling van de duur van de gevangenisstraf heeft de rechtbank acht geslagen op straffen die in soortgelijke zaken plegen te worden opgelegd. De rechtbank neemt hierbij in aanmerking de lange periode waarin deze feiten zijn gepleegd de omvang van de drugshandel de grootte van de handelsvoorraad de hoogte van het witgewassen bedrag de rol van de verdachte hierin en het feit dat hij geen volledige openheid van zaken heeft gegeven maar slechts beperkt verantwoording heeft afgelegd door zijn aandeel en de periode af te zwakken. De rechtbank komt tot een lagere straf dan de officier van justitie heeft geëist omdat zij minder feiten heeft bewezen verklaard dan de officier van justitie heeft gevorderd. De rechtbank heeft oog voor de moeilijke persoonlijke omstandigheden van de verdachte maar deze kunnen niet in de weg staan aan het opleggen van een gevangenisstraf die past bij de ernst van de feiten.
+ 
+
+De rechtbank acht alles afwegend de oplegging van een onvoorwaardelijke gevangenisstraf voor de duur van vijf jaar passend en geboden. 
+
+
+
+
+
+9 In beslag genomen voorwerpen
+
+9.1.
+
+
+Standpunt officier van justitie
+
+De officier van justitie heeft gevorderd de op de lijst van inbeslaggenomen voorwerpen vermelde verdovende middelen onder nummer 19 tot en met 24 te vernietigen en de gegevensdragers onder nummer 13 en het geldbedrag onder 5 verbeurd te verklaren.
+
+
+
+9.2.
+
+
+Standpunt verdediging
+
+De verdediging refereert zich tot het oordeel van de rechtbank wat betreft het beslag van voornoemde verdovende middelen. 
+
+
+
+9.3.
+
+
+Beoordeling
+
+Ingevolge artikel 353 Sv neemt de rechtbank bij de oplegging van een straf een beslissing over de met toepassing van artikel 94 Sv inbeslaggenomen voorwerpen ten aanzien waarvan nog geen last tot teruggave verleend is. Dit ziet op strafrechtelijk beslag en niet op conservatoir beslag als bedoeld in artikel 94a Sv. 
+ 
+
+Ten aanzien van het inbeslaggenomen geldbedrag van € 2.630- onder nummer 5 wordt gelet op het bovenstaande geen beslissing genomen nu op dit geldbedrag blijkens de officier van justitie en de lijst van inbeslaggenomen voorwerpen conservatoir beslag is gelegd.
+ 
+
+De bovengenoemde inbeslaggenomen verdovende middelen zullen worden onttrokken aan het verkeer. Het ongecontroleerde bezit daarvan is in strijd met de wet en het algemeen belang. 
+ 
+
+Genoemde gegevensdragers zullen worden verbeurd verklaard omdat de onder 1 3 en 5 bewezen verklaarde strafbare feiten met behulp daarvan zijn begaan.
+ 
+
+Ten aanzien van de inbeslaggenomen gouden ring onder nummer 18 op voornoemde lijst zal een last worden gegeven tot teruggave aan de verdachte. De ring is onder de verdachte in beslag genomen. Uit het dossier en het verhandelde ter terechtzitting blijkt niet dat de ring in verband staat met de bewezenverklaarde misdrijven. De officier van justitie heeft ook geen verbeurdverklaring van de ring gevorderd. 
+
+
+
+
+
+10 Toepasselijke wettelijke voorschriften
+Gelet is op de artikelen 33 33a 36b 36c 36d 47 57 420bis en 420ter van het Wetboek van Strafrecht de artikelen 2 3 10 en 11 van de Opiumwet de artikelen 40 en 101 van de Geneesmiddelenwet de artikelen 1 2 en 6 van de Wet op de economische delicten en de artikelen 26 en 55 van de Wet wapens en munitie zoals deze luidden ten tijde van het bewezenverklaarde.
+
+
+
+11 Bijlagen
+De in dit vonnis genoemde bijlagen maken deel uit van dit vonnis.
+
+
+
+12 Beslissing
+De rechtbank: 
+
+verklaart de officier van justitie ontvankelijk in de vervolging;
+ 
+
+verklaart niet bewezen dat de verdachte de onder 2 en 6 tenlastegelegde feiten heeft begaan en spreekt de verdachte daarvan vrij;
+ 
+
+verklaart bewezen dat de verdachte de onder 1 3 tot en met 5 en 7 tenlastegelegde feiten zoals hiervoor omschreven heeft begaan;
+ 
+
+verklaart niet bewezen hetgeen aan de verdachte meer of anders ten laste is gelegd dan hiervoor bewezen is verklaard en spreekt de verdachte daarvan vrij;
+ 
+
+stelt vast dat het bewezen verklaarde oplevert de hiervoor vermelde strafbare feiten;
+ 
+
+verklaart de verdachte strafbaar;
+ 
+
+veroordeelt de verdachte tot een gevangenisstraf voor de duur van 5 (vijf) jaar;  
+beveelt dat de tijd die door de veroordeelde voor de tenuitvoerlegging van deze uitspraak in verzekering en in voorlopige hechtenis is doorgebracht bij de uitvoering van de opgelegde gevangenisstraf in mindering wordt gebracht voor zover deze tijd niet reeds op een andere vrijheidsstraf in mindering is gebracht;
+
+beslist ten aanzien van de voorwerpen geplaatst op de lijst van inbeslaggenomen en nog niet teruggegeven voorwerpen als volgt:
+
+- verklaart verbeurd als bijkomende straf voor de feiten 1 3 en 5:
+
+de onder nummer 13 vermelde geheugendragers;- verklaart onttrokken aan het verkeer: 
+de onder nummer 19 tot en met 24 vermelde verdovende middelen;
+
+- gelast de teruggave aan verdachte van: 
+de onder 18 vermelde gouden ring. 
+
+Dit vonnis is gewezen door:
+mr. J. Bade voorzitter
+en mrs. K.A. Baggerman en J. de Lange rechters
+in tegenwoordigheid van mr. R. van Puffelen griffier
+en uitgesproken op de openbare terechtzitting van deze rechtbank op de datum die in de kop van dit vonnis is vermeld.
+ 
+
+Bijlage I 
+ 
+
+
+Tekst nader omschreven tenlastelegging
+
+ 
+
+Aan de verdachte wordt ten laste gelegd dat
+
+1. (zaakdossier 3.01)
+
+hij op één of meer tijdstip(pen) in of omstreeks de periode van 1 januari 2016
+tot en met 12 maart 2018 te Amsterdam en/of te Werkendam in elk geval in
+Nederland
+ 
+
+tezamen en in vereniging met een of meer anderen althans alleen
+ 
+
+opzettelijk
+ 
+
+heeft bereid bewerkt verwerkt verkocht afgeleverd verstrekt vervoerd en/of aanwezig
+gehad (telkens) één of meer (grote) hoeveelheden harddrugs te weten in totaal ongeveer
+ 
+
+38.709 		pillen XTC en/of
+63.742 		trips/hoeveelheden LSD en/of
+95.85535 	gram molly/MDMA en/of
+  3.912 		capsules MDMA en/of
+ 5.0192 	gram cocaïne en/of
+   129 		gram meth/amfetamine
+ 
+
+en/of
+ 
+
+buiten het grondgebied van Nederland heeft gebracht (telkens) één of meet (grote)
+hoeveelheden harddrugs te weten in totaal ongeveer
+ 
+
+38.126 		pillen XTC en/of
+61.029 		trips/hoeveelheden LSD en/of
+95.31835 	gram molly/MDMA en/of
+  3.805 		capsules MDMA en/of
+  4.72055 	gram cocaïne en/of
+    127 		gram meth/amfetamine
+ 
+
+in elk geval in totaal (telkens) (een) grote hoeveelhe(i)d(en) van een materiaal bevattende
+XTC en/of LSD en/of MDMA en/of amfetamine en/of cocaïne zijnde (een) middel(en) als
+bedoeld in de bij de Opiumwet behorende lijst 1 dan wel aangewezen krachtens het vijfde lid van artikel 3a van die wet;
+ 
+
+art 2 ahf/ond B Opiumwet
+art 2 ahf/ond C Opiumwet
+art 2 ahf/ond A Opiumwet
+art 47 lid 1 ahf/sub 1 Wetboek van Strafrecht
+art 10 lid 5 Opiumwet
+ 
+2. ( (zaakdossier 3.01)
+
+hij op één of meer tijdstippen) in of omstreeks de periode van 1 januari 2016
+tot en met 12 maart 2018 te Amsterdam en/of te Werkendam in elk geval in
+Nederland
+ 
+
+tezamen en in vereniging met een ander of anderen althans alleen
+ 
+
+(telkens) al dan niet opzettelijk
+een werkzame stof als bedoeld in artikel 1 sub x.1 van de Geneesmiddelenwet
+te weten een hoeveelheid tabletten/poeder bevattende in totaal ongeveer 10.5377 gram
+Ketamine
+ 
+
+zonder registratie heeft bereid heeft ingevoerd heeft afgeleverd en/of heeft
+uitgevoerd en/of al dan niet opzettelijk zonder handelsvergunning van Onze Minister als
+bedoeld in artikel 1 sub a van de Geneesmiddelenwet een groothandel in
+voornoemd geneesmiddel heeft gedreven;
+ 
+
+art 47 lid 1 ahf/sub 1 Wetboek van Strafrecht
+art 38 lid 1 Geneesmiddelenwet
+art 18 lid 1 Geneesmiddelenwet
+
+3. ( (zaakdossier 3.01)
+
+hij op één of meer tijdstip(pen) in of omstreeks de periode van 1januari 2016
+tot en met 12 maart 2018 te Amsterdam en/of te Werkendam in elk geval in
+Nederland
+ 
+
+tezamen en in vereniging met een of meer anderen althans alleen
+ 
+
+opzettelijk
+ 
+
+heeft geteeld bereid bewerkt verwerkt verkocht afgeleverd verstrekt vervoerd en/of
+aanwezig heeft gehad
+ 
+
+één of meer hoeveelheden in totaal ongeveer 1.4365 gram hasj en/of hennep
+en/of
+ 
+
+buiten het grondgebied van Nederland heeft gebracht
+ 
+
+één of meer hoeveelheden in totaal ongeveer 1.4305 gram hasj en/of hennep
+ 
+
+in elk geval een hoeveelheid van een gebruikelijk vast mengsel van hennephars en
+plantaardige elementen van hennep hasjiesj) waaraan geen andere substanties zijn
+toegevoegd zijnde hasjiesj en/of hennep een middel als bedoeld in de bij die wet behorende
+lijst II dan wel aangewezen krachtens het vijfde lid van artikel 3a van die Wet;
+ 
+
+art 3 ahf/ond S Opiumwet
+art 3 ahf/ond C Opiumwet
+art 3 ahf/ond A Opiumwet
+art 47 lid 1 ahf/sub 1 Wetboek van Strafrecht
+art 11 lid 4 Opiumwet
+
+4. ( (zaakdossier 3.01)
+hij op of omstreeks 13 maart 2018 te Amsterdam in elk geval in Nederland 
+
+tezamen en in vereniging met een ander of anderen althans alleen
+ 
+
+opzettelijk aanwezig heeft gehad ongeveer
+ 
+- 10.21254 gram MDMA/XTC en/of
+-          563 gram cocaïne en/of
+- 13.521 zegels LSD 
+
+in elk geval een hoeveelheid van een materiaal bevattende MDMA/XTC en/of cocaïne en/of
+LSD zijnde MDMA/XTC en/of cocaïne en/of LSD (telkens) zijnde een middel als bedoeld in de bij de Opiumwet behorende lijst 1 dan wel aangewezen krachtens het vijfde lid van artikel 3a van die wet;
+ 
+
+en/of
+ 
+
+hij op of omstreeks 13 maart 2018 te Amsterdam
+ 
+
+tezamen en in vereniging met een ander of anderen althans alleen
+ 
+
+opzettelijk in voorraad heeft gehad
+ 
+
+ongeveer 17217 gram Ketamine althans een hoeveelheid Ketamine
+zijnde een geneesmiddel waarvoor geen handelsvergunning geldt;
+ 
+
+art 40 lid 2 Geneesmiddelenwet
+art 47 lid 1 ahf/sub 1 Wetboek van Strafrecht
+ 
+
+en/of
+ 
+
+hij op of omstreeks 13 maart 2018 te Amsterdam in elk geval in Nederland
+ 
+
+tezamen en in vereniging met een ander of anderen althans alleen
+opzettelijk aanwezig heeft gehad ongeveer
+ 
+
+22280 	gram Cannabis en/of
+  1650 	gram Paddo’s
+ 
+
+in elk geval een hoeveelheid hasjies/canabis en/of paddo’s (telkens) zijnde hasjiesj en/of
+hennep (telkens) een middel als bedoeld in de bij de Opiumwet behorende lijst II dan wel
+aangewezen krachtens het vijfde lid van artikel 3a van die wet;
+ 
+
+art 3 ahf/ond C Opiumwet
+art 47 lid 1 ahf/sub 1 Wetboek van Strafrecht
+
+5. ( (zaakdossier 3.02)
+
+hij op één of meer tijdstip(pen) in of omstreeks de periode van 1 januari 2016
+tot en met 13 maart 2018 te Amsterdam en/of te Werkendam in elk geval in
+Nederland
+ 
+
+tezamen en in vereniging met een of meer anderen althans alleen
+ 
+
+(telkens) van (een) voorwerp(en) te weten één of meer (contant(e))
+geldbedrag(en) en/of één of meer bitcoin(s) ter waarde van in totaal ongeveer
+EUR 1.187.420-
+ 
+
+de werkelijke aard en/of de herkomst en/of de vindplaats en/of de
+vervreemding en/of de verplaatsing heeft verborgen en/of verhuld althans
+verborgen en/of verhuld wie de rechthebbende op voornoemd(e) geldbedrag(en)
+en/of bitcoin(s) was/is
+ 
+
+en/of
+ 
+
+dit/deze geldbedrag(en) en/of bitcoin(s) verworven en/of voorhanden gehad
+en/of overgedragen en/of omgezet en/of van dit/deze geldbedrag(en) en/of
+bitcoin(s) gebruikt gemaakt
+ 
+
+terwijl verdachte en/of zijn mededader(s) wist(en) dat voornoemd(e)
+geldbedrag(en) en/of bitcoin(s) - onmiddellijk of middellijk - afkomstig
+was/waren uit enig misdrijf
+ 
+
+door
+ 
+- bitcoins voorhanden te hebben die afkomstig waren van enig misdrijf en/of
+(vervolgens)
+- zichzelf en/of één of zijn mededader(s) toegang tot die bitcoins te verschaffen via
+
+betaalkaarten terwijl (een deel van) die betaalkaarten op naam van (een) ander(en)
+was/waren gesteld en/of (vervolgens)
+
+- die betaalkaarten voorhanden te hebben en/of (vervolgens)
+- met die betaalkaarten contante geldbedragen op te nemen en/of (vervolgens)
+- die contante geldbedragen voorhanden te hebben en/of over te dragen; 
+
+en hij verdachte en/of zijn mededader(s) van het plegen van dit feit een
+gewoonte heeft gemaakt;
+ 
+
+art 47 lid 1 ahf/sub 1 Wetboek van Strafrecht
+art 420bis lid 1 ahf/ond a Wetboek van Strafrecht
+art 420bis lid 1 ahf/ond b Wetboek van Strafrecht
+art 420ter lid 1 Wetboek van Strafrecht
+ 
+6. ( (zaakdossier 3.04 [adres 1] ) 
+
+hij op of omstreeks 13 maart 2018 te Amsterdam
+ 
+
+tezamen en in vereniging met een ander of anderen althans alleen
+ 
+
+een vuurwapen van categorie III te weten:
+ 
+
+een revolver merk Taurus/M66 4” kaliber .357 magnum
+ 
+
+en/of
+ 
+
+munitie van categorie III te weten:
+ 
+- ongeveer 6 kogelpatronen merk Federal  .357Magnum enlof
+- ongeveer 5 kogelpatronen merk CCI kaliber .38 specïal 
+
+voorhanden heeft gehad
+ 
+
+de in deze telastelegging gebruikte termen en uitdrukkingen worden voor zover daaraan in
+de Wet wapens en munitie betekenis gegeven geacht in dezelfde betekenis te zijn
+gebezigd;
+ 
+7. ( (zaakdossier 3.03 [adres 4] ) 
+
+hij op of omstreeks 19 december 2017 te Amsterdam
+ 
+
+tezamen en in vereniging met een ander of anderen althans alleen
+ 
+
+een of meer wapens van categorie III te weten:
+
+- een pistool merk Glock model 26 kaliber 9mm x 19 (9mm Luger) en/of
+- een revolver merk Smith & Wesson model 625-2 kaliber .45 ACP
+
+en/of
+munitie van categorie III te weten:
+ 
+- ongeveer 4 kogelpatronen MMS 9mm Luger en/of
+- ongeveer 9 kogelpatronen R-P “Remmington-Peters” en/of
+- ongeveer 3 kogelpatronen Winchester .45 ACP en/of
+- ongeveer 47 kogelpatronen .45 ACP (merk PPU) en/of
+- ongeveer .50 kogelpatronen 635 mm Browning merk GECO
+voorhanden heeft gehad 
+
+de in deze telastelegging gebruikte termen en uitdrukkingen worden voor zover daaraan in
+de Wet wapens en munitie betekenis gegeven geacht in dezelfde betekenis te zijn
+gebezigd;
+ 
+
+en/of
+ 
+
+hij op of omstreeks 13 maart 2018 te Amsterdam
+ 
+
+tezamen en in vereniging met een ander of anderen althans alleen
+ 
+
+munitie van categorie III te weten:
+ 
+- 2 kogelpatronen kaliber 9mm Makarov (merk Skarzysko-Kamnienna) en/of
+- 1 kogelpatroon kaliber .38 special merk GECO 
+
+voorhanden heeft gehad
+ 
+
+de in deze telastelegging gebruikte termen en uitdrukkingen worden voor zover daaraan in
+de Wet wapens en munitie betekenis gegeven geacht in dezelfde betekenis te zijn
+gebezigd;
+Bijlage IV
+ 
+
+Lijst van inbeslaggenomen voorwerpen
+ 
+
+Voorwerpen				waarde		dt. Beslis.	Beslissing
+ 
+19.	1.00 stk drugs			000		17 mei 2019	vernietigen
+447310	zakje pillen/poeder 
+20.	1.00 stk drugs
+456088 7 x 2 lsd-papiertjes	000		17 mei 2019	vernietigen 
+21.	1.00 stk drugs			000		17 mei 2019	vernietigen
+456089	zakje met verm witte MDMA 
+22.	1.00 stk drugs			000		17 mei 2019 	vernietigen	
+456092 zakje met verm bruine MDMA	 
+23.	1.00 stk drugs			000		17 mei 2019	vernietigen
+
+456094	wit vouwblaadje opschrift
+Md+vem drugs
+ 
+24.	1.00 stk drugs			000		17 mei 2019 	vernietigen
+
+SA59B 01.02.001 tm SA95B 01.02.035 
+XTC pillen	
+ 
+13.	1.00 stk computer		000		17 mei 2019	deponeren
+	447408 diverse geheugendragers 
+18.	1.00 stk sieraad
+	447424 gouden ring met steentjes		17 mei 2019	deponeren 
+5 geld euro
+
+	5 x 100 40x50 60x 20 2x5 
+	Totaal 2630 euro		2.63000	7 sept 2018	deponeren 
+									conservatoir
+									beslag
+ 
+
+							22 mrt 2018	leggen besl.
+									94 middels  
+									SFO
+ 
+

@@ -1,0 +1,681 @@
+
+
+GERECHTSHOF DEN HAAG
+Afdeling Civiel recht 
+
+Zaaknummer: 200.175.547/01
+ 
+
+Zaaknummers / rolnummers Rechtbank Den Haag: C/09/468857 / KG ZA 14-759 en C/09/468861 / HA ZA 14-760 en C/09/468867 / HA ZA 14-761 
+ 
+
+
+arrest van 25 oktober 2016
+
+ 
+
+inzake
+ 
+
+de rechtspersoon naar buitenlands recht
+
+TEVA PHARMACEUTICAL INDUSTRIES LTD
+gevestigd te Petach Tikva Israël
+appellante
+nader te noemen: Teva
+advocaat: mr. L.Ph.J. baron van Utenhove te Den Haag
+ 
+
+tegen
+ 
+
+de besloten vennootschap met beperkte aansprakelijkheid
+
+SYNTHON B.V.
+gevestigd te Nijmegen
+geïntimeerde
+nader te noemen: Synthon
+advocaat: mr. D. Knottenbelt te Rotterdam.
+ 
+
+
+
+1 Het geding 
+
+Voor het procesverloop tot aan het arrest in incidenteel appel van 12 januari 2016 verwijst het hof naar hetgeen daarin is vermeld. Bij nadien genomen memorie van grieven met producties (hierna: MvG) heeft Teva 11 grieven opgeworpen tegen het vonnis van de rechtbank Den Haag van 22 april 2015. Bij memorie van antwoord met producties (hierna: MvA) heeft Synthon de grieven van Teva bestreden. Daarna hebben beide partijen een akte (met producties) genomen. Teva heeft bij die gelegenheid tevens haar eis gewijzigd waartegen Synthon vervolgens bij akte (met producties) bezwaar gemaakt heeft. Partijen hebben het hof bericht dat zij overeenstemming hebben bereikt over de hoogte van de proceskosten in hoger beroep. Vervolgens hebben partijen op 29 juni 2016 de zaak doen bepleiten Teva door S.C. Dack barrister te Amsterdam en mr. G. Theuws advocaat te Amsterdam en Synthon door mrs. M.G.R. van Gardingen en H.J. Pot beiden advocaat te Amsterdam. Ten slotte hebben partijen arrest gevraagd.
+ 
+
+
+
+2 Feiten 
+
+De in het bestreden vonnis vastgestelde feiten zijn niet in geschil. Ook het hof zal daarvan uitgaan. Het gaat in deze zaak om het navolgende.
+ 
+
+2.1
+Synthon is een Nederlands bedrijf wereldwijd actief op het gebied van zowel innovatieve als complexe generieke geneesmiddelen. 
+
+
+2.2
+Teva is een farmaceutisch bedrijf gevestigd in Israël en brengt onder meer een geneesmiddel voor de behandeling van multiple sclerose onder de merknaam Copaxone op de markt. Copaxone bevat een oplossing van glatirameer acetaat in water. 
+
+
+2.3
+Het basisoctrooi voor glatirameer acetaat EP 0 762 888 B1 (hierna EP 888) gebaseerd op de internationale aanvrage WO 95/31 990 (hierna WO 990) is eigendom van Yeda Research & Development Co. Ltd. (hierna Yeda) met Teva als exclusief licentieneemster. Het Nederlandse deel van EP 888 is in stand gehouden door de rechtbank Den Haag bij vonnis van 2 oktober 2013 in een procedure tussen Mylan en Yeda/Teva (C/09/468857 / HA ZA 14-759). EP 888 heeft een indieningsdatum van 23 mei 1995 en is derhalve per 23 mei 2015 geëxpireerd.  
+
+
+2.4
+Teva was ten tijde van dagvaarding in eerste aanleg houdster van het Europees octrooi EP 1 799 703 aangevraagd op 9 september 2005 onder inroeping van prioriteit op basis van de Amerikaanse octrooiaanvrage US 608 843 van 9 september 2004 voor een “process for preparation of mixtures of polypeptides using purified hydrobromic acid” (hierna ook EP 703). Na een voor Teva negatieve preliminaire opinie van de Technische Kamer van Beroep (hierna TKB) van het EOB heeft Teva voor de zitting haar goedkeuring van de tekst van het octrooi zoals verleend ingetrokken. EP 703 is vervolgens door de TKB herroepen. 
+
+
+2.5
+Teva was tevens houdster van het Europees octrooi EP 2 177 528 met aanvraagdatum 9 september 2005 als afsplitsing van de aanvrage voor EP 703 eveneens onder inroeping van prioriteit op basis van de Amerikaanse octrooiaanvrage US 608 843 van 9 september 2004 voor een “process for preparation of mixtures of trifluoroacetyl glatiramer acetate using purified hydrobromic acid” (hierna ook EP 528). Tijdens de oppositieprocedure nadat de TKB het voornemen had uitgesproken EP 528 te zullen herroepen heeft Teva de goedkeuring voor de tekst van dat octrooi eveneens ingetrokken waarna ook dat octrooi door de TKB definitief is herroepen.  
+
+
+2.6
+Teva is houdster van het Europees octrooi EP 2 361 924 met aanvraagdatum 9 september 2005 als afsplitsing van de aanvrage voor EP 528 (welke aanvrage een afsplitsing was van EP 703) eveneens onder inroeping van prioriteit op basis van de Amerikaanse octrooiaanvrage US 608 843 van 9 september 2004 voor een “process for preparation of mixtures of trifluoroacetyl glatiramer acetate using purified hydrobromic acid” (hierna ook EP 924). De conclusies van het octrooi zoals verleend op 11 december 2013 in de oorspronkelijke Engelse taal luiden als volgt: 
+
+1. In a process for obtaining a mixture of trifluoroacetyl glatiramer acetate wherein the mixture has a desired average molecular weight and wherein during the process a batch of a mixture of polypeptides each of which consists of alanine γ-benzyl glutamate tyrosine and trifluoroacetyllysine is deprotected with a solution of hydrobromic acid in acetic acid the improvement comprising use of a solution of hydrobromic acid in acetic acid which solution comprises less than 0.1 % of free bromine.
+ 
+
+2. The process of claim 1 wherein the improvement further comprises use of a solution of hydrobromic acid in acetic acid that comprises less than 500 ppm of metal ion impurities.
+ 
+
+3. In a process for obtaining a mixture of trifluoroacetyl glatiramer acetate wherein the mixture has a desired average molecular weight and wherein during the process a batch of a mixture of polypeptides each of which consists of alanine γ-benzyl glutamate tyrosine and trifluoroacetyllysine is deprotected with a solution of hydrobromic acid in acetic acid the improvement comprising use of a solution of hydrobromic acid in acetic acid which solution comprises less than 500 ppm of metal ion impurities.
+ 
+
+4. A process of producing a mixture of trifluoroacetyl glatiramer acetate wherein the mixture has a desired average molecular weight comprising deprotecting a mixture of polypeptides each consisting of alanine γ-benzyl glutamate tyrosine and trifluoroacetyllysine with a solution of hydrobromic acid in acetic acid which solution comprises less than 0.5% of free bromine and less than 500 ppm of metal ion impurities.
+ 
+
+5. A process for obtaining a pharmaceutical composition containing a mixture of glatiramer acetate and wherein the mixture has a desired average molecular weight which comprises
+ 
+
+a) polymerizing N-carboxyanhydrides of tyrosine alanine γ-benzyl glutamate and N-trifluoroacetyl lysine to form a mixture of protected polypeptides;
+b) deprotecting the protected polypeptides with a solution of hydrobromic acid in acetic acid which solution comprises less than 0.5% of free bromine and less than 1000 ppm of metal ion impurities to form a mixture of trifluoroacetyl polypeptides;
+c) reacting the a mixture of trifluoroacetyl polypeptides with aqueous piperidine to form a solution of aqueous mixture of polypeptides each of which consists of alanine glutamic acid tyrosine and lysine; and
+d) purifying the mixture of polypeptides.
+ 
+
+6. A process of producing glatiramer acetate comprising the steps of:
+a) polymerizing N-carboxyanhydrides of tyrosine alanine γ-benzyl glutamate and N-trifluoroacetyl lysine to form protected glatiramer acetate;
+b) deprotecting protected glatiramer acetate with a solution of hydrobromic acid in acetic acid the solution comprises less than 0.5% of free bromine and less than 1000 ppm of metal ion impurities to form trifluoroacetyl glatiramer acetate;
+c) reacting trifluoroacetyl glatiramer acetate with aqueous piperidine to form a solution of glatiramer acetate; and
+d) purifying the glatiramer acetate.
+ 
+
+7. The process of anyone of claims 1-6 wherein the solution of hydrobromic acid in acetic acid comprises less than 0.05% of free bromine preferably less than 0.01 % of free bromine more preferably less than 0.001 % of free bromine yet more preferably the solution of hydrobromic acid in acetic acid is free of free bromine.
+ 
+
+8. The process of claim 7 wherein the solution of hydrobromic acid in acetic acid comprises less than 100 ppm of metal ion impurities.
+ 
+
+9. The process of claim 8 wherein the solution of hydrobromic acid in acetic acid comprises less than 30 ppm of metal ion impurities.
+10. The process of claim 9 wherein the solution of hydrobromic acid in acetic acid comprises less than 20 ppm of metal ion impurities.
+ 
+
+11. The process of claim 10 wherein the solution of hydrobromic acid in acetic acid comprises less than 10 ppm of metal ion impurities.
+ 
+
+12. The process of claim 11 wherein the solution of hydrobromic acid in acetic acid is free of metal ion impurities.
+ 
+
+13. The process of anyone of claims 1-12 wherein the color of the solution of hydrobromic acid in acetic acid is less than 2000 APHA.
+ 
+
+14. The process of claim 13 wherein the color of the solution of hydrobromic acid in acetic acid is less than 1000 APHA. 
+ 
+
+15. The process of claim 14 wherein the color of the solution of hydrobromic acid in acetic acid is less than 700 APHA.
+ 
+
+16. The process of claim 15 wherein the color of the solution of hydrobromic acid in acetic acid is less than 500 APHA.
+ 
+
+17. The process of anyone of claims 1-18 wherein the hydrobromic acid in acetic acid solution is produced in a non-metallic reactor.
+ 
+
+18. The process of anyone of claims 18 wherein the hydrobromic acid in acetic acid solution is prepared in a glasslined or Teflon lined reactor.
+ 
+
+19. A mixture of trifluoroacetyl glatiramer acetate wherein the mixture has a desired average molecular weight no more than 0.1 % brominated tyrosine and less than 1000 ppm metal ion impurities.
+ 
+
+20. A mixture of glatiramer acetate wherein the mixture has a desired molecular weight and less than 1000 ppm metal ion impurities.
+ 
+
+21. The mixture of anyone of claims 19-20 wherein the mixture comprises less than 500 ppm of metal ion impurities.
+ 
+
+22. The mixture of claim 21 wherein the mixture comprises less than 100 ppm of metal ion impurities.
+ 
+
+23. The mixture of claim 22 wherein the mixture comprises less than 30 ppm of metal ion impurities.
+ 
+
+24. The mixture of claim 23 wherein the mixture comprises less than 20 ppm of metal ion impurities.
+ 
+
+25. The mixture of claim 24 wherein the mixture comprises less than 10 ppm of metal ion impurities.
+ 
+
+26. The mixture of claim 25 wherein the mixture is free of metal ion impurities.
+ 
+
+27. The mixture of anyone of claims 19-26 wherein the color of the mixture is less than 1000 APHA preferably less than 700 APHA.
+ 
+
+28. The mixture of claim 28 wherein the color of the mixture is less than 500 APHA.
+29. A process for preparing a pharmaceutical composition containing a mixture of glatiramer acetate wherein the mixture has a predetermined percentage of brominated tyrosine acceptable for inclusion in a pharmaceutical composition  which comprises 
+obtaining a batch of glatiramer acetate;
+measuring the percentage of brominated tyrosine of the batch by a process comprising
+ 
+
+	a) hydrolyzing the batch to obtain a hydrolyzate;
+	b) eluting the hydrolyzate through a chromatographic column;
+	c) measuring the level of bromotyrosine in the hydrolyzate;
+d) preparing sample solutions of the amino acid components of the batch and of bromotyrosine;
+	e) eluting the sample solutions through the column of step b); and
+	f) calculating the percentage of brominated tyrosine in the batch; and
+ 
+
+including in the pharmaceutical composition a batch only if its percentage of brominated tyrosine so measured is less than 0.3%.
+ 
+
+30. Trifluoroacetyl glatiramer acetate produced by the process of anyone of claims 1-4 or 7-18.
+ 
+
+31. Glatiramer acetate produced by the process of anyone of claims 5-18.
+ 
+
+32. Use of the mixture of trifluoroacetyl glatiramer acetate anyone of claims 19 or 21-28 or the trifluoroacetyl glatiramer acetate of claim 30 in the manufacture of glatiramer acetate.
+ 
+
+
+2.7
+In vertaling luiden die conclusies als volgt: 
+
+1. Bij een werkwijze voor het verkrijgen van een mengsel van trifuoracetylglatirameeracetaat waarbij het mengsel een gewenst gemiddeld molecuulgewicht heeft en waarbij tijdens de werkwijze een partij van een mengsel van polypeptiden die elk bestaat uit alanine γ-benzylglutamaat tyrosine en trifluoracetyllysine wordt ontschermd met een oplossing van waterstofbromide in azijnzuur waarbij de verbetering de toepassing van een oplossing van waterstofbromide in azijnzuur omvat waarbij de oplossing minder dan 01% vrij broom omvat.
+ 
+
+2. Werkwijze volgens conclusie 1 waarbij de verbetering voorts toepassing van een oplossing van waterstofbromide in azijnzuur omvat die minder dan 500 ppm metaaliononzuiverheden omvat.
+ 
+
+3. Bij een werkwijze voor het verkrijgen van een mengsel van trifuoracetylglatirameeracetaat waarbij het mengsel een gewenst gemiddeld molecuulgewicht heeft en waarbij tijdens de werkwijze een partij van een mengsel van polypeptiden die elk bestaat uit alanine γ-benzylglutamaat tyrosine en trifluoracetyllysine wordt ontschermd met een oplossing van waterstofbromide in azijnzuur waarbij de verbetering de toepassing van een oplossing van waterstofbromide in azijnzuur omvat waarbij de oplossing minder dan 500 ppm metaaliononzuiverheden omvat.
+ 
+
+4. Werkwijze voor de bereiding van een mengsel van trifluoracetylglatirameeracetaat waarbij het mengsel een gewenst gemiddeld molecuulgewicht heeft omvattende ontschermen van een mengsel van polypeptiden die elk bestaat uit alanine γ-benzylglutamaat tyrosine en trifuoracetyllysine met een oplossing van waterstofbromide in azijnzuur waarbij de oplossing minder dan 05% vrij broom en minder dan 500 ppm metaaliononzuiverheden omvat.
+ 
+
+5. Werkwijze voor het verkrijgen van een farmaceutische samenstelling die een mengsel van glatirameeracetaat bevat en waarbij het mengsel een gewenst gemiddeld molecuulgewicht heeft omvattende:
+a) polymeriseren van N-carboxyanhydriden van tyrosine alanine γ-benzylglutamaat en N-trifluoracetyllysine onder vorming van een mengsel van beschermde polypeptiden;
+b) ontschermen van de beschermde polypeptiden met een oplossing van waterstofbromide in azijnzuur waarbij de oplossing minder dan 05% vrij broom en minder dan 1000 ppm metaaliononzuiverheden omvat onder vorming  van een mengsel van trifluoracetylpolypeptiden;
+c) omzetten van het mengsel van trifluoracetylpolypeptiden met waterig piperidine onder vorming van een oplossing van een waterig mengsel van polypeptiden die elk bestaat uit alanine glutaminezuur tyrosine en lysine; en
+	d) zuiveren van het mengsel van polypeptiden.
+ 
+
+6. Werkwijze voor de bereiding van glatirameeracetaat omvattende de stappen van:
+ 
+
+a) polymeriseren van N-carboxyanhydriden van tyrosine alanine γ-benzylglutamaat en N-trifluoracetyllysine onder vorming van beschermd glatirameeracetaat;
+b) ontschermen van beschermd glatirameeracetaat met een oplossing van waterstofbromide in azijnzuur waarbij de oplossing minder dan 05% vrij broom en minder dan 1000 ppm metaaliononzuiverheden omvat onder vorming van trifluoracetylglatirameeracetaat;
+c) omzetten van trifluoracetylglatirameeracetaat met waterig piperidine onder vorming van glatirameeracetaat; en 
+d) zuiveren van het glatirameeracetaat.
+ 
+
+7. Werkwijze volgens een der conclusies 1-6 waarbij de oplossing van waterstofbromide in azijnzuur minder dan 005% vrij broom bij voorkeur minder dan 001% vrij broom met meer voorkeur minder dan 0001% vrij broom omvat en met nog meer voorkeur de oplossing van waterstofbromide in azijnzuur vrij van vrij broom is.
+ 
+
+8. Werkwijze volgens conclusie 7 waarbij de oplossing van waterstofbromide in azijnzuur minder dan 100 ppm metaalonzuiverheden omvat.
+ 
+
+9. Werkwijze volgens conclusie 8 waarbij de oplossing van waterstofbromide in azijnzuur minder dan 30 ppm metaalonzuiverheden omvat.
+ 
+
+10. Werkwijze volgens conclusie 9 waarbij de oplossing van waterstofbromide in azijnzuur minder dan 20 ppm metaalonzuiverheden omvat.
+ 
+
+11. Werkwijze volgens conclusie 10 waarbij de oplossing van waterstofbromide in azijnzuur minder dan 10 ppm metaalonzuiverheden omvat.
+ 
+
+12. Werkwijze volgens conclusie 11 waarbij de oplossing van waterstofbromide in azijnzuurvrij is van metaaliononzuiverheden.
+ 
+
+13. Werkwijze volgens een der conclusies 1-12 waarbij de kleur van de oplossing van waterstofbromide in azijnzuur minder dan 2000 APHA bedraagt.
+ 
+
+14. Werkwijze conclusie 13 waarbij de kleur van de oplossing van waterstofbromide in azijnzuur minder dan 1000 APHA bedraagt.
+15. Werkwijze conclusie 14 waarbij de kleur van de oplossing van waterstofbromide
+in azijnzuur minder dan 700 APHA bedraagt.
+ 
+
+16. Werkwijze conclusie 15 waarbij de kleur van de oplossing van waterstofbromide
+in azijnzuur minder dan 500 APHA bedraagt.
+ 
+
+17. Werkwijze volgens een der conclusies 1-16 waarbij de oplossing van waterstofbromide
+in azijnzuur wordt bereid in een reactor die niet van metaal is.
+ 
+
+18. Werkwijze volgens een der conclusies 1-17 waarbij de oplossing van waterstofbromide
+in azijnzuur wordt bereid in een met glas of teflon beklede reactor.
+ 
+
+19. Mengsel van trifluoracetylglatirameeracetaat waarbij het mengsel een gewenst gemiddeld molecuulgewicht heeft en niet meer dan 01% gebromeerd tyrosine en minder dan 1000 ppm metaaliononzuiverheden omvat.
+ 
+
+20. Mengsel van glatirameeracetaat waarbij het mengsel een gewenst gemiddeld molecuulgewicht heeft en minder dan 1000 ppm metaaliononzuiverheden omvat.
+ 
+
+21. Mengsel volgens een der conclusies 19-20 waarbij het mengsel minder dan 500 ppm metaaliononzuiverheden omvat.
+ 
+
+22. Mengsel volgens conclusie 21 waarbij het mengsel minder dan 100 ppm metaaliononzuiverheden omvat.
+ 
+
+23. Mengsel volgens conclusie 22 waarbij het mengsel minder dan 30 ppm metaaliononzuiverheden
+omvat.
+ 
+
+24. Mengsel volgens conclusie 23 waarbij het mengsel minder dan 20 ppm metaaliononzuiverheden
+omvat.
+ 
+
+25. Mengsel volgens conclusie 24 waarbij het mengsel minder dan 10 ppm metaaliononzuiverheden
+omvat.
+ 
+
+26. Mengsel volgens conclusie 25 waarbij het mengsel vrij is van metaaliononzuiverheden.
+ 
+
+27. Mengsel volgens een der conclusies 19-26 waarbij de kleur van het mengsel minder dan 1000 APHA bij voorkeur minder dan 700 APHA bedraagt.
+ 
+
+28. Mengsel volgens conclusie 27 waarbij de kleur van het mengsel minder dan 500 APHA bedraagt.
+ 
+
+29. Werkwijze voor de bereiding van een farmaceutische samenstelling die een mengsel van glatirameeracetaat bevat waarbij het mengsel een vooraf bepaald percentage gebromeerd tyrosine omvat dat aanvaardbaar is voor opname in een farmaceutische samenstelling waarbij de werkwijze omvat:
+ 
+
+verkrijgen van een partij van glatirameeracetaat;
+meten van het percentage gebromeerd tyrosine van de partij volgens een werkwijze
+omvattende:
+ 
+
+	a) hydrolyseren van de partij om een hydrolysaat te verkrijgen;
+	b) elueren van het hydrolysaat over een chromatografiekolom;
+	c) meten van de concentratie broomtyrosine in het hydrolysaat;
+d) vervaardigen van monsteroplossingen van de aminozuurcomponenten van de partij en van broomtyrosine;
+	e) elueren van de monsteroplossingen over de kolom van stap b); en
+	f) berekenen van het percentage gebromeerd tyrosine in de partij; en
+ 
+
+opnemen van een partij in de farmaceutische samenstelling maar alleen indien het aldus
+gemeten percentage gebromeerd tyrosine ervan minder dan 03% bedraagt.
+ 
+
+30. Trifluoracetylglatirameeracetaat bereid volgens de werkwijze volgens een der conclusies 1-4 of 7-18.
+ 
+
+31. Glatirameeracetaat bereid volgens de werkwijze volgens een der conclusies 5-18.
+ 
+
+32. Toepassing van het mengsel van trifluoracetylglatirameeracetaat volgens een der conclusies 19 of 21-28 of het trifluoracetylglatirameeracetaat volgens conclusie 30 bij de bereiding van glatirameeracetaat.
+ 
+
+
+2.8
+Tegen EP 924 is door onder andere Synthon oppositie ingesteld. Op 14 december 2015 heeft de Oppositiedivisie van het EOB dit octrooi gewijzigd (volgens Auxiliary Request AR1f) in stand gehouden als volgt: 
+
+1. In a process for obtaining a mixture of trifluoroacetyl glatiramer acetate wherein the mixture has a desired average molecular weight and wherein during the process a batch of a mixture of polypeptides each of which consists of alanine y-benzyl glutamate tyrosine and trifluoroacetyl lysine is deprotected with a solution of hydrobromic acid in acetic acid the improvement comprising use of a solution of hydrobromic acid in acetic acid which solution comprises less than 100 ppm of metal ion impurities.
+ 
+
+2. A process of producing a mixture of trifluoroacetyl glatiramer acetate wherein the mixture has a desired average molecular weight comprising deprotecting a mixture of polypeptides each consisting of alanine y-benzyl glutamate tyrosine and trifluoroacetyl lysine with a solution of hydrobromic acid in acetic acid which solution is free of free bromine and comprises less than 100 ppm of metal ion impurities.
+ 
+
+3. A process for obtaining a pharmaceutical composition containing a mixture of glatiramer acetate and wherein the mixture has a desired average molecular weight which comprises 
+a) polymerizing N-carboxyanhydrides of tyrosine alanine y-benzyl glutamate and N-trifluoroacetyl lysine to form a mixture of protected polypeptides; 
+b) deprotecting the protected polypeptides with a solution of hydrobromic acid in acetic acid which solution is free of free bromine and comprises less than 100 ppm of metal ion impurities to form a mixture of trifluoroacetyl polypeptides;
+c) reacting the a mixture of trifluoroacetyl polypeptides with aqueous piperidine to form a solution of aqueous mixture of polypeptides each of which consists of alanine glutamic acid tyrosine and lysine; and
+d) purifying the mixture of polypeptides.
+ 
+
+4. A process of producing glatiramer acetate comprising the steps of:
+ 
+
+a) polymerizing N-carboxyanhydrides of tyrosine alanine y-benzyl glutamate and N-trifluoroacetyl lysine to form protected glatiramer acetate;
+b) deprotecting protected glatiramer acetate with a solution of hydrobromic acid in acetic acid the solution is free of free bromine and comprises less than 100 ppm of metal ion impurities to form trifluoroacetyl glatiramer acetate;
+c) reacting trifluoroacetyl glatiramer acetate with aqueous piperidine to form a solution of glatiramer acetate; and d) purifying the glatiramer acetate.
+ 
+
+5. The process of any one of claims 1-4 wherein the solution of hydrobromic acid in acetic acid comprises less than 30 ppm of metal ion impurities.
+ 
+
+6. The process of claim 5 wherein the solution of hydrobromic acid in acetic acid comprises less than 20 ppm of metal ion impurities.
+ 
+
+7. The process of claim 6 wherein the solution of hydrobromic acid in acetic acid comprises less than 10 ppm of metal ion impurities.
+ 
+
+8. The process of claim 7 wherein the solution of hydrobromic acid in acetic acid is free of metal ion impurities.
+ 
+
+9. The process of any one of claims 1-8 wherein the color of the solution of hydrobromic acid in acetic acid is less than 2000 APHA.
+ 
+
+10. The process of claim 9 wherein the color of the solution of hydrobromic acid in acetic acid is less than 1000 APHA.
+ 
+
+11. The process of claim 10 wherein the color of the solution of hydrobromic acid in acetic acid is less than 700 APHA.
+ 
+
+12. The process of claim 11 wherein the color of the solution of hydrobromic acid in acetic acid is less than 500 APHA.
+ 
+
+13. The process of any one of claims 1-12 wherein the hydrobromic acid in acetic acid solution is produced in a non-metallic reactor.
+ 
+
+14. The process of claim 13 wherein the hydrobromic acid in acetic acid solution is prepared in a glass- lined or Teflon lined reactor.
+ 
+
+15. A mixture of trifluoroacetyl glatiramer acetate wherein the mixture has a desired average molecular weight no more than 0.1% brominated tyrosine and less than 100 ppm metal ion impurities.
+ 
+
+16. The mixture of claim 15 wherein the mixture comprises less than 30 ppm of metal ion impurities.
+ 
+
+17. The mixture of claim 16 wherein the mixture comprises less than 20 ppm of metal ion impurities.
+ 
+
+18. The mixture of claim 17 wherein the mixture comprises less than 10 ppm of metal ion impurities.
+ 
+
+19. The mixture of claim 18 wherein the mixture is free of metal ion impurities.
+ 
+
+
+2.9
+Auxiliary Request AR1e werd door de Oppositiedivisie afgewezen. Deze bevatte naast de in hulpverzoek AR1f opgenomen conclusies nog de volgende twee additionele productconclusies: 
+
+20. Trifluoroacetyl glatiramer acetate produced by the process of any one of claims 1-2 or 
+5-14.
+ 
+
+21. Glatiramer acetate produced by the process of any one of claims 3-14.
+ 
+
+
+2.10
+De ‘reasons for the decision’ van 12 april 2016 zijn op 25 april 2016 aan partijen verstrekt. Zowel Teva als Synthon heeft beroep ingesteld bij de TKB.   
+
+
+2.11
+EP 924 heeft betrekking op het (bekende) productieproces van glatirameer acetaat (hierna ook: GA). GA is ook bekend onder de naam “Copolymer-1” en wordt door Teva op de markt gebracht onder de merknaam “Copaxone”. GA is het acetaatzout van een mengsel van synthetische polypeptiden dat vier in de natuur voorkomende aminozuren bevat in een specifieke verhouding (maar in een willekeurige volgorde): L-tyrosine L-alanine L-glutaminezuur en L-lysine. GA is goedgekeurd voor gebruik bij de behandeling van een specifieke vorm van multiple sclerosis (hierna "MS"). 
+
+
+2.12
+
+GA als zodanig en het nut ervan bij de behandeling van MS waren reeds lang voor
+de prioriteitsdatum van EP 924 (9 september 2004) bekend. GA is ontwikkeld in het Weizmann Institute of Science in Israël. Het productieproces wordt in meer detail beschreven in WO 990 (de aanvrage die ten grondslag ligt aan EP 888; gepubliceerd in 1995 zie r.o. 2.3) bijvoorbeeld in voorbeeld 4 op pagina 8/9:
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+2.13
+
+Deze werkwijze uit de stand van de techniek voor de productie van GA kan als volgt worden samengevat en omvat de volgende 3 stappen (voor zover van belang voor
+de onderhavige zaak):
+ 
+- de precursors van de vier aminozuren (waarvan er twee meer reactieve sites hebben en daarom een zogenaamde beschermgroep bevatten om ongewenste nevenreacties te voorkomen) worden gepolymeriseerd door de toevoeging van diethylamine. Dat levert een peptide op het zogenaamde (di-)beschermde glatirameer (“protected copolymer-1” in voorbeeld 4 van WO 990). Vervolgens worden de twee beschermgroepen in twee vervolgstappen verwijderd:
+- de eerste ontschermingsstap wordt uitgevoerd door het (di-)beschermde glatirameer te laten reageren met een oplossing van waterstofbromide (HBr) in azijnzuur (“HBr in acetic acid” in WO 990 hierna aan te duiden als HBr/azijnzuur) wat het peptide ook gedeeltelijk knipt (“cleaves”) waarmee het (mono-beschermde) tussenproduct trifluoroacetyl glatirameer (hierna ook: TFA GA) wordt verkregen;
+- de tweede ontschermingsstap wordt uitgevoerd door dit TFA GA gedispergeerd
+in water te laten reageren met piperidine hetgeen onzuiver glatirameer oplevert. Dit onzuivere glatirameer wordt dan gezuiverd bijvoorbeeld door middel van dialyse en ultrafiltratie en omgezet in een acetaat. 
+
+
+2.14
+
+De figuur hieronder toont deze werkwijze schematisch met het product van elke
+hierboven beschreven stap zwart omkaderd:
+ 
+
+
+
+
+
+
+
+2.15
+
+Volgens par. [0005] van EP 924 voorziet de uitvinding volgens het octrooi in een verbetering van de werkwijze voor de productie van GA. In par. [0090] - [0099] van EP 924 in het onderdeel “discussion” worden verbeteringen ten opzichte van de productiewerkwijze volgens de stand van de techniek beschreven: 
+
+Free Bromine
+
+[0090] In the manufacturing process for mixtures of polypeptides such as GA 33% hydrobromic acid in acetic acid is used to deprotect protected GA. For example during the development of the production process for GA it was found that some of the tyrosine residues in trifluoroacetyl GA (TFA GA) and in GA were brominated. This impurity was isolated and identified using an analytical procedure that is described in detail in the examples. The tyrosine residue was found to react with bromine to form a  monobromotyrosine moiety comprising either 2-bromotyrosine or 3-bromotyrosine. 
+[0091] After much investigation the inventors discovered that the brominated tyrosine impurity was introduced into the GA through free bromine in HBr/acetic acid. The free bromine was present in 33% HBr/acetic acid bought from a supplier and used in the production process. 
+[0092] Measures were taken in order to decrease the level of free bromine in 33% HBr/acetic acid. For example pretreatment of HBr/acetic acid with a bromine scavenger was effective in removing some of the free bromine from the HBr/acetic acid solution.
+[0093] One of the bromine scavengers used in the HBr purification process was phenol. In addition to phenol other reducing agents such as sodium bisulfite may be used. Phenol was chosen as a bromine scavenger because it and its reaction product with bromine (bromophenols) are both non-reactive with protected polypeptides such as protected GA TFA polypeptides such as TFA GA and polypeptides such as GA and they are easy to remove from the solution of GA during the purification process. Similarly any bromine scavenging agent may be used provided that it and its reaction product with bromine are not reactive with protected polypeptides such as protected GA TFA polypeptides such as TFA GA and polypeptides such as GA and it is easily removable during the final purification process.
+
+Metal Impurities
+
+ 
+
+[0094] GA is marketed in two pharmaceutical do sage forms Iyophilized powder and pre-filled syringes. The syringes marketed under the trade name Copaxone® Injection generally contained clear solution. The storage instructions were to keep the syringes refrigerated. However red color in aqueous solutions of Copaxone® pre-filled solutions was detected. The source of the color in the solutions was unknown.
+ 
+
+[0095] The color appeared when the solutions were kept at room temperature for 12 to 24 hours.
+ 
+
+[0096] It was determined that production of HBr in metal apparatus led to trace metallic ion impurities in the HBr. When HBr was later mixed with protected GA the metallic ion impurities in the HBr were chelated by TFA GA and GA. These TFA GA and GA/metal complexes contributed to the coloration.
+ 
+
+[0097] As a result another measure taken to ensure purity e.g. in the GA product was the use of a non-metal reactor for the production of 33% HBr/acetic acid solution. The reactor used for the production of HBr/acetic acid solution was glass lined in order to prevent the formation of impurities which could later affect the purity of e.g. the GA. In order to prevent contact of HBr solution with metal parts of the piping used were Teflon-lined. Similarly other types of nonreactive acid resistant non-metal apparatus can be used to prevent the formation of trace metal ions in the HBr/acetic acid solution. The use of a non-metal apparatus for the production of H Br/acetic acid solution was successful in eliminating the red color from the GA. When the non-metal apparatus was used for the production of the HBr/acetic acid solution the result was that the solution was free of metal ions and the red GA was not formed. 
+ 
+
+[0098] In addition the color of every batch of HBr/acetic acid is measured to determine level of impurities before being used to deprotect protected GA. It was found that levels of metal ion impurity in HBr solution could be determined by visual analysis. HBr solution with a color below 2000 APHA was shown to produce glatiramer acetate without red color.
+ 
+
+[0099] The invention will be exemplified but not limited by the following examples.
+ 
+
+
+2.16
+Paragrafen [0100] - [0119] beschrijven experimentele details van de onder bescherming gestelde uitvinding door behandeling van verschillende voorbeelden.  
+
+
+
+
+3 Het geschil in eerste aanleg en in hoger beroep 
+
+3.1
+In eerste aanleg heeft Synthon – samengevat en voor zover thans nog van belang – gevorderd dat de rechtbank bij vonnis primair het Nederlandse deel van EP 924 vernietigt en subsidiair de conclusies 2 4 8 11-19 en 32 niet-inroepbaar verklaart met veroordeling van Teva in de kosten van de procedure te begroten op de voet van artikel 1019h Rv vermeerderd met de wettelijke rente en uitvoerbaar bij voorraad. Synthon had daarnaast ook de nietigverklaring van de (inmiddels herroepen) octrooien EP 703 en EP 528 gevorderd.  
+
+
+3.2
+Synthon heeft aan haar vorderingen ten grondslag gelegd dat (a) de geoctrooieerde uitvinding niet nieuw is omdat zij op de prioriteitsdatum reeds deel uitmaakte van de stand van de techniek (artikel 75 lid 1 sub a Rijksoctrooiwet 1995 (hierna ROW) jo. artikel 138 jo. 52 jo. artikel 54 Europees Octrooiverdrag (hierna EOV)) (b) de geoctrooieerde uitvinding niet op enige uitvinderswerkzaamheid berust (artikel 75 lid 1 sub a ROW jo. artikel 138 jo. artikel 52 jo. artikel 56 EOV) (c) het onderwerp van het octrooi niet wordt gedekt door de inhoud van de ingediende aanvraag (artikel 75 lid 1 sub c ROW jo. artikel 138 lid 1 sub c EOV) en (d) er ten aanzien van de conclusies 2 4 7 8 11-19 29 en 32 sprake is van dubbele octrooiering ten opzichte van EP 703 en EP 528. 
+
+
+3.3
+De rechtbank heeft het Nederlandse deel van EP 924 (en EP 528) vernietigd wegens gebrek aan inventiviteit. De rechtbank heeft Teva veroordeeld in de proceskosten van Synthon in alle procedures derhalve ook die ten aanzien van EP 703 welk octrooi reeds voorafgaand aan de pleidooien in eerste aanleg door Teva was ingetrokken.  
+
+
+3.4
+Met haar grieven komt Teva op tegen het oordeel van de rechtbank dat EP 924 niet inventief is. Teva verwijt de rechtbank onder meer dat zij de problem solution approach deels niet en deels verkeerd heeft toegepast en dat haar beoordeling getuigt van hindsight. Zij vordert dat de vorderingen van Synthon alsnog worden afgewezen.  
+
+
+3.5
+In haar MvG heeft Teva (in par. 5) onder meer gesteld: “In het onderhavige hoger beroep zal Teva derhalve primair beargumenteren dat EP '924 in stand moet worden gehouden zoals verleend. Subsidiair zal Teva betogen dat EP '924 in stand moet worden gehouden in de vorm zoals geaccepteerd door de Oppositiedivisie. Teva zal deze set conclusies als productie 15 overleggen.” Bij haar akte uitlating oppositiebeslissing d.d. 12 april 2016 tevens akte overlegging producties 19 t/m 24 tevens akte wijziging van eis heeft Teva (in par. 6) onder meer gesteld: “Zoals uiteengezet in par. 5 van Teva’s MvG van 23 februari 2016 is AR1f (in het geding gebracht met de MvG als productie 15) reeds het onderwerp van een fall-back positie in de onderhavige appelprocedure. Door haar eis te wijzigen wenst Teva nu ook de AR1e-conclusies onderwerp te maken van een tweede fall-back positie. In hoger beroep vordert Teva derhalve primair vernietiging van het vonnis in eerste aanleg en de instandhouding van de conclusies zoals verleend. Subsidiair vordert Teva vernietiging van het vonnis in eerste aanleg en de instandhouding van de AR1e-conclusies. Meer subsidiair vordert Teva vernietiging van het vonnis in eerste aanleg en de instandhouding van de AR1f-conclusies zoals in stand gehouden door de OD.” 
+
+
+3.6
+Bij haar akte houdende bezwaar tegen wijziging van eis en aanvullende producties tevens (voorwaardelijke) overlegging producties heeft Synthon zich op het standpunt gesteld dat Teva met haar wijziging van eis voor het eerst aanvoert dat en waarom EP 924 volgens een van de twee hulpverzoeken in stand moet worden gelaten en dat dit in strijd is met de twee-conclusie-regel van artikel 347 lid 1 Rv en met de goede procesorde. Synthon merkt op dat de MvG geen toelichting op hulpverzoek AR1f bevat dat het petitum geen vordering gericht op gedeeltelijke instandhouding van het octrooi bevat en dat er geen grief is gericht tegen het niet gedeeltelijk in stand houden van het octrooi. Dat alles geldt temeer voor hulpverzoek AR1e dat in de MvG niet is genoemd en evenmin overgelegd. Er zijn aanvullende nietigheidsargumenten in te brengen tegen de hulpverzoeken waarvoor Synthon geen gelegenheid meer heeft.  
+
+
+3.7
+Tevens maakt Synthon bezwaar tegen overlegging van producties 20-24 wegens strijd met de goede procesorde omdat deze eerder ingediend hadden kunnen worden. Producties 20-22 betreffen verklaringen van partijdeskundigen aan de zijde van Teva dr. Bille (d.d. 12 november 2015) prof. Davis (d.d. 30 september 2015) en prof. Spring (d.d. 2 oktober 2015) die wel in de oppositieprocedure bij het EOB maar niet in de onderhavige procedure waren overgelegd. Productie 23 betreft de ‘Draft Grounds of Appeal’ van Teva in de oppositieprocedure bij het EOB en productie 24 betreft een verklaring van dr. Bille d.d. 15 juni 2016 waarin hij reageert op een verklaring d.d. 14 september 2015 van prof. Jones partij-deskundige aan de zijde van Synthon. Voor het geval de producties wel worden toegelaten legt Synthon producties 53 en 54 over zijnde beknopte verklaringen van prof. Jones waarin hij reageert op het rapport van dr. Bille. 
+
+
+3.8
+Volgens Teva moet het voor Synthon duidelijk geweest zijn waartegen zij zich moest verweren zoals ook blijkt uit de MvA. Aan de ratio van het grievenstelsel en de twee-conclusieregel is volgens haar voldaan: hulpverzoek AR1f is in de MvG expliciet genoemd en overgelegd; hulpverzoek AR1e maakte materieel ook al deel uit van de grieven omdat de twee aanvullende conclusies ten opzichte van AR1f identiek zijn aan de oorspronkelijk verleende conclusies 30 en 31 die Teva blijkens de MvG primair heeft verdedigd. Ten aanzien van de producties 20-24 stelt Teva dat die allemaal een reactie vormen op de verklaring van prof. Jones die weliswaar is gedateerd op 14 september 2015 maar eerst bij MvA in deze procedure is overgelegd. Teva maakt geen bezwaar tegen de te late indiening van de producties 53 en 54 door Synthon.  
+
+
+3.9
+Het hof heeft ter zitting beslist dat het bezwaar tegen hulpverzoek AR1f wordt afgewezen omdat in de MvG voldoende kenbaar besloten lag dat Teva zich daarop subsidiair wenste te beroepen zodat dit hulpverzoek deel uitmaakt van de grieven. Ten aanzien van hulpverzoek AR1e heeft het hof beslist dat het bezwaar daartegen eveneens wordt afgewezen. Dat hulpverzoek voegt aan hulpverzoek AR1f alleen conclusies 20 en 21 toe die overeenkomen met de oorspronkelijk verleende conclusies 30 en 31. Deze conclusies zijn door Teva in de MvG primair verdedigd en maakten derhalve materieel reeds onderdeel uit van de MvG. Met hulpverzoek AR1e wordt derhalve niet een nieuw debat geïntroduceerd. Ten aanzien van de producties heeft het hof vastgesteld dat deze binnen de volgens het toepasselijke procesreglement daarvoor geldende termijn zijn ingediend. Producties 20-22 waren bij Synthon reeds bekend op grond van de oppositieprocedure bij het EOB waarbij zij partij was. Productie 23 is door Teva onderdeel gemaakt van de akte en betreft slechts een partijstandpunt ten aanzien van de beslissing van de Oppositiedivisie waarover beide partijen zich bij akte hebben mogen uitlaten. Productie 24 betreft een korte reactie van dr. Bille op een eerst bij MvA ingediende verklaring van prof. Jones. Tegen diens korte reacties daarop wordt door Teva geen bezwaar gemaakt. Om deze redenen acht het hof de producties 20-24 niet in strijd met de goede procesorde en zullen deze niet worden geweigerd.    
+
+
+3.10
+Teva heeft voorafgaand aan de pleidooien medegedeeld dat zij zich niet langer wenst te beroepen op de oorspronkelijke conclusies zoals verleend maar dat zij zich in deze procedure uitsluitend nog wenst te beroepen primair op hulpverzoek AR1e en subsidiair op hulpverzoek AR1f.  
+
+
+
+
+4 Beoordeling  
+
+4.1
+
+De grieven van Teva strekken ertoe dat het hof het geschil in volle omvang beoordeelt en lenen zich voor gezamenlijke behandeling. De hierna aangeduide conclusienummers zijn die van de hulpverzoeken AR1e en AR1f.
+Nieuwheid
+ 
+
+
+4.2
+Tegen conclusies 1 t/m 14 (werkwijzeconclusies) en conclusies 15-20 (die zien op het tussenproduct TFA) heeft Synthon – naar zij ter zitting desgevraagd heeft bevestigd – geen nieuwheidsbezwaren opgeworpen. Ten aanzien van conclusie 21 dat ziet op GA dat is geproduceerd volgens een van de werkwijzen van conclusies 3-14 heeft Synthon zich uitsluitend nog op het standpunt gesteld dat deze materie niet nieuw is omdat het onvermijdelijk is dat het GA dat reeds voor de prioriteitsdatum volgens de bekende stand van de techniek door Teva werd vervaardigd en is verkocht voldeed aan de kenmerken van conclusie 21 zodat sprake is van openbaar voorgebruik. Synthon beroept zich op de verklaring van Chemada die HBr/azijnzuur aan Teva heeft geleverd voor de productie van GA inhoudende: “because HBr in acetic acid is a strong and corrosive acid at Chemada this has always been made in glass-lined vessels and stored in plastic or plasticcoated containers” (prod. S35) en “at Chemada we also always made and make sure that the HBr in acetic acid does not come into contact with any metal items” (prod. S47).   
+
+
+4.3
+Het hof volgt Synthon daarin niet. De verklaringen van Chemada zien op de wijze waarop zij HBr/azijnzuur heeft vervaardigd en opgeslagen. Voor de beantwoording van de vraag of de voorafgaand aan de prioriteitsdatum door Teva vervaardigde GA noodzakelijkerwijs voldeed aan de kenmerken van conclusie 21 – derhalve of dit werd vervaardigd volgens een van de werkwijzen van conclusies 3-14 en dus of de daarbij gebruikte HBr/azijnzuur minder dan 100 ppm metaalion onzuiverheden bevatte – is niet alleen relevant of de door Teva gebruikte HBr/azijnzuur werd geproduceerd en opgeslagen zonder dat het in contact is gekomen met metaal. De Br/azijnzuur kon immers ook nadien vervuild raken met metaalionen tijdens het transport en de opslag ervan tot toevoeging ervan aan het reactievat voor de productie van GA. Uit de verklaringen van Chemada blijkt niet dat haar Br/azijnzuur ook is getransporteerd en opgeslagen zonder in contact te kunnen komen met metaal. Synthon heeft verder ook in het licht van de gemotiveerde betwisting door Teva onder meer met verwijzing naar verklaringen van dr. Bille inhoudende dat bij de vervaardiging van geneesmiddelen niet steeds gebruik wordt gemaakt van volledig zuivere materialen niet voldoende onderbouwd gesteld dat Teva gebruik heeft gemaakt van HBr/azijnzuur dat geen vrij broom bevatte. Synthon heeft derhalve onvoldoende gesteld en gelet op de betwisting door Teva evenmin voldoende bewijs aangedragen op grond waarvan kan worden aangenomen dat het door Teva geproduceerde GA voldeed aan de kenmerken van conclusie 21. De nieuwheidsaanval van Synthon faalt. 
+
+Inventiviteit 
+ 
+
+
+4.4
+Tussen partijen is niet in geschil dat de beide in EP 924 beschreven verbeteringen ten opzichte van de productiewerkwijze volgens de stand van de techniek geen synergetisch effect hebben of anderszins technisch met elkaar zijn verbonden. Dat brengt met zich dat iedere verbetering zelfstandig op inventiviteit beoordeeld dient te worden. EP 924 ontbeert inventiviteit indien elk van de door EP 924 onder bescherming gestelde verbeteringen voor de gemiddelde vakman op de prioriteitsdatum voor de hand liggend was.   
+
+Inventiviteit metaalionverontreiniging
+ 
+
+
+4.5
+Volgens vaste jurisprudentie van de oppositieafdeling en kamers van beroep van het EOB en ook van de rechtbank Den Haag en dit hof dient een uitvinding teneinde te kunnen worden aangemerkt als inventief in de beschrijving zodanig te worden geopenbaard dat voldoende aannemelijk is dat het geclaimde effect van de uitvinding daadwerkelijk wordt behaald. Deze – lage – drempeltoets wordt wel aangeduid als het ‘plausibiliteitsvereiste’.  
+
+
+4.6
+Synthon heeft aangevoerd dat in de beschrijving niet voldoende aannemelijk wordt geopenbaard dat het daarin gestelde probleem van de verkleuring van GA wordt opgelost door de onder bescherming gestelde uitvinding. Dat standpunt wordt verworpen.  
+
+
+4.7
+Het octrooi verschaft blijkens paragrafen 94 – 99 van de beschrijving aan de gemiddelde vakman het inzicht dat de aanwezigheid van metaalion-onzuiverheden in de HBr/azijnzuur die wordt gebruikt bij de productie van GA bijdraagt aan het kunnen optreden van verkleuring ervan. Dat er ook andere omstandigheden nodig zijn om die verkleuring te laten optreden en dat het onduidelijk is gebleven welke die omstandigheden zijn waarop Synthon onbestreden heeft gewezen doet daar niet aan af. In de beschrijving wordt aan de gemiddelde vakman op de prioriteitsdatum voldoende duidelijk geopenbaard dat de aanwezigheid van metaalionen in de gebruikte HBr/azijnzuur een noodzakelijke voorwaarde is voor het optreden van de verkleuring zodat reeds met de afwezigheid daarvan verkleuring kan worden voorkomen.  
+
+
+4.8
+Door Synthon is niet weersproken dat als er geen metaalionen in de bij de productie van GA gebruikte HBr/azijnzuur aanwezig zijn er geen verkleuring zal optreden. Evenmin heeft zij de stelling betrokken dat als er geen metaalionen in de gebruikte HBr/azijnzuur aanwezig zijn er niettemin verkleuring van de daarmee geproduceerde GA kan optreden. Aldus is niet voldoende gemotiveerd weersproken dat het effect van de uitvinding in de beschrijving van EP 924 voldoende aannemelijk wordt gemaakt.   
+
+
+4.9
+Synthon heeft verder aangevoerd dat EP 924 niet inventief is omdat de in EP 924 onder bescherming gestelde verbeterde werkwijzen reeds routinematig en onvermijdelijk werden toegepast. Anders dan de rechtbank volgt het hof Synthon daarin niet. Daargelaten of dit een relevante toets is in het kader van de beoordeling van de inventiviteit – hetgeen door Teva is bestreden – kan niet worden aangenomen dat de reeds tot de stand van de techniek behorende productiemethode van GA onvermijdelijk ertoe leidde dat er geen verkleuringsprobleem optrad. Uit de door Teva overgelegde stukken (prod. TP 4 en TP 5) waarvan de waarheidsgetrouwheid door Synthon niet gemotiveerd is bestreden volgt dat zich in het verleden problemen hebben voorgedaan met door Teva volgens de tot de stand van de techniek behorende productiemethode geproduceerd GA omdat dit verkleurde. Ook volgt uit het door Teva overgelegde onderzoeksrapport van haar partijdeskundige professor David Spring (prod. TP 22 hierna: het Springrapport) dat niet alle op de markt verkrijgbare HBr/azijnzuur een zodanig laag niveau aan metaalionen bevatte te weten minder dan 100 ppm dat daarmee GA volgens conclusie 21 zou worden verkregen. Synthon heeft weliswaar ter discussie gesteld of de in dat Springrapport genoemde waarden juist zijn maar nu zij daar geen eigen rapport tegenover heeft gesteld dient van de juistheid van de in het Springrapport genoemde waarden te worden uitgegaan. De omstandigheid dat op de prioriteitsdatum reeds veel van de op de markt verkrijgbare Br/azijnzuur geen tot zeer weinig metaalionen bevatte doet er derhalve niet aan af dat dit niet gold voor alle HBr/azijnzuur en dat bij de productie van GA volgens de stand van de techniek (incidenteel) verkleuring van GA optrad. 
+
+
+4.10
+Het octrooi verschaft het niet eerder bestaande inzicht dat aan de verkleuring van GA wordt bijgedragen door metaalionen (als noodzakelijke voorwaarde) die aanwezig kunnen zijn in de bij de productie van GA gebruikte HBr/azijnzuur en dat dit risico op verkleuring kan worden vermeden door HBr/azijnzuur te gebruiken dat is geproduceerd (waaronder naar de gemiddelde vakman op de prioriteitsdatum zal begrijpen tevens is te verstaan: getransporteerd en opgeslagen) op zodanige wijze dat die HBr/azijnzuur niet in contact komt met metaal en de metaalionverontreiniging onder de 100 ppm blijft.  
+
+
+4.11
+Het objectieve probleem dat door de uitvinding volgens EP 924 derhalve wordt opgelost is dat het risico bestond en zich ook (incidenteel) materialiseerde dat verkleuring optrad bij GA dat werd geproduceerd volgens de stand van de techniek. De gemiddelde vakman zag zich op de prioriteitsdatum dus gesteld voor de vraag hoe hij dit risico op verkleuring van GA kon vermijden.  
+
+
+4.12
+Teneinde dit probleem op te lossen diende de vakman eerst te achterhalen waardoor de verkleuring werd veroorzaakt. Teva heeft – met stukken onderbouwd – gesteld dat er uiteenlopende oorzaken zijn aan te wijzen voor het optreden van verkleuring van GA en dat het onderzoek naar de werkelijke oorzaak van verkleuring niet eenvoudig is. Synthon heeft dat niet gemotiveerd bestreden. Derhalve kan niet worden aangenomen dat het inzicht dat de aanwezigheid van een bepaalde hoeveelheid metaalionen in de bij de productie van GA gebruikte HBr/azijnzuur (niet een voldoende maar wel) een noodzakelijke voorwaarde was voor de verkleuring van GA voor de gemiddelde vakman op de prioriteitsdatum voor de hand lag. Dit inzicht is derhalve als inventief aan te merken.  
+
+
+4.13
+Het door EP 924 verschafte inventieve inzicht maakt het mogelijk het risico op de verkleuring van volgens de stand van de techniek geproduceerd GA te vermijden door zeker te stellen dat HBr/azijnzuur wordt gebruikt waarin het metaalionengehalte beneden de grens van 100 ppm (of nog lager) blijft. De conclusies van EP 924 zijn daar echter niet toe beperkt hetgeen wel het geval was geweest wanneer zou zijn geclaimd dat controlemaatregelen (in welke vorm dan ook) worden uitgevoerd om zeker te stellen dat de bij de productie van GA gebruikte HBr/azijnzuur minder dan 100 ppm metaalion-onzuiverheden bevat of indien deze zouden zijn geformuleerd als doelbeperkte conclusies (‘purpose limited claims’) in de vorm van ‘gebruik van HBr/azijnzuur die minder dan 100 ppm metaalion-onzuiverheden bevat ter voorkoming van verkleuring van daarmee geproduceerd GA’. De conclusies van EP 924 stellen daarentegen het enkele gebruik van HBr/azijnzuur met een metaaliongehalte onder de 100 ppm (of nog minder) voor de productie van GA onder bescherming.  
+
+
+4.14
+Naar Synthon terecht heeft aangevoerd was het op de prioriteitsdatum gangbare praktijk dat HBr/azijnzuur werd geproduceerd (en getransporteerd) op zodanige wijze dat dit niet in aanraking kwam met metaal althans bevatte de (meeste van de) op de markt verkrijgbare HBr/azijnzuur (veel) minder dan 100 ppm metaalionen. In de meeste gevallen deed het hiervoor genoemde probleem van risico op verkleuring van GA zich daarom niet voor. In die (meeste) gevallen verschaft EP 924 derhalve geen oplossing voor een probleem of – anders gezegd – wordt met het door EP 924 verschafte inzicht geen technisch effect bereikt. De consequentie daarvan is dat de conclusies van EP 924 niet zoals vereist over de volle breedte ervan inventief kunnen worden geacht (zie in die zin onder meer TKB 12 september 1995 T 939/92 ‘AgrEvo’).  
+
+
+4.15
+Het standpunt van Teva dat de conclusies zoals thans (in de hulpverzoeken) geformuleerd worden gerechtvaardigd door het in EP 924 verschafte inzicht omdat zij gerechtigd is ‘zo abstract mogelijk’ te claimen en geen ‘onnodige’ beperkingen hoeft op te nemen kan niet als juist worden aanvaard. De huidige formulering van de conclusies zou immers als ongerijmde en niet aanvaardbare consequentie hebben dat een derde die volgens de stand van de techniek GA wil produceren met de meeste op de markt verkrijgbare HBr/azijnzuur inbreuk zou maken op EP 924 zelfs indien hij geen gebruik zou (willen) maken van het door EP 924 verschafte inzicht. Dat een – tot het door EP 924 verschafte inventieve inzicht – beperkte conclusie zou leiden tot problemen met de handhaving ervan waar Teva op heeft gewezen is inherent aan de beperkte bijdrage van EP 924 aan de stand van de techniek en kan niet leiden tot een ander oordeel. 
+
+
+4.16
+Het voorgaande betekent dat naar het oordeel van het Hof het door EP 924 verschafte inventieve inzicht zoals in 4.12 hiervoor bedoeld aan de conclusies van EP 924 volgens hulpverzoeken AR-1e en AR-1f geen inventiviteit kan verlenen.  
+
+Inventiviteit - Broomverontreiniging
+ 
+
+
+4.17
+De grieven van Teva tegen het oordeel van de rechtbank dat geen inventiviteit is gelegen in het inzicht dat de hoeveelheid vrij broom in HBr/azijnzuur zo laag mogelijk dient te worden gehouden om het bromeren van tyrosine te voorkomen richten zich primair tegen de formulering van het objectieve probleem als ‘het voorkomen van de gebromeerde verontreiniging in het peptide-mengsel’. Volgens Teva is er sprake van een zogenaamde ‘probleemuitvinding’ omdat de gemiddelde vakman het door EP 924 opgeloste probleem niet zou hebben onderkend. Daarom zou verwijzing naar het technisch effect van de verschilmaatregel ten opzichte van de meest nabije stand van de techniek (WO 990) achterwege gelaten moeten worden bij de formulering van het objectieve probleem. Dat zou daarom geformuleerd moeten worden als ‘het verbeteren van de in WO 990 geopenbaarde werkwijze voor het vervaardigen van TFA GA’ of (subsidiair) als ‘het voorkomen van verontreinigingen / onzuiverheden bij de toepassing van de in WO 990 geopenbaarde werkwijze voor het vervaardigen van TFA GA’. 
+
+
+4.18
+Naar het oordeel van het hof zou de gemiddelde vakman die op de prioriteitsdatum op zoek zou zijn naar een verbeterde werkwijze voor de vervaardiging van GA kennis nemen van het FDA rapport ‘Review and evaluation of pharmacology toxicology data’ dat specifiek betrekking heeft op het geneesmiddel ‘Copolymer-1 for treatment of relapsing-remitting multiple sclerosis’ (hierna: FDA rapport). Anders dan door Teva gesteld ligt deze publicatie wel degelijk binnen het vakgebied van de te dezen relevante gemiddelde vakman. Dat is immers niet een peptidechemicus die uitsluitend geïnteresseerd is in en kennis en ervaring heeft op het gebied van de synthese van GA waar Teva en haar partijdeskundige prof. Davis kennelijk van uitgaan. Aangezien de beoogde toepassing van GA een geneesmiddel is zal de gemiddelde vakman zeker ook geïnteresseerd (moeten) zijn in de farmacologische effecten van de synthese en dus de effecten van mogelijke verontreinigingen die tijdens de synthese kunnen optreden. De hier relevante gemiddelde vakman heeft dus evenzeer kennis en ervaring met het maken van een geneesmiddel en is dus een farmaceutische peptide-chemicus (zoals door Synthon voorgesteld punt 29 MvA) of een team bestaande uit een peptide-chemicus en een farmacoloog. 
+
+
+4.19
+In het FDA rapport is onder het hoofdstuk ‘Possible Contaminants and Impurities’ vermeld dat onderzoek is gedaan naar ‘the toxic potential of possible contaminants of Copolymer-1’. Op pagina’s 93 en 94 is het bij ratten uitgevoerde onderzoek naar ‘the acute intravenous toxicity of COP-1 and its impurity (Bromo-COP-1)’ beschreven. Onder Reviewer’s comments is vermeld: ‘It would appear that Bromo-Copolymer-1 is more toxic than Copolymer-1. Therefore the specifications for bromo-contamination of the drug preparation should be as low as possible.’ In het hoofdstuk Toxicology is op p. 122 onder het kopje Bromide contaminant vermeld dat ‘Excessive oral intake of bromide is known to cause some neurological symptoms in humans’ en dat ‘the limit should be set as low as physically possible with respect to removal of the contaminant’. De gemiddelde vakman die kennis neemt van het FDA rapport zou gelet op die passages hebben onderkend dat er een (mogelijk) probleem is met betrekking tot het ontstaan van gebromeerde verontreiniging bij de synthese van GA volgens de stand van de techniek. Van een ‘probleemuitvinding’ zoals door Teva gesteld is daarom geen sprake. De rechtbank heeft het objectieve probleem daarom met juistheid vastgesteld aan de hand van de verschilmaatregel met de meest nabije stand van de techniek en geformuleerd zoals hiervoor in r.o. 4.17 weergegeven.  
+
+
+4.20
+Het verweer van Teva dat het FDA rapport niet tot de stand van de techniek zou behoren wordt verworpen. Teva heeft de mogelijkheid gekregen de destijds door Synthon van de FDA ontvangen microfiches te inspecteren en zij heeft geconstateerd dat de pagina’s met de hiervoor bedoelde passages van het FDA rapport daarop aanwezig zijn. Na betwisting dat Synthon de microfiches voor de prioriteitsdatum zou hebben ontvangen heeft Synthon een schriftelijke verklaring overgelegd van een werknemer inhoudende dat hij de desbetreffende microfiches bij brief van 28 april 1997 door de FDA toegestuurd heeft gekregen. Daarop heeft Teva geen verder verweer gevoerd. Mede gezien ook de verklaring van mevrouw Bobka (prod. S33) dat dit rapport in elk geval op 30 oktober 2000 toegankelijk was voor het publiek en door de onderneming waarvan zij directeur is (FOI Services) is toegezonden aan een derde moet aangenomen worden dat het FDA rapport op de prioriteitsdatum tot de stand van de techniek behoorde.  
+
+
+4.21
+Het standpunt van Teva (onder verwijzing naar de verklaring van prof. Davis par.50 -66) dat de gemiddelde vakman het FDA rapport niet relevant zou achten omdat het weinig details noemt over de synthese van GA en geen ‘methods’ of ‘experimental’ sectie bevat waardoor de vakman niet in staat zou zijn inconsistenties en onduidelijkheden in het rapport te verifiëren met betrekking tot verwarrend taalgebruik als ‘BROMO-COP-1’ ‘bromide contaminant’ ‘bromotyrosine-contaminated…copolymer 1’ wordt verworpen. Zoals onderbouwd en overtuigend verklaard door prof. Jones (prod. S45 p. 14-16) zullen de hiervoor genoemde passages uit het FDA rapport ondanks het onzorgvuldige taalgebruik door de gemiddelde vakman niet anders kunnen worden opgevat dan dat er een risico bestaat dat bij de synthese van GA broomtyrosine-verontreinigen optreden en dat dit vanwege de mogelijke gezondheidsrisico’s dient te worden vermeden. De gemiddelde vakman die een verbeterde werkwijze voor de vervaardiging van een geneesmiddel zoekt zal dat zeker in beschouwing nemen. Als hij toch nog enige twijfels zou hebben dan zou hij het rapport niet terzijde schuiven maar zou het hem ertoe aanzetten de aard en oorzaak van de genoemde verontreiniging verder te onderzoeken omdat in elk geval duidelijk is dat de broomverontreiniging ongewenste toxiciteit oplevert zoals niet verder bestreden verklaard door prof. Jones (S53 par. 6).  
+
+
+4.22
+Voor zover de gemiddelde vakman al niet op basis van zijn algemene vakkennis wist dat de oorzaak van de in het FDA rapport genoemde mogelijke broomverontreiniging bij de vervaardiging van GA gezocht moest worden in de eventuele aanwezigheid van vrij broom in het gebruikte HBr/azijnzuur en voor zover de gemiddelde vakman al niet op basis van zijn algemene vakkennis wist wat hem te doen stond om de hoeveelheid broomtyrosine-verontreiniging tot een minimum te beperken dan zou hij bij zijn zoektocht naar een oplossing voor dat (mogelijke) probleem stuiten op de handboeken en publicaties op het gebied van peptide-synthese die in het bestreden vonnis (r.o. 5.3.15 en 5.3.16) zijn genoemd en voorts ook de publicaties gevoegd bij de in hoger beroep overgelegde verklaring van prof. Jones (prod. S45 p. 10-11 bijlagen JJ 4-6) en het in hoger beroep door Synthon genoemde handboek uit 1983 The Peptides Analysis Synthesis Biology Volume 5 hoofdstuk III Side reactions in the introduction and removal of protecting groups’ van de auteurs M. Bodanszky en J. Martinez. Op p. 162 daarvan is te lezen: ‘The most frequently used reagent HBr in acetic acid (…) should be free of bromine otherwise substitutions can take place and brominated products can be obtained (…). Additives such a phenol (…)  can of course trap the free bromine’.  Deze handboeken en publicaties leren de gemiddelde vakman dat tyrosine makkelijk en snel reageert met vrij broom dat in het gebruikte HBr/azijnzuur reagens aanwezig kan zijn en dat verontreiniging in de vorm van gebromeerde tyrosine kan worden voorkomen door een zo zuiver mogelijk reagens te gebruiken en zo nodig de aanwezigheid van vrij broom in het gebruikte reagens zo veel mogelijk te beperken door een broomvanger zoals fenol te gebruiken.  
+
+
+4.23
+Teva heeft zich op het standpunt gesteld dat de gemiddelde vakman voornoemde handboeken en publicaties niet zou kennen en evenmin zou raadplegen omdat die alleen betrekking zouden hebben op ‘solid phase peptide synthesis’ (SPPS) met HBr gas terwijl bij de werkwijze volgens WO 990 voor het ontschermen en knippen van de peptiden gebruik wordt gemaakt van de klassieke ‘solution peptide synthesis’ (SPS) met HBr oplossing in azijnzuur. Dat bezwaar gaat in elk geval niet op voor het laatstgenoemde handboek en de bij de  verklaring van prof. Jones gevoegde publicaties (prod. S45 p. 10-11 bijlagen JJ 4-6) naar Synthon onweersproken heeft gesteld. Ook overigens moet het standpunt van Teva worden verworpen. Naar Synthon gemotiveerd en ondersteund door de verklaring van prof. Jones (prod. S45 p. 2-7 S.53 par. 7-9) – en door Teva verder niet meer gemotiveerd bestreden – heeft uiteengezet zijn beide technieken gebaseerd op dezelfde onderliggende chemie en verschillen deze technieken niet fundamenteel van elkaar voor wat betreft het risico van tyrosine-broomverontreiniging. Voor zover de leer uit voornoemde handboeken en publicaties al niet tot de algemene vakkennis van de gemiddelde vakman zou behoren (zoals door prof. Liskamp en prof. Jones verklaard) dan zou hij die handboeken en publicaties – op zoek naar een verbeterde werkwijze voor de synthese van GA voor de vervaardiging van een geneesmiddel en bekend met de mogelijkheid van ongewenste broomtyrosine-verontreiniging – daarom zeker raadplegen en aldus zonder inventieve denkarbeid tot de in EP 924 beschreven oplossing komen voor het (mogelijke) probleem van het bromeren van tyrosine. Daaruit volgt dat het inzicht dat de hoeveelheid vrij broom in HBr/azijnzuur zo laag mogelijk dient te worden gehouden om het bromeren van tyrosine te voorkomen evenmin inventiviteit aan het octrooi kan verlenen. EP 924 voor zover in Nederland van kracht kan daarom niet in stand blijven wegens gebrek aan inventiviteit.   
+
+Slotsom en proceskosten
+ 
+
+
+4.24
+Geen van de door Teva opgeworpen grieven leidt tot aantasting van het vonnis in de zaak met rolnummer C/09/468861 / HA ZA 14-760 zodat dit zal worden bekrachtigd. Teva dient als de in het ongelijk gestelde partij te worden veroordeeld in de proceskosten die volgens de tussen partijen bereikte overeenstemming zullen worden begroot op EUR 190.000-.  
+
+
+4.25
+Tegen het vonnis in de zaken met rolnummers C/09/468857 / KG ZA 14-759 en C/09/468867 / HA ZA 14-761 heeft Teva geen grieven gericht ook niet tegen de proceskostenveroordelingen terwijl zij evenmin anderszins heeft uiteengezet welke bezwaren zij heeft tegen de door de rechtbank uitgesproken proceskostenveroordelingen zodat zij in het hoger beroep in die zaken niet-ontvankelijk dient te worden verklaard. De proceskosten in hoger beroep ter zake worden begroot op nihil. 
+
+
+4.26
+Het hof is zich ervan bewust dat de Engelse rechter in eerste aanleg anders heeft beslist dan de rechtbank en dit hof doch die verschillende uitkomst kan mogelijk daardoor worden verklaard dat in die procedure andere bewijsmiddelen (in het bijzonder niet het FDA rapport en de in r.o. 4.23 genoemde publicaties en verklaringen) voorlagen en deels ook andere argumenten zijn aangevoerd. In het in Engeland aanhangige hoger beroep is nog geen uitspraak gedaan.  
+
+
+Beslissing
+
+ 
+
+Het hof:
+ 
+- bekrachtigt het vonnis van de rechtbank Den Haag van 22 april 2015 in de zaak met rolnummer  C/09/468861 / HA ZA 14-760; 
+- verklaart Teva niet-ontvankelijk in het hoger beroep tegen het vonnis van de rechtbank Den Haag van 22 april 2015 in de zaken met rolnummers C/09/468857 / KG ZA 14-759 en C/09/468867 / HA ZA 14-761; 
+- veroordeelt Teva in de proceskosten aan de zijde van Synthon begroot op EUR 190.000-; 
+- verklaart de proceskostenveroordeling uitvoerbaar bij voorraad. 
+
+Dit arrest is gewezen door mrs. R. Kalden M.Y. Bonneur en C.J.J.C. van Nispen en is uitgesproken ter openbare terechtzitting van 25 oktober 2016 in aanwezigheid van de griffier.
+
+
+

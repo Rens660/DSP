@@ -1,0 +1,763 @@
+
+
+PROCUREUR-GENERAAL
+
+
+BIJ DE
+
+
+HOGE RAAD DER NEDERLANDEN
+
+
+
+Nummer	19/00316
+
+Zitting 3 april 2020
+
+
+CONCLUSIE 
+
+
+G.R.B. van Peursem
+
+
+In de zaak
+
+Sandoz B.V.
+
+(hierna: Sandoz)
+eiseres tot cassatie verweerster in het incidenteel cassatieberoep 
+adv. mr. T. Cohen Jehoram 
+
+tegen 
+
+AstraZeneca AB
+(hierna: AstraZeneca of AZ) 
+verweerster in cassatie eiseres in het incidenteel cassatieberoep 
+adv. mrs. W.A. Hoyng en F.W.E. Eijsvogels
+
+
+Dit is de Nederlandse fulvestrant bodemzaak. De pendant in kort geding was voorwerp van HR 19 juli 2019 ECLI:NL:HR:2019:1261 afgedaan met toepassing van art. 81 RO. In eerste aanleg en in appel hield het centraal staande octrooi in die zaak naar voorlopig oordeel stand. Hetzelfde Europese octrooi EP 1 250 138 B2 (“EP 138”) van AstraZeneca staat ook in deze bodemzaak centraal net als EP 2 266 573 (“EP 573”) een (klein)dochter van EP 138. EP 138 ziet op een fulvestrant-formulering in de vorm van tweede medische indicatie Swiss-type claims voor de behandeling van borstkanker. EP 573 openbaart de specifieke formulering van conclusie 30 van EP 138. In de kern gaat het er net als in kort geding ook in deze bodemzaak om of sprake is van inventiviteit in het licht van de publicaties van Howell (de closest prior art) en McLeskey (waarin een fulvestrant-formulering is beschreven). De inventiviteit is in navolging van partijen beoordeeld met behulp van de problem solution approach. 
+De rechtbank heeft overwogen dat het objectieve technische probleem bestaat uit het verschaffen van een fulvestrant-formulering die geschikt is voor de behandeling van borstkanker niet precipiteert en waarbij sprake is van vertraagde afgifte. De rechtbank heeft EP 138 (en daarmee ook EP 573) niet inventief geacht in het licht van McLeskey. Het hof is uitgegaan van dezelfde probleemstelling maar achtte EP 138 wel inventief omdat McLeskey geen incentive maar juist een contra-indicatie vormt voor de gekozen oplossing van het objectieve technische probleem. Het hof heeft de nietigverklaring van EP 138 en EP 573 daarom afgewezen. 
+In haar principaal cassatieberoep komt Sandoz op tegen de vaststelling van het objectieve technische probleem met onder meer de stellingname dat de positieve effecten “werking tegen borstkanker” “niet-precipitatie” en “vertraagde afgifte” niet uit de verschilmaatregelen volgen en daarom geen onderdeel kunnen zijn van de probleemstelling. Deze kwestie kwam ook aan de orde in de cassatiezaak in kort geding. Verder acht Sandoz onbegrijpelijk waarom “geen precipitatie” tot het objectieve technische probleem behoort. 
+Het incidenteel cassatieberoep is gericht tegen het oordeel dat de generieke fulvestrant-variant van Sandoz niet in Nederland op de markt is geweest zodat de vorderingen met betrekking tot de opgave van afnemers en genoten winst de recall en de schadevergoeding niet toewijsbaar zijn. Volgens mij zijn al deze klachten tevergeefs voorgesteld.  
+
+
+1.	Feiten en procesverloop
+1
+
+
+Feiten
+
+
+1.1	Het hormoon oestrogeen versterkt de groei van bepaalde vormen van borstkanker de oestrogeen-afhankelijke vormen daarvan. 
+
+
+1.2	Fulvestrant (ook aangeduid als ICI 182780) was beschermd door een stofoctrooi van AstraZeneca dat is verlopen in 2004. Fulvestrant is een (steroïde) anti-oestrogeen/ oestrogeen antagonist die zich hecht aan de oestrogeenreceptoren van de tumorcel waardoor oestrogenen zich daaraan niet meer kunnen binden. Hierdoor wordt de groei van tumorcellen geremd. Door onder meer de extreem lage oplosbaarheid in zowel water als olie is het moeilijk om een formulering van fulvestrant te maken. 
+
+
+1.3	Het is niet gelukt om een orale formulering (een pil) van fulvestrant te ontwikkelen. Het eerste generatie anti-oestrogeen genaamd tamoxifen is wel als pil beschikbaar. 
+
+
+1.4	AstraZeneca is houdster van Europees octrooi EP 1 250 138 B2 (“EP 138” of “het Octrooi”) betreffende een “Fulvestrant formulation” dat is gebaseerd op een aanvrage van 8 januari 2001 onder inroeping van prioriteit van 10 januari 2000 althans 12 april 2000. De oorspronkelijke conclusie 1 van EP 138 was een productconclusie die een specifieke formulering van fulvestrant onder bescherming stelde terwijl de oorspronkelijke conclusie 22 gericht was op gebruik van die formulering voor de behandeling van borstkanker. Na een oppositie waarin het hierna in 1.10 te bespreken McLeskey-document aan de orde is gekomen zijn de conclusies gewijzigd in tweede medicatie Swiss-type claims2. De in deze zaak relevante gewijzigde conclusies van EP 138 luiden als volgt (in de onbestreden Nederlandse vertaling):  
+
+
+“1. Toepassing van fulvestrant bij de bereiding van een farmaceutische formulering voor de behandeling van een benigne of maligne ziekte van de borst of voortplantingstractus door intramusculaire toediening waarbij de formulering fulvestrant in een ricinoleaatmedium een farmaceutisch aanvaardbaar niet-waterig esteroplosmiddel en een farmaceutisch aanvaardbaar alcohol omvat waarbij de formulering aangepast is voor het verkrijgen van een therapeutisch significante bloedplasmaconcentratie aan fulvestrant gedurende ten minste 2 weken. 
+
+
+28. Toepassing volgens een van de conclusies 1 tot en met 27 waarbij de totale hoeveelheid aan fulvestrant in de formulering 250 mg of meer is en het totale volume van de formulering 6 ml of minder is. 
+
+
+29. Toepassing volgens conclusie 28 waarbij de totale hoeveelheid aan fulvestrant in de formulering 250 mg of meer is en het totale volume van de formulering 5 tot 525 ml is. 
+
+
+30. Toepassing volgens een van de conclusies 1-29 waarbij de farmaceutisch aanvaardbare alcohol een mengsel is van 10 gew.% ethanol per volume formulering 10 gew.% benzylalcohol per volume formulering en de formulering 15 gew.% benzylbenzoaat per volume formulering bevat en het ricinoleaatmedium ricinusolie is.” (in de Engelse tekst staat voor “ricinusolie”: “castor oil” hierna zal worden gesproken over “castorolie”)
+
+
+1.5	Conclusie 30 met daarin geïncorporeerd de conclusies 1 en 29 kan worden onderverdeeld in de volgende deelkenmerken: 
+
+
+(i)	toepassing van fulvestrant bij de bereiding van een farmaceutische formulering voor de behandeling van een benigne of maligne ziekte van de borst of voortplantingstractus door intramusculaire toediening waarbij
+(ii)	het totale volume van de formulering 5 tot 525 ml is;
+(iii)	de totale hoeveelheid fulvestrant in de formulering 250 mg of meer is;
+(iv)	de farmaceutisch aanvaardbare alcohol die de formulering omvat een mengsel is van 10 gew.% ethanol (EtOH) per volume formulering 10 gew.% benzylalcohol (BzOH) per volume formulering en;
+(v)	de formulering 15 gew.% benzylbenzoaat (BzBz) – een ester – per volume formulering bevat; 
+(vi)	het ricinoleaatmedium waarin de formulering zich bevindt castorolie is;
+(vii)	waarbij de formulering is aangepast voor het verkrijgen van een therapeutisch significante bloedplasmaconcentratie aan fulvestrant gedurende ten minste 2 weken. 
+
+
+1.6	In de beschrijving van EP 138 is onder meer het volgende vermeld: 
+
+
+“[0017] However even when using the best oil based solvent castor oil we have found that it is not possible to dissolve fulvestrant in an oil based solvent alone so as to achieve a high enough concentration to dose a patient in a low volume injection and achieve a therapeutically significant release rate. (…).
+(…) 
+[0019] (…) We have surprisingly found that the introduction of a non-aqueous ester solvent which is miscible in the castor oil and an alcohol surprisingly eases the solubilisation of fulvestrant into a concentration of at least 50 mgml-1 – see Tabel 3 below. The finding is surprising since the solubility of fulvestrant in non-aqueous ester solvents (…) is significantly lower than the solubility of fulvestrant in an alcohol. 
+(…)
+[0048] Figure 1 shows the release profile in vivo of the four formulations from the second part of Table 4 and shows the effect of the fixed oil component on fulvestrant plasma profile over five days following intramuscular administration in rabbits (…). As can be seen the castor oil formulation showed a particular even release profile with no evidence of precipitation of fulvestrant at the injection site.” 
+
+
+1.7	AstraZeneca is tevens houdster van het op 17 juni 2015 verleende Europese octrooi EP 2 266 573 (“EP 573”) dat een (klein)dochter is van EP 138 en dat op dezelfde aanvrage als EP 138 is gebaseerd. Conclusie 3 van EP 573 openbaart de specifieke formulering van (conclusie 30 van ) EP 138. In het onderstaande worden EP 138 en EP 573 gezamenlijk ook wel aangeduid als “de Octrooien”. 
+
+
+1.8	Verder is AstraZeneca houdster van het Nederlandse octrooi NL 1 011 075 C2 (“NL 075”) voor een “preparaat”. NL 075 is op 11 juli 2001 ingeschreven in het octrooiregister met inroeping van dezelfde prioriteiten als die van EP 138. De conclusies van NL 075 zijn (nagenoeg) identiek aan die van EP 138 zoals oorspronkelijk verleend (zie hiervoor 1.4). 
+
+
+1.9	De onder 1.4 1.7 en 1.8 genoemde octrooien (EP 138 EP 573 en NL 075) hebben dezelfde prioriteitsdata en dus ook dezelfde oudste prioriteitsdatum. Daarom zal kortweg worden gesproken over “de prioriteitsdatum”. Op de prioriteitsdatum waren de onder 1.1 en 1.2 genoemde feiten openbaar bekend. 
+
+
+1.10	Van vóór de prioriteitsdatum stammen de volgende documenten die dus tot de stand van de techniek (“prior art”) van de octrooien EP 138 EP 573 en NL 075 behoren: 
+
+
+- het in augustus 1964 in het tijdschrift Journal of Pharmaceutical Sciences gepubliceerde artikel “Castor oil as a vehicle for parenteral administration of steroid hormones” van Riffkin et al. (hierna: “Riffkin”).
+In dit document is geopenbaard dat castorolie een geschikte drager is voor – parenteraal (dat wil zeggen: anders dan via het maag-darm kanaal dus bijvoorbeeld via intramusculaire injectie) toe te dienen – vertraagde afgifteformuleringen met steroïden en dat “co-solvents” (aanvullende oplosmiddelen) nodig zijn om de therapeutisch vereiste hoge concentraties steroïden in castorolie op te lossen. Als voorbeelden van co-solvents worden genoemd benzylbenzoaat en benzylalcohol. 
+
+
+- de Europese octrooiaanvrage EP 0 346 014 A1 (“EP-A 014”) van 2 juni 1989. 
+Deze aanvrage heeft betrekking op onder meer een anti-oestrogeen voor gebruik in “selective therapy of perimenopausal or postmenopausal conditions”. In voorbeeld 3 wordt als anti-oestrogeen de stof fulvestrant genoemd. In dat voorbeeld wordt een formulering voor intramusculaire toediening in ratten beschreven die bestaat uit 50 mg van de “test compound” (= fulvestrant) 400 mg benzylalcohol en voldoende castorolie om de oplossing op een volume van 1 ml te brengen (dus: 50 mg fulvestrant in 1 ml castorolie hetgeen hetzelfde is als 250 mg in 5 ml).  
+
+
+- het in 1996 in de British Journal of Cancer (p. 300-306) gepubliceerde artikel van A. Howell en anderen (waaronder twee medewerkers van een rechtsvoorgangster van AstraZeneca Zeneca Pharmaceuticals) getiteld “Pharmacokinetics pharmacological and anti-tumour effects of the specific anti-oestrogen ICI 182780 in women with advanced breast cancer” (hierna: “Howell”). 
+Dit document toont de resultaten van fase II klinische studies met fulvestrant voor de behandeling van borstkanker. Beschreven wordt dat een formulering van 250 mg fulvestrant in 5 ml castorolie die intramusculair bij mensen wordt toegediend een effectieve behandeling voor borstkanker geeft. Tevens wordt vermeld dat: 
+- één injectie van deze formulering genoeg is om een maand lang afdoende therapeutische concentratie fulvestrant in het bloed te houden en 
+- de formulering goed wordt verdragen.  
+De precieze samenstelling van de gebruikte formulering wordt in Howell niet genoemd: over de co-solvents en hun concentratieverhouding is niets vermeld. Het komt erop neer dat alleen de in 1.5 genoemde onderdelen (iv) en (v) van EP 138 niet in Howell zijn geopenbaard. 
+
+
+- het in maart 1998 in het tijdschrift Clinical Cancer Research (p. 697-711) gepubliceerde artikel van S.W. McLeskey et al. getiteld “Tamoxifen-resistant Fibroblast Growth Factor-transfered MCF-7 Cells Are Cross-Resistant In Vivo to the Antiestrogen ICI 182780 and Two Aromatase Inhibitors” (hierna: “McLeskey”). In dit document wordt de in EP 138 geclaimde formulering volledig vermeld dus met inbegrip van de onder 1.5 in (iv) en (v) genoemde onderdelen daarvan zie de volgende passage uit dit document: 
+
+“
+Drugs
+. ICI 182780 was kindly donated by Dr. Alan Wakeling of Zeneca (…) and was administered s.c. at a dose of 5 mg in 01 ml of vehicle every week. (…) For the experiments depicted in Fig. 1 B and C 50 mg/ml; preformulated drug in a vehicle of 10% ethanol 15% benzyl benzoate 10% benzyl alcohol brought to volume with castor oil was supplied by B.M. Vose (Zeneca Pharmaceuticals). (…)” 
+
+Het ging hier om een test om vast te stellen of in muizen waarbij de (oestrogeenproducerende) eierstokken waren weggehaald tumorgroei nog wel kan worden veroorzaakt door elders aangemaakt oestrogeen. De muizen kregen eenmaal per week een depotinjectie met de zojuist genoemde fulvestrant-formulering vanuit de gedachte dat wanneer toevoeging van fulvestrant (ICI 182780) die voorkomt dat oestrogeen zich aan de tumorcellen hecht niet tot verminderde tumorgroei zou leiden de conclusie dan zou zijn – en in dit geval was – dat de tumorgroei niet afhankelijk was van oestrogeen. 
+
+
+1.11	Sandoz heeft in 2015 voor onder meer Nederland een handelsvergunning verkregen voor generiek fulvestrant hierna “Fulvestrant Sandoz”. 
+
+
+
+Procesverloop in eerste aanleg en vonnis 11 april 2018 
+
+
+
+1.12	Sandoz is twee bodemprocedures tegen AstraZeneca begonnen die gevoegd zijn behandeld. In zaak 17-599 heeft Sandoz in conventie gevorderd (i) vernietiging van het Nederlandse deel van EP 138 en (ii) een verklaring voor recht dat NL 075 sinds 11 februari 2015 niet de in art. 53 53a 71 en 73 ROW3 bedoelde rechtsgevolgen heeft. In zaak 17-651 vordert Sandoz in conventie nietigverklaring van het Nederlandse deel van EP 573. AstraZeneca heeft in reconventie een inbreukverbod op EP 138 en EP 573 gevorderd voor Nederland met verklaringen voor recht omtrent de inbreuk nevenvorderingen (opgave van afnemers en de genoten winst recall en vernietiging van inbreukmakende producten) en schadevergoeding op te maken bij staat. 
+
+
+1.13	Bij vonnis van 11 april 2018 heeft de rechtbank de vorderingen van Sandoz in conventie toegewezen en – als uitvloeisel daarvan – de reconventionele vorderingen afgewezen met veroordeling van AstraZeneca in de kosten van het geding. De vernietiging van EP 138 en EP 573 is gebaseerd op samengevat de volgende gronden: 
+
+
+I.	De meest nabije stand van de techniek is Howell (rov. 4.14);
+II.	In Howell zijn alleen de hiervoor onder 1.5 bij (iv) en (v) genoemde deelkenmerken van EP 138 niet geopenbaard (rov. 4.18);
+III.	Het objectieve technische probleem luidt: het verschaffen van een fulvestrant-formulering waarbij 250 mg fulvestrant is opgelost in 5 ml castorolie en waarbij de formulering (a) geschikt is voor de behandeling van borstkanker (b) niet precipiteert en (c) waarbij sprake is van vertraagde afgifte in die zin dat een therapeutisch significante plasmaconcentratie wordt verkregen gedurende ten minste twee weken na toediening van 5 ml via intramusculaire injectie (rov. 4.23); 
+IV.	De vakman zou bij de zoektocht naar een oplossing voor dit probleem stuiten op McLeskey nu dit op hetzelfde vakgebied ligt namelijk onderzoek naar de behandeling van borstkanker (rov. 4.26);
+V.	In McLeskey vindt de vakman een oplossing van fulvestrant in castorolie met precies de beoogde concentratie: 50 mg/ml komt overeen met 250 mg in 5 ml zoals in Howell toegepast (rov. 4.30);
+VI.	De vraag of de vakman met een redelijke verwachting van succes zal onderzoeken of de McLeskey-formulering geschikt is wordt bevestigend beantwoord: naar de vakman op de prioriteitsdatum wist waren de in McLeskey geopenbaarde co-solvents geschikt en niet ongebruikelijk voor geneesmiddelen terwijl de omstandigheden dat de McLeskey-formulering complex was en deze “preformulated” ter beschikking was gesteld een nadere aanwijzing voor de geschiktheid daarvan voor mensen vormt (rov. 4.31 en 4.32); 
+VII.	Dit geldt temeer nu het onderzoek naar de geschiktheid van de formulering relatief eenvoudig is terwijl het alternatief is om van “scratch” te beginnen met het maken van een geschikte formulering: het komt niet reëel voor om aan te nemen dat de vakman gegeven alle aanwijzingen dat de formulering geschikt is op zoek naar de oplossing van het probleem de formulering van McLeskey links zou laten liggen en integendeel de lange weg zou inslaan om van “scratch” te beginnen (rov. 4.33); 
+VIII.	Er zijn bovendien geen “pointers away” (rov. 4.35-4.39);
+IX.	De vakman zal dus de geschiktheid van de McLeskey-formulering onderzoeken met standaardtests. Daarbij zal hij vinden dat de formulering in in vivo dierproeven op konijnen geschikt is voor het behandelen van borstkanker niet precipiteert en daarmee een therapeutisch significante plasmaconcentratie wordt verkregen gedurende tenminste twee weken na toediening van 5 ml via een intramusculaire injectie. Hij komt daarmee zonder creatieve denkarbeid tot de in conclusie 30 geclaimde vinding (rov. 4.41). 
+
+
+1.14	De vaststelling van het objectieve technische probleem is als volgt gemotiveerd: 
+
+
+“4.21. (…) Wanneer uitsluitend met dat technische effect van de formuleringsverschillen rekening wordt gehouden zou het objectieve technische probleem luiden: “het vinden van een formulering waarbij 250 mg fulvestrant kan worden opgelost in 5 ml castorolie” zoals de OD (in EP 573) tot uitgangspunt heeft genomen. Echter niet in geschil is dat het in dat geval goed mogelijk is om een formulering te vinden die een oplossing vormt van deze korte probleemstelling terwijl die formulering niet de in het octrooi geclaimde (en reeds in Howell geopenbaarde) effecten heeft en kort gezegd niet werkt. Met andere woorden een formulering kan een geschikte oplossing van voornoemde probleemstelling vormen terwijl deze niet voldoet aan alle relevante deelkenmerken van conclusie 30. Naar het oordeel van de rechtbank moet de als oplossing te vinden formulering dan ook niet alleen als technisch effect hebben dat 250 mg fulvestrant in 5 ml castorolie oplosbaar is maar voldoet als juiste oplossing alleen een formulering die geschikt is voor de behandeling van borstkanker omdat alleen die daadwerkelijk een oplossing vormt van het verschil tussen Howell en EP 138. Dit brengt mee dat met de technische effecten van de geschiktheid rekening moet worden gehouden bij de formulering van het objectieve technische probleem. 
+4.22. (…) Anders dan AstraZeneca ingang wil doen vinden gaat het bij het concretiseren van de geschiktheid niet om behoud van alle in Howell geopenbaarde effecten maar moet geschiktheid of werkzaamheid uitsluitend in aanmerking worden genomen voor zover EP 138 die leert. Die bestaat voor zover hier van belang uit drie componenten:
+(i) therapeutische werkzaamheid/geschiktheid (deelkenmerk 30.3)
+(ii) verdraagbaarheid en
+(iii) vertraagde afgifte gedurende twee weken (deelkenmerk 30.10)
+Wat betreft (ii) verdraagbaarheid vormt anders dan AstraZeneca betoogt het voorkomen van necrose op de plaats van injectie geen onderdeel van de openbaarmaking van EP 138. In geen van de conclusies wordt verdraagbaarheid genoemd. In de beschrijving komt uitsluitend precipitatie van fulvestrant aan de orde als mogelijke bron van huidirritatie en ontsteking [0037]. Precipitatie is ook het enige verdraagbaarheidselement dat in EP 138 is onderzocht (zie o.m. [0044] en [0047]) en waarvan het resultaat is gepresenteerd (vgl. o.m. [0048]: “with no evidence of precipitation"; zie ook tabel 4 onderste gedeelte). De geschiktheid op het gebied van verdraagbaarheid in de probleemstelling (en daarmee voor de beoordeling van de inventiviteit) dient dan ook te worden beperkt tot het voorkomen van precipitatie.”
+
+
+
+Procesverloop in hoger beroep en arrest 27 november 2018 
+
+
+
+1.15	Bij appeldagvaarding met grieven (“AD”) van 18 april 2018 is AstraZeneca in hoger beroep gekomen. Zij heeft ook een incidentele conclusie tot het treffen van voorlopige voorzieningen ex art. 223 Rv genomen (“MvE inc”). Sandoz heeft hierop gereageerd met een memorie van antwoord in het incident (“MvA inc”). Bij arrest in dit incident van 29 mei 2018 heeft het hof de bij wege van voorlopige voorziening ingestelde vorderingen afgewezen. Daarna heeft Sandoz een memorie van antwoord (“MvA”) ingediend. AstraZeneca heeft zich bediend van rapporten van haar partij-deskundigen prof. Robertson (2 rapporten) en prof. Crommelin (6 rapporten). Sandoz beroept zich op een aantal rapporten van haar partij-deskundige prof. Vromans4. 
+
+
+1.16	Partijen hebben hun standpunt op 11 oktober 2018 doen bepleiten aan de hand van pleitaantekeningen (hierna: PA). Sandoz betoogt in haar PA 29-30 het volgende: 
+
+
+“29. Intussen heeft ook de Zwitserse beroepsrechter (het Bundesgericht) voor die benadering gekozen. In de uitspraak van 8 mei 2018 terzake EP 573 (Productie EP45 en GP31) overweegt het Bundesgericht net als de rechtbank dat een probleemstelling waarin de bekende voordelige effecten niet zijn opgenomen ten onrechte zou suggereren dat elke fulvestrantformulering met de gewenste concentratie zou ‘werken’. Het Bundesgericht vindt daarom ook dat [de] deze effecten in de probleemstelling moeten worden opgenomen (even afgezien van het feit dat de rechtbank terecht niet ‘goede verdraagbaarheid’ in de probleemstelling opneemt omdat het octrooi enkel informatie geeft over precipitatie).
+30. Sandoz kan daar op zich mee leven zolang het besef er maar blijft dat deze voordelige effecten al bekend zijn. Dan maakt het ogenschijnlijk niet echt uit of je ze in de probleemstelling opneemt (Stap 2 PSA) of mee laat wegen bij de keuzes die de vakman maakt in zijn zoektocht naar de oplossing van het probleem (Stap 3 PSA). Ik kan dat ook mooi illustreren aan de hand van de beslissing van de Oppositie Divisie terzake EP 573 (Productie EP37). Hoewel de Oppositie Divisie dus uitgaat van een probleemstelling waarin de bekende effecten niet zijn opgenomen laat de Oppositie Divisie het feit dat de vakman die bekende effecten wil behouden wel degelijk meespelen bij de beoordeling in Stap 3 alsof het bereiken van de effecten deel uitmaakt van het probleem. (…)”
+
+
+1.17	Bij arrest van 27 november 2018 heeft het hof het vonnis voor een klein gedeelte bekrachtigd maar grotendeels vernietigd. 
+De bekrachtiging betreft de uitgesproken verklaring voor recht dat NL 075 sinds 11 februari 2015 niet de in de art. 53 53a 71 en 73 ROW bedoelde rechtsgevolgen heeft en de afwijzing van de inbreukvordering in reconventie van AstraZeneca voor wat betreft “een verbod tot betrokkenheid bij inbreuk” de opgave van afnemers en de genoten winst de recall en de schadevergoeding op te maken bij staat.
+Voor het overige heeft het hof het bestreden vonnis vernietigd en opnieuw rechtdoende Sandoz verboden inbreuk te maken op EP 138 en EP 573 door (onder meer) het verhandelen van “Fulvestrant Sandoz” en Sandoz bevolen de voorraad “Fulvestrant Sandoz” en bijbehorende promotiemiddelen te vernietigen een en ander op straffe van een dwangsom en met veroordeling van Sandoz in de proceskosten in beide instanties te begroten op de bedragen die partijen zijn overeengekomen (€ 175.000- voor de eerste aanleg en € 140.000- voor het hoger beroep). 
+Het oordeel van het hof berust samengevat op de volgende overwegingen.
+
+
+
+Beschrijving EP 138: achtergrond van de maatregelen
+
+1.18	In rov. 1g bespreekt het hof de achtergrond van de hiervoor onder 1.5 weergegeven maatregelen zoals die ook uit de beschrijving van EP 138 (onder meer in 0048) blijkt: 
+
+
+“(…)  Intramusculaire toediening is voorgeschreven omdat toediening via een pil niet mogelijk is vanwege onder meer de lage oplosbaarheid en het hoge first-pass metabolisme van fulvestrant. Aangezien intramusculaire toediening (een injectie in de bil) voor de patiënt veel onplezieriger is dan een pil moet het aantal injecties zo beperkt mogelijk blijven. Daarom moet de depotinjectieformulering een voldoende hoge dosis fulvestrant bevatten (250 mg per injectiespuit van 5 ml het maximale volume dat destijds per injectie intramusculair mocht worden toegediend) en moet de afgifte aan het bloed voldoende vertraagd [te] gebeuren; er moet kortom een goed afgifte-profiel zijn. Verder dient precipitatie (neerslag van fulvestrant in vaste vorm) en irritatie (necrose) op de plaats van de injectie te worden voorkomen.” 
+
+
+
+Inventiviteit 
+
+1.19	Het hof beoordeelt eerst de geldigheid van EP 138 (rov. 3.1). Partijen gaan uit van een inventiviteitstoets op basis van de “problem solution approach” (“PSA”) en het hof volgt partijen hierin (rov. 4.1). De bewijslast van de gestelde nietigheid rust op Sandoz (rov. 4.2a). De vakman wist op de prioriteitsdatum dat voor het verkrijgen van een oplossing van 250 mg fulvestrant in 5 ml castorolie (“de 250F/5C-Verhouding”) co-solvents nodig waren (rov. 4.2b) en dat niet voor elke voor de 250F/5C-Verhouding geschikte formulering van co-solvents (“CS-Formulering”) gold dat deze niet zou precipiteren en/of tot een vertraagde afgifte zou leiden (rov. 4.2c). Bij welke CS-Formulering deze effecten zouden optreden was op de prioriteitsdatum onvoorspelbaar (rov. 4.2c). Konijnenproeven hebben voorspellende waarde voor het afgifteprofiel van de formulering en de mate van precipitatie bij mensen (rov. 4.2d). 
+
+
+1.20	Howell wordt door het hof aangemerkt als meest nabije stand van de techniek. Het hof verwerpt het standpunt van AstraZeneca dat EP-A 014 de closest prior art is omdat daarin niet is geopenbaard dat de beschreven CS-Formulering met de 250F/5C-Verhouding geschikt is voor de behandeling van borstkanker (rov. 4.3). 
+
+
+1.21	Vervolgens heeft het hof in rov. 4.4-4.7 in het kader van de vaststelling van het objectieve technische probleem (stap 2 van de PSA) overwogen als volgt: 
+
+
+“4.4 Stap 2 van de PSA houdt in dat moet worden vastgesteld wat het objectieve probleem uit de stand van het [lees: de A-G] techniek (Howell) is dat het octrooi beoogt op te lossen (hierna: het Stap 2-Probleem of de Stap 2-Probleemstelling). 
+4.5 Sandoz heeft aanvankelijk het standpunt ingenomen dat het Stap 2-Probleem bestaat in het verschaffen van een fulvestrant-formulering waarbij 250 mg fulvestrant is opgelost in castorolie terwijl het totale volume van de formulering 5 ml bedraagt dus louter in het verschaffen van een CS-formulering waarin de 250F/5C-Verhouding kan worden opgelost. De in EP 138 genoemde voordelige effecten (werking tegen borstkanker niet-precipitatie en vertraagde afgifte) waren door Sandoz niet in haar aanvankelijke probleemstelling meegenomen kennelijk vanuit de gedachte dat die effecten ook al in Howell stonden en de (niet-uitgesproken) veronderstelling dat wanneer een CS-Formulering wordt gevonden waarin de 250F/5C-Verhouding oplosbaar is die Howell-effecten zich zullen voordoen. Deze veronderstelling is echter niet juist omdat naar de vakman op de prioriteitsdatum wist niet elke CS-Formulering waarin de 250F/5C-Verhouding kon worden opgelost die voordelige effecten had en zelfs onvoorspelbaar was welke CS-Formuleringen die zouden hebben zie rov 4.2 (c).  
+4.6 Sandoz heeft dit onderkend (punten 29 en 30 PA) en daarom laten weten – onder de voorwaarde dat het besef er maar blijft dat die voordelige effecten al bekend waren uit Howell – te ‘kunnen leven’ met de in rov. 2.2 [zie hiervoor 1.13 A-G] bij III weergegeven Stap 2-Probleemstelling van de rechtbank. Aan die voorwaarde wordt voldaan (zie ook rov. 5.7 hierna). Het hof zal zich – onder verwerping van de aanvankelijke probleemstelling van Sandoz – aansluiten bij deze probleemstelling van de rechtbank die ook door AZ zij het ‘veronderstellenderwijs’ wordt aanvaard (punt 14 AD).
+4.7 De laatste stap van de PSA stap 3 houdt in dat moet worden vastgesteld of de gemiddelde vakman op basis van de meest nabij[e] stand van de techniek en het Stap 2-Probleem tot de in het octrooi geclaimde uitvinding zou (‘would’) zijn gekomen. (…) ” 
+
+
+1.22	Het hof is daarna ingegaan op hetgeen in het kader van stap 3 van de PSA in de Guidelines van het EOB5 is vermeld over het combineren van verschillende documenten uit de prior art. Het gaat er naar het oordeel van het hof om of er voor de vakman in de relevante prior art (Howell McLeskey en de algemene vakkennis) een prompting/recognisable incentive (hierna: incentive) was om – ter oplossing van het Stap 2-Probleem in kwestie – McLeskey met Howell te combineren. Als zo’n incentive er niet is zal de vakman de McLeskey-formulering ook niet gaan testen (rov. 4.8). 
+
+
+1.23	In rov. 5.1-5.8 heeft het hof beoordeeld of er incentives waren om McLeskey met Howell te combineren. Het hof overweegt in dat verband allereerst: 
+
+
+“5.1 Howell openbaart het gebruik van een oplossing met de 250F/5C-Verhouding voor de behandeling van borstkanker in mensen met de daarin genoemde gunstige effecten en het Stap 2-Probleem houdt in dat een CS-formulering voor het gebruik van die verhouding gevonden moet worden voor toepassing in mensen ter behandeling van borstkanker waarbij geen precipitatie optreedt en waarbij vertraagde afgifte plaatsvindt.” 
+
+
+1.24	Volgens het hof bevat McLeskey geen incentive om de daarin beschreven CS-Formulering te gaan toepassen of testen voor de oplossing van het Stap 2-Probleem in kwestie maar wel een contra-indicatie. De in McLeskey beschreven CS-Formulering met de 250F/5C-Verhouding wordt alleen gebruikt in muizen en in het kader van een test of oestrogeen nog een rol speelt bij de groei van tumorcellen wanneer de eierstokken zijn verwijderd. Reeds deze omstandigheden zouden de vakman huiverig maken om McLeskey bij zijn zoektocht naar de oplossing van het Stap 2-Probleem te betrekken (rov. 5.1). Hierbij is meegewogen dat Sandoz niet heeft gesteld dat testen in muizen voorspellende waarde hebben voor het afgifteprofiel van een oplossing met de 250F/5C-Verhouding en de mate van precipitatie daarvan in mensen (rov. 5.2). Verder gaat het hof ervan uit dat het in McLeskey genoemde alcoholpercentage van 20 zo hoog is dat de vakman op de prioriteitsdatum het optreden van precipitatie zou verwachten. Dit is een contra-indicatie om de CS-Formulering van McLeskey in beschouwing te nemen als mogelijke (bijdrage aan de) oplossing van het onderdeel van het Stap 2-Probleem om een niet-precipiterende formulering te verkrijgen (rov. 5.4). Dat de in EP 138 vermelde gunstige effecten (niet-precipitatie en een goed afgiftepatroon) al bekend waren uit Howell vormt geen incentive om de oplossing te zoeken in de McLeskey-formulering. Onvoorspelbaar was namelijk welke CS-Formulering zou leiden tot die gunstige effecten (rov. 5.7). 
+
+
+1.25	In rov. 6.1-6.3 verwerpt het hof het argument van Sandoz dat niet is vol te houden dat de vakman de McLeskey-formulering links zou laten liggen en in plaats daarvan “ van scratch” een nieuwe formulering zou gaan ontwikkelen. Het gaat bij het “ van scratch”-argument om de zoektocht naar de oplossing van het door Sandoz aanvankelijk voorgestane probleem (het vinden van een CS-Formulering waarin de 250F/5C-Verhouding kan worden opgelost). Dit leidt echter niet tot de oplossing van het Stap 2-Probleem in kwestie omdat op de prioriteitsdatum onvoorspelbaar was bij welke CS-Formulering de (uit Howell bekende) gunstige effecten zouden optreden (rov. 6.2). Verder is voor het “ van scratch”-argument des te minder grond nu er een contra-indicatie bestond voor het toepassen of testen van de McLeskey-formulering (zie rov. 5.4) en niet alleen in McLeskey maar ook in EP-A 014 een CS-Formulering was beschreven die de 250F/5C-Verhouding in oplossing kan brengen (rov. 6.3).
+
+
+1.26	Het hof passeert ook de andere door Sandoz betrokken stellingen die berusten op de door haar aanvankelijk voorgestane maar niet gevolgde probleemstelling (rov. 7.1). Er was in de prior art dus geen incentive om McLeskey toe te passen of te testen met het oog op de oplossing van het Stap 2-Probleem in kwestie (rov. 7.2). De vakman bevond zich ten opzichte van McLeskey evenmin in een “try and see situation”. Daarvoor is vereist dat de vakman gelet op de prior art al een bepaalde stof of groep van stoffen duidelijk in beeld had (“clearly envisaged”). Dit kan niet worden gezegd aangezien een incentive voor het toepassen of testen van McLeskey ontbrak en daarvoor zelfs een contra-indicatie bestond. Op het squeeze-argument van Sandoz behoeft niet verder te worden ingegaan omdat in rov. 4.2 (d) al is geoordeeld dat konijnenproeven voorspellende waarde hebben voor het optreden van precipitatie en het afgifteprofiel bij mensen (rov. 7.4). Alles overziend moeten de maatregelen van de conclusies 1 29 en 30 van EP 138 als inventief worden beschouwd (rov. 7.5).
+
+
+
+Overige nietigheidsargumenten en slotsom geldigheid EP 138 en EP 573; NL 075
+
+1.27	In rov. 8.1-8.3 bespreekt het hof de door Sandoz aangevoerde nietigheidsargumenten waaraan de rechtbank niet is toegekomen. Het eerste argument is dat EP 138 nieuwheid mist ten opzichte van McLeskey. Dit argument faalt. De maatregel van EP 138 om de fulvestrant-formulering toe te passen voor de behandeling van borstkanker bij mensen is in McLeskey niet geopenbaard. Evenmin is in McLeskey de maatregel geopenbaard om dit intramusculair te doen. Het tweede nietigheidsargument is aangevoerd voor het geval dat in McLeskey niet plausibel is beschreven dat de daarin vermelde formulering therapeutische werking voor mensen heeft. Sandoz stelt dat dan ook de therapeutische werking van de EP 138-formulering niet aannemelijk moet worden geacht zodat dat octrooi niet-nawerkbaar is. Dit argument strandt omdat de in EP 138 beschreven konijnenproeven anders dan de in McLeskey genoemde muizenproeven (rov. 5.2) voorspellende waarde voor mensen hebben (rov. 4.2 d)6.
+
+
+1.28	Het hof komt in rov. 9.1 tot de slotsom dat alle door Sandoz tegen EP 138 ingebrachte nietigheidsargumenten falen en dat haar vordering tot nietigverklaring niet toewijsbaar is. Dit geldt ook voor de vordering tot nietigverklaring van EP 573. Sandoz gaat er namelijk vanuit dat de verschillen tussen EP 138 en EP 573 niet relevant zijn voor de geldigheid. In rov. 9.2 overweegt het hof dat AstraZeneca niet heeft gegriefd tegen de door de rechtbank uitgesproken verklaring voor recht dat NL 075 sinds 11 februari 2015 niet de in art. 53 53a 71 en 73 ROW bedoelde rechtsgevolgen heeft. 
+
+
+
+De (inbreuk)vorderingen van AstraZeneca
+
+1.29	Rov. 10.1-10.2 betreffen de inbreukvorderingen van AstraZeneca. Sandoz heeft volgens het hof niet betwist dat haar fulvestrant onder de beschermingsomvang van EP 138 en EP 537 valt. De verbodsvordering van AstraZeneca en de door haar gevorderde verklaring voor recht dat Sandoz inbreuk op die octrooien heeft gemaakt zijn daarom toewijsbaar. AstraZeneca heeft echter onvoldoende gesteld voor het door haar tevens gevorderde “verbod tot betrokkenheid bij inbreuk” (rov. 10.1). 
+
+
+1.30	In rov. 10.2 heeft het hof de recall-vordering van AstraZeneca haar vordering tot het doen van opgave van afnemers en winst en haar vordering tot schadevergoeding op te maken bij staat om de volgende redenen niet toewijsbaar geacht: 
+
+
+“10.2 In eerste aanleg heeft Sandoz het verweer gevoerd dat zij met haar Fulvestrant Sandoz niet op de markt is geweest; het is volgens Sandoz alleen in juni 2016 in de G-standaard opgenomen geweest (punten 93 en 95 CvA-ir/17-599; punten 90 en 92 CvA-ir/17-651). Dit is door AZ noch in eerste aanleg (zie punt 136 PE-AZ) noch in de AD weersproken. In het met het arrest van 29 mei 2018 afgesloten ‘artikel 223 Rv’-incident heeft AZ weliswaar opgemerkt dat zij er vanuit ging dat Sandoz per 1 juni 2018 met haar fulvestrant de Nederlandse markt zou betreden doch bij het op 11 oktober 2018 gehouden pleidooi in de hoofdzaak heeft zij niet gesteld dat dit daadwerkelijk is gebeurd. Het moet er daarom voor worden gehouden dat Fulvestrant Sandoz in Nederland nimmer op de markt is geweest. Gelet hierop zijn zoals Sandoz heeft betoogd AZ’s recall-vordering en haar vorderingen tot het doen van opgave van de afnemers en van de genoten winst niet toewijsbaar en evenmin haar vordering tot schadevergoeding op te maken bij staat. Hoewel dat op haar weg lag heeft AZ immers niet toegelicht waarom gegeven het uitgangspunt dat Fulvestrant Sandoz nooit is verhandeld de mogelijkheid dat zij schade heeft geleden toch aannemelijk moet worden geacht. (…)”
+
+
+
+Cassatie
+
+
+
+1.31	Sandoz heeft op 21 januari 2019 (tijdig) cassatieberoep ingesteld. AstraZeneca heeft geconcludeerd tot verwerping van het principaal cassatieberoep en heeft incidenteel cassatieberoep ingesteld. Sandoz heeft geconcludeerd tot verwerping van het incidenteel cassatieberoep. Partijen hebben op 30 augustus 2019 hun standpunten schriftelijk laten toelichten waarna is gerepliceerd gedupliceerd en gefourneerd7. 
+
+
+
+Overige uitspraken
+
+
+
+1.32	Tegen de verlening van EP 573 is oppositie ingesteld door vijf partijen waaronder Hexal AG een bedrijf dat onderdeel vormt van de Sandoz-groep. Bij beslissing van 8 mei 2017 heeft de oppositieafdeling van het Europees Octrooibureau (“OD”) het octrooi herroepen wegens gebrek aan inventiviteit uitgaande van Howell in combinatie met McLeskey8. Tegen deze beslissing is hoger beroep ingesteld bij de Technische Kamer van Beroep (“TKB”). Bij beslissing van 24 januari 2019 heeft de TKB geoordeeld dat het beroep doel treft en dat de oppositie ongegrond is9. 
+
+
+1.33	De zaak in kort geding bij Uw Raad zagen we in de inleiding al even onder ogen10. AstraZeneca vorderde in kort geding een inbreukverbod op EP 138. Zowel in eerste aanleg als in hoger beroep hield het octrooi naar voorlopig oordeel stand. Sandoz klaagde er in cassatie kort gezegd over dat bij het objectieve probleem ook de positieve onderzoeksresultaten uit Howell (de meest nabije stand van de techniek) zijn meegewogen (onderdeel 1) en dat de vakman niet met redelijke verwachting van succes de McLeskey-formulering zou zijn gaan testen of een neutrale try and see houding zou hebben aangenomen (onderdeel 2). Uw Raad heeft het beroep verworpen met toepassing van art. 81 lid 1 RO. 
+
+
+1.34	Het Duitse BGH heeft op 16 april 2019 een beslissing bekrachtigd waarbij het Duitse deel van EP 138 ongeldig is geacht wegens gebrek aan inventiviteit in het licht van Howell en McLeskey11. De Hongaarse rechter heeft in dezelfde zin geoordeeld12. Het Zwitserse Bundesgericht heeft een beslissing van het Bundespatentgericht in stand gelaten waarin EP 138 ongeldig is geacht maar een beslissing van het Bundespatentgericht vernietigd waarin EP 573 als ongeldig was beoordeeld13. In de procedure na cassatie en verwijzing werd geoordeeld dat EP 573 wel geldig is14. 
+
+
+
+2 Bespreking van het cassatieberoep
+Het principaal cassatieberoep
+
+2.1
+Het principaal cassatieberoep is gericht tegen hetgeen in rov. 1g 4.4-4.7 en 5.1 is overwogen met betrekking tot de vaststelling van het objectieve technische probleem.  
+
+
+2.2
+Het hof gaat net als partijen uit van een beoordeling van de inventiviteit volgens de PSA. Het hof heeft hetzelfde objectieve technische probleem geformuleerd als de rechtbank. Deze vaststelling van het objectieve technische probleem berust enerzijds op een materiële beoordeling in rov. 4.5 (verwerping aanvankelijke probleemstelling van Sandoz) en anderzijds op de uitleg in rov. 4.6 van het standpunt in de PA van Sandoz (zij laat weten te kunnen leven met de probleemstelling van de rechtbank).  
+
+
+2.3
+Sandoz bestrijdt de materiële beoordeling. Verder komt zij in subonderdeel Id (v) op tegen de uitleg van haar pleitnota. AstraZeneca voert verweer en betoogt ook dat Sandoz op vier processuele gronden niet kan opkomen tegen de vaststelling van het objectieve technische probleem (s.t. 9 en 40-57). Ik bespreek eerst de processuele verweren waarna ik inga op de PSA en de klachten van Sandoz zal behandelen.  
+
+
+De processuele verweren
+
+ 
+
+
+2.4
+AstraZeneca betoogt allereerst dat Sandoz incidenteel had moeten appelleren tegen de vaststelling van de probleemstelling in het vonnis (s.t. 9a 40a en 41-46). Dat lijkt mij niet. Sandoz is in eerste aanleg integraal in het gelijk gesteld in die zin dat haar vorderingen in conventie in het dictum zijn toegewezen en de reconventionele vorderingen van AstraZeneca daarin afgewezen. Het is dan niet nodig incidenteel te appelleren tegen onwelgevallige overwegingen15. Voor een koerswijziging op dit punt zie ik anders dan AstraZeneca (s.t. 46) geen grond.   
+
+
+2.5
+In de tweede plaats stelt AstraZeneca dat Sandoz geen beroep meer kan doen op haar aanvankelijke probleemstelling omdat sprake is van een gedekt verweer dan wel rechtsverwerking (s.t. 9b 40b en 47-48). Ook dat lijkt mij niet op te kunnen gaan. Uit de rechtspraak van Uw Raad blijkt dat van een gedekt verweer slechts sprake is als uit de proceshouding ondubbelzinnig voortvloeit dat het verweer is prijsgegeven16. Rechtsverwerking is aan de orde wanneer een partij het vertrouwen heeft gewekt dat zij haar standpunt laat varen17. In onze zaak heeft het hof niet vastgesteld dat sprake is van “ondubbelzinnig prijsgeven” of “gewekt vertrouwen” in de bedoelde zin. De stelling van Sandoz dat zij “kan leven” met de probleemstelling van de rechtbank kan die slotsom ook niet (zonder meer) dragen. Dit geldt temeer omdat deze stelling blijkens rov. 4.6 slechts voorwaardelijk is ingenomen namelijk onder de voorwaarde dat het besef er maar blijft dat de voordelige effecten al bekend waren uit Howell. 
+
+
+2.6
+In de derde plaats zou Sandoz zich niet over de probleemstelling kunnen beklagen omdat de rechtbank bij haar vaststelling van het objectieve technische probleem aansluiting heeft gezocht bij een door Sandoz zelf geformuleerde alternatieve probleemstelling en het hof de probleemstelling van de rechtbank gebruikt (s.t. 9c 40c en 49-53). Dit verweer faalt in mijn ogen ook. De rechtbank heeft in rov. 4.20 inderdaad vastgesteld dat beide partijen bij het pleidooi in eerste aanleg als probleem hebben geponeerd “het verschaffen van een fulvestrant-formulering (in castorolie) die geschikt is voor het behandelen van borstkanker”. De rechtbank heeft partijen hierin gevolgd (rov. 4.21) en de probleemstelling daarna gespecificeerd (rov. 4.22-4.23). Dit betekent echter niet dat het hof op procesrechtelijke gronden zonder meer dezelfde probleemstelling als de rechtbank mocht gebruiken. Het hoger beroep heeft namelijk een herstelfunctie: partijen mogen nog van koers wijzigen en stellingen uit de eerste aanleg zijn alleen al daarom in appel niet zonder meer leidend18. Daar komt bij dat Sandoz zoals zij in cassatie stelt (repliek in cassatie 10 (i) 11 en 20) mogelijk heeft bedoeld de alternatieve probleemstelling slechts subsidiair naar voren te brengen.  
+
+
+2.7
+Tot slot voert AstraZeneca aan dat Sandoz geen belang heeft bij haar cassatieberoep omdat zij in haar PA onder 30 zelf aangeeft dat de door haar aanvankelijk verdedigde probleemstelling en de door het hof gehanteerde probleemstelling tot hetzelfde resultaat leiden (s.t. 9d 40d en 54). Dit verweer mist feitelijke grondslag volgens mij. Sandoz heeft in de aangehaalde passage aangevoerd dat het ogenschijnlijk niet uitmaakt of de uit Howell bekende voordelige effecten in het kader van stap 2 of stap 3 van de PSA worden meegewogen (zie hiervoor 1.16). Sandoz heeft dus niet in algemene zin betoogd dat de door het hof gebruikte probleemstelling tot hetzelfde resultaat leidt als haar aanvankelijke probleemstelling. Dit geldt alleen als voor ogen wordt gehouden dat de voordelige effecten van EP 138 al bekend waren uit Howell (hetgeen het hof volgens Sandoz niet heeft gedaan zie onderdeel Id (v) en hierna 2.44 en 2.46) en uitgaande van de aanvankelijke probleemstelling van Sandoz bij stap 3 van de PSA wordt meegewogen dat de vakman de voordelige effecten uit Howell wil behouden.  
+
+
+2.8
+De processuele verweren van AstraZeneca gaan zodoende volgens mij niet op.  
+
+
+De problem solution approach (PSA)
+
+ 
+
+
+2.9
+In mijn conclusie voor het arrest van Uw Raad in het kort geding tussen Sandoz en AstraZeneca19 en in mijn conclusie in de zaak Coloplast/Medical4You20ben ik ingegaan op de inventiviteitstoets en de problem solution approach. Ik zal de uitgangspunten voor de zelfstandige leesbaarheid van deze conclusie recapituleren (maar heb daar inhoudelijk niets aan toe te voegen).  
+
+
+2.10
+Om in aanmerking te komen voor een Europees octrooi moet een uitvinding nieuw zijn op uitvinderswerkzaamheid berusten en industrieel toepasbaar zijn (art. 52 EOV). In onze cassatie speelt alleen de inventiviteitsvraag. Van inventiviteit is sprake als een vinding “voor een deskundige niet op een voor de hand liggende wijze voortvloeit uit de stand van de techniek” (art. 56 EOV). De octrooirechtelijke maatpersoon is de “gemiddelde vakman”21. Een in de praktijk veel gebruikt hulpmiddel bij de beoordeling van inventiviteit is de PSA22. De PSA bestaat volgens de Guidelines for Examination in the European Patent Office (verder “Guidelines”) uit drie stappen23:  
+
+“In the problem-solution approach there are three main stages:
+ 
+
+(i) determining the "closest prior art" 
+(ii) establishing the "objective technical problem" to be solved and
+(iii) considering whether or not the claimed invention starting from the closest prior art and the objective technical problem would have been obvious to the skilled person.”
+ 
+
+
+2.11
+In de Guidelines wordt nader ingegaan op het bij vertrek vanuit de meest nabije stand van de techniek te formuleren objectieve technische probleem waarvoor de gemiddelde vakman zich geplaatst ziet de middenstap in de PSA (zie G-VII.5.2). Daaruit blijkt dat het objectieve technische probleem moet worden vastgesteld aan de hand van het technische effect zoals dat blijkt uit de verschilmaatregelen die duidelijk worden door een vergelijking tussen het in het octrooi geclaimde en de meest nabije stand van de techniek24. In de standaardformulering van de Boards of Appeal: “the technical problem has to be determined on the basis of objectively established facts since for the determination of the objective technical problem only the effect actually achieved vis-a-vis the closest prior art should be taken into account” 25. Daarmee is echter niet gezegd dat punten van overeenstemming in geen geval deel uit kunnen maken van het objectieve technische probleem (zie ook hierna 2.21).  
+
+
+2.12
+De PSA wordt in de Nederlandse (feiten)rechtspraak (op aangeven van partijen) vaak toegepast26. De rechter is daartoe gezien de arresten van Uw Raad in de zaken Lundbeck/Tiefenbacher27 en Leo Pharma/Sandoz28niet gehouden. De PSA is volgens mij zo al sprake is van recht in de zin van art. 79 RO hoogstens soft law29. De beoordeling van de inventiviteit van een uitvinding is in belangrijke mate verweven met waarderingen van feitelijke aard die in cassatie niet op juistheid toetsbaar zijn30. 
+
+
+Bespreking klachten principaal cassatieberoep
+
+ 
+
+
+2.13
+Het principaal cassatieberoep bestaat uit de onderdelen Ia tot en met Id. De onderdelen Ia en Ib lenen zich voor gezamenlijke bespreking.  
+
+
+2.14
+Volgens onderdeel Ia heeft het hof miskend dat de inventiviteit van een octrooi dient te worden beoordeeld aan de hand van  en gerechtvaardigd dient te zijn door datgene wat het octrooi toevoegt aan de stand van de techniek. Verder wordt erop gewezen dat de inventiviteit van het octrooi moet corresponderen met en gerechtvaardigd dient te zijn door het monopolie zoals geclaimd door de octrooihouder. Het objectieve technische probleem zoals door het hof geformuleerd zou de octrooihouder volgens de klacht belonen voor iets dat hij niet toevoegde aan de stand van de techniek. In haar s.t. onder 1-2 en 70 betoogt Sandoz dat zo’n beloning in strijd is met de essentie van het octrooirecht namelijk dat bescherming wordt verleend in ruil voor een bijdrage aan de stand van de techniek. Zij wijst op het belang van het voorkomen van het Angorakat-fenomeen31 en red herring technieken32 (s.t. onder 71).  
+
+
+2.15
+
+Onderdeel Ib brengt het volgende naar voren. Voor het vaststellen van het objectieve technische probleem komt het (alleen) aan op het bestuderen van de geclaimde uitvinding in het octrooi de meest nabije stand van de techniek (in dit geval Howell) en de objectieve verschillen tussen de geclaimde uitvinding en de meest nabije stand van de techniek. Bij toepassing van de PSA moet het objectieve technische probleem elementen bevatten die onderdeel vormen van de verschillen tussen de geclaimde uitvinding en de meest nabije stand van de techniek en (impliciet) worden geclaimd in de conclusies van het octrooi. De enige verschilmaatregel is volgens rov. 1k de specifieke formulering. Het hof heeft het technische probleem zo geformuleerd dat daarin tevens wordt meegewogen (i) werking tegen borstkanker (ii) niet-precipitatie en (iii) vertraagde afgifte. Daarmee is miskend dat deze elementen geen onderdeel vormen van de verschillen tussen de Octrooien en de meest nabije stand van de techniek33. De Octrooien leren niets (extra) over deze elementen (ten opzichte van de meest nabije stand van de techniek)34 de Octrooien claimen deze elementen niet en AstraZeneca stelt in haar inbreukanalyse zelfs niet dat het product van Sandoz niet tot precipitatie zou leiden35. Door desondanks de werking tegen borstkanker niet-precipitatie en vertraagde afgifte mee te wegen heeft het hof een onjuiste toets aangelegd bij de beoordeling van de inventiviteit althans de PSA onjuist toegepast36.  
+
+
+2.16
+De onderdelen Ia en Ib komen er als ik het goed zie in essentie op neer dat het hof onterecht de effecten “werking tegen borstkanker” “niet-precipitatie” en “vertraagde afgifte” in het objectieve technische probleem heeft opgenomen terwijl deze effecten (1) geen deel uitmaken van de claim en (2) niet uit verschilmaatregelen volgen. De klacht over de inbreukanalyse van AstraZeneca moet volgens mij buiten beschouwing worden gelaten. Sandoz beroept er zich namelijk pas in cassatie voor het eerst op dat AstraZeneca in haar inbreukanalyse niet heeft gesteld dat het product van Sandoz niet tot precipitatie leidt; ik lees dat niet in de genoemde vindplaatsen37.  
+
+
+2.17
+Over klacht (1) (de genoemde effecten maken geen deel uit van de claim) merk ik het volgende op. Sandoz heeft in haar Dv EA onder 43 gesteld dat geen enkele conclusie van EP 138 een kenmerk bevat met betrekking tot geen of verminderde bijwerkingen van de fulvestrant-formulering. In rov. 4.22 van haar vonnis heeft de rechtbank overwogen dat de geschiktheid of werkzaamheid die EP 138 leert uit de volgende drie componenten bestaat: (i) therapeutische werkzaamheid/geschiktheid (deelkenmerk 30.3) (ii) verdraagbaarheid en (iii) vertraagde afgifte gedurende twee weken (deelkenmerk 30.10) (zie hiervoor 1.14). Wat betreft de verdraagbaarheid geldt naar het oordeel van de rechtbank dat in de beschrijving uitsluitend precipitatie van fulvestrant aan de orde komt als mogelijke bron van huidirritatie en ontsteking; precipitatie is volgens de rechtbank ook het enige verdraagbaarheidselement dat in EP 138 is onderzocht en waarvan het resultaat is gepresenteerd. De rechtbank refereert hierbij aan paragrafen [0037] [0044] [0047] en [0048] van de beschrijving en tabel 4. Sandoz verwijst niet naar stellingen in hoger beroep waarmee zij een (gemotiveerd) andersluidend standpunt inneemt. In dat licht acht ik niet onbegrijpelijk dat het hof er in rov. 4.5 vanuit gaat dat de effecten (i) “werking tegen borstkanker” (ii) “niet-precipitatie” en (iii) “vertraagde afgifte” in EP 138 zijn geopenbaard. 
+
+
+2.18
+Ten aanzien van klacht (2) (de effecten volgen niet uit de verschilmaatregelen en zijn daarom geen onderdeel van het objectieve probleem) heeft het volgende te gelden.  
+
+
+2.19
+In de fulvestrant kort geding zaak lag ook de vraag voor of de positieve onderzoeksresultaten uit Howell onderdeel zijn van de probleemstelling van EP 138. Het hof heeft die vraag toen bevestigend beantwoord:  
+
+“4.20 Uitgaande van de verschilmaatregelen tussen Howell en de uitvinding volgens EP 138 te weten de samenstelling van de fulvestrant-formulering kan worden uitgegaan van het volgende objectieve technische probleem: ‘het verschaffen van een fulvestrant-formulering die geschikt is voor de behandeling van een benigne of maligne ziekte van de borst of de voortplantingstractus’. Ook Sandoz en AstraZeneca gaan daarvan uit. Naar AstraZeneca terecht heeft aangevoerd volgt uit het nemen van Howell als uitgangspunt dat in het ‘geschikt’ zijn voor de behandeling van (kortweg) borstkanker besloten ligt dat de in Howell geopenbaarde positieve onderzoeksresultaten worden behouden en dus dat de fulvestrant-formulering verdraagbaar is en een therapeutisch significante plasmaconcentratie bewerkstelligt gedurende ten minste twee weken na toediening met een intramusculaire injectie.”  
+ 
+
+
+2.20
+
+In haar cassatieberoep tegen dat arrest in kort geding heeft Sandoz aangevoerd dat het hof ten onrechte het objectieve technische probleem zo heeft geformuleerd dat daarbij de in Howell geopenbaarde onderzoeksresultaten worden meegewogen. 
+In mijn conclusie in die zaak van 10 mei 2019 kwam ik tot de bevinding dat deze klacht in het licht van een drietal omstandigheden geen doel treft. (1) Het heeft er de schijn van dat het hier gaat om een poging van Sandoz om de feitelijke uitleg van het hof over te doen of te herevalueren terwijl daarvoor geen ruimte is in cassatie (randnummer 2.11). (2) Het lijkt verdedigbaar dat ook punten van overeenstemming bij het formuleren van het op te lossen probleem van belang kunnen zijn aangezien de inventiviteit van een uitvinding er juist in kan zijn gelegen dat met behoud van de al eerder in de stand van de techniek behaalde positieve onderzoeksresultaten een nieuwe inventieve stap wordt gezet (randnummer 2.13). (3) In het geval de positieve onderzoeksresultaten uit Howell buiten beschouwing zouden worden gelaten en alleen zou worden gekeken naar de verschillen in samenstelling tussen Howell en EP 138 wordt helemaal voorbij gegaan aan de vraag of sprake is van een fulvestrant-formulering die geschikt is voor de behandeling van borstkanker (randnummer 2.14).
+Uw Raad verwierp het cassatieberoep als eerder aangegeven met toepassing van art. 81 lid 1 RO. 
+ 
+
+
+2.21
+Op 24 januari 2019 heeft de TKB uitspraak gedaan over de geldigheid van octrooi EP 573. De TKB heeft de therapeutische indicatie eveneens bij de probleemstelling betrokken hetgeen erop duidt dat punten van overeenstemming inderdaad onder omstandigheden onderdeel kunnen zijn van het objectieve technische probleem. In dit verband heeft de TKB erop gewezen dat het bereiken van de voordelige effecten naar de vakman wist afhangt van de formulering van de fulvestrant-variant:  
+
+“5.3.2 (…) However having come to the conclusion that the achievement of effects is linked to the actual formulation (see point 5.2.3 above) the therapeutic indication as such must be part of the technical problem.
+(…) 
+
+
+5.3.3
+
+The technical problem is thus as follows: 
+The technical problem is the provision of a castor oil-based vehicle for a fulvestrant containing composition allowing for treatment of breast cancer by intramuscular injection.” 
+ 
+
+
+
+2.22
+Ook in onze zaak ligt aan de beslissing van het hof over de probleemstelling ten grondslag dat niet iedere fulvestrant-formulering geschikt is voor de behandeling van borstkanker. Volgens het hof was het probleem om een formulering te vinden voor de oplossing van de 250F/5C-Verhouding (a) die geschikt is voor de behandeling van borstkanker (b) die niet precipiteert en (c) waarbij sprake is van vertraagde afgifte gedurende twee weken. Uit rov. 4.5 blijkt dat het hof de positieve effecten uit Howell meeweegt omdat (naar de vakman op de prioriteitsdatum wist) niet elke CS-Formulering waarin de 250F/5C-Verhouding kon worden opgelost die effecten had en zelfs onvoorspelbaar was welke CS-Formuleringen deze effecten zouden hebben.  
+
+
+2.23
+Daarmee faalt de klacht dat de voordelige effecten uit Howell geen onderdeel van het objectieve probleem kunnen zijn omdat deze niet uit de verschilmaatregelen volgen. De probleemstelling berust ook hier op een feitelijke uitleg die in cassatie niet kan worden overgedaan. Verder blijft verdedigbaar dat punten van overeenstemming bij het formuleren van het probleem van belang kunnen zijn. Eveneens heeft in deze zaak te gelden dat wanneer de positieve onderzoeksresultaten uit Howell buiten beschouwing blijven voorbij wordt gegaan aan de vraag of sprake is van een fulvestrant-formulering die geschikt is voor de behandeling van borstkanker. Daarom mocht het hof volgens mij ook de positieve effecten in de probleemstelling betrekken.  
+
+
+2.24
+Tot slot stelt Sandoz in haar s.t. onder 75 (toelichting op onderdeel Ib) dat het hof heeft nagelaten te onderzoeken of (i) het vastgestelde probleem (in het bijzonder precipitatie) door de geclaimde uitvinding daadwerkelijk is opgelost38 (ii) de Octrooien plausibel maken dat dit probleem (in het bijzonder precipitatie) door de geclaimde uitvinding wordt opgelost39 en (iii) de technische effecten die als oplossing worden gepresenteerd (in het bijzonder de werking tegen borstkanker niet-precipitatie en vertraagde afgifte) zijn toe te schrijven aan de verschilmaatregelen40. AstraZeneca stelt dat deze klachten in het middel niet zijn geformuleerd (dupliek onder 26). 
+
+
+2.25
+De in de s.t. 75 onder (iii) genoemde klacht ligt in mijn optiek in het verlengde van subonderdeel Id (ii). De klacht faalt op de bij de bespreking daarvan te noemen gronden. De in de s.t. 75 onder (i) en (ii) geformuleerde klachten heb ik in de procesinleiding niet gelezen. Verder wordt in de s.t. 75 onder (i) en (ii) niet verwezen naar stellingen in feitelijke instanties. Bij gebreke van stellingen op dit punt van Sandoz (die in dit kader de bewijslast draagt zie rov. 4.2 (a)) behoefde het hof niet te beoordelen of het vastgestelde probleem door de geclaimde uitvinding is opgelost en of de Octrooien dit plausibel maken. Deze klachten missen dus feitelijke grondslag.  
+
+
+2.26
+Onderdelen Ia en Ib zijn gelet op dit een en ander tevergeefs voorgesteld.  
+
+
+2.27
+
+Onderdeel Ic komt op tegen de overweging dat op de prioriteitsdatum onvoorspelbaar was welke CS-Formuleringen waarin de 250F/5C-Verhouding kon worden opgelost de positieve effecten uit Howell zouden hebben (rov. 4.5 slot). Volgens het onderdeel heeft het hof hiermee miskend dat deze (vermeende) onvoorspelbaarheid niet relevant is bij het vaststelling van het objectieve technische probleem. De vraag of sprake is van onvoorspelbaarheid acht Sandoz alleen (mogelijk) van belang bij de beoordeling van de derde vraag van de PSA. Het hof is verder volgens de klacht buiten de rechtsstrijd van partijen getreden aangezien AstraZeneca geen stellingen heeft ingenomen over deze onvoorspelbaarheid41. Bovendien acht Sandoz het oordeel van het hof onbegrijpelijk nu zij heeft aangevoerd dat het effect van de verschillen tussen EP 138 en Howell (enkel) de verstrekking van de formulering van fulvestrant is42 en het hof deze stelling niet heeft verworpen. Voor zover het hof heeft bedoeld dat Howell niet nawerkbaar zou zijn is dat ook onbegrijpelijk omdat Sandoz heeft gesteld dat en waarom Howell nawerkbaar is43 en het hof daarover niet anders heeft geoordeeld. 
+
+
+2.28
+Het hof heeft in rov. 4.5 overwogen dat de vakman op de prioriteitsdatum wist dat niet elke CS-Formulering waarin de 250F/5C-Verhouding kon worden opgelost de voordelige effecten uit Howell had en dat zelfs onvoorspelbaar was welke CS-Formuleringen die effecten zouden hebben. Volgens mij mocht het hof deze omstandigheid betrekken bij de vraag of de positieve effecten uit Howell onderdeel vormen van het objectieve technische probleem. Zouden de positieve effecten uit Howell – naar de vakman op de prioriteitsdatum wist – bij iedere oplossing van de 250F/5C-Verhouding optreden dan is het behoud van deze effecten geen (objectief technisch) probleem. Er bestaat in zoverre een (objectief technisch) probleem als onbekend en onvoorspelbaar is bij welke CS-Formulering de positieve effecten uit Howell zich voordoen. Deze onvoorspelbaarheid is dus van belang voor het oordeel dat de positieve effecten uit Howell tot de probleemstelling behoren. 
+
+
+2.29
+Het hof is met zijn oordeel niet buiten de grenzen van de rechtsstrijd getreden. Naar de onbestreden vaststelling van het hof in rov. 4.2 onder (c) heeft Sandoz namelijk zelf in haar PA onder 37 en 46 gesteld dat op de prioriteitsdatum onvoorspelbaar was bij welke CS-Formulering de betreffende effecten zouden optreden44. De rechtbank heeft overigens eveneens uit de stellingen van partijen opgemaakt dat onvoorspelbaar was bij welke CS-Formuleringen de positieve effecten uit Howell zich voordoen zie rov. 4.30 van het vonnis: “Niet in geschil is dat op de prioriteitsdatum algemeen bekend was dat de samenstelling van een formulering geen voorspellende waarde heeft voor het afgifte-profiel en de verdraagbaarheid. Dit moet altijd per formulering onderzocht worden.” Ook de andere klachten van onderdeel Ic zijn naar mijn mening vergeefs voorgesteld. Het hof heeft onder ogen gezien dat de verschillen tussen Howell en EP 138 alleen betrekking hebben op de fulvestrant-formulering (rov. 1k derde aandachtsstreepje laatste zin). Dit laat onverlet dat het hof mocht oordelen dat de positieve effecten uit Howell onderdeel zijn van het objectieve technische probleem. Ik verwijs naar de bespreking van subonderdelen Ia en Ib. De klacht die is geformuleerd voor het geval het hof heeft bedoeld dat Howell niet nawerkbaar is lijkt mij feitelijk grondslag te ontberen. Dit oordeel heb ik in het arrest niet gelezen. Het hof heeft alleen de nawerkbaarheid van McLeskey en EP 138 beoordeeld (zie rov. 8.3).  
+
+
+2.30
+Dit betekent dat onderdeel Ic ook niet opgaat.  
+
+
+2.31
+
+Onderdeel Id (randnummers 36-38 van de procesinleiding in cassatie) stelt dat het oordeel van het hof over de inventiviteit onbegrijpelijk is. Het onderdeel vangt aan met vijf als (i) tot en met (v) genummerde motiveringsklachten (randnummer 36). Ik bespreek eerst deze klachten en vervolgens de klachten uit randnummers 37 en 38.  
+
+
+2.32
+Onderdeel Id (i) acht onbegrijpelijk waarom Howell naar het oordeel van het hof “geen precipitatie” leert. Volgens Sandoz heeft zij uiteengezet dat Howell niet leert dat zich “geen precipitatie” zou voordoen. Zo stelde Sandoz het volgende45: “Volgens Howell ontwikkelde één patiënt ( van de 19) blauwe plekken op de bil; een tweede patiënt ontwikkelde gevoeligheid op de injectieplaats; en een derde patiënt had lokaal erytheem op de injectieplaats”. Naar de mening van Sandoz had het hof in rov. 4.5 daarom niet mogen aannemen dat in de stellingen van Sandoz besloten ligt dat Howell het effect van niet-precipitatie zou leren (zie ook s.t. onder 110 (i)).  
+
+
+2.33
+Deze klacht is volgens mij tevergeefs voorgesteld. Sandoz citeert in haar klacht uit haar Pltn EA onder 66. Zij heeft aldaar de volgende conclusie aan deze stellingen verbonden: “Het optreden van deze eenmalige bijwerkingen is verenigbaar met de bevinding dat de langwerkende op castorolie gebaseerde formulering van fulvestrant die in Howell werd gebruikt “lokaal goed werd verdragen op de plaats van injectie ondanks het grote volume (5 ml) dat werd toegediend” (zie pagina 303 “Bijwerkingen”). Ook deze “effecten” zijn dus bekend uit Howell en dienen dus niet in het probleem te worden opgenomen.” Hieruit mocht het hof dan ook de conclusie trekken dat Howell in de visie van Sandoz geen in het kader van de verdraagbaarheid relevante precipitatie leert. Bovendien heeft Sandoz geen belang bij haar klacht. In EP 138 wordt het effect “niet-precipitatie” beschreven (zie hiervoor 2.17). De gegrondheid van de klacht zou (kunnen) betekenen dat Howell dit effect niet leert. Wanneer Howell het aspect “niet-precipitatie” niet leert en EP 138 wel dan zou eens te meer gelden dat het aspect “niet-precipitatie” onderdeel vormt van het objectieve technische probleem.  
+
+
+2.34
+Volgens onderdeel Id (ii) is – gezien het toetsingskader dat is uiteengezet in onderdeel Ib – onbegrijpelijk waarom het hof de in rov. 4.5 genoemde voordelige effecten waaronder “niet-precipitatie” meeneemt in het objectieve technische probleem. Het hof heeft namelijk niet kenbaar vastgesteld welke effecten uit de verschilmaatregelen volgen. Dit klemt temeer nu Sandoz heeft aangevoerd dat de specifieke formulering de enige verschilmaatregel is dat de hieraan verbonden effecten niet de elementen “werking tegen borstkanker” “niet-precipitatie” en “vertraagde afgifte” zijn46; en het hof zonder (steekhoudende) motivering aan deze stellingen voorbij is gegaan.  
+
+
+2.35
+Ook deze klacht faalt volgens mij. Het hof heeft zoals gezegd onder ogen gezien dat de verschillen tussen Howell en EP 138 alleen betrekking hebben op de specifieke formulering (rov. 1k derde aandachtsstreepje laatste zin). Het hof heeft desondanks geoordeeld dat de positieve effecten uit Howell onderdeel zijn van het objectieve technische probleem. Het hof heeft in dat kader overwogen dat naar de vakman op de prioriteitsdatum wist niet elke CS-Formulering waarin de 250F/5C-Verhouding kon worden opgelost de betreffende voordelige effecten had en dat zelfs onvoorspelbaar was welke CS-Formuleringen deze effecten zouden hebben. Hieruit volgt dat het een (objectief technisch) probleem was om een CS-Formulering te vinden waarin de voordelige effecten “werking tegen borstkanker” “niet-precipitatie” en “vertraagde afgifte” behouden blijven. Het hof heeft in dat licht voldoende gemotiveerd waarom deze positieve effecten hoewel deze ook al waren vermeld in Howell in dit geval eveneens deel uitmaken van het objectieve technische probleem van EP 138.  
+
+
+2.36
+Onderdeel Id (iii) betoogt dat onbegrijpelijk is waarom (doorslaggevend) belang zou toekomen aan het aspect “geen precipitatie” (door toedoen van een hoog percentage alcohol) op de wijze zoals het hof in rov. 4.4 e.v. heeft gedaan. Sandoz benoemt drie stellingen aangeduid als (a) (b) en (c) die hierbij van betekenis zouden zijn. Ook onderdeel 1d (iv) bevat een stelling die Sandoz in dit kader relevant acht.   
+
+
+2.37
+Onderdeel Id (iii) (a) betreft de stelling van Sandoz dat de uitvindingsgedachte van de Octrooien juist schuilt in het terugbrengen (verlagen) van de hoeveelheid alcohol in de CS-Formulering komende van 40% zoals reeds bekend in de stand van de techniek47 en dat de Octrooien zelf stellen dat dezelfde resultaten verwacht kunnen worden bij hogere percentages alcohol dan getest in de Octrooien48.  
+
+
+2.38
+Deze stelling berust kennelijk op paragraaf [0014] van EP 138. In die paragraaf wordt een alcoholpercentage van 40% als ongewenst bestempeld (zie ook vonnis rov. 4.36). In de prioriteitsaanvragen uit 2000 is hierover onder meer vermeld dat een deel van de Japanse bevolking intolerant is voor ethanol en dat grote hoeveelheden alcohol cultureel niet worden geaccepteerd in islamitische landen49. Dit betekent echter niet dat het verlagen van de hoeveelheid alcohol in de CS-Formulering de uitvindingsgedachte van EP 138 is. Dit blijkt uit hetgeen het hof in rov. 5.4 heeft overwogen over de vraag of er voor de vakman een incentive was om McLeskey in de zoektocht te betrekken. Het hof heeft als onweersproken vastgesteld dat wanneer een CS-Formulering met de 250F/5C-Verhouding voor een groot percentage uit alcohol bestaat zoveel van die alcohol wegdiffundeert dat fulvestrant in de castorolie achterblijft in een (oververzadigde) concentratie zodat normaal gesproken fulvestrant neerslaat met precipitatie tot gevolg. Daarna heeft het hof de rapporten Crommelin I en II50 (overgelegd door AstraZeneca) en het vijfde rapport van Vromans van 22 maart 201751 (overgelegd door Sandoz) beoordeeld. Volgens het hof moet er met AstraZeneca vanuit worden gegaan dat het in de McLeskey-formulering genoemde alcoholpercentage van 20 zo hoog is dat de vakman op de prioriteitsdatum het optreden van precipitatie zou verwachten. Voor wat betreft het alcoholpercentage is dus de crux dat een relatief hoog percentage zoals genoemd in McLeskey (20%) tegen de verwachting van de vakman op de prioriteitsdatum niet leidt tot precipitatie. 
+
+
+2.39
+In onderdeel Id (iii) (b) wijst Sandoz op haar stelling dat de gemiddelde vakman bij een onderzoek naar een fulvestrant-formulering een zekere mate van precipitatie of zelfs irritatie aanvaardbaar zal achten en dat dit ook een veelvoorkomende bijwerking is van veel geneesmiddelen. Volgens Sandoz kan het element “geen precipitatie” daarom geen deel uitmaken van het objectieve technische probleem zeker nu het hier gaat om een behandeling voor een zeer serieuze aandoening (waardoor niet-serieuze bijwerkingen zoals irritatie niet snel een zwaarwegend bezwaar vormen)52. 
+
+
+2.40
+Ik denk dat het hof deze stellingen niet in zijn beoordeling behoefde te betrekken. Bij de vaststelling van het objectieve technische probleem gaat het erom welk probleem het octrooi beoogt op te lossen en niet of een bepaald aspect van dit probleem (hier: precipitatie die kan leiden tot irritatie of ontsteking) door de gemiddelde vakman “aanvaardbaar” wordt geacht dan wel door de gebruikers als “zwaarwegend bezwaar” wordt ervaren. Daar komt bij dat irritatie en ontsteking naar algemeen bekend mag worden verondersteld in veel gradaties voorkomt. Huidirritatie of ontsteking als gevolg van precipitatie door het uitkristalliseren van fulvestrant waar het hier om gaat (rov. 5.4) kan dus niet zonder meer worden gekenschetst als een niet-serieuze bijwerking. 
+
+
+2.41
+Onderdeel Id (iii) (c) wijst op de stellingen dat precipitatie op zichzelf geen bezwaar is dat precipitatie niet hetzelfde is als irritatie dat precipitatie niet tot irritatie hoeft te leiden dat precipitatie voor de patiënt niet voelbaar hoeft te zijn en dat necrose geen gevolg is van precipitatie53. Deze stellingen maken het oordeel van het hof evenmin onbegrijpelijk. Zij laten namelijk onverlet dat precipitatie zoals de beschrijving van EP 138 vermeldt een mogelijke bron is van huidirritatie en ontsteking (arrest rov. 5.4 en vonnis rov. 4.22 met verwijzing naar de beschrijving onder [0037] zie hiervoor 1.14).  
+
+
+2.42
+Onderdeel Id (iv) betreft stellingen over Faslodex. Dit medicijn past (ook volgens AstraZeneca) de leer van de Octrooien toe. Sandoz wijst op haar stellingen dat in de Summary of Product Characteristics (“Smpc”) is opgenomen dat ‘vaak’ huid- of onderhuidaandoeningen optreden na toediening van Faslodex® en dat het niettemin een vergund en succesvol product is waarvan men deze huidaandoeningen na toediening graag op de koop toeneemt in ruil voor behandeling van borstkanker54. 
+
+
+2.43
+Ook de stelling dat Faslodex ondanks de mogelijkheid van (onder)huidaandoeningen vergund en succesvol is mocht het hof denk ik buiten beschouwing laten. Precipitatie is het enige verdraagbaarheidselement dat in EP 138 is onderzocht. Voor de probleemstelling (en daarmee de beoordeling van de inventiviteit) gaat het dus alleen om het voorkomen van precipitatie als mogelijke bron van huidirritatie en ontsteking (vonnis rov. 4.22). Het onderdeel wijst niet op stellingen waaruit blijkt dat de (onder)huidaandoeningen die kunnen optreden na toediening van Faslodex het gevolg zijn van precipitatie. Verder is voor de probleemstelling niet relevant of de fulvestrant-formulering ook zonder oplossing voor het probleem van precipitatie zou zijn vergund en succesvol zou zijn. Een uitvinding kan (mede) beogen een probleem op te lossen dat niet in de weg staat aan vergunningverlening of commercieel succes.  
+
+
+2.44
+Onderdeel Id (v) is gericht tegen de uitleg in rov. 4.6 van alinea’s 29-30 van de PA van Sandoz. Volgens het onderdeel is deze uitleg onbegrijpelijk en is verder onbegrijpelijk waarom deze stellingen relevant zijn. De stellingen kunnen namelijk niet worden verstaan als het doen van afstand van het (uitvoerig uitgewerkte) primaire standpunt van Sandoz55. Ook valt volgens Sandoz niet in te zien dat met rov. 5.7 aan de door het hof genoemde voorwaarde is voldaan. Het hof heeft in rov. 5.7 alleen overwogen dat bekendheid met de resultaten uit Howell geen incentive oplevert. In de laatste plaats valt niet in te zien waarom de bekendheid van de gunstige effecten uit Howell zoals het hof in het bijzonder in rov. 5.4 overwoog een contra-indicatie oplevert56. 
+
+
+2.45
+Uitgangspunt is hier dat de uitleg van gedingstukken is voorbehouden aan de feitenrechter en alleen op begrijpelijkheid kan worden getoetst57. Het lijkt mij dat het hof niet heeft geoordeeld dat Sandoz bij PA onder 29-30 afstand heeft gedaan van haar primaire standpunt over de voordelige effecten uit Howell. Het hof heeft deze passages als volgt begrepen (vgl. rov. 4.6). Sandoz acht nog steeds van belang dat de voordelige effecten al bekend waren uit Howell. Zij kan er echter mee leven dat die voordelige effecten desondanks overeenkomstig het vonnis in stap 2 van de PSA (de probleemstelling) worden betrokken. Die duiding van het standpunt van Sandoz stemt overeen met PA 29-30 (zie hiervoor 1.16).  
+
+
+2.46
+Dit brengt mij bij de klacht die betrekking heeft op de vervulling van de voorwaarde waaronder Sandoz kan leven met de probleemstelling van de rechtbank. Deze voorwaarde is dat het besef blijft dat de voordelige effecten al bekend waren uit Howell. Het hof heeft overwogen dat aan die voorwaarde wordt voldaan en daaraan toegevoegd “(zie ook rov. 5.7 hierna)”. In rov. 5.7 is overwogen dat de in EP 138 genoemde gunstige effecten al bekend waren uit Howell. Sandoz wijst er op zich terecht op dat rov. 5.7 specifiek gaat over de vraag of er een incentive was om de oplossing te zoeken in McLeskey. Zij betoogt in cassatie echter niet (voldoende gemotiveerd) dat het hof bij de andere aspecten van de inventiviteitsvraag zou hebben miskend dat de gunstige effecten “werking tegen borstkanker” “niet-precipitatie” en “vertraagde afgifte” al bekend waren uit Howell. Aangezien het hof deze omstandigheid zowel in rov. 4.5-4.6 als in rov. 5.7 heeft benoemd ligt het niet in de rede dat het hof hieraan bij de verdere beoordeling voorbij zou hebben gezien.  
+
+
+2.47
+Daarmee kom ik toe aan de klacht dat onbegrijpelijk is waarom de stellingen in de PA onder 29-30 relevant zouden zijn. Ook die klacht zie ik niet slagen. In haar PA onder 29-30 heeft Sandoz aangegeven te kunnen leven met de probleemstelling van de rechtbank (mits het besef er maar blijft dat de voordelige effecten al bekend waren uit Howell). Naar de vaststelling van het hof heeft ook AstraZeneca die probleemstelling zij het veronderstellenderwijs aanvaard (rov. 4.6 onder verwijzing naar AD onder 14). Daaruit volgt dat partijen kennelijk niet langer bezwaar tegen de probleemstelling van de rechtbank maakten zodat het hof daarbij ook om die reden mocht aansluiten.  
+
+
+2.48
+In het arrest heb ik anders dan Sandoz niet gelezen dat de bekendheid van de gunstige effecten uit Howell een contra-indicatie zou opleveren. Het hof heeft in rov. 5.4 overwogen dat er in dit geding vanuit moet worden gegaan dat het in McLeskey genoemde alcoholpercentage van 20 zo hoog is dat de vakman op de prioriteitsdatum het optreden van precipitatie zou verwachten. Dat vormde naar het oordeel van het hof een contra-indicatie om de CS-formulering van McLeskey in beschouwing te nemen als mogelijke (bijdrage aan de) oplossing van het onderdeel van het probleem om een niet-precipiterende formulering te krijgen (een pointer-away). De contra-indicatie is volgens het hof dus niet gelegen in (de bekendheid van ) de gunstige effecten uit Howell.  
+
+
+2.49
+De klachten over de uitleg van de PA onder 29-30 slagen daarom in mijn ogen niet. Hiermee zijn ook alle klachten uit randnummer 36 van de procesinleiding in cassatie besproken.   
+
+
+2.50
+Onderdeel Id (v) betoogt in randnummer 37 dat het oordeel van het hof innerlijk tegenstrijdig is. Daartoe wordt erop gewezen dat het hof enerzijds vaststelt dat een formulering geen voorspellende waarde heeft (zie rov. 4.2c) maar anderzijds (i.h.b. in rov. 5.4) oordeelt dat de vakman zal “verwachten” dat de formulering van McLeskey (althans het daarin genoemde alcoholpercentage) tot precipitatie zal leiden. 
+
+
+2.51
+Deze klacht mist volgens mij feitelijke grondslag. Het hof heeft in rov. 4.2 onder (c) mijns inziens niet in algemene zin geoordeeld dat een formulering geen voorspellende waarde heeft. Het hof overweegt daar dat op de prioriteitsdatum onvoorspelbaar was bij welke CS-Formuleringen de effecten “niet-precipitatie” en “vertraagde afgifte” zouden optreden. Het hof verwijst naar de PA van Sandoz onder 37 en 46. Dat is niet onbegrijpelijk. In de PA onder 37 stelt Sandoz namelijk onder meer: “Op zich is het juist dat de vakman vooraf niet weet of hij die effecten zal krijgen. Het is immers niet te voorspellen in welke mate de formulering met deze oplosmiddelen zal precipiteren en ook weet de vakman niet zeker of de formulering de vertraagde afgifte geeft. Dat zal de vakman altijd moeten testen.” Rov. 5.4 gaat over het in McLeskey genoemde alcoholpercentage (20%). Na een weging van de standpunten van partijen en de rapporten van de partij-deskundigen concludeert het hof dat er met AstraZeneca vanuit moet worden gegaan dat de vakman op de prioriteitsdatum bij dit alcoholpercentage het optreden van precipitatie zou verwachten (zie hiervoor ook 2.38). Dat onvoorspelbaar was bij welke CS-Formuleringen “niet-precipitatie” en “vertraagde afgifte” optreedt is niet onverenigbaar met het oordeel dat de vakman op de prioriteitsdatum zou verwachten dat precipitatie optreedt bij een alcoholpercentage van 20. Er bestaat zodoende volgens mij geen tegenstrijdigheid tussen rov. 4.2 (c) en 5.4. 
+
+
+2.52
+Tot slot bevat onderdeel Id (v) in randnummer 38 een voortbouwende klacht tegen rov. 4.7 e.v. en het dictum. Het gaat hierbij in het bijzonder om het oordeel over de derde stap van de PSA en de weging van de omstandigheden in dat kader. Deze klacht heeft geen zelfstandige betekenis en deelt het lot van de overige onderdelen.  
+
+
+2.53
+Samenvattend falen in mijn visie zowel de klachten die zich richten tegen rov. 4.5 (de materiële beoordeling van het objectieve technische probleem) als de klachten over de uitleg in rov. 4.6 van het standpunt in de PA van Sandoz onder 29-30.  
+
+
+2.54
+Ik heb mij ook afgevraagd wat rechtens is als alleen rov. 4.5 of uitsluitend rov. 4.6 met succes zou worden bestreden. Het lijkt mij niet ondenkbaar dat het cassatieberoep in dat geval bij gebrek aan belang faalt58. De materiële beoordeling in rov. 4.5 kan de slotsom van het hof over het objectieve technische probleem namelijk zelfstandig dragen. Datzelfde geldt mogelijk ook voor het in rov. 4.6 besloten liggende oordeel dat partijen niet langer bezwaar maken tegen de probleemstelling van de rechtbank.  
+
+
+2.55
+Het principaal cassatieberoep acht ik gelet op het besprokene ongegrond.  
+
+
+Het incidenteel cassatieberoep
+
+ 
+
+
+2.56
+Het incidenteel cassatieberoep van AstraZeneca bestaat uit onderdelen I IIA en IIB. De onderdelen zijn gericht tegen de overweging dat het ervoor moet worden gehouden dat Fulvestrant Sandoz in Nederland nimmer op de markt is geweest en de (daarop gegronde) afwijzing van de vorderingen met betrekking tot de opgave van afnemers en genoten winst de recall en betaling van schadevergoeding (rov. 10.2).  
+
+
+2.57
+
+Onderdeel I strekt ten betoge dat Sandoz niet in het algemeen het verweer heeft gevoerd dat haar product niet op de markt is geweest. AstraZeneca heeft in haar CvA/CvE rec gesteld dat Sandoz per 1 juli 2016 op de markt had willen komen en haar generieke product daarom in juni 2016 in de G-standaard59 heeft opgenomen60. In het petitum van haar reconventie vordert AstraZeneca de bedoelde opgave van afnemers (onder B3) opgave van genoten winst (onder B6) de recall (onder B4) en  schadevergoeding op te maken bij staat (onder B8). Sandoz heeft als verweer gevoerd dat haar product niet op de markt is geweest omdat haar dit bij vonnis in kort geding van 27 juli 2016 was verboden61. Na het vonnis in de bodemzaak van 11 april 2018 heeft het kort geding zijn werking verloren. Sandoz heeft haar verweer niet aangevuld. Daarom moet er volgens AstraZeneca vanuit worden gegaan dat Sandoz geen verweer heeft gevoerd met betrekking tot de periode waarin de uitspraak in kort geding niet (langer) gold. AstraZeneca wijst erop dat zij bij CvA/CvE rec niet meer kon aanvoeren dan zij heeft gedaan omdat de uitspraak in kort geding toen nog van kracht was en dat het petitum B8 van de CvA/CvE rec duidelijk zag op de situatie dat het kort geding vonnis zijn kracht zou verliezen. Tot slot doet zij een beroep op stellingen uit de gedingstukken in het incident ex art. 223 Rv62. Hieruit blijkt van een herinschrijving van Fulvestrant Sandoz in de G-standaard per 2018. Ook zou daaruit volgen dat Sandoz niet heeft bestreden dat zij op 1 juni 2018 op de markt is gekomen.  
+
+
+2.58
+Ik zie dit onderdeel niet opgaan. Eerste gezichtspunt is dat het hier gaat om vorderingen die zijn ingesteld door AstraZeneca. Zij draagt op grond van art. 150 Rv de stelplicht en bewijslast met betrekking tot haar betoog dat Fulvestrant Sandoz in Nederland op de markt is gekomen. In eerste aanleg heeft Sandoz het verweer gevoerd dat zij niet met haar Fulvestrant Sandoz op de markt is geweest hetgeen AstraZeneca niet heeft weersproken (rov. 10.2 eerste zin). In hoger beroep heeft AstraZeneca in het incident ex art. 223 Rv aangevoerd dat zij er vanuit gaat dat Sandoz per 1 juni 2018 met haar fulvestrant de Nederlandse markt zou betreden. Het hof heeft die stelling onder ogen gezien maar niet toereikend geacht omdat AstraZeneca bij pleidooi in de hoofdzaak op 11 oktober 2018 niet heeft gesteld dat Sandoz daadwerkelijk met haar fulvestrant op de markt was (rov. 10.2 derde zin). In deze overweging ligt besloten dat AstraZeneca niet (voldoende gemotiveerd) heeft gesteld dat Sandoz met haar product op de markt is gekomen toen de uitspraak in kort geding door het wijzen van het vonnis in de bodemzaak op 11 april 2018 haar werking had verloren. Sandoz was in deze situatie niet gehouden om te betwisten dat zij haar fulvestrant in 2018 op de markt heeft gebracht.  
+
+
+2.59
+In onderdeel IIA voert AstraZeneca aan dat het hof de afwijzing van de vordering tot schadevergoeding alleen baseert op de overweging dat Fulvestrant Sandoz niet op de markt is geweest. Het hof heeft daarbij volgens de klacht over het hoofd gezien dat ook andere inbreuken dan het op de markt brengen van het product zoals het opnemen van het product in de G-standaard tot schade kunnen leiden. Dit volgt onder meer uit Haagse appelrechtspraak63. AstraZeneca wijst in dit verband op haar stelling dat Sandoz octrooi-inbreuk heeft gemaakt door het laten opnemen van haar generieke fulvestrant-formulering in de G-standaard64 en haar vordering in B8 van het petitum in reconventie om Sandoz te veroordelen tot het vergoeden van de schade door de inbreuk op het Europees octrooi. Sandoz heeft tegen deze vordering tot schadevergoeding wegens het opnemen in de G-standaard geen verweer gevoerd en het hof had die vordering daarom moeten toewijzen aldus AstraZeneca.  
+
+
+2.60
+Voor verwijzing naar de schadestaat geldt een lage drempel: noodzakelijk en voldoende is dat de mogelijkheid van schade aannemelijk is (art. 612 Rv)65. Het hof heeft deze maatstaf gehanteerd en daarbij tot uitgangspunt genomen dat Fulvestrant Sandoz in Nederland nooit op de markt is geweest. In dat licht heeft AstraZeneca naar het oordeel van het hof onvoldoende toegelicht waarom de mogelijkheid dat zij schade heeft geleden aannemelijk is.  
+
+
+2.61
+Ik meen zij het met enige aarzeling dat dit oordeel de toets der kritiek in cassatie (net) kan doorstaan. Het is goed voorstelbaar dat schade wordt geleden door een publicatie in de G-standaard omdat het geoctrooieerde medicijn vooruitlopend op de introductie van een (goedkoper) generiek medicijn minder wordt verkocht. Bestellingen van het geoctrooieerde product blijven achter de markt weet door opname in de G-standaard immers dat generieke producten in aantocht zijn. Dat enkele gegeven kan ook nog eens een irreversibel prijsdrukkend effect hebben. In de aangehaalde zaak Glaxo/Pharmachemie was zodanige omzetschade ook gesteld. In onze zaak heeft AstraZeneca evenwel niet gewezen op stellingen waarin zij betoogt omzetschade te hebben geleden door de vermelding van Fulvestrant Sandoz in de G-standaard. De vraag is of dat gelet op de lage drempel voor verwijzing naar de schadestaatprocedure wel mag worden verlangd in de omstandigheden van deze zaak. Ik denk het wel maar dat is een beslispunt voor Uw Raad. Ik kan dat nog als volgt toelichten. Uitgangspunt in onze zaak in cassatie moet zijn dat Fulvestrant Sandoz niet op de markt is geweest. Dit betekent dat een eventuele schade er niet uit kan bestaan dat afnemers gekozen hebben voor Fulvestrant Sandoz in plaats van het product van AstraZeneca. Het ligt immers voor de hand dat afnemers hun bestellingen alsnog bij AstraZeneca hebben geplaatst toen bleek dat op de vermeldingen in de G-standaard geen introductie van Fulvestrant Sandoz volgde. Dat maakt de hiervoor bedoelde omzetschade al minder aannemelijk. De eventuele schade zou dan alleen kunnen zijn gelegen in een mogelijk prijsdrukkend effect ten gevolge van de vermelding in de G-standaard van Fulvestrant Sandoz maar over zo’n mogelijk prijsdrukkend effect heeft AstraZeneca niets gesteld terwijl dat in mijn optiek rechtens wel van haar mocht worden verlangd. In dat licht acht ik niet onbegrijpelijk dat AstraZeneca de mogelijkheid van schade naar het oordeel van het hof niet (voldoende) aannemelijk heeft gemaakt.  
+
+
+2.62
+
+Onderdeel IIA ketst daar dan op af.
+Mocht moeten worden geoordeeld dat AstraZeneca hier wel de drempel voor verwijzing naar de schadestaatprocedure heeft geslecht dan slaagt deze klacht en zou Uw Raad na vernietiging op dit punt de zaak zelf af kunnen doen door naar de schadestaatprocedure te verwijzen. Maar als uiteengezet bepleit ik dat niet.
+ 
+
+
+2.63
+
+Onderdeel IIB is geformuleerd voor het geval het oordeel van het hof (mede) berust op de vaststelling dat Fulvestrant Sandoz alleen in juni 2016 in de G-standaard is opgenomen. AstraZeneca wijst op haar stelling in de incidentele memorie ex art. 223 Rv van 24 april 2018 dat zij ervan uitgaat dat Fulvestrant Sandoz in de eerstvolgende publicatie van de G-standaard wordt vermeld en dat Sandoz heeft geweigerd het tegendeel te bevestigen66. Verder wijst AstraZeneca op haar stelling in de pleitnota in het incident ex art. 223 Rv dat Fulvestrant Sandoz in de G-standaard van mei 2018 is opgenomen67. Sandoz heeft dit niet ontkend. Het hof was er dus mee bekend dat Fulvestrant Sandoz vanaf mei 2018 weer in de G-standaard was opgenomen.  
+
+
+2.64
+Deze klacht mist denk ik feitelijke grondslag. AstraZeneca refereert kennelijk aan de eerste zin van rov. 10.2. Het hof overweegt daar dat Sandoz in eerste aanleg het verweer heeft gevoerd dat zij met haar Fulvestrant Sandoz niet op de markt is geweest en dat dit product alleen in juni 2016 in de G-standaard opgenomen is geweest. Het vonnis in eerste aanleg is op 11 april 2018 is gewezen. Dit betekent dat de overweging over het verweer in eerste aanleg geen betrekking kan hebben op de situatie in mei 2018.  
+
+
+2.65
+Ook overigens kan de klacht niet tot cassatie leiden. De vermelding van Fulvestrant Sandoz in de G-standaard leidt niet tot toewijsbaarheid van de vorderingen met betrekking tot de opgave van afnemers en genoten winst de recall en betaling van schadevergoeding. Voor een recall en opgave van afnemers en genoten winst is pas aanleiding als het product op de markt is gebracht. De vermelding in de G-standaard is in dit geval om de in 2.61 genoemde redenen ook onvoldoende voor toewijzing van een vordering tot betaling van schadevergoeding op te maken bij staat.  
+
+
+2.66
+Het incidenteel cassatieberoep treft daarom in mijn ogen ook geen doel.  
+
+
+Proceskosten in cassatie
+
+ 
+
+
+2.67
+Op grond van het arrest LMR Advocaten/LR Advocaten68 moet ambtshalve worden beslist over de toewijsbaarheid en de hoogte van de proceskosten in IE-zaken. In het geval partijen overeenstemming hebben bereikt pleegt overeenkomstig deze afspraak te worden beslist en zal de rechter slechts in uitzonderlijke gevallen ingrijpen69. Dit geldt ook in octrooizaken70. Sandoz en AstraZeneca hebben ieder op de voet van art. 1019h Rv vergoeding van de kosten in cassatie gevorderd. Zij hebben overeenstemming bereikt over de omvang van de hiervoor op de voet van art. 1019h Rv toe te schatten kosten. Deze afspraak houdt in dat de proceskosten (zowel bij vernietiging als bij verwerping) tot en met de repliek en dupliek worden begroot op € 70.000 in het principaal cassatieberoep en op € 20.000 in het incidenteel cassatieberoep (s.t. Sandoz onder 127 en s.t. AstraZeneca onder 100 en p. 23 onder “conclusie”). Volgens mij kan dienovereenkomstig worden beslist.  
+
+
+
+
+3 Conclusie
+Ik concludeer in het principaal en het incidenteel cassatieberoep tot verwerping. 
+
+De Procureur-Generaal bij de
+Hoge Raad der Nederlanden
+ 
+
+A-G
+
+
+1
+ 	De feiten zijn ontleend aan rov. 1a-1l van het bestreden arrest: Hof Den Haag 27 november 2018 ECLI:NL:GHDHA:2018:3954 IEF 18122 LS&R 16674 IEPT20181127. Het laatste tekstblok van rov. 1g is in het principaal cassatieberoep bestreden. Daarom is dit gedeelte van rov. 1g niet in de feitenweergave vermeld. De weergave van het procesverloop in eerste aanleg en het vonnis is gebaseerd op rov. 2.1-2.2 van het bestreden arrest. 
+2
+
+Swiss-type claims zijn vormgegeven als doelgebonden werkwijzeconclusies aldus dat onder bescherming wordt gesteld “het gebruik van stof X voor de bereiding van een geneesmiddel voor de behandeling van ziekte Y”. Met de herziening van het Europees Octrooi Verdrag in 2000 (Trb. 2002/9 en Trb. 2002/62) in werking getreden op 13 december 2007 (Trb. 2007/233) zijn tweede medische indicatie-octrooien mogelijk gemaakt (het huidige art. 54 lid 5 EOV). De Grote Kamer van Beroep heeft op 19 februari 2010 beslist dat als gevolg van deze regeling het gebruik van Swiss-type claims niet meer is toegestaan. Die uitspraak heeft geen terugwerkende kracht zodat eerdere Swiss-type claims hun effect behouden. Zie: HR 3 november 2017 ECLI:NL:HR:2017:2807 NJ 2018/178 m.nt. Ch. Gielen JGR 2017/34 m.nt. M.D.B. Schutjens BIE 2017/27 m.nt. L.E. Dijkman (MSD/Teva Pharma c.s.). 
+3
+ 	Deze artikelen zien op het uitsluitend recht van de octrooihouder en de handhaving van het octrooi. Op 11 februari 2015 is de oppositieprocedure tegen EP 138 afgesloten. Volgens Sandoz is daarmee aan de in art. 77 lid 1 onder b ROW bedoelde termijn voldaan en heeft NL 075 dus niet meer de bedoelde rechtsgevolgen (zie vonnis rov. 3.2 onder (ii)). 
+4
+ 	Deze beschrijving van het procesverloop in hoger beroep berust mede op de weergave van “het verloop van het geding” op p. 1-2 van het bestreden arrest en rov. 3.2 van dat arrest.  
+5
+ 	Zie over deze Guidelines van het Europees Octrooibureau hierna in 2.10. 
+6
+ 	Rov. 8.3 verwijst kennelijk per abuis naar een (niet bestaande) rov. 3.4 (d).
+7
+ 	In het B-dossier ontbreken de gedingstukken in eerste aanleg van de zaak met nummer 17-651 over EP 573. Sandoz beroept zich in haar principaal cassatieberoep onder meer op stellingen uit de Dv EA en CvA rec en AstraZeneca refereert in haar incidenteel cassatieberoep onder meer aan stellingen uit de CvA/CvE rec en CvA rec. Het betreft hier klaarblijkelijk telkens de gedingstukken van de zaak met nummer 17-599 over EP 138. 
+8
+ 	Rov. 2.14 van het vonnis. De gronden van de beslissing van de OD d.d. 20 juli 2017 heeft AstraZeneca (in zaak 17-651 en in zaak 17-599) overgelegd als prod. 22 bij CvA/CvE rec. 
+9
+ 	ECLI:EP:BA:2019:T168017.20190124 (AstraZeneca/Hexal c.s.). Deze uitspraak wordt genoemd in AstraZeneca’s s.t. onder 24 en haar dupliek in cassatie onder 1 11 15c en 50. 
+10
+ 	HR 19 juli 2019 ECLI:NL:HR:2019:1261 RvdW 2019/918 IEF 18602. 
+11
+ 	BGH 16 april 2019 X ZR 59/17 (AstraZeneca/Hexal c.s.). Zie hierover s.t. Sandoz 44 en 110 (iii) onder b (p. 63) en dupliek in cassatie AstraZeneca onder 50. Deze uitspraak en een Engelse vertaling daarvan zijn als bijlage aan de s.t. van Sandoz gehecht. 
+12
+ 	Uitspraak Hungarian Intellectual Property Office 8 augustus 2018 nr. 230162 (Sandoz/ AstraZeneca) (prod. 49 bij akte Sandoz 11 oktober 2018 voorzien van Engelse vertaling). 
+13
+ 	Bundesgericht 8 mei 2018 4A_543/2017 (EP 138) en Bundesgericht 8 mei 2018 4A_541/2017 (EP 573). Zie s.t. Sandoz onder 44 en dupliek in cassatie onder 12. De beide uitspraken zijn met vertaling in geanonimiseerde vorm overgelegd als prod. 45 bij MvA. De uitspraak over EP 573 is tevens niet-geanonimiseerd en eveneens voorzien van een vertaling als prod. 31 bij akte AstraZeneca van 11 oktober 2018 in het geding gebracht. 
+14
+ 	Bundespatentgericht 27 mei 2019 O2018_009 (Mepha Schweiz/AstraZeneca). Deze uitspraak is voorzien van een vertaling aan de dupliek in cassatie gehecht. Uit de dupliek in cassatie onder 12 maak ik op dat ook tegen deze uitspraak cassatieberoep is ingesteld.
+15
+ 	HR 3 april 2015 ECLI:NL:HR:2015:838 RvdW 2015/479 JAR 2015/113 (Chromaflo/ […]) HR 12 december 2014 ECLI:NL:HR:2014:3593 NJ 2017/163 m.nt. W.D.H. Asser JOR 2015/92 m.nt. J.J. Dammingh TvPP 2015/1 p. 3 m.nt. F.J.P. Lock (Far Trading/Edco) rov. 4.5 en Asser Procesrecht/Bakels Hammerstein & Wesseling- van Gent 4 2018/133. 
+16
+HR 2 februari 2018 ECLI:NL:HR:2018:141 NJ 2018/98 m. red. aant. JOR 2018/140 m.nt. G.J.M. Verburg JIN 2018/57 m.nt. R.A.G. de Vaan (Goglio/SMQ Group) HR 19 september 2003 ECLI:NL:HR:2003:AI0268 NJ 2004/20 (Venture Fund/P&O Netherlands) HR 8 januari 1999 ECLI:NL:HR:1999:ZC2814 NJ 1999/320 (De Haas/ASC) HR 19 januari 1996 ECLI:NL:HR:1996:ZC1964 NJ 1996/709 m.nt. H.J. Snijders (Royal Nederland/Campina) conclusie A-G Rank-Berenschot voor HR 22 november 2019 ECLI:NL:PHR:2019:812 RvdW 2019/1214 onder 2.7 conclusie A-G Hartlief voor HR 18 mei 2018 ECLI:NL:PHR:2018:249 RvdW 2018/632 onder 4.10 Asser Procesrecht/Bakels Hammerstein & Wesseling- van Gent 4 2018/169 GS Burgerlijke Rechtsvordering (E.D. van Geuns en M.V.E.E. Jansen) art. 348 Rv aant. 2 en Snijders/Wendels Civiel appel 2009 nrs. 198-199.
+17
+ 	HR 7 februari 1997 ECLI:NL:HR:1997:ZC2272 NJ 1997/424 (Staat/Verbo) en R.P.J.L. Tjittes Rechtsverwerking en klachtplichten (Mon. BW nr. A6b) 2013/12. 
+18
+HR 17 februari 2017 ECLI:NL:HR:2017:273 NJ 2017/115 JA 2017/57 m.nt. E.W. Bosch (G/Goudse) HR 9 juli 2010 ECLI:NL:HR:2010:BM3912 NJ 2010/418 JBPr 2010/57 m.nt. F.J.H. Hovens ([…] / […]) HR 1 maart 2002 ECLI:NL:HR:2002:AD7319 NJ 2003/355 m.nt. H.J. Snijders ([…]) HR 8 december 2000 ECLI:NL:HR:2000:AA8895 NJ 2001/197 ( / […]) HR 11 december 1998 ECLI:NL:HR:1998:ZC2803 NJ 1999/341 (NDC/Osse) HR 3 september 1993 ECLI:NL:HR:1993:ZC1050 NJ 1993/714 (Qin Yun Yp/PTT Telecom) Stein/Rueb/Gras/Hendrikse/Jongbloed Compendium Burgerlijk procesrecht 2018/10.3.1 en Snijders/Wendels Civiel appel 2009 nr. 171. 
+19
+ 	Conclusie van 10 mei 2019 ECLI:NL:PHR:2019:608 onder 2.1 2.3-2.5 en 2.24-2.27. 
+20
+ 	Conclusie van 30 augustus 2019 ECLI:NL:PHR:2019:939 onder 2.3-2.11. Inmiddels is ook in die zaak het cassatieberoep verworpen met toepassing van art. 81 lid 1 RO: HR 22 november 2019 ECLI:NL:HR:2019:1833 RvdW 2019/1213 IEF 18844 LS&R 1759.
+21
+ 	De gemiddelde vakman beschikt bij wege van wettelijke fictie over alle voorhanden algemene vakkennis en heeft ook toegang tot de volledige stand van de techniek maar ontbeert iedere vorm van creativiteit vgl. Visser e.a. Visser’s Annotated European Patent Convention 2019 art. 56 nr. 2 Case law of the Boards of Appeal of the European Patent Office 2019 nr. I.D.8.1.1 (hierna: “Case law 2019” ook te raadplegen via: https://www.epo.org/law-practice/case-law-appeals/case-law.html) De Lange in: Geerts & Verschuur (red.) Kort begrip van het intellectuele eigendomsrecht 2018 nr. 53 (hierna geciteerd als: De Lange in: Kort begrip 2018) Schulte Patentgesetz mit Europäischem Patentübereinkommen 2017 p. 339-344 C. Birss (ed.) Terrell on the Law of Patents 2016 p. 203-218 en 359-363 Huydecoper/ Van der Kooij/ Van Nispen/Cohen Jehoram Industriële eigendom 1 2016 nr. 3.3.4.5 en de Guidelines for Examination in the European Patent Office (nov 2018) te raadplegen op: https://www.epo.org/law-practice/legal-texts/html/guidelines/e/g_vii_3.htm dus Part G – Patentability Chapter VII – Inventive step onder 3. Person skilled in the art (hierna te citeren als: Guidelines G-VII gevolgd door het paragraafnummer). Hierin staat dat de gemiddelde vakman ook tot zijn beschikking geacht wordt te hebben “the means and capacity for routine work and experimentation which are normal for the field of technology in question."
+22
+ 	Benkard Europäischen Patent Übereinkommen 2019 art. 56 nr. 23 Visser e.a. Visser’s Annotated European Patent Convention 2019 art. 56 nr. 6 Case law 2019 nr. I.D.2 De Lange in: Kort begrip 2018 nr. 53 vt. 107 Schulte Patentgesetz mit Europäischem Patentübereinkommen 2017 p. 335-339 Birss (ed.) Terrell on the Law of Patents 2016 p. 367-369 Huydecoper/ Van der Kooij/ Van Nispen/Cohen Jehoram Industriële eigendom 1 2016 nrs. 3.3.4.6-3.3.4.7 T.M. Blomme Inventiviteit in het octrooirecht BIE 2013 p. 192-193 J.H.J. den Hartog Inventiviteit de stand van zaken rond de “probleem en oplossing aanpak” BIE 2011 p. 220-231 conclusie A-G Verkade voor HR 3 oktober 2014 ECLI:NL:PHR:2014:224 NJ 2014/536 IER 2015/31 m.nt. J.C.S. Pinckaers AA 20150049 m.nt. Th.C.J.A. van Engelen BIE 2014/62 m.nt. J.H.J. den Hartog (Leo Pharma/Sandoz) onder 4.2-4.5 conclusie A-G Huydecoper voor HR 13 september 2013 ECLI:NL:PHR:2012:BY7837 NJ 2013/462 (GBT/Ajinomoto) onder 37-39 conclusie A-G i.b.d. Hammerstein voor HR 7 juni 2013 ECLI:NL:PHR:2013:BZ4115 NJ 2014/505 m.nt. Ch. Gielen IER 2014/21 m.nt. T.H.B. Iserief en A.M.E. Verschuur AA 20140050 m.nt. Th.C.J.A. van Engelen (Lundbeck/Tiefenbacher) onder 2.18 conclusie A-G Langemeijer voor HR 6 maart 2009 ECLI:NL:PHR:2009:BG7411 RvdW 2009/394 (Schneider/Cordis) onder 3.23 en conclsuie A-G Langemeijer voor HR 15 februari 2008 ECLI:NL:PHR:2008:BB5066 NJ 2008/450 (Rockwool/Isover) onder 2.24. 
+23
+Guidelines G-VII 5 Problem-solution approach met de subparagrafen 5.1 Determination of the closest prior art 5.2 Formulation of the objective technical problem 5.3 Could-would approach en 5.4 Claims comprising technical and non-technical features. Vgl. ook uitgebreid hoe deze methode in de rechtspraak van de Grote Kamer van Beroep en de Technische Kamers van Beroep van het EOB wordt toegepast: Case Law 2019 I.D.2-10 pp. 176-273.
+24
+ 	T 2044/09 ECLI:EP:BA:2014:T204409.20140211 (Larsen/Norferm) rov. 4.3 en T 1639/07 ECLI:EP:BA:T163907.20120217 (Canon Kabushiki Kaisha) rov. 2.5. Vgl. A. Harguth en S. Carlson Patents in Germany and Europe 2017 p. 82: “Prior to the formulation of the “objective technical problem” two sub-steps must be carried out: First it is necessary to objectively determine the distinguishing features representing the difference between the closest prior art and the claimed invention. Second it is then essential to identify the particular functions and effects achieved by these distinguishing features.”
+25
+ 	T 1422/12 ECLI:EP:BA:2013:T142212.20130411 (Teva Pharmaceutical) rov. 2.3.2 waarbij wordt verwezen naar T 13/84 ECLI:EP:BA:1996:T001384.19860515 (Roussel-Uclaf) en T 39/93 ECLI:EP:BA:1996:T003993.19960214 (Polymer powders). Zie ook T 1904/09 ECLI:EP:BA:2012:T190409.20121107 (ACMA/Weightpack) rov. 5.1.
+26
+De Lange in: Kort begrip 2018 nr. 53 vt. 107 Huydecoper/ Van der Kooij/ Van Nispen/Cohen Jehoram Industriële eigendom 1 2016 nr. 3.3.4.7 vt. 94 en J.H.J. den Hartog Inventiviteit de stand van zaken rond de “probleem en oplossing aanpak” BIE 2011 p. 220-231. 
+27
+ 	HR 7 juni 2013 ECLI:NL:HR:2013:BZ4115 NJ 2014/505 m.nt. Ch. Gielen IER 2014/21 m.nt. T.H.B. Ieserief en A.M.E. Verschuur AA 20140050 m.nt. Th.C.J.A. van Engelen en daarover: B.J. van den Broek The Lundbeck-saga Hoyng-bundel 2013 p. 65-87 en A. Tsoutsanis Finding Vredo (patent pending) BIE 2014 p. 41-45. 
+28
+ 	HR 3 oktober 2014 ECLI:NL:HR:2014:2900 NJ 2014/536 IER 2015/31 m.nt. J.C.S. Pinckaers AA 20150049 m.nt. Th.C.J.A. van Engelen BIE 2014/62 m.nt. J.H.J. den Hartog. 
+29
+ 	Zie mijn conclusie van 10 mei 2019 ECLI:NL:PHR:2019:608 (kort geding Sandoz/AstraZeneca) onder 2.42 en vt. 48 en mijn conclusie van 30 augustus 2019 ECLI:NL:PHR:2019:939 (Coloplast/Medical4You) onder 2.11 en vt. 48. De vraag of sprake is van recht in de zin van art. 79 RO kan relevant zijn omdat de rechtsklachten alleen in zoverre door Uw Raad (kunnen) worden getoetst. 
+30
+ 	HR 13 september 2013 ECLI:NL:HR:2013:690 NJ 2013/462 (GBT/Ajinomoto) conclusie A-G Huydecoper voor dat arrest onder 35-36 HR 15 februari 2008 ECLI:NL:HR:2008:BB5506 NJ 2008/450 (Rockwool/Isover) en HR 23 juni 1995 ECLI:NL:HR:1995:ZC1769 NJ 1996/463 m.nt. D.W.F. Verkade BIE 1997/41 m.nt. J.H.J. den Hartog (Organon/ARS). 
+31
+ 	Dit wil zeggen dat de octrooihouder zich bij de verleningsprocedure bescheiden opstelt en daarna een ruime bescherming pretendeert. Sandoz verwijst in haar s.t. onder 71 naar HR 5 februari 2016 ECLI:NL:HR:2016:196 NJ 2016/496 m.nt. Ch. Gielen AA20160650 m.nt. Th.C.J.A. van Engelen (Bayer/Sandoz) rov. 3.4.2 en Rb Den Haag 23 september 2009 IEF 8221 (Sanofi/Ratiopharm) rov. 4.10. Zie verder uitvoerig: W.A. Hoyng “De dood van de Angorakat?” in: Een eigen oorspronkelijk karakter (Spoorbundel) 2007 p. 143-156. 
+32
+ 	Hierbij wordt de aandacht afgeleid van waar het werkelijk om gaat. Sandoz verwijst in haar s.t. onder 72 naar T 0388/12 ECLI:EP:BA:2017:T038812.20170307 (Gemalto/Vasco Data Security) rov. 5.3.2 T 0088/07 ECLI:EP:BA:2009:T008807.20090210 (Bristol-Myers/BASF & Hartman) rov. 4.5 en T 0067/98 ECLI:EP:BA:2001:T006798.20011009 (ExxonMobil/Lubrizol) rov. 3.5. De term red herring (letterlijk: rode haring) wordt in het Nederlands vertaald als “een afleidingsmanoeuvre” en wordt bijvoorbeeld vaak in detectives gebruikt om de aandacht van de lezer of kijker af te leiden van de degene die uiteindelijk de dader zal blijken te zijn. 
+33
+ 	Dv EA 101-102. 
+34
+ 	Dv EA 128. 
+35
+ 	Dv EA 43 CvA EA 186-188 en de daar opgenomen tabellen. 
+36
+ 	Sandoz heeft dit onderdeel in haar s.t. onder 84-94 uitgewerkt met verwijzing naar Guidelines G-VII 5 en G-VII 5.2 Huydecoper/ Van der Kooij/ Van Nispen/Cohen Jehoram Industriële eigendom 1 2016 p. 98 e.v. T 1433/14 ECLI:EP:BA:2018:T143314.20181002 (Bogoch/ […] Vaccines) T 0698/10 ECLI:EP:BA:2015:T069810.20150427 (Broadcom Corporation) rov. 4.5 T 1933/11 ECLI:EP:BA:2015:T193311.20150310 (Solvay Specialty Polymers/BASF) rov. 9.1 T 2044/09 ECLI:EP:BA:2014:T204409.20140211 (Larsen/Norferm) T 1422/12 ECLI:EP:BA:2013:T142212.20130411 (Teva Pharmaceutical) rov. 2.3.2 HR 15 september 2017 ECLI:NL:HR:2017:2363 NJ 2018/144 m. red. aant. IER 2017/67 m.nt. F.W.E. Eijsvogels (KPN/Highpoint) Hof Den Haag 7 november 2017 ECLI:NL:GHDHA:2017:4029 BIE 2018/2 en BIE 2018/8 m.nt. H.J. Pot (Leo Pharma/Sandoz) Rb Den Haag 19 oktober 2016 ECLI:NL:RBDHA:2016:12523 BIE 2016/14 (Innovations 4 Flooring/Unilin) Rb Den Haag 7 september 2016 ECLI:NL:RBDHA:2016:10815 IEF 16236 LS&R 1371 (Teva/Boehringer) Rb Den Haag 27 juli 2016 ECLI:NL:RBDHA:2016:8596 BIE 2016/34 m.nt. K.M.L. Bijvank IEF 16148 (Accord/Medac) en Rb Den Haag 2 oktober 2013 ECLI:NL:RBDHA:2013:15067 BIE 2014/1 m.nt. K.M.L. Bijvank IEF 13099 (Teva/Sanofi). 
+37
+ 	Dv EA 43 betreft geen inbreukanalyse. In CvA/CvE rec 186-188 vergelijkt AstraZeneca conclusies 1 27 en 30 van het Octrooi met het product van Sandoz. Precipitatie wordt daar niet genoemd. Hieruit volgt echter niet dat Sandoz als argument aanvoert dat AstraZeneca in haar inbreukanalyse onvermeld laat dat het product van Sandoz niet tot precipitatie leidt. 
+38
+ 	Zie ook s.t. Sandoz 68 met verwijzing naar Guidelines G-VII 5.2 BGH 15 april 2010 Xa ZR 28/08 (Fettsäurezusammensetzung) Case Law of the Boards of Appeal of the European Patent Office 8th edition 2016 p. 172-176 (dit zijn par. I.D.4.1-I.D.4.3.2 in Case Law 2019 te vinden op p. 187-191) T 0279/05 ECLI:EP:BA:2007:T027905.20071005 (ITA Software) en Rb Den Haag 10 oktober 2014 ECLI:NL:RBDHA:2014:13438 BIE 2014/16 IEF 14721 (De Koning/Levoplant). 
+39
+ 	Zie in dat kader ook s.t. Sandoz onder 69 met verwijzing naar T 1422/12 ECLI:EP:BA:2013:T142212.20130411 (Teva Pharmaceutical) T 1639/07 ECLI:EP:BA:2012:T163907.20120217 (Canon Kabushiki Kaisha) T 1114/06 ECLI:EP:BA:2010:T111406.20100615 (Honeywell/Arkema France) T 0682/99 ECLI:EP:BA:2003:T068299.20030521 (Pharmacia & Upjohn Company) T 0284/96 ECLI:EP:BA:1999:T028496.19990720 (Bayer/Ciba) T 0152/93 ECLI:EP:BA:1995:T015293.19950321 (Rohrmoser/PWA Waldhof c.s.) T 0124/84 ECLI:EP:BA:1986:T012484.19860116 (Unie van Kunstmestfabrieken) T 0020/81 ECLI:EP:BA:1982:T002081.19820210 (Shell) en Rb Den Haag 7 september 2016 ECLI:NL:RBDHA:2016:10815 IEF 16236 LS&R 1371 (Teva/Boehringer).
+40
+ 	Sandoz verwijst naast de uitspraken in de vorige voetnoot naar T 2020/13 ECLI:EP:BA:2017:T202013.20171012 (Evonik Degussa/Huntsman) rov. 5.2 en 5.6. 
+41
+ 	Pltn EA AZ 80 en Pltn EA Sandoz onder 68. 
+42
+ 	Dv EA 101-102 en Pltn EA Sandoz 55-59 62-64 en 68. 
+43
+ 	CvA rec 46-57 en Pltn EA Sandoz 55-59. 
+44
+ 	Deze overweging lijkt mij ook niet onbegrijpelijk zie daarover hierna 2.51.
+45
+ 	Pltn EA Sandoz 66. Ook verwijst Sandoz naar Dv EA onder 47 waarin eveneens wordt gerefereerd aan de in Howell gerapporteerde irritaties op de plaats van de injectie. 
+46
+ 	Dv EA 101-102. 
+47
+ 	CvA rec 19. 
+48
+ 	CvA rec 21. 
+49
+ 	Zie CvA rec 11 en 19 met verwijzing naar GB 0008837 p. 7 regels 21-31 en GB 0000313 p. 6 regels 14-21 (prods. 8a en 8b bij akte overlegging producties Sandoz 7 juni 2017). 
+50
+ 	Prods. 8 en 9 bij CvA/CvE rec. 
+51
+ 	Prod. 36 bij CvA rec. 
+52
+ 	Dv EA 44 en 46 CvA rec 75 en Pltn EA Sandoz 136-172. 
+53
+ 	Pltn EA Sandoz 136-172 (i.h.b. 152-158) en Dv EA 45. Terzijde: het hof spreekt in de slotzin van rov. 1g over “irritatie (necrose)” waarmee deze twee termen op één lijn lijken te worden gesteld. Dit is volgens mij een slip of the pen (vergelijk ook rov. 4.22 van het vonnis zoals hiervoor in 1.14 geciteerd). Bij de beoordeling komt de term “necrose” niet meer voor en overweegt het hof alleen dat precipitatie kan leiden tot (huid)irritatie.
+54
+ 	Dv EA 47 en CvA rec 24-26. 
+55
+ 	Dv EA h. II en IV(a) CvA rec h. 2 en 4 en Pltn EA Sandoz h. 1 en 2. 
+56
+ 	Verwezen wordt naar CvA rec 24-26 en Pltn EA Sandoz 136-172. 
+57
+ 	B.T.M. van der Wiel (red.) Cassatie (BPP nr. 20) 2019/68 Asser Procesrecht/Korthals Altes & Groen Cassatie 2015/283 en HR 27 juni 2014 ECLI:NL:HR:2014:1557 RvdW 2014/898 JBPr 2014/39 m.nt. G.C.C. Lewin. 
+58
+Asser Procesrecht/Korthals Altes & Groen Cassatie 2015/48 en 295 HR 2 juni 2017 ECLI:NL:HR:2017:1008 JBPr 2017/48 m.nt. F.J.P. Lock (Free Press Unlimited) rov. 3.3.3 HR 30 juni 2000 ECLI:NL:HR:2000:AA6337 NJ 2001/316 m.nt. J.B.M. Vranken (Sanders/Nederlandse Centrale Organisatie voor toegepast Natuurwetenschappelijk Onderzoek c.s.) rov. 3.6 HR 18 februari 1994 ECLI:NL:HR:1994:ZC1272 NJ 1994/406 m.nt. Th.W. van Veen (G/Staat der Nederlanden) rov. 3.5 en HR 11 december 1987 ECLI:NL:HR:1987:AC2263 NJ 1988/347 (Van Dijk/Oosthoek) rov. 3.3.
+59
+ 	De G-standaard is een elektronische database waarin alle geneesmiddelen hulpmiddelen en gezondheidsproducten zijn opgenomen die verkrijgbaar zijn via de apotheek. De database wordt bijgehouden door het bedrijf Z-Index B.V.. 
+60
+ 	CvA/CvE rec 179 en 189-190. 
+61
+ 	CvA rec 93 en 95. 
+62
+ 	MvE inc. 3 MvA inc. 1-2 17-18 139 en 142-146 pltn inc. AZ 18 en pltn inc. Sandoz 3. 
+63
+ 	Hof Den Haag 2 november 2010 ECLI:NL:GHSGR:2010:BO4380 IER 2011/9 m.nt. A.F. Kupecz JGR 2011/8 m.nt. M.D.B. Schutjens (Glaxo/Pharmachemie). Het daartegen gerichte cassatieberoep is verworpen in HR 22 juni 2012 ECLI:NL:HR:2012:BW4006 NJ 2012/472 m.nt. Ch. Gielen IER 2012/59 m.nt. F.W.E. Eijsvogels JGR 2012/28 m.nt. M.D.B. Schutjens (Pharmachemie/Glaxo). 
+64
+ 	CvA/CvE rec 189. 
+65
+HR 30 juni 2006 ECLI:NL:HR:2006:AX6246 RvdW 2006/681 (Bureau voor Rechtshulp) HR 28 oktober 2005 ECLI:NL:HR:2005:AU2902 NJ 2006/558 (gem. Maasbree/ […]) HR 8 april 2005 ECLI:NL:HR:2005:AR7435 NJ 2005/371 ( / […]) HR 27 november 1998 ECLI:NL:HR:1998:ZC2793 NJ 1999/685 m.nt. P. van Schilfgaarde JOR 1999/72 m.nt. S.C.J.J. Kortmann (Komdeur/Nederlandse Antillen) HR 17 oktober 1997 ECLI:NL:HR:1997:ZC2460 NJ 1998/241 m.nt. P.A. Stein (Bhoelai/Buttner) HR 20 oktober 1995 ECLI:NL:HR:ZC:1995:ZC1849 NJ 1996/235 (Haxe/Koers) HR 23 september 1988 ECLI:NL:HR:1988:AD5713 NJ 1989/743 m.nt. J.C. Schultsz en J.H. Nieuwenhuis (Kalimijnen) HR 21 december 1984 ECLI:NL:HR:1984:AG4926 NJ 1985/904 m.nt. M. Scheltema (Gielen c.s./gem. Grathem) GS Burgerlijke Rechtsvordering (Beekhoven van den Boezem) art. 612 Rv aant. 3 en 4 C.J.M. Klaassen Schadevergoeding: algemeen 2 (Mon. BW nr. B35) 2017/6 en T.F.E. Tjong Tjin Tai De schadestaatprocedure 2012 nr. 401 en 422.
+66
+ 	MvE inc 3. 
+67
+ 	Pltn inc AZ 18. 
+68
+ 	HR 4 december 2015 ECLI:NL:HR:2015:3477 NJ 2016/16 m. red. aant. 
+69
+ 	C.J.S. Vrendenbarg Proceskostenveroordeling en toegang tot de rechter in IE-zaken diss. 2018 nr. 121 met verwijzing naar onder meer HR 12 april 2013 ECLI:NL:HR:2013:BY1532 NJ 2013/502 m.nt. P.B. Hugenholtz IER 2013/50 m.nt. P.G.F.A. Geerts (Stokke/Fikszo) HR 29 januari 2010 ECLI:NL:HR:2010:BK1599 RvdW 2010/223 IEF 8564 (Gavita/Helle c.s.) HR 20 november 2009 ECLI:NL:HR:2009:BJ9431 NJ 2009/583 BIE 2010/14 m.nt. J.L.R.A. Huydecoper (Euro-Tyre/Eurotyre) en HR 30 mei 2008 ECLI:NL:HR:2008:BC2153 NJ 2008/556 m.nt. E.J. Dommering IER 2008/58 m.nt. J.M.B. Seignette AA20080819 m.nt. P.B. Hugenholtz ([…] /Uitgeverij Nieuw Amsterdam). Vgl. in dit verband tevens punt 4 en voetnoot 5 van de (op octrooizaken niet toepasselijke) Indicatietarieven in IE-zaken Hoge Raad versie 2017 te vinden op https://www.rechtspraak.nl/SiteCollectionDocuments/indicatietarieven-in-ie-zaken-HR-2017.pdf en B.T.M. van der Wiel (red.) Cassatie (BPP nr. 20) 2019/360. 
+70
+ 	HR 22 november 2019 ECLI:NL:HR:2019:1833 RvdW 2019/1213 IEF 18844 LS&R 1759 (Coloplast/Medical4You) en HR 27 september 2013 ECLI:NL:HR:2013:CA1733 NJ 2013/464 IER 2014/11 m.nt. F.W.E. Eijsvogels JIN 2013/181 m.nt. M.R. Rijks (Boston Scientific/OrbusNeich c.s.).

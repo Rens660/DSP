@@ -1,0 +1,1165 @@
+
+
+
+PROCUREUR-GENERAAL
+ 
+
+BIJ DE
+ 
+
+HOGE RAAD DER NEDERLANDEN
+ 
+
+
+Nummer	20/01038
+
+Zitting 12 maart 2021
+ 
+
+CONCLUSIE 
+ 
+
+T. Hartlief
+ 
+
+In de zaak
+ 
+
+
+ING Bank N.V.
+
+(hierna: ‘ING’)
+eiseres in het principaal cassatieberoep
+verweerster in het incidenteel cassatieberoep
+ 
+tegen 
+
+1. Yin Yang Exploitatie B.V.
+
+
+2. Vocu B.V.
+
+
+3. Roerdalhoeve B.V.
+
+
+4. Stichting CS Bedrijven
+
+
+5. CS Horeca B.V.
+
+
+
+6. CS Sauna B.V.
+
+
+7. MSB B.V.
+
+(hierna gezamenlijk: ‘Yin Yang c.s.’)
+verweersters in het principaal cassatieberoep
+eiseressen in het incidenteel cassatieberoep
+ 
+
+Deze zaak hangt samen met zaak 19/04381 eveneens tussen Yin Yang c.s. en ING.
+Beide zaken vinden hun oorsprong in een eind 2016 door de politie uitgevoerde doorzoeking van de saunaclub die Yin Yang c.s. exploiteren: Saunaclub Yin Yang. De doorzoeking had veel negatieve media-aandacht tot gevolg waarna ING een klantonderzoek naar Yin Yang c.s. heeft uitgevoerd. De uitkomsten van het onderzoek hebben ING in maart/april 2017 ertoe gebracht een overeenkomst voor het afstorten van contant geld en de bankrelaties met Yin Yang c.s. op te zeggen. Begin juli 2018 heeft het Openbaar Ministerie (hierna: ‘het OM’) de strafzaak tegen Yin Yang c.s. die na de doorzoeking in 2016 was gestart geseponeerd.
+Yin Yang c.s. hebben met een viertal kort geding-procedures tegen ING getracht continuering te bewerkstelligen van de bankrelaties en de overeenkomst voor het afstorten van contant geld. Zonder resultaat. Op 5 maart 2021 heeft Uw Raad het cassatieberoep verworpen dat Yin Yang c.s. in zaak 19/04381 hadden ingesteld tegen het arrest van 30 juli 2019 van het hof Amsterdam waarin het hof heeft geoordeeld dat voldoende aannemelijk is dat de bodemrechter zal oordelen dat het niet naar maatstaven van redelijkheid en billijkheid onaanvaardbaar is dat ING de bankrelaties en de overeenkomst voor het afstorten van contant geld met Yin Yang c.s. heeft opgezegd.1
+In een vijfde kort geding-procedure hebben Yin Yang c.s. het deels over een andere boeg gegooid door tevens te betogen dat – mochten de bankrelaties met ING en de overeenkomst voor het afstorten van contant geld wél rechtsgeldig zijn geëindigd – ING uit hoofde van haar buitencontractuele bijzondere zorgplicht nieuwe bankrelaties en een nieuwe overeenkomst voor het afstorten van contant geld met Yin Yang c.s. moet aangaan. De rechtbank heeft de op deze basis door Yin Yang c.s. gevraagde voorzieningen geweigerd. Het hof heeft het vonnis van de rechtbank vernietigd en ING veroordeeld om Yin Yang c.s. in staat te stellen een betaalrekening bij ING aan te houden met dien verstande dat ING niet wordt veroordeeld om daaraan faciliteiten te verbinden voor het storten van contant geld.
+ING komt in het principale cassatieberoep op tegen de oordelen van het hof dat (i) een bank onder bijzondere omstandigheden kan worden verplicht een contractuele relatie met een rechtspersoon aan te gaan (ii) onevenredigheid bestaat tussen enerzijds het belang van Yin Yang c.s. bij het hebben van een betaalrekening en anderzijds het belang van ING om het risico op witwassen te vermijden en (iii) voldoende aannemelijk is dat de bodemrechter zal oordelen dat ING verplicht is een contractuele relatie met Yin Yang c.s. aan te gaan teneinde hen in staat te stellen een betaalrekening aan te houden. In het incidentele cassatieberoep komen Yin Yang c.s. op tegen het oordeel van het hof dat ING niet is gehouden opnieuw een overeenkomst voor het afstorten van contant geld met Yin Yang c.s. aan te gaan.
+
+
+
+
+1 Feiten 
+
+1.1
+In cassatie kan van de volgende feiten worden uitgegaan.2 
+
+
+1.2
+Sinds oktober 1994 exploiteren Yin Yang c.s. onder de naam ‘Saunaclub Yin Yang’ in Roermond een ontmoetingscentrum volgens het concept van de Freikörperkultur.3 Tegen betaling van een toegangsprijs van € 60 kunnen bezoekers gebruikmaken van de in de saunaclub aanwezige voorzieningen en (tegen betaling) seks hebben met andere daarin geïnteresseerde bezoekers. 
+
+
+1.3
+Binnen Yin Yang c.s. vervult Stichting CS Bedrijven een intermediaire functie voor het betaalverkeer. Zij incasseert de entreegelden en verdeelt deze volgens een vaste verdeelsleutel over de ondernemingen die daartoe zijn gerechtigd te weten CS Sauna B.V. CS Horeca B.V. en Yin Yang Exploitatie B.V. 
+
+
+1.4
+Yin Yang c.s. bankier(d)en sinds 1994 respectievelijk 2008 bij ING en beschik(k)(t)en in dat verband over meerdere zakelijke bankrekeningen. Daarnaast bestond sinds 2008 tussen Stichting CS Bedrijven en ING een ‘Overeenkomst Verpakt Afstorten’ op grond waarvan Stichting CS Bedrijven gerechtigd was om contant ontvangen geld door middel van sealbags bij ING te deponeren.4 ING schreef dat geld vervolgens bij op de bankrekening van Stichting CS Bedrijven. 
+
+
+1.5
+Op 26 november 2016 heeft de politie een doorzoeking gedaan in Saunaclub Yin Yang. Daarbij zijn het pand de lockers van bezoekers en geparkeerde auto’s doorzocht. Bij de doorzoeking zijn (een geringe hoeveelheid) drugs en contant geld aangetroffen en – in het pand en in auto’s van bezoekers – enkele busjes pepperspray een taser en een stiletto. 
+
+
+1.6
+De doorzoeking heeft de nodige aandacht van de pers gehad. De persberichten zijn voor ING reden geweest om een klantonderzoek bij Yin Yang c.s. uit te voeren. Dit klantonderzoek heeft ertoe geleid dat ING bij brief van 10 maart 2017 de overeenkomst voor het afstorten van contant geld met Stichting CS Bedrijven per direct heeft opgezegd:5 
+
+“ING heeft in de media vernomen dat er eind november 2016 een inval is geweest bij Saunaclub Yin Yang (…). Volgens de inhoud van de berichtgeving wordt Saunaclub Yin Yang verdacht van witwaspraktijken vrouwenhandel en zijn er bij een inval van de politie en het Openbaar Ministerie o.a. drugs wapens en cash geld aangetroffen in het pand van Saunaclub Yin Yang. Daarnaast is geconstateerd dat er per 1-12-2017 op diverse aangehouden rekeningen derdenbeslag is gelegd. Tijdens de CDD [Customer Due Diligence A-G] review heeft ING geconstateerd dat er met grote regelmaat grote sommen contant geld worden gestort op de rekening van onder andere Stichting CS Bedrijven (…) zonder dat duidelijk is wat de herkomst is van deze gelden.
+ 
+
+Op basis van het bovenstaande delen wij u hierbij mede dat wij de Overeenkomst Verpakt Afstorten tussen ING en Stichting CS Bedrijven met nummer 115300 per direct opzeggen.
+ 
+
+Tevens zullen wij niet toestaan dat Stichting CS Bedrijven – of de aan Stichting CS Bedrijven rechtstreeks gelieerde partijen – contante stortingen doen. (…) Reden hiervoor is dat wij een ernstig vermoeden hebben dat u betrokken bent bij witwassen en u hier (mede) uw rekeningen bij de ING voor (heeft) gebruikt. (…)”
+ 
+
+
+1.7
+In een brief van 13 maart 2017 van de Politie Eenheid Limburg aan de advocaat van Yin Yang c.s. staat dat er geen aanwijzing was voor vrouwenhandel anders dan ING blijkens de brief van 10 maart 2017 kennelijk meende.6 
+
+
+1.8
+Een ruime maand na de opzegging van de overeenkomst voor het afstorten van contant geld heeft ING bij brief van 14 april 2017 ook de bancaire relaties met Yin Yang c.s. opgezegd met inachtneming van een opzegtermijn van drie maanden:7 
+
+“(…) [Er] is een situatie ontstaan waarbij de ING geen vertrouwen meer heeft dat de bancaire relatie kan worden voortgezet. De ING kan onvoldoende inhoud geven aan de in de Wft8 en de in de Wwft9 opgedragen wettelijke taken. Gezien de grote omvang van de cashstortingen [tussen 14 februari 2016 en 14 februari 2017 was voor € 4.839.80277 aan contante stortingen gedaan tegenover € 920.25738 aan pinbetalingen A-G] de grote hoeveelheid coupures van €200 en €500 [respectievelijk 650 en 1.210 A-G] die op regelmatige basis worden afgestort en de verontrustende berichten in de media kan ING niet voldoende garanderen dat haar rekeningen niet worden gebruikt voor het witwassen van illegaal verkregen gelden. ING wil en kan niet het risico lopen om betrokken te raken bij (schuld)witwassen. Tevens tracht zij reputatie- en integriteitsrisico’s te voorkomen.”
+ 
+
+
+1.9
+Kort na de opzeggingen door ING hebben Yin Yang c.s. een kort geding-procedure aanhangig gemaakt en daarin gevorderd kort gezegd om ING te veroordelen tot voortzetting van de bankrelaties en de overeenkomst voor het afstorten van contant geld. Bij vonnis van 24 mei 2017 heeft de voorzieningenrechter de gevraagde voorzieningen geweigerd.10 Naar het oordeel van de voorzieningenrechter was ING in beginsel gerechtigd de overeenkomst en de bankrelaties met Yin Yang c.s. te beëindigen (rov. 4.3.) en hebben Yin Yang c.s. onvoldoende aannemelijk gemaakt dat de opzeggingen naar maatstaven van redelijkheid en billijkheid onaanvaardbaar zijn (rov. 4.5.). 
+
+
+1.10
+Yin Yang c.s. zijn in hoger beroep gekomen van het vonnis van de voorzieningenrechter. Bij arrest van 13 juli 2017 heeft het hof het vonnis vernietigd en ING veroordeeld om (slechts) ten aanzien van Stichting CS Bedrijven de bankrelatie tot 1 januari 2018 voort te zetten.11 Het hof heeft het volgende overwogen: 
+
+“3.8. (…) Yin Yang c.s. hebben uiteindelijk als gegeven te accepteren dat de aard van hun onderneming en de wijze waarop die is ingericht een verhoogd risico met zich brengen dat daarin gebruik wordt gemaakt van uit misdrijf afkomstige gelden en dat dit voor een bank een belemmering kan vormen om met hen te contracteren. Onder die omstandigheden mag van Yin Yang c.s. worden verwacht dat zij mede naar aanleiding van de door ING aangevoerde gronden voor de opzegging aan de banken met wie zij een nieuwe bankrelatie willen aangaan vergaande openheid van zaken over hun bedrijfsvoering geven en laten zien dat en hoe zij concrete en doeltreffende maatregelen hebben getroffen om het risico van betrokkenheid bij witwassen te verminderen ook indien dit een min of meer ingrijpende wijziging meebrengt van de wijze waarop zij hun onderneming tot nog toe hebben gedreven. Daarbij valt te denken aan het actief terugdringen van de omvang van de contante betalingen in de onderneming en het niet langer accepteren van grote coupures van € 200 en € 500. Verder is te denken aan het ontwikkelen en implementeren van een specifiek en effectief toelatingsbeleid dat Yin Yang c.s. in staat stelt zo nodig de herkomst van de aangeboden contante betalingen te verifiëren en/of bij gebreke daarvan de desbetreffende klanten te weigeren alsmede het implementeren van een administratief systeem dat Yin Yang c.s. zelf en zo nodig ook haar bank – ter uitvoering van de op die bank op grond van artikel 3 lid 2 Wwft rustende verplichtingen – in staat stelt onderzoek te doen naar de bron van de contante geldstromen binnen de onderneming.
+ 
+
+(…)
+ 
+
+
+3.11. (…)
+Wel is het hof anders dan de voorzieningenrechter voorshands van oordeel dat het naar maatstaven van redelijkheid en billijkheid onaanvaardbaar zou zijn indien Yin Yang c.s. op basis van de vooralsnog enkele verdenking van betrokkenheid bij witwassen de toegang tot deelname aan het giraal verkeer reeds thans geheel wordt onthouden met als dreigend gevolg dat zij haar onderneming zal moeten staken. 
+
+
+3.12. (…)
+Yin Yang c.s. dienen de kans te krijgen om zo nodig onder (ingrijpende) aanpassing van hun bedrijfsvoering en in afwachting van de definitieve beslissing over – en uitkomst van – vervolging door het openbaar ministerie hun onderneming voort te zetten en zo mogelijk een andere bank te zoeken. Het daarmee gepaard gaande reputatie- en integriteitsrisico voor ING dient echter tot een minimum te worden beperkt. Dit betekent dat Yin Yang c.s. voorlopig moeten kunnen blijven beschikken over in ieder geval één bankrekening waarmee zij ten behoeve van hun onderneming de noodzakelijke girale betalingen zullen kunnen blijven verrichten. Het hof zal de gevorderde voorlopige voorzieningen derhalve slechts in die zin toewijzen dat ING zal worden veroordeeld de bankrelatie ter zake van de zakelijk[e] rekening met Stichting CS Bedrijven voort te zetten tot 1 januari 2018. (…).” 
+
+
+1.11
+Vanaf april 2017 hebben Yin Yang c.s. diverse in Nederland opererende banken benaderd met de vraag of zij bereid zijn een bankrelatie met Yin Yang c.s. aan te gaan. Geen van de banken was hiertoe bereid.12 
+
+
+1.12
+Verder hebben Yin Yang c.s. maatregelen getroffen ter beperking van het integriteitsrisico van ING. Zo hebben Yin Yang c.s. de regel ingesteld dat vanaf 15 juli 2017 geen biljetten van € 500 en € 200 meer worden geaccepteerd worden door middel van kortingen girale betalingen gestimuleerd hebben Yin Yang c.s. een anti-witwasprotocol en verscherpte huisregels ingevoerd en heeft het personeel van Yin Yang c.s. een Wwft-cursus gevolgd.13 
+
+
+1.13
+Bij e-mailbericht van 1 november 2017 heeft het OM de advocaat van de bestuurders van Yin Yang c.s. (de heren [betrokkene 1] en [betrokkene 2]  hierna: ‘ [de bestuurders] ’) geïnformeerd dat zij zullen worden vervolgd voor het witwassen van € 140.000 en het zonder vergunning uitvoeren van wisseltransacties in hun onderneming en dat zij worden verdacht van valsheid in geschrifte omdat het erop lijkt dat de boekhouding niet met de werkelijke omzet correspondeert. 
+
+
+1.14
+Bij brief van 8 november 2017 heeft ING – in lijn met het arrest van het hof (randnummer 1.10 hiervoor) – de (nog overgebleven) bankrelatie met Stichting CS Bedrijven per 1 januari 2018 opgezegd. 
+
+
+1.15
+Yin Yang c.s. hebben zich vervolgens voor een tweede maal tot de voorzieningenrechter gewend en opnieuw voortzetting gevorderd van de bankrelaties en de overeenkomst voor het afstorten van contant geld. Bij vonnis van 6 december 2017 heeft de voorzieningenrechter de gevraagde voorzieningen wederom geweigerd.14 De voorzieningenrechter heeft overwogen dat Yin Yang c.s. onvoldoende concrete maatregelen hebben getroffen om het dreigende reputatie- en integriteitsrisico voor ING te verminderen. Ook hebben Yin Yang c.s. zich naar het oordeel van de voorzieningenrechter onvoldoende ingespannen om een andere bank bereid te vinden een zakelijke relatie met hen aan te gaan (rov. 4.9. en 4.10.). 
+
+
+1.16
+In hoger beroep heeft het hof bij arrest van 19 januari 2018 het vonnis van de voorzieningenrechter grotendeels bekrachtigd.15 Wel heeft het hof ING veroordeeld de bankrelatie en de overeenkomst voor het afstorten van contant geld met Stichting CS Bedrijven tot en met 16 februari 2018 voort te zetten. Naar het oordeel van het hof kon van ING in redelijkheid worden verlangd dat zij Yin Yang c.s. tot en met die datum de tijd gaf om zich nader op de beëindiging van de bancaire relatie voor te bereiden (rov. 3.15.). 
+
+
+1.17
+Een kleine vijf maanden hierna heeft het OM bij brief van 8 juni 2018 ING medegedeeld wat de resultaten zijn van het strafrechtelijke onderzoek naar Yin Yang c.s.:16 
+
+“Er heeft zoals bij u bekend een strafrechtelijk (witwas) onderzoek gelopen naar de rechtspersonen Yin Yang Exploitatie BV C.S. Horeca BV C.S. Sauna BV Stichting C.S. Bedrijven BV Vocu BV MSB BV Roerdalhoeve BV en de natuurlijke personen [betrokkene 1] en [betrokkene 2] .
+ 
+
+Uit dit strafrechtelijk onderzoek is niet gebleken van feiten of omstandigheden die naar het oordeel van het openbaar ministerie er op zouden kunnen wijzen dat er verwijtbaar gebruik is gemaakt van de bedrijfsrekeningen van voornoemde bedrijven. Inmiddels is wel gebleken dat de bedrijven hun compliance fors hebben verbeterd hetgeen een positieve ontwikkeling is.”
+ 
+
+
+1.18
+Op 25 juni 2018 is tussen het OM en [de bestuurders] een schikking tot stand gekomen voor de verdenking van het driemaal bedrijfsmatig wisselen van contant geld zonder vergunning (randnummer 1.13 hiervoor). Daarnaast heeft het OM aan het Landelijk Bureau Bibob17 laten weten dat niet is gebleken van feiten of omstandigheden die zouden moeten leiden tot een negatief advies. 
+
+
+1.19
+Begin juli 2018 is de strafzaak tegen Yin Yang c.s. geseponeerd. 
+
+
+1.20
+Omdat ING na het sepot niet bereid was om de opzeggingen te heroverwegen hebben Yin Yang c.s. ING voor een derde maal in kort geding gedagvaard. De voorzieningenrechter heeft bij vonnis van 2 november 2018 zoals hersteld bij vonnis van 23 november 2018 ING veroordeeld (i) de bankrelaties met Yin Yang c.s. voort te zetten (ii) de overeenkomst voor het afstorten van contant geld met Stichting CS Bedrijven te continueren nadat Yin Yang c.s. zouden hebben aangetoond dat het kassasysteem naar behoren functioneert en (iii) het Yin Yang c.s. toe te staan dat de ná 10 maart 2017 niet afgestorte contante inkomsten bij ING worden afgestort voor zover uit de boekhouding van Yin Yang c.s. blijkt dat het inkomsten uit entreegelden en baromzet betreft.18 Volgens de voorzieningenrechter was met het eindigen van de strafzaken tegen Yin Yang c.s. en [de bestuurders] en de door Yin Yang c.s. getroffen maatregelen niet langer sprake van een reputatie- en integriteitsrisico voor ING (rov. 4.6.3.). Bovendien hadden Yin Yang c.s. voldoende aannemelijk gemaakt dat zij niet bij andere banken terecht konden (rov. 4.6.5.). De voorzieningenrechter heeft om die redenen geconcludeerd dat de opzeggingen door ING naar maatstaven van redelijkheid en billijkheid onaanvaardbaar zijn (rov. 4.7.). 
+
+
+1.21
+ING heeft geweigerd de overeenkomst voor het afstorten van contant geld te herstellen omdat volgens haar het kassasysteem niet (afdoende) functioneert. 
+
+
+1.22
+Yin Yang c.s. hebben daarop voor de vierde maal de voorzieningenrechter aangezocht. Die heeft bij vonnis van 17 januari 2019 ING op straffe van verbeurte van dwangsommen veroordeeld het vonnis van 2 november 2018 en het herstelvonnis van 23 november 2018 na te komen.19 Naar het oordeel van de voorzieningenrechter was het door Yin Yang c.s. geïnstalleerde kassasysteem wél afdoende (rov. 4.8.). 
+
+
+1.23
+In hoger beroep (van de derde en vierde kort geding-procedure samen) heeft het hof bij arrest van 30 juli 2019 de vonnissen van 2 november 2018 23 november 2018 en 17 januari 2019 vernietigd en de vorderingen van Yin Yang c.s. alsnog afgewezen.20 Het hof heeft overwogen dat de vraag of het naar maatstaven van redelijkheid en billijkheid onaanvaardbaar is dat ING de bankrelaties en overeenkomst voor het afstorten van contant geld met Yin Yang c.s. heeft opgezegd moet worden beoordeeld naar de stand van zaken ten tijde van de opzeggingen (ex tunc) (rov 3.5.). Volgens het hof geeft het sepot van de vervolging van Yin Yang c.s. en de tussen het OM en [de bestuurders] getroffen schikking geen aanleiding om te oordelen dat de beëindiging van de bankrelaties niet rechtsgeldig is geschied. Daarnaast hebben Yin Yang c.s. met de door hen getroffen maatregelen de bij ING bestaande zorgen over het witwasrisico niet op adequate wijze geadresseerd (rov 3.6.). 
+
+
+1.24
+Yin Yang c.s. hebben tegen het arrest van het hof cassatieberoep ingesteld (zaaknummer 19/04381). Uw Raad heeft dit beroep op 5 maart 2021 verworpen.21 
+
+
+1.25
+Bij brief van 5 augustus 2019 heeft ING aan Yin Yang c.s. laten weten dat de bankrelaties met Yin Yang Exploitatie B.V. Vocu B.V. Roerdalhoeve B.V. CS Horeca B.V. CS Sauna B.V. en MSB B.V. per 14 april 2017 zijn beëindigd (randnummer 1.8 hiervoor) en dat de bankrelatie met Stichting CS Bedrijven per 1 januari 2018 is beëindigd (randnummer 1.10 hiervoor). ING heeft in de brief aangekondigd over te gaan tot afwikkeling van alle betrokken rekeningen. 
+
+
+
+
+2 Procesverloop 
+
+2.1
+Bij dagvaarding van 5 september 2019 hebben Yin Yang c.s. een vijfde kort geding-procedure aanhangig gemaakt bij de voorzieningenrechter van de rechtbank Amsterdam. Daarin hebben Yin Yang c.s. gevorderd kort gezegd om ING te veroordelen de bankrelaties en de overeenkomst voor het afstorten van contant geld “te continueren en voorzover daartoe nodig te herstellen”. 
+
+
+2.2
+Bij vonnis van 15 oktober 2019 heeft de voorzieningenrechter de door Yin Yang c.s. gevraagde voorzieningen geweigerd.22 De voorzieningenrechter heeft overwogen dat de opzeggingen op diverse momenten ter beoordeling aan de voorzieningenrechter en in hoger beroep aan het gerechtshof zijn voorgelegd zodat – met name op basis van de arresten van 13 juli 2017 (in de tweede procedure) en 30 juli 2019 (in de derde en vierde procedure) – voorshands ervan wordt uitgegaan dat de contractuele relatie tussen Yin Yang c.s. en ING is geëindigd (rov. 4.1. en 4.2.). 
+
+
+2.3
+Yin Yang c.s. hebben zich echter niet langer slechts op de contractuele zorgplicht van ING beroepen maar tevens op de buitencontractuele zorgplicht die de maatschappelijke positie van ING als bank met zich brengt. In dat kader geldt volgens de voorzieningenrechter het volgende: 
+
+“4.3. (…) Inderdaad brengt de maatschappelijke functie van banken een bijzondere zorgplicht mee ook ten opzichte van derden met wier belangen zij rekening behoort te houden op grond van hetgeen volgens ongeschreven recht in het maatschappelijk verkeer betaamt. De reikwijdte van die zorgplicht hangt af van de omstandigheden van het geval (…).”
+ 
+
+
+2.4
+Naar het oordeel van de voorzieningenrechter strekt de buitencontractuele zorgplicht niet zo ver dat ING nieuwe bancaire relaties en een nieuwe overeenkomst voor het afstorten van geld met Yin Yang c.s. moet aangaan: 
+
+“4.4.	Weliswaar is de strafvervolging van Yin Yang geëindigd in een sepot en is de vervolging van [de bestuurders] geëindigd met een transactie maar dat laat onverlet dat binnen Yin Yang nog steeds een levensgroot risico op witwassen bestaat door het bedrijfsmodel waarbij volledige anonimiteit wordt gegarandeerd en veel gebruik wordt gemaakt van contant geld. De door Yin Yang getroffen maatregelen waaronder het kassasysteem hebben de zorgen over met name de herkomst van die contante gelden niet weggenomen. Wat daar ook van zij het bedrijfsmodel van Yin Yang dwingt er kennelijk toe om meer belang te hechten aan het garanderen van anonimiteit aan haar klanten dan aan het bieden van controlemogelijkheden op de herkomst van die gelden. Die keuze komt voor haar rekening en risico. De zorgplicht van ING strekt onder deze omstandigheden niet zo ver dat zij ook na beëindiging van de contractuele relatie het belang van Yin Yang om weer toegang te krijgen tot giraal verkeer zwaarder moet laten wegen dan het algemene belang bij de bescherming van de integriteit van het financiële en economische verkeer en haar eigen belang bij beperking van reputatierisico’s zelfs niet indien dat het einde van Yin Yang zou betekenen. De vordering zal dan ook worden afgewezen.”
+ 
+
+
+2.5
+Op 8 november 2019 zijn Yin Yang c.s. bij het hof Amsterdam in hoger beroep gekomen van het vonnis van de voorzieningenrechter. Bij arrest van 21 januari 2020 heeft het hof het vonnis vernietigd en ING veroordeeld om Yin Yang c.s. in staat te stellen een betaalrekening bij ING aan te houden met dien verstande dat ING niet wordt veroordeeld om daaraan faciliteiten voor het storten van contant geld te verbinden.23 
+
+
+2.6
+Het hof heeft overwogen dat een bank onder bijzondere omstandigheden kan worden verplicht een contractuele relatie met een rechtspersoon aan te gaan: 
+
+“3.6 Het beginsel van de contractsvrijheid brengt mee dat iedereen het recht heeft om niet te worden verplicht een contractuele relatie aan te gaan met een ander. Ook banken hebben dit recht. Dit recht is fundamenteel en zwaarwegend maar het is niet onbegrensd. Bij de begrenzing van dit recht voor banken is onder meer van belang dat hun maatschappelijke functie een bijzondere zorgplicht meebrengt ten opzichte van derden met wier belangen zij rekening behoren te houden op grond van hetgeen volgens ongeschreven recht in het maatschappelijk verkeer betaamt. Ook is het feit van algemene bekendheid van belang dat het vrijwel onmogelijk is om deel te nemen aan het maatschappelijk verkeer laat staan om een bedrijf te exploiteren zonder te beschikken over een betaalrekening bij een bank. Dit geldt niet alleen voor natuurlijke personen maar ook voor rechtspersonen. Een rechtspersoon staat wat het vermogensrecht betreft met een natuurlijk persoon gelijk tenzij uit de wet het tegendeel voortvloeit. Weliswaar geldt de wettelijke verplichting van art 4:71f van de Wet op het financieel toezicht die voor consumenten geldt niet voor rechtspersonen maar daaruit vloeit niet voort dat de contractsvrijheid van banken ten opzichte van rechtspersonen in het geheel niet kan worden ingeperkt. Daarom kan een bank onder bijzondere omstandigheden worden verplicht een contractuele relatie aan te gaan met een rechtspersoon.”
+ 
+
+
+2.7
+Volgens het hof moet de vraag of ING kan worden verplicht een nieuwe contractuele relatie met Yin Yang c.s. aan te gaan ex nunc worden beantwoord:24 
+
+“3.7 Op de gronden zoals vermeld in de eerdere arresten van dit hof (…) acht het hof voorshands aannemelijk dat de eerdere contractuele relaties tussen ING Bank enerzijds en Yin Yang c.s. anderzijds zijn verbroken doordat ING Bank deze relaties heeft opgezegd. (…) De vraag of ING Bank moet worden verplicht een nieuwe contractuele relatie met Yin Yang c.s. aan te gaan dient te worden beantwoord naar de stand van zaken ten tijde van de uitspraak van het hof (ex nunc). Er is geen reden om de stand van zaken ten tijde van de opzegging tot uitgangspunt te nemen. Hetgeen de voorzieningenrechter en het hof in eerdere kort gedingen tussen partijen hebben geoordeeld leidt niet tot een ander oordeel.”
+ 
+
+
+2.8
+Met het voorgaande als uitgangspunt heeft het hof – in lijn met het oordeel van de voorzieningenrechter – geoordeeld dat ING redelijkerwijs kan weigeren opnieuw een overeenkomst voor het afstorten van contant geld met Yin Yang c.s. aan te gaan. Volgens het hof kan ING het risico op witwassen redelijkerwijs te groot achten ook na de maatregelen die Yin Yang c.s. inmiddels hebben getroffen: 
+
+“3.8 De onbetwiste omstandigheden dat:
+a. de legitimatie van de klanten van Yin Yang c.s. niet wordt gecontroleerd en hun persoonsgegevens niet worden geregistreerd
+b. een groot deel van de betalingen door klanten van Yin Yang c.s. in contanten wordt verricht (volgens Yin Yang c.s. circa 80% van de entreegelden) en
+c. Yin Yang c.s. opereren in de integriteitsgevoelige relaxbranche
+brengen mee dat ING Bank niet kan worden verplicht een overeenkomst ‘verpakt afstorten’ aan te gaan met Yin Yang c.s. of met een van hen of om anderszins iets met Yin Yang c.s. of met een van hen overeen te komen wat het storten van contant geld op een bankrekening faciliteert.
+ING Bank kan dit redelijkerwijs weigeren omdat zij het risico op witwassen redelijkerwijs te groot kan achten ook na de maatregelen die Yin Yang c.s. inmiddels getroffen hebben. Het is ook mogelijk om deel te nemen aan het maatschappelijk verkeer en een bedrijf te exploiteren zonder over dergelijke faciliteiten te beschikken. Wellicht is het niet goed mogelijk om zonder dergelijke faciliteiten een rendabel ontmoetingscentrum volgens het concept van de Freikörperkultur te exploiteren op de wijze die Yin Yang c.s. voor ogen staat maar dat komt dan voor rekening en risico van Yin Yang c.s. De contractsvrijheid van ING Bank behoort niet zo ver te worden ingeperkt dat zij verplicht zou kunnen worden met Yin Yang c.s. te contracteren om hen in staat te stellen een rendabel ontmoetingscentrum volgens dat concept te exploiteren gelet op het daaraan verbonden risico op witwassen.
+ 
+
+
+3.9
+Indien banken aan andere bedrijven in de relaxbranche minder strenge eisen stellen dan ING Bank stelt aan Yin Yang c.s. dan is dat onvoldoende voor een ander oordeel. Bovendien is onvoldoende gesteld of gebleken om aan te nemen dat er geen relevante verschillen bestaan tussen die andere bedrijven en Yin Yang c.s. 
+
+
+3.10
+Aan het voorgaande doet niet af dat ING Bank in het verleden wel een overeenkomst ‘verpakt afstorten’ met [Stichting A-G] CS Bedrijven is aangegaan. ING Bank kan zich in redelijkheid erop beroepen dat haar beleid ter bestrijding van witwassen sindsdien strenger is geworden zeker in het licht van de aangescherpte regelgeving en maatschappelijke opvattingen op dat punt. 
+
+
+3.11
+De vordering om de overeenkomst verpakt afstorten te continueren of te herstellen is dus terecht afgewezen. Hetgeen Yin Yang c.s. overigens in dit verband hebben aangevoerd kan niet tot een ander oordeel leiden.” 
+
+
+2.9
+Met betrekking tot het aanhouden van een betaalrekening is het hof echter tot het oordeel gekomen dat de belangenafweging in het voordeel van Yin Yang c.s. uitvalt. Het hof heeft het volgende overwogen: 
+
+“3.12 Over het aanhouden van een betaalrekening oordeelt het hof anders. Het is voor Yin Yang c.s. vrijwel onmogelijk om deel te nemen aan het maatschappelijk verkeer laat staan om een bedrijf te exploiteren zonder te beschikken over een betaalrekening bij een bank.
+Yin Yang c.s. hebben aangevoerd dat zij diverse banken hebben benaderd maar dat geen van de benaderde banken een relatie met Yin Yang c.s. wenst aan te gaan. De wetenschap dat ING Bank heeft opgezegd in combinatie met een mediacheck was voor de banken al voldoende om hen als nieuwe klanten te weigeren aldus Yin Yang c.s. Zij hebben dit betoog onderbouwd met schriftelijke afwijzingen van banken in de periode april 2017-september 2018.
+ING Bank heeft aangevoerd dat Yin Yang c.s. zich onvoldoende hebben ingespannen om een nieuwe bank te vinden.
+Het hof acht voorshands aannemelijk dat Yin Yang c.s. zich voldoende hebben ingespannen. De overgelegde schriftelijke afwijzingen wekken de indruk dat Yin Yang c.s. in veel gevallen al met een afwijzing werden geconfronteerd voordat zij de kans kregen nader inzicht te verschaffen in hun bedrijfsvoering en de daaraan verbonden risico’s.
+Yin Yang c.s. hebben dus een groot belang erbij dat zij een betaalrekening kunnen aanhouden bij ING Bank. Aan een betaalrekening zonder faciliteiten voor het storten van contant geld is een minder groot risico op witwassen verbonden. Het belang van ING Bank om het risico op witwassen te vermijden wordt dus minder hard geraakt. Daarom bestaat er onevenredigheid tussen de belangen van Yin Yang c.s. enerzijds en die van ING Bank anderzijds. Het belang van Yin Yang c.s. bij het kunnen aanhouden van een betaalrekening is ook spoedeisend ook al is de club thans op last van de burgemeester van Roermond gesloten. Die last eindigt immers in februari 2020.
+ 
+
+
+3.13
+Gelet op hetgeen hiervoor in rov 3.6 en 3.12 is overwogen is voldoende aannemelijk dat de bodemrechter zal oordelen dat ING Bank in dit geval verplicht is een contractuele relatie aan te gaan met Yin Yang c.s. teneinde hen in staat te stellen een betaalrekening aan te houden. Zoals hiervoor is overwogen kan ING Bank niet worden verplicht daaraan faciliteiten te verbinden voor het storten van contant geld.” 
+
+
+2.10
+Diverse omstandigheden die ING heeft aangevoerd tegen het verplicht aangaan van (een) nieuwe bancaire relatie(s) met Yin Yang c.s. doen naar het oordeel van het hof aan het voorgaande niet af: 
+
+“3.14 Aan het voorgaande doet niet af dat er in 2016 een doorzoeking is gedaan bij de club van Yin Yang c.s. dat daarbij enige drugs wapens en contant geld zijn aangetroffen dat dit de nodige aandacht van de pers heeft gehad en dat [de bestuurders] verdacht zijn geweest van witwassen van € 140.00000 het zonder vergunning uitvoeren van wisseltransacties in hun bedrijf en valsheid in geschrift. Deze verdenkingen zijn immers geëindigd in een schikking met het Openbaar Ministerie en een sepot. Anders dan ING Bank stelt is het voorshands onvoldoende aannemelijk dat hetgeen waarvan [de bestuurders] verdacht zijn geweest daadwerkelijk heeft plaatsgevonden.
+Ook de omstandigheid dat de burgemeester van Roermond de club voor de duur van twaalf maanden heeft gesloten en dat dit gepaard is gegaan met negatieve aandacht in de pers doet aan het voorgaande niet af. Voor zover dit al integriteits- en reputatierisico’s voor ING Bank meebrengt zijn die risico’s relatief gering omdat ING Bank slechts wordt verplicht Yin Yang c.s. in staat te stellen een betaalrekening bij haar aan te houden zonder dat daaraan faciliteiten moeten worden verbonden voor het storten van contant geld.
+Ook kan ING Bank in dit verband niet met succes aan Yin Yang c.s. tegenwerpen dat zij het vertrouwen in hen heeft verloren. ING Bank heeft onvoldoende feiten en omstandigheden aangevoerd op grond waarvan het objectief gerechtvaardigd is dat zij het vertrouwen heeft verloren dat vereist is voor het aanbieden van een betaalrekening zonder faciliteiten voor het storten van contant geld. De omstandigheid dat Yin Yang c.s. in en buiten rechte een bedrijfsmodel hebben verdedigd waarin veel contant geld omgaat is in elk geval onvoldoende om dat objectief gerechtvaardigd te achten.”
+ 
+
+
+2.11
+Aldus luidt het dictum van het bestreden arrest als volgt: 
+
+“Het hof:
+ 
+
+vernietigt het vonnis waarvan beroep;
+ 
+
+en opnieuw rechtdoende:
+ 
+
+veroordeelt ING Bank om Yin Yang Vocu Roerdalhoeve CS Bedrijven CS Horeca CS Sauna en MSB in staat te stellen een betaalrekening bij ING Bank aan te houden met dien verstande dat ING Bank niet veroordeeld wordt om daaraan faciliteiten te verbinden voor het storten van contant geld;
+ 
+
+(…).”
+ 
+
+
+2.12
+
+ING heeft bij procesinleiding van 17 maart 2020 – tijdig – cassatieberoep ingesteld tegen het bestreden arrest. Yin Yang c.s. hebben verweer gevoerd en incidenteel cassatieberoep ingesteld. ING heeft op haar beurt daartegen verweer gevoerd. Partijen hebben hun standpunten schriftelijk toegelicht en Yin Yang c.s. hebben gedupliceerd.
+3. Bancaire zorgplichten en de basisbetaalrekening
+ 
+
+
+Bancaire zorgplichten in vogelvlucht
+
+ 
+
+
+3.1
+Voor banken kunnen diverse zorgplichten in beeld komen. Sommige zijn in de rechtspraak ontwikkeld andere zijn in regelgeving neergelegd. De ene keer zijn ze van privaatrechtelijke origine maar in andere gevallen eerder van publiekrechtelijke snit.25 
+
+
+3.2
+Wat betreft de privaatrechtelijke (bijzondere) bancaire zorgplicht(en) wordt de van de bank te verlangen zorg bepaald door verschillende ‘mechanismen’ die ieder voor zich (wat mij betreft ongelukkig genoeg) ook wel ‘zorgplicht’ worden genoemd. Zo is er (i) de zorgplicht zoals neergelegd in artikel 2 van de Algemene Bankvoorwaarden26 (ii) de verplichtingen die voortvloeien uit (op zich vrij algemene) bepalingen (open normen) zoals art. 6:2 BW 6:248 BW en art. 7:401 BW in welk verband ook vaak van zorgplicht wordt gesproken en ten slotte (iii) de bijzondere zorgplicht uit de rechtspraak van Uw Raad.27 
+
+
+3.3
+De hiervoor onder (iii) genoemde in de rechtspraak ontwikkelde bijzondere zorgplicht komt voort uit de maatschappelijke functie van banken28 en strekt mede ertoe de cliënt te beschermen tegen zoals Uw Raad het vaak verwoordt het gevaar van een gebrek aan kunde en inzicht of van eigen lichtvaardigheid.29 De bijzondere zorgplicht kan zich onder meer manifesteren in een onderzoeks- advies- informatie- en waarschuwingsplicht voor de bank. De inhoud en de reikwijdte van de bijzondere zorgplicht hangen mede af van de omstandigheden van het geval waaronder de mate van deskundigheid en relevante ervaringen van de betrokken wederpartij de ingewikkeldheid van het product en de daaraan verbonden risico’s.30 
+
+
+3.4
+De bijzondere zorgplicht van banken is voor het eerst door Uw Raad aangenomen in de contractuele verhouding tussen een bank en particuliere cliënten meer specifiek in gevallen waarin bijzondere risico’s in het geding waren.31 Uit latere rechtspraak blijkt dat de bijzondere zorgplicht zich ook uitstrekt tot de fase voorafgaand aan het sluiten van de overeenkomst (de precontractuele fase).32 Inmiddels is duidelijk dat de bijzondere zorgplicht ook geldt ten opzichte van niet-consumenten (zij het in beginsel in mindere mate).33 
+
+
+3.5
+Ook buiten de (pre)contractuele verhouding met een cliënt heeft Uw Raad een bijzondere zorgplicht voor banken aangenomen. De maatschappelijke functie van banken brengt immers mee dat banken óók een bijzondere zorgplicht hebben ten opzichte van derden met wier belangen zij rekening behoren te houden op grond van hetgeen volgens ongeschreven recht in het maatschappelijk verkeer betaamt.34 Volgens Uw Raad hangt de maatschappelijke functie van banken ermee samen dat zij een centrale rol spelen in het betalings- en effectenverkeer en de dienstverlening terzake op die gebieden bij uitstek deskundig zijn en terzake beschikken over informatie die anderen missen. Deze functie rechtvaardigt dat de zorgplicht van de bank niet is beperkt tot zorg jegens personen die als klant in een contractuele relatie tot de bank staan.35 
+
+
+3.6
+Ongeacht wie een beroep op de bijzondere zorgplicht van de bank doet (cliënten van de bank of derden) steeds geldt dat het van de specifieke omstandigheden van het individuele geval afhangt waartoe de bijzondere zorgplicht van de bank uiteindelijk verplicht. De bijzondere zorgplicht wordt derhalve gekarakteriseerd door een contextuele benadering.36 
+
+
+De bancaire zorgplicht in de onderhavige zaak
+
+ 
+
+
+3.7
+In deze zaak zijn de contractuele verhoudingen tussen Yin Yang c.s. en ING in april 2017 en januari 2018 door ING beëindigd (randnummer 1.25 hiervoor). Het hof heeft met juistheid geoordeeld dat deze beëindigingen rechtsgeldig hebben plaatsgevonden (randnummers 1.23 en 1.24 hiervoor). Daarvan uitgaande staan Yin Yang c.s. en ING inmiddels niet meer in een contractuele verhouding tot elkaar.37 In lijn hiermee wordt ING in deze zaak ook op grond van art. 6:162 BW aangesproken: haar wordt verweten dat zij maatschappelijk onzorgvuldig heeft gehandeld door geen nieuwe contractuele relaties met de betrokken derden (Yin Yang c.s.) te willen aangaan.38 Daarbij wordt nadrukkelijk de maatschappelijke positie van ING als bank en in het bijzonder haar spilfunctie in het betalingsverkeer in beeld gebracht. Hoewel niet elk maatschappelijk onzorgvuldig optreden van een bank jegens een niet-cliënt (derde) wat mij betreft in de sleutel van schending van haar bijzondere zorgplicht moet worden gezet39 ligt dat hier gelet op het voorgaande wel voor de hand. In deze zaak staat dus de bijzondere zorgplicht van de bank jegens derden centraal al blijft het een kwestie van etikettering. Of de zorgplicht die de bank jegens derden in acht moet nemen ‘bijzonder’ is of niet doet in wezen niet ter zake. Het gaat om de inhoud van de zorgplicht: tot welke zorg is de bank in het licht van de omstandigheden van het geval jegens de concrete derde(n) gehouden?40 
+
+
+3.8
+De onderhavige zaak verschilt van de zaken waarin Uw Raad tot nu toe een bijzondere zorgplicht jegens derden heeft aangenomen. In die zaken (onder meer MeesPierson/Ten Bos Safe Haven en Ponzi-zwendel41) ging het kort gezegd en samengevat om situaties waarin de bank bij uitstek deskundig was (en derden die deskundigheid misten) en/of de bank over informatie beschikte die anderen (de derden) misten reden waarom Uw Raad onderzoeks- en waarschuwingsplichten voor de bank heeft aangenomen. In de onderhavige zaak gaat het echter niet om de vraag of een bank – gelet op haar deskundigheid – bepaalde zaken had moeten onderzoeken of (een) derde(n) had moeten waarschuwen maar om de vraag of een bank (ING) – gelet op haar maatschappelijke functie – verplicht is om een contractuele relatie met bepaalde derden (Yin Yang c.s.) aan te gaan. 
+
+
+3.9
+Ik sluit niet uit dat de bijzondere zorgplicht onder bepaalde (bijzondere) omstandigheden een bank kan verplichten (opnieuw) een contractuele relatie met een derde aan te gaan. De in de rechtspraak ontwikkelde bijzondere zorgplicht die op zijn beurt voortvloeit uit de in art. 6:162 BW neergelegde zorgvuldigheidsnorm betreft immers een open norm die met de tijd mee-ontwikkelt en niet op voorhand tot bepaalde situaties is beperkt. Daarom moet telkens opnieuw aan de hand van de omstandigheden van het geval worden bezien tot welke zorg de bank in het concrete geval jegens de derde(n) is gehouden. In dit systeem past niet dat bepaalde zorg zoals het aangaan van een (standaard) contractuele relatie met een derde bij voorbaat is uitgesloten van de bijzondere zorgplicht van de bank. 
+
+
+3.10
+Daarbij komt dat de achtergrond van de bijzondere zorgplicht van de bank in de eerste plaats wordt gezocht in de spilfunctie die banken in het maatschappelijke verkeer vervullen.42 Zeker in het digitale tijdperk waarin we nu leven is het simpelweg niet meer (goed) mogelijk om aan het maatschappelijk verkeer – en daarmee de samenleving – deel te nemen zonder in elk geval toegang te hebben tot een betaalrekening. De weigering van een bank om een contractuele relatie met een derde aan te gaan (in het bijzonder met betrekking tot een betaalrekening) kan er derhalve toe leiden dat de derde van het maatschappelijk verkeer en de samenleving wordt uitgesloten. De bank heeft wat dat betreft dus een zekere ‘macht’ over (de) derde(n) en een weigering van de bank om (opnieuw) met de derde(n) in zee te gaan kan (en zal) voor de derde(n) ingrijpende gevolgen hebben. Ook gelet op dit ‘machtsonevenwicht’ acht ik het niet uitgesloten dat een bank onder bepaalde (bijzondere) omstandigheden kan worden verplicht om (opnieuw) een contractuele relatie met de derde(n) aan te gaan.43 
+
+
+De basisbetaalrekening
+
+ 
+
+
+3.11
+In 2016 is in Nederland art. 4:71f Wft ingevoerd naar aanleiding van Richtlijn 2014/92/EU (hierna: ‘de betaalrekeningenrichtlijn’).44 Op grond van art. 4:71f Wft moet een bank die in Nederland betaalrekeningen aan consumenten aanbiedt consumenten die rechtmatig in de Europese Unie verblijven op verzoek in de gelegenheid stellen een zogenaamde ‘basisbetaalrekening’ aan te vragen en te gebruiken. Een basisbetaalrekening omvat kort gezegd diensten waarmee de consument (i) een betaalrekening kan openen gebruiken en beëindigen (ii) geldmiddelen op een betaalrekening kan storten (iii) contanten kan opnemen en (iv) (automatische) betalingstransacties en overmakingen kan uitvoeren.45 Een bank is verplicht de aanvraag van een basisbetaalrekening af te wijzen indien zij bij het openen van de basisbetaalrekening niet aan haar verplichtingen uit de Wwft kan voldoen (art. 4:71g lid 1 Wft). Daarnaast mag een bank op een limitatief aantal gronden weigeren een basisbetaalrekening te openen (art. 4:71g lid 2 Wft) en de basisbetaalrekening stopzetten (art. 4:71i lid 1 Wft). 
+
+
+3.12
+Aanleiding tot de betaalrekeningenrichtlijn was onder meer een onderzoek waaruit bleek dat een groot aantal Europeanen niet over een betaalrekening beschikt(e).46 Een van de doelstellingen van de betaalrekeningenrichtlijn is dan ook om de toegang van consumenten tot een betaalrekening met basisfuncties te verbeteren.47 De considerans bij de betaalrekeningenrichtlijn vermeldt in dit kader dat de goede werking van de interne markt en de ontwikkeling van een moderne sociaal inclusieve economie steeds meer afhankelijk zijn van de universele verlening van betalingsdiensten.48 
+
+
+3.13
+De memorie van toelichting bij de Implementatiewet toegang betaalrekening49 waarmee de betaalrekeningenrichtlijn in de Wft is geïmplementeerd verwoordt de (derde) doelstelling van de betaalrekeningenrichtlijn (het verbeteren van de toegang tot betaaldiensten voor consumenten) als volgt:50 
+
+“(…) Ter voorkoming van sociale en financiële uitsluiting is het belangrijk dat consumenten voldoende toegang hebben tot girale betaaldiensten. Dit geldt met name voor landen zoals Nederland waar contante betalingen steeds meer plaatsmaken voor giraal betalingsverkeer. Door het recht op toegang tot een basisbetaalrekening wettelijk te verankeren hoopt de Europese Commissie binnen Europa te verzekeren dat iedere consument die een betaalrekening wenst te openen daar ook echt toe in staat is.”
+ 
+
+
+3.14
+Het aldus gecreëerde recht op een basisbetaalrekening geldt alleen voor consumenten en derhalve niet voor rechtspersonen (zoals Yin Yang c.s.). De ratio achter het verplicht verstrekken van een basisbetaalrekening aan consumenten gaat echter (in elk geval in belangrijke mate) ook op voor rechtspersonen. Net zoals het voor consumenten noodzakelijk is om over een betaalrekening te beschikken om aan het maatschappelijk verkeer te kunnen deelnemen is het voor het (voort)bestaan van een rechtspersoon van eminent belang om in elk geval met een betaalrekening toegang tot het bancaire systeem te hebben. Rechtspersonen zullen immers doorgaans als doel hebben om aan het economisch verkeer deel te nemen. In de literatuur wordt om deze reden ook wel bepleit dat banken in beginsel óók ten aanzien van rechtspersonen verplicht zijn op verzoek een (zakelijke) betaalrekening te openen. De contractvrijheid van de bank moet dan wijken voor het grote belang dat bedrijven hebben bij het kunnen gebruikmaken van een betaalrekening.51 
+
+
+3.15
+Dit standpunt heeft mijn sympathie zeker als het – zoals in deze zaak – gaat om een (zakelijke) betaalrekening zonder faciliteit voor het storten van contant geld. Het ligt wat mij betreft echter niet voor de hand om zonder een daartoe strekkende wettelijke regeling voor banken ook ten behoeve van rechtspersonen eenzelfde beginselplicht tot het aanbieden van een (zakelijke) betaalrekening aan te nemen als voor consumenten aan de orde is. De huidige wettelijke regeling ten faveure van consumenten is er niet voor niets: zij moet de vergaande inbreuk op de contractvrijheid van banken rechtvaardigen. Zolang een dergelijke wettelijke basis ontbreekt waar het gaat om niet-consumenten staat de contractvrijheid nog voorop en kan een bank slechts onder bepaalde (bijzondere) omstandigheden worden verplicht een betaalrekening aan een niet-consument te verschaffen. De grondslag voor een dergelijke verplichting kan worden gevonden in (schending van) de bijzondere zorgplicht van de bank. Zoals gezegd (randnummers 3.9 en 3.10 hiervoor) betreft de bijzondere zorgplicht van banken een open norm die met de tijd mee-ontwikkelt en samenhangt met de maatschappelijke (spil)functie die banken in de samenleving vervullen. Daarbij past niet dat bepaalde zorg zoals het verstrekken van een (zakelijke) betaalrekening aan een rechtspersoon bij voorbaat van de bijzondere zorgplicht is uitgesloten. 
+
+
+
+
+4 Bespreking van het principale cassatieberoep 
+
+4.1
+Het cassatiemiddel van ING bestaat uit vier onderdelen: 
+
+- in onderdeel 1 betoogt ING dat het hof haar contractvrijheid op onjuiste wijze heeft begrensd;
+- in onderdeel 2 klaagt ING dat het hof de relevantie heeft miskend van de eerdere geldige opzeggingen door ING;
+- in onderdeel 3 betoogt ING dat het hof ten onrechte ten aanzien van de betaalrekening een contracteerplicht voor ING heeft aangenomen; en
+- onderdeel 4 bevat een voortbouwklacht.
+ 
+
+
+4.2
+Ik beoordeel de onderdelen die tezamen een aanzienlijke reeks klachten bevatten hierna achtereenvolgens. 
+
+
+Onderdeel 1: onjuiste begrenzing contractvrijheid
+
+ 
+
+
+4.3
+Dit onderdeel valt uiteen in vier subonderdelen en komt op tegen het oordeel van het hof in rov. 3.6 dat een bank onder bijzondere omstandigheden kan worden verplicht een contractuele relatie met een rechtspersoon aan te gaan. 
+
+
+Subonderdeel 1.1
+
+ 
+
+
+4.4
+ING betoogt dat het hof heeft miskend dat de bijzondere zorgplicht van banken (slechts) ertoe strekt cliënten en derden te beschermen tegen de risico’s die financiële dienstverlening en financiële producten met zich brengen. Voor zover de bijzondere zorgplicht van banken al grenzen stelt aan de contractvrijheid van banken houden deze grenzen in dat banken bepaalde overeenkomsten niet mogen sluiten (de zogenaamde weigeringsplicht). Tot een contracteerplicht kan de bijzondere zorgplicht niet leiden aldus ING. 
+
+
+4.5
+De klacht gaat uit van een onjuiste rechtsopvatting en faalt. 
+
+
+4.6
+Blijkens rechtspraak van Uw Raad strekt de bijzondere zorgplicht van banken ten opzichte van derden “mede” ter bescherming van de belangen van beleggers en “mede” ter bescherming tegen lichtvaardigheid en gebrek aan kunde.52 Gebruik van het woord “mede” duidt erop dat (de strekking van) de bijzondere zorgplicht niet tot dergelijke situaties is beperkt. Een dergelijke beperking zou ook niet passen want de bijzondere zorgplicht van banken jegens derden is gegrond op de maatschappelijke zorgvuldigheidsnorm van art. 6:162 lid 2 BW een open norm die maakt dat steeds aan de hand van de omstandigheden van het geval moet worden bezien tot welke zorg de bank jegens de derde(n) is gehouden (randnummers 3.5 e.v. hiervoor). Die zorg kan zowel bestaan uit een handelen als een laten. Anders dan ING betoogt is derhalve niet uitgesloten dat de bijzondere zorgplicht ertoe kan leiden dat een bank wordt verplicht (opnieuw) een contractuele relatie met een derde aan te gaan. 
+
+
+Subonderdeel 1.2
+
+ 
+
+
+4.7
+ING komt op tegen de overwegingen van het hof in rov. 3.6 inhoudende dat een rechtspersoon wat betreft het vermogensrecht met een natuurlijk persoon gelijk staat tenzij uit de wet het tegendeel voortvloeit en dat de bank onder bijzondere omstandigheden kan worden verplicht een contractuele relatie met een rechtspersoon aan te gaan. Volgens ING getuigen deze overwegingen van een onjuiste rechtsopvatting voor zover het hof hiermee heeft miskend dat een rechtspersoon geen uit de bijzondere zorgplicht voortvloeiende bescherming toekomt althans niet dezelfde bescherming als natuurlijke personen. 
+
+
+4.8
+De klacht gaat uit van een onjuiste rechtsopvatting voor zover ING betoogt dat een rechtspersoon in het geheel geen bescherming toekomt van de bijzondere bancaire zorgplicht. Uit rechtspraak van Uw Raad volgt immers dat indien de omstandigheden daartoe nopen ook niet-consumenten zoals rechtspersonen (zij het mogelijk in mindere mate) bescherming toekomt uit hoofde van de bijzondere zorgplicht (randnummers 3.4 en 3.5 hiervoor). Het past ook niet bij de open norm die de bijzondere bancaire zorgplicht inhoudt dat een hard onderscheid tussen derden wordt gemaakt in die zin dat bepaalde derden (zoals rechtspersonen) ongeacht de omstandigheden van het geval nooit (enige) bescherming uit hoofde van de bijzondere bancaire zorgplicht toekomt. 
+
+
+4.9
+De klacht gaat uit van een onjuiste lezing van het bestreden arrest en mist derhalve feitelijke grondslag voor zover ING betoogt dat het hof heeft miskend dat rechtspersonen niet dezelfde bescherming toekomt als natuurlijke personen. Het hof heeft namelijk niet overwogen dat rechtspersonen en natuurlijke personen dezelfde bescherming toekomt. Het hof heeft slechts overwogen dat uit art. 4:71f Wft – welke bepaling consumenten in beginsel recht geeft op een basisbetaalrekening (randnummers 3.11 e.v. hiervoor) – niet kan worden afgeleid dat banken (dus) niet kunnen worden verplicht een contractuele relatie met een rechtspersoon aan te gaan. Die overweging is niet onjuist. 
+
+
+Subonderdeel 1.3
+
+ 
+
+
+4.10
+ING klaagt dat het hof heeft miskend dat van een contracteerplicht ten aanzien van niet-consumenten geen sprake kan zijn althans dat daarvan slechts sprake kan zijn indien contractsweigering door de bank misbruik van bevoegdheid zou opleveren of naar maatstaven van redelijkheid en billijkheid onaanvaardbaar zou zijn. Voor zover het hof uit art. 4:71f Wft iets anders heeft afgeleid getuigt dit volgens ING eveneens van een onjuiste rechtsopvatting. 
+
+
+4.11
+De klachten gaan uit van een onjuiste rechtsopvatting en falen. 
+
+
+4.12
+Zoals gezegd (randnummers 3.4 e.v. hiervoor) komt ook aan niet-consumenten zoals rechtspersonen (een beperkte mate van) bescherming toe uit hoofde van de bijzondere zorgplicht van banken. Ik acht het niet uitgesloten dat die bescherming onder bepaalde (bijzondere) omstandigheden ertoe kan leiden dat een bank wordt verplicht (opnieuw) een contractuele relatie met een (rechtspersoon-)derde aan te gaan (randnummers 3.9 en 3.10 hiervoor). 
+
+
+4.13
+Anders dan ING betoogt wordt een dergelijke contracteerplicht wat mij betreft niet pas aangenomen indien de weigering de contractuele relatie aan te gaan misbruik van bevoegdheid zou opleveren of naar maatstaven van redelijkheid en billijkheid onaanvaardbaar zou zijn. Gelet op de zorgvuldigheidsnorm waarop de bijzondere zorgplicht van banken is gegrond kan een contracteerplicht immers ‘reeds’ ontstaan indien het nalaten van de bank een contractuele relatie met een derde aan te gaan in strijd komt met hetgeen volgens ongeschreven recht in het maatschappelijk verkeer betaamt (art. 6:162 lid 2 BW). Daarvan zal sprake zijn als de (bijzondere) omstandigheden van het geval maken dat het (grote) belang van de bank bij het zelf mogen kiezen met wie zij een contractuele relatie aangaat moet wijken voor een (nog) groter belang van de derde. Voor een (verdere) beperking tot extreme gevallen waarin sprake is van misbruik van bevoegdheden en apert onredelijk handelen zie ik geen aanleiding. 
+
+
+Subonderdeel 1.4
+
+ 
+
+
+4.14
+ING betoogt dat het hof ten onrechte geen gewicht heeft toegekend aan de verplichting (op grond van art. 5 Wwft) en het gerechtvaardigde belang van banken om cliënten te weigeren in verband met toezichtrechtelijke eisen en integriteitsrisico’s. Ten aanzien van consumenten geldt in dergelijke gevallen een uitzondering op de contracteerplicht (art. 4:71g lid 1 Wft randnummer 3.11 hiervoor). Ten aanzien van niet-consumenten (zoals Yin Yang c.s.) geldt derhalve temeer dat onder die omstandigheden geen sprake kan zijn van een contracteerplicht. In elk geval kan volgens ING van een contracteerplicht ten aanzien van niet-consumenten geen sprake zijn indien bij de bank reële twijfel bestaat of zij aan de verplichting van art. 5 Wwft kan voldoen. 
+
+
+4.15
+De klacht faalt. 
+
+
+4.16
+Uit de vijfde alinea van rov. 3.12 blijkt dat het hof – bij zijn oordeel dat ING wordt verplicht Yin Yang c.s. in staat te stellen een betaalrekening aan te houden – heeft laten meewegen dat ING er belang bij heeft om het risico op witwassen te vermijden. Het ligt voor de hand dat het hof dit heeft laten meewegen mede met het oog op het voor ING geldende verbod van art. 5 Wwft om een zakelijke relatie met een cliënt aan te gaan en te continueren zonder met goed resultaat vooraf en periodiek cliëntenonderzoek te hebben uitgevoerd. Anders dan ING betoogt heeft het hof dus wel gewicht toegekend aan de verplichting voor en het belang van banken om cliënten te weigeren in verband met toezichtrechtelijke eisen en integriteitsrisico’s. Aan ING kan worden toegegeven dat het hof dat in rov. 3.12 heeft gedaan en niet in rov. 3.6 maar dat maakt de overwegingen en het oordeel van het hof in rov. 3.6 niet onjuist. 
+
+
+4.17
+Voor het overige mist de klacht feitelijke grondslag. Het hof heeft in de vijfde alinea van rov. 3.12 overwogen dat aan een betaalrekening zonder faciliteiten voor het storten van contant geld een minder groot risico op witwassen is verbonden (dan aan een betaalrekening mét mogelijkheid tot het afstorten van contant geld of aan een aparte overeenkomst voor het afstorten van contant geld zie rov. 3.8). Deze overweging impliceert dat ING door slechts een betaalrekening zonder faciliteit voor het afstorten van contant geld aan Yin Yang c.s. te hoeven aanbieden naar het oordeel van het hof aan de verplichting op grond van art. 5 Wwft zou moeten kunnen voldoen. De situatie die ING in het middelonderdeel schetst namelijk dat een bank niet is gehouden een contractuele relatie met een niet-consument aan te gaan indien reële twijfel bestaat of de bank aan de verplichting van art. 5 Wwft kan voldoen is hier dus niet aan de orde. 
+
+
+Onderdeel 2: miskenning relevantie geldige opzegging
+
+ 
+
+
+4.18
+Dit onderdeel valt uiteen in drie subonderdelen en komt op tegen het oordeel van het hof in rov. 3.7 dat de vraag of ING moet worden verplicht een nieuwe contractuele relatie met Yin Yang c.s. aan te gaan moet worden beantwoord naar de stand van zaken ten tijde van de uitspraak van het hof (ex nunc) en dat er geen reden is om de stand van zaken ten tijde van de opzeggingen tot uitgangspunt te nemen. 
+
+
+Subonderdeel 2.1
+
+ 
+
+
+4.19
+ING betoogt dat het hof heeft miskend dat indien een bank de relatie met een zakelijke klant rechtsgeldig heeft beëindigd van de bank niet kan worden gevergd met die klant een nieuwe relatie aan te gaan althans dat dat slechts kan indien een contractsweigering van de bank misbruik van bevoegdheid zou opleveren of naar maatstaven van redelijkheid en billijkheid onaanvaardbaar zou zijn. 
+
+
+4.20
+De klacht gaat uit van een onjuiste rechtsopvatting voor zover ING betoogt dat de omstandigheid dat een eerdere contractuele relatie rechtsgeldig is geëindigd ervoor zorgt dat de bank niet kan worden verplicht een nieuwe contractuele relatie met de ex-klant aan te gaan. Een dergelijk uitgangspunt is niet verenigbaar met de open norm die de bijzondere zorgplicht van banken jegens derden inhoudt en op basis waarvan aan de hand van alle omstandigheden van het geval moet worden bepaald tot welke zorg de bank in een concreet geval is gehouden. Tot die omstandigheden behoort ook de omstandigheid dat eerder een rechtsgeldige opzegging heeft plaatsgevonden maar het is onjuist om aan deze omstandigheid bij voorbaat doorslaggevende betekenis toe te kennen in die zin dat een bank dan nooit (meer) ongeacht de omstandigheden kan worden verplicht een nieuwe contractuele (zakelijke) relatie met de ex-klant aan te gaan. 
+
+
+4.21
+Voor het overige bouwt de klacht voort op de klacht in subonderdeel 1.3 die faalt (randnummers 4.10 e.v. hiervoor) waardoor ook deze klacht in zoverre faalt. 
+
+
+Subonderdeel 2.2
+
+ 
+
+
+4.22
+ING klaagt dat het hof heeft miskend dat bij de beantwoording ex nunc van de vraag of ING moet worden verplicht een nieuwe contractuele relatie met Yin Yang c.s. aan te gaan betekenis toekomt aan de eerder geldig beëindigde contractuele relatie tussen partijen. Indien aan een dergelijke opzegging geen betekenis toekomt is dat volgens ING in strijd met de rechtszekerheid. Ook brengt de postcontractuele werking van de redelijkheid en billijkheid volgens ING potentieel met zich dat de geldigheid van een eerdere opzegging en de aan die opzegging ten grondslag liggende redenen ervoor zorgen dat een contracteerplicht niet of (nog) minder snel kan worden aangenomen. 
+
+
+4.23
+De klachten falen. 
+
+
+4.24
+Uit rov. 3.7 in samenhang gelezen met de tweede en vierde alinea van rov. 3.12 blijkt dat het hof er wel betekenis aan heeft toegekend dat ING de eerdere contractuele relaties tussen Yin Yang c.s. en ING (rechtsgeldig) heeft verbroken. Het hof heeft hierin echter geen reden gezien om ING niet te verplichten een nieuwe contractuele relatie met Yin Yang c.s. aan te gaan. Dat is niet onjuist. In dit kader geldt dat het hof heeft overwogen dat Yin Yang c.s. na de opzeggingen door ING diverse andere banken hebben benaderd met het verzoek een bancaire relatie aan te gaan steeds zonder succes. De afwijzingen die Yin Yang c.s. van de andere banken hebben ontvangen wekken volgens het hof de indruk dat Yin Yang c.s. in veel gevallen al met een afwijzing werden geconfronteerd voordat zij de kans kregen nader inzicht te verschaffen in hun bedrijfsvoering en de daaraan verbonden risico’s. Het is om deze reden – samen met de overweging dat het vrijwel onmogelijk is om zonder betaalrekening een bedrijf te exploiteren – dat Yin Yang c.s. aldus het hof in de vijfde alinea van rov. 3.12 een groot belang erbij hebben dat zij een betaalrekening kunnen aanhouden “bij ING Bank” (bij andere banken kunnen Yin Yang c.s. immers niet terecht). 
+
+
+4.25
+Ik acht het niet in strijd met de rechtszekerheid als een bank na een eerdere rechtsgeldige opzegging wordt verplicht opnieuw een contractuele relatie met de ex-klant aan te gaan. Ten eerste kan men zich afvragen in hoeverre de rechtszekerheid door een dergelijke gang van zaken daadwerkelijk in het geding komt. Hiervoor heb ik immers betoogd/uiteengezet dat een contracteerplicht alleen onder bepaalde (bijzondere) omstandigheden aan de orde kan zijn (randnummers 3.9 en 3.10 hiervoor). Banken hoeven wat mij betreft dus niet te vrezen dat ze bij elke opzegging het risico lopen om op een later moment verplicht te zijn een nieuwe contractuele relatie met de ex-klant aan te gaan. Het gaat hier om uitzonderingsgevallen. Daarbij komt dat eventuele rechtsonzekerheid die wél ontstaat doordat een bank – na een geldige opzegging – opnieuw een contractuele relatie met de betreffende ex-klant moet aangaan in mijn ogen minder zwaar weegt dan het belang dat met dit ‘achterdeurtje’ wordt gediend. Namelijk dat als bepaalde (bijzondere) omstandigheden daartoe nopen de ex-klant (middels een (eenvoudige) contractuele relatie met de bank) weer aan het maatschappelijke verkeer kan deelnemen en deel kan uitmaken van de samenleving. 
+
+
+4.26
+Wat betreft het betoog van ING dat de geldigheid van een eerdere opzegging en de daaraan ten grondslag liggende redenen potentieel ervoor zorgen dat een contracteerplicht niet of (nog) minder snel kan worden aangenomen geldt het volgende. Er zijn inderdaad situaties te bedenken waarin een eerdere rechtsgeldige opzegging ertoe leidt dat de betreffende bank niet of minder snel kan worden verplicht een nieuwe contractuele relatie met de ex-klant aan te gaan. Dit is bijvoorbeeld het geval indien een bank een contractuele relatie om bepaalde redenen rechtsgeldig heeft opgezegd en de omstandigheden en inzichten sindsdien niet zijn gewijzigd. Er zijn echter ook situaties te bedenken zoals in dit geval waarin een eerdere rechtsgeldige opzegging er juist toe leidt dat sneller een contracteerplicht voor de bank kan worden aangenomen.53 Bijvoorbeeld indien een bank de contractuele relatie met een klant om bepaalde redenen rechtsgeldig heeft mogen opzeggen maar nadien is gebleken dat de omstandigheden waarop de opzegging was gebaseerd niet (in die mate) aan de orde waren of – op basis van nieuwe feiten en inzichten – in een ander perspectief zijn komen te staan. In dergelijke gevallen kan alle omstandigheden van het geval ex nunc beoordeeld de maatschappelijke functie van de bank meebrengen dat de bank een nieuwe contractuele relatie met de klant moet aangaan. De bank behoort immers ook rekening te houden de belangen van de ex-klanten die door een eerdere (rechtsgeldige) opzegging van deelname aan het maatschappelijk verkeer kunnen zijn uitgesloten en daardoor groot nadeel kunnen ondervinden. 
+
+
+4.27
+In deze zaak heeft het strafrechtelijk onderzoek dat eind 2016 naar Yin Yang c.s. is ingesteld en de daaraan gegeven media-aandacht er uiteindelijk toe geleid dat ING in april 2017 en januari 2018 de bankrelaties met Yin Yang c.s. heeft opgezegd. In juli 2018 is het strafrechtelijke onderzoek naar Yin Yang c.s. echter geëindigd in een sepot en niet in een veroordeling (randnummer 1.19 hiervoor). Daarnaast hebben [de bestuurders] een schikking met het OM getroffen en is volgens het OM niet gebleken van feiten of omstandigheden die tot een negatief Bibob-advies moeten leiden (randnummer 1.18 hiervoor). Omdat de opzeggingen door ING ex tunc moesten worden beoordeeld (naar het moment waarop ING de opzeggingen heeft gedaan in maart/april 2017)54 heeft het hof het sepot en de schikking niet (ten volle) in de beoordeling van de rechtsgeldigheid van de opzeggingen kunnen meenemen. Bij de (ex nunc) beoordeling van de vraag of ING is gehouden om nieuwe contractuele relaties met Yin Yang c.s. aan te gaan kan en moet dat wel. Gelet op de ontwikkelingen sinds de opzeggingen acht ik het niet onjuist dat het hof de eerdere (rechtsgeldige) opzeggingen door ING onvoldoende heeft geacht om te oordelen dat ING ex nunc beoordeeld geen nieuwe contractuele relatie met Yin Yang c.s. hoeft aan te gaan. 
+
+
+4.28
+Aan ING kan worden toegegeven dat een dergelijke gang van zaken – eerst de contractuele relaties rechtsgeldig opzeggen en vervolgens toch worden verplicht nieuwe contractuele relaties aan te gaan – inderdaad wat technisch overkomt. Dit komt door de verschillende wijzen waarop enerzijds de geldigheid van de opzeggingen (ex tunc) en anderzijds de vraag of een nieuwe contractuele relatie moet worden aangegaan (ex nunc)55 moeten worden beoordeeld. Bij een ex-tunc toetsing moet de situatie ten tijde van de opzeggingen als uitgangspunt worden genomen en bij een ex nunc-toetsing de huidige situatie. Dit maakt dat bij het beoordelen van de vraag of ING is gehouden nieuwe contractuele relaties met Yin Yang c.s. aan te gaan andere/nieuwe omstandigheden kunnen worden meegewogen die bij het beoordelen van de opzeggingen (nog) niet (in dezelfde mate) konden worden meegewogen. Het gevolg hiervan is dat tot uiteenlopende uitkomsten kan worden gekomen afhankelijk van de weg die wordt gekozen ((enkel) de geldigheid van een opzegging bestrijden of (ook) het aangaan van een nieuwe contractuele relatie vorderen). Dit terwijl de inzet van het geding in beide gevallen hetzelfde is namelijk: een contractuele relatie met de bank. Ik vind dit echter geen groot bezwaar gelet op het resultaat dat met deze systematiek kan worden bereikt namelijk dat een partij wier contractuele relaties met de bank (ex tunc beoordeeld) rechtsgeldig zijn opgezegd de mogelijkheid heeft om toch weer een (eventueel wat ‘eenvoudiger’) contractuele relatie met de bank aan te gaan indien de (bijzondere) omstandigheden (ex nunc beoordeeld) daartoe nopen. Het bestaan van dit ‘achterdeurtje’ lijkt mij met name gewenst gelet op de grote gevolgen die een opzegging voor de betreffende ex-klant kan meebrengen. 
+
+
+Subonderdeel 2.3
+
+ 
+
+
+4.29
+ING bestrijdt de overweging van het hof in de slotzin van rov. 3.7 inhoudende dat hetgeen de voorzieningenrechter en het hof in eerdere kort gedingen tussen partijen hebben geoordeeld niet tot een ander oordeel leidt. Volgens ING kan deze overweging geen stand houden indien het hof daarmee het bepaalde in de subonderdelen 2.1 en 2.2 heeft miskend. 
+
+
+4.30
+De klacht bouwt voort op de klachten in de subonderdelen 2.2 en 2.3 die falen waardoor ook deze voortbouwklacht faalt. 
+
+
+Onderdeel 3: ten onrechte contracteerplicht voor betaalrekening aangenomen
+
+ 
+
+
+4.31
+In dit onderdeel komt ING op tegen de oordelen van het hof in rov. 3.12 3.13 en 3.14 inhoudende – kort gezegd – dat (i) onevenredigheid bestaat tussen de belangen van Yin Yang c.s. en ING (ii) voldoende aannemelijk is dat de bodemrechter zal oordelen dat ING verplicht is een (nieuwe) contractuele relatie met Yin Yang c.s. aan te gaan en (iii) daaraan niet afdoet dat (a) bij een doorzoeking in 2016 drugs wapens en contant geld zijn aangetroffen hetgeen de nodige media-aandacht heeft gehad en [de bestuurders] verdacht zijn geweest van witwassen het zonder vergunning uitvoeren van wisseltransacties en valsheid in geschrifte (b) de burgemeester van Roermond Saunaclub Yin Yang voor de duur van twaalf maanden heeft gesloten hetgeen tot negatieve aandacht in de pers heeft geleid en (c) ING het vertrouwen in Yin Yang c.s. heeft verloren. 
+
+
+4.32
+Het onderdeel valt uiteen in tien subonderdelen die ik achtereenvolgens en deels gezamenlijk zal beoordelen. 
+
+
+Subonderdeel 3.1
+
+ 
+
+
+4.33
+ING betoogt dat de oordelen van het hof van een onjuiste rechtsopvatting getuigen voor zover ze uitgaan van één van de in onderdeel 1 en 2 als onjuist bestreden rechtsopvattingen. Voor zover de oordelen niet van een onjuiste rechtsopvatting uitgaan zijn ze volgens ING onbegrijpelijk althans ontoereikend gemotiveerd gelet op hetgeen ING in de subonderdelen 1.1 1.2 1.3 2.1 en 2.2 heeft betoogd. 
+
+
+4.34
+De klachten bouwen voort op de klachten in de onderdelen 1 en 2 die falen waardoor ook deze voortbouw- en motiveringsklacht falen. 
+
+
+Subonderdeel 3.2
+
+ 
+
+
+4.35
+ING klaagt dat het hof een onjuiste betekenis heeft toegekend aan het belang van niet-consumenten (in het bijzonder rechtspersonen) bij het hebben van een betaalrekening door in rov. 3.12 te overwegen dat Yin Yang c.s. groot belang hebben bij een betaalrekening bij ING. Volgens ING heeft ieder rechtssubject dat maatschappelijk-economisch actief is belang bij het aanhouden van een betaalrekening. Dit belang heeft derhalve geen onderscheidend vermogen en kan niet als een bijzondere omstandigheid gelden die in de richting wijst van onevenwichtigheid of een contracteerplicht mede gelet op de door de wetgever gemaakte afweging dat slechts consumenten recht hebben op een betaalrekening. Nu het hof naast voornoemd belang geen andere (bijzondere) omstandigheden aan de contracteerplicht van ING ten grondslag heeft gelegd is het onbegrijpelijk dat het hof heeft geoordeeld dat het aannemelijk is dat de bodemrechter zal oordelen dat ING verplicht is een contractuele relatie met Yin Yang c.s. aan te gaan. 
+
+
+4.36
+De klacht faalt. 
+
+
+4.37
+Het hof heeft terecht groot belang eraan toegekend dat het ook voor Yin Yang c.s. als niet-consumenten vrijwel onmogelijk is om aan het maatschappelijk verkeer deel te nemen laat staan om een bedrijf te exploiteren zonder over een betaalrekening te beschikken. Zonder het belang van een consument om aan de maatschappij te kunnen deelnemen te willen gelijkstellen aan het belang van een rechtspersoon om een bedrijf te kunnen exploiteren zie ik niet in waarom (ongeacht het belang van consumenten daarbij) een rechtspersoon niet óók groot belang erbij kan hebben om over een betaalrekening te beschikken (randnummer 3.14 hiervoor). ING licht ook niet toe waarom een rechtspersoon niet een dergelijk groot belang bij een betaalrekening kan hebben. Dat ieder rechtssubject dat maatschappelijk-economisch actief is belang heeft bij een betaalrekening en het belang van Yin Yang c.s. dus niet onderscheidend is is niet relevant. Ook niet-onderscheidende belangen (die voor alle wederpartijen van de bank gelden) zijn immers belangen waarmee de bank rekening moet houden. Dat de wetgever slechts consumenten in beginsel recht op een basisbetaalrekening heeft gegeven maakt het voorgaande ook niet anders. Niet valt in te zien waarom dit consumentenrecht zou afdoen aan het belang van niet-consumenten (zoals Yin Yang c.s.) bij een betaalrekening. 
+
+
+4.38
+Het is ook niet zo dat het hof slechts het (niet-onderscheidende) belang van Yin Yang c.s. bij een betaalrekening aan zijn oordeel ten grondslag heeft gelegd of aan dat belang (op zichzelf bezien) doorslaggevende betekenis heeft toegekend. Het hof heeft immers al het volgende aan zijn oordeel ten grondslag gelegd: 
+
+(i) het is voor Yin Yang c.s. onmogelijk om zonder betaalrekening hun bedrijf te exploiteren (eerste alinea van rov. 3.12);
+(ii) de afwijzingen die Yin Yang c.s. van andere banken hebben ontvangen wekken de indruk dat Yin Yang c.s. bij die andere banken niet terecht kunnen (vierde alinea van rov. 3.12);
+(iii) aan een betaalrekening zonder faciliteiten voor het storten van contant geld is een minder groot risico op witwassen verbonden waardoor het belang van ING om het risico op witwassen te vermijden minder hard wordt geraakt (vijfde alinea van rov. 3.12);
+(iv) er bestaat onevenredigheid tussen de belangen van Yin Yang c.s. enerzijds en de belangen van ING anderzijds (vijfde alinea van rov. 3.12);
+ 
+
+waaraan niet afdoet dat:
+ 
+
+(v) er verdenkingen tegen Yin Yang c.s. en [de bestuurders] zijn geweest want die verdenkingen zijn geëindigd in een sepot en een schikking (eerste alinea van rov. 3.14);
+(vi) Saunaclub Yin Yang op last van de gemeente Roermond is gesloten en dit negatieve pers tot gevolg heeft gehad omdat eventuele integriteits- en reputatierisico’s die dit voor ING heeft meegebracht relatief gering zijn (tweede alinea van rov. 3.14); en
+(vii) ING het vertrouwen in Yin Yang c.s. heeft verloren omdat ING onvoldoende feiten en omstandigheden heeft gesteld op grond waarvan objectief gerechtvaardigd is dat ING (óók) het vertrouwen is verloren dat (slechts) is vereist voor het aanbieden van een betaalrekening zonder faciliteiten voor het storten van contant geld (derde alinea van rov. 3.14).
+ 
+
+
+4.39
+Het hof heeft derhalve zijn oordeel dat ING gelet op haar bijzondere zorgplicht is gehouden een betaalrekening aan Yin Yang c.s. te verstrekken niet slechts gegrond op het belang van Yin Yang c.s. bij het kunnen beschikken over een betaalrekening (in algemene zin) maar op alle omstandigheden van het geval. Dat oordeel is als verweven met waarderingen van feitelijke aard in cassatie slechts beperkt toetsbaar. Voor zover het in cassatie kan worden getoetst is het niet onbegrijpelijk. 
+
+
+4.40
+Het verwijt van ING dat het oordeel van het hof er de facto toe leidt dat banken ook ten aanzien van niet-consumenten een contracteerplicht hebben56 kan ik niet plaatsen. Slechts in een beperkt aantal gevallen zal immers sprake zijn van dermate (bijzondere) omstandigheden zoals de omstandigheden in deze zaak dat op grond daarvan een contracteerplicht voor de bank kan worden aangenomen. 
+
+
+Subonderdelen 3.3 en 3.4
+
+ 
+
+
+4.41
+ING betoogt dat het hof met zijn oordeel dat onevenredigheid tussen de belangen van Yin Yang c.s. en ING bestaat heeft miskend dat (i) de vraag of sprake is van onevenredigheid moet worden beantwoord met inachtneming van alle relevante omstandigheden van het geval en/of (ii) pas van onevenredigheid kan worden gesproken indien zodanige disbalans tussen de belangen van partijen bestaat dat de vrijheid van de ene partij ten gunste van de andere partij moet worden ingeperkt. Volgens ING heeft het hof zijn oordeel bovendien onvoldoende (begrijpelijk) gemotiveerd omdat de door het hof vastgestelde en afgewogen omstandigheden niet maken dat sprake is van onevenredigheid. 
+
+
+4.42
+De klachten falen. 
+
+
+4.43
+Zoals gezegd heeft het hof aan de hand van alle omstandigheden van het geval beoordeeld of sprake is van onevenredigheid tussen de belangen van Yin Yang c.s. en ING. Dit oordeel is voor zover het in cassatie kan worden getoetst niet onbegrijpelijk (randnummers 4.38 en 4.39 hiervoor). Uit hetgeen het hof in rov. 3.6 heeft overwogen – kort gezegd dat een bank gelet op het fundamentele en zwaarwegende beginsel van de contractvrijheid alleen in bijzondere omstandigheden kan worden verplicht een contractuele relatie met een rechtspersoon aan te gaan – blijkt voorts dat het hof (in rov. 3.12) niet heeft miskend dat pas sprake is van onevenredigheid indien zodanige disbalans tussen de belangen van partijen bestaat dat de vrijheid van de ene partij ten gunste van de andere partij moet worden ingeperkt. 
+
+
+Subonderdelen 3.5 3.6 en 3.7
+
+ 
+
+
+4.44
+ING klaagt dat het onjuist of onbegrijpelijk is dat het hof heeft geoordeeld dat onevenredigheid bestaat tussen de belangen van Yin Yang c.s. en ING. Het hof heeft immers niet (kenbaar) in zijn oordeel betrokken dat (a) de legitimatie van klanten van Yin Yang c.s. niet wordt gecontroleerd en hun persoonsgegevens niet worden geregistreerd (b) een groot deel van de betalingen door klanten van Yin Yang c.s. in contanten wordt verricht en (c) Yin Yang c.s. in de integriteitsgevoelige relaxbranche opereren. Het feit dat het hof deze omstandigheden wél expliciet in rov. 3.8 heeft betrokken – bij zijn oordeel over de overeenkomst voor het afstorten van contant geld – maakt het oordeel van het hof des te meer onbegrijpelijk. In dit kader is volgens ING de overweging van het hof in rov. 3.12 dat het risico op witwassen bij het enkele faciliteren van een betaalrekening “minder hard” wordt geraakt onvoldoende om begrijpelijk te maken dat ING géén overeenkomst voor het afstorten van contant geld met Yin Yang c.s. hoeft aan te gaan maar wél een betaalrekening moet faciliteren. Voor zover het hof ervan is uitgegaan dat voornoemde drie omstandigheden niet relevant zijn bij de belangenafweging in het kader van de betaalrekening is het oordeel van het hof onjuist en onbegrijpelijk omdat alle omstandigheden van het geval van belang zijn en ING ook in dat verband een beroep heeft gedaan op de hierover onder (a)-(c) genoemde omstandigheden. 
+
+
+4.45
+De klachten falen. 
+
+
+4.46
+Het hof heeft in rov. 3.8 geoordeeld dat de door ING onder (a)-(c) genoemde omstandigheden maken dat ING redelijkerwijs kan weigeren een (nieuwe) overeenkomst voor het storten van contant geld met Yin Yang c.s. aan te gaan omdat ING het risico op witwassen redelijkerwijs te groot kan achten. Vervolgens heeft het hof in rov. 3.12 overwogen dat aan een betaalrekening zonder faciliteiten voor het storten van contant geld “een minder groot risico op witwassen is verbonden” waardoor het belang van ING om het risico op witwassen te vermijden minder hard wordt geraakt. 
+
+
+4.47
+Hoewel het hof in rov. 3.12 niet expliciet naar (de omstandigheden genoemd in) rov. 3.8 heeft terugverwezen blijkt – anders dan ING betoogt – uit de woorden “minder groot risico op witwassen” in de vijfde alinea van rov. 3.12 dat het hof de omstandigheden die maken dat ING het wél een te groot risico op witwassen mocht achten om een nieuwe overeenkomst voor het afstorten van contant geld met Yin Yang c.s. aan te gaan ook heeft meegenomen in zijn oordeel ten aanzien van de betaalrekening. Volgens het hof zijn deze omstandigheden echter onvoldoende om te kunnen rechtvaardigen dat ING ook bij het verstrekken van een betaalrekening zónder mogelijkheid tot het storten van contant geld het risico op witwassen te groot acht. Dat oordeel is niet onbegrijpelijk omdat bij een betaalrekening waarop geen contant geld kan worden gestort in beginsel aan de hand van bankafschriften kan worden herleid waar het geld op de betaalrekening vandaan komt. Daarbij komt dat het in het geval van Yin Yang c.s. extra opvalt als er ongebruikelijke (omvangrijke) transacties op de betaalrekening plaatsvinden omdat – zoals Yin Yang c.s. stellen en waar ING Yin Yang c.s. aan mag/kan houden – betalingen van bezoekers van Saunaclub Yin Yang tot het vaste entreebedrag van € 60 zijn beperkt (plus gemiddeld € 250 aan extra kosten sterke drank).57 Dit maakt het mogelijk voor ING om extra goed te monitoren of op de betaalrekening van Yin Yang c.s. ongebruikelijke transacties plaatsvinden wat het risico op witwassen (nog verder) verkleint. 
+
+
+4.48
+Het is gelet op het voorgaande niet onbegrijpelijk dat het hof er in het kader van de betaalrekening geen of minder relevantie aan heeft toegekend dat (a) Yin Yang c.s. de persoonsgegevens van klanten niet registreren (b) een groot deel van de klanten van Yin Yang c.s. contant afrekent en (c) Yin Yang c.s. in de integriteitsgevoelige relaxbranche opereren. 
+
+
+Subonderdeel 3.8
+
+ 
+
+
+4.49
+ING klaagt dat het hof ten onrechte de in rov. 3.14 genoemde omstandigheden niet in zijn onevenredigheidsoordeel (in rov. 3.12) heeft meegenomen terwijl uit de motivering van het hof in rov. 3.14 blijkt dat het de omstandigheden niet (allemaal) irrelevant acht. Ten aanzien van de in rov. 3.14 genoemde omstandigheden geldt volgens ING kort gezegd het volgende. Omstandigheid (a): zonder motivering valt niet in te zien waarom de bevindingen tijdens de doorzoeking in 2016 en de daaropvolgende media-aandacht niet afdoen aan de door het hof aangenomen onevenredigheid en niet eraan bijdragen dat sprake is van onaanvaardbare reputatie- en integriteitsrisico’s voor ING. Omstandigheid (b): het is onbegrijpelijk en onjuist dat het hof heeft geoordeeld dat het voorshands onvoldoende aannemelijk is dat daadwerkelijk heeft plaatsgevonden waarvan [de bestuurders] verdacht zijn geweest. Omstandigheid (c): zonder motivering valt niet in te zien waarom het feit dat ING slechts wordt verplicht een betaalrekening te faciliteren relevant is voor de omvang van de reputatie- en integriteitsrisico’s die ING loopt in verband met de tijdelijke sluiting van Saunaclub Yin Yang en de daarmee verbonden negatieve media-aandacht. Omstandigheid (d): het hof heeft miskend dat het gebrek aan vertrouwen van ING in Yin Yang c.s. als klant voor ING voldoende is om Yin Yang c.s. geheel als klant te weigeren dus ook ten aanzien van een betaalrekening. 
+
+
+4.50
+De klachten falen. 
+
+
+4.51
+Anders dan ING betoogt heeft het hof de in rov. 3.14 genoemde omstandigheden wel in zijn onevenredigheidsoordeel meegenomen. Het hof is eerst op basis van de in rov. 3.12 genoemde omstandigheden tot het oordeel gekomen dat sprake is van onevenredigheid (de ‘eerste stap’). Vervolgens is het hof in rov. 3.14 nagegaan of er omstandigheden zijn die aan het onevenredigheidsoordeel afdoen (de ‘tweede stap’). Volgens het hof is van dergelijke omstandigheden geen sprake. Dit betekent dat – ook mét inachtneming van de in rov. 3.14 genoemde omstandigheden – naar het oordeel van het hof onevenredigheid bestaat tussen de belangen van Yin Yang c.s. en de belangen van ING. 
+
+
+4.52
+Specifiek met betrekking tot de in rov. 3.14 (en door ING) genoemde omstandigheden geldt nog het volgende: 
+
+- Omstandigheid (a). Het is niet onbegrijpelijk dat het hof in de eerste alinea van rov. 3.14 heeft geoordeeld dat aan de onevenredigheid niet afdoet dat in 2016 een doorzoeking van Saunaclub Yin Yang heeft plaatsgevonden en dit de nodige aandacht van de pers heeft gehad. Het strafrechtelijke onderzoek naar Yin Yang c.s. is immers zoals het hof ook heeft overwogen in een sepot geëindigd en volgens het OM was niet gebleken van feiten en omstandigheden die erop zouden kunnen wijzen dat verwijtbaar gebruik is gemaakt van de bedrijfsrekeningen van Yin Yang c.s. (randnummers 1.17 en 1.19 hiervoor). Nu de doorzoeking in de ogen van het OM niets (materieels) heeft opgeleverd is het niet onbegrijpelijk dat het hof de doorzoeking en de daaropvolgende media-aandacht onvoldoende heeft geacht om aan het onevenredigheidsoordeel af te doen.
+ 
+
+- Omstandigheid (b). Het is niet onbegrijpelijk dat het hof in de eerste alinea van rov. 3.14 heeft geoordeeld dat het voorshands onvoldoende aannemelijk is dat daadwerkelijk heeft plaatsgevonden waarvan [de bestuurders] verdacht zijn geweest. Met betrekking tot de verdenking van witwassen geldt dat uit het strafrechtelijk onderzoek niet is gebleken van feiten en omstandigheden die naar het oordeel van het OM erop zouden kunnen wijzen dat er verwijtbaar gebruik is gemaakt van de bedrijfsrekeningen van Yin Yang c.s. (randnummers 1.17 en 1.19 hiervoor). Met betrekking tot de verdenking van het zonder vergunning uitvoeren van wisseltransacties geldt dat deze verdenking in een schikking is geëindigd en het OM aan het Landelijk Bureau Bibob heeft laten weten dat niet is gebleken van feiten of omstandigheden die tot een negatief advies zouden moeten leiden (randnummer 1.18 hiervoor). Het is niet onbegrijpelijk dat het hof (oordelend in kort geding) van de bevindingen van het OM is uitgegaan en niet in strijd daarmee heeft geoordeeld dat wél voorshands voldoende aannemelijk is dat [de bestuurders] zich schuldig hebben gemaakt aan witwassen en het zonder vergunning uitvoeren van wisseltransacties.
+ 
+
+- Omstandigheid (c). Het is niet onbegrijpelijk dat het hof in de tweede alinea van rov. 3.14 heeft overwogen dat de eenjarige sluiting van Saunaclub Yin Yang (op last van de burgemeester van Roermond) en de daaropvolgende negatieve media-aandacht voor ING slechts relatief geringe integriteits- en reputatierisico’s meebrengt indien ING slechts wordt verplicht een betaalrekening aan Yin Yang c.s. te verschaffen zonder de mogelijkheid om daarop contant geld te storten. In dit kader geldt dat Saunaclub Yin Yang werd gesloten wegens overtreding van art. 13b van de Opiumwet omdat er bij de doorzoeking in 2016 drugs in de auto’s en kluisjes van bezoekers van de saunaclub waren aangetroffen.58 De aanwezigheid van drugs in 2016 heeft weinig van doen met het door ING in 2020 beschikbaar stellen van een betaalrekening aan Yin Yang c.s. zeker niet nu op de betaalrekening geen contant geld mag worden gestort. Het is dan ook niet onbegrijpelijk dat het hof heeft overwogen dat áls de tijdelijke sluiting van Saunaclub Yin Yang al integriteits- en reputatierisico’s voor ING met zich brengt deze risico’s relatief gering zijn. Dit zou anders kunnen zijn als Saunaclub Yin Yang was gesloten wegens (bijvoorbeeld) witwassen want een dergelijke gebeurtenis hangt samen met de bankrekening die Yin Yang c.s. bij ING aanhouden waardoor het publiek ING (als bankier van Yin Yang c.s.) daarop mede zal aankijken. Het hof heeft overigens niet miskend dat ook geringe reputatie- en integriteitsrisico’s voor een bank voldoende grond (kunnen) zijn om een cliënt te weigeren. Volgens het hof is echter in dit geval het geringe reputatie- en integriteitsrisico van ING onvoldoende om eraan af te doen dat onevenredigheid bestaat tussen de belangen van Yin Yang c.s. en de belangen van ING. Dat oordeel is niet onbegrijpelijk (randnummers 4.38 en 4.39 hiervoor).
+ 
+
+- Omstandigheid (d). Het is niet onbegrijpelijk dat het hof in de derde alinea van rov. 3.14 heeft overwogen dat ING onvoldoende feiten en omstandigheden heeft aangevoerd op grond waarvan het objectief gerechtvaardigd is dat ING het vertrouwen in Yin Yang c.s. heeft verloren dat is vereist voor het aanbieden van een betaalrekening zonder faciliteiten voor het storten van contant geld. In dit kader is van belang dat het hof specifiek ten aanzien van het beschikbaar stellen van een betaalrekening zonder faciliteit voor het storten van contant geld een afweging heeft moeten maken tussen de belangen van Yin Yang c.s. en de belangen van ING. Zeker gelet op het grote belang van Yin Yang c.s. bij het kunnen beschikken over een betaalrekening (rov. 3.12) mocht het hof van ING verwachten dat zij concreet zou onderbouwen waarom zij ook onvoldoende objectief gerechtvaardigd vertrouwen in Yin Yang c.s. als cliënten heeft als aan hen slechts een betaalrekening ter beschikking zou worden gesteld zonder de mogelijkheid om daarop contant geld af te storten. Dat het hof in dit kader het betoog van ING dat zij een algemeen gebrek aan vertrouwen in Yin Yang c.s. heeft onvoldoende heeft geacht is niet onbegrijpelijk. De overige door ING naar voren gebrachte omstandigheden maken dit niet anders (randnummers 4.44 e.v. hiervoor en randnummers 4.54 e.v. hierna).
+ 
+
+
+Subonderdeel 3.9
+
+ 
+
+
+4.53
+ING betoogt dat het hof onvoldoende (begrijpelijk) heeft gemotiveerd dat onevenredigheid bestaat tussen de belangen van Yin Yang c.s. en de belangen van ING omdat het hof de volgende stellingen van ING onvoldoende (kenbaar) in zijn oordeel heeft betrokken: (a) de maatregelen die Yin Yang c.s. hebben genomen zijn ook door andere banken onvoldoende geacht om Yin Yang c.s. als klant te accepteren (b) doordat ongeoorloofde wisseltransacties hebben plaatsgevonden hebben Yin Yang c.s. ING aan onaanvaardbare reputatie- en integriteitsrisico’s blootgesteld (c) de boekhouding van Yin Yang c.s. klopte niet hetgeen reputatie- en integriteitsrisico’s voor ING meebrengt (d) Yin Yang c.s. hebben na de sluiting van Saunaclub Yin Yang aanzienlijke hoeveelheden contanten in ongebruikelijke coupures afgestort waardoor ING aan onaanvaardbare reputatie- en integriteitsrisico’s is blootgesteld en (e) het moet voor risico van Yin Yang c.s. komen dat zij niet bereid zijn de persoonsgegevens van hun klanten te administreren. 
+
+
+4.54
+De klacht faalt. De door ING aangevoerde stellingen maken niet dat het onbegrijpelijk is dat het hof heeft geoordeeld dat met betrekking tot de betaalrekening onevenredigheid bestaat tussen de belangen van Yin Yang c.s. en de belangen van ING. Ik licht dit als volgt toe: 
+
+- Stelling (a). Uit de vierde alinea van rov. 3.12 blijkt dat het hof (de inhoud van) de schriftelijke afwijzingen van andere door Yin Yang c.s. benaderde banken in zijn oordeel heeft meegenomen. Het hof heeft uit die afwijzingen niet zoals ING betoogt de conclusie getrokken dat de andere banken de door Yin Yang c.s. genomen maatregelen ook onvoldoende achtten. Het hof heeft in plaats daarvan overwogen dat de afwijzingen de indruk wekken dat Yin Yang c.s. in veel gevallen al met een afwijzing werden geconfronteerd voordat zij de kans kregen nader inzicht te verschaffen in hun bedrijfsvoering en de daaraan verbonden risico’s. Deze overweging van het hof is niet onbegrijpelijk mede gelet op de beknopte inhoud en toon van de afwijzingen.59
+ 
+
+- Stelling (b). Uit de eerste alinea van rov. 3.14 blijkt dat het hof in zijn oordeel heeft betrokken dat [de bestuurders] verdacht zijn geweest van het zonder vergunning uitvoeren van wisseltransacties. Nu deze verdenking in een schikking is geëindigd en het OM aan het Landelijk Bureau Bibob heeft laten weten dat niet is gebleken van feiten of omstandigheden die tot een negatief advies zouden moeten leiden (randnummer 1.18 hiervoor) is het niet onbegrijpelijk dat het hof daaraan de conclusie heeft verbonden dat voorshands onvoldoende aannemelijk is dat daadwerkelijk heeft plaatsgevonden waarvan [de bestuurders] verdacht zijn geweest. Het hof heeft in dit kader voorbij mogen gaan aan de stelling van ING dat zij door de wisseltransacties aan onaanvaardbare reputatie- en integriteitsrisico’s is blootgesteld. Niet valt immers in te zien welke risico’s ING heeft gelopen nu het OM geen verontrustende feiten of omstandigheden heeft geconstateerd.
+ 
+
+- Stelling (c). Het hof heeft voorbij mogen gaan aan de stelling van ING dat de boekhouding van Yin Yang c.s. niet klopte omdat uit het strafrechtelijk onderzoek dat het OM naar Yin Yang c.s. heeft uitgevoerd niet is gebleken van feiten en omstandigheden die erop zouden kunnen wijzen dat er verwijtbaar gebruik is gemaakt van de bedrijfsrekeningen van Yin Yang c.s. (randnummers 1.17 en 1.19 hiervoor). Daarbij komt dat de verwijten van ING met betrekking tot de boekhouding van Yin Yang c.s. met name verband houden met de grote hoeveelheid contant geld die er in Yin Yang c.s. omgaat. Dit verwijt gaat niet meer op nu de betaalrekening die ING aan Yin Yang c.s. beschikbaar moet stellen geen faciliteit voor het storten van contant geld hoeft te bevatten.
+ 
+
+- Stelling (d). Het hof heeft voorbij mogen gaan aan de stelling van ING dat Yin Yang c.s. na de sluiting van Saunaclub Yin Yang nog aanzienlijke hoeveelheden contanten in ongebruikelijke coupures bij ING hebben afgestort waardoor ING is blootgesteld aan onaanvaardbare reputatie- en integriteitsrisico’s en het vertrouwen van ING in Yin Yang c.s. is geschaad. Uit het strafrechtelijk onderzoek dat het OM naar Yin Yang c.s. heeft uitgevoerd is niet gebleken van feiten en omstandigheden die erop zouden kunnen wijzen dat er verwijtbaar gebruik is gemaakt van de bedrijfsrekeningen van Yin Yang c.s. (randnummers 1.17 en 1.19 hiervoor). Daarom valt niet in te zien welke (substantiële) reputatie- en integriteitsrisico’s ING heeft gelopen. Dat het afstorten van grote hoeveelheden ongebruikelijke coupures het vertrouwen van ING in Yin Yang c.s. heeft geschaad is voorts niet van belang bij de vraag of ING een betaalrekening aan Yin Yang c.s. moet verschaffen omdat deze betaalrekening geen faciliteit voor het storten van contant geld hoeft te bevatten.
+ 
+
+- Stelling (e). Uit rov. 3.8 in samenhang gelezen met rov. 3.12 blijkt dat het hof in zijn oordeel heeft betrokken dat Yin Yang c.s. niet bereid zijn de persoonsgegevens van hun bezoekers te registreren. Het hof heeft deze omstandigheid onvoldoende zwaarwegend bevonden om de belangenafweging in het kader van de betaalrekening in het voordeel van ING te laten uitvallen. Zoals toegelicht in randnummers 4.47 en 4.48 hiervoor is dat niet onbegrijpelijk.
+ 
+
+
+Subonderdeel 3.10
+
+ 
+
+
+4.55
+ING betoogt dat het hof door niet in te gaan op stelling (e) van subonderdeel 3.9 heeft miskend dat Yin Yang c.s. niet bereid zijn geweest om mee te werken aan redelijke maatregelen van ING ter voorkoming van reputatie- en integriteitsrisico’s. Volgens ING is dit een grond voor ING om Yin Yang c.s. als klant te weigeren en draagt dit eraan bij dat geen sprake kan zijn van een contracteerplicht. 
+
+
+4.56
+De klacht gaat uit van een onjuiste lezing van het bestreden arrest en mist derhalve feitelijke grondslag. Het hof is niet voorbijgegaan aan stelling (e) maar heeft die stelling verworpen (randnummer 4.54 stelling (e) hiervoor). 
+
+
+Onderdeel 4: overige oordelen die niet in stand kunnen blijven
+
+ 
+
+
+4.57
+ING betoogt dat het slagen van een of meer van de in de onderdelen 1 tot en met 3 aangevoerde klachten meebrengt dat ook rov. 3.15 3.16 3.17 en het dictum van het bestreden arrest niet in stand kunnen blijven. 
+
+
+4.58
+Gelet op het falen van de klachten in de onderdelen 1 tot en met 3 faalt ook deze voortbouwklacht. 
+
+
+Slotsom in het principale cassatieberoep
+
+ 
+
+
+4.59
+De slotsom luidt dat het principale cassatieberoep niet tot cassatie leidt. 
+
+
+
+
+5 Bespreking van het incidentele cassatieberoep 
+
+5.1
+Het cassatiemiddel van Yin Yang c.s. bestaat uit drie onderdelen (2.1 tot en met 2.3) en komt op tegen het oordeel van het hof dat ING niet is gehouden de overeenkomst tot het afstorten van contant geld te continueren of te herstellen. Net als het cassatiemiddel van ING bestaat ook het middel van Yin Yang c.s. uit een grote hoeveelheid klachten. 
+
+
+Onderdeel 2.1
+
+ 
+
+
+5.2
+Yin Yang c.s. komen in dit onderdeel op tegen de oordelen van het hof in rov. 3.8 3.9 en 3.11. Het onderdeel valt uiteen in elf enigszins ingewikkeld genummerde subonderdelen (2.1-I tot en met 2.1-XII)60 die deels weer uiteenvallen in sub-subonderdelen (onder a b en c). Omdat de (sub)onderdelen enige overlap vertonen beoordeel ik de klachten hierna deels gezamenlijk. 
+
+
+Subonderdelen 2.1-I en 2.1-II
+
+ 
+
+
+5.3
+Yin Yang c.s. klagen dat onjuist en onbegrijpelijk is dat het hof in rov. 3.8 heeft geoordeeld dat ING redelijkerwijs kan weigeren om met Yin Yang c.s. een overeenkomst voor het afstorten van contant geld aan te gaan omdat ING het risico op witwassen redelijkerwijs te groot kan achten ook na de maatregelen die Yin Yang c.s. hebben getroffen. Ter onderbouwing van deze klachten wijzen Yin Yang c.s. er in subonderdeel 2.1-Ia op dat het onjuist althans onbegrijpelijk is dat het hof heeft geoordeeld dat het witwasrisico voor ING te groot is. Binnen het wettelijk kader van de Wft en de Wwft mogen integriteitsgevoelige bedrijfstakken immers niet categoraal van het betalingsverkeer worden uitgesloten. Volgens Yin Yang c.s. komt het oordeel van het hof de facto wel neer op een categorale uitsluiting. In de subonderdelen 2.1-Ib en 2.1-II betogen Yin Yang c.s. dat het hof heeft miskend dat het risico op witwassen in dit specifieke geval zeer gering is. Saunaclub Yin Yang is immers geen privé- of seksclub volgens het traditionele concept maar een erotisch ontmoetingscentrum waarbij de betalingen van bezoekers zijn beperkt tot het vaste entreebedrag van € 60 (plus gemiddeld € 250 aan extra kosten voor sterke drank). Ook heeft het hof volgens Yin Yang c.s. miskend dat de eventueel wel aanwezige witwasrisico’s zoveel mogelijk zijn uitgebannen omdat Yin Yang c.s. alle mogelijke maatregelen hebben getroffen méér maatregelen dan gebruikelijk in de relaxbranche. In subonderdeel 2.1-Ic betogen Yin Yang c.s. dat het onbegrijpelijk is voor zover het hof heeft geoordeeld dat aan een saunaclub zoals Saunaclub Yin Yang grotere risico’s op witwassen zijn verbonden dan aan andere ondernemingen waar relatief kleine bedragen contant geld worden betaald zoals supermarkten bakkers slagers restaurants en bouwmarkten. Volgens Yin Yang c.s. heeft het hof daarnaast miskend dat Yin Yang c.s. de mogelijkheid moeten hebben om hun bezoekers te laten kiezen of ze giraal of contant willen betalen. 
+
+
+5.4
+De klachten falen. 
+
+
+5.5
+In de Leidraad Wwft en Sw61 (hierna: ‘de Leidraad’) van De Nederlandsche Bank N.V. (hierna: ‘DNB’) geeft DNB de onder toezicht staande instellingen zoals banken handvatten voor de implementatie van de wettelijke verplichtingen die voortvloeien uit de integriteitswetgeving zoals de Wwft.62 De Leidraad is geen juridisch bindend document maar beoogt een handreiking te doen voor de uitleg en toepassing van wettelijke verplichtingen. Bij de invulling van de open normen uit de Wwft mag ING redelijkerwijs betekenis toekennen aan de Leidraad. 
+
+
+5.6
+De Leidraad vermeldt dat bepaalde typen cliënten een inherent verhoogd integriteitsrisico met zich kunnen brengen. Dit geldt bijvoorbeeld voor bedrijven met een hoge mate van inkomend cash geld waarvan de herkomst minder makkelijk te bepalen is. Dit type cliënten mag niet categoraal worden geweigerd maar het hoge risico maakt dat de instelling (de bank) wél extra maatregelen moet treffen om het integriteitsrisico te mitigeren. Als mogelijke maatregelen noemt de Leidraad het stellen van een limiet aan de transacties het verlangen van meer transparantie door de cliënt en het verlangen van girale betalingen door de cliënt.63 
+
+
+5.7
+In cassatie staat vast dat een groot deel van de betalingen door klanten van Saunaclub Yin Yang (circa 80% van de entreegelden) in contanten wordt verricht (rov. 3.8 onder b). In cassatie staat eveneens vast dat Yin Yang c.s. de persoonsgegevens van de klanten die toegang krijgen tot de saunaclub niet registreren (rov. 3.8 onder a).64 Dit maakt dat anders dan Yin Yang c.s. betogen het risico op witwassen binnen Yin Yang c.s. niet zeer gering is. Er gaat namelijk een hoge mate van inkomend cash geld om in Yin Yang c.s. waarvan de herkomst niet makkelijk te bepalen is. De maatregelen die Yin Yang c.s. tot op heden hebben getroffen maken dit risico niet kleiner. Die maatregelen stellen ING immers (nog steeds) niet in staat de herkomst van het contante geld (beter) te bepalen ongeacht of de maatregelen verder gaan dan in de branche gebruikelijk is.65 
+
+
+5.8
+Met het oog hierop is het niet onjuist of onbegrijpelijk dat het hof heeft geoordeeld dat ING redelijkerwijs kan weigeren opnieuw een overeenkomst voor het afstorten van contant geld met Yin Yang c.s. aan te gaan en dat ING het witwasrisico redelijkerwijs te groot kan achten ondanks de maatregelen die Yin Yang c.s. inmiddels hebben getroffen. Anders dan Yin Yang c.s. betogen is van een categorale uitsluiting geen sprake. Het hof heeft immers op basis van een afweging van de omstandigheden van het geval geoordeeld dat ING niet is gehouden een nieuwe overeenkomst voor het afstorten van contant geld met Yin Yang c.s. aan te gaan. Dit oordeel is niet gebaseerd op het enkele feit dat de ondernemingen van Yin Yang c.s. binnen de relaxbranche actief zijn (hetgeen wél een categorale uitsluiting zou inhouden). Bovendien moet ING wél een betaalrekening aan Yin Yang c.s. verschaffen. Yin Yang c.s. kunnen daarmee aan het maatschappelijke (betaal)verkeer deelnemen en zijn daarvan dus niet (categoraal) uitgesloten. 
+
+
+5.9
+De vergelijking die Yin Yang c.s. maken met andere ondernemingen waar relatief kleine bedragen contant geld worden betaald gaat niet op. Uit onderzoek van DNB en Betaalvereniging Nederland blijkt dat consumenten in 2019 ‘slechts’ 32% van hun aankopen in winkels horeca en dergelijke met contant geld hebben afgerekend.66 Dat is dus substantieel minder dan de circa 80% cash geld die er in Yin Yang c.s. omgaat. Daarbij komt dat het gemiddelde bedrag dat consumenten in 2019 in winkels en horeca contant afrekenden slechts € 1410 per transactie bedroeg.67 Ook dat is substantieel minder dan de minimaal € 60 die bezoekers van Saunaclub Yin Yang contant betalen. Dit maakt dat aan Yin Yang c.s. een (veel) groter integriteitsrisico is verbonden dan aan supermarkten bakkers slagers restaurants en bouwmarkten. Eén van de mogelijkheden om dit risico te mitigeren is het verlangen van girale betaling door de cliënten (randnummer 5.6 hiervoor). Anders dan Yin Yang c.s. betogen heeft het hof derhalve niet miskend dat Yin Yang c.s. de mogelijkheid “moeten” hebben om de bezoekers van Saunaclub Yin Yang de keuze te laten om giraal of contant te betalen. 
+
+
+Subonderdelen 2.1-III 2.1-IV en 2.1-XI
+
+ 
+
+
+5.10
+Yin Yang c.s. klagen in de subonderdelen 2.1-III en 2.1-XI dat het onbegrijpelijk is dat het hof heeft geoordeeld dat ING het witwasrisico te groot mocht achten. Het OM – bij uitstek uitgerust om integriteitsrisico’s diepgaand te onderzoeken – heeft namelijk geen feiten of omstandigheden gevonden die erop zouden kunnen wijzen dat er verwijtbaar gebruik is gemaakt van de bedrijfsrekeningen van Yin Yang c.s. (randnummer 1.17 hiervoor). Bovendien hebben Yin Yang c.s. vele en vergaande maatregelen getroffen om tegemoet te komen aan de angst van ING dat sprake is van een integriteitsrisico waaronder het geven van volledige openheid van zaken het invoeren van een nieuw kassasysteem het niet langer accepteren van coupures van € 500 en € 200 het invoeren van een anti-witwasprotocol en het aanbieden van een Wwft-cursus aan het personeel. 
+
+
+5.11
+De klachten falen. 
+
+
+5.12
+Dat naar het oordeel van het OM niet is gebleken dat er verwijtbaar gebruik is gemaakt van de bedrijfsrekeningen van Yin Yang c.s. verandert niets aan het feit dat 80% van het geld dat in Yin Yang c.s. omgaat cash geld betreft waarvan de herkomst niet goed te bepalen is. Dit maakt dat Yin Yang c.s. nog steeds moeten worden aangemerkt als cliënten met een verhoogd integriteitsrisico. Nu de maatregelen die Yin Yang c.s. hebben getroffen ING niet in staat stellen de herkomst van het geld goed/beter te bepalen is het niet onbegrijpelijk dat het hof heeft geoordeeld dat ING ondanks de door Yin Yang c.s. getroffen maatregelen het witwasrisico te groot mocht achten om opnieuw een overeenkomst voor het afstorten van contant geld aan te gaan (randnummers 5.5 e.v. hiervoor). 
+
+
+5.13
+Yin Yang c.s. klagen in de subonderdelen 2.1-IIIa en 2.1-IVa dat het onjuist en onbegrijpelijk is dat het hof in rov. 3.9 heeft geoordeeld dat het onvoldoende is voor een ander oordeel indien banken aan andere bedrijven in de relaxbranche minder strenge eisen stellen. Volgens Yin Yang c.s. is de wijze waarop andere banken hun relatie met cliënten in de relaxbranche vormgeven relevant voor het vaststellen van het toetsingskader van hetgeen in het maatschappelijk verkeer betaamt. Yin Yang c.s. hebben in dit kader een overzicht van verschillende branchegenoten overgelegd die alle over een betaalrekening beschikken en zonder problemen contant geld bij hun bank kunnen afstorten. 
+
+
+5.14
+De klachten gaan uit van een onjuiste lezing van het betreffende arrest en missen derhalve feitelijke grondslag. Het hof heeft geoordeeld dat indien (andere) banken minder strenge eisen stellen aan bedrijven in de relaxbranche dan ING dit “onvoldoende” is voor een ander oordeel. Het hof heeft dus – anders dan Yin Yang c.s. betogen – niet geoordeeld dat dergelijke eisen niet relevant (zouden kunnen) zijn of niet zouden (kunnen) meewegen. Volgens het hof weegt het simpelweg niet zwaar genoeg om af te kunnen doen aan het oordeel van het hof dat ING het risico op witwassen redelijkerwijs te groot kon achten. Dat (feitelijke) oordeel is voor zover het in cassatie kan worden getoetst niet onjuist of onbegrijpelijk (randnummers 5.5 e.v. hiervoor). In dit kader speelt ook mee dat ING enige vrijheid heeft in de wijze waarop zij de open normen in de Wwft implementeert zodat geen doorslaggevende betekenis toekomt aan de wijze waarop andere banken die normen interpreteren. 
+
+
+5.15
+Yin Yang c.s. klagen in de subonderdelen 2.1-IIIb en 2.1-IVb dat het onjuist althans onbegrijpelijk is dat het hof heeft geoordeeld dat Yin Yang c.s. onvoldoende zouden hebben gesteld dat er geen relevante verschillen bestaan tussen Yin Yang c.s. en hun branchegenoten. Volgens Yin Yang c.s. is het oordeel van het hof bovendien innerlijk tegenstrijdig omdat het hof Yin Yang c.s. in rov. 3.8 onder c als een bedrijf in de integriteitsgevoelige relaxbranche heeft gegeneraliseerd en – haaks daarop – in rov. 3.9 heeft geoordeeld dat de onderneming van Yin Yang c.s. onvoldoende vergelijkbaar is met andere in dezelfde branche gedreven ondernemingen. 
+
+
+5.16
+De klachten falen. 
+
+
+5.17
+Yin Yang c.s. verwijzen naar een overzicht van verschillende branchegenoten68 ten aanzien waarvan ING heeft gesteld dat het cash afstortingspercentage van negen van die branchegenoten (de branchegenoten die bij ING bankieren) gemiddeld 264% bedraagt en dat als hoogste cashpercentage van deze branchegenoten 59% wordt genoemd.69 Vergeleken met het cash afstortingspercentage van Yin Yang c.s. van circa 80% – dat dus circa drie keer zo hoog is als het gemiddelde en ook substantieel hoger is dan het hoogste afstortingspercentage van de branchegenoten – is het (alleen al gelet op die reden) niet onjuist of onbegrijpelijk dat het hof heeft geoordeeld dat onvoldoende is gesteld of gebleken om aan te nemen dat geen relevante verschillen tussen Yin Yang c.s. en de branchegenoten zouden bestaan. Dat het hof in rov. 3.8 Yin Yang c.s. wél als onderneming in de integriteitsgevoelige relaxbranche heeft gekarakteriseerd is evenmin onbegrijpelijk of innerlijk tegenstrijdig. Het feit dat Yin Yang c.s. net als hun branchegenoten in de relaxbranche actief zijn betekent immers niet dat er geen verschillen (kunnen) bestaan tussen Yin Yang c.s. en die branchegenoten. 
+
+
+Subonderdelen 2.1-V 2.1-VI en 2.1-VII
+
+ 
+
+
+5.18
+Yin Yang c.s. klagen dat het onjuist dan wel onbegrijpelijk is dat het hof in rov. 3.8 onder a heeft overwogen dat het een onbetwiste omstandigheid betreft dat Yin Yang c.s. de legitimatie van hun klanten niet controleren en hun persoonsgegevens niet registreren. Yin Yang c.s. hebben immers onderbouwd gesteld dat de identiteit van klanten aan de hand van persoonsbewijzen wordt vastgesteld en in een voorkomend geval wordt geregistreerd. Daarnaast zijn Yin Yang c.s. niet gehouden alle persoonsgegevens van klanten te registreren hetgeen in de branche ook niet gebruikelijk is. Volgens Yin Yang c.s. heeft het hof derhalve een onjuiste maatstaf aangelegd voor hetgeen in het maatschappelijk verkeer betaamt althans is het onbegrijpelijk dat ING het witwasrisico te groot mag achten. 
+
+
+5.19
+De klachten falen. 
+
+
+5.20
+Aan Yin Yang c.s. kan worden toegegeven dat het hof inderdaad ten onrechte in rov. 3.8 onder a heeft overwogen dat het een onbetwiste omstandigheid betreft dat Yin Yang c.s. de legitimatie van klanten niet controleren. Yin Yang c.s. hebben immers gesteld dat (op grond van de huisregels en het anti-witwas-protocol) de legitimatie van klanten van Saunaclub Yin Yang bij binnenkomst wél wordt gecontroleerd. Dit maakt het oordeel van het hof in rov. 3.8 echter nog niet onjuist of onbegrijpelijk omdat het oordeel niet zozeer op de legitimatiecontrole is gebaseerd als wel op de omstandigheid dat Yin Yang c.s. de persoonsgegevens van hun klanten niet registreren (en op de in rov. 3.8 onder b en c genoemde omstandigheden dat een groot deel van de betalingen contant wordt verricht en Yin Yang c.s. in de integriteitsgevoelige relaxbranche opereren). Yin Yang c.s. betwisten niet dat zij de persoonsgegevens van bezoekers van Saunaclub Yin Yang niet registreren; slechts de persoonsgegevens van bezoekers die de toegang wordt geweigerd worden geregistreerd.70 Dit betekent dat Yin Yang c.s. géén persoonsgegevens registreren van de klanten die daadwerkelijk contant geld bij Yin Yang c.s. besteden waardoor ING de herkomst van die gelden niet kan herleiden. Het is gelet hierop niet onjuist of onbegrijpelijk dat het hof heeft geoordeeld dat ING (ondanks de door Yin Yang c.s. getroffen maatregelen) het risico op witwassen redelijkerwijs te groot kan achten (randnummers 5.5 e.v. hiervoor). 
+
+
+5.21
+Dat banken aan andere bedrijven in de relaxbranche volgens Yin Yang c.s. minder strenge eisen stellen en die bedrijven ook geen persoonsgegevens van klanten registreren doet aan het voorgaande niet af. Yin Yang c.s. hebben immers onvoldoende gesteld om aan te nemen dat geen relevante verschillen tussen Yin Yang c.s. en hun branchegenoten bestaan (randnummer 5.17 hiervoor). 
+
+
+5.22
+Dat bezoekers van Saunaclub Yin Yang hoogstwaarschijnlijk voor een andere saunaclub zullen kiezen indien Yin Yang c.s. overgaan tot registratie van persoonsgegevens maakt niet dat ING een dergelijke eis niet mag stellen. Zoals het hof aan het slot van rov. 3.8 heeft overwogen moet het voor rekening en risico van Yin Yang c.s. komen als zij zonder te beschikken over een faciliteit voor het afstorten van contant geld geen rendabel ontmoetingscentrum volgens het concept van de Freikörperkultur kunnen exploiteren. Het gaat niet aan dit risico dat inherent is aan het bedrijfsmodel dat Yin Yang c.s. hebben gekozen bij ING te leggen. 
+
+
+Subonderdelen 2.1-VIII en 2.1-IX
+
+ 
+
+
+5.23
+Yin Yang c.s. betogen dat het onbegrijpelijk is voor zover het hof (doorslaggevend) gewicht heeft toegekend aan het feit dat een groot deel van de omzet van Yin Yang c.s. contant binnenkomt (rov. 3.8 onder b). Contante betalingen zijn immers eigen aan de branche en Yin Yang c.s. hebben aangevoerd dat zij het aantal contante betalingen terugdringen. Voor zover het hof heeft bedoeld dat de contante betalingen niet zijn terug te voeren op de uitgaven die per persoon worden gedaan achten Yin Yang c.s. het oordeel van het hof eveneens onbegrijpelijk. Het sinds 22 november 2018 ingevoerde kassasysteem maakt het immers mogelijk te controleren of de aan ING ter afstorting aangeboden gelden corresponderen met de door Yin Yang c.s. ontvangen entreegelden en baromzet. 
+
+
+5.24
+De klachten falen. 
+
+
+5.25
+Het is niet onbegrijpelijk dat het hof er veel waarde aan heeft gehecht dat een groot deel van de betalingen door klanten van Yin Yang c.s. in contanten wordt verricht. Bedrijven met een hoge mate van inkomend cash geld waarvan de herkomst minder makkelijk te bepalen is brengen immers in principe een verhoogd integriteitsrisico met zich (randnummer 5.6 hiervoor). Dat hoge risico wordt niet minder als contante betalingen eigen zijn aan de branche. Dat het hof eraan is voorbijgegaan dat Yin Yang c.s. pogen het aantal contante betalingen terug te dringen is evenmin onbegrijpelijk. Men kan zich immers afvragen of die poging veel resultaat oplevert nu bezoekers die anoniem willen blijven niet snel bereid zullen zijn hun anonimiteit (alsnog) op te geven indien zij € 5 korting krijgen op de entreeprijs. 
+
+
+5.26
+Ook het door Yin Yang c.s. ingevoerde kassasysteem maakt niet dat ING de herkomst van het contante geld beter kan herleiden. Het kassasysteem laat slechts zien of het totaal door Yin Yang c.s. over een bepaalde periode afgestorte contante geld overeenkomt met het aantal bezoekers dat Saunaclub Yin Yang in die periode heeft gehad. In dit systeem kan ING de herkomst van de contante gelden echter niet herleiden nu Yin Yang c.s. de persoonsgegevens van hun klanten niet registreren. 
+
+
+Subonderdeel 2.1-XII
+
+ 
+
+
+5.27
+Yin Yang c.s. betogen dat het slagen van een of meer van de klachten van onderdeel 2.1 meebrengt dat ook rov. 3.10 3.11 3.15 3.17 en het dictum van het bestreden arrest niet in stand kunnen blijven. Yin Yang c.s. klagen daarnaast dat het – zonder motivering die ontbreekt – onbegrijpelijk is wat het hof in rov. 3.11 heeft bedoeld met “hetgeen Yin Yang c.s. overigens in dit verband hebben aangevoerd”. Uit de klachten in dit onderdeel blijkt immers dat hetgeen Yin Yang c.s. hebben aangevoerd juist wél tot een ander oordeel kan (en zou moeten) leiden. 
+
+
+5.28
+Deze voortbouwklachten falen omdat ook de onderliggende klachten waarop zij zijn gebaseerd falen. 
+
+
+Onderdeel 2.2
+
+ 
+
+
+5.29
+Dit onderdeel valt uiteen in vier subonderdelen (2.2-I tot en met 2.2IV) waarbij subonderdeel 2.2-I op zijn beurt weer in twee sub-subonderdelen uiteenvalt (onder a en b). Yin Yang c.s. komen in dit onderdeel op tegen het oordeel van het hof in rov. 3.10 met betrekking tot de eerdere contractuele relaties tussen ING en Yin Yang c.s. Wegens overlap beoordeel ik de klachten hierna deels gezamenlijk. 
+
+
+Subonderdeel 2.2-I
+
+ 
+
+
+5.30
+Yin Yang c.s. betogen in subonderdeel 2.2-Ia dat het hof heeft miskend dat er een verschil bestaat tussen de situatie waarin een partij een jarenlange contractuele relatie met de bank heeft gehad en de situatie waarin een partij nog niet eerder klant bij de bank is geweest. In het eerste geval is volgens Yin Yang c.s. eerder plaats voor een uitzondering op het beginsel van contractvrijheid dan in het tweede geval. 
+
+
+5.31
+De klacht faalt. 
+
+
+5.32
+Uit rov. 3.10 blijkt dat het hof in zijn oordeel heeft meegewogen dat ING in het verleden een overeenkomst tot het afstorten van contant geld met Stichting CS Bedrijven is aangegaan. Volgens het hof is die omstandigheid echter onvoldoende om ING opnieuw te verplichten een dergelijke overeenkomst met Yin Yang c.s. aan te gaan. Dat oordeel is niet onjuist nu ING (naar de huidige regels en opvattingen) het risico op witwassen dat met een dergelijke overeenkomst is verbonden redelijkerwijs te groot kan achten (randnummers 5.5 e.v. hiervoor). 
+
+
+5.33
+Yin Yang c.s. betogen in subonderdeel 2.2-Ib dat ING zonder goede grond de overeenkomst tot het afstorten van contant geld heeft opgezegd waardoor de postcontractuele goede trouw vereist dat ING zich niet op de opzegging mag beroepen dan wel dat zij misbruik van recht maakt door dat wel te doen. Volgens Yin Yang c.s. had het hof de rechtsgronden in deze zin moeten aanvullen en ING moeten veroordelen tot het voortzetten dan wel opnieuw aangaan van de overeenkomst tot het afstorten van contant geld. 
+
+
+5.34
+De klachten falen. Het hof heeft in rov. 3.7 geoordeeld dat het voorshands aannemelijk is dat de eerdere contractuele relaties tussen ING en Yin Yang c.s. (rechtsgeldig) zijn verbroken onder meer gelet op het arrest van 30 juli 2019 van het hof waarnaar het hof in rov. 3.7 ook heeft verwezen. Het cassatieberoep dat Yin Yang c.s. tegen dat arrest hebben ingesteld is door Uw Raad verworpen (randnummer 1.24 hiervoor). Het is om deze reden niet onjuist of onbegrijpelijk dat het hof is uitgegaan van de rechtsgeldigheid van de eerdere opzeggingen en ING zich daarop mag beroepen. 
+
+
+Subonderdelen 2.2-II 2.2-III en 2.2-IV
+
+ 
+
+
+5.35
+Yin Yang c.s. klagen dat het hof buiten het debat van partijen is getreden door te oordelen dat ING zich mag beroepen op haar strengere beleid ten aanzien van witwassen. Volgens Yin Yang c.s. heeft ING zich hierop namelijk niet beroepen. Voor zover het hof de stellingen van ING en de aangescherpte voorschriften in de Wwft aldus heeft geïnterpreteerd dat ING daarmee wél een beroep op het strenger geworden witwasbeleid heeft gedaan is dat onbegrijpelijk. Bovendien zijn Yin Yang c.s. in de strengere eisen ‘meegegroeid’ waardoor niet relevant is dat het beleid van ING ten aanzien van witwassen strenger is geworden. 
+
+
+5.36
+De klachten falen. 
+
+
+5.37
+ING heeft zich in feitelijke instanties beroepen op haar verplichtingen uit hoofde van de Wft en de Wwft welke verplichtingen door de jaren heen zijn aangescherpt. Ook heeft ING gesteld dat zij was gehouden haar cliëntenonderzoek bij Yin Yang c.s. te intensiveren.71 Voor zover toetsbaar in cassatie – de uitleg van gedingstukken en stellingen die partijen hebben ingenomen is aan de feitenrechter voorbehouden72 – is het niet onbegrijpelijk dat het hof het verweer van ING in dit kader aldus heeft geïnterpreteerd dat ING zich mede heeft beroepen op haar strenger geworden anti-witwasbeleid. Dit geldt temeer nu algemeen bekend is (ook voor Yin Yang c.s.) dat dergelijk beleid de afgelopen jaren behoorlijk is aangescherpt. 
+
+
+5.38
+Dat Yin Yang c.s. met de strenger geworden eisen zouden zijn ‘meegegroeid’ wordt gelogenstraft door de omstandigheid dat een groot deel van de inkomsten van Yin Yang c.s. (nog steeds) uit contant geld bestaat waarvan de herkomst niet goed kan worden bepaald waardoor het risico op witwassen binnen Yin Yang c.s. nog steeds substantieel kan worden geacht. 
+
+
+Onderdeel 2.3: voortbouwklacht
+
+ 
+
+
+5.39
+Yin Yang c.s. betogen dat het slagen van een of meer van de in de onderdelen 2.1 en 2.2 aangevoerde klachten meebrengt dat ook rov. 3.11 3.13 3.14 3.15 3.17 en het dictum van het bestreden arrest niet in stand kunnen blijven. 
+
+
+5.40
+Deze voortbouwklacht faalt omdat de klachten in de onderdelen 2.1 en 2.2 niet opgaan. 
+
+
+Slotsom in het incidentele cassatieberoep
+
+ 
+
+
+5.41
+De slotsom luidt dat het incidentele cassatieberoep niet tot cassatie leidt. 
+
+
+
+
+6 Conclusie 
+
+De conclusie strekt tot verwerping van het principale en van het incidentele cassatieberoep.
+ 
+
+De Procureur-Generaal bij de
+Hoge Raad der Nederlanden
+ 
+
+A-G
+
+
+1
+ 	HR 5 maart 2021 ECLI:NL:HR:2021:347 (art. 81 RO).
+2
+ 	De feitenweergave is ontleend aan rov. 2.1-2.16 van het bestreden arrest hof Amsterdam 21 januari 2020 ECLI:NL:GHAMS:2020:121 JOR 2020/90 m.nt. B.W. Wijnstekers.
+3
+ 	Uit het Duits vertaald als ‘vrije lichaamscultuur’.
+4
+ 	De voorwaarden behorende bij deze overeenkomst zijn overgelegd als productie 3 bij de memorie van antwoord tevens memorie van grieven in incidenteel appel.
+5
+ 	Productie 9 bij de dagvaarding.
+6
+ 	Productie 12 bij de dagvaarding.
+7
+ 	Productie 10 bij de dagvaarding.
+8
+ 	Wet op het financieel toezicht. Wet van 28 september 2006 houdende regels met betrekking tot de financiële markten en het toezicht daarop Stb. 2006/475 (voetnoot toegevoegd door mij A-G).
+9
+ 	Wet ter voorkoming van witwassen en financieren van terrorisme. Wet van 15 juli 2008 houdende samenvoeging van de Wet identificatie bij dienstverlening en de Wet melding ongebruikelijke transacties Stb. 2008/303 (voetnoot toegevoegd door mij A-G).
+10
+ 	Vzr. rb. Amsterdam 24 mei 2017 zaak-/rolnummer C/13/627617/ KG ZA 17/453 (niet gepubliceerd).
+11
+ 	Hof Amsterdam 13 juli 2017 ECLI:NL:GHAMS:2017:2971 RCR 2017/84.
+12
+ 	Zie productie 13 bij de dagvaarding voor een overzicht van de afwijzingen door de diverse banken tussen april 2017 en september 2018.
+13
+ 	Producties 14 tot en met 16 bij de dagvaarding.
+14
+ 	Vzr. rb. Amsterdam 6 december 2017 ECLI:NL:RBAMS:2017:9076.
+15
+ 	Hof Amsterdam 19 januari 2018 ECLI:NL:GHAMS:2018:281 JOR 2018/216 m.nt. B.W. Wijnstekers hersteld bij arrest van 23 januari 2018 ECLI:NL:GHAMS:2018:266 RCR 2018/46.
+16
+ 	Productie 24 overgelegd door Yin Yang c.s. bij brief van 27 september 2019.
+17
+ 	Het Landelijk Bureau Bibob voert op verzoek van overheden integriteitscreeningen uit op basis van de Wet Bibob.
+18
+ 	Vzr. rb. Amsterdam 2 november 2018 ECLI:NL:RBAMS:2018:7931 zoals hersteld bij herstelvonnis van 23 november 2018 ECLI:NL:RBAMS:2018:8368 RF 2019/20.
+19
+ 	Vzr. rb. Amsterdam 17 januari 2019 zaak-/rolnummer C/13/658896/KG ZA 18-1351 (niet gepubliceerd).
+20
+ 	Hof Amsterdam 30 juli 2019 ECLI:NL:GHAMS:2019:2822 JOR 2020/63 m.nt. B.W. Wijnstekers.
+21
+ 	HR 5 maart 2021 ECLI:NL:HR:2021:347 (art. 81 RO).
+22
+ 	Vzr. rb. Amsterdam 15 oktober 2019 ECLI:NL:RBAMS:2019:7646.
+23
+ 	Het bestreden arrest: hof Amsterdam 21 januari 2020 ECLI:NL:GHAMS:2020:121 JOR 2020/90 m.nt. B.W. Wijnstekers.
+24
+ 	In tegenstelling tot de vraag of de opzeggingen van ING naar maatstaven van redelijkheid en billijkheid onaanvaardbaar zijn welke vraag volgens het hof ex tunc dient te worden beantwoord. Dit oordeel heeft Uw Raad in stand gelaten (randnummers 1.23 en 1.24 hiervoor).
+25
+ 	Zie bijvoorbeeld Asser Rechtspersonenrecht/V.P.G. de Serière Deel 2-IV. Effectenrecht Deventer: Wolters Kluwer 2017 nrs. 738 e.v. met verdere verwijzingen aldaar en D. Busch ‘De toekomst van de bijzondere zorgplicht in de financiële sector’ in D. Busch e.a. (red.) Zorgplicht in de financiële sector Deventer: Wolters Kluwer 2020 p. 1-24. Zie ook mijn conclusie (ECLI:NL:PHR:2020:358) voor HR 10 juli 2020 ECLI:NL:HR:2020:1274 NJ 2021/35 m.nt. T.F.E. Tjong Tjin Tai Ondernemingsrecht 2020/136 m.nt. C.W.M. Lieverse & M.H.E. Rongen en JIN 2020/137 m.nt. E.J.H. Zandbergen en S. Lubberhuizen (Immobile Securities N.V./Promontoria Holding 107 B.V.) randnummers 4.109-4.119 en mijn conclusie (ECLI:NL:PHR:2019:826) voor HR 10 januari 2020 ECLI:NL:HR:2020:28 NJ 2020/121 m.nt. T.F.E. Tjong Tjin Tai en Ondernemingsrecht 2020/47 m.nt. K. Frielink (Deutsche Nederland N.V.) randnummers 3.4-3.10.
+26
+ 	De eerste volzin van artikel 2 lid 1 van de Algemene Bankvoorwaarden luidt als volgt: “Wij zijn bij onze dienstverlening zorgvuldig en houden hierbij zo goed mogelijk rekening met uw belangen.”
+27
+ 	Zie bijvoorbeeld HR 10 juli 2020 ECLI:NL:HR:2020:1274 NJ 2021/35 m.nt. T.F.E. Tjong Tjin Tai Ondernemingsrecht 2020/136 m.nt. C.W.M. Lieverse & M.H.E. Rongen en JIN 2020/137 m.nt. E.J.H. Zandbergen en S. Lubberhuizen (Immobile Securities N.V./Promontoria Holding 107 B.V.) rov. 2.9.1. en 2.9.2.
+28
+ 	Zie recent HR 10 juli 2020 ECLI:NL:HR:2020:1274 NJ 2021/35 m.nt. T.F.E. Tjong Tjin Tai Ondernemingsrecht 2020/136 m.nt. C.W.M. Lieverse & M.H.E. Rongen en JIN 2020/137 m.nt. E.J.H. Zandbergen en S. Lubberhuizen (Immobile Securities N.V./Promontoria Holding 107 B.V.) rov. 2.9.2.
+29
+ 	Zie reeds HR 23 mei 1997 ECLI:NL:HR:1997:AG7238 NJ 1998/192 m.nt. C.J. van Zeben (Rabobank/Everaars) rov. 3.3 en meer recent HR 27 november 2015 ECLI:NL:HR:2015:3399 NJ 2016/245 m.nt. T.F.E. Tjong Tjin Tai en JOR 2016/34 m.nt. F.M.A. ’t Hart (Ponzi-zwendel) rov. 4.3.
+30
+ 	Zie wederom HR 10 juli 2020 ECLI:NL:HR:2020:1274 NJ 2021/35 m.nt. T.F.E. Tjong Tjin Tai Ondernemingsrecht 2020/136 m.nt. C.W.M. Lieverse & M.H.E. Rongen en JIN 2020/137 m.nt. E.J.H. Zandbergen en S. Lubberhuizen (Immobile Securities N.V./Promontoria Holding 107 B.V.) rov. 2.9.2.
+31
+ 	Zie onder meer HR 23 mei 1997 ECLI:NL:HR:1997:AG7238 NJ 1998/192 m.nt. C.J. van Zeben (Rabobank/Everaars) rov. 3.3 en meer recent HR 5 juni 2009 ECLI:NL:HR:2009:BH2811 NJ 2012/183 m.nt. J.B.M. Vranken onder NJ 2012/184 en Ars Aequi 2010 p. 188 e.v. m.nt. W.H. van Boom en S.D. Lindenbergh (Levob Bank/Bolle) rov. 4.5.4-4.5.5.
+32
+ 	Zie bijvoorbeeld HR 5 juni 2009 ECLI:NL:HR:2009:BH2822 NJ 2012/184 m.nt. J.B.M. Vranken JA 2009/118 m.nt. W.H. van Boom en Ars Aequi 2010 p. 188 e.v. m.nt. W.H. van Boom en S.D. Lindenbergh (Stichting GeSp/Aegon) rov. 4.6.2-4.6.5.
+33
+ 	Zie HR 10 juli 2020 ECLI:NL:HR:2020:1274 NJ 2021/35 m.nt. T.F.E. Tjong Tjin Tai Ondernemingsrecht 2020/136 m.nt. C.W.M. Lieverse & M.H.E. Rongen en JIN 2020/137 m.nt. E.J.H. Zandbergen en S. Lubberhuizen (Immobile Securities N.V./Promontoria Holding 107 B.V.) rov. 2.9.2 waarin Uw Raad heeft overwogen dat de inhoud en reikwijdte van de bijzondere zorgplicht beperkt zijn nu de cliënt niet een consument is (en het een niet ingewikkeld financieel product betreft). Zie in dit kader ook D. Busch ‘De toekomst van de bijzondere zorgplicht in de financiële sector’ NJB 2020/424 p. 459 die schrijft dat het inmiddels algemeen geaccepteerd lijkt dat banken ook tegenover beschermingsbehoeftige niet-particulieren (zoals Mkb’ers) aan concrete zorgplichten (vooral: onderzoeks- en waarschuwingsplichten) kunnen zijn onderworpen.
+34
+ 	Zie in het bijzonder HR 9 januari 1998 ECLI:NL:HR:1998:ZC2536 NJ 1999/285 m.nt. W.M. Kleijn (MeesPierson/Ten Bos) rov. 3.6.2 HR 23 december 2005 ECLI:NL:HR:2005:AU3713 NJ 2006/289 m.nt. M.R. Mok AV&S 2006/26 m.nt. S.B. van Baaien en JA 2006/40 m.nt. E. van den Akker en N. Frenk (Safe Haven) rov. 6.3.2 en HR 27 november 2015 ECLI:NL:HR:2015:3399 NJ 2016/245 m.nt. T.F.E. Tjong Tjin Tai en JOR 2016/34 m.nt. F.M.A. ’t Hart (Ponzi-zwendel) rov. 4.1 en 4.3. Zie in dit verband ook R.H. van der Leeuw en A.E.E. Verspyck Mijnssen ‘Zorgplicht van banken tegenover derden’ in D. Busch e.a. (red.) Aansprakelijkheid in de financiële sector Deventer: Kluwer 2013 p. 595 e.v.
+35
+ 	HR 27 november 2015 ECLI:NL:HR:2015:3399 NJ 2016/245 m.nt. T.F.E. Tjong Tjin Tai en JOR 2016/34 m.nt. F.M.A. ’t Hart (Ponzi-zwendel) rov. 4.3.
+36
+ 	Zie onder meer M.W. Wallinga ‘De bijzondere zorgplicht: de loper van het verbintenissenrecht op financieel gebied?’ WPNR 7116 (2016) p. 607.
+37
+ 	In de literatuur wordt soms betoogd dat partijen die jarenlang met elkaar in een contractuele verhouding hebben gestaan (zoals Yin Yang c.s. en ING) na het verbreken van de contractuele verhouding in een postcontractuele fase terechtkomen waarbij het contract formeel gezien is beëindigd maar materieel gezien nog op een aantal punten in de toekomst doorwerkt. Zie in dit verband bijvoorbeeld M.D.H. Nelemans en M.L. Hendrikse ‘De toepasselijkheid van buitencontractuele zorgvuldigheidsnormen in het financieel contractenrecht’ NTHR 2020/4 p. 164-165. Mij lijkt het toch zuiverder om de verhouding tussen partijen in dergelijke gevallen niet als (post)contractueel te beschouwen maar aan de hand van buiten-contractuele normen te beoordelen (zoals de plicht om te handelen conform hetgeen volgens ongeschreven recht in het maatschappelijk verkeer betaamt). Hierbij weegt uiteraard wel als omstandigheid mee dat een (jarenlange) contractuele relatie (met een bepaalde inhoud) tussen de partijen heeft bestaan. Zie in deze zin bijvoorbeeld HR 9 december 1955 ECLI:NL:HR:1955:47 NJ 1956/157 m.nt. L.E.H. Rutten (Boogaard/Vesta).
+38
+ 	Daarnaast hebben Yin Yang c.s. (ook weer in deze procedure) betoogd dat de opzeggingen van ING onregelmatig zijn en de contractuele relaties met ING daarom moeten worden gecontinueerd.
+39
+ 	Zie in dit verband ook de NJ-noot (nr. 5) van T.F.E. Tjong Tjin Tai bij HR 10 juli 2020 ECLI:NL:HR:2020:1274 NJ 2021/35 Ondernemingsrecht 2020/136 m.nt. C.W.M. Lieverse & M.H.E. Rongen en JIN 2020/136 m.nt. E.J.H. Zandbergen en S. Lubberhuizen onder JIN 2020/137 (Immobile Securities N.V./Promontoria Holding 107 B.V.). Hij ziet de bijzondere zorgplicht in essentie als een verbijzondering van de redelijkheid en billijkheid die in het algemeen eist dat contractspartijen zich niet uitsluitend door hun eigen belangen laten leiden maar zich ook de belangen van de wederpartij aantrekken. Bij de bijzondere zorgplicht moet nog iets meer gewicht worden toegekend aan de belangen van de wederpartij maar er is geen sprake van een scherpe breuk. Wat dat betreft zijn sommige aspecten van de bijzondere zorgplicht ook weer niet zo bijzonder.
+40
+ 	Zie in deze zin reeds de conclusie van A-G Wissink (ECLI:NL:PHR:2017:1057) voor HR 2017 ECLI:NL:HR:2017:3055 RvdW 2017/1083 en JOR 2018/71 m.nt. F.M.A. ‘t Hart (Gerann Holding c.s./Rabobank) (art. 81 RO) randnummer 3.8.
+41
+ 	Zie voetnoot 34 hiervoor.
+42
+ 	Zie onder meer Asser Rechtspersonenrecht/V.P.G. de Serière Deel IV. Effectenrecht Deventer: Wolters Kluwer 2017 nr. 732.
+43
+ 	Houben noemt in haar dissertatie over contractdwang ‘machtsonevenwicht’ als een mogelijke rechtvaardiging voor contractdwang. Niet iedereen is immers gelijkelijk toegerust om van de algemeen geldende contractvrijheid gebruik te maken. Verschillen in de (machts)posities van de contractspartijen kunnen daarom beperkingen van de contractvrijheid rechtvaardigen. Het streven naar materiële rechtvaardigheid kan dus reden zijn voor beperking van de contractvrijheid. Zie I.S.J. Houben Contractdwang diss. Deventer: Kluwer 2005 p. 327-332. Zij noemt als andere mogelijke rationes voor contractdwang ten onrechte gemaakt onderscheid en slachtofferbescherming.
+44
+ 	Richtlijn 2014/92/EU van het Europees Parlement en de Raad van 23 juli 2014 betreffende de vergelijkbaarheid van de in verband met betaalrekeningen aangerekende vergoedingen het overstappen naar een andere betaalrekening en de toegang tot betaalrekeningen met basisfuncties PbEU 2014 L 257/214.
+45
+ 	Art. 4:71f lid 3 Wft jo. art. 17 lid 1 van Richtlijn 2014/92/EU.
+46
+ 	De resultaten van het onderzoek zijn verwerkt in een effectbeoordeling van 8 mei 2013 genaamd Werkdocument van de diensten van de Commissie Samenvatting van de effectbeoordeling bij Voorstel voor een Richtlijn van het Europees Parlement en de Raad betreffende de vergelijkbaarheid van kosten in verband met betaalrekeningen overstappen van betaalrekening en toegang tot betaalrekeningen met basisfunctie COM(2013)0266. Zie ook GS Toezicht Financiële Markten commentaar op art. 4:71f Wft (R.E. van Esch) actueel tot en met 23 januari 2017.
+47
+ 	Overweging (56) van Richtlijn 2014/92/EU.
+48
+ 	Overweging (3) van Richtlijn 2014/92/EU.
+49
+ 	Wijziging van de Wet op het financieel toezicht ter implementatie van richtlijn nr. 2014/92/EU van het Europees Parlement en de Raad van 23 juli 2014 betreffende de vergelijkbaarheid van de in verband met betaalrekeningen aangerekende vergoedingen het overstappen naar een andere betaalrekening en de toegang tot betaalrekeningen met basisfuncties (PbEU 2014 L 257) (Implementatiewet toegang basisbetaalrekening) Stb. 2016/386.
+50
+
+Kamerstukken II 2015-2016 34 480 nr. 3 p. 2.
+51
+ 	Zie in dit kader onder meer I.S.J. Houben ‘Contractvrijheid voor de bank? Opzegging van een betaalrekening’ MvV 2020/7/8 p. 293 en M. van der Beek en R.F. van den Heuvel ‘Tussen poortwachtersfunctie en toegang tot een nutsvoorziening: over de zakelijke bankrekening in het Koninkrijk’ FRP 2020/6 p. 59-60.
+52
+ 	Zie onder meer HR 27 november 2015 ECLI:NL:HR:2015:3399 NJ 2016/245 m.nt. T.F.E. Tjong Tjin Tai en JOR 2016/34 m.nt. F.M.A. ’t Hart (Ponzi-zwendel) rov. 4.1 en 4.3 en HR 23 december 2005 ECLI:NL:HR:2005:AU3713 NJ 2006/289 m.nt. M.R. Mok AV&S 2006/26 m.nt. S.B. van Baaien en JA 2006/40 m.nt. E. van den Akker en N. Frenk (Safe Haven) rov. 6.3.2.
+53
+ 	Niet voor niets heeft ING middelonderdeel 2.2 dusdanig (niet absoluut) geformuleerd dat de postcontractuele werking van de redelijkheid en billijkheid met zich brengt “althans kan brengen” dat de geldigheid van een eerdere opzegging en de aan die opzegging ten grondslag liggende redenen “(kunnen)” maken dat een contracteerplicht niet of (nog) minder snel kan worden aangenomen.
+54
+ 	Het oordeel van het hof dat de opzeggingen ex tunc moesten worden beoordeeld heeft Uw Raad in cassatie in stand gelaten (randnummers 1.23 en 1.24 hiervoor). Zie voorts mijn conclusie van 9 oktober 2020 in zaak 19/04381 ECLI:NL:PHR:2020:934 randnummers 2.4 e.v.
+55
+ 	In cassatie niet bestreden.
+56
+ 	Randnummers 4.4. en 4.11. van de schriftelijke toelichting van ING.
+57
+ 	Randnummer 2.1-Ib van de conclusie van antwoord in het principale cassatieberoep tevens houdende incidenteel cassatieberoep. In dit kader vraag ik mij overigens wel af waarom Yin Yang c.s. dan in de periode tussen februari 2016 en februari 2017 maar liefst 1.210 coupures van € 500 en 650 coupures van € 200 bij ING hebben afgestort (randnummer 1.8 hiervoor).
+58
+ 	Zie in dit kader rov. 3.6. van het arrest van het hof Amsterdam van 30 juli 2019 ECLI:NL:GHAMS:2019:2822 JOR 2020/63 m.nt. B.W. Wijnstekers.
+59
+ 	Productie 13 bij de dagvaarding.
+60
+ 	Subonderdeel X ontbreekt waardoor sprake is van elf subonderdelen ook al nummeren de subonderdelen door tot XII.
+61
+ 	Wet van 15 februari 1980 tot het treffen van sancties tegen bepaalde staten of gebieden (Sanctiewet 1977) Stb. 1980/93.
+62
+ 	DNB Leidraad Wwft en Sw versie december 2020 p. 2 beschikbaar via https://www.dnb.nl/media/dzicty20/dnb-leidraad-wwft-en-sw.pdf.
+63
+ 	DNB Leidraad Wwft en Sw versie december 2020 p. 23.
+64
+ 	Volgens Yin Yang c.s. registreren zij alleen die bezoekers die de toegang tot Saunaclub Yin Yang wordt geweigerd zie subonderdeel 2.1-VII en voetnoot 6 van de conclusie van antwoord in het principale cassatieberoep tevens houdende incidenteel cassatieberoep (p. 10 en 11) en voetnoot 4 van de schriftelijke toelichting van Yin Yang c.s. (p. 7).
+65
+ 	Zie in dit kader ook p. 41 van de Leidraad waar staat dat bij cliëntenonderzoek uitgangspunt is dat de instelling (de bank) zo nodig onderzoek verricht naar de bron van de middelen die bij de zakelijke relatie worden gebruikt.
+66
+ 	DNB en Betaalvereniging Nederland factsheet ‘Betalen aan de kassa 2019’ p. 1 beschikbaar via https://www.betaalvereniging.nl/wp-content/uploads/Factsheet-Betalen_aan_de_kassa_2019.pdf.
+67
+ 	DNB en Betaalvereniging Nederland factsheet ‘Betalen aan de kassa 2019’ p. 1.
+68
+ 	Productie 35 bij de spoedappeldagvaarding van 8 november 2019.
+69
+ 	Yin Yang c.s. betwisten deze percentages niet. Zie subonderdelen 2.1-IVa en 2.1-IVb van de conclusie van antwoord in het principale cassatieberoep tevens houdende incidenteel cassatieberoep.
+70
+ 	Subonderdeel 2.1-VII en voetnoot 6 van de conclusie van antwoord in het principale cassatieberoep tevens houdende incidenteel cassatieberoep (p. 10 en 11) en voetnoot 4 van de schriftelijke toelichting van Yin Yang c.s. (p. 7).
+71
+ 	Subonderdeel 2.2-II van de conclusie van antwoord in het principale cassatieberoep tevens houdende incidenteel cassatieberoep (p. 13 onderaan).
+72
+ 	Zie bijvoorbeeld W.D.H. Asser Civiele cassatie Nijmegen: Ars Aequi Libri 2018 p. 50 en 51.

@@ -1,0 +1,368 @@
+
+
+
+
+
+
+
+
+
+
+
+
+vonnis
+RECHTBANK AMSTERDAM
+
+Afdeling privaatrecht voorzieningenrechter civiel
+ 
+
+zaaknummer / rolnummer: C/13/700378 / KG ZA 21-282
+ 
+
+
+Vonnis in kort geding van 16 juli 2021
+
+ 
+
+in de zaak van
+ 
+
+de rechtspersoon naar vreemd recht
+
+ABBVIE BIOTECHNOLOGY LTD
+te Hamilton Bermuda
+eiseres
+advocaat mr. P. van Schijndel te Amsterdam
+ 
+
+tegen
+ 
+1. de rechtspersoon naar vreemd recht
+
+
+ALVOTECH HF
+te Reykjavik IJsland
+
+2. de rechtspersoon naar vreemd recht
+
+
+ALVOTECH SWISS AG
+te Zürich Zwitserland
+
+3. de rechtspersoon naar vreemd recht
+
+
+STADA ARZNEIMITTEL AG
+te Bad Vilbel Duitsland
+gedaagden
+advocaat mr. D.F. de Lange te Amsterdam.
+ 
+
+Partijen zullen hierna AbbVie en Alvotech c.s. (vrouwelijk enkelvoud) worden genoemd en de gedaagden ook afzonderlijk Alvotech HF Alvotech AG en Stada. De zaak is voor AbbVie inhoudelijk behandeld door mr. Van Schijndel voornoemd mr. W. Hoyng en mr. P. Haase advocaten te Amsterdam en voor Alvotech c.s. door mr. De Lange voornoemd 
+mr. A.D. de Leeuw en mr. M.P. Mtshaulana advocaten te Amsterdam.
+ 
+
+
+
+1
+1.	De procedure
+
+1.1.
+Het verloop van de procedure blijkt uit:
+
+-
+de dagvaarding van 15 april 2021 met producties EP01 tot en met EP16;
+
+-
+de conclusie van antwoord ontvangen op 21 mei 2021 met productie GP01 tot en met GP33;
+
+-
+de akte houdende overlegging reactieve producties van AbbVie ontvangen op 4 juni 2021 met productie EP17 tot en met EP33;
+
+-
+de akte houdende wijziging van eis tevens akte overlegging en aanvulling producties van AbbVie ontvangen op 11 juni 2021 met productie EP32.1 EP32.2 en EP33.1;
+
+-
+de akte houdende overlegging producties van Alvotech c.s. ontvangen op 11 juni 2021 met productie GP34 en GP35;
+
+-
+de pleitnota van AbbVie ontvangen op 15 juni 2021;
+
+-
+de schriftelijke pleitnota van Alvotech c.s. ontvangen op 15 juni 2021;
+
+-
+de reactie op pleitnota AbbVie van Alvotech c.s. ontvangen op 17 juni 2021;
+
+-
+de akte overlegging additionele productie van Alvotech c.s. ontvangen op 17 juni 2021 met productie GP36;
+
+-
+de digitale mondelinge behandeling via MCU-verbinding op 18 juni 2021 met participatie van partijen octrooigemachtigden en advocaten.
+
+
+
+
+1.2.
+Vonnis is bepaald op heden. 
+
+
+
+
+2 De feiten
+
+2.1.
+AbbVie is een farmaceutische multinational die zich bezighoudt met de ontwikkeling en verkoop van biologische en small molecule geneesmiddelen. AbbVie is opgericht in 2013. 
+
+
+2.2.
+Een van de producten van AbbVie is het antilichaam adalimumab. Dit is een biologisch geneesmiddel dat wordt verkocht onder de handelsnaam Humira®. Adalimumab is een volledig menselijk antilichaam dat het cytokine TNFα bindt en neutraliseert. 
+
+
+2.3.
+AbbVie is houdster van het Europese octrooi EP 2 940 044 B1 (hierna: EP 044) getiteld “Anti-TNF Alpha Antibodies for use in therapy”. EP 044 ziet op de behandeling van reumatoïde artritis. De aanvraag voor EP 044 dateert van 5 juni 2002 onder inroeping van prioriteit van US 296961 ingediend op 8 juni 2001. De verlening is gepubliceerd op 16 november 2016 en EP 044 is onder andere gedesigneerd voor Nederland. EP 044 vervalt op 5 juni 2022. 
+
+
+2.4.
+
+AbbVie is tevens houdster van het Europese octrooi EP 1 737 491 B1 (hierna: EP 491) getiteld “Multiple-Variable dose regime for treating Crohn’s disease and ulcerative colitis”. EP 491 ziet zoals de titel al zegt op de behandeling van twee verschillende inflammatoire darmziektes te weten de ziekte van Crohn en colitis ulcerosa. De aanvraag voor EP 491 dateert van 11 april 2005 onder inroeping van prioriteit van US 561139 ingediend op 9 april 2004 US 561710 ingediend op 12 april 2004 en US 569100 ingediend op 7 mei 2004. De verlening is gepubliceerd op 2 november 2016 en EP 491 is onder andere gedesigneerd voor Nederland. EP 491 vervalt op 11 april 2025. 
+EP 044 en EP 491 worden hierna gezamenlijk “de Octrooien” genoemd.
+ 
+
+
+2.5.
+Tegen de verlening van de Octrooien is (onder andere) door Stada oppositie ingesteld bij het EOB1. De oppositieafdeling van het EOB heeft EP 491 in stand gelaten bij beslissing van 1 februari 2019. Bij beslissing van 26 april 2019 is ook EP 044 in stand gelaten. Tegen de beide beslissingen is beroep ingesteld.  
+
+
+2.6.
+Alvotech HF is een wereldwijd opererende biotech-onderneming die zich richt op de vervaardiging en distributie van biosimilars. Biosimilars zijn alternatieve biologische geneesmiddelen die hetzelfde farmacologische profiel hebben als het referentieproduct. 
+
+
+2.7.
+Alvotech HF heeft een biosimilar ontwikkeld van Humira® genaamd AVT02. Zij heeft voor dit product bij het EMA2 een “full label” handelsvergunning (hierna: MA3) voor Europa aangevraagd. “Full label” wil zeggen dat het een aanvraag is voor alle indicaties waaronder de indicaties waar de Octrooien op zien. 
+
+
+2.8.
+Alvotech AG is een onderdeel van de Alvotech groep en richt zich op het verrichten van klinisch onderzoek. Zij heeft het belangrijkste klinische onderzoek verricht ten behoeve van de biosimilar MA-aanvraag voor AVT02.  
+
+
+2.9.
+Stada is een onderdeel van het Stada concern een Duitse onderneming in voornamelijk generieke en over-the-counter geneesmiddelen. Alvotech HF werkt voor de distributie van haar biosimilars onder andere samen met Stada. Stada zal AVT02 voor Alvotech HF op de markt brengen.  
+
+
+2.10.
+Er zijn momenteel vijf biosimilars van Humira® op de markt waarvoor de verschillende producenten een licentieovereenkomst hebben gesloten met AbbVie.  
+
+
+2.11.
+Op 19 februari 2021 heeft (de advocaat van) AbbVie een brief gestuurd aan Alvotech HF en Stada4 waarin – onder meer – is opgenomen: 
+
+(…)
+AbbVie is the owner of among others the three following European patents:
+(…)
+ 
+
+On 19 November 2020 Alvotech hf announced that an application for a marketing authorization ("MA") for Alvotech’s adalimumab biosimilar AVT02 has been accepted by the EMA in Amsterdam the Netherlands. The agendas of the CHMP show that the application process is indeed underway for all authorized indications including the indications covered by the above listed patents.
+ 
+
+(…)
+My client therefore asks Alvotech to confirm that it will not continue to seek an MA that covers the patented indications or in the alternative that Alvotech undertakes not to use (nor allow others to use) such an MA before the expiry of the last of the listed patents. For the avoidance of doubt this confirmation and/or undertaking should be given in respect of all companies in the Alvotech group.
+(…)
+ 
+
+
+2.12.
+Bij brief van 4 maart 2021 heeft (de advocaat van) Stada als volgt gereageerd: 
+
+On behalf of Stada Arzneimittel AG we respond to your letter dated 18 February 2021. In your letter you refer to “the agendas of the CHMP” that would show that the application process is underway for all authorized indications. My client is not aware of this document. Could you please provide us with a copy? Furthermore applying for a MA is not an infringing act in the Netherlands as you will know. Please send any further correspondence on this topic to me at Brinkhof. My client reserves all rights.
+ 
+
+
+2.13.
+In een artikel in IJslandse media van 10 februari 2021 naar aanleiding van een interview met [naam 1]  [functie 1] van Alvotech HF (hierna: [naam 1] ) is – onder meer – het volgende opgenomen: 
+
+The generic pharmaceutical company Alvotech aims to launch a new biotechnology generic drug within two years. [naam 1]  [functie 1] of Alvotech says that the company's export revenue will amount to about 20 percent of GDP within a few years. (…)
+ 
+
+(…)
+Alvotech has now for the first time with a generic pharmaceutical company submitted for registration in the United States the generic drug for the biotech rheumatoid arthritis drug Humira. It is the best-selling drug in the world with sales in the United States of $ 15-16 billion a year. Alvotech has also secured long-term collaboration agreements with various generic pharmaceutical companies around the world including Asia Australia the United States and Europe. “So when we're done producing the drug goes on the market everywhere.”
+ 
+
+(…) Today Alvotech has seven generic drugs in development that are scheduled to be launched as soon as their patents expire.
+ 
+
+
+2.14.
+In een interview met Pharma Boardroom van 25 februari 2021 heeft [naam 2]  [functie 2] van Alvotech (hierna: [naam 2] ) onder meer het volgende gezegd: 
+
+Next year we are aiming to commercialize our first product hence commercial launch readiness is one of our corporate priorities within 2021.
+ 
+
+
+2.15.
+Op 15 maart 2021 heeft Alvotech HF op haar website – onder meer – de volgende tekst geplaatst: 
+
+Alvotech has successfully completed a second round of its US$ 100 million private placement for US$ 35 million. (…) 
+ 
+
+In the course of the second round Alvotech is pleased to announce additional interest from a wider range of investors including Iceland and internationally.
+ 
+
+“We are very pleased to have secured this private placement as we embark on the exciting phase in our evolution from a developer to becoming a manufacturer and supplier of biosimilar medicines and we look forward to bringing our first products to market.
+ 
+
+“We have signed partnership deals with leading biosimilar players in all the largest pharmaceutical markets in the world enabling us to expand access to high quality biologics to patients worldwide.
+ 
+
+(…)
+
+
+            [naam 1]
+          
+
+
+          [functie 1] of Alvotech
+ 
+
+
+2.16.
+Op [datum] heeft Alvotech HF het volgende nieuwsartikel op haar website geplaatst:
+
+
+
+
+
+Om privacy redenen is de afbeelding verwijderd.
+
+
+
+
+
+
+
+2.17.
+Het bovenstaande nieuwsartikel bevat een link naar de presentatie die [naam 1] heeft gehouden tijdens de Jefferies Global Healthcare Conference. In deze presentatie heeft [naam 1] – onder meer – het volgende gezegd:  
+
+We have always said that there are two sides of any coin. One is innovation and the other one is the access. Of course innovation and patent lifetime from the big pharma we all know and once the patent expires we want to be in the market and be able to provide biosimilars similar alternatives or same alternatives at a lower cost.
+ 
+
+
+2.18.
+In het jaarverslag 2020 van Stada is – onder meer – het volgende opgenomen: 
+
+
+Increasing expansion of the biosimilar portfolio
+
+ 
+
+(…) Furthermore there is an exclusive strategic partnership with Alvotech ehf an international biopharmaceutical company for the marketing of seven biosimilars in all European core markets and selected markets outside of Europe.
+ 
+
+
+
+
+3 Het geschil 
+
+3.1.
+AbbVie vordert – na wijziging van eis en samengevat – een gebod om voor de verhandeling van AVT02 in IJsland Noorwegen Liechtenstein en de EU-landen waar de Octrooien geldig zijn marktvergunningen te krijgen met een carve-out voordat AVT02 wordt aangeboden met dwangsom en een volledige proceskostenveroordeling. 
+
+
+3.2.
+Ter onderbouwing van haar (neven)vorderingen stelt AbbVie dat een gebod noodzakelijk is wanneer Alvotech c.s. AVT02 wil verhandelen in landen waar de Octrooien van kracht zijn omdat zij in die landen een carved-out MA nodig heeft tenzij zij een licentie van AbbVie afneemt. Indien een full label MA aan Alvotech c.s. zal worden verleend zal het gebruik daarvan onvermijdelijk inbreuk opleveren in de voornoemde landen. Zoals uit uitlatingen van leidinggevende personen bij Alvotech c.s. volgt is Alvotech c.s. voornemens om na verkrijging van de MA AVT02 snel te lanceren dus vóór afloop van de vervaldatum van de Octrooien. Door geen maatregelen te nemen die een onvermijdelijke inbreuk voorkomen handelt Alvotech c.s. onrechtmatig. 
+
+
+3.3.
+Alvotech c.s. voert verweer.  
+
+
+3.4.
+Op de stellingen van partijen wordt hierna voor zover van belang nader ingegaan.  
+
+
+
+
+4 De beoordeling
+Bevoegdheid
+
+4.1.
+De voorzieningenrechter van deze rechtbank is internationaal (en relatief) bevoegd van de vorderingen jegens Alvotech HF en Alvotech AG kennis te nemen op grond van artikel 24 Verdrag van Lugano II5 en jegens Stada op grond van artikel 26 lid 1 Brussel I bis-Vo6 nu Alvotech c.s. is verschenen zonder deze (internationale en relatieve) bevoegdheid te betwisten. 
+
+
+(Dreigend) onrechtmatig handelen
+
+ 
+
+
+4.2.
+Het is niet geheel duidelijk of AbbVie nu stelt dat er sprake is van dreigend onrechtmatig handelen doordat Alvotech c.s. het nog te verlenen full label MA zal gebruiken om inbreuk te faciliteren of dat Alvotech c.s. reeds nu onrechtmatig handelt omdat zij geen carved out MA heeft aangevraagd en de dreiging concreet is dat zij (later) op de markt zal komen en de Octrooien niet zal respecteren. Voor beide standpunten zal evenwel moeten worden beschouwd of de dreiging voldoende concreet is dat Alvotech c.s. inderdaad de Octrooien niet zal respecteren. Volgens vaste rechtspraak kan immers pas een verbod of gebod op worden gelegd om inbreuk of onrechtmatig handelen tegen te gaan indien daartoe een serieuze dreiging bestaat. Het enkele aanvragen van een (full label) MA vormt zonder bijkomende omstandigheden die aannemelijk maken dat Alvotech c.s. concreet voornemens is een biosimilar op de Europese markt te gaan brengen in strijd met een aan AbbVie toekomend octrooirecht onvoldoende serieuze dreiging van octrooi-inbreuk of onrechtmatig handelen. Naar voorlopig oordeel is in de onderhavige procedure geen sprake van bijkomende omstandigheden die maken dat deze dreiging er toch zou zijn. Daartoe wordt als volgt overwogen.  
+
+
+4.3.
+AbbVie noemt een viertal bijkomende omstandigheden die haars inziens maken dat de aanvraag van een full label MA door Alvotech HF (een serieuze dreiging tot) onrechtmatig handelen door Alvotech c.s. oplevert. Ten eerste volgt volgens AbbVie uit de (pers)uitlatingen van [naam 1]  [naam 2] en Stada (zie onder 2.13 tot en met 2.16 en 2.18) dat Alvotech c.s. duidelijk van plan is AVT02 in 2022 en in elk geval vóór februari 2023 te lanceren. Deze datum ligt voor het expireren van de Octrooien7 zodat de (dreiging van) octrooi-inbreuk reëel is aldus AbbVie. Zoals Alvotech c.s. echter terecht opmerkt worden in deze (pers)uitlatingen nergens concrete data genoemd of gemeld wanneer AVT02 op de Europese markt zal komen. Bovendien is in de uitlatingen opgenomen dat Alvotech HF octrooirechten zal respecteren nu is aangegeven dat met marktintroductie van de zeven biosimilars die Alvotech HF aan het ontwikkelen is zal worden gewacht totdat de desbetreffende octrooien zijn verlopen (vergelijk onder 2.13 en 2.17). Dat betekent dat Alvotech c.s. naar voorlopig oordeel niet onmiskenbaar heeft aangegeven dat zij vóór het verlopen van de Octrooien AVT02 op de Europese markt zal brengen aan de hand van een full label MA. Tegenover de betwisting door Alvotech c.s. dat zij dit toch zal doen heeft AbbVie onvoldoende gesteld zodat dit niet aannemelijk is geworden. Evenmin leidt de omstandigheid dat Alvotech c.s. mogelijk een parallelle carved-out MA zou kunnen aanvragen tot een ander oordeel gegeven dat niet aannemelijk is geworden dat Alvotech c.s. de Octrooien niet zal respecteren. Het betreft dan ook geen bijkomende omstandigheid waarmee rekening moet worden gehouden.  
+
+
+4.4.
+Ten tweede is volgens AbbVie een relevante bijkomende omstandigheid dat Alvotech c.s. niet bereid is een toezegging te doen om te wachten met de marktintroductie van AVT02 in Europa totdat de Octrooien zijn verlopen. De voorzieningenrechter stelt voorop dat AbbVie geen recht heeft op een dergelijke toezegging. Het feit dat Alvotech c.s. deze toezegging niet wil geven kan enkel als bijkomende omstandigheid gelden wanneer Alvotech c.s. in het verleden al daadwerkelijk (eventueel met een ander product) inbreuk heeft gemaakt. Daarvan is in dit geval geen sprake. Dat betekent dat ook de onthouding van een toezegging niet als bijkomende omstandigheid kan worden meegewogen. 
+
+
+4.5.
+AbbVie heeft als derde bijkomende omstandigheid opgeworpen dat Alvotech c.s. geen zogenaamde “clear the way” procedure (een vordering tot nietigverklaring) aanhangig heeft gemaakt. Verschillende concurrenten van Alvotech c.s. hebben hiervoor wel gekozen en zijn nadat zij met het verweer van AbbVie bekend waren geworden alsnog licentieovereenkomsten met AbbVie aangegaan aldus AbbVie. Enerzijds overweegt de voorzieningenrechter dat er voor Alvotech c.s. in zijn algemeenheid geen verplichting is om een “clear the way” procedure te starten. Dat zou mogelijk anders zijn indien zij voornemens zou zijn om inbreuk te maken of anderszins vast zou staan dat Alvotech c.s. binnenkort met AVT02 op de Europese markt komt en de octrooirechten van AbbVie niet zou respecteren maar dat is zoals hiervoor overwogen niet aan de orde. Anderzijds merkt Alvotech c.s. terecht op dat ook de oppositieprocedure bij het EOB is aan te merken als een “clear the way” procedure nu met deze procedure de Octrooien voor alle Europese landen waarvoor zij gelden kunnen worden herroepen. Stada is partij bij deze opposities en heeft voorts om versnelde behandeling gevraagd.  
+
+
+4.6.
+Ten slotte stelt AbbVie in het kader van de belangenafweging dat als zij geen actie kan ondernemen tegen Alvotech c.s. op basis van de aanvraag van de full label MA zij genoodzaakt is in een groot aantal landen octrooi-inbreukprocedures aanhangig te maken. Aangenomen dat zij hiermee bedoelt te stellen dat dit als (vierde) bijkomende omstandigheid heeft te gelden verwerpt de voorzieningenrechter ook deze stelling. Het mag voor AbbVie onhandig zijn dat zij mogelijk te zijner tijd in meerdere jurisdicties een procedure aanhangig moet maken maar dat maakt het enkele aanvragen van een full label MA nog niet tot dreigend onrechtmatig handelen (zonder bijkomende omstandigheden die niet aannemelijk zijn zoals uit het voorgaande blijkt). Hierbij komt dat Stada de Europese producent van AVT02 is en op de Europese markt zal brengen. Wanneer Alvotech c.s. concrete stappen onderneemt bij (inbreukmakende) marktintroductie van AVT02 is het (succesvol) vorderen van een verbod in Duitsland in beginsel voldoende om de verhandeling van AVT02 voor zover in strijd met de Octrooien een halt toe te roepen. Voorts lijkt Stada als verweerder een aanknopingspunt om eventuele andere rechtspersonen als verweerder in die (Duitse) procedure te betrekken terwijl jegens Stada mogelijk zelfs een grensoverschrijdend verbod in de rede ligt. 
+
+
+4.7.
+Voor wat betreft de grensoverschrijdende onderdelen van het door AbbVie gevorderde gebod overweegt de voorzieningenrechter als volgt. Partijen hebben aangaande het toepasselijke recht aangevoerd dat de vraag of sprake is van (dreigend) onrechtmatig handelen en of in dat kader grensoverschrijdend (een) gebod(en) kan / kunnen worden opgelegd op basis van Rome II8 beantwoord moet worden aan de hand van het rechtsstelsel van ieder Europees land waar de Octrooien geldig zijn. Ofschoon de vraag of sprake is van voldoende dreigend onrechtmatig handelen om een ge- of verbod in kort geding te rechtvaardigen mogelijk eerder een processuele vraag is en derhalve naar Nederlands procesrecht zou moeten worden beantwoord kan de voorzieningenrechter dit in het midden laten omdat het resultaat hetzelfde is. Veronderstellenderwijs aannemende dat het ter beschikking stellen van de full label MA door Alvotech HF in de verschillende Europese landen waar de Octrooien geldig zijn onrechtmatig is is dat onvoldoende om te kunnen oordelen dat een gebod aan de orde is. Immers op dit moment is er nog geen full label MA voorhanden maar is die slechts aangevraagd. Dat het enkele aanvragen van een full label MA zonder bijkomende omstandigheden in de verschillende landen op basis van het toepasselijke recht leidt tot onrechtmatig handelen is niet gesteld of gebleken.  
+
+
+4.8.
+Het voorgaande betekent dat de vorderingen van AbbVie zullen worden afgewezen.  
+
+
+Proceskosten
+
+ 
+
+
+4.9.
+AbbVie zal als de in het ongelijk gestelde partij worden veroordeeld in de proceskosten. Partijen hebben afgesproken dat de proceskosten € 60.000- bedragen ongeacht of artikel 1019h Rv van toepassing is zodat daarvan wordt uitgegaan. De kosten aan de zijde van Alvotech c.s. worden daarom begroot op € 60.667- (€ 60.000- + € 667- griffierecht). 
+
+
+
+
+5 De beslissing
+De voorzieningenrechter 
+
+5.1.
+weigert de gevraagde voorzieningen; 
+
+
+5.2.
+veroordeelt AbbVie in de kosten van het geding tot op heden aan de zijde van Alvotech c.s. begroot op € 60.667-; 
+
+
+5.3.
+verklaart de proceskostenveroordeling onder 5.2 uitvoerbaar bij voorraad.  
+
+Dit vonnis is gewezen door mr. E.F. Brinkman plaatsvervangend voorzieningenrechter bijgestaan door mr. K.H. Verwijmeren griffier en in het openbaar uitgesproken door mr. C.M.E. de Koning op 16 juli 2021.
+
+
+
+1
+Europees Octrooibureau
+2
+Europees Medicijn Agentschap
+3
+Market Authorisation
+4
+ De als EP15 overgelegde brief is aan Alvotech gericht. De voorzieningenrechter begrijpt uit de stellingen van partijen dat deze brief ook naar Stada is gestuurd (dagvaarding punt 55; cva punt 7) 
+5
+Verdrag van 30 oktober 2007 betreffende rechterlijke bevoegdheid de erkenning en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken
+6
+ Verordening (EU) 1215/2012 van het Europees Parlement en de Raad van 12 december 2012 betreffende de rechterlijke bevoegdheid de erkenning en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken
+7
+ Vzr: althans van EP 491
+8
+Verordening (EG) nr. 864/2007 van het Europees Parlement en de Raad van 11 juli 2007 betreffende het recht dat van toepassing is op niet-contractuele verbintenissen

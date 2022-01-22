@@ -1,0 +1,725 @@
+
+
+
+
+
+
+
+
+
+
+
+
+vonnis
+RECHTBANK DEN HAAG
+
+Team handel
+Zittingsplaats Den Haag
+ 
+
+zaaknummer / rolnummer: C/09/493389 / HA ZA 15-862
+ 
+
+
+Vonnis van 26 oktober 2016
+
+ 
+
+in de zaak van
+ 
+
+de rechtspersoon naar vreemd recht
+
+ACTELION PHARMACEUTICALS LTD
+gevestigd te Allschwil Zwitserland
+eiseres
+advocaat mr. D. Knottenbelt te Rotterdam
+ 
+
+tegen
+ 
+
+de rechtspersoon naar vreemd recht
+
+ICOS CORPORATION
+gevestigd te Indianapolis Verenigde Staten van Amerika
+gedaagde
+advocaat mr. L.Ph.J. baron van Utenhove te 's-Gravenhage.
+ 
+
+Partijen zullen hierna Actelion en Icos genoemd worden.
+ 
+
+De procedure is voor Actelion inhoudelijk behandeld door mr. R.E. Ebbink mr. M.G.R. van Gardingen en mr. P. Marcelis allen advocaat te Amsterdam met bijstand van de octrooigemachtigde mr. ir. M. Korsten en voor Icos door mr. K.A.J. Bisschop mr. L. Oosting en mr. ir. H. Zagers allen eveneens advocaat te Amsterdam met bijstand van de octrooigemachtigde drs. K.M.L. Bijvank.
+ 
+
+
+
+1 De procedure
+
+1.1.
+Het verloop van de procedure blijkt uit:
+
+-
+de beschikking van de voorzieningenrechter van deze rechtbank van 30 maart 2015 waarbij aan Actelion is toegestaan Icos te dagvaarden in de versnelde bodemprocedure in octrooizaken;
+
+-
+de dagvaarding van 2 april 2015;
+
+-
+de akte houdende overlegging producties van Actelion met producties 1 tot en met 16;
+
+-
+de conclusie van antwoord van Icos met producties 1 tot en met 17;
+
+-
+de akte houdende overlegging nadere producties van Actelion met producties 17 tot en met 19;
+
+-
+de akte overlegging nadere producties van Icos met producties 18 tot en met 67;
+
+-
+de akte houdende overlegging reactieve producties van Actelion met producties 20 tot en met 24;
+
+-
+de akte overlegging reactieve producties van Icos met producties 68 tot en met 71;
+
+-
+de bij brief van 9 maart 2016 toegezonden productie 25 van Actelion;
+
+-
+de brief van Actelion van 19 januari 2016 waarin bezwaar wordt gemaakt tegen de producties 19 tot en met 66 van Icos;
+
+-
+de brief van Icos van 22 januari 2016 met een reactie op dit bezwaar;
+
+-
+de brief van Actelion van 25 januari 2016 met een nadere reactie;
+
+-
+de beslissing van de rechtbank op het bezwaar bij email van 28 januari 2016;
+
+-
+de brief van Icos van 1 februari 2016 met een nadere toelichting op de door haar overgelegde producties 19 tot en met 66;
+
+-
+de brief van Icos van 26 februari 2016 onder meer met betrekking tot de door partijen bereikte overeenstemming over de proceskosten;
+
+-
+de email van de rechtbank van 8 maart 2016 waarin een toelichting wordt gevraagd op de door Icos verzochte vertrouwelijke behandeling van haar producties 2 3 en 4;
+
+-
+de gevraagde toelichting van Icos bij brief van 9 maart 2016 waarbij het verzoek om vertrouwelijke behandeling van productie 2 is ingetrokken;
+
+-
+de reactie van Actelion bij brief van 10 maart 2016;
+
+-
+de beslissing van de rechtbank van 10 maart 2016 op het verzoek tot vertrouwelijke behandeling.
+
+
+
+
+1.2.
+In de beslissing van 28 januari 2016 heeft de rechtbank het bezwaar van Actelion tegen de nadere producties van Icos dat zich vooral richtte tegen de overgelegde verklaringen van de deskundigen [deskundige 1]  [deskundige 2] en [deskundige 3]  verworpen en Icos opgedragen alsnog een toereikende toelichting op de nadere producties te geven. 
+
+
+1.3.
+In de beslissing van 10 maart 2016 is het verzoek tot vertrouwelijke behandeling van de producties 3 en 4 van Icos afgewezen omdat naar het oordeel van de rechtbank onvoldoende grond bestond een uitzondering te maken op het beginsel van openbaarheid van rechtspraak. 
+
+
+1.4.
+In de brief van 26 februari 2016 heeft Actelion aangegeven het door haar in de processtukken gedane beroep op het ontbreken van nieuwheid van het octrooi voorwaardelijk te maken in die zin dat zij zich daarop pas beroept indien na te melden aanval op de inventiviteit van het octrooi niet zou slagen. 
+
+
+
+
+2 De feiten
+
+2.1.
+Zowel Actelion als Icos ontwikkelen en exploiteren geneesmiddelen.  
+
+
+2.2.
+Icos is houdster van Europees octrooi EP 1 200 092 B1 (verder: EP 092 of het octrooi) voor ‘Beta-carboline drug products’. De verlening van het octrooi is gepubliceerd op 21 april 2004. Het octrooi is verleend op internationale octrooi-aanvrage PCT/US2000/020981 op 8 februari 2001 gepubliceerd als WO 2001/008688 met inroeping van prioriteit op basis van Amerikaanse octrooi-aanvrage US 147048 P van 3 augustus 1999. Het octrooi is onder meer van kracht in Nederland.  
+
+
+2.3.
+De conclusies van EP 092 luiden in de oorspronkelijke Engelse taal als volgt. 
+
+1. A free drug particulate form of a compound having a formula
+ 
+
+
+
+
+
+
+and pharmaceutically acceptable salts and solvates thereof in which the compound is present as solid particles not intimately embedded in a polymeric co-precipitate wherein at least 90% of the particles have a particle size of less than about 40 microns.
+2. The free drug particulate form of claim 1 wherein at least 90% of the particles have a particle size of less than about 25 microns.
+3. The free drug particulate form of claim 1 wherein at least 90% of the particles have a particle size of less than about 15 microns.
+4. The free drug particulate form of claim 1 wherein at least 90% of the particles have a particle size of less than about 10 microns.
+5. A pharmaceutical composition comprising:
+ 
+
+(a) a free drug form of a compound having the formula
+ 
+
+
+
+
+
+
+and pharmaceutically-acceptable salts and solvates thereof in which the compound is present as solid particles not intimately embedded in a polymeric co-precipitate wherein at least 90% of the particles have a particle size of less than about 40 microns; and
+(b) one or more pharmaceutically-acceptable carriers diluents or excipients 
+6. The pharmaceutical composition of claim 5 wherein the compound is present entirely as solid particles not intimately embedded in a polymeric copreciptate.
+7. A pharmaceutical composition according to claim 5 wherein at least 90% of the particles have a particle size of less than about 10 microns.
+8. A pharmaceutical composition comprising:
+(a) a free drug form of a compound having the formula
+
+
+
+
+
+
+
+and pharmaceutically-acceptable salts and solvates thereof in which the compound is present as solid particles not intimately embedded in a polymeric co-precipitate; and
+(b) one or more pharmaceutically-acceptable carriers diluents or excipients
+wherein the composition exhibits a Cmax of 180 to 280 micrograms/liter or an AUC (0-24) of 2280 to 3560 microgram . hour/liter measured using a 10 miligram dose of the compound.
+9. The composition of claim 8 wherein the composition exhibits a Cmax of about 180 to about 280 micrograms/liter and an AUC (0-24) of 2280 to 3560 microgram . hour/liter.
+10. A method of manufacturing the free drug particulate form of claim 1 comprising:
+(a) providing a solid free form of the compound in which the compound is present as solid particles not intimately embedded in a polymeric co-precipitate and
+(b) comminuting the solid free form of the compound to provide particles of the compound wherein at least 90% of the particles have a particle size of less than about 40 microns.
+11. The method of claim 10 further comprising the step of admixing the particles of step (b) with one or more pharmaceutically-acceptable carriers diluents or excipients.
+12. A free drug particulate form according to any one of claims 1 to 4 for use in a method of treatment.
+13. Use of particles of a free drug particulate form according to any one of claims 1 to 4 or a pharmaceutical composition according to any one of claims 5 to 7 for the manufacture of a medicament for the treatment of sexual dysfunction.
+14. The use of claim 13 wherein the sexual dysfunction is male erectile dysfunction.
+15. The use of claim 13 wherein the sexual dysfunction is female sexual arousal disorder.
+16. Use of a pharmaceutical composition according to claim 8 or 9 for the manufacture of a medicament for the treatment sexual dysfunction.
+17. The use of claim 16 wherein the sexual dysfunction is male erectile dysfunction.
+18. The use of claim 16 wherein the sexual dysfunction is female sexual arousal disorder.
+19. The use of anyone of claims 13 to 18 wherein the medicament is formulated for oral administration up to a maximum daily dose of 20 mg per day.
+ 
+
+
+2.4.
+In de onbestreden Nederlandse vertaling luiden deze conclusies: 
+
+1. Vrij geneesmiddel deeltjesvormige vorm van een verbinding
+met een formule
+
+
+
+
+
+
+
+en farmaceutisch aanvaardbare zouten en solvaten daarvan waarbij de verbinding aanwezig is als vaste deeltjes die niet innig zijn ingebed in een polymeer samen neergeslagen product waarbij ten minste 90% van de deeltjes een deeltjesgrootte bezit van minder dan ongeveer 40 micron.
+2. Vrije geneesmiddel deeltjesvormige vorm volgens conclusie 1 waarbij ten minste 90% van de deeltjes een deeltjesgrootte bezit van minder dan ongeveer 25 micron.
+3. Vrije geneesmiddel deeltjesvormige vorm volgens conclusie 1 waarbij ten minste 90% van de deeltjes een deeltjesgrootte bezit van minder dan ongeveer 15 micron.
+4. Vrije geneesmiddel deeltjesvormige vorm volgens conclusie 1 waarbij ten minste 90% van de deeltjes een deeltjesgrootte bezit van minder dan ongeveer 10 micron.
+5. Farmaceutische samenstelling die omvat:
+(a) een vrije geneesmiddelvorm van de verbinding met de
+formule
+
+
+
+
+
+
+
+en farmaceutisch aanvaardbare zouten en solvaten daarvan waarbij de verbinding aanwezig is als vaste deeltjes die niet innig zijn ingebed in een polymeer samen neergeslagen product waarbij ten minste 90% van de deeltjes een deeltjesgrootte bezit van minder dan ongeveer 40 micron; en
+(b) één of meer farmaceutisch aanvaardbare dragers verdunningsmiddelen of hulpmiddelen.
+6. Farmaceutische samenstelling volgens conclusie 5 waarbij de verbinding volledig aanwezig is als vaste deeltjes die niet innig ingebed zijn in een polymeer samen neergeslagen product.
+7. Farmaceutische samenstelling volgens conclusie 5 waarbij ten minste 90% van de deeltjes een deeltjesgrootte bezit van minder dan ongeveer 10 micron.
+8. Farmaceutische samenstelling die omvat:
+(a) een vrije geneesmiddelvorm van de verbinding met de
+formule
+
+
+
+
+
+
+
+en farmaceutisch aanvaardbare zouten en solvaten daarvan waarbij de verbinding aanwezig is als vaste deeltjes die niet innig zijn ingebed in een polymeer samen neergeslagen product; en
+(b) één of meer farmaceutisch aanvaardbare dragers verdunningsmiddelen of hulpmiddelen
+waarbij de samenstelling een Cmax van 180 tot 280 microgram/liter of een AUC (0-24) van 2280 tot 3560 microgram • uur/liter gemeten met een dosis van 10 mg van de verbinding bezit.
+9. Samenstelling volgens conclusie 8 waarbij de samenstelling een Cmax van ongeveer 180 tot ongeveer 280 microgram/liter en een AUC (0-24) van 2280 tot 3560 microgram • uur/liter bezit.
+10. Werkwijze voor het bereiden van de vrije geneesmiddel deeltjesvormige vorm volgens conclusie 1 welke werkwijze omvat:
+(a) ter beschikking stellen van een vaste vrije vorm van de verbinding waarbij de verbinding aanwezig is als vaste deeltjes die niet innig ingebed zijn in een polymeer samen neergeslagen product en
+(b) verkleinen van de vaste vrije vorm van de verbinding zodat deeltjes worden verkregen van de verbinding waarbij ten minste 90% van de deeltjes een deeltjesgrootte bezit van minder dan ongeveer
+40 micron.
+11. Werkwijze volgens conclusie 10 die bovendien het mengen van de deeltjes van stap (b) met één of meer farmaceutisch aanvaardbare dragers verdunningsmiddelen of hulpmiddelen omvat.
+12. Vrije geneesmiddel deeltjesvormige vorm volgens één van de conclusies 1 tot 4 voor toepassing bij een behandelingsmethode.
+13. Toepassing van deeltjes van een vrije geneesmiddel deeltjesvormige vorm volgens één van de conclusies 1 tot 4 of een farmaceutische samenstelling volgens één van de conclusies 5 tot 7 voor het
+bereiden van een geneesmiddel voor het behandelen van seksueel disfunctioneren.
+14. Toepassing volgens conclusie 13 waarbij het seksueel disfunctioneren erectiel disfunctioneren bij mannen is.
+15. Toepassing volgens conclusie 13 waarbij het seksueel disfunctioneren de verstoring van seksuele prikkeling bij vrouwen is.
+16. Toepassing van een farmaceutische samenstelling volgens conclusie 8 of 9 voor het bereiden van een geneesmiddel voor het behandelen van seksueel disfunctioneren.
+17. Toepassing volgens conclusie 16 waarbij het seksueel disfunctioneren erectiel disfunctioneren bij mannen is.
+18. Toepassing volgens conclusie 16 waarbij het seksueel disfunctioneren de verstoring van seksuele prikkeling bij vrouwen is.
+19. Toepassing volgens één van de conclusies 13 tot 18 waarbij het geneesmiddel geformuleerd is voor orale toediening tot een maximale dagelijkse dosis van 20 mg per dag.
+ 
+
+
+2.5.
+De beschrijving van het octrooi houdt onder meer het volgende in: 
+
+
+FIELD OF THE INVENTION
+
+ 
+
+[0002] The present invention relates to the fields of pharmaceutical and organic chemistry and to a 
+-carboline compound which is useful for the treatment of various medical indications where inhibition of type 5 cGMP-specific phosphodiesterase (PDE5) is desired. More particularly the present invention provides a free drug form of -carboline particles in a size range allowing for uniform formulation of stable pharmaceutical compositions especially compositions providing desired bioavailability properties heretofore not provided in the art.
+ 
+
+
+BACKGROUND OF THE INVENTION
+
+ 
+
+(…)
+[0004] Daugan U.S. Patent No. 5859006 discloses a class of -carboline compounds and pharmaceutical compositions containing the -carbolines which are useful in the treatment of conditions wherein inhibition of PDE5 is desired. PCT publication WO 97/03675 discloses use of this class of -carboline compounds in the treatment of sexual dysfunction.
+[0005] The poor solubility of many -carboline compounds useful as PDE5 inhibitors prompted the development of coprecipitate preparations as disclosed in PCT publication WO 96/38131 and Butler U.S. Patent No. 5985326. Briefly coprecipitates of a -carboline with polymeric hydroxypropylmethylcellulose phthalate for example were prepared milled mixed with excipients and compressed into tablets for oral administration. Studies revealed however that difficulties arose in generating precisely reproducible lots of coprecipitate product which makes use of coprecipitates less than ideal in pharmaceutical formulations.
+[0006] Additionally clinical studies involving administration of coprecipitate tablets preliminarily revealed that maximum blood concentration of the -carboline compound is achieved in 3 to 4 hours with the average time for onset of therapeutic effect not yet precisely determined. In the treatment of sexual dysfunction such as male erectile dysfunction or female sexual arousal disorder however a more rapid achievement of maximum blood concentration along with a greater prospect for rapid onset of therapeutic effect frequently is sought by individuals desiring more immediate and/or less prolonged effects. Accordingly a need in the art continues to exist for orally administrable 
+-carboline compounds and -carboline-containing pharmaceutical compositions having an ability to provide a therapeutic effect within a desirable or at least acceptable time frame.
+ 
+
+
+SUMMARY OF THE INVENTION
+
+ 
+
+[0007] The present invention provides particulate preparations of a free drug form of a -carboline compound having specific and defined particle size characteristics. The defined particle size permits a uniform formulation of stable pharmaceutical compositions. In particular the present invention provides compositions that exhibit a rapid achievement of maximum blood concentration of PDE5 inhibitor and/or a rapid onset of a therapeutic PDE5 inhibitory effect.
+[0008] The present invention provides a compound having the formula (I)
+ 
+
+
+
+
+
+
+and pharmaceutically acceptable salts and solvates thereof wherein the compound is a free drug in particulate form and wherein at least 90% of the particles have a particle size of less than about 40 microns and preferably less than 30 microns. Highly preferred particulate forms of the -carboline compound (I) have at least 90% of the particles less than 25 microns in size. Most preferred forms of the free compound (I) are those wherein 90% of the particles are less than 10 microns in size.
+[0009] The present invention provides therefore a free form of a -carboline compound and compositions containing the -carboline compound which can be used in an effective therapy for conditions wherein inhibition of PDE5 provides a benefit. The free form of -carboline compound (I) has a particle size such that the onset of beneficial effects of PDE5 inhibition are exhibited in a relatively short time after oral administration.
+(…)
+[0012] Alternatively stated the present invention provides for the use of the above-described particulate forms of compound (I) for the manufacture of medicaments for the treatment of sexual dysfunction. Specific conditions that can be treated by the compound and compositions of the present invention include but are not limited to male erectile dysfunction and female sexual dysfunction for example female arousal disorder also known as female sexual arousal disorder.
+(…)
+ 
+
+(…)
+ 
+
+
+DETAILED DESCRIPTION OF THE INVENTION
+
+ 
+
+(…)
+[0024] The term "free drug" refers to solid particles of compound (I) not intimately embedded in a polymeric coprecipitate.
+(…)
+[0031] It has been found that by processing (6R-trans)-6-(13-benzodioxo1-5-y1)-23671212a-hexahydro-2-methylpyrazino[1'2':16]pyrido[34-b]indole-14-dione alternatively named (6R12aR)-23671212a-hexahydro-2-methyl-6-(34-methylene-dioxyphenyl)pyrazino[2'1':6.1]pyrido[34-b]indole-14-dione as disclosed in Daugah U.S. Patent No. 5859006 and represented by structural formula (I) [structuurformule weggelaten - rechtbank] to bring the particle size within a particular narrow range manufacturing capability is enhanced and pharmaceutical compositions can be prepared that exhibit an improved bioavailability of the active ingredient i.e. compound (I).
+(…) 
+[0036] The compound of the structural formula (I) can be made according to established procedures such as those detailed in U.S. Patent No. 5859006 incorporated herein by reference. The preparation of the compound of structural formula (I) is specifically provided in U.S. Patent No. 5859006.
+(…)
+[0039] After being characterized for size in its raw state the free drug compound then is milled for example using a pin mill under suitable conditions of mill rotation rate and feed rate to bring the particle size value within the above mentioned limits of the present invention. (…)
+(…)
+[0050] A compound (I)/hydroxypropylmethylcellulose phthalate coprecipitate was manufactured generally by the method set forth in Butler U.S. Patent No. 5985326. (…) Applicants found that the coprecipitate contained a portion of the free drug form of compound (I) not embedded in the coprecipitate polymer. In clinical studies (see Example 2) applicants further discovered that the blood levels of compound (I) within thirty minutes of administration was attributable to the free drug present in the coprecipitate compositions.
+(…)
+ 
+
+EXAMPLE 1
+ 
+
+[0061] In vitro dissolution tests were performed using compound (I) which had been processed by milling from its raw state particulate form (d90=75-200 microns) into particulate preparations having d90 (microns) values as follows: Lot 1 d90=4; Lot 2 d90=22; Lot 3 d90=55; Lot 4 d90=65; Lot 5 d90=73; and Lot 6 d90=116. (…)
+[0062] Lots were evaluated in vitro by accurately weighing approximately 10 mg of bulk drug into a test tube adding 1 mL of purified water and soni-cating for up to 2 minutes to ensure the powder was wetted. The drug slurry was subsequently transferred to a dissolution apparatus vessel containing 1000 mL of aqueous 0.5% sodium lauryl sulphate at 37C. The test tube was rinsed with multiple aliquots of warmed dissolution medium and added back into the dissolution vessel. The paddle speed was 50 rpm and samples were taken at 5 10 20 and.30 minutes and subsequently analyzed by HPLC. The results are illustrated in Figure 1 and demonstrate improved in vitro dissolution occurs with smaller particle sizes of compound (I).
+ 
+
+EXAMPLE 2
+ 
+
+[0063] The improvement in bioavailability and reproducibility of pharmaceutical compositions made available by the present invention is demonstrated in vivo in humans. The following Table 1 demonstrates the pharmaceutical compositions prepared as in Examples 4 and 5 with particulate free drug having a d90 of 8.4 microns compared to composition incorporating the coprecipitate of compound (I) with hydroxypropylmethylcellulose phthalate (coprecipitate). In each instance the tableted composition was designed to deliver a 10 mg dose of compound (I).
+ 
+
+
+
+
+
+
+[0064] The composition incorporating a particulate free drug form having a d90 of 8.4 demonstrated. significantly improved Tmax over a composition containing the coprecipitate (Tmax is a measure of the time to achieve peak blood levels of a drug and is indicative of improved onset of action). The particulate free drug formulation correspondingly provided a more rapid rate of absorption of compound (I) into plasma providing a geometric mean plasma level at 30 minutes of 51 ng/ml (nanograms per milliliter) as compared to 29 ng/ml for the coprecipitate formulation.
+ 
+
+EXAMPLE 3
+ 
+
+[0065] A study was conducted to determine the bioequivalence of tablets containing compound (I) in different particle sizes. The tablets contained compound (I) in a particle size of d90=8.4 (micron) d90=20 or d90=52.
+(…)
+[0071] The following table summarizes various pharmacokinetic parameters of compound (I) following oral administration of a single 10 mg dose of the d90 52 20 and 8.4 particle size formulations.
+ 
+
+
+
+
+
+
+[0072] This study showed that reducing the particle size of compound (I) in accordance with the present invention has an impact on the in vivo rate of absorption of compound (I) from a solid dosage form and hence on the bioavailability of compound (I). For example from the statistical analysis tmax for the 52 formulation occurred significantly (i.e. 1 hour) later than for the 8.4 formulation. There was no significant difference in tmax between the 20 and 8.4 formulations. Accordingly onset of a therapeutic benefit attributed to compound (I) after administration is significantly faster for the 8.4 and 20 formulations compared to the 52 formulation.
+ 
+
+
+2.6.
+Bij het octrooi behoort onderstaande figuur 1. 
+
+
+
+
+
+
+
+2.7.
+De navolgende publicaties behoren voor het octrooi tot de stand van de techniek. 
+
+2.7.1.
+Internationale octrooiaanvrage PCT/EP95/00183 op 27 juli 1995 gepubliceerd als WO 95/19978 heeft geleid tot Europees octrooi EP 0 740 668 eveneens van Icos voor de stof tadalafil de in EP 092 vermelde compound I. EP 0 740 668 is inmiddels geëxpireerd maar Icos heeft een aanvullend beschermingscertificaat verkregen dat zal verlopen op 11 november 2017. 
+
+
+2.7.2.
+
+De in paragraaf 0004 van het octrooi genoemde internationale octrooiaanvrage PCT/EP96/03024 gepubliceerd op 6 februari 1997 als 
+WO 97/03675 betreft ‘Use of CGMP-phosphodiesterase inhibitors to treat impotence’ (verder: WO 675). Deze octrooiaanvrage openbaart tadalafil en het gebruik daarvan voor de behandeling van erectiestoornissen bij mannen. 
+ 
+
+
+2.7.3.
+
+De in paragraaf 0005 van het octrooi genoemde internationale octrooiaanvrage PCT/EP96/02299 gepubliceerd op 5 december 1996 als WO 96/38131 betreft een ‘Method of producing a solid dispersion of a poorly water soluble drug’ (verder: Butler). Butler openbaart tadalafil in een zogenaamde 
+co-precipitaatformulering. De beschrijving houdt onder meer het volgende in:
+ 
+
+
+(…)
+
+
+The present invention relates to the field of solid dispersions of poorly water
+
+
+soluble drugs to processes for their preparation and their use in pharmaceutical compositions. More particularly the present invention relates to solid dispersions in the form of co-precipitates of poorly water soluble drugs and their compositions with a pharmaceutically acceptable carrier or excipient therefor.
+
+
+(…)
+
+
+Co-precipitation is a recognised technique for increasing the dissolution of
+
+
+poorly water soluble drugs such as griseofulvin ketoprofen sulphathiazide
+
+
+spirinolactone tolbutamide and nifedipine so as to consequently improve
+
+
+bioavailability thereof. Techniques such as solvent deposition lyophilization
+
+
+solvate formation and solid dispersion (of which co-precipitation is an example as described above) have therefore been developed to try to overcome the problem of poor water solubility and resultant low bioavailability.
+
+
+(…)
+
+
+In general terms problems which can be associated with known co-precipitation techniques can include excess solvent usage identifying carrier/drug combinations which can be effectively precipitated and enhance bioavailability the use of heat to effect solution which may detrimentally affect the drug and the like. Co-precipitation techniques are however attractive for the preparation of solid dispersions in that less solvents and heat are employed when compared to techniques such as co-evaporation and solvent removal may therefore be facilitated.
+
+ 
+
+
+We have now developed a co-precipitation technique which alleviates the
+
+
+above described disadvantages associated with known techniques and have
+
+
+also found that co-precipitation offers an advantageous preparation route for
+
+
+solid dispersions of poorly water soluble drugs.
+
+
+(…)
+
+ 
+
+
+2.7.4.
+In H.A. Lieberman e.a. (red.) ‘Pharmaceutical dosage forms: tablets’ (volume 1 tweede editie) New York: Marcel Dekker Inc. 1989 is het volgende vermeld (pagina 5 en 6): 
+
+
+It is now generally recognized that poorly soluble drugs showing a
+
+
+dissolution rate-limited step in the absorption process will be more readily
+
+
+bioavailable when administered in a finely subdivided state than as a coarse
+
+
+material. (...) Because of these significant roles it is important to decide on a
+
+
+desired size range and thence to maintain and control it. It is probably safest
+
+
+to grind most new drugs having particles that are above approximately 100 m
+
+
+in diameter. If the material consists of particles primarily 30 m or less in
+
+
+diameter then grinding is unnecessary except if the material exists as needles
+
+
+- where grinding may improve flow and handling properties or if the material
+
+
+is poorly water-soluble where grinding increases dissolution rate. Grinding
+
+
+should reduce coarse material to preferably the 10- to 40-m range. 
+
+ 
+
+
+2.7.5.
+In M. Gibaldi ‘Biopharmaceutics and Clinical Pharmacokinetiks’ (vierde editie) Philadelphia / Londen: Lea & Febiger 1991 is het volgende vermeld (pagina 51): 
+
+
+A drug dissolves more rapidly when its surface area is increased. This is usually
+
+
+accomplished by reducing the particle size of the drug. Many poorly soluble
+
+
+slowly dissolving drugs are marketed in micronized or microcrystalline form.
+
+
+Particle size reduction usually results in more rapid and complete absorption.
+
+ 
+
+
+2.7.6.
+In R.A. Gennaro (red.) ‘Remington: The Science and Practice of Pharmacy’ (19e editie) Easton Pennsylvania: Mack Publishing Company 1995 is het volgende vermeld (pagina 1449): 
+
+
+Gastrointestinal absorption of a poorly soluble drug may be affected by the
+
+
+particle size distribution. If the dissolution rate of the drug is less than the
+
+
+diffusion rate to the site of absorption and the absorption rate itself then the
+
+
+particle size of the drug is of great importance. Smaller particles should
+
+
+increase dissolution rate and thus bring about more rapid gastrointestinal
+
+
+absorption. One of the first observations of this phenomenon was made with sulfadiazine. Blood-level determinations showed that the drug in suspension containing particles 1 to 3 m in size was absorbed more rapidly and more efficiently than from a suspension containing particles 7 times larger. Maximum blood levels were about 40% higher and occurred 2 hours earlier. Increased bioavailability with
+
+
+particle-size reduction also has been observed with griseofulvin. The extent of absorption of an oral dose increased 2.5 times when the surface area was increased approximately sixfold. Micronized griseofulvin permits a 50% decrease in dosage to obtain a satisfactory clinical response.
+
+ 
+
+
+2.7.7.
+J.C. Chaumeil ‘Micronization A Method of Improving the Bioavailability of Poorly Soluble Drugs’ Meth Find Exp Clin Pharmacol 1998 20(3) vermeldt het volgende (pagina 211): 
+
+
+For poorly soluble drugs the digestive absorption depends on their rate of dissolution. Decreasing the particle size of these drugs improves their rate of dissolution. Fine grinding mills are use to micronize powders: either jar mills or fluid energy mills. Theses processes were applied to griseofulvin progesterone spironolactone and diosmin. For each drug micronization improved
+
+
+their digestive absorption and consequently their bioavailability and clinical efficacy.
+
+
+(…)
+
+
+The bioavailability of a drug is classically defined as the fraction of the administered dose that reaches the systemic circulation of a living organism and the rate at which it does so. The first and often only parameter that can improve the bioavailability of a poorly soluble drug is its rate of dissolution in the digestive fluids.
+
+ 
+
+
+
+
+
+3 Het geschil
+
+3.1.
+Actelion wenst tadalafil op de Nederlandse markt te brengen zodra voormeld aanvullende beschermingscertificaat (zie 2.7.1) is verlopen. Icos kan zich dan naar Actelion stelt niet op EP 092 beroepen omdat het octrooi nietig is. Actelion vordert bij wijze van vooruitgeschoven inbreukverweer vernietiging van het Nederlandse deel van EP 092 met veroordeling van Icos in de volgens artikel 1019h Rv1 te begroten proceskosten.  
+
+
+Het standpunt van Actelion
+
+ 
+
+
+3.2.
+Actelion stelt onder meer dat conclusie 1 van het octrooi en ook de overige conclusies inventiviteit ontberen. Zoals bij pleidooi verduidelijkt voert zij in dit verband zakelijk weergegeven onder meer het navolgende aan. 
+
+3.2.1.
+WO 675 heeft net als het octrooi tot doel seksuele stoornissen te behandelen met behulp van tadalafil. Uitgaande van WO 675 als meest nabije stand van de techniek is het enige verschil tussen conclusie 1 van het octrooi en WO 675 de relatief kleine deeltjesgrootte van de tadalafil.  
+
+
+3.2.2.
+Het technisch effect van de kleinere deeltjesgrootte is dat met de verkleining de oplossnelheid van tadalafil wordt verbeterd en daarmee de biologische beschikbaarheid. Het door het octrooi opgeloste objectieve technische probleem is derhalve: het voorzien in een vorm van tadalafil (voor orale toediening) met een verbeterde oplossnelheid (ten opzichte van de ‘ruwe’ vorm) en (daarmee) een verbeterde biologische beschikbaarheid. 
+
+
+3.2.3.
+De vakman wist of zou routinematig vaststellen dat tadalafil een slecht in water oplosbare stof is. De door het octrooi geboden oplossing het verkleinen van de deeltjes lag dan volstrekt voor de hand. Op de prioriteitsdatum was het algemene vakkennis op het gebied van de farmacie dat het verkleinen van de deeltjesgrootte een methode was om de oplossnelheid en daarmee in de regel de biologische beschikbaarheid van slecht in water oplosbare stoffen zoals tadalafil te verbeteren. De gemiddelde vakman die op zoek was naar een manier om de oplossnelheid van tadalafil en zodoende ook de biobeschikbaarheid te verbeteren zou als onderdeel van zijn routinewerkzaamheden proberen de deeltjesgrootte te verkleinen met een redelijke verwachting van succes. De gemiddelde vakman (hierna: de vakman) bestaat in dit geval uit ten minste een formuleringswetenschapper en een farmaceutische scheikundige. Bijvoorbeeld uit het handboek van Lieberman zou de vakman weten dat een deeltjesgrootte in het bereik van 10 tot 40 micron de voorkeur geniet. De vakman zou daarom zonder inventieve arbeid de afmeting van de deeltjes van tadalafil vinden zoals geclaimd door conclusie 1 van het octrooi. Door het verkleinen van de deeltjesgrootte wordt ook de reproduceerbaarheid van de samenstelling verbeterd. Dit is een even voor de hand liggend extra voordeel van het malen tot kleinere deeltjes. Conclusie 1 is dan ook niet inventief. 
+
+
+3.2.4.
+De overige conclusies bevatten geen andere materie dan voor de hand liggende varianten of toepassingen van de voor de hand liggende materie van conclusie 1 en zijn daarom evenmin inventief. 
+
+
+Het standpunt van Icos
+
+ 
+
+
+
+3.3.
+Icos voert verweer en heeft tegen deze stellingen van Actelion zakelijk weergegeven het navolgende bij pleidooi nader uitgewerkte betoog aangevoerd. 
+
+3.3.1.
+De meest nabij stand van de techniek is niet WO 675 maar Butler omdat Butler hetzelfde doel heeft als EP 092 namelijk het verbeteren van de oplosbaarheid (de hoeveelheid van een stof die kan worden opgelost in een bepaalde hoeveelheid vloeistof bij een bepaalde temperatuur) en de biologische beschikbaarheid van tadalafil. Butler is een verdere ontwikkeling van WO 675 in die zin dat de stand van de techniek vanuit WO 675 voor het verbeteren van de biobeschikbaarheid van slecht in water oplosbare stoffen al was gekomen tot een co-precipitaatformulering. De vakman zou deze ontwikkeling niet negeren en daarmee niet uitgaan van WO 675. 
+
+
+3.3.2.
+Het enige verschil tussen EP 092 en Butler is het verschil in formulering (tadalafildeeltjes in vrije geneesmiddelvorm waarvan 90% een deeltjesgrootte kleiner dan 40 m heeft versus een co-precipitaat). Het technisch effect daarvan is een verbeterde biobeschikbaarheid. Uitgaande van Butler is het objectieve technische probleem dan ook het verschaffen van een verbeterde formulering van tadalafil dat wil zeggen met verbeterde biologische beschikbaarheid in het bijzonder een sneller begin van werking. 
+
+
+3.3.3.
+De vakman (die in aanvulling op de door Actelion gestelde kwaliteiten ook zal moeten beschikken over farmacologische kennis) weet of zou vaststellen dat tadalafil bijzonder slecht oplosbaar is. De vakman had daarnaast op zijn minst aanwijzingen dat naast de oplosbaarheid ook de permeabiliteit (de snelheid waarmee een stof de darmwand kan passeren) een beperkende factor was. Hij zal inzien dat niet de oplossnelheid (de tijd die nodig is om een bepaalde hoeveelheid van een stof in een vloeistof op te lossen) maar de oplosbaarheid en/of de permeabiliteit de beperkende factor is bij het verbeteren van de biobeschikbaarheid. 
+
+
+3.3.4.
+De vakman begrijpt dat microniseren het verkleinen van de deeltjesgrootte onder die omstandigheden geen zin heeft. De vakman zou niet microniseren omdat dit de oplosbaarheid en/of de permeabiliteit niet zou vergroten maar alleen de oplossnelheid. Bovendien was de optimale deeltjesgrootte al bereikt met het door Butler voorgestelde co-precipitaat waarin de deeltjes vele malen kleiner zijn dan met microniseren kan worden bereikt. Het was voorts bekend dat microniseren nadelig kan zijn voor verschillende farmaceutische stoffen in het bijzonder voor een onoplosbare en hydrofobe farmaceutische stof als tadalafil. Microniseren lag uitgaande van Butler kortom niet voor de hand. Butler leidt daar juist van weg. Als de vakman niettemin zou microniseren dan doet hij dat zonder redelijke succesverwachting. 
+
+
+3.3.5.
+Als ten onrechte toch van WO 675 als meest nabije stand van de techniek zou worden uitgegaan ligt het ook dan niet voor de hand om tadalafildeeltjes te microniseren. WO 675 noemt het probleem van de slechte oplosbaarheid in water van tadalafil immers niet zodat WO 675 ook geen pointer of prikkel bevat om tot de uitvinding te komen. Verder zou de vakman wanneer hij vanuit WO 675 de biologische beschikbaarheid van Tadalafil wil verbeteren stuiten op Butler en tot de conclusie komen dat hij voor een co-precipitaat moet kiezen en niet voor microniseren. Gezien de onder 3.3.3. vermelde kennis van de vakman zou hij bovendien hebben begrepen dat microniseren van tadalafil niet zorgt voor een verbetering van de biologische beschikbaarheid. De vakman zou hebben geprobeerd de verzadigingsconcentratie of de lage permeabiliteit te verbeteren. Microniseren ligt dus niet voor de hand. Ook hier geldt dat als de vakman microniseren toch overweegt hij geen redelijke verwachting heeft van succes. 
+
+
+3.3.6.
+De onafhankelijke conclusie 1 van EP 092 is inventief en daarmee zijn alle conclusies van EP 092 inventief. De dosering van conclusie 19 is hoe dan ook verrassend en inventief. 
+
+
+
+
+
+4 De beoordeling
+Bevoegdheid
+
+4.1.
+De rechtbank is internationaal bevoegd kennis te nemen van de vordering tot vernietiging van het Nederlandse deel van EP 092 op grond van artikel 64 EVEX-Verdrag2 en artikel 24 lid 4 EEX II-Vo3. De relatieve bevoegdheid berust op artikel 80 ROW4. 
+
+
+Inventiviteit 
+
+ 
+
+
+4.2.
+Het octrooi beoogt een farmaceutische formulering van tadalafil ter beschikking te stellen met een ten opzichte van de stand van de techniek verbeterde biobeschikbaarheid in het bijzonder een sneller begin van de therapeutische werking (onset) die kan worden gebruikt bij de behandeling van seksuele stoornissen (vergelijk vooral paragrafen 0006 0009 en 0012 van de beschrijving).5 Gezien deze doelstelling moet WO 675 dat het gebruik van tadalafil voor de behandeling van erectiestoornissen openbaart worden aangemerkt als een reëel uitgangspunt voor de vakman. Daaraan staat niet in de weg dat WO 675 de slechte oplosbaarheid in water van tadalafil niet noemt. In het midden kan blijven of zoals Icos betoogt niet WO 675 maar Butler de meest nabije stand van de techniek inhoudt omdat zo dat het geval is het octrooi ook ten opzichte van een in dat geval reëel maar verder verwijderd uitgangspunt inventief dient te zijn.  
+
+
+4.3.
+Zoals Actelion terecht stelt is het enige verschil tussen de materie van conclusie 1 en WO 675 de maatregel in conclusie 1 met betrekking tot de grootte van de deeltjes. Het technisch effect van deze maatregel is dat de onset van het therapeutisch effect van tadalafil wordt verbeterd ten opzichte van bestaande formuleringen zoals de ‘ruwe’ vorm en het co-precipitaat van Butler. Uit voorbeelden 1 en 3 van het octrooi blijkt dat de oplossnelheid van tadalafil wordt vergroot en de onset wordt verbeterd door kleinere deeltjes terwijl voorbeeld 2 van het octrooi het effect van vervroeging van de onset ook plausibel maakt ten opzichte van het co-precipitaat.6 Nu dat geen punt van discussie is geweest gaan partijen er kennelijk vanuit dat een verbetering van de onset ten opzichte van het co-precipitaat van Butler tevens een verbetering is ten opzichte van de formulering(en) van WO 675.  
+
+
+4.4.
+Partijen zijn het er kennelijk ook over eens dat verbetering van de onset tevens verbetering van de biologische beschikbaarheid betekent. Op een concrete vraag dienaangaande tijdens het pleidooi heeft Icos immers verklaard dat een vervroegde onset een verbeterde biologische beschikbaarheid meebrengt. Voor zover Icos in dit kader heeft willen betogen dat de biologische beschikbaarheid ook op ander wijze kan verbeteren moet die stelling worden verworpen omdat dergelijke andere verbeteringen van de biobeschikbaarheid niet uit het octrooi zijn af te leiden.  
+
+
+4.5.
+Gezien het voorgaande kan uitgaande van WO 675 als meest nabije stand van de techniek het door het octrooi opgeloste objectieve technische probleem worden omschreven als het verschaffen van een formulering van tadalafil met een ten opzichte van de stand van de techniek sneller begin van de therapeutische werking en daarmee een verbeterde biologische beschikbaarheid. 
+
+
+4.6.
+Partijen hebben verschillende opvattingen over wie als de vakman moet worden aangemerkt maar niet in geschil is dat de inhoud van de hiervoor weergegeven publicaties van Lieberman (2.7.4) Gibaldi (2.7.5) Gennaro (2.7.6) en Chaumeil (2.7.7) kan worden aangemerkt als algemene vakkennis waarover de vakman bij het oplossen van het probleem kon beschikken. De vakman weet dus dat zoals het bijvoorbeeld wordt omschreven in Gibaldi de deeltjes van slecht oplosbare stoffen kunnen worden verkleind door micronisatie en dat dit in het algemeen leidt tot een snellere oplossing en absorptie7 van de stof. Eveneens is niet in geschil dat de vakman weet dat tadalafil zo’n slecht oplosbare stof is. De vakman zal zich voorts realiseren dat een snellere oplossing en absorptie leidt tot een sneller begin van de therapeutische werking. Voorts weerspreekt Icos niet dat micronisatie voor de vakman een routinehandeling is. Icos merkt op dat in het algemeen bij micronisatie problemen zouden kunnen ontstaan maar dat de vakman in dit concrete geval aanleiding had daarom van micronisatie af te zien heeft Icos niet inzichtelijk gemaakt.  
+
+
+4.7.
+Gelet op een en ander zal de vakman in ieder geval proberen het probleem op te lossen door de tadalafil te microniseren. Een pointer in WO 675 heeft hij daarvoor niet nodig omdat hij kan leunen op zijn vakkennis. Of de vakman daarbij de deeltjes zal verkleinen tot 40 micron of minder is niet van belang nu niet blijkt dat het technisch effect juist aan deze grenswaarde moet worden toegeschreven. Overigens wijst Actelion er met verwijzing naar Lieberman terecht op dat verkleining van de deeltjes tot een grootte van 10 m tot 40 m kennelijk gebruikelijk is. Enige inventiviteit is aan die grenswaarde niet te ontlenen. 
+
+
+4.8.
+De rechtbank acht niet aannemelijk dat de vakman in Butler enige aanleiding zou vinden om van microniseren af te zien of daarvan geen gunstig resultaat te verwachten. Butler beoogt verbetering van de oplosbaarheid van (onder andere) tadalafil maar geeft geen informatie over de onset van de therapeutische werking van de door hem voorgestelde solid dispersion. Butler geeft ook geen informatie over de bereikte deeltjesgrootte van de solid dispersion. Icos heeft voorts niet overtuigend weersproken dat zoals Actelion heeft gesteld niet alle solid dispersions ook solid solutions zijn en dat de deeltjesgrootte (in solid dispersions die geen solid solutions zijn) uiteen kan lopen en niet is teruggebracht tot afzonderlijke moleculen zoals dat bij solid solutions het geval is.8 
+
+
+4.9.
+De rechtbank acht evenmin aannemelijk dat de wetenschap van de slechte oplosbaarheid en/of zijn door Icos gestelde wetenschap van de slechte permeabiliteit van tadalafil bij de vakman een negatieve verwachting van het succes van microniseren zou(den) wekken of hem van het beproeven van microniseren zou(den) weerhouden. Die eigenschappen staan er niet aan in de weg dat microniseren de oplossnelheid vergroot zodat versnelling van de absorptie en het begin van de therapeutische werking verwacht kan worden. Voormeld artikel van Chaumeil deel van de algemene vakkennis van de vakman spoort dan ook aan allereerst de oplossnelheid te verbeteren: The first and often only parameter that can improve the bioavailability of a poorly soluble drug is its rate of dissolution in the digestive fluids.9 De vakman is zich er bovendien van bewust dat de opgeloste hoeveelheid tadalafil dynamisch is omdat wanneer de maximale oplosbaarheid zou worden bereikt deze door de absorptie wordt verlaagd waarna opnieuw oplossing kan plaatsvinden.10 
+
+
+4.10.
+De vakman weet tevoren niet of micronisatie het gewenste resultaat zal hebben maar hij zal minst genomen een neutrale houding aannemen. In de jurisprudentie van de kamers van beroep van het EOB is aanvaard dat indien 1) de stand van de techniek de vakman in de richting van een bepaald nader onderzoek stuurt en 2) de vakman dat onderzoek door routine-experimenten kan uitvoeren aan de expectation of success minder zware eisen gesteld moeten worden. Wanneer in een dergelijk geval de vakman niet een bepaalde verwachting heeft van het resultaat van de experimenten maar een neutrale try and see-houding aanneemt is een reasonable expectation of success volgens deze jurisprudentie niet afwezig.11 Een dergelijk geval doet zich hier voor. De rechtbank onderschrijft daarom het standpunt van Actelion dat de materie van conclusie 1 van het octrooi niet inventief is. 
+
+
+4.11.
+In de dagvaarding heeft Actelion gesteld en onderbouwd dat de volgconclusies evenmin inventief zijn. Het zou gaan om voor de hand liggende varianten of toepassingen van de materie van conclusie 1. Bij conclusie van antwoord heeft Icos dat niet althans onvoldoende weersproken. Eerst bij pleidooi heeft zij alsnog gemotiveerd betoogd dat conclusie 19 wel degelijk inventief zou zijn. Deze betwisting in dit late stadium van de procedure is echter in strijd met de eisen van een behoorlijk procesorde in het bijzonder die van het versneld regime in octrooizaken zodat daaraan voorbijgegaan moet worden. 
+
+
+Conclusie
+
+ 
+
+
+4.12.
+Het voorgaande leidt tot de slotsom dat de vordering tot vernietiging van het Nederlandse deel van EP 092 dient te worden toegewezen met veroordeling van Icos in de volgens artikel 1019h Rv te begroten proceskosten. In dit verband is van belang dat partijen kennelijke beide menen dat sprake is van een vooruitgeschoven inbreukverweer van Actelion. Partijen hebben voorts verklaard overeenstemming te hebben bereikt over de hoogte van de proceskosten op een bedrag van € 250.000-  zodat dit bedrag aan Actelion wordt toegewezen. 
+
+
+
+
+5 De beslissing
+De rechtbank: 
+
+5.1.
+vernietigt het Nederlandse deel van EP 1 200 092 B1; 
+
+
+5.2.
+veroordeelt Icos in de proceskosten aan de zijde van Actelion tot op heden begroot op € 250.000- te vermeerderen met de wettelijke rente vanaf de achtste dag na de betekening van dit vonnis tot de dag van betaling; 
+
+
+5.3.
+verklaart de proceskostenveroordeling uitvoerbaar bij voorraad. 
+
+Dit vonnis is gewezen door mr. P.G.J. de Heij mr. M. Knijff en mr. ir. J.H.F. de Vries en in het openbaar uitgesproken op 26 oktober 2016.
+
+
+
+1
+Wetboek van Burgerlijke Rechtsvordering
+2
+Verdrag van 30 oktober 2007 betreffende rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken Pb EU 2009 L147
+3
+Verordening (EU) 1215/2012 van het Europees Parlement en de Raad van 12 december 2012 betreffende de rechterlijke bevoegdheid de erkenning en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken Pb EU 2012 L 351/1 (herschikking)
+4
+Rijksoctrooiwet 1995 
+5
+Het octrooi noemt verder in paragraaf 0007 verbetering van de uniformiteit van de formulering. Dit aspect is door partijen niet of nauwelijks toegelicht zodat het buiten beschouwing blijft.
+6
+Uit paragraaf [0050] blijkt dat het in voorbeeld 2 gebruikte co-precipitaat was gemaakt volgens Butler.
+7
+Naar de rechtbank begrijpt is hieronder te verstaan de opname van de stof in het bloed waarbij het de darmwand passeert (zie de conclusie van antwoord randnummer 3.67).
+8
+Vergelijk productie 21 van Actelion randnummer 3.4 pleitnota Actelion randnummer 21 en pleitnota Icos randnummer 2.16 e.v.
+9
+Het door Actelions deskundige Aulton in zijn verklaring van 11 januari 2016 onder 5.52 gestelde komt de rechtbank dus juist voor.
+10
+In zoverre acht de rechtbank het standpunt van Actelions deskundige Blakey in zijn verklaring van 12 februari 2016 onder 1.2 en 1.3 overtuigend.
+11
+Vergelijk het vonnis van deze rechtbank van 29 juni 2016 ECLI:NL:RBDHA:2016:7363 onder 5.40 en de daar aangehaalde jurisprudentie.

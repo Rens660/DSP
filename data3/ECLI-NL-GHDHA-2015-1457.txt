@@ -1,0 +1,618 @@
+
+
+GERECHTSHOF DEN HAAG 
+Afdeling Civiel Recht  
+
+Zaaknummer			: 200.168.377/01
+Zaak-/rolnummer rechtbank	: C/09/480854/ KG ZA 15-36
+ 
+
+
+Arrest d.d. 9 juni 2015
+
+ 
+
+inzake
+ 
+
+
+QIAGEN BENELUX B.V.
+gevestigd te Venlo 
+appellante  
+hierna te noemen: Qiagen 
+advocaat: mr. F.H.G. Meijers te Amsterdam            
+ 
+
+tegen 
+ 
+
+
+DE STAAT DER NEDERLANDEN (Ministerie van Volksgezondheid Welzijn en Sport) 
+zetelend in Den Haag 
+geïntimeerde  
+hierna te noemen: de Staat 
+advocaat: mr. H.M. Fahner te Den Haag.        
+ 
+
+
+Het verloop van het geding 
+
+ 
+
+Bij (spoed-)appeldagvaarding (AD) van 20 april 2015 (met producties) is Qiagen in hoger beroep gekomen van het tussen partijen in kort geding gewezen vonnis van de voorzieningenrechter in de rechtbank Den Haag van 25 maart 2015 dat is gebaseerd op de volgende stukken:
+
+- de inleidende dagvaarding (met producties) van Qiagen (hierna: ID); 
+- de conclusie van antwoord van de Staat (hierna: CvA) eveneens met producties; 
+- de pleitnotities van beide partijen (hierna: PE = Pleitnota in Eerste aanleg). 
+In de AD zijn negentien grieven tegen dat vonnis opgenomen die door de Staat zijn bestreden bij memorie van antwoord (MvA) eveneens met producties.   
+
+Partijen hebben hun standpunten doen bepleiten ter zitting van dit hof van 1 mei 2015 door hun advocaten die zich hierbij hebben bediend van pleitnota’s (hierna: PA = Pleitnota in Appel). 
+ 
+
+Na afloop van de pleidooien is arrest gevraagd. 
+ 
+
+
+De beoordeling van het hoger beroep
+
+ 
+
+
+
+1 De feitelijke uitgangspunten 
+
+1.0
+Het hof neemt de volgende feiten tot uitgangspunt.  
+
+
+De achtergronden
+
+ 
+
+
+1.1
+Baarmoederhalskanker wordt in nagenoeg alle gevallen veroorzaakt door een infectie met een hoogrisico type (hr) van het Humaan Papillomavirus (HPV). Circa 80% van de mannen en vrouwen krijgt een keer een hrHPV-infectie maar meestal wordt het virus binnen twee jaar door het lichaam opgeruimd. Wanneer dit niet gebeurt is sprake van een aanhoudende infectie en een kans op baarmoederhalskanker. Het proces van het ontstaan van baarmoederhalskanker duurt meer dan 10 jaar en leent zich daarom goed voor screening door middel van bevolkingsonderzoek. In 1996 is in Nederland een bevolkingsonderzoek naar baarmoederhalskanker door middel van cytologische screening ingevoerd: na afname door een medicus (klinische afname het uitstrijkje) vindt een microscopisch weefselonderzoek plaats naar afwijkende cellen.  
+
+
+1.2
+Tegenover ‘klinische afname’ staat ‘zelfafname’ waarbij de vrouw het monster zelf afneemt en aanbiedt voor onderzoek.  
+
+
+1.3
+
+De voorstadia van baarmoederhalskanker worden aangeduid op basis van de afwijking uitgedrukt in zogenoemde CIN-klassen. Hierbij wordt onderscheid gemaakt tussen: 
+	- CIN 1; histologisch lichte afwijkingen die bijna altijd weer zonder behandeling verdwijnen;
+	- CIN 2; histologisch licht tot matige afwijkingen die in de helft van de gevallen binnen 2 jaar verdwijnen; bij deze uitslag is soms behandeling nodig;
+	- CIN 3: histologisch matige tot ernstige afwijkingen; er is sprake van een voorstadium van kanker en er is behandeling nodig.
+	Afwijkingen van CIN2 en hoger (kortweg: CIN2+) worden gezien als klinisch relevante afwijkingen.  
+ 
+
+
+1.4
+Inmiddels is een aantal tests ontwikkeld waarmee de aanwezigheid van van hrHPV afkomstig genetisch materiaal (DNA of (m)RNA) kan worden vastgesteld. Zulke tests zullen hierna – ter onderscheiding van op cytologie gebaseerde tests – kortweg worden aangeduid als hrHPV-tests.  
+
+
+1.5
+
+HrHPV-tests kunnen van elkaar verschillen onder meer wat betreft (klinische en analytische) sensitiviteit en specificiteit.  
+Onder de klinische specificiteit van een test wordt verstaan de kans dat de test een positieve uitslag geeft bij mensen die de ziekte hebben. Bij een hoog specifieke test zijn er veel terecht positieve uitslagen en weinig onterecht negatieve uitslagen (fout negatieven). Een lage sensitiviteit kan leiden tot verminderde opsporing en daarmee tot schijnzekerheid en verlies aan gezondheidswinst. Met sensitiviteit wordt dus de mate van de gevoeligheid van een test voor (opsporing van) de onderzochte ziekte tot uitdrukking gebracht. Het kan echter ook zijn dat een test een positieve uitslag geeft terwijl de onderzochte persoon de ziekte niet heeft (fout-positieven). Dit is een kwestie van specificiteit. Bij een hoog-specifieke test zijn er weinig fout-positieve uitslagen en veel terecht negatieve uitslagen. Een laag-specifieke test geeft vaak loos alarm en leidt tot ten onterechte uitgevoerd vervolgonderzoek en tot overdiagnose en/of overbehandeling. Sensitiviteit en specificiteit zijn kenmerken van de test. 
+Er bestaat een onderscheid tussen analytische en klinische sensitiviteit/specificiteit. Analytische tests richten zich op het aantonen of uitsluiten van een hrHPV-infectie en dus op het aantal aanwezige virussen sec terwijl klinische tests zich richten op de relevante infecties die (zullen) leiden tot CIN2+ (zie punt 4.8 CnA) en dus op het aantal aanwezige virussen dat een bepaalde drempelwaarde te boven gaat. 
+Naast de sensitiviteit en de specificiteit is de negatief voorspellende waarde/
+’negative predictive value’ (NPV) een factor van belang. Daarmee wordt bedoeld de kans dat de onderzochte persoon bij een negatieve testuitslag de ziekte inderdaad niet heeft. De NPV kan worden vastgesteld aan de hand van longitudinale studies (een onderzoek dat over langere periode is herhaald).  
+ 
+
+
+1.6
+Bij hrHPV-tests kunnen diverse methoden worden gebuikt om de aanwezigheid van van hrHPV afkomstig DNA of RNA in lichaamscellen vast te stellen. Bij target-amplificatiemethoden – zoals de Polymerase Chain Reaction-methode (PCR) – wordt de target (het DNA of RNA) vermeerderd (geamplificeerd). Bij signaalamplificatie-methoden wordt niet de target maar een daarvan uitgaand signaal vermeerderd.  
+
+
+1.7
+
+Voor twee hrHPV-testen te weten de HC2 en de GP5+/6+ PCR zijn grote longitudinale wetenschappelijke studies uitgevoerd. Deze testen zijn de basis geweest voor internationale criteria die in 2009 door Meijer et al. zijn gepubliceerd onder de naam: ‘Guidelines for human papillomavirus DNA test requirements for primary cervical cancer screening in women of 30 years and older’. In deze publicatie (hierna: Meijer I) is onder meer het volgende te lezen (de hoofdletters tussen haakjes zijn door het hof aangebracht):
+
+‘(A) The key issue for hrHPV DNA testing in cervical screening is to detect hrHPV infections that are associated with or develop into ≥CIN 2 and to differentiate them from transient hrHPV infections. This implies that there should be a balance between clinical sensitivity and specificity of ≥CIN 2. Currently two tests i.e the US Food and Drug Administration-approved Hybrid Capture 2 (hc2;  …) and GP5+/6+-PCR enzyme immunoessay (GP5+/6+ PCR EIA) have repeatedly demonstrated clinical sensitivity of about 90-95% for the detection of ≥CIN 2 in large prospective cohorts or randomized controlled trials.   
+
+		(…)
+
+(B) Since in large prospective screening trials both hc2 and GP5+/6+-PCR have been shown to be superior to cytology the hrHPV test requirements are deduced from data obtained with these assays.  
+(C) In a primary cervical screening setting a HPV detection assay should fulfill the following requirements: 
+
+1. 	The candidate test should have a clinical sensitivity for ≥CIN 2 not less than 90% of the hc2 in women of at least 30 years. (…). This high sensitivity translates into a very high negative predictive value (reassurance) of the HPV detection assay allowing for extending screening intervals for test negative women who are typically the majority of participants in a screening programme. (…). 
+
+
+(…)
+
+
+2.	The specificity of the candidate test for ≥CIN 2 should be at least 98% of the specificity of hc2’. 
+	De bij (C)  onder 1 en 2 weergegeven criteria zullen hierna worden aangeduid als: de Meijer-criteria. Deze criteria liggen ten grondslag aan de richtlijnen die de Nederlandse Vereniging van Pathologie (NVvP) in juni 2010 heeft uitgevaardigd (hierna: de NVvP-richtlijnen). 
+ 
+
+
+Het advies van de Gezondheidsraad 
+
+ 
+
+
+1.8
+
+Op verzoek van de minister van Volksgezondheid Welzijn en Sport (VWS) hierna ‘de minister’ heeft de Gezondheidsraad een advies uitgebracht met betrekking tot de mogelijkheden om de preventie van baarmoederhalskanker te verbeteren. In het advies ‘Screening op baarmoederhalskanker’ van 24 mei 2011 heeft de Gezondheidsraad een nieuw bevolkingsonderzoek (BVO) voorgesteld en aanbevolen om:
+- 	over te stappen van cytologie op hrHPV-test als primaire screening; 
+-	vijf primaire screeningsrondes te organiseren (bij 30 35 40 50 en 60 jaar) in plaats van zeven (bij 30 35 40 45 50 55 en 60 jaar) zoals in het bestaande bevolkingsonderzoek;  
+- 	na een positieve hrHPV-test een tweede analyse te verrichten (triage het vervolgonderzoek) bestaande uit een cytologische beoordeling; 
+- 	een zelfafnameset in te zetten voor vrouwen die niet reageren op een (herhaalde) uitnodiging voor een bevolkingsonderzoek. 
+Bij brief van 27 oktober 2011 aan de Voorzitter van de Tweede Kamer heeft de minister het advies van de Gezondheidsraad overgenomen. 
+ 
+
+
+De aanbesteding
+
+ 
+
+
+1.9
+De minister heeft het Rijksinstituut voor Volksgezondheid en Milieu (RIVM) als onderdeel van de Staat opdracht gegeven de voorgestelde wijzigingen in het bevolkingsonderzoek voor te bereiden en in te voeren. Op 5 november 2014 heeft het RIVM een openbare Europese aanbestedingsprocedure uitgeschreven voor de ‘huur van geautomatiseerde en klinisch gevalideerde PCR-totaalsystemen voor het aantonen van DNA van hoogrisico genotypen van het humaan Papillomavirus (hrHPV) op klinisch en zelfafgenomen materiaal alsmede de koop en levering van bijbehorende verbruiksmaterialen alsmede onderhoud alsmede aanvullende diensten ten behoeve van bevolkingsonderzoek naar baarmoederhalskanker’ hierna ‘de Opdracht’. De zelfafnametest bij primaire screening valt buiten de reikwijdte van de Opdracht. Na afronding van het zogenoemde ‘Improve-onderzoek’ naar verwachting in 2018 zal de minister een besluit nemen over de inzet van de zelfafnameset bij primaire screening waarna een nadere aanbestedingsprocedure zal volgen.  
+
+
+1.10
+De aanbestedingsprocedure en de Opdracht zijn nader omschreven in het beschrijvend document van 5 november 2014 hierna ‘het Beschrijvend Document’ en in het Programma van eisen en wensen. Voorts is in een als één geheel overgelegde Nota van Inlichtingen (hierna: NvI) op diverse tijdstippen antwoord gegeven op vragen van potentiële inschrijvers. 
+
+
+1.11.
+In het Beschrijvend Document is – voor zover hier van belang – het volgende vermeld:
+
+
+1.2
+
+
+Onderwerp en doel van de aanbesteding
+
+
+De Aanbestedende dienst is voornemens een Overeenkomst te sluiten voor de hrHPV-test voor het bevolkingsonderzoek naar baarmoederhalskanker. Het gaat hierbij om een totaaloplossing van geautomatiseerde en klinisch gevalideerde systemen bestaande uit alle benodigde apparatuur en bijbehorende hardware en software (inclusief koppelingen) en verbruiksmaterialen (testkits reagentia disposables controlematerialen en (eventuele) kalibratiematerialen) voor de uitvoering van de screening op hrHPV vanaf het opwerken van de monsters tot en met de detectie van het virus en het uitlezen van de uitslag verder te noemen: 
+hrHPV-test
+. Met de totaaloplossing kan DNA van hoog-risico genotypen van het Humaan Papillomavirus in vaginaal/cervicaal lichaamsmateriaal op zowel klinisch afgenomen materiaal (uitstrijkjes) én zelfafgenomen materiaal kwalitatief worden aangetoond met een PCR.
+
+
+De keuze van de gevraagde totaaloplossing is mede ingegeven door de programmatische aanpak van screening in Nederland. Hierbij is hoge kwaliteit door landelijke uniformiteit tegen zo laag mogelijke kosten een belangrijk uitgangspunt. Dit betekent een geautomatiseerd systeem waarbij het aantal menselijke handelingen minimaal is. De Gezondheidsraad heeft in het advies dat is overgenomen door VWS aangegeven dat er gebruik gemaakt moet worden van een klinisch gevalideerde test die gericht is op het aantonen van DNA van hoog-risico HPV genotypen. Omdat de zelfafnametest in de screening wordt ingezet is de gevraagde totaaloplossing verder aangescherpt door een PCR-test in de omschrijving op te nemen’.
+
+ 
+
+
+1.12
+
+In het Programma van eisen en wensen is – voor zover hier van belang – het volgende opgenomen:
+
+Procesbeschrijving
+
+3.1.1.
+
+KO 
+
+
+Q: 3.1.1. De hrHPV-test zal in productielijn worden uitgevoerd waarbij de volgende processtappen worden onderscheiden:
+
+ Monsteropwerking: de processtap startend met het decappen van de monsterpotjes waarbij een deel van het afgenomen materiaal wordt verwerkt zodanig dat het geschikt is voor hrHPV-analyse.
+ Amplificatie: de processtap waarbij sequenties (delen) van het hrHPV DNA door middel van PCR vermeerderd worden.
+ Detectie: de processtap waarbij geamplificeerde hrHPV DNA sequenties in het DNA-monster worden aangetoond.
+ Uitlezen van de uitslag: de processtap waarbij de PCR-data worden omgezet naar een uitslag.
+
+(…)
+
+
+Validatie hrHPV-test
+
+3.1.4.
+
+KO 
+
+
+Q: 3.1.4. Voor het vaststellen van de klinische validiteit of “non-inferieuriteit” van een hrHPV-test voor primaire screeningsdoeleinden zijn door Meijer et. al. internationale criteria opgesteld (…). Door toepassing van deze criteria kunnen hrHPV-testen worden toegepast voor screening indien goed gevalideerd en betrouwbaar zonder de noodzaak van grote longitudinale studies.
+
+
+Inschrijver biedt een hrHPV-test aan die aantoonbaar volgens bovengenoemde criteria is gevalideerd. (…)’.
+
+
+(…)
+
+
+A.1 Toepasbaarheid
+
+3.2.2.
+
+KO 
+
+
+Q: 3.2.2. 
+A.1.2
+
+
+Met de hrHPV-test kunnen geautomatiseerd de hoog-risico genotypen van het Humaan Papillomavirus in vaginaal/cervicaal lichaamsmateriaal kwalitatief worden aangetoond met een PCR.
+
+
+(…)
+
+3.2.3.
+
+KO 
+
+
+Q: 3.2.3. 
+A.1.3
+
+
+De hrHPV-test is gericht op het aantonen van DNA van hoog-risico genotypen van het Humaan Papillomavirus’.
+
+ 
+
+
+1.13
+In de overgelegde Inleiding van de aanbestedingsdocumentatie hierna ‘de Inleiding’ is – voor zover hier van belang – vermeld: “De Aanbestedende dienst heeft geen voorkeur voor een bepaalde leverancier dienstverlener of aannemer noch voor bepaalde merken types fabricaten herkomst e.d. Mocht in het Beschrijvend document een eis of wens betrekking (lijken te) hebben op een bepaald fabricaat een bepaalde herkomst of een bijzondere werkwijze een merk een octrooi of een type een bepaalde oorsprong of een bepaalde productie waardoor bepaalde ondernemingen of bepaalde producten worden bevoordeeld of geëlimineerd dan dient hierbij gelezen te worden ‘of gelijkwaardig’.  
+
+
+De test van Qiagen
+
+ 
+
+
+1.14
+Qiagen beschikt over een hrHPV-test de in rov. 1.7 al ter sprake gekomen HC2 waarbij niet de in de aanbestedingstukken voorgeschreven PCR-methode (een targetamplificatiemethode) wordt gebruikt maar een signaalamplificatiemethode.  
+
+
+De nadere onderbouwing van de PCR-eis 
+
+ 
+
+
+1.15
+
+Op 15 februari  2014 is door onder meer Marc Arbyn MD PhD aan de ‘Unit of Cancer Epidemiology Brussels Scientific Institute of Public Health’ gepubliceerd het artikel ‘Accuracy of human papillomavirus on self-collected versus clinician-collected samples; a meta-analysis’ hierna: de Arbyn-MA. In de summary hiervan is onder meer het volgende vermeld. 
+‘HPV testing with signal based assays on self-samples was less sensitive and specific than testing on clinicial-based samples. By contrast some PCR-based HPV-tests generally showed similar sensitivity on both self-samples and clinician-based samples’. 
+ 
+
+
+1.16
+
+In oktober 2014 is door onder meer Arbyn een ‘onderbouwing PCR-test’ opgesteld (hierna: Arbyn II) waarin – voor zover hier van belang – het volgende is opgenomen:
+
+“(…)
+
+
+PCR methoden hebben een lagere detectiedrempel dan signaalamplificatie methoden en hierdoor een hogere analytische gevoeligheid. (…). De hoeveelheid hrHPV in een monster die detecteerbaar is is dus voor SA-testen hoger dan voor PCR-testen. Zelf-afgenomen monsters bevatten doorgaans minder hrHPV dan klinisch afgenomen uitstrijkjes (Belinson 2010)
+
+
+Het is belangrijk dat de hrHPV test op zelf-afgenomen materiaal net zo goed presteert als op klinisch afgenomen materiaal omdat verminderde relatieve sensitiviteit en specificiteit effecten heeft op verwijzingen naar de gynaecoloog en gezondheidswinst. (…)
+
+
+Het beperkte aantal studies per hrHPV-test is onvoldoende om per test (per leverancier) een uitspraak te doen of de test net zo goed presteert op zelf-afgenomen versus op klinisch afgenomen materiaal. Een recente meta-analyse van Arbyn et al (…) (de Arbyn-MA het hof) heeft de prestaties van diverse hrHPV-testen op klinisch en zelf-afgenomen materiaal vergeleken. In deze meta-analyse worden studies gepoold die gebruik maken van PCR-methoden of van SA-methoden. De uitkomsten laten zien dat er grote verschillen zijn in de prestaties van gevalideerde hrHPV-testen bij zelf-afgenomen materiaal ten opzichte van klinisch afgenomen materiaal. De meta-analyse toont aan dat zekere hrHPV-testen gebaseerd op PCR net zo goed presteren in zelfafgenomen materiaal als in klinisch afgenomen materiaal;(…). Een aanvullende analyse gebaseerd op alleen klinisch gevalideerde PCR-systemen geeft gelijke resultaten. SA hrHPV detectiemethoden daarentegen hebben zowel een statistisch significant lagere relatieve sensitiviteit als ook een lagere relatieve specificiteit in zelf-afgenomen materiaal ten opzichte van klinisch afgenomen materiaal.
+
+(…)
+
+
+Op basis van deze informatie is besloten om voor het vernieuwde bevolkingsonderzoek naar baarmoederhalskanker waar zelf-afgenomen materiaal onderdeel van uitmaakt gevalideerde PCR-methoden te gebruiken (…)”. 
+
+ 
+
+
+1.17
+
+Naar aanleiding van een gestelde vraag is op 24 november 2014 als antwoord op vraag 94 in de NvI vermeld dat bij de aanbesteding is gekozen voor PCR-apparatuur en dat een alternatief niet is toegestaan. De keuze voor de PCR-technologie is nader toegelicht in het antwoord op vraag 131:
+
+‘Keuze PCR technologie
+
+
+Overeenkomstig het besluit van de minister zal in het vernieuwde bevolkingsonderzoek een hrHPV-test als primaire test worden ingezet voor de opsporing (van voorstadia) van baarmoederhalskanker. Vrouwen zullen hiervoor worden uitgenodigd om een uitstrijkje te laten maken bij de huisarts. Vrouwen die niet reageren kunnen een zelfafnameset aanvragen.
+
+
+De hrHPV-test zal dus worden gedaan op lichaamsmateriaal dat enerzijds afkomstig is van vrouwen die bij de huisarts een uitstrijkje hebben laten maken (klinisch afgenomen materiaal) en anderzijds van vrouwen die zelf materiaal hebben afgenomen (zelf afgenomen materiaal).
+
+
+Een lagere specificiteit van de hrHPV test op zelf afgenomen materiaal heeft tot gevolg dat meer deelneemsters onterecht vervolgonderzoek moeten ondergaan en daarnaast mogelijk ook onterecht worden doorverwezen naar de gynaecoloog. Oftewel dit leidt tot overdiagnose en overbehandeling en daarmee tot nodeloze onderzoeken ongerustheid en angst.
+
+
+Een lagere sensitiviteit leidt tot verminderde opsporing van (voorstadia van) baarmoederhalskanker en daarmee tot verlies aan gezondheidswinst. Het met het bevolkingsonderzoek beoogde doel zou dan worden ondergraven.
+
+
+Een lagere specificiteit en sensitiviteit heeft tevens tot gevolg dat de met het bevolkingsonderzoek gemoeide kosten onnodig toenemen.
+
+
+Voor de opzet van het vernieuwde bevolkingsonderzoek is derhalve tot uitgangspunt genomen dat de hrHPV-test op zelf afgenomen materiaal niet slechter mag presteren dan op klinisch afgenomen materiaal. Deelneemsters die om hun moverende redenen niet ingaan op een uitnodiging voor het bevolkingsonderzoek en gebruik maken van de zelfafnametest dienen dientengevolge niet te worden geconfronteerd met (de gevolgen van) overdiagnose en overbehandeling noch verlies aan gezondheidswinst. Evenmin dient een dergelijke keuze te leiden tot (onnodige) hogere kosten van het bevolkingsonderzoek.
+
+
+Dit alles geldt temeer omdat afhankelijk van de uitkomst van het door de minister gevraagde nadere onderzoek de mogelijkheid bestaat dat binnen enkele jaren de zelfafnameset al beschikbaar wordt gesteld bij de uitnodiging voor het bevolkingsonderzoek baarmoederhalskanker.
+
+
+In een recente meta-analyse zijn de prestaties van hrHPV-testen op klinisch en zelf afgenomen materiaal vergeleken (de Arbyn-MA het hof). Uit deze analyse en een nadere analyse (Arbyn II het hof) blijkt dat er verschillen zijn in prestaties van hrHPV-testen tussen klinisch en zelf afgenomen materiaal afhankelijk van de gebruikte methode. Bij PCR-methoden is er geen statistisch significant verschil tussen klinisch en zelf afgenomen materiaal. Bij signaalamplificatiemethoden is dit wel zo en is zowel de sensitiviteit als ook de specificiteit in zelf afgenomen materiaal statistisch significant lager ten opzichte van klinisch afgenomen materiaal. Dit verschil wordt veroorzaakt omdat zelf afgenomen materiaal doorgaans minder hrHPV bevat en de PCR- en signaalamplificatiemethoden anders zijn. Bij PCR-methoden is substantieel minder hrHPV in materiaal nodig voor een betrouwbare test dan bij signaalamplificatiemethoden.
+
+Op basis van deze informatie is besloten om voor het vernieuwde bevolkingsonderzoek naar baarmoederhalskanker waar zelf afgenomen materiaal onderdeel van uitmaakt gevalideerde PCR-methoden te gebruiken.
+
+
+De aanbesteding is daarom gericht op de huur van PCR-totaalsystemen (in combinatie met de koop en levering van bijbehorende verbruiksmaterialen alsmede onderhoud en aanvullende diensten). (…)
+
+
+Ter toelichting is in paragraaf 1.2 van het Beschrijvend document aangegeven dat de keuze voor een PCR-totaalsysteem te maken heeft met de inzet van een zelfafnameset in de screening.
+
+
+In haar rapport heeft de Gezondheidsraad aangegeven dat de hrHPV-test in het vernieuwde bevolkingsonderzoek moet voldoen aan de door Meijer et. al. opgestelde internationale criteria (…) (de in rov. 1.7 genoemde Meijer-criteria het hof). Deze Meijer criteria zijn alleen toepasbaar op klinisch afgenomen materiaal en niet op zelf afgenomen materiaal; voor zelf afgenomen materiaal zijn thans geen internationale criteria beschikbaar.
+
+Door toepassing van de Meijer criteria kunnen kandidaat hrHPV-testen – oftewel het in de definitie van hrHPV-test omschreven PCR-totaalsysteem – worden toegepast voor screening indien goed gevalideerd en betrouwbaar zonder de noodzaak van grote longitudinale studies. De aanbestedende dienst heeft daarom het voldoen aan de Meijer criteria opgenomen als knock-out eis in het programma van eisen om een klinisch valide test te garanderen.’
+
+ 
+
+
+
+
+2 De vorderingen van Qiagen en het vonnis van de voorzieningenrechter  
+
+2.1
+
+Qiagen heeft in de eerste aanleg gevorderd zakelijk weergegeven en voor zover thans nog van belang: 
+
+primair 
+
+(a) 	de Staat te verbieden om in het bestek een bepaalde technologie voor te schrijven althans om PCR voor te schrijven; 
+(b) 	de Staat te gebieden om de gunningscriteria te herformuleren conform de verplichtingen die daaraan in de Aanbestedingswet (hierna: AW) en op basis van algemene beginselen van het aanbestedingsrecht worden gesteld; 
+(c) 	althans deze zodanig te herformuleren dat inschrijvers met een bepaalde technologie niet op voorhand worden uitgesloten;  
+
+subsidiair 
+
+om de Staat te bevelen de PCR-eis voor het deel van de opdracht betreffende het testen van klinisch materiaal te laten vallen en om de aanbestedingsprocedure zodanig in te richten dat de inschrijvers op het gedeelte van de opdracht betreffende het testen van klinisch afgenomen materiaal mogen inschrijven voor zover zij voldoen aan de Meijer-criteria voor zover die niet specifiek zien op PCR.     
+ 
+
+
+2.2
+De voorzieningenrechter heeft in zijn vonnis van 25 maart 2015 de vorderingen van Qiagen afgewezen onder veroordeling van haar in de proceskosten. 
+
+
+
+
+3 Het hoger beroep; inleidende opmerkingen 
+
+3.1
+
+Qiagen is van dit vonnis tijdig in hoger beroep gekomen. Daarbij heeft zij haar eis gewijzigd in dier voege dat zij onder handhaving van het primair bij (a) en (b) gevorderde thans vordert: 
+-	primair bij (c): althans om de Staat te gebieden om de aanbestedingsprocedure zodanig in te richten dat ook inschrijvers die hrHPV tests op basis van signaalamplificatie leveren niet op voorhand worden uitgesloten; 
+-	subsidiair: de Staat te gebieden om de aanbesteding op te splitsen in twee percelen te weten één betreffende het testen van zelfafgenomen materiaal en één betreffende het testen van klinisch afgenomen materiaal en om voor elk perceel de eisen te formuleren in overeenstemming met de verplichtingen die daaraan in de AW en op basis van de algemene beginselen van het aanbestedingsrecht worden gesteld en om voor het perceel betreffende het klinisch afgenomen materiaal de Staat te verbieden en te gebieden als primair gevorderd 
+met voor zover de Staat de Opdracht nog wenst te vergeven een gebod om over te gaan tot heraanbesteding een en ander op straffe van verbeurte van dwangsommen.
+ 
+
+
+3.2
+Tevens heeft Qiagen een incidentele vordering ingesteld tot staking van de aanbesteding/de uitvoering van de Opdracht hangende het geding in hoger beroep.   
+
+
+3.3
+
+Qiagen’s primaire vorderingen zijn in hoger beroep gebaseerd op de stelling dat de KO-eis dat voor amplificatie de PCR-methode moet worden toegepast – mede omdat deze een verwijzing naar een bepaalde techologie/bijzondere werkwijze behelst – in strijd is met: 
+- 	het proportionaliteitsbeginsel/artikel 1.10 AW;
+-	artikel 2.75 tweede lid AW nu die eis geen verband houdt met de opdracht;  
+-	artikel 2.76 eerste en tweede lid AW nu de technische specificaties van de amplificatiestap althans voor het overgrote deel van de Opdracht hadden kunnen worden geformuleerd door verwijzing naar normen prestatie-eisen en functionele eisen;  
+-	artikel 2.76 vijfde lid AW nu het bij deze eis gaat om een specifieke technologie en dit niet door het voorwerp van de overheidsopdracht wordt gerechtvaardigd; 
+- 	artikel 2.76 zesde lid AW nu de door Qiagen in haar HC2-test gebruikte signaalamplificatiemethode gelijkwaardig is aan de geëiste amplificatiemethode. 
+ 
+
+
+3.4
+Aan de in hoger beroep gewijzigde subsidiaire vordering van Qiagen is ten grondslag gelegd dat feitelijk sprake is van twee percelen namelijk een perceel betreffende het testen van klinisch afgenomen materiaal en een perceel betreffende het testen van zelfafgenomen materiaal dat deze percelen gezien het ontbreken van een technische en/of organisatorische noodzaak daartoe niet hadden mogen worden geclusterd in de zin van artikel 1.5 eerste lid AW en dat op grond van art 1.5 derde lid AW en/of het proportionaliteitsbeginsel splitsing moet plaatsvinden (punten 122-131 AD).    
+
+
+3.5
+Voor de in de aangevallen KO-eis toegepaste verwijzing naar een bijzondere werkwijze als bedoeld in artikel 2.76 vijfde lid AW – de verwijzing naar de PCR-methode – geldt ingevolge het zesde lid onder b van dat artikel de eis dat zij vergezeld gaat van de woorden ‘of gelijkwaardig’. De stelling van Qiagen dat aan deze eis niet is voldaan mist feitelijke grondslag gezien de in rov. 1.13 weergegeven passage uit de van de aanbestedingsstukken deel uitmakende Inleiding. Waar in de NvI is aangegeven dat een alternatief niet is toegestaan (zie rov. 1.17) moet dat niet zo worden begrepen dat gelijkwaardige alternatieven zijn uitgesloten maar aldus dat het gepresenteerde alternatief niet gelijkwaardig is bevonden.  
+
+
+
+
+4 Enkele algemene beschouwingen  
+
+4.1
+Het hof ziet aanleiding om eerst enkele algemene beschouwingen te wijden aan het voorwerp van de Opdracht (zie de rovv. 1.8 t/m 1.12) de Meijer-criteria (zie rov. 1.7) en de negatief voorspellende waarde (zie rov. 1.5 in fine).  
+
+
+4.2
+
+In de onder 1.8 t/m 1.12  vermelde feiten ligt besloten dat voor zover hier van belang het voorwerp van de Opdracht bestaat in het verschaffen van een hrHPV-test voor het onderzoeken van: 
+a) 	klinisch materiaal dat is afgenomen bij de (op 30 35 40 50 en 60 jaar te verrichten) primaire screenings en bij de vervolgscreenings die plaatsvinden na een positieve uitslag van een primaire screening;   
+	b)	zelfafgenomen materiaal bij de vervolgscreenings.  
+	Zoals door Qiagen is bevestigd op blz. 15 onderaan AD maakt het testen van zelfafgenomen materiaal bij primaire screening dus geen deel uit van de Opdracht. 
+ 
+
+
+4.3
+Om in aanmerking te komen voor gunning moet de aangeboden hrHPV-test voldoen aan de Meijer-critera (zie eis 3.1.4 weergegeven in rov. 1.12) anders gezegd: de test moet volgens deze criteria gevalideerd zijn. De Meijer-criteria zijn blijkens de in rov. 1.7 geciteerde titel daarvan en passages daaruit alleen van toepassing bij primaire screening. In het kader van de Opdracht vindt zelfafname echter uitsluitend plaats bij vervolgonderzoek. Hieruit volgt dat – anders dan Qiagen stelt (punt 109 AD) – de Meijer-criteria niet gelden bij het testen van zelfafgenomen materiaal. In het antwoord in de NvI op vraag 131 (zie rov. 1.17) is hier terecht op gewezen.  
+
+
+4.4
+
+De Opdracht is gebaseerd op het advies van de Gezondheidsraad waarin – naast de in rov. 1.8 weergegeven aanbevelingen – onder meer het volgende is te lezen: 
+‘HrHPV-tests die niet gericht zijn op het aantonen van DNA (maar bijvoorbeeld op mRNA) voldoen niet aan de richtlijnen omdat de negatief voorspellende waarde daarvan niet bekend is en dus ook het optimale screeningsinterval niet. In dat geval zijn wel grote longitudinale studies nodig.
+	Dit is nader toegelicht in de volgende passage uit het antwoord in de NvI op vraag 144:  
+‘De keuze voor een hrHPV DNA hangt direct samen met de opzet van het vernieuwde bevolkingsonderzoek: een verlengd screeningsinterval van 5 naar 10 jaar bij vrouwen van 40 en 50 jaar die een negatieve hrHPV-test hebben. Voor de RNA-test is het in tegenstelling tot een DNA-test niet aangetoond dat het veilig is om een interval van 10 jaar te hanteren. Hiermee is onvoldoende uit te sluiten dat een RNA-test niet resulteert in een toename van intervalkankers.
+	Hieruit is te af te leiden dat de negatief voorspellende waarde zodanig moet zijn dat het interval van tien jaar tussen twee primaire screenings als veilig kan worden beschouwd (in die zin dat het optreden van kanker gedurende dat interval voldoende kan worden uitgesloten). In het op primaire screening betrekking hebbende Meijer I-rapport wordt opgemerkt dat de bij het Meijer-criterium 1 geëiste hoge sensitiviteit ‘translates into a very high negative predictive value (reassurance) of the HPV detection essay allowing for extending screening intervals for test negative women’ (zie rov. 1.7). Een hoge negatief voorspellende waarde/’negative predictive value’ is zo valt uit dit een en ander op te maken alleen van belang in verband met de (intervallen tussen) primaire screenings en heeft geen betekenis voor de vervolgonderzoeken waarbij geen sprake is van een vooropgezet interval en zeker niet van tien jaar. Aangezien de Opdracht alleen voorziet in testen op zelfafname in het kader van vervolgonderzoek gelden bij de testen op zelfafgenomen materiaal dan ook geen (bijzondere) eisen op het punt van de negatief voorspellende waarde.     
+ 
+
+
+
+
+5 De primaire vorderingen  
+
+
+Uitgangspunt en wederzijdse standpunten
+
+ 
+
+5.1
+Bij de aanbesteding is tot uitgangspunt genomen dat de hrHPV-test op zelfafgenomen materiaal niet slechter mag presteren dan op klinisch afgenomen materiaal. In onder meer het antwoord in de NvI op vraag 131 is dit aldus toegelicht dat deelneemsters die om hun moverende redenen niet ingaan op een uitnodiging voor het bevolkingsonderzoek en gebruik maken van de zelfafnameset niet hoeven te worden geconfronteerd met (de gevolgen van) overdiagnose en overbehandeling noch met verlies aan gezondheidswinst waarvan sprake zou zijn indien de test op zelfafname een lagere specificiteit respectievelijk lagere sensitiviteit zou hebben. Naar het oordeel van het hof is gelet op deze toelichting genoemd uitgangspunt objectief te rechtvaardigen. Dit is door Qiagen ook niet betwist (vgl. punt 98 AD).    
+
+
+5.2
+Volgens de Staat beantwoordt alleen de PCR-(target-)amplificatiemethode aan het uitgangspunt dat de hrHPV-test op zelfafgenomen materiaal niet (significant) slechter mag presteren dan op klinisch afgenomen materiaal. Bij signaalamplificatiemethoden zoals gebruikt in de HC2-test wordt niet aan dit uitgangspunt voldaan aldus de Staat die daarvoor onder meer heeft gewezen op de Arbyn-MA (zie rov. 1.15). Qiagen heeft deze stellingen van de Staat bestreden onder meer met een beroep op de verklaringen van drie wetenschappers (prof. Bogers prof. Cuzick en prof. Sasieni) die volgens Qiagen duidelijk maken dat de Arbyn-MA de daarin getrokken conclusies niet kan dragen.  
+
+
+De prestaties bij zelfafname
+
+ 
+
+
+5.3
+Het hof acht – evenals de Staat (o.m. punt 4.30 CvA) en de voorzieningenrechter – aannemelijk dat zelf afgenomen monsters doorgaan minder celmateriaal/hrHPV zullen bevatten dan klinisch afgenomen monsters. Hieruit volgt dat de test op zelfafgenomen materiaal een hogere analytische sensitiviteit (zie rov. 1.5) moet hebben om evenveel hrHPV te kunnen detecteren als een test op klinisch afgenomen materiaal zoals door het in rov. 5.1 genoemde uitgangspunt wordt gedicteerd. Dit wordt niet weerlegd door de stelling van Qiagen in de punten 164 en 177 AD/punt 27 PE dat positief geteste vrouwen veel hrHPV-materiaal bij zich dragen en dat daarom een hoge sensitiviteit niet nodig is. Inderdaad vindt zelfafname bij het vernieuwde bevolkingsonderzoek alleen plaats in het kader van vervolgonderzoek en dus na een positieve uitslag bij een primaire screening (zie rov. 4.2) doch met haar stelling ziet Qiagen over het hoofd dat bij vrouwen die bij een primaire screening positief zijn getest ten tijde van het vervolgonderzoek niet noodzakelijkerwijs nog steeds veel virusmateriaal aanwezig is (zie rov. 1.3).
+
+
+5.4
+De Staat heeft verder het volgende naar voren gebracht in aansluiting op hetgeen is vastgesteld in rov. 1.6. Bij targetamplificatie (zoals toegepast in de PCR-test) wordt het afgenomen DNA eerst exponentioneel vermeerderd (geamplificeerd) met behulp van primers en een polymerase-chain-reaction (PCR). Vervolgens wordt het vermeerderde hrHPV-DNA gedetecteerd door middel van de gebonden hrHPV-specifieke probes (kleur licht). Omdat het hrHPV-DNA eerst exponentioneel wordt vermeerderd is de PCR techniek erg analytisch gevoelig zodat ook beperkt aanwezig hrHPV-DNA gedetecteerd kan worden hetgeen om de in rov. 5.3 genoemde reden gunstig is bij zelfafgenomen materiaal. Bij signaalamplificatie (zoals toegepast in de HC2-test) wordt het in het afgenomen materiaal aanwezige hrHPV-DNA eerst gebonden aan een probe. Het gebonden hrHPV wordt aangetoond door het probe-signaal en dus niet het DNA zelf te vermeerderen en te visualiseren met verschillende methoden (kleur licht). Deze wijze van amplificeren heeft tot gevolg dat deze testen minder analytisch gevoelig zijn en dat lage hoeveelheden hrHPV-DNA niet gedetecteerd kunnen worden hetgeen minder gunstig is bij zelfafgenomen materiaal.  
+
+
+5.5
+In de visie van Qiagen kunnen deze stellingen de Staat niet baten gezien de eis dat de test aan de Meijer-criteria moet voldoen (m.n. de punten 72-75 en 98.4 AD). Volgens deze criteria – weergegeven in rov. 1.7 bij (C) – moet het kantelpunt waar de test een onderscheid maakt tussen positieve en negatieve uitslagen tenminste 90% van de HC2-test bedragen. Dit betekent aldus Qiagen dat ook al zou de PCR-test in staat zijn om veel lagere concentraties van hrHPV op te pikken op het moment dat die test dat zou willen doen in de fabriek naar het door Meijer voorgeschreven kantelpunt wordt geschakeld waardoor de extra gevoeligheid weer verdwijnt en de PCR zich dus feitelijk bijna gelijk gaat gedragen als de HC2 (punt 15 PA Qiagen). Met deze redenering gaat Qiagen er evenwel aan voorbij dat de Meijer-criteria niet gelden voor tests op zelfafgenomen materiaal (zie rov. 4.3). Het moet er daarom voor worden gehouden dat – zoals de Staat tot uitdrukking heeft gebracht in de punten 4.20-4.27 MvA – bij deze tests het kantelpunt niet te hoeft worden afgesteld overeenkomstig de Meijer-criteria. Hierop loopt Qiagen’s redenering stuk.          
+
+
+5.6
+In de punten 74 en 87 laatste volzin AD heeft Qiagen opgemerkt dat PCR’s die niet voldoen aan de Meijer-criteria veel gevoeliger zijn. Nu naar zojuist is overwogen de Meijer-criteria bij zelfafname geen rol spelen kan deze opmerking van Qiagen niet anders worden verstaan dan als een bevestiging van de juistheid van de onder 5.4 vermelde stellingen van de Staat voor zover betrekking hebbend op zelfafname. Er moet derhalve in kort geding vanuit worden gegaan dat in het kader van zelfafname de PCR-test een veel grotere analytische sensitiviteit heeft dan op signaalamplificatie gebaseerde testen als de HC2-test van Qiagen.  
+
+
+5.7
+Het argument dat Qiagen (punten 91 en 98.5 AD; punt 42 PE) meent te kunnen ontlenen aan de bij de PCR-test optredende L1-deletie die voor een zeker percentage aan vals-positieve uitslagen zorgt gaat niet op. In het licht van de zeer grote gevoeligheid van de PCR moet – met de Staat (punt 7.27 MvA) – worden aangenomen dat het L1-hiaat geen probleem van enige betekenis kan vormen zeker nu Qiagen zelf heeft aangegeven dat ‘niet bekend is of’ dat hiaat de voordelen van de sensitiviteit teniet doet (PA onder 18.e).     
+
+
+5.8
+De strekking van de opmerking van Qiagen in punt 75 AD dat PCR’s die lagere virusconcentraties kunnen waarnemen als bijkomstigheid veel vals positieven opleveren wordt door het hof aldus begrepen dat de verhoging van de sensitiviteit leidt tot een zodanige verlaging van de specificiteit dat de negatieve gevolgen hiervan (overdiagose en overbehandeling) in relevante mate afbreuk doen aan de positieve gevolgen van de verhoogde sensitiviteit (gezondheidswinst). Hierover is door Qiagen echter niets concreets gesteld en in de verklaringen van haar deskundigen is evenmin iets te vinden dat in die richting wijst zodat aan de genoemde stelling van Qiagen wegens onvoldoende onderbouwing wordt voorbijgegaan. Hetzelfde lot treft om vergelijkbare redenen Qiagen’s stelling in punt 53 AD (na de zinsnede ‘met andere woorden) dat het voordeel dat PCR bij zelfafname meer virussen oppikt ‘teniet gedaan (zou) kunnen worden’ doordat bij klinisch onderzoek minder virussen worden gevonden. Gezien de daarbij gebezigde woorden ‘(zou) kunnen’ gaat het hier om een stelling met een speculatief karakter. De door Qiagen in de punten 68 en 114 AD/punt 11 PA betrokken stelling dat bij zelfafname de voorspellende waarde nog moet worden vastgesteld om ook daarbij de verlengde terugroeptermijn van tien jaar te kunnen waarmaken faalt om de in rov. 4.4 in fine genoemde reden.  
+
+
+De prestaties bij klinische afname
+
+ 
+
+
+5.9
+Door Qiagen is voorts het standpunt ingenomen – in onder meer de punten 53 66 69 113 en 124 AD en punt 8 PA – dat haar HC2-test op klinisch afgenomen materiaal en wat negatief voorspellende waarde betreft beter presteert dan de PCR-test. Kennelijk wil Qiagen hiermee betogen dat de voordelen die de PCR-test heeft als gevolg van zijn grote analytische sensitiviteit bij zelfname niet opwegen tegen de voordelen die de HC2-test bij klinische afname heeft en dat daarom de keuze voor de PCR-test niet te rechtvaardigen is (vgl. punt 76 AD en punt 13 PA).  
+
+
+5.10
+
+Voor de betwisting van de Staat (punt 5.6 CvA; punt 2.2 MvA) van Qiagens claim dat haar HC2-test bij klinische afname superieur is aan de PCR-test is steun te vinden in Meijer I in dier voege dat in die publicatie – die betrekking heeft op klinische afname – is benadrukt dat beide testen wat sensitiviteit betreft in hoge mate vergelijkbaar zijn zie de in rov. 1.7 met (A) en (B) aangeduide passages daaruit meer in het bijzonder dit onderdeel:
+
+‘two tests i.e the (…) (hc2;  …) and GP5+/6+-PCR (…) have repeatedly demonstrated clinical sensitivity of about 90-95% for the detection of ≥CIN 2 in large prospective cohorts or randomized controllee trials’. 
+Door Qiagen is overgelegd een publicatie van Hung N. Luu et al. uit 2013 (productie 30 zie de punt 53 AD; punt 13 PA) waarin is gerapporteerd dat de ‘pooled sensitivity and specificity (…) was higher for HCII than PCR’ maar ook een verklaring van prof. Bogers van 20 februari 2015 (productie 26) waarin het volgende wordt opgemerkt:
+	‘Vraag 2
+
+Naar mijn mening presteert HC2 klinisch even goed als commercieel verkrijgbare PCR-gebaseerde technieken op klinisch materiaal. 
+
+(…)
+
+
+Daarom concludeer ik dat HC2 en PCR-gebaseerde HPV-testen klinisch gelijkwaardig presteren op klinisch afgenomen stalen’.
+Dit alles overziend zijn er voorshands onvoldoende aanwijzingen voor Qiagen’s stelling dat de HC2-test bij klinische afname beter presteert dan de PCR-test. In dit opzicht kan Qiagen in haar in rov. 5.9 bedoelde betoog niet worden gevolgd.
+ 
+
+
+5.11
+Dat betoog houdt verder in dat bij klinische afname alleen voor de HC2-test de voor het interval van tien jaar vereiste negatief voorspellende waarde wetenschappelijk is vastgesteld. De studies die zijn gebaseerd op PCR komen niet verder dan vijf jaar aldus Qiagen in punt 67 AD/punt 9 PA. In punt 18b PA heeft Qiagen echter zelf dit standpunt ontkracht althans in zekere zin met de opmerking dat ‘de negatief voorspellende waarde van slechts één PCR gelijk is aan HC2’. Afgezien hiervan is dat standpunt van Qiagen – zonder nadere toelichting die ontbreekt – moeilijk te rijmen met de gezien rov. 5.10 in dit kort geding aan te nemen vergelijkbaarheid tussen de HC2-test en de PCR-test. Hierbij komt nog dat naar de Staat heeft opgemerkt in punt 2.6 MvA in een publicatie van Elfström et al. uit 2014 (hierna: Elfström productie 26 bij MvA) de resultaten van een 14 jaars-screeningsinterval voor de PCR zijn gepresenteerd en dat daaruit naar voren is gekomen dat bij primaire screening na tien jaar een vergelijkbaar laag risico (‹ 1%) bestond als het huidige vijfjaars risico bij cytologie screening. De tegenwerping van Qiagen in punt 8 PA dat op pagina 1 onder ‘Conclusions’ van Elfström slechts wordt geconcludeerd dat de PCR bij vijf jaar hetzelfde risico oplevert als cytologie bij drie jaar is niet steekhoudend omdat het bij dat onderdeel gaat om CIN3+ terwijl de door de Staat bedoelde passage uit Elfström betrekking heeft op het hier relevante CIN2+ (zie pagina 1 van Elfström onder ‘Results’ alsmede voor de relevante CIN: rov. 1.3 in fine). Ook in dit opzicht gaat het in rov. 5.9 vermelde betoog van Qiagen niet op.   
+
+
+Proportionaliteit
+
+ 
+
+
+5.12
+Qiagen heeft nog gesteld dat niet meer dan 7% van de te testen vrouwen opteert voor zelfafname. Het hof onderschrijft de aan deze stelling ten grondslag liggende gedachte in zoverre dat wanneer slechts een verwaarloosbaar klein aantal vrouwen gebruik zou maken van de mogelijkheid tot zelfafname de beperking tot de PCR-test die door die mogelijkheid is ingegeven als disproportioneel zou kunnen worden aangemerkt. Bij het door Qiagen genoemde percentage van 7 gaat het echter niet om een verwaarloosbaar klein aantal. De Staat heeft er bovendien terecht op gewezen (punt 3.15 MvA) dat Qiagen bij haar percentage is uitgegaan van niet-responderende vrouwen terwijl aannemelijk is dat in het vernieuwde bevolkingsonderzoek ook een deel van de wel-responderende vrouwen bij het vervolgonderzoek zal kiezen voor zelfafname. Het percentage dat zelfafname verkiest zal ten tijde van het vernieuwde bevolkingsonderzoek dus hoger zijn dan 7 en mogelijk zelfs aanzienlijk hoger.      
+
+
+Conclusies
+
+ 
+
+
+5.13
+
+Uit het voorgaande volgt: 
+-	dat de op targetamplificatie gebaseerde PCR-test door zijn hogere analytische sensitiviteit in staat is het probleem dat bij zelfafname minder materiaal beschikbaar komt te ondervangen (rovv. 5.4 t/m 5.8); 
+-	dat op signaalamplificatie gebaseerde tests als de HC2 daartoe niet of veel minder goed in staat zijn (rovv. 5.4 en 5.6);  
+-	dat er geen voldoende geconcretiseerde aanwijzingen zijn dat de PCR-test op andere punten met name bij klinische afname in relevante mate minder presteert dan de HC2-test (rovv. 5.9 t/m 5.11). 
+Bij deze stand van zaken kan – met inachtneming van het aan het kort geding eigen voorlopige karakter – de conclusie geen andere zijn dan dat alleen bij de PCR-test klinische afname en zelfafname tot vergelijkbare resultaten leiden. Gezien de objectieve gerechtvaardigdheid van het uitgangspunt dat geen verschil moet bestaan tussen beide vormen van afname (zie rov. 5.1) brengt die conclusie – dat dit resultaat alleen met de PCR-test kan worden bereikt – met zich dat de Staat voldoende heeft aangetoond dat zijn keuze voor deze test objectief gerechtvaardigd is.   
+ 
+
+
+5.14
+De Arbyn-MA heeft bij de totstandkoming van dit oordeel geen rol gespeeld. De door Qiagen op die publicatie geleverde kritiek kan dan ook onbesproken blijven. Nu de Arbyn-MA strookt met hetgeen in rov. 5.13 is vastgesteld moet het er overigens voor worden gehouden dat de Staat zich op goede gronden op dat rapport heeft beroepen ter onderbouwing van zijn keuze voor de PCR-test.  
+
+
+5.15
+Bij haar beroep (zie de punten 96 en 182 AD en punt 10 PA) op de omstandigheid dat naar in de Arbyn-MA staat vermeld alleen maar ‘some’ PCR-tests een gelijke gevoeligheid hebben bij zelfname en klinische afname heeft Qiagen geen belang. Het slagen daarvan zou slechts tot gevolg hebben dat de KO-eis betreffende de PCR beperkt zou moeten worden tot bepaalde PCR’s en dat kan er niet toe leiden dat Qiagen die immers geen PCR-test heeft alsnog voor gunning in aanmerking zou kunnen komen.  
+
+
+5.16
+Uit het oordeel dat voor de keuze voor specifiek de PCR-test een objectieve rechtvaardiging bestaat vloeit voort dat de Staat door die keuze te maken en te handhaven niet in strijd heeft gehandeld met de artikelen 1.10 2.75 tweede lid en 2.76 eerste tweede en vijfde lid AW en tevens dat de HC2-test van Qiagen niet gelijkwaardig is aan de PCR-test zodat evenmin sprake is van schending van artikel 2.76 zesde lid AW.  
+
+
+5.17
+De primaire vorderingen van Qiagen zijn zo volgt uit het hiervoor overwogene niet toewijsbaar. Haar voorwaardelijke vordering tot heraanbesteding deelt dit lot.  
+
+
+
+
+6 De subsidiaire vorderingen 
+
+6.1
+
+In het antwoord in de NvI op vraag 150 ‘splitsing kavels’ is het volgende opgenomen:
+‘De aanbesteding richt zich op die onderdelen van de analyse waarbij er geen (substantieel) verschil is tussen klinische afname en zelfafname’. 
+	Het ligt niet erg voor de hand dat er in welke zin dan ook relevante verschillen zouden bestaan tussen een hrHPV-test voor klinische afname en zo’n test voor zelfafname behalve dan dat de laatste soms anders moet worden afgesteld (zie rov. 5.5). Hoewel dat in dit licht op haar weg had gelegen heeft Qiagen niet concreet gesteld dat en waarom van zulke verschillen sprake is ook niet in punt 44 PA waar slechts algemeenheden zijn geuit naast enkele evidente onjuistheden (‘De apparaten hebben niets met elkaar te maken’). Derhalve moet worden geoordeeld dat hier sprake is van één opdracht zoals de Staat heeft aangevoerd (o.m. punt 6.4 MvA) en niet van een samenvoeging laat staan een onnodige van meerdere opdrachten. Artikel 1.5 eerste lid AW is hier mitsdien niet van toepassing. 
+ 
+
+
+6.2
+Resteert het beroep van Qiagen op het derde lid van artikel 1.5 AW waarin is bepaald dat de aanbestedende dienst een opdracht in meerdere percelen deelt tenzij hij dit niet passend acht in welk geval hij dit in de aanbestedingsstukken motiveert.    
+
+
+6.3
+
+Aansluitend aan de zojuist weergegeven passage uit de NvI is het volgende vermeld:
+‘Vanuit complexiteit van de te leveren totaaloplossing kosten aansturing onderlinge vergelijkbaarheid van afnamethoden kwaliteit en kwaliteitsborging doelmatigheid en organisatie is gekozen voor één totaaloplossing. De aanbesteding is daarom niet opgedeeld in aparte kavels.’ 
+ 
+
+
+6.4
+De stelling van de Staat dat bij inzet van verschillende tests de kosten wezenlijk hoger zullen zijn is door Qiagen niet gemotiveerd betwist en ten dele zelfs erkend - zie punt 129 AD. De Staat heeft tevens gesteld (punt 5.16 MvA) dat het opdelen van de Opdracht ook op andere onderdelen daarvan tot hogere kosten zal leiden. Ook dit is onvoldoende gemotiveerd betwist (de betwisting tussen de haakjes in punt 14 PA ontbeert iedere toelichting). Geconstateerd moet worden dat de door Qiagen beoogde splitsing zou resulteren in een aantasting van de publieke waarde dat de kosten van het vernieuwde bevolkingsonderzoek in relatie tot de kwaliteit en bruikbaarheid zo laag mogelijk moeten worden gehouden. Daarnaast is voorshands aannemelijk dat ook de kwaliteitsbewaking en –bevordering te lijden zullen hebben van splitsing.  
+
+
+6.5
+Tegen de zojuist genoemde voordelen van niet-splitsing vormt hetgeen Qiagen ter onderbouwing van haar beroep op artikel 1.5 derde lid AW heeft aangevoerd – te weten (i) dat haar HC2-test beter presteert en (ii) dat slechts een klein percentage vrouwen voor zelfafname kiest (o.m. punten 122 en 124 AD punt 43 PA) – geen toereikend tegenwicht gezien ook hetgeen over die argumenten is overwogen in de rovv. 5.9 t/m 5.12 hiervoor. De Staat kon dus in redelijkheid splitsing niet passend achten waardoor aan de materiële ‘tenzij’-eis van artikel 1.5 derde lid AW is voldaan en heeft niet in strijd met het proportionaliteitsbeginsel gehandeld door van splitsing af te zien.  
+
+
+6.6
+Onder de voornoemde omstandigheden is met de zojuist in de rovv. 6.1 en 6.3 geciteerde passages uit de NvI bezien tegen de achtergrond van de in rov. 1.11 weergegeven passage uit het Beschrijvend Document (met name het begin van de tweede alinea) voldoende inzichtelijk gemaakt waarom de Staat splitsing niet passend achtte. Ook aan het formele deel van de ‘tenzij’-eis van artikel 1.5 derde lid AW (de motiveringsplicht) is dus voldaan en eveneens aan het voorschrift van artikel 1.10 tweede lid onder a AW waarop Qiagen zich bij pleidooi in hoger beroep nog heeft beroepen (PA onder 42 en 48).      
+
+
+6.7
+De conclusie luidt dat ook Qiagen’s subsidiaire vorderingen niet voor toewijzing in aanmerking komen. 
+
+
+
+
+7 Slotbeschouwingen 
+
+7.1
+Wat de incidentele vorderingen van Qiagen betreft wordt aan het voorgaande nog toegevoegd dat de Staat bij pleidooi in hoger beroep heeft toegezegd de aanbesteding uit te stellen tot uiterlijk 9 juni 2015 de dag van dit arrest zodat Qiagen bij die vordering ook geen belang meer heeft.  
+
+
+7.2
+Voor bewijslevering als door Qiagen aangeboden is in dit spoedappel in een kort geding geen plaats.  
+
+
+7.3
+Het bestreden vonnis zal worden bekrachtigd onder afwijzing van de door Qiagen in hoger beroep voor het eerst ingestelde vorderingen. Als de in hoger beroep in het ongelijk gestelde partij zal Qiagen worden veroordeeld in de daarop gevallen kosten.  Tot die kosten behoren de (nog te maken) nakosten (waarvoor onderstaande veroordeling een executoriale titel geeft – ECLI:NL:HR:2010:BL1116). Ingevolge artikel 237 derde lid Rv blijft de vaststelling van de proceskosten door het hof in dit arrest beperkt tot de vóór de uitspraak gemaakte kosten.   
+
+
+Beslissing
+
+ 
+
+Het gerechtshof: 
+ 
+- bekrachtigt het tussen partijen gewezen vonnis van de voorzieningenrechter in rechtbank Den Haag van 25 maart 2015;  
+- wijst af de door Qiagen in hoger beroep ingestelde vorderingen;  
+- veroordeelt Qiagen in de kosten van de procedure in hoger beroep tot op heden aan de zijde van de Staat begroot op € 711- voor verschotten en € 2.682- voor salaris en bepaalt dat deze bedragen binnen veertien dagen na de uitspraak moeten zijn voldaan bij gebreke van betaling te vermeerderen met de wettelijke rente als bedoeld in artikel 6:119 BW vanaf het einde van voormelde termijn tot aan de dag der algehele voldoening;     
+- verklaart dit arrest ten aanzien van de proceskostenveroordeling uitvoerbaar bij voorraad.  
+
+Dit arrest is gewezen door mrs. A.V. van den Berg M.Y. Bonneur en A.E.A.M. van Waesberghe; het is uitgesproken ter openbare terechtzitting van 9 juni 2015 in aanwezigheid van de griffier.
+ 
+
+

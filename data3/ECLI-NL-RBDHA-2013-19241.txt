@@ -1,0 +1,405 @@
+
+
+
+
+
+
+
+
+
+
+
+
+vonnis
+RECHTBANK DEN HAAG
+
+Team handel
+Zittingsplaats Den Haag
+ 
+
+zaaknummer / rolnummer: C/09/431145 / HA ZA 12-1336
+ 
+
+
+Vonnis van 11 december 2013
+
+ 
+
+in de zaak van
+ 
+
+de besloten vennootschap met beperkte aansprakelijkheid
+
+MYLAN B.V.
+gevestigd te Bunschoten-Spakenburg
+eiseres
+advocaat mr. M.H.J. van den Horst te Den Haag
+ 
+
+tegen
+ 
+
+de rechtspersoon  naar buitenlands recht
+
+
+          [A] PHARMACEUTICALS INC.
+
+voorheen genaamd [X] PHARMACEUTICALS INC.
+gevestigd te Titusville New Jersey Verenigde Staten van Amerika
+gedaagde
+advocaat mr. J.J. Allen te Amsterdam.
+ 
+
+Partijen zullen hierna Mylan en [A] genoemd worden.
+ 
+
+De procedure is voor [A] mede behandeld door mr. ir. P. van Dongen advocaat te Amsterdam.
+ 
+
+
+
+1 De procedure
+
+1.1.
+Het verloop van de procedure blijkt uit:
+
+-
+de beschikking van de voorzieningenrechter van deze rechtbank van 24 augustus 2012 waarin Mylan is toegestaan [A] te dagvaarden in een versnelde bodemprocedure in octrooizaken;
+
+-
+de dagvaarding van 27 augustus 2012;
+
+-
+de akte van Mylan van 14 november 2012 waarbij producties 1 tot en met 29 zijn overgelegd;
+
+-
+de conclusie van antwoord van 23 januari 2013 met producties 1 tot en met 5;
+
+-
+de opgave van de proceskosten van Mylan (productie 30.1) bij faxbericht van  5 september 2013;
+
+-
+de opgave van de proceskosten van [A] bij brief van 4 september 2013.
+
+
+
+
+1.2.
+Partijen hebben de zaak bepleit ter zitting van 6 september 2013. Zij hebben ter zitting pleitnotities overgelegd. 
+
+
+
+
+2 De feiten
+
+2.1.
+
+        [A] ontwikkelt en verhandelt geneesmiddelen. Mylan is eveneens een farmaceutisch bedrijf. Zij verhandelt (onder meer) generieke geneesmiddelen. 
+
+
+2.2.
+
+        [A] is houdster van Europees octrooi EP 0 566 709 B3 (hierna: EP 709 of het octrooi) voor een ‘composition comprising a tramadol compound and acetaminophen and its use’. Het octrooi is op een aanvrage van 3 september 1992 verleend op 12 augustus 1998 met gelding voor onder meer Nederland. EP 709 roept de prioriteitsdatum 6 september 1991 in. Het octrooi is op 8 april 2009 op de voet van artikel 105a EOV1 beperkt door wijziging van de conclusies.  
+
+
+2.3.
+De duur van het octrooi is inmiddels verstreken. Op basis van EP 709 is echter op 6 maart 2006 onder nummer 300152 een aanvullend beschermingscertificaat verleend met gelding tot 4 april 2017 (verder: ABC 300152). 
+
+
+2.4.
+De conclusies van EP 709 na beperking luiden als volgt. 
+
+
+
+
+
+
+
+
+
+
+
+
+2.5.
+In de onbestreden Nederlandse vertaling luiden de conclusies: 
+
+
+
+
+
+
+
+
+
+
+
+
+2.6.
+Acetaminofen is ook bekend als paracetamol p-acetaminofenol en ben-u-ron. Tramadol is ook bekend als tramal. 
+
+
+2.7.
+Tegen de verlening van het octrooi is oppositie ingesteld. De oppositie is echter ingetrokken en heeft niet geleid tot een beslissing van de oppositie-afdeling van het Europees Octrooibureau. De geldigheid van het octrooi is voorts inzet van (eerdere) procedures in Duitsland Hongarije Italië en Spanje. Daarbij is het Duitse deel van EP 709 in een beslissing van 6 oktober 2009 nietig verklaard welk oordeel door het Bundesgerichtshof in de beslissing van 18 september 2012 in stand is gelaten. Ook het Spaanse deel van EP 709 is in eerste aanleg nietig verklaard maar hoger beroep is aanhangig. In de overige procedures was ten tijde van het pleidooi in deze procedure nog geen beslissing bekend. 
+
+
+2.8.
+De beschrijving van het octrooi houdt onder meer het volgende in: 
+
+[0002] United States Patent No. 3652589 discloses a class of analgesic cycloalkanol-substituted phenol esters having a basic amine group in the cycloalkyl ring. The compound (…) tramadol is specifically disclosed therein. A series of articles pertaining to the pharmacology toxicology and clinical studies of tramadol (…) disclose that tramadol produces its analgesic effect through a mechanism that is neither fully opioid-like nor non-opioid-like.(…) clinical experience indicates that tramadol lacks many of the typical side effects of opioid agonists (…) tramadol's combination of non-opioid and opioid activity makes tramadol a very unique drug.
+[0003] Opioids have for many years been used as analgesics to treat severe pain. They however produce undesirable side effects and as a result cannot be given repeatedly or at high doses.(…)
+[0004] As alternatives to using opioids non-opioids such as acetaminophen (APAP) and aspirin are used as analgesics. APAP like aspirin is not subject to the tolerance addiction and toxicity of the opioid analgesics. However APAP and aspirin are only useful in relieving pain of moderate intensity whereas the opioid analgesics are useful in relieving more intense pain; (…)
+[0005] To reduce the side effect problems of opioids opioids have been combined with other drugs including non-opioid analgesic agents which lowers the amount of opioid needed to produce an equivalent degree of analgesia. It has been claimed that some of these combination products also have the advantage of producing a synergistic analgesic effect.(…)
+[0007] The prior art however does not disclose that tramadol an 'atypical' opioid analgesic can or should be combined with another analgesic to lessen the side effects of each or to yield a composition comprising a tramadol material and another analgesic that exhibits superadditive analgesia.
+ 
+
+111. SUMMARY OF THE INVENTION
+[0008] It has now been found that a tramadol material which includes various forms of tramadol as defined hereinafter can be combined with APAP to produce analgesia. The combination employs lesser amounts of both the tramadol material and APAP than would be necessary to produce the same amount of analgesia if either was used alone. By using lesser amounts of both drugs the side effects associated with each are reduced in number and degree. Surprisingly the compositions comprising the tramadol material and APAP have been found to exhibit synergistic analgesic effects when combined in certain ratios. The compositions according to this invention may also be useful in treating tussive conditions.
+ 
+
+
+2.9.
+Het in de beschrijving genoemde Amerikaanse octrooi 3652589 (verder: US 589) houdt onder meer het volgende in (onderstreping toegevoegd door rechtbank): 
+
+Analgesic drugs are well known. Highly effective analgesic compounds are derived from morphium such
+as morphine and other morphine alkaloids. However it is weIl known that morphine as well as other morphium
+alkaloids produce a number of serious side-effects. More particularly they possess a high degree of tolerance and
+drug dependence. For this reason numerous attempts have been made to produce analgesic drugs which are
+substantially free of these side-effects. However none of these attempts met with complete success.(…)
+It is now an object of the present invention to provide valuable therapeutically useful cycloalkanol-sub-
+stituted phenol ethers with a basic group in the cycloalkyl ring and with an alkoxy group in m-position to said
+cycloalkyl ring which compounds are substantially free of the disadvantages of the known above-mentioned compounds of similar structure. A further object of the present invention is to provide pharmaceutical compositions containing as essential active drug such phenol ethers.(…)
+The compounds according to the present invention have also proven to be of considerable therapeutic value when used in combination with other therapeutically active agents whereby frequently a synergistic effect is observed. Especially valuable combinations are those with other analgesics such as with acetylsalicylic acid phenacetin or the like; with other antiphlogistic and antiinflammatory agents such as with phenyl butazone or the like; with analeptics such as with caffeine and amphetamine or the like; with antihistaminic agents such as with pyribenz-amine diphenylhydramine salicylate chlorphenirimine maleate and others with spasmolytic agents such as the methosulfate of (1-methyl piperidyl-2)-methyl benzilate atropine sulfate or the like; with muscle relaxants such as with mephenesin phenaglycodol or the like; with sedative agents such as barbituric acid derivatives for instance phenobarbitol with chlorpromazine or the like. The following example illustrates the composition of such combination preparations without however limiting the same thereto.
+ 
+
+EXAMPLE 23
+Tablets which are composed as follows are compared in
+the conventional manner:
+
+25 mg. of the hydrochloride of racemic l(e)-(m-methoxy
+
+phenyl) - 2(e) - dimethylamino methyl cyclohexane-l
+(a)-ol
+
+30 mg. of pentobarbital sodium
+
+250 mg. of ethoxy benzamide
+250 mg. of p-acetamino phenol
+ 
+
+
+2.10.
+
+Een artikel van U. Ganzer en H. Bier met als titel ‘Die Schmerzbehandlung
+
+bei fortgeschrittenen Geschwülsten der Kopf-Hals-Region’ (Laryng. Rhinol. Otol. 67 (1988) 90-93 Georg Thieme Verlag Stuttgart New York verder: Ganzer) beschrijft pijnbestrijding bij kankerpatiënten overeenkomstig een meerfasenplan. Het omvat onder meer de navolgende passages en tabellen (tekstmarkeringen rechtbank):
+ 
+
+Die Schmerzbehandlung erfolgt bei progredientem Tumorleiden im Sinne eines Stufenplanes. Man beginnt möglichst mit einem peripheren Analgetikum das bei Bedarf mit einem zentral wirksamen Schmerzmittel und/oder Psychopharmakon kombiniert wird (…)
+ 
+
+
+
+
+
+
+(…)
+ 
+
+
+
+
+
+
+Für die Schmerztherapie bei fortgeschrittenen Kopf-Hals Geschwülsten hat sich uns der folgende stufenweise Aufbau der medikamentösen Behandlung sehr bewährt (Tab. 6):
+Die Schmerztherapie wird mit ben-u-ron® 3x täglich 1 Suppositorium à 1000 mg begonnen und je nach Erfor-
+dernis bis zu einer Dosierung von 4-6 g pro Tag gesteigert. (…)Lassen sich die Schmerzen mit ben-u-ron® alleine nicht beherrschen ...dann wird zusätzlich je nach ein zentrales Analgetikum ein Neuroleptikum gege (deels onleesbaar). (…) Neuropathische Schmerzen werden zunächst mit Tramal® 6 x 50 mg pro Tag oder als nächste Steigerungsstufe mit MST 2 x 30-60 mg pro Tag behandelt.
+ 
+
+
+
+
+
+
+
+
+
+3 Het geschil 
+
+3.1.
+Mylan vordert vernietiging van het Nederlandse deel van EP 709 en nietigverklaring van ABC 300152 met veroordeling van [A] in de volgens artikel 1019h Rv2 te begroten proceskosten. 
+
+
+3.2.
+Voor het geval dat de hoofdzaak om welke reden dan ook zou worden vertraagd vordert Mylan een voorlopige voorziening inhoudende – zakelijk weergegeven – een voorlopige verbod aan [A] om EP 709 en/of ABC 300152 jegens Mylan in Nederland te handhaven. 
+
+
+3.3.
+Volgens Mylan dient EP 709 nietig te worden verklaard wegens toegevoegde materie en gebrek aan inventiviteit. Zij werkt de stelling over gebrek aan inventiviteit zakelijk weergegeven en voor zover thans relevant nader uit als volgt. 
+
+3.3.1.
+US 589 behoort tot de stand van de techniek voor EP 709. US 589 houdt zich evenals het octrooi bezig met analgetische (pijnstillende) farmaceutische samenstellingen en kan worden beschouwd als de meest nabije stand van de techniek. 
+
+
+3.3.2.
+In voorbeeld 23 van US 589 wordt een combinatiepreparaat geopenbaard dat tramadol (de daarin eerstgenoemde verbinding) en paracetamol (ook genaamd p-acetaminofenol of acetaminofen) bevat naast twee andere actieve verbindingen in een gewichtsverhouding tramadol : paracetamol van 1 : 10. Conclusie 1 van het octrooi verschilt slechts daarin van voorbeeld 23 van US 589 dat het tramadol en paracetamol als enige werkzame bestanddelen bevat.  
+
+
+3.3.3.
+De in het octrooi vermelde synergetische werking tussen tramadol en paracetamol kan geen inventiviteit verschaffen omdat niets in het octrooi erop wijst dat deze synergetische werking niet zou optreden bij de in US 589 geopenbaarde samenstelling. In het octrooi is geen technisch effect te vinden van het uitsluiten van de twee extra actieve verbindingen in voorbeeld 23. Het door het octrooi opgeloste objectieve technische probleem moet derhalve worden geformuleerd als het verschaffen van een alternatieve farmaceutische samenstelling van tramadol en paracetamol.  
+
+
+3.3.4.
+De gemiddelde vakman zou dit probleem op grond van zijn algemene vakkennis of door kennis te nemen van Ganzer oplossen door de twee extra actieve verbindingen weg te laten.  
+
+
+3.3.5.
+Het is namelijk algemene vakkennis dat bij de ontwikkeling van een nieuwe farmaceutische samenstelling slechts de "actieve verbindingen" worden opgenomen die het doel van de farmaceutische samenstelling dienen bijvoorbeeld met het oog op het beperken van toxische of ongewenste effecten van actieve verbindingen. De vakman zou dan ook de twee andere in voorbeeld 23 van US 589 genoemde actieve verbindingen uitsluiten en een samenstelling bieden die tramadol en paracetamol (acetaminofen) als enige werkzame bestanddelen omvat. De vakman leert uit de hiervoor onderstreept weergegeven passage uit US 589 dat er geen noodzaak bestaat de andere twee verbindingen op te nemen. In die passage wordt namelijk als bijzonder waardevol aangeprezen de combinatie van tramadol en (onder andere) fenacetine of een stof die op fenacetine lijkt. Op de prioriteitsdatum van het octrooi was het algemene vakkennis dat paracetamol een verbinding is "die lijkt op" fenacetine. 
+
+
+3.3.6.
+Daarnaast zou de gemiddelde vakman kennis nemen van Ganzer. Ganzer leert dat pijn kan worden bestreden met een combinatie van tramadol en paracetamol als enige werkzame bestanddelen. 
+
+
+3.3.7.
+Conclusies 1 en 12 zijn daarmee niet inventief. 
+
+
+3.3.8.
+De van conclusie 1 afhankelijke conclusies 2 tot en met 11 voegen niets toe op grond waarvan alsnog inventiviteit van die conclusies kan worden aangenomen. 
+
+
+
+3.4.
+
+        [A] brengt daar samengevat het volgende tegen in. 
+
+3.4.1.
+De verschillen tussen de openbaarmaking van US 589 en EP 709 zijn (i) de specifieke keuze voor tramadol en acetaminophen en (ii) een bepaald bereik van gewichtsverhoudingen. Deze verschillen hebben het effect dat de combinatie volgens de uitvinding een pijnstillend en bovendien synergetisch effect vertoont. Het technische probleem uitgaande van US 589 is het voorzien in een verbeterde pijnbehandeling. 
+
+
+3.4.2.
+Er is geen enkele aanwijzing in US 589 dat juist de combinatie van tramadol en acetaminophen een synergetisch effect zou laten zien. Er is geen hint of aanwijzing om enige van de in voorbeeld 23 vermelde vier stoffen te selecteren voor specifieke combinaties. De onderstreepte passage in US 589 verwijst slechts naar een combinatie omvattende enerzijds een van de middelen van de in US 589 geopenbaarde klasse niet specifiek naar tramadol en anderzijds een perifere niet-opiaatachtige pijnstiller waarvan aspirine en phenacetine voorbeelden zijn. Deze passage leidt de gemiddelde vakman niet in de richting van de specifieke combinatie van tramadol met paracetamol. 
+
+
+3.4.3.
+De gemiddelde vakman zou Ganzer niet raadplegen. Ganzer gaat specifiek over pijn die veroorzaakt wordt door kanker in het hoofd- en halsgebied.  
+
+
+3.4.4.
+Indien hij Ganzer al zou raadplegen zou hem dat niet de oplossing van het octrooi bieden. Ganzer beschrijft dat perifere pijnstillers bij voorkeur toegepast dienen te worden als enkelvoudige preparaten. Ganzer beveelt ook een individuele behandeling aan op basis van de individuele behoeften van een patiënt welk type behandeling niet verenigbaar is met de behandeling met een fixed dose combinatie zoals het octrooi leert. 
+
+
+3.4.5.
+Tabel 6 van Ganzer toont bovendien geen voorkeur voor ben-u-ron en tramal. Een van de andere door Ganzer genoemde combinaties kan evengoed gebruikt worden. 
+
+
+
+
+
+4 De beoordeling 
+
+4.1.
+Partijen zijn het erover eens dat bij de beoordeling van de inventiviteit van conclusie 1 van het octrooi kan worden uitgegaan van US 589 als meest nabije stand van de techniek. 
+
+
+4.2.
+De stelling van [A] dat conclusie 1 zich onderscheidt van de stand van de techniek door het kenmerk dat de samenstelling tramadol en acetaminofen bevat in een gewichtsverhouding van ongeveer 1:1 tot 1:1600 kan niet worden aanvaard. Onweersproken is dat de in voorbeeld 23 van US 589 eerstgenoemde stof tramadol betreft en de laatstgenoemde stof acetaminofen. Het voorbeeld openbaart aldus een samenstelling bestaande uit onder meer 25 mg. tramadol en 250 mg. acetaminofen. Dit is een verhouding van 1:10. Deze gewichtsverhouding valt in het geclaimde bereik zodat conclusie 1 zich in dat opzicht niet onderscheidt van de stand van de techniek. Het onderscheidende kenmerk is daarom – zoals Mylan terecht aanvoert – dat de samenstelling uitsluitend tramadol en acetaminofen omvat. De samenstelling van voorbeeld 23 omvat daarnaast namelijk twee andere stoffen. 
+
+
+4.3.
+In het octrooi zijn geen aanwijzingen te vinden dat dit onderscheidende kenmerk bijdraagt aan het geconstateerde synergistische (superadditieve) effect en het (daardoor verder) verminderen van ongewenste bijwerkingen (vergelijk met name de hiervoor geciteerde paragrafen 7 en 8 van de beschrijving). Er is geen reden aan te nemen dat het synergistisch effect zich niet evenzeer voordoet in de samenstelling van voorbeeld 23. Ook [A] erkent bij haar verweer tegen toegevoegde materie in de conclusie van antwoord onder randnummer 141 dat niets in het octrooi er op wijst dat er een technische reden bestaat om toevoeging van andere werkzame stoffen dan tramadol en acetaminofen te vermijden. Ter zitting heeft zij desgevraagd verduidelijkt dat met het weglaten van andere werkzame stoffen interactierisico’s worden beperkt aldus dat wordt voorkomen dat deze stoffen een negatieve invloed zouden kunnen hebben op de pijnstillende werking van de combinatie tramadol en acetaminofen. Dat de in de samenstelling van US 589 aanwezige overige stoffen daadwerkelijk afbreuk doen aan de pijnstillende werking van de combinatie van tramadol en acetaminofen blijkt echter uit niets. 
+
+
+4.4.
+Het objectieve technische probleem uitgaande van US 589 is dus niet het voorzien in een verbeterde pijnstillende werking van de samenstelling maar slechts het verschaffen van een alternatief voor de door US 589 geopenbaarde samenstelling met behoud van de pijnstillende werking. 
+
+
+4.5.
+Van de gemiddelde vakman die op zoek is naar een dergelijk alternatief mag verwacht worden dat hij zal onderzoeken welke alternatieven mogelijk al zijn gevonden. Daarvoor zal hij te rade gaan bij documenten die zich bezighouden met hetzelfde probleem de toepassing van geneesmiddelen voor de bestrijding van ernstige pijn. De rechtbank ziet zonder nadere motivering die ontbreekt niet in waarom de gemiddelde vakman daarbij geen publicaties zou raadplegen die zich richten op pijnbestrijding bij medische specialismen waarin regelmatig ernstige pijn wordt bestreden. De rechtbank acht dan ook aannemelijk dat de gemiddelde vakman onder meer Ganzer in zijn beschouwingen zou betrekken dat zich immers evenals het octrooi bezighoudt met bestrijding van ernstige pijn. De gemiddelde vakman zou Ganzer niet terzijde schuiven alleen omdat het artikel specifiek ziet op pijn door tumoren in het hoofd- en halsgebied.  
+
+
+4.6.
+Uit tabel 6 van Ganzer zou de vakman leren dat de combinatie van ben-u-ron en tramal succesvol kan worden aangewend bij de bestrijding van pijn als gevolg van gevorderde tumoren. De rechtbank acht aannemelijk dat hij deze aanwijzing ter harte zou nemen in de redelijke verwachting een bruikbaar alternatief te vinden voor de samenstelling van voorbeeld 23 van US 589 en zo zou komen tot de maatregelen van conclusie 1. Dat alternatief vergt aldus geen inventieve arbeid.  
+
+
+4.7.
+Daaraan doet niet af dat Ganzer ook andere combinaties dan die van ben-u-ron en tramal openbaart zoals ben-u-ron en MST of Truxal. Mogelijk leiden die tot andere voor de hand liggende alternatieven maar dat maakt de maatregelen van conclusie 1 nog altijd niet meer dan de keuze uit één van de voor de hand liggende alternatieven. Een keuze uit een van deze alternatieven kan niet als inventief worden aangemerkt.3 
+
+
+4.8.
+Daaraan doet evenmin af dat Ganzer de gemiddelde vakman niet zou wijzen in de richting van een fixed dose combinatie of zelfs van een fixed dose combinatie weg zou wijzen omdat hem die al wordt geleerd door voorbeeld 23 van US 589. 
+
+
+4.9.
+De gemotiveerde stelling van Mylan dat de afhankelijke volgconclusies 2 tot en met 12 geen maatregelen toevoegen die alsnog leiden tot inventieve materie is door [A] niet bestreden zodat daarvan is uit te gaan. 
+
+
+4.10.
+Het voorgaande leidt er toe dat ABC 300152 nietig dient te worden verklaard. Vernietiging van EP 709 moet echter worden afgewezen omdat de geldigheidsduur al is verstreken en een belang van Mylan bij vernietiging van het vervallen octrooi door haar niet is gesteld en evenmin is gebleken. Aan de gevorderde voorlopige voorziening wordt niet toegekomen nu een eindbeslissing wordt gegeven. 
+
+
+Proceskosten
+
+ 
+
+
+4.11.
+
+        [A] wordt als de voornamelijk in het ongelijk gestelde partij veroordeeld in de proceskosten.  
+
+
+4.12.
+
+        [A] bestrijdt de toepasselijkheid van artikel 1019h Rv. met beroep op de beslissing in de zogenaamde Bericapzaak4. Mylan meent dat die beslissing ziet op de vraag in een administratieve procedure in hoeverre bepaalde documenten in acht mogen worden genomen maar niet op de vraag of in het licht van de Handhavingsrichtlijn5een volledige proceskostenveroordeling toepassing vindt in een nietigheidsprocedure. Zij wijst er voorts met verwijzing naar de beslissing van het Gerechtshof Den Haag van 26 februari 2013 (Danisco / Novosymes) op dat [A] tijdens onderhandelingen voorafgaand aan de procedure zou hebben geëist dat Mylan tijdens de onderhandelingen niet op de markt zou komen met een mogelijk inbreukmakend product dat [A] de geldigheid van het octrooi heeft verdedigd en niet kenbaar heeft gemaakt het octrooi niet jegens Mylan te zullen handhaven. Volgens Mylan bestond er derhalve een concrete dreiging van handhaving van het octrooi in welk geval artikel 1019h Rv kan worden toegepast omdat dan in een procedure als de onderhavige sprake is van een vooruitgeschoven inbreukverweer.   
+
+
+4.13.
+Mylan stelt voorts dat grote publieke belangen zijn gemoeid bij de toetsing van octrooien en bepleit dat om die reden ook al zou artikel 1019h Rv niet van toepassing worden geacht de proceskosten niet aan de hand van het liquidatietarief berekend zouden moeten worden. Zo toch van dit tarief wordt uitgegaan dan zou volgens Mylan tarief VIII van toepassing zijn. Mylan maakt ook bij toepassing van het liquidatietarief aanspraak op vergoeding van de gebruikelijke verschotten en op de kosten van de door haar ingeschakelde deskundigen en tolken/vertalers op de voet van artikel 239 Rv. 
+
+
+4.14.
+Anders dan Mylan meent is de Bericapbeslissing relevant omdat daaruit is af te leiden dat bepalingen in de Handhavingsrichtlijn – en daarmee artikel 1019h Rv dat artikel 14 van de Handhavingsrichtlijn beoogt te implementeren – niet van toepassing zijn op nietigheidsprocedures zoals die in de Bericapzaak aan de orde zijn.  
+
+
+4.15.
+Het beroep van Mylan op het aangehaalde arrest van het Gerechtshof Den Haag gaat niet op alleen al omdat uit de door Mylan genoemde omstandigheden geen voldoende concrete dreiging van handhaving van het octrooi is af te leiden. Ook het feit dat [A] in onderhandelingen als voorwaarde heeft gesteld dat Mylan gedurende de onderhandelingen niet met een mogelijk inbreukmakend product op de markt zou komen beschouwt de rechtbank niet als een handeling waaruit een concrete dreiging van handhaving blijkt. In onderhandelingen kunnen immers allerlei gedragingen van de andere partij gevraagd worden ongeacht de vraag of een partij voornemens is die gedragingen ook buiten een onderhandeling te eisen van de andere partij. [A] stelt zich daarom terecht op het standpunt dat artikel 1019h Rv in deze procedure niet van toepassing is omdat het een zuivere nietigheidsactie betreft. 
+
+
+4.16.
+De proceskosten zullen derhalve worden berekend aan de hand van het liquidatietarief. De rechtbank ziet geen reden om dit tarief los te laten gezien de grote belangen van partijen en derden bij het resultaat van de procedure. Omdat de vorderingen geacht moeten worden geen bepaalde waarde te hebben wordt tarief II toegepast. Het salaris van de advocaat bedraagt dan volgens dit tarief drie punten x € 452 = € 1.356. Dit bedrag is te vermeerderen met de kosten van de dagvaarding (€ 7617 exclusief B.T.W.) en van het betaalde griffierecht (€ 575). De door Mylan opgegeven kosten van deskundigen en tolken/vertalers komen niet voor vergoeding in aanmerking op grond van artikel 239 Rv omdat zij niet zijn aan te merken als verschotten. Die kosten kunnen overigens evenmin worden vergoed op grond van artikel 6:96 lid 2 BW omdat een verplichting tot schadevergoeding aan de kant van [A] ontbreekt.  
+
+
+
+
+5 De beslissing
+De rechtbank: 
+
+5.1.
+verklaart ABC 300152 nietig;  
+
+
+5.2.
+veroordeelt [A] in de proceskosten tot dit vonnis aan de zijde van Mylan begroot op € 1.356 aan salaris van de advocaat en € 65117 aan verschotten. 
+
+
+5.3.
+verklaart de proceskostenveroordeling uitvoerbaar bij voorraad; 
+
+
+5.4.
+wijst het meer of anders gevorderde af. 
+
+Dit vonnis is gewezen door mr. P.G.J. de Heij mr. F.M. Bus rechters en mr. D. van Oostveen rechter-plaatsvervanger en in het openbaar uitgesproken op 11 december 2013.
+
+
+
+1
+Verdrag inzake de verlening van Europese octrooien (Europees Octrooiverdrag)
+2
+Wetboek van Burgerlijke Rechtsvordering
+3
+Vergelijk ook de recente beslissing van deze rechtbank van 2 oktober 2013 (Teva - Sanofi) onder 4.16 en 4.17 en de daar aangehaalde uitspraken van de Technische Kamers van beroep van het EOB.
+4
+Hof van Justitie EU 15 november 2012 Bericap - Plastinnova
+5
+Richtlijn 2004/48/EG van het Europees Parlement en de Raad van 29 april 2004 betreffende de handhaving van intellectuele-eigendomsrechten

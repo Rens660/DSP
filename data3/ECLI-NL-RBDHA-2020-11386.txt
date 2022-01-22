@@ -1,0 +1,784 @@
+
+
+
+
+
+
+
+
+
+
+
+
+vonnis
+RECHTBANK DEN HAAG
+
+Team handel
+ 
+
+zaaknummer / rolnummer: C/09/587447 / HA ZA 20-116
+ 
+
+
+Vonnis van 11 november 2020
+
+ 
+
+in de zaak van
+ 
+
+de rechtspersoon naar vreemd recht
+
+MERCK SHARP & DOHME CORP.
+te New Jersey Verenigde Staten
+eiseres
+advocaat mr. L. Oosting te Amsterdam
+ 
+
+tegen
+ 
+
+de rechtspersoon naar vreemd recht
+
+WYETH LLC.
+te New York Verenigde Staten
+gedaagde
+advocaat mr. S. Dack te Amsterdam.
+ 
+
+Partijen zullen hierna MSD en Wyeth genoemd worden.
+De zaak is voor MSD inhoudelijk behandeld door haar advocaat voornoemd en door mrs. K.A.J. Bisschop H. Zagers en L.W. Cortenraad advocaten te Amsterdam bijgestaan door de octrooigemachtigde mr. ir. M. Korsten. Voor Wyeth is de zaak behandeld door haar advocaat voornoemd en door mrs. F.W.E. Eijsvogels P. van Schijndel A.S. Friedmann advocaten te Amsterdam bijgestaan door de octrooigemachtigde dr. J.H.J. den Hartog.
+ 
+
+
+
+1 De procedure
+
+1.1.
+Het verloop van de procedure blijkt uit:
+
+-
+de beschikking van de voorzieningenrechter van deze rechtbank van 8 oktober 2019 waarbij MSD verlof is verleend Wyeth te dagvaarden in de versnelde bodemprocedure in octrooizaken (hierna: VRO);
+
+-
+de dagvaarding van 21 oktober 2019;
+
+-
+de akte houdende overlegging producties van MSD met producties EP01 t/m EP97;
+
+-
+de conclusie van antwoord met producties GP01 t/m en GP03; 
+
+-
+de akte houdende wijziging (van de grondslag) van eis tevens uitlating hoofd- en hulpverzoek tevens houdende overlegging producties met producties EP98 t/m EP117;
+
+-
+de brief van mr. Dack van 5 juni 2020 met het verzoek tot verwijdering van de zaak uit het VRO-regime en tot weigering van de akte houdende wijziging (van de grondslag) van eis en van het bij die akte door MSD als EP99 overgelegde rapport van haar octrooigemachtigde; 
+
+-
+de reactie op voornoemde brief van mr. Oosting van 9 juni 2020;
+
+-
+de beslissing van de rolrechter van 22 juni 2020 waarin het verzoek tot verwijdering uit het VRO-regime is afgewezen en de akte vooralsnog is toegelaten;
+
+-
+de brief van mr. Dack van 14 juli 2020 ontvangen op 15 juli 2020 met het verzoek tot verlenging van de pleittijd met minimaal twee uur;
+
+-
+de akte houdende overlegging nadere producties van MSD met producties EP118 t/m EP132;
+
+-
+de akte overlegging nadere producties van Wyeth met producties GP4 t/m GP15;
+
+-
+de brief van mr. Dack van 20 juli 2020 houdende bezwaar tegen het door MSD als productie EP118 overgelegde deskundigenrapport tevens houdende een hernieuwd verzoek tot verwijdering van de procedure uit het VRO-regime;
+
+-
+de reactie op voornoemde verzoeken van mr. Oosting bij brief van 22 juli 2020;
+
+-
+de e-mail van de rechtbank van 29 juli 2020 onder meer houdende de beslissing dat de zaak niet uit het VRO-regime zal worden verwijderd dat de pleittijd niet zal worden verlengd en dat ten aanzien van het bezwaar tegen de stukken pas bij pleidooi beslist zal worden; 
+
+-
+het wrakingsverzoek van mr. Dack van 4 augustus 2020;
+
+-
+de akte houdende overlegging reactieve producties van MSD met producties EP133 t/m EP140;
+
+-
+de akte overlegging reactieve producties van Wyeth met producties GP16 en GP17;
+
+-
+de e-mail van mr. Bisschop van 27 augustus 2020 met het bericht dat partijen een afspraak hebben gemaakt over de hoogte van de proceskosten;
+
+-
+de beslissing van de wrakingskamer van 13 augustus 2020 (in zaak- /rekestnummer: C/09/5 97203 / KG RK 20/988); 
+
+-
+de beslissing van de wrakingskamer van 31 augustus 2020 (in zaak- / rekestnummer: C/09/597487 / KG RK 20-1001);
+
+-
+de e-mail van de rechtbank van 31 augustus 2020 met instructies voor het (video)pleidooi;
+
+-
+de op 9 september 2020 schriftelijk ingediende pleitnotities van MSD;
+
+-
+de op 9 september ingediende pleitnotities van Wyeth. 
+
+
+
+
+1.2.
+In verband met de coronavirus-pandemie is het pleidooi dat in de VRO-beschikking was bepaald op 11 september 2020 in aangepaste vorm gehouden zonder fysieke aanwezigheid van (de advocaten van) partijen. De  pleitnota’s zijn door partijen op 9 september 2020 schriftelijk uitgewisseld. Het pleidooi in beide zaken is vervolgens ‘voortgezet’ tijdens een video-zitting op 11 september 2020 waarbij de rechtbank aan partijen vragen heeft gesteld en re- en dupliek is gehouden.  
+
+
+1.3.
+Vervolgens is een datum voor vonnis bepaald. 
+
+
+
+
+2 De feiten
+
+2.1.
+MSD is een farmaceutisch bedrijf dat wereldwijd actief is. Wyeth is een dochter van Pfizer een eveneens wereldwijd opererend farmaceutisch bedrijf. 
+
+
+2.2.
+Wyeth is houdster van het Europese octrooi EP 2 676 679 B1 (hierna: het octrooi of EP 679) voor “Formulations which stabilize and inhibit precipitation of immunogenic compositions”. Het octrooi is gebaseerd op internationale (moeder)aanvrage WO 2007/127665 A2 (hierna: (de aanvrage) WO 665) van 19 april 2007 en op de op 20 september 2013 afgesplitste aanvrage EP 2 676 679 (hierna: (de afgesplitste aanvrage) EP 679 A2 en tezamen met WO 665 ook ‘de aanvragen’) een en ander met inroeping van de prioriteit van de Amerikaanse (provisional) octrooiaanvrage US 795261 van 26 april 2006. EP 679 is verleend op 2 januari 2019 voor onder meer Nederland. Tegen het octrooi is door (onder andere) MSD oppositie ingesteld bij het Europees Octrooibureau (hierna: EOB) op 2 oktober 2019. 
+
+
+2.3.
+Van de vijftien conclusies van het octrooi is alleen conclusie 1 onafhankelijk. De conclusies luiden in de originele Engelse taal als volgt:  
+
+1.A siliconized container means filled with a formulation which inhibits silicone induced aggregation of a polysaccharide-protein conjugate comprised in a siliconized container means the formulation comprising (i) a pH buffered saline solution wherein the buffer has a pKa of about 3.5 to about 7.5 (ii) an aluminum salt and (iii) one or more polysaccharide-protein conjugates 
+wherein the polysaccharide-protein conjugate comprises one or more pneumococcal polysaccharides. 
+
+2.The siliconized container means of claim 1 wherein the pH buffered saline solution in the formulation has a pH of 5.5 to 7.5. 
+
+3. The siliconized container means of claim 1 or 2 wherein the buffer in the formulation is phosphate succinate histidine or citrate. 
+
+4. The siliconized container means of claim 1 wherein the buffer is succinate at a final concentration of 1 mM to 10 mM and pH 5.8 to 6.0. 
+
+5. The siliconized container means of anyone of claims 1 to 4 wherein the salt in the pH buffered saline solution comprises magnesium chloride potassium chloride sodium chloride or a combination thereof. 
+
+6. The siliconized container means of anyone of claims 1 to 5 wherien [sic rechtbank] the aluminum salt is aluminum hydroxide aluminum phosphate or aluminum sulfate. 
+
+7. The siliconized container means of anyone of claims 1 to 5 wherein the aluminum salt is aluminum phosphate. 
+
+8. The siliconized container means of anyone of claims 1 to 7 wherein the formulation further comprises polysorbate 80 (Tween™80). 
+
+9. The siliconized container means of claim 8 wherein the final concentration of the polysorbate 80 in formulation is at least 0.01% to 10% polysorbate 80 weight/volume of the formulation. 
+
+10. The siliconized container means of anyone of claims 1 to 9 wherein the one or more pneumococcal polysaccharides are a S. pneumoniae serotype 4 polysaccharide a S. pneumoniae serotype 6B polysaccharide a S. pneumoniae serotype 9V polysaccharide a S. pneumoniae serotype 14 polysaccharide a S. pneumoniae serotype 18C polysaccharide
+a S. pneumoniae serotype 19F polysaccharide a S. pneumoniae serotype 23F polysaccharide a S. pneumoniae serotype 1 polysaccharide a S. pneumoniae serotype 3 polysaccharide a S. pneumoniae serotype 5 polysaccharide a S. pneumoniae serotype 6A polysaccharide a S. pneumoniae serotype 7F polysaccharide and a S. pneumoniae serotype 19A polysaccharide. 
+
+11. The siliconized container means of anyone of claims 1 to 10 wherein the protein of the polysaccharide-protein conjugate formulation is selected from the group consisting of CRM197 a tetanus toxoid a cholera toxoid a pertussis toxoid an E. coli heat labile toxoid (LT)a pneumolysin toxoid pneumococcal surface protein A (PspA) pneumococcal
+adhesin protein A (PsaA) a C5a peptidase from Streptococcus Haemophilus influenzae protein D ovalbumin keyhole limpet haemocyanin (KLH) bovine serum albumin (BSA) and purified protein derivative of tuberculin (PPD). 
+
+12. The siliconized container means of anyone of claims 1 to 9 wherein the polysaccharide-protein conjugate formulation  is a 7-valent pneumococcal conjugate (7vPnC) formulation comprising a S. pneumoniae serotype 4 polysaccharide conjugated to a CRM197 polypeptide a S. pneumoniae serotype 6B polysaccharide conjugated to a CRM197 polypeptide a S. pneumoniae serotype 9V polysaccharide conjugated to a CRM197 polypeptide a S. pneumoniae serotype 14 polysaccharide conjugated to a CRM197 polypeptide a S. pneumoniae serotype 18C polysaccharide conjugated to a CRM197 polypeptide a S. pneumoniae serotype 19F polysaccharide conjugated to a CRM197 polypeptide and a S. pneumoniae serotype 23F polysaccharide conjugated to a CRM197 polypeptide. 
+
+13. The siliconized container means of anyone of claims 1 to 9 wherein the polysaccharide-protein conjugate formulation is a 13-valent pneumococcal conjugate (13vPnC) formulation comprising a S. pneumoniae serotype 4 polysaccharide conjugated to a CRM197 polypeptide a S. pneumoniae serotype 6B polysaccharide conjugated to a CRM197 polypeptide a S. pneumoniae serotype 9V polysaccharide conjugated to a CRM197 polypeptide a S. pneumoniae serotype 14 polysaccharide conjugated to a CRM197 polypeptide a S. pneumoniae serotype 18C polysaccharide conjugated to a CRM197 polypeptide a S. pneumoniae serotype 19F polysaccharide conjugated to a CRM197polypeptide a S. pneumoniae serotype 23F polysaccharide conjugated to a CRM197 polypeptide a S. pneumoniae serotype 1 polysaccharide conjugated to a CRM197 polypeptide a S. pneumoniae serotype 3 polysaccharide conjugated to a CRM197 polypeptide a S. pneumoniae serotype 5 polysaccharide conjugated to a CRM197 polypeptide a S. pneumoniae serotype 6A polysaccharide conjugated to a CRM197 polypeptide a S. pneumoniae serotype 7F polysaccharide conjugated to a CRM197 polypeptide and a S. pneumoniae serotype 19A polysaccharide conjugated to a CRM197 polypeptide.  
+
+14. The siliconized container means of any one of claims 1 to 13 wherein said container is a syringe. 
+
+15. The siliconized container means of claim 14 wherein said container is a glass syringe. 
+
+
+2.4.
+De niet bestreden Nederlandse vertaling van deze conclusies luidt:  
+1. Gesiliconiseerd houdermiddel gevuld met een formulering die silicone-geïnduceerde aggregatie van een polysacharide-eiwitconjugaat dat in een gesiliconiseerd houdermiddel is opgenomen remt waarbij de formulering (i) een pH-gebufferde zoutoplossing waarbij de buffer een pKa van ongeveer 35 tot ongeveer 75 heeft (ii) een aluminiumzout en (iii) een of meer polysacharide-eiwitconjugaten omvat waarbij het polysacharide-eiwitconjugaat een of meer pneumokokkenpolysachariden omvat.  
+2. Gesiliconiseerd houdermiddel volgens conclusie l waarbij de pH-gebufferde zoutoplossing in de formulering een pH van 55 tot 75 heeft. 
+3. Gesiliconiseerd houdermiddel volgens conclusie 1 of 2 waarbij de buffer in de formulering fosfaat succinaat histidine of citraat is.  
+4. Gesiliconiseerd houdermiddel volgens conclusie 1 waarbij de buffer succinaat is bij een eindconcentratie van 1 mM tot 10 mM en pH 58 tot 60.  
+5. Gesiliconiseerd houdermiddel volgens één van de conclusies 1 tot 4 waarbij het zout in de pH-gebufferde zoutoplossing magnesiumchloride kaliumchloride natriumchloride of een combinatie daarvan omvat.  
+6. Gesiliconiseerd houdermiddel volgens een van de conclusies 1 tot 5 waarbij het aluminiumzout aluminiumhydroxide aluminiumfosfaat of aluminiumsulfaat is. 
+7. Gesiliconiseerd houdermiddel volgens een van de conclusies 1 tot 5 waarbij het aluminiumzout aluminium-fosfaat is. 
+8. Gesiliconiseerd houdermiddel volgens een van de conclusies 1 tot 7 waarbij de formulering verder polysorbaat 80 (TweenTM80) omvat. 
+9. Gesiliconiseerd houdermiddel volgens conclusie 8 waarbij de eindconcentratie van het polysorbaat 80 in formulering ten minste 001% tot 10% polysorbaat 80 gewicht/volume van de formulering is. 
+
+l0. Gesiliconiseerd houdermiddel volgens een van de conclusies 1 tot 9 waarbij een of meer pneumokokkenpolysachariden een S. pneumoniae-serotype-4-polysacharide een S. pneumoniae-serotype-6B-polysacharide een S. pneumoniae-serotype-9V-polysacharide een S. pneumoniae-serotype-l4-polysacharide een S. pneumoniae-serotype-l8C-polysacharide een S. pneumoniae-serotype-l9F-polysacharide een S. pneumoniae-serotype-23F-polysacharide een S. pneumoniae-serotype-l-polysacharide een S. pneumoniae-serotype-3-polysacharide een S. pneumoniae-serotype-5-polysacharide een S. pneumoniae-serotype-6A-polysacharide een S. pneumoniae-serotype-7F-polysacharide en een S. pneumoniae-serotype-19A-polysacharide zijn.
+ 
+11. Gesiliconiseerd houdermiddel volgens één van de conclusies 1 tot l0 waarbij het eiwit van de polysacharide-eiwitconjugaat-formulering is gekozen uit de groep bestaande uit CRM197 een tetanustoxoïde een choleratoxoïde een pertussistoxoïde een E. coli-warmtelabiel toxoïde (LT) een pneumolysinetoxoïde pneumokokkenoppervlakeiwit A (PspA) pneumokokken-adhesie-eiwit A (PsaA) een C5a-peptidase uit Streptococcus Haemophilus-influenzae-eiwit D ovalbumine keyhole-limpet-haemocyanine (KLH) bovienserumalbumine (BSA) en gezuiverd eiwitderivaat van tuberculine (PPD). 
+12. Gesiliconiseerd houdermiddel volgens één van de conclusies 1 tot 9 waarbij de polysacharide-eiwit-conjugaat-formulering een 7-waardige pneumokokkenconjugaat-(7vPnC)-formulering is omvattende een S. pneumoniae-serotype-4-polysacharide geconjugeerd aan een CRM197-polypeptide een S. pneumoniae-serotype-6B-polysacharide geconjugeerd aan een CRM197-polypeptide een S. pneumoniae-serotype-9V-polysacharide geconjugeerd aan een CRM197-polypeptide een S. pneumoniae-serotype-l4-polysacharide geconjugeerd aan een CRM197-polypeptide een S. pneumoniae-serotype-l8C-polysacharide geconjugeerd aan een CRM197-polypeptide een S. pneumoniae-serotype-l9F-polysacharide geconjugeerd aan een CRM197-polypeptide en een S. pneumoniae-serotype-23F-polysacharide geconjugeerd aan een CRM197-polypeptide. 
+13. Gesiliconiseerd houdermiddel volgens één van de conclusies 1 tot 9 waarbij de polysacharide-eiwitconjugaat-formulering een l3-waardige pneumokokkenconjugaat (l3vPnC) formulering is omvattende een S. pneumoniae-serotype-4-polysacharide geconjugeerd aan een CRM197-polypeptide een S. pneumoniae-serotype-6B- polysacharide geconjugeerd aan een CRM197-polypeptide een S. pneumoniae-serotype-9V-polysacharide geconjugeerd aan een CRM197-polypeptide een S. pneumoniae-serotype-14-polysacharide geconjugeerd aan een CRM197-polypeptide een S. pneumoniae-serotype-18C-polysacharide geconjugeerd. aan een CRM197-polypeptide een S. pneumoniae-serotype-19F-polysacharide geconjugeerd aan een CRM197-polypeptide een S. pneumoniae-serotype-23F-polysacharide geconjugeerd. aan een CRM197-polypeptide een S. pneumoniae-serotype-1-polysacharide geconjugeerd aan een CRM197-polypeptide een S. pneumoniae-serotype-3-polysacharide geconjugeerd aan een CRM197-polypeptide een S. pneumoniae-serotype-5-polysacharide geconjugeerd aan een CRM197-polypeptide een S. pneumoniae-serotype-6A-polysacharide geconjugeerd aan een CRM197-polypeptide een S. pneumoniae-serotype-7F- polysacharide geconjugeerd. aan een CRM197-polypeptide en een S. pneumoniae-serotype-19A-polysacharide geconjugeerd aan een CRM197-polypeptide.  
+14. Gesiliconiseerd houdermiddel volgens een van de conclusies 1 tot 13 waarbij de houder een injectiespuit is. 
+15. Gesiliconiseerd houdermiddel volgens conclusie 14 waarbij de houder een glazen injectiespuit is. 
+
+
+2.5.
+In de beschrijving van EP 679 is onder meer het volgende opgenomen: 
+
+
+BACKGROUND OF THE INVENTION
+
+ 
+
+
+[0002] It is generally accepted in the bio-pharmaceutical arts that improving the stability of an immunogenic composition (e.g. a protein immunogen a polysaccharide-protein conjugate) is a necessary and highly desirable goal. For example an immunogenic composition must appear fresh elegant and professional when administered to a patient. Any changes in stability and/or physical appearance of the immunogenic composition such as color change clouding or haziness may cause a patient or consumer to lose confidence in the product. Furthermore because many immunogenic formulations are dispensed in multiple-dose containers uniformity of dose content of the active ingredient (e.g. a polysaccharide- protein conjugate) over time must be assured (e.g. a cloudy solution can lead to a nonuniform dosage pattern).
+Additionally the immunogenic composition must be active throughout its "expected" shelf life wherein any breakdown of the immunogenic composition to an inactive or otherwise undesired form (e.g. an aggregate) lowers the total concentration of the product.
+(…)
+
+[0005] It has been suggested in the art that silicone oil which induces protein secondary and tertiary conformational changes might be responsible for the aggregation/precipitation seen in certain protein pharmaceutical preparations (Jones et al. 2005). (…) Paradoxically silicone oil is a necessary component of plastic syringes as it serves to lubricate the rubber plunger and facilitate transfer of the plunger down the syringe barrel (i.e. silicone oil improves the syringeability of the formulation).
+ 
+
+
+2.6.
+In de beschrijving van de aanvrage WO 665 is onder meer het volgende opgenomen:  
+
+[op pagina 3:]
+
+
+
+
+
+
+
+[op pagina 4:] 
+
+
+
+
+
+
+
+[op pagina 5 regel 32-33:] 
+In certain other embodiments the formulation further comprises one or more adjuvants. Exemplary suitable adjuvants are described herein below.
+ 
+
+[op pagina 7:] 
+
+
+
+
+
+
+
+(…)
+
+
+
+
+
+
+
+[op pagina 13:] 
+
+
+
+
+
+
+
+(…)
+
+
+
+
+
+
+
+[op pagina 15:] 
+
+
+
+
+
+
+
+[op pagina 16:] 
+
+
+
+
+
+
+
+[op pagina 17:]
+
+
+
+
+
+
+
+[op pagina 18:] 
+
+
+
+
+
+
+
+(…)
+
+
+
+
+
+
+
+[op pagina 19:] 
+
+
+
+
+
+
+
+
+
+
+
+
+[en op pagina 20 regels 1 en 2:]
+Still other adjuvants include mineral oil and water emulsions aluminum salts (alum) such as aluminum hydroxide aluminum phosphate aluminum sulfate etc. (…)
+ 
+
+
+2.7.
+De aanvrage WO 665 telt veertig conclusies waarvan zes onafhankelijke conclusies (hierna ook: hoofdconclusies) met elk een eigen set volgconclusies. De hoofdconclusies luiden:  
+
+
+What is claimed is: 
+
+
+1. A formulation which stabilizes a polysaccharide-protein conjugate the formulation comprising (i) a pH buffered saline solution wherein the buffer has a pKa of about 3.5 to about 7.5 (ii) a surfactant and (iii) one or more polysaccharide-protein conjugates.
+(…)
+14. A formulation which stabilizes a streptococcal C5a peptidase (SCP) composition the formulation comprising (i) a pH buffered saline solution wherein the buffer has a pKa of about 3.5 to about 6.5 (ii) a surfactant and (iii) a streptococcal C5a peptidase.
+(…)
+24. A formulation which inhibits silicone induced aggregation of a polysaccharide-protein conjugate comprised in a siliconized container means the formulation comprising (i) a pH buffered saline solution wherein the buffer has a pKa of about 3.5 to about 7.5 (ii) an aluminum salt and (iii) one or more polysaccharide-protein conjugates.
+(…)
+31. A formulation which inhibits silicone induced aggregation of a streptococcal C5a peptidase (SCP) composition comprised in a siliconized container means the formulation comprising (i) a pH buffered saline solution wherein the buffer has a pKa of about 3.5 to about 6.5 (ii) an aluminum salt and (iii) a streptococcal C5a peptidase.
+(…)
+37. A formulation which stabilizes a N. meningitidis 2086 protein composition the formulation comprising (i) a pH buffered saline solution wherein the buffer has a pKa of about 3.5 to about 7.5 (ii) a surfactant and (iii) a N. meningitidis 2086 protein.
+(…)
+40. A formulation which inhibits silicone induced aggregation of a N. meningitidis 2086 protein composition comprised in a siliconized container means the formulation comprising (i) a pH buffered saline solution wherein the buffer has a pKa of about 3.5 to about 7.5 (ii) an aluminum salt and (iii) a N. meningitidis 2086 protein. 
+
+
+2.8.
+Van hoofdconclusie 24 van WO 665 zijn volgconclusies 25 t/m 30 afhankelijk. Deze luiden voor zover hier van belang:  
+25. The formulation of claim 24 wherein the buffer is succinate at a final concentration of 1 mM to 10 mM and pH 5.8 to 6.0.
+26. The formulation of claim 24 further comprising polysorbate 80 (Tween™80) wherein the final concentration of the polysorbate 80 in the formulation is at least 0.01% to 10% polysorbate 80 weight/volume of the formulation.
+27. The formulation of claim 24 wherein the polysaccharide-protein conjugate comprises one or more pneumococcal polysaccharides. 
+
+
+2.9.
+De beschrijving van de afgesplitste aanvrage EP 679 A2 is inhoudelijk gelijkluidend aan die van de aanvrage WO 665. Alle conclusies van laatstgenoemde aanvrage zijn als beschrijving van ‘particular embodiments’ opgenomen in paragraaf [0141] van de afgesplitste aanvrage. De conclusies van EP 679 A2 zijn beperkt ten opzichte van de conclusies van WO 665 in de zin dat alleen hoofdconclusie 24 (en – varianten van - de daarvan afhankelijke conclusies 25 t/m 27) van de aanvrage WO 665 daarin terugkomen. Daarnaast is een aantal bijkomende conclusies opgenomen. De afgesplitste aanvrage EP 679 A2 heeft aldus (uitsluitend) de volgende zestien conclusies:  
+
+
+Claims
+
+
+
+1. A formulation which inhibits silicone induced aggregation of a polysaccharide- protein conjugate comprised in a siliconized container means the formulation comprising (i) a pH buffered saline solution wherein the buffer has a pKa of about 3.5 to about 7.5 (ii) an aluminum salt and (iii) one or more polysaccharide-protein conjugates.
+
+2. The formulation of claim 1 wherein the pH buffered saline solution in the formulation has a pH of 5.5 to 7.5.
+
+3. The formulation of claim 1 or 2 wherein the buffer in the formulation is phosphate succinate histidine or citrate.
+
+4. The formulation of claim 1 wherein the buffer is succinate at a final concentration of 1 mM to 10 mM and pH 5.8 to 6.0.
+
+5. The formulation of anyone of claims 1 to 4 wherein the salt in the pH buffered saline solution comprises magnesium chloride potassium chloride sodium chloride or a combination thereof.
+
+6. The formulation of anyone of claims 1 to 5 wherien [sic] the aluminum salt is aluminum hydroxide aluminum phosphate or aluminum sulfate.
+
+7. The formulation of anyone of claims 1 to 5 wherein the aluminum salt is aluminum phosphate.
+
+8. The formulation of anyone of claims 1 to 7 wherein the formulation further comprises polysorbate 80 (Tween™80).
+
+9. The formulation of claim 8 wherein the final concentration of the polysorbate 80 in formulation is at least 0.01% to 10% polysorbate 80 weight/volume of the formulation.
+
+10. The formulation of anyone of claims 1 to 9 wherein the polysaccharide-protein conjugate comprises one or more pneumococcal polysaccharides.
+
+11. The formulation of claim 10 wherein the one or more pneumococcal polysaccharides are a S. pneumoniae serotype 4 polysaccharide a S. pneumoniae serotype 6B polysaccharide a S. pneumoniae serotype 9V polysaccharide a S. pneumoniae serotype 14 polysaccharide a S. pneumoniae serotype 18C polysaccharide a S. pneumoniae serotype 19F polysaccharide a S. pneumoniae serotype 23F polysaccharide a S. pneumoniae serotype 1 polysaccharide a S. pneumoniae serotype 3 polysaccharide a S. pneumoniae serotype 5 polysaccharide a S. pneumoniae serotype 6A polysaccharide a S. pneumoniae serotype 7F polysaccharide and a S. pneumoniae serotype 19A polysaccharide.
+
+12. The formulation of anyone of claims 1 to 11 wherein the [p]rotein of the polysaccharide-protein conjugate formulation is selected from the group consisting of CRM197 a tetanus toxoid a cholera toxoid a pertussis toxoid an E. coli heat labile toxoid (LT) a pneumolysin toxoid pneumococcal surface protein A (PspA) pneumococcal adhesin protein A (PsaA) a C5a peptidase from Streptococcus Haemophilus influenzae protein D ovalbumin keyhole limpet haemocyanin (KLH) bovine serum albumin (BSA) and purified protein derivative of tuberculin (PPD).
+
+13. The formulation of anyone of claims 1 to 10 wherein the polysaccharide-protein         conjugate formulation is a 7-valent pneumococcal conjugate (7vPnC) formulation comprising a S. pneumoniae serotype 4 polysaccharide conjugated to a CRM197 polypeptide a S. pneumoniae serotype 6B polysaccharide conjugated to a CRM197 polypeptide a S. pneumoniae serotype 9V polysaccharide conjugated to a CRM197 polypeptide a S. pneumoniae serotype 14 polysaccharide conjugated to a CRM197 polypeptide a S. pneumoniae serotype 18C polysaccharide conjugated to a CRM197 polypeptide a S. pneumoniae serotype 19F polysaccharide conjugated to a CRM197 polypeptide and a S. pneumoniae serotype 23F polysaccharide conjugated to a CRM197 polypeptide.
+
+14. The formulation of anyone of claims 1 to 10 wherein the polysaccharide-protein conjugate formulation is a 13-valent pneumococcal conjugate (13vPnC) formulation comprising a S. pneumoniae serotype 4 polysaccharide conjugated to a CRM197 polypeptide a S. pneumoniae serotype 6B polysaccharide conjugated to a CRM197 polypeptide a S. pneumoniae serotype 9V polysaccharide conjugated to a CRM197 polypeptide a S. pneumoniae serotype 14 polysaccharide conjugated to a CRM197 polypeptide a S. pneumoniae serotype 18C polysaccharide conjugated to a CRM197 polypeptide a S. pneumoniae serotype 19F polysaccharide conjugated to a CRM197polypeptide a S. pneumoniae serotype 23F polysaccharide conjugated to a CRM197 polypeptide a S. pneumoniae serotype 1 polysaccharide conjugated to a CRM197 polypeptide a S. pneumoniae serotype 3 polysaccharide conjugated to a CRM197 polypeptide a S. pneumoniae serotype 5 polysaccharide conjugated to a CRM197 polypeptide a S. pneumoniae serotype 6A polysaccharide conjugated to a CRM197 polypeptide a S. pneumoniae serotype 7F polysaccharide conjugated to a CRM197 polypeptide and a S. pneumoniae serotype 19A polysaccharide conjugated to a CRM197 polypeptide.
+
+15. A siliconized container means filled with the formulation of anyone of claims 1 to 14.
+
+16. The container means of claim 31 wherein said container is a syringe.
+
+
+2.10.
+Wyeth heeft op 31 maart 2006 de internationale aanvrage WO 2006/110381 (hierna: WO 381) ingediend met inroeping van de prioriteit van US 60/669605 van 8 april 2005. Deze aanvrage voor een “Multivalent pneumococcal polysaccharide-protein conjugate composition" is gepubliceerd op 19 oktober 2006. In deze aanvrage is onder meer het volgende opgenomen:  
+
+[op pagina 15 regels 12-20:]
+In a particular embodiment of the present invention the 13vPnC vaccine is a sterile liquid formulation of pneumococcal capsular polysaccharides of serotypes 1 3 4 5 6A 6B 7F 9V 14 18C 19A 19F and 23F individually conjugated to 15 CRM197. Each 0.5 mL dose is formulated to contain: 2 pg of each saccharide except for 6B at 4 pg; approximately 29 pg CRM197 carrier protein; 0.125 mg of elemental aluminum (0.5 mg aluminum phosphate) adjuvant; and sodium chloride and sodium succinate buffer as excipients. The liquid is filled into single dose syringes without a preservative. After shaking the vaccine is a homogeneous white 20 suspension ready for intramuscular administration.
+ 
+
+[en op pagina 42:]
+
+Example 15
+
+
+Formulation of a Multivalent Pneumococcal Conjugate Vaccine
+
+The final bulk concentrates of the 13 conjugates contain 0.85% sodium chloride. Type 3 6A 7F and 19A bulk concentrates also contain 5 mM sodium succinate buffer at pH 5.8. The required volumes of bulk concentrates were calculated based on the batch volume and the bulk saccharide concentrations. After 80% of the 0.85% sodium chloride (physiological saline) and the required amount of succinate buffer were added to the pre-labeled formulation vessel bulk concentrates were added. The preparation was then sterile filtered through a 0.22 µm membrane into a second container by using a Millipore Durapore membrane filter unit. The first container was washed with the remaining 20% of 0.85% sodium chloride and the solution was passed through the same filter and collected into the second container. The formulated bulk was mixed gently during and following the addition of bulk aluminum phosphate. The pH was checked and adjusted if necessary. The formulated bulk product was stored at 2-8°C.
+The formulated bulk product was filled into Type 1 borosilicate glass syringes obtained from Becton Dickinson. The vaccine was monitored at regular intervals for turbidity to ensure the uniformity of the filling operation. The filled vaccine (Final Product) was stored at 2-8°C.
+ 
+
+
+
+
+3 Het geschil 
+
+3.1.
+MSD vordert dat de rechtbank het Nederlandse deel van EP 679 vernietigt met veroordeling uitvoerbaar bij voorraad van Wyeth in de volledige proceskosten op de voet van art. 1019h Rv1 te vermeerderen met nakosten en wettelijke rente wanneer die kosten niet binnen veertien dagen na het wijzen van dit vonnis betaald zijn. 
+
+
+3.2.
+Na aanvulling van gronden van eis legt zij aan deze vordering ten grondslag dat EP 679 zoals verleend en in de vorm van het hoofd- en hulpverzoek zoals door Wyeth in deze procedure nog uitsluitend verdedigd niet nieuw niet inventief en niet nawerkbaar is. Met betrekking tot het hoofd- en hulpverzoek voert zij voorts aan dat die verzoeken niet toelaatbaar zijn onder meer omdat die verzoeken niet duidelijk zijn in de zin van art. 84 EOV2 en ongeoorloofde toegevoegde materie bevatten in de zin van de artikelen 123 lid 2 76 lid 1 en 138 lid 1 sub c EOV en art. 75 lid 1 sub c ROW3. 
+
+
+3.3.
+Wyeth voert verweer strekkende tot afwijzing van de vorderingen met veroordeling van MSD in de volledige proceskosten op grond van art. 1019h Rv te vermeerderen met wettelijke rente. 
+
+
+
+
+4 De beoordeling
+Bevoegdheid
+
+4.1.
+De rechtbank is internationaal exclusief bevoegd kennis te nemen van de vordering tot vernietiging van het Nederlandse deel van EP 679 (hierna ook: EP 679 NL) op grond van artikel 24 lid 4 Brussel I bis-Vo.4 De relatieve bevoegdheid berust op artikel 80 lid 1 sub a ROW.  
+
+
+Het octrooi als verleend
+
+ 
+
+
+4.2.
+De in het octrooi geclaimde uitvinding ziet op een gesiliconiseerd houdermiddel gevuld met een formulering voor een pneumokokken-vaccin. Het werkzame bestanddeel van het vaccin (hierna ook: het immunogeen) - andere aan de formulering toegevoegde stoffen worden (ook) aangeduid als hulpstoffen of adjuvants - bestaat uit één of meer pneumokokkenpolysachariden die zijn gekoppeld aan een (drager)eiwit waarbij een polysacharide-eiwitconjugaat wordt gevormd. De geclaimde formulering ziet in het bijzonder op de remming van silicone-geïnduceerde aggregatie van een pneumokokkenpolysacharide-eiwitconjugaat in een gesiliconiseerd houdermiddel. Die remming wordt - volgens de leer van EP 679 zoals vervat in (de enige onafhankelijke) conclusie 1 - verkregen door in de formulering van het immunogeen een pH-gebufferde zoutoplossing en een aluminiumzout te combineren (zie ook [0017] van het octrooi welke paragraaf correspondeert met pagina 7 r. 6 t/m 10 van WO 665 weergegeven in 2.6). 
+
+
+Terugtrekking op hulpverzoeken en het rechtsgevolg daarvan
+
+ 
+
+
+4.3.
+Bij conclusie van antwoord heeft Wyeth te kennen gegeven in deze procedure de conclusies van EP 679 zoals verleend niet te verdedigen maar zich primair te baseren op de conclusies van het tweede hulpverzoek zoals ingediend in het kader van de oppositieprocedure bij het EOB. Dat hulpverzoek geldt aldus Wyeth in Nederland als ‘hoofdverzoek’. Subsidiair beroept zij zich op een hulpverzoek dat door haar in de oppositieprocedure als derde hulpverzoek is ingediend. De terugval-posities worden hierna tezamen aangeduid als de ‘hulpverzoeken’ en afzonderlijk als het ‘hoofdverzoek’ en het ‘hulpverzoek’.  
+
+
+4.4.
+Wyeth voert aan dat zij het octrooi zoals verleend niet verdedigt om een ‘uiteindelijk vruchteloze discussie over de nieuwheid ten opzichte van WO 381 (zie 2.10) een oudere internationale octrooiaanvrage van Wyeth die art. 54(3) EOV stand van de techniek vormt ‘te vermijden’. Wyeth heeft geen inhoudelijk verweer gevoerd tegen (onder meer) de op WO 381 gebaseerde niet-nieuwheidsargumenten van MSD tegen het octrooi zoals verleend. 
+
+
+4.5.
+Anders dan Wyeth lijkt te betogen brengt haar keuze de geldigheid van de conclusies zoals verleend in Nederland niet te verdedigen mee dat het ervoor moet worden gehouden dat die conclusies ongeldig zijn. De terugtrekking op de hulpverzoeken kan wat betreft rechtsgevolgen immers gelijk worden gesteld met afstand van EP 679 NL zoals verleend. Een ander oordeel zou betekenen dat de terugtrekking op de - ten opzichte van het octrooi qua beschermingsomvang beperktere - hulpverzoeken in feite geen betekenis heeft.  
+
+
+4.6.
+Ter beoordeling staat of EP NL 679 volgens de hulpverzoeken er toe kan leiden dat het octrooi in de daarin voorgestelde beperktere vorm(en) voor Nederland in stand kan blijven. De rechtbank stelt voorop dat de nationale rechter aan wie in een nietigheidsprocedure een hulpverzoek wordt voorgelegd in feite de rol vervult van de verlenende instantie. Een eerder verleend octrooi wordt door een hulpverzoek als bedoeld in art. 138 lid 3 EOV immers gewijzigd zonder dat die wijziging in de verleningsfase aan de daarvoor geldende voorwaarden is getoetst. De rechter aan wie het hulpverzoek wordt voorgelegd dient dan de voorgestelde beperking(en) aan de voorwaarden die gelden voor wijziging na verlening te toetsen.5 
+
+
+De hulpverzoeken
+
+ 
+
+
+4.7.
+Conclusie 1 van het (alleen in het Engels beschikbare) hoofdverzoek luidt onderverdeeld in (deel)kenmerken6 als volgt:7 
+
+a. A siliconized container means
+b. filled with a formulation which inhibits silicone induced aggregation of a polysaccharide- protein conjugate
+c. comprised in a siliconized container means
+d. the formulation comprising 		(i) a pH buffered saline solution wherein the buffer has a pKa of about 3.5 to about 7.5
+e. (ii) an aluminium salt 
+f. (iii) a surfactant; and
+g. (iv) one or more polysaccharide-protein conjugates
+h. wherein the polysaccharide-protein conjugate comprises one or more pneumococcal polysaccharides
+ 
+
+
+4.8.
+Onafhankelijke conclusie 1 van het (eveneens alleen in het Engels gestelde) hulpverzoek verschilt uitsluitend van conclusie 1 van het hoofdverzoek door toevoeging van een limitatieve lijst van oppervlakte-actieve stoffen (hierna ook: surfactants) aan kenmerk f. Deelkenmerk f. van conclusie 1 van het hulpverzoek luidt als volgt:8 
+
+f. (iii) a surfactant selected from the group consisting of polysorbate 20 (Tween™20) polysorbate 40 (Tween™40) polysorbate 60 (Tween™60) polysorbate 65 (Tween ™65) polysorbate 80 (Tween™80) polysorbate 85 (Tween™85) Triton™ N-101 Triton™ X-100 oxtoxynol 40 nonoxynol-9 triethanolamine triethanolamine polypeptide oleate polyoxyethylene-660 hydroxystearate (PEG-15 Solutol H15) polyoxyethylene-35-ricinoleate (Cremophor EL™) soy lecithin or a poloxamer; and
+ 
+
+
+4.9.
+De verdere conclusies van beide hulpverzoeken zijn zoals gezegd identiek. Conclusies 2 t/m 7 en 9 t/m 11 van de hulpverzoeken zijn gelijkluidend aan de corresponderende conclusies van EP 679 zoals verleend (zie 2.3). Conclusie 8 van de hulpverzoeken bevat de volgende wijziging ten opzichte van conclusie 8 zoals verleend9:  
+
+8.	The siliconized container means of  anyone of claims 1 to 7 any preceding claim wherein the formulation further surfactant comprises polysorbate 80 (Tween™80).
+ 
+
+Conclusie 12 van het octrooi zoals verleend komt niet terug in de hulpverzoeken waardoor conclusies 13 t/m 15 van het octrooi zoals verleend zijn vernummerd tot conclusies 12 t/m 14 in de hulpverzoeken zonder tekstuele wijzigingen. Ook deze conclusies zijn afhankelijk van conclusie 1. 
+ 
+
+
+4.10.
+In de hulpverzoeken is een nieuwe onafhankelijke gebruiksconclusie 15 opgenomen. De eveneens nieuw toegevoegde gebruiksconclusies 16 en 17 zijn daarvan afhankelijk alsook van conclusie 1 (en volgconclusies). Conclusies 15 t/m 17 van de hulpverzoeken luiden:  
+15. Use of a formulation to inhibit silicone induced aggregation of a polysaccharide-protein conjugate in a formulation comprised in a siliconized container means the formulation comprising 
+( i) a pH buffered saline solution wherein the buffer has a pKa of about 3.5 to about 
+
+7.5 
+(ii) an aluminium salt and
+(iii) one or more polysaccharide-protein conjugates 
+wherein the polysaccharide-protein conjugate comprises one or more pneumococcal polysaccharides.
+ 
+16. Use according to claim 15 wherein the formulation is a formulation according to any one of claims 1 to 12. 
+17. Use according to claim 15 or claim 16 wherein the siliconized container means is a container means according to claim 13 or claim 14. 
+
+
+4.11.
+Ten opzichte van het octrooi zoals verleend zijn de enige materiële wijzigingen derhalve de toevoeging van een surfactant aan conclusie 1 (kenmerk 1.f) en de introductie van gebruiksconclusies 15 16 en 17. Met conclusie 15 wordt toevoeging van een tweede onafhankelijke conclusie aan het octrooischrift voorgesteld. In deze conclusie wordt het gebruik van een formulering voor polysacharide-eiwitconjugaten volgens het octrooi zoals verleend geclaimd derhalve zonder toevoeging van een surfactant (vgl. kenmerk 1.f).  
+
+
+Geldigheid van conclusie 1 van EP 679 volgens de hulpverzoeken
+
+ 
+
+
+4.12.
+De stelling van MSD dat conclusie 1 van EP 679 volgens de tekst van de hulpverzoeken geen geldigheid kan verschaffen aan het octrooi omdat sprake is van ongeoorloofde toegevoegde materie slaagt. Daartoe is het volgende redengevend. 
+
+
+4.13.
+In artikel art. 75 lid 1 aanhef en onder c ROW is in navolging van de artikelen 123 lid 2 en 138 lid 1 aanhef en onder c EOV voor zover van belang bepaald dat een octrooi door de rechter wordt vernietigd wanneer het onderwerp van het octrooi niet wordt gedekt door de inhoud van de ingediende aanvrage of indien het octrooi is verleend op een afgesplitste aanvrage (tevens) door de inhoud van de oorspronkelijke aanvrage. In dat geval is sprake van ongeoorloofde toegevoegde materie. Om vast te stellen of dit het geval is wordt volgens vaste rechtspraak (in navolging van het EOB) de zogenoemde ‘disclosure test’ ook wel de ‘gouden standaard’ gebruikt. Deze toets houdt in dat moet worden beoordeeld of de gemiddelde vakman als gevolg van een (voorgestelde) wijziging (hier: door middel van een hulpverzoek) technisch relevante informatie verschaft wordt die hij met zijn algemene vakkennis niet rechtstreeks en ondubbelzinnig impliciet dan wel expliciet uit de oorspronkelijk ingediende aanvrage en in dit geval tevens uit de afgesplitste aanvrage kan afleiden. Daarbij dient de gehele aanvrage in aanmerking te worden genomen. De ratio van dit geldigheidsbezwaar is dat de octrooihouder in verband met de rechtszekerheid voor derden zijn rechtspositie niet mag verbeteren door bescherming te claimen voor materie die niet is geopenbaard in de oorspronkelijke (en de afgesplitste) aanvrage. Deze (diclosure) test geldt niet alleen voor toegevoegde materie maar is ook de toets voor de vaststelling of sprake is van dezelfde uitvinding in verband met een beroep op prioriteit en met enkele kanttekeningen voor nieuwheid.10 
+
+- de vakman 
+
+
+
+4.14.
+Partijen twisten met name in het kader van nieuwheid en inventiviteit over wie als de gemiddelde vakman (hierna ook: ‘de vakman’) moet worden aangemerkt een algemeen formuleringsdeskundige zoals MSD bepleit of een formuleringsdeskundige op het specifieke gebied van vaccins die (vrijwel) uitsluitend algemene vakkennis heeft op dat gebied zoals Wyeth voorstaat. Voor de navolgende beoordeling van toegevoegde materie kan in het midden blijven wie van die twee als relevante vakman moet worden aangemerkt dat wil zeggen of de vakman al dan niet ook beschikt over (aanvullende) algemene kennis op het gebied van het formuleren van geneesmiddelen omdat dit niet tot een andere uitkomst kan leiden. Dat is het geval omdat voor de beoordeling uitsluitend specifieke kennis van de vakman met betrekking tot het formuleren van (polysacharide-eiwitconjugaat bevattende) vaccins relevant is over welke algemene vakkennis beide typen vakmannen beschikken.   
+
+
+4.15.
+De (deskundigen van) partijen zijn het er over eens dat tot de algemene vakkennis van de vakman behoort om zeer behoudend te werk te gaan bij het formuleren van een vaccin waarbij de vakman er naar zal streven om die formulering zo simpel mogelijk te houden. Dit gelet op het bijzonder karakter van vaccins waarbij bijwerkingen in het algemeen niet acceptabel zijn De vakman weet op basis van zijn algemene vakkennis ook naar (door de deskundigen van MSD met verwijzing naar het handboek Akers) onbetwist is gesteld dat dit geldt voor alle eiwit-bevattende formuleringen. De vakman zal geen componenten in de formulering opnemen die niet noodzakelijk zijn en aan een vaccin-formulering slechts hulpstoffen toevoegen die al eerder zijn goedgekeurd voor en naar Wyeth benadrukt eerder zijn gebruikt in vaccins. De deskundige van Wyeth heeft in dit verband in reactie op de verklaring van deskundigen van MSD het volgende verklaard:  
+
+“12. In paragraph 13 MSD’s Experts state that “formulators will adopt a conservative approach to vaccine formulation” and refer to the following quote from Akers (Exhibit EP49): “The best formulation strategy is to keep the formulation as simple as possible to have a clear reason for including each additive and if possible to use excipients that have previously been used in Food and Drug Administration (FDA)-approved formulations.” I generally agree with the sentiment (I discuss this in more detail at paragraphs 44 and 61 to 63 of my First UK Report) but I would qualify this by adding that the skilled vaccine formulator would wish to only use excipients that had previously been
+used in approved vaccine formulations.”
+ 
+
+- de aanvragen
+
+
+
+4.16.
+Nu het er om gaat vast te stellen wat de hiervoor bedoelde vakman duidelijk en ondubbelzinnig met gebruikmaking van zijn algemene vakkennis zal afleiden uit de aanvragen wordt eerst besproken wat de aanvragen in algemene zin openbaren. Daarover bestaat tussen partijen behoudens voor zover hierna in 4.24 e.v. besproken geen geschil nu Wyeth het betoog van MSD dienaangaande niet althans niet gemotiveerd heeft betwist.  
+
+
+4.17.
+Aanvrage WO 665 ziet op formuleringen voor een aantal verschillende immunogenen ten behoeve van vaccins. In de aanvrage zijn zes uitvoeringsvormen (hierna ook ‘embodiments’) van formuleringen geopenbaard die in zes corresponderende sets van conclusies uitmonden (zie 2.7). Slechts twee van die uitvoeringsvormen de eerste en de derde zien net als het octrooi op polysacharide-eiwitconjugaten. De andere uitvoeringsvormen zien op twee andere (groepen van) immunogenen: SCP (embodiments 2 en 4) en N. meningitidis 2086 (embodiments 5 en 6). Voor elk soort immunogeen zijn twee afzonderlijke uitvoeringsvormen beschreven die uitmonden in afzonderlijke conclusie-sets met steeds één hoofdconclusie. Voor polysacharide-eiwitconjugaten zijn dit de in hoofdconclusies 1 en 24 geclaimde uitvoeringsvormen hieronder (nogmaals) weergegeven:  
+1. A formulation which stabilizes a polysaccharide-protein conjugate the formulation comprising (i) a pH buffered saline solution wherein the buffer has a pKa of about 3.5 to about 7.5 (ii) a surfactant and (iii) one or more polysaccharide-protein conjugates.
+(…)
+24. A formulation which inhibits silicone induced aggregation of a polysaccharide-protein conjugate comprised in a siliconized container means the formulation comprising (i) a pH buffered saline solution wherein the buffer has a pKa of about 3.5 to about 7.5 (ii) an aluminum salt and (iii) one or more polysaccharide-protein conjugates. 
+
+
+4.18.
+De eerste uitvoeringsvorm die overeenkomt met conclusie 1 van de aanvrage WO 665 is beschreven op pagina. 3 regel 20 t/m pagina 5 regel 33 van WO 665 (zie 2.6) en ziet volgens het mee-geclaimde functionele kenmerk op een formulering gericht op het stabiliseren van polysacharide-eiwitconjugaten. Deze formulering bevat (i) een buffer en (ii) een surfactant. WO 665 bevat gelijkluidende conclusies met betrekking tot de andere immunogenen (hoofdconclusie 14 voor SCP en hoofdconclusie 37 voor N. meningiditis 2086). 
+
+
+4.19.
+De uitvoeringsvorm volgens hoofdconclusie 24 van WO 665 (beschreven op pagina 7 regel 6 t/m pagina 9 regel 8 van WO 665) claimt een formulering gericht op de remming van silicone-geïnduceerde aggregatie van polysacharide-eiwitconjugaten. Deze formulering bevat (i) een buffer en (ii) een aluminiumzout. De vakman leest in de aanvrage dat het probleem van silicone-geïnduceerde aggregatie veelal optreedt ten gevolge van de vereiste aanwezigheid van silicone in de houdermiddelen van vaccins zoals injectiespuiten. WO 665 bevat gelijkluidende conclusies met betrekking tot de andere immunogenen (conclusie 31 voor SCP en conclusie 40 met betrekking tot N. meningiditis 2086).  
+
+
+4.20.
+De vakman leert hieruit dat de beide geclaimde soorten uitvoeringsvormen volgens de aanvrage WO 665 verschillen in functionaliteit en hulpstoffen: om het geclaimde functionele kenmerk ‘stabilisatie’ te bereiken moet kennelijk een surfactant als hulpstof aan de formulering worden toegevoegd en om de ‘remming van silicone-geïnduceerde aggregatie’ te verkrijgen een aluminium-zout.  
+
+
+4.21.
+De beschrijving van de afgesplitste aanvrage EP 679 A2 die heeft geleid tot het octrooi is identiek aan die van de aanvrage WO 665 (zie 2.9). Echter na de afsplitsing zijn uitsluitend conclusies die zien op het derde embodiment (conclusies 24 t/m 27 in WO 665) in iets aangepaste en uitgebreidere vorm gehandhaafd (zie 2.8 en 2.9). De hoofdconclusie van EP 679 A2 waarvan alle andere conclusies afhankelijk zijn is hieronder herhaald:  
+1. A formulation which inhibits silicone induced aggregation of a polysaccharide- protein conjugate comprised in a siliconized container means the formulation comprising 
+
+(i) a pH buffered saline solution wherein the buffer has a pKa of about 3.5 to about 7.5 
+(ii) an aluminum salt and 
+(iii) one or more polysaccharide-protein conjugates.
+ 
+
+EP 679 A2 openbaart derhalve aan de vakman een formulering voor een vaccin met (als immunogeen) polysacharide-eiwitconjugaten gericht op de ‘remming van silicone-geïnduceerde aggregatie’ die kennelijk wordt verkregen door de combinatie van een buffer en een aluminium-zout. De immunogenen SCP en N. meningiditis 2086 zijn voor de afsplitste aanvrage niet relevant. De passages met betrekking daartoe zijn dan ook (grotendeels) verwijderd uit de beschrijving van het octrooi zoals verleend. 
+ 
+
+
+4.22.
+De conclusies uit de aanvrage WO 665 die zien op de stabilisatie van een formulering met polysacharide-eiwitconjugaten door toevoeging van een surfactant (conclusies 1 e.v.) maken geen onderdeel uit van de geclaimde conclusies volgens de afgesplitste aanvrage EP 679 A2. Wel is in twee onderconclusies van EP 679 A2 een specifiek surfactant namelijk polysorbate 80 (Tween™80) onder bescherming gesteld (conclusies 8 en 9) in combinatie met het in de conclusies vervatte derde embodiment. Dit was ook het geval in WO 665 (zie conclusie 26 weergegeven in 2.8). Conclusie 8 van EP 679 A2 die hier volledigheidshave nogmaals is opgenomen luidt:  
+
+8. The formulation of anyone of claims 1 to 7 wherein the formulation further comprises polysorbate 80 (Tween™80). 
+
+In conclusie 9 wordt dat specifieke surfactant nog in een bepaalde concentratie-range geclaimd.
+ 
+- kenmerk 1.f van de hulpverzoeken
+
+
+4.23.
+Conclusie 1 van EP 679 (zoals verleend) stelt onder bescherming een gesiliconiseerde houder gevuld met de formulering van conclusie 1 van aanvrage WO 665 en afgesplitste aanvrage EP 679 A2 met de beperking dat het polysacharide-eiwitconjugaat één of meer pneumokokken-polysachariden bevat. Ten opzichte van conclusie 1 van EP 679 zoals verleend is de enige materiële wijziging in de tekst volgens de voorgestelde hulpverzoeken de toevoeging van kenmerk 1.f te weten de toevoeging van een derde hulpstof (iii) een oppervlakte actieve stof (surfactant) aan de formulering naast (i) een pH-gebufferde zoutoplossing en (ii) een aluminiumzout.11 In het hoofdverzoek wordt zoals gezegd een surfactant in algemene zin geclaimd in het hulpverzoek is de claim beperkt tot een specifieke lijst surfactants.  
+
+
+4.24.
+Partijen houdt verdeeld of de vakman de aldus voorgestelde wijziging(en) impliciet dan wel expliciet maar duidelijk en ondubbelzinnig met gebruikmaking van zijn algemene vakkennis uit de aanvragen zal afleiden. 
+
+
+4.25.
+Als basis voor de toevoeging van kenmerk 1.f. heeft Wyeth in eerste instantie gewezen op drie passages in de aanvrage WO 665: pagina 3 regels 20-30 pagina 4 regels 3-9 en pagina 5 regels 32 en 33.12 Deze passages uit de beschrijving zien alle drie op de eerste uitvoeringsvorm (zie 4.17). 
+
+
+4.26.
+Met MSD is de rechtbank van oordeel dat deze passages geen basis bieden voor de combinatie van een surfactant (kenmerk 1.f) een buffer (kenmerk 1.d) en een aluminiumzout (kenmerk 1.e) in één formulering om silicone-geïnduceerde aggregatie van pneumokokkenpeptide-bevattende (kenmerk 1.g) polysacharide-eiwitconjugaten te remmen (kenmerk 1.b).  
+
+
+4.27.
+In de eerste twee genoemde passages is geen sprake van de combinatie van een surfactant met een aluminiumzout. In de derde als basis ingeroepen passage op pagina 5 staat aan het slot van de beschrijving van de eerste uitvoeringsvorm:  
+
+In certain other embodiments the formulation further comprises one or more adjuvants. Exemplary suitable adjuvants are described herein below.
+ 
+
+Die passage leert de vakman dat aan de formulering van de eerste uitvoeringsvorm een hulpstof kan worden toegevoegd. Voor voorbeelden van geschikte hulpstoffen ‘described herein below’ wordt kennelijk verwezen naar de algemene definitie van adjuvants op pagina’s 19 en 20 van WO 665. Daar worden onder het kopje ‘Adjuvants’ te midden van een opsomming van zeer veel voorbeelden van hulpstoffen aluminium zouten genoemd (op pagina 20). Echter de vakman die het octrooi leest leert uit de geciteerde passage het gehele octrooischrift in aanmerking nemend expliciet noch impliciet dat aan de surfactant-bevattende formulering van de eerste uitvoeringsvorm - die dient ter stabilisering van de polysacharide-eiwitconjugaten - specifiek een aluminium-zout als hulpstof moet worden toegevoegd en dat door die toevoeging de formulering (tevens) silicone-geïnduceerde aggregatie van de polysacharide-eiwitconjugaten remt zoals kenmerk 1.b van conclusie 1 vereist. Ook begrijpt de vakman uit die passage niet dat de remmende werking op silicone-geïnduceerde aggregatie van polysacharide-eiwitconjugaten wordt bereikt door de combinatie van een surfactant en een aluminimum zout (met een buffer) in dezelfde formulering zoals in de hulpverzoeken geclaimd. De aanvragen zijn immers gericht op twee afzonderlijke uitvindingsgedachten neergelegd in twee onderscheiden embodiments; één in een formulering die een surfactant bevat ter stabilisatie van een immunogeen en de ander in een formulering met een aluminiumzout om silicone-geïnduceerde aggregatie tegen te gaan. Expliciete aanwijzingen voor de bedoelde combinatie ontbreken en zijn door Wyeth ook niet gesteld. De vakman zal ook niet impliciet met gebruikmaking van zijn algemene vakkennis – die volgens de deskundigen van beide partijen juist terughoudendheid meebrengt bij het toevoegen van een extra (hulp)stof aan een vaccin-formulering - uit de aanvrage afleiden dat een surfactant een aluminiumzout en een buffer gecombineerd moeten worden om de gewenste remmende werking op silicone-geïnduceerde aggregatie te verkrijgen. Uit wat Wyeth’s deskundige verklaart volgt veeleer dat de vakman zich juist zorgen zou maken dat bij een combinatie van een surfactant en een aluminium-adjuvans de eerste stof de werking van de tweede nadelig zou kunnen beïnvloeden.
+ 
+
+
+4.28.
+De rechtbank neemt bij het voorgaande in aanmerking dat het functionele kenmerk 1.b (het remmen van silicone-geïnduceerde aggregatie) onderdeel uitmaakt van de conclusie. Wyeth onderschrijft onder meer in het kader van nieuwheid dat dit kenmerk een relevante factor is voor de reikwijdte van de conclusies in de zin dat de (aanvullende) maatregelen van de conclusies daarvan niet los zijn te zien. Zoals zij zelf aanvoert zou het geclaimde polysacharide-eiwitconjugaat in een gesiliconiseerd houdermiddel zonder de overige geclaimde maatregelen door de aanwezigheid van silicone aggregeren. Het remmen van die aggregatie is in de aanvragen met betrekking tot een aluminiumzout expliciet geopenbaard en proefondervindelijk geïllustreerd in verschillende experimenten die in het octrooischrift zijn opgenomen (voorbeelden 3 en 4). Echter over de combinatie van een surfactant met een aluminiumzout leren de aanvragen de vakman niet dat dit een remmende werking heeft op silicone-geïnduceerde aggregatie. Wyeth heeft ook niet betoogd dat dit behoort tot zijn algemene vakkennis.  
+
+
+4.29.
+De algemene passages uit WO 665 waarop Wyeth in haar pleitnota heeft gewezen doen hier niet aan af. De passages waarop zij doelt zijn:  
+
+“Thus the present invention broadly relates to novel surfactant formulations and/or novel aluminum salt formulations which stabilize and inhibit precipitation of immunogenic compositions.” (uit de algemene inleiding op pagina 13)
+ 
+
+en 
+ 
+
+“The novel formulations of the invention not only stabilize immunogenic compositions against physical/thermal stresses (e.g. temperature humidity shear forces etc.) they also enhance stability and inhibit precipitation of immunogenic compositions against negative factors or influences such as incompatibility of the immunogenic composition with the container/closure system (e.g. a siliconized container means).” (pagina’s 18 onderaan 19 bovenaan). 
+ 
+
+In het licht van de in de gehele aanvragen beschreven leer met twee aparte categorieën embodiments zal de vakman uit de algemene bewoordingen van die passages niet duidelijk en ondubbelzinnig afleiden dat de remmende werking op silicone-geïnduceerde aggregatie van polysacharide-eiwitconjugaten behaald kan worden door de combinatie van een surfactant en een aluminimum zout in dezelfde formulering. 
+ 
+
+
+4.30.
+
+De passage op pagina 7 (regels 27-30 zie 2.6) van WO 665 waarop Wyeth zich in de pleitnota aanvullend beroept als basis voor kenmerk 1.f leert de vakman dat aan uitvoeringsvorm 3 die aluminiumzout bevat in bepaalde uitvoeringen ook ‘polysorbate 80 (Tween™80)’ als further ingrediënt kan worden toegevoegd. Niet in geschil is dat polysorbaat 80 een surfactant is en wel één van de surfactants genoemd in kenmerk 1.f van het hulpverzoek. Wyeth heeft echter niet toegelicht wat de basis is voor het veralgemeniseren van deze specifieke surfactant naar oppervlakte-actieve stoffen in algemene zin dan wel andere specifieke oppervlakte-actieve stoffen. De vakman die bij het formuleren van vaccins conservatief te werk gaat en zo min mogelijk hulpstoffen aan de formulering wil toevoegen zal niet impliciet uit de aanvrage afleiden dat de toevoeging van polysorbaat 80 aan de hier relevante formulering gelijk is te stellen aan de toevoeging van (andere) oppervlakte-actieve stoffen. Dit is te minder het geval wanneer er met Wyeth en haar deskundige vanuit wordt gegaan dat het gebruik van een surfactant als hulpstof in een vaccin met name ook een polysacharide eiwit-conjugatenvaccin ten tijde van de aanvragen ongebruikelijk was. Het moet er dan ook voor worden gehouden dat de betreffende passage geen basis biedt voor de in conclusie 1 van het hoofdverzoek geclaimde surfactant in algemene zin noch voor de lijst surfactants uit het hulpverzoek omdat dat een ongeoorloofde intermediate generalisation zou zijn. 
+Deze passage in de aanvragen leert de vakman ook niet duidelijk en ondubbelzinnig dat de toevoeging van polysorbaat 80 aan uitvoeringsvorm 3 ertoe leidt dat het polysorbaat 80 (in combinatie met het aluminiumzout) bijdraagt aan het geclaimde effect van het remmen van silicone-geïnduceerde aggregatie. Dat brengt mee dat er ook geen basis is om conclusie 1 van de hulpverzoeken beperkt tot de specifieke surfactant polysorbaat 80 geldig te achten. 
+ 
+
+
+4.31.
+Wyeth heeft tijdens de zitting aanvullend nog gewezen op enkele andere passages in de beschrijving van de aanvragen met name op pagina 19 van WO 665 aan het slot van de passage over ‘B. Container Means’ waaruit zou blijken dat een surfactant silicone-geïnduceerde aggregatie van polysacharide-eiwitconjugaten kan remmen. Wat daar ook van zij dit kan haar niet baten omdat die passages de vakman niet leren dat een surfactant met een aluminiumzout gecombineerd kan of moet worden om dat doel te bereiken.  
+
+
+4.32.
+Tot slot heeft Wyeth bij pleidooi een beroep gedaan op een uitspraak van de Technische Kamer van Beroep van het EOB (T 40/97) zonder dit precies uit te werken. De rechtbank leest in die uitspraak niet een aanwijzing dat de twee afzonderlijke uitvoeringsvormen 1 en 3 die zien op verschillende functionele en deels ook structurele kenmerken in dit geval gecombineerd kunnen worden wanneer daarvoor geen duidelijke en ondubbelzinnige basis is te vinden in de aanvragen. Voor zover Wyeth daarmee betoogt dat de twee embodiments equivalenten zijn heeft zij wat daar ook van zij niet althans onvoldoende toegelicht wat zij daarmee bedoelt.   
+
+- slotsom
+
+
+
+4.33.
+Een en ander brengt mee dat de vakman als gevolg van de toevoeging van kenmerk 1.f in de hulpverzoeken technisch relevante informatie verschaft wordt te weten dat de hulpstoffen genoemd in kenmerken 1.d e en f (respectievelijk een buffer een aluminiumzout en een surfactant) gecombineerd in één formulering silicone-geïnduceerde aggregatie van pneumokokkenpolysacharide-eiwitconjugaten remmen. Die informatie kan hij gebruik makend van zijn algemene vakkennis niet rechtstreeks en ondubbelzinnig impliciet dan wel expliciet uit de oorspronkelijk aanvragen afleiden zodat sprake is van ongeoorloofde toegevoegde materie. De toevoeging van kenmerk 1.f aan conclusie 1 van EP 679 zoals verleend kan het octrooi dan ook geen geldigheid verschaffen.  
+
+
+Geldigheid van de volgconclusies
+
+ 
+
+
+4.34.
+Nu conclusies 2 t/m 14 afhankelijk zijn van conclusie 1 kunnen ook deze conclusies EP 679 NL geen geldigheid verschaffen. Voor zover conclusies 16 en 17 afhankelijk zijn van conclusie 1 treft die conclusies hetzelfde lot. Wyeth heeft in het kader van toegevoegde materie de geldigheid van deze conclusies ook niet apart verdedigd. 
+
+
+Geldigheid van conclusie 15 van de hulpverzoeken
+
+ 
+
+
+4.35.
+Conclusie 15 van de hulpverzoeken is een onafhankelijke gebruiksconclusie die ziet op het gebruik van (‘use of’) een formulering volgens conclusie 1 van EP 679 zoals verleend (derhalve zonder toevoeging van een surfactant). Nu Wyeth niet gemotiveerd heeft betwist dat oorspronkelijke conclusie 1 nieuwheid ontbeert ten opzichte van WO 381 moet worden aangenomen dat die conclusie die ziet op de formulering in een gesiliconiseerde houder niet nieuw is ten opzichte van WO 381.  
+
+
+4.36.
+Dat betekent het volgende voor de geldigheid van conclusie 15 van de hulpverzoeken. Voor zover al moet worden aangenomen dat het geoorloofd is om zonder aanwijsbare reden (lees: de aangevoerde nietigheidsgronden vormen daarvoor geen aanleiding) een tweede onafhankelijke conclusie te introduceren in een hulpverzoek geldt dat het gebruik van een stof waarvan vaststaat dat deze niet nieuw is een claim geen nieuwheid kan verschaffen. Dit is anders wanneer sprake is van een second-medical use maar dat is hier niet aan de orde. Bovendien zal een vakman die WO 381 leest met gebruikmaking van zijn algemene vakkennis begrijpen dat het de bedoeling is dat de daar geopenbaarde vaccin-formulering wordt gebruikt zodat ook dat gebruik impliciet maar duidelijk en ondubbelzinnig geopenbaard wordt in dat document. Conclusie 15 is dan ook niet nieuw uitgaande van WO 381. 
+
+
+4.37.
+Het octrooi kan dan ook niet worden gehandhaafd in de vorm van conclusie 15 van de hulpverzoeken. Dit geldt gelet ook op wat in 4.33 is overwogen eveneens voor de daarvan afhankelijke conclusies 16 en 17.  
+
+
+Slotsom
+
+ 
+
+
+4.38.
+Een en ander leidt tot de slotsom dat de vordering in conventie zal worden toegewezen. Bij deze stand van zaken behoeven de overige argumenten van partijen geen bespreking . Nu het op de weg van Wyeth ligt om duidelijk te maken dat en waarom de hulpverzoeken haar - in beginsel nietige - octrooi staande kunnen houden en zij daarin niet is geslaagd ligt de nietigheidsvordering voor toewijzing gereed. 
+
+
+Bezwaren Wyeth
+
+ 
+
+
+4.39.
+De rechtbank heeft partijen voorafgaand aan het pleidooi bericht vooralsnog geen aanleiding te zien om de bezwaren van Wyeth tegen een aantal stukken en producties van MSD te honoreren (zie 1.1). Het gaat daarbij in de eerste plaats om de akte houdende wijziging (van de grondslag) van eis tevens uitlating hoofd- en hulpverzoek en het daarbij gevoegde rapport van MSD’s octrooigemachtigde en verder om het bij akte houdende aanvullende producties door MSD in het geding gebrachte deskundigenrapport en de daarbij overgelegde verdere aanvullende producties. Voor zover deze stukken niet zijn betrokken bij de beoordeling is een nadere beslissing hierover niet nodig nu Wyeth niet in haar belangen is geschaad. Voor zover de rechtbank de betreffende stukken wel bij de beoordeling heeft betrokken – waarbij opgemerkt zij dat het debat over toegevoegde materie grotendeels op de zitting is gevoerd – heeft Wyeth geen concrete stellingen/passages benoemd die MSD al bij dagvaarding had kunnen aanvoeren en/of waarop Wyeth niet adequaat heeft kunnen reageren nadat MSD deze na de conclusie van antwoord in reactie op de terugtrekking van Wyeth op de hulpverzoeken naar voren heeft gebracht. Ook in zoverre is Wyeth dus niet in haar belangen geschaad. Het (eveneens algemene) bezwaar tegen het deskundigenrapport van MSD en de daarbij overgelegde verdere aanvullende producties wordt verworpen. Het is in een VRO-procedure niet ongebruikelijk om bij akte houdende overlegging aanvullende producties een uitgebreide deskundigenverklaring in het geding te brengen. Daar komt bij dat het beginsel van hoor en wederhoor niet is geschaad nu Wyeth voldoende gelegenheid heeft gehad om daarop te reageren onder meer met een uitgebreid rapport (22 pagina’s) van haar deskundige.  Voor een aanvullende conclusie na pleidooi zoals door Wyeth verzocht ziet de rechtbank dan ook geen aanleiding omdat het debat op de beslispunten mede gezien de behandeling ter zitting voldoende is uitgekristalliseerd.  
+
+
+Proceskosten
+
+ 
+
+
+4.40.
+Wyeth zal als de in het ongelijk gestelde partij in de proceskosten worden veroordeeld. MSD vordert vergoeding van haar volledige proceskosten op de voet van art. 1019h Rv welke kosten in navolging van de partijafspraak daaromtrent begroot worden op € 150.000. De door MSD gevorderde wettelijke rente over de proceskosten zal als onbestreden worden toegewezen. De kostenveroordeling levert ook voor de nakosten een executoriale titel op.13 Bij gebreke van een opgaaf ziet de rechtbank geen aanleiding deze nu al te begroten.  
+
+
+
+
+5 De beslissing
+De rechtbank 
+
+5.1.
+vernietigt het Nederlandse deel van EP 2 676 678 B1; 
+
+
+5.2.
+veroordeelt Wyeth in de proceskosten aan de zijde van MSD tot op heden begroot op € 150.000 te vermeerderen met de wettelijke rente daarover berekend over het tijdvak vanaf de vijftiende dag na heden tot de dag van volledige betaling 
+
+
+5.3.
+verklaart de proceskostenveroordeling uitvoerbaar bij voorraad 
+
+
+5.4.
+wijst het meer of anders gevorderde af. 
+
+Dit vonnis is gewezen door mr. M.E. Kokke mr. C.T. Aalbers en mr. C. Schüller en in het openbaar uitgesproken door mr. D. Nobel rolrechter op 11 november 2020.
+
+
+
+1
+ Wetboek van Burgerlijke Rechtsvordering
+2
+ Europees Octrooi Verdrag
+3
+Rijksoctrooiwet 1995
+4
+Verordening (EU) 1215/2012 van het Europees Parlement en de Raad van 12 december 2012 betreffende de rechterlijke bevoegdheid de erkenning en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken
+
+5
+ Vgl. HR 19 april 2019 ECLI:NL:HR:2019:650 (HP/Digital Revolution) r.o. 3.4.12.
+6
+ De door MSD voorgestelde onderverdeling van conclusie 1 zoals verleend is door Wyeth niet bestreden. Omdat daarover geen discussie bestaat zijn de door MSD voorgestelde afzonderlijke (deel)kenmerken (d) en (e) met betrekking tot de buffer samengevoegd tot één kenmerk (d).
+7
+ Toevoegingen ten opzichte van conclusie 1 zoals verleend zijn onderstreept en dikgedrukt weergegeven. 
+8
+ Toevoegingen zijn weer onderstreept en dikgedrukt weergegeven.
+9
+Toevoegingen onderstreept en dikgedrukt weergegeven; passages die zijn verdwenen zijn doorgestreept
+10
+ Vgl. AG Van Peursem in zijn conclusie (ECLI:NL:PHR:2016:981) voor HR Sun/Novartis van 14 april 2017 (ECLI:NL:HR:2017:692) sub 2.10 met verwijzing naar de Grote Kamer van Beroep van het EOB G 2/10 van 30 augustus 2011 ECLI:EP:BA:2011:G000210.20110830 (Disclaimers).
+11
+Wyeth en MSD in navolging daarvan betoogt dat sprake is van vier geclaimde componenten die ervoor zouden zorgen dat er minder door siliconen geïnduceerde aggregatie optreedt. Kenmerk g de aanwezigheid van één of meer polysacharide-eiwitconjugaten laat de rechtbank buiten beschouwing omdat dat het immunogeen zelf betreft zodat dit niet bij kan dragen aan het niet aggregeren daarvan; dat is ook niet gesteld.
+12
+ Dit komt overeen met paragrafen [0009] [0011] en [0016] van EP 679 A2.
+13
+ HR 19 maart 2010 ECLI:NL:HR:2010:BL1116

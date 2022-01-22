@@ -1,0 +1,846 @@
+
+
+
+
+RECHTBANK MIDDEN-NEDERLAND
+
+ 
+
+Afdeling strafrecht
+Zittingsplaats Utrecht
+ 
+
+Parketnummer: 16/706599-15 (P)
+ 
+
+
+Vonnis van de meervoudige kamer van 3 april 2018
+
+ 
+
+in de strafzaak tegen
+ 
+
+
+
+          [verdachte] 
+ 
+
+geboren op [1996] te [geboorteplaats] 
+wonende te [woonplaats] aan de [adres] .
+
+
+
+
+1 ONDERZOEK TER TERECHTZITTING 
+
+Dit vonnis is op tegenspraak gewezen. De inhoudelijke behandeling ter terechtzitting heeft plaatsgevonden op 23 24 29 en 30 januari 2018. Ter zitting van 20 maart 2018 is het onderzoek gesloten. Eerder is de zaak ter zitting behandeld op 11 januari 2016 24 maart 2016 7 april 2016 15 september 2016 16 februari 2017 en 7 september 2017. 
+ 
+
+De rechtbank heeft kennisgenomen van de vordering en de standpunten van de officieren van justitie mrs. J.M. Bonnes en A.C. Schaafsma (hierna: de officier van justitie) en van hetgeen verdachte (hierna: [verdachte] ) en mr. C.W. Dirkzwager advocaat te Utrecht naar voren hebben gebracht.
+
+
+
+
+2 TENLASTELEGGING 
+
+De tenlastelegging is op de zitting van 24 maart 2016 nader omschreven en op de zitting van 23 januari 2018 gewijzigd. De tenlastelegging zoals nader omschreven is met de wijziging als bijlage aan dit vonnis gehecht. 
+ 
+
+De verdenking komt er kort en feitelijk weergegeven op neer dat [verdachte] :
+ 
+
+
+Feit 1: in de periode van 1 januari 2014 tot en met 29 september 2015 in Nederland en/of elders in Europa al dan niet samen met anderen contante geldbedragen van respectievelijk 
+€ 7.607.192- € 2.346.200- en € 50.000- en 45.242 bitcoins (verkoop) en een hoeveelheid bitcoins (aankoop) heeft witgewassen en van dat witwassen een gewoonte heeft gemaakt en/of zich schuldig heeft gemaakt aan het schuldwitwassen van deze geldbedragen en/of bitcoins;
+dan wel
+in dezelfde periode en op dezelfde plaatsen medeplichtig is geweest aan genoemde handelingen;
+ 
+
+
+Feit 2: in de periode van 1 januari 2014 tot en met 29 september 2015 in Nederland en/of elders in Europa heeft deelgenomen aan een criminele organisatie die tot oogmerk had de volgende misdrijven te plegen: gewoontewitwassen en/of opzetwitwassen.
+
+
+
+
+3 VOORVRAGEN 
+
+De dagvaarding is geldig de rechtbank is bevoegd tot kennisneming van het ten laste gelegde de officier van justitie is ontvankelijk in de vervolging van [verdachte] en er zijn geen redenen voor schorsing van de vervolging.
+
+
+
+
+4 WAARDERING VAN HET BEWIJS 
+
+4.1
+
+
+Het standpunt van de officier van justitie
+
+De officier van justitie acht het onder 1 en 2 ten laste gelegde wettig en overtuigend te bewijzen.
+ 
+
+
+4.2
+
+
+Het standpunt van de verdediging
+
+De raadsvrouw heeft vrijspraak bepleit van het onder 1 en 2 ten laste gelegde. De raadsvrouw heeft zich primair op het standpunt gesteld dat [verdachte] niet wist dat de bitcoins van enig misdrijf afkomstig waren. [verdachte] had geen beschikking over de bij de wallets behorende private keys waardoor hij geen toegang had tot deze wallets. Hij kon daardoor niet zien dat de bitcoins afkomstig waren van de darknet markets of dat na ontvangst van de bitcoins de mixerdienst Sharedcoin werd gebruikt. [verdachte] verkeerde in de veronderstelling dat hij handelde met koeriers miners handelaren of klanten die hun bitcoins op legale wijze met hun bedrijf hadden verdiend. De overige door de officier van justitie aangevoerde omstandigheden te weten de grote contante geldbedragen die werden vervoerd de openbare plekken waar werd afgesproken en de hoge provisie die werd gevraagd duiden evenmin op een vermoeden van witwassen. [verdachte] zag geen kwaad in het op zijn naam zetten van rechtspersonen nu de banken bitcoinhandelaren niet accepteerden als klant. Anders dan de officier van justitie heeft aangevoerd heeft [verdachte] wel degelijk een verklaring gegeven over de herkomst van het geld en de bitcoins. Immers heeft hij ten aanzien van iedere klant een verklaring afgelegd over waar hij dacht dat de desbetreffende bitcoins vandaan kwamen. Gelet op al deze omstandigheden dient [verdachte] te worden vrijgesproken van het opzetwitwassen. Er was evenmin sprake van voorwaardelijk opzet bij [verdachte]  waardoor schuldwitwassen ook niet kan worden bewezen aldus de raadsvrouw.
+De raadsvrouw heeft daartoe aangevoerd dat [verdachte] aan zijn onderzoeksplicht heeft voldaan door geregeld aan [medeverdachte 1] en [medeverdachte 2] vragen te stellen over de herkomst van de bitcoins. Bovendien heeft [verdachte] bij een aantal specifieke klanten nader onderzoek (op internet) verricht. 
+Subsidiair heeft de raadsvrouw aangevoerd dat de rol van [verdachte] slechts als die van medeplichtige kan worden gekwalificeerd nu hij handelde in opdracht van anderen en enkel behulpzaam was bij het uitvoeren van de trades en het bijhouden van de administratie. Ter onderbouwing hiervan heeft de raadsvrouw gewezen op verschillende in het dossier gevoegde tapgesprekken en getuigenverklaringen. 
+Meer subsidiair heeft de raadsvrouw bepleit dat een kortere dan de ten laste gelegde periode bewezen kan worden verklaard. Op grond van het dossier kan worden vastgesteld dat [verdachte] pas na 1 oktober 2014 betrokken was bij de bitcoinhandel zodat de geldbedragen van in totaal ruim 4 miljoen euro die voor die datum zijn witgewassen niet bewezen kunnen worden verklaard. Ook dient vrijspraak te volgen voor het witwassen van een bedrag van € 50.000- in Polen.
+Tot slot heeft de raadsvrouw bepleit [verdachte] vrij te spreken van feit 2 te weten de deelname aan een criminele organisatie nu opzetwitwassen en niet schuldwitwassen het gestelde oogmerk van de criminele organisatie zou zijn geweest. 
+ 
+
+
+4.3
+
+
+Het oordeel van de rechtbank
+
+De rechtbank gaat op grond van wettige bewijsmiddelen van de volgende feiten en omstandigheden uit.1
+ 
+
+Ten behoeve van de leesbaarheid van het vonnis worden bij het bespreken van de bewijsmiddelen ten aanzien van feit 1 tussendoor reeds bewijsoverwegingen opgenomen. 
+ 
+
+4.3.1
+
+Ten aanzien van de feiten 1 en 2
+ 
+
+
+4.3.1.1 	Feiten en omstandigheden
+
+ 
+
+
+Algemene feiten en omstandigheden
+
+
+            [verdachte] heeft ter zitting het volgende verklaard:
+“De voorzitter vraagt mij of ik samen met medeverdachten [medeverdachte 1] en [medeverdachte 2] een bedrijf had ook wel een private exchange genoemd waarbij wij bitcoins aannamen van derden deze verkochten bij public exchanges zoals Bitonic daarvoor gelden ontvingen op bankrekeningen van door ons opgerichte rechtspersonen van die bankrekeningen contant geld opnamen of lieten opnemen en de verkopende derden voor hun aangeleverde bitcoins contant geld teruggaven. Ik vind dat ik meer in dienst was van het bedrijf dat dit deed. [medeverdachte 1] en [medeverdachte 2] waren de eigenaren. Ik was een medewerker. 
+De voorzitter vraagt mij of kan worden vastgesteld dat de 675 trades zoals aangetroffen in de administratie hebben plaatsgevonden waaronder die met [A]  [medeverdachte 3]  [medeverdachte 4] ( [bijnaam]  [bijnaam] ) [medeverdachte 5] ( [bijnaam]  [bijnaam]  [bijnaam] )  [B] ( [bijnaam] / [bijnaam] ) [C] ( [bijnaam]  [bijnaam]  [bijnaam] ) [D]  [E]  [F] . Ja dat klopt. 
+Het kan kloppen dat er in de ten laste gelegde periode (waarbij ik slechts voor een deel betrokken was) een bedrag van ongeveer 76 miljoen euro contant is opgenomen en dat er voor een bedrag van ongeveer 23 miljoen euro aan bitcoins is verkocht. De voorzitter zegt mij dat er ruim 45.000 bitcoins zijn omgewisseld bij Bitonic waarvan 38.181 in de ten laste gelegde periode en vraagt mij of dit klopt. Dat zou inderdaad kunnen kloppen.”2
+ 
+
+Op het verzoek globaal in te schatten wanneer het start- en eindpunt was dat [verdachte] bij de bitcoinhandel betrokken was heeft hij verklaard dat de begindatum in het contract staat. Er was een proefperiode van twee tot drie maanden voordat het contract begon.3 Tijdens een doorzoeking in de woning aan de [adres] te [woonplaats] werd een document inbeslaggenomen. In de koptekst staat vermeld: “Afspraken samenwerking [verdachte] / [G] 21-10-2014”.4 Over zijn werkzaamheden heeft [verdachte] verklaard: “In het begin was het vooral naar trades toegaan. Het contact met klanten deed ik in het begin niet wel pinnen. Naarmate de tijd vorderde kwam er administratie bij en het contact onderhouden met klanten in de zin van afspraken maar dat was niet met alle klanten.”5 In de periode dat [medeverdachte 1] en [medeverdachte 2] in Malta zaten sprak [verdachte] met hun klanten af omdat zij er niet bij waren. [verdachte] handelde in die periode zelfstandig trades af.6
+ 
+
+
+Contante opnamen ter hoogte van € 7.607.192-
+
+Uit het ingestelde onderzoek is gebleken dat [medeverdachte 1] en [medeverdachte 2] zich bezig hielden met de inkoop en verkoop van bitcoins. Van de Nederlandse bankrekeningen van de - direct en indirect - aan hen te relateren rechtspersonen is een totaaloverzicht van de relevante transacties  gemaakt.7 In totaal is € 7.607.192- aan contanten opgenomen.8
+ 
+
+Vanaf de zakelijke betaalrekening op naam van [medeverdachte 1]  handelend onder de naam [bedrijf 1] en later onder [bedrijf 2]  wordt in de periode van 1 januari 2014 tot 2 september 2014 een bedrag van € 728.390- contant opgenomen.9 Van de zakelijke bankrekening van [bedrijf 3] B.V. wordt in de periode van 9 mei 2014 tot 16 januari 2015 een bedrag van € 1.226.200- contant opgenomen.10
+ 
+
+
+Contante geldbedragen ter hoogte van € 2.346.200-
+
+Tijdens een doorzoeking in het pand aan de [adres] in [woonplaats] werd op 29 september 2015 een laptop aangetroffen en gecodeerd als A.03.08.001.11 Ook is tijdens deze doorzoeking kasadministratie aangetroffen gecodeerd als A.03.05.001.12 Tijdens een doorzoeking op 29 september 2015 in het pand aan de [adres] werd een bitcoins administratie aangetroffen en gecodeerd als H.02.09.001.13
+Aan de hand van
+
+
+
+Excel-bestand “ [naam] .xlsx” afkomstig van Asus laptop (A.03.08.001);
+
+
+Hardcopy administratie (H.02.09.001) en
+
+
+Hardcopy administratie (A.03.05.001);
+
+
+
+is een overzicht gemaakt van de in- en uitgaande geldstromen (hierna: totaallijst trades) over de periode van 8 september 2014 tot en met 28 september 2015.14 Het overzicht telt in totaal 675 transacties waarvan 356 uitgaande geldstromen en 319 ingaande geldstromen.15
+Uit de totaallijst trades blijkt dat verdachten ook inkomende contante gelden hebben verkregen uit de verkoop van bitcoins. Door de verkoop van bitcoins hebben verdachten vanaf 28 januari 2015 tot en met 17 september 2015 een contant geldbedrag van 
+€ 2.346.200- tot hun beschikking gekregen.16
+ 
+
+
+38.181 bitcoins
+
+Na analyse van de verstrekte gegevens van Bitonic bleek dat [medeverdachte 1] retour-bitcoin adressen had opgegeven.17
+
+Totaaloverzicht gebruik bitcoin-retouradressen:
+
+BTC-adres	eerste tx	laatste tx	totaal ontvangen
+
+            [bitcoinadres]
+           
+
+18
+
+ 
+
+
+Bewijsoverweging
+
+Op grond van de bovenstaande bewijsmiddelen stelt de rechtbank vast dat [medeverdachte 1] samen met [medeverdachte 2] in de periode van 1 januari 2014 tot en met 29 september 2015 contante geldbedragen van € 7.6071.92- en € 2.346.200- heeft verworven en/of voorhanden heeft gehad en/of heeft overgedragen en/of heeft omgezet. Daarnaast stelt de rechtbank aan de hand van het totaaloverzicht ontvangen bitcoins vast dat [medeverdachte 1] en [medeverdachte 2] in de periode van 1 januari 2014 tot en met 29 september 2015 in totaal 38.181 bitcoins hebben ingeruild bij Bitonic B.V. en een hoeveelheid bitcoins hebben aangekocht of ingeruild bij de in de tenlastelegging onder B genoemde personen. In de periode van 1 september 2014 tot en met 29 september 2015 was ook [verdachte] hierbij betrokken. Dit kan worden afgeleid uit zijn verklaring inhoudende dat hij twee tot drie maanden voor de aanvang van zijn contract dat dateert van 21 oktober 2014 voor [medeverdachte 1] en [medeverdachte 2] werkzaamheden verrichte. 
+Ter beoordeling staat vervolgens of [medeverdachte 1]  [medeverdachte 2] en [verdachte] zich hiermee schuldig hebben gemaakt aan witwassen. 
+ 
+
+De rechtbank stelt voorop dat voor een bewezenverklaring van het in de delictsomschrijving van artikel 420bis eerste lid onder a en b van het Wetboek van Strafrecht (hierna: Sr) opgenomen bestanddeel “afkomstig uit enig misdrijf” niet is vereist dat uit de bewijsmiddelen kan worden afgeleid dat het desbetreffende voorwerp afkomstig is uit een nauwkeurig aangeduid misdrijf. Wel is voor een veroordeling ter zake van dit wetsartikel vereist dat vaststaat dat het voorwerp afkomstig is uit enig misdrijf. Indien op grond van de beschikbare bewijsmiddelen geen rechtstreeks verband valt te leggen tussen een voorwerp en een bepaald misdrijf kan niettemin bewezen worden geacht dat een voorwerp “uit enig misdrijf” afkomstig is indien het op grond van de vastgestelde feiten en omstandigheden niet anders kan zijn dan dat het in de tenlastelegging genoemde voorwerp uit enig misdrijf afkomstig is (Hoge Raad 27 september 2005 NJ 2006 473 en Hoge Raad 28 september 2004 LJN: AP2124).
+ 
+
+De rechtbank stelt vast dat uit het dossier en het verhandelde ter terechtzitting geen direct bewijs voor de herkomst van de ten laste gelegde geldbedragen en bitcoins kan worden afgeleid. 
+ 
+
+Nu de rechtbank heeft vastgesteld dat direct bewijs voor een criminele herkomst van het geld/de bitcoins ontbreekt ligt de vraag voor of op grond van de feiten en omstandigheden - zoals deze uit het onderzoek en het verhandelde ter terechtzitting naar voren zijn gekomen bezien in samenhang met de zogenaamde typologieën van witwassen - sprake is van een gerechtvaardigd vermoeden van witwassen. Indien dat het geval is mag van de verdachte worden verlangd dat hij een concrete min of meer verifieerbare en niet op voorhand hoogst onwaarschijnlijke verklaring geeft voor de herkomst. 
+ 
+
+De rechtbank acht ten aanzien van de vraag of sprake is van een gerechtvaardigd vermoeden van witwassen de volgende bewijsmiddelen van belang. 
+ 
+
+
+Vermoeden van witwassen
+
+
+            [medeverdachte 1] heeft verklaard dat er geen administratie was over de traders en waar hun bitcoins vandaan kwamen.19 [verdachte] heeft verklaard dat hij niet de identiteit controleerde van de persoon met wie hij handelde om de privacy naar klanten toe te waarborgen en hen niet af te schrikken. Hier was weleens met [medeverdachte 1] over gesproken omdat een andere trader het wel deed. Er is voor gekozen om het niet te doen om de klanten niet af te schrikken.20
+ 
+
+
+            [verdachte] heeft verklaard dat hij een provisie van tussen de 5 en 15 procent hanteerde.21
+ 
+
+
+            [medeverdachte 1] heeft ter zitting het volgende verklaard:
+“Wij hanteerden een provisie van tussen de 5 en 15 procent. Als ik een gecalculeerde gok moet doen was het gemiddeld rond de 9 procent. 
+Het ging om grote contante bedragen die in onder andere een café werden ingewisseld. Er is geen transactie geweest waarbij ik geen gebruik heb gemaakt van Sharedcoin. Het wordt aangeraden vanwege de privacy.”22
+ 
+
+De getuige [getuige] heeft verklaard dat de winst die het bedrijf (de rechtbank begrijpt: Bitonic B.V.) op een transactie pakt tussen de 0 en 15 procent ligt maar vaker onder de 1 procent dan daarboven.23Ook volgt uit zijn verklaring dat alle betalingen plaatsvinden via een bankrekening.24
+ 
+
+De deskundige Van Wegberg heeft verklaard dat een Sharedcoin transactie uit meerdere inputs bestaat als meerdere transacties worden gebundeld met als doel het bemoeilijken om na te gaan waar de transacties vandaan komen.25
+ 
+
+Op 18 augustus 2015 werd [medeverdachte 2] gebeld door een onbekende man die gebruik maakt van het telefoonnummer [telefoonnummer]  dat op naam staat van [H] :26
+NNman: Oke he die eh [I]  hij wil eigenlijk eh ook coins verkopen maar hij weet niet waar die vandaan komen soort van. Maar op zich maakt dat niet uit toch? Want dan worden ze door zo’n mixer gegooid? (…)
+
+            [medeverdachte 2] : Oh ja dat maakt geen kanker uit
+NNman: Nee toch want ze worden toch in zo’n mixer gegooid toch soort van.
+
+            [medeverdachte 2] : ja.
+ 
+
+
+Bewijsoverweging
+
+Op grond van voorgaande bewijsmiddelen stelt de rechtbank vast dat [medeverdachte 1]  [medeverdachte 2] en [verdachte] op meerdere momenten grote hoeveelheden bitcoins hebben ingekocht. Een groot aantal van de door hen verkregen bitcoins is vervolgens ingewisseld bij Bitonic voor giraal geld dat vervolgens contant door hen werd opgenomen. Hierdoor hebben zij in totaal ruim 7 miljoen euro contant voorhanden gekregen. Daarnaast hebben verdachten grote hoeveelheden bitcoins aan derden verkocht voor een groot contant geldbedrag van ruim twee miljoen euro. 
+De transacties met hun klanten vonden plaats in openbare gelegenheden onder meer in cafés waarbij volgens [verdachte] de identiteit van de klanten niet werd geregistreerd om de privacy naar klanten toe te waarborgen. [medeverdachte 1]  [medeverdachte 2] en [verdachte] garandeerden hun klanten anonimiteit. Zoals blijkt uit de verklaring van [medeverdachte 1] hanteerden zij bij het inkopen van de bitcoins een provisie van gemiddeld negen procent. Dit percentage is aanzienlijk hoger dan het percentage dat een regulier bitcoinexchangebedrijf als Bitonic hanteert bij wie de uitbetaling plaatsvindt via een bankrekening in plaats van in contanten. 
+Door de verdediging is aangevoerd dat Bitonic in werkelijkheid een tarief hanteerde dat dichter bij het door verdachten gehanteerde tarief lag. Deze - niet feitelijk onderbouwde - stelling wordt weerlegd door de verklaring van de getuige [getuige]  inhoudend dat het percentage dat Bitonic B.V. rekent voor het inwisselen van bitcoins tussen de 0 en 15 procent ligt. 
+Tot slot blijkt uit het tapgesprek tussen [medeverdachte 2] en [H] dat gebruik werd gemaakt van een mixerdienst. [medeverdachte 1] heeft verklaard dat bij iedere transactie gebruik werd gemaakt van Sharedcoin. Zoals blijkt uit de verklaring van deskundige Van Wegberg dient deze dienst ertoe de herleidbaarheid van de transacties te bemoeilijken. 
+ 
+
+Voorgaande feiten en omstandigheden in onderling verband en samenhang bezien rechtvaardigen naar het oordeel van de rechtbank een vermoeden van witwassen. Alsdan mag van een verdachte worden verlangd dat hij een verklaring geeft voor de herkomst van de geldbedragen en de bitcoins. Nu [verdachte] hiervoor geen aannemelijke verklaring heeft gegeven en een mogelijke legale herkomst evenmin uit het dossier blijkt is er geen andere conclusie mogelijk dan dat het niet anders kan zijn dan dat de ten laste gelegde geldbedragen en bitcoins onmiddellijk of middellijk uit enig misdrijf afkomstig zijn. 
+ 
+
+
+Wetenschap criminele herkomst
+
+De volgende vraag die aan de rechtbank ter beoordeling voorligt is of [verdachte] wist dan wel redelijkerwijs moest vermoeden dat de geldbedragen en bitcoins van enig misdrijf afkomstig waren. Hierbij acht de rechtbank naast het hierboven aangehaalde bewijs de volgende bewijsmiddelen van belang.
+ 
+
+Naar aanleiding van de opmerking van de verbalisanten dat [verdachte] eerder heeft verklaard dat hij niet naar de herkomst van bitcoins vroeg heeft [verdachte] verklaard:
+“Ja ik heb de vraag bewust niet gesteld om de klanten niet weg te jagen. Ik heb dat nooit direct gevraagd. Ik heb er nooit naar gevraagd.”27
+ 
+
+Op de vraag of er een reden zou kunnen zijn dat klanten anoniem willen blijven heeft [verdachte] verklaard:
+“Nou bijvoorbeeld: een trader komt bij ons. Ik kan natuurlijk niet instaan voor waar hij zijn bitcoins vandaan heeft. Stel dat zijn klanten het van darknet hebben kan ik mij voorstellen dat hij het daarom niet zou willen vertellen. Bijvoorbeeld dat iemand zijn bitcoins van drugs heeft en daarmee naar een trader toegaat. Die trader weet dat niet maar om het zeker te houden zal hij het ons niet vertellen.”
+En op de vraag hoe [verdachte] ermee zou omgaan tijdens een trade als hij van een klant waarmee hij een trade zou hebben zou weten dat hij zijn bitcoins had verkregen met criminele activiteiten heeft hij geantwoord:
+“Als ik het zou weten zou ik het vragen aan [medeverdachte 1] en [medeverdachte 2] . Als zij het goed vonden ging ik gewoon door. Het maakt mij persoonlijk niet uit. Het is ook niet belangrijk waar de bitcoins vandaan komen. En drugs? Dat maakt mij niet echt uit.”28
+ 
+
+
+Bewijsoverweging
+
+Op grond van de gebezigde bewijsmiddelen en op grond van wat hiervoor is overwogen is de rechtbank van oordeel dat [verdachte] minst genomen willens en wetens de aanmerkelijke kans heeft aanvaard dat zijn klanten bitcoins en geldbedragen aan verdachten aanboden die een criminele herkomst hadden. 
+ 
+
+
+4.3.1.2 	Nadere bewijsoverwegingen en te bespreken verweren
+
+ 
+
+
+Medeplegen
+
+De rechtbank stelt voorop dat de betrokkenheid aan een strafbaar feit als medeplegen kan worden bewezenverklaard indien is komen vast te staan dat bij het begaan daarvan sprake is geweest van een voldoende nauwe en bewuste samenwerking.
+ 
+
+Ook indien het ten laste gelegde medeplegen in de kern niet bestaat uit een gezamenlijke uitvoering tijdens het begaan van het strafbare feit maar uit gedragingen die doorgaans met medeplichtigheid in verband plegen te worden gebracht (zoals het verstrekken van inlichtingen op de uitkijk staan helpen bij de vlucht) kan sprake zijn van de voor medeplegen vereiste nauwe en bewuste samenwerking. De materiële en/of intellectuele bijdrage van de verdachte aan het strafbare feit zal dan van voldoende gewicht moeten zijn. 
+ 
+
+Bij de beoordeling of daaraan is voldaan kan rekening worden gehouden met onder meer de intensiteit van de samenwerking de onderlinge taakverdeling de rol in de voorbereiding de uitvoering of de afhandeling van het delict en het belang van de rol van de verdachte diens aanwezigheid op belangrijke momenten en het zich niet terugtrekken op een daartoe geëigend tijdstip. 
+ 
+
+Ten aanzien van de betrokkenheid van verdachten in het bijzonder die van [verdachte] bij het ten laste gelegde leidt de rechtbank uit de bewijsmiddelen het volgende af.
+ 
+
+De rechtbank stelt vast dat tussen [medeverdachte 1]  [medeverdachte 2] en [verdachte] sprake was van een onderlinge taakverdeling. Zoals blijkt uit de door verdachten afgelegde verklaringen waren [medeverdachte 1] en [medeverdachte 2] de eigenaren van het bedrijf en gaven zij daaraan leiding. [verdachte] was bij dat bedrijf in dienst en hij ontving als medewerker salaris voor zijn werkzaamheden. [verdachte] was belast met het (zelfstandig) uitvoeren van trades het contact onderhouden met de klanten en het bijhouden van de administratie. Bovendien heeft hij al dan niet in opdracht van [medeverdachte 1] en [medeverdachte 2] in Nederland trades uitgevoerd op het moment dat zij in Malta verbleven. Gelet daarop was zijn rol bij het uitvoeren van de trades - anders dan de raadsvrouw heeft gesteld - cruciaal. De omstandigheid dat [verdachte] de bitcoinaccounts niet beheerde en evenmin handelingen heeft verricht via LocalBitcoins maakt dit niet anders. 
+ 
+
+Op grond van het voorgaande is de rechtbank van oordeel dat sprake was van de voor medeplegen vereiste voldoende nauwe en bewuste samenwerking tussen [medeverdachte 1]  [medeverdachte 2] en [verdachte] . De bijdrage van [verdachte] aan het ten laste gelegde is na 1 september 2014 van zodanig gewicht dat deze kan worden aangemerkt als medeplegen. Daarmee acht de rechtbank het ten laste gelegde medeplegen bewezen. 
+Tot slot blijkt uit de bewijsmiddelen dat [medeverdachte 1]  [medeverdachte 2] en [verdachte] het witwassen in nauwe en bewuste samenwerking hebben begaan met hun klanten. De bijdragen van verdachten en hun klanten zijn elk van voldoende gewicht geweest om van medeplegen te kunnen spreken.
+ 
+
+
+De periode en het witgewassen bedrag
+
+Op grond van het voorgaande acht de rechtbank wettig en overtuigend bewezen dat [verdachte] zich vanaf 1 september 2014 tot 29 september 2015 schuldig heeft gemaakt aan gewoontewitwassen. Gezien de kortere bewezenverklaarde periode kan niet bewezen worden verklaard dat [verdachte] het volledige ten laste gelegde bedrag en het volledige aantal bitcoins heeft witgewassen. De rechtbank stelt vast dat op de privérekening van [bedrijf 2] in de periode van 1 januari 2014 tot 2 september 2014 in totaal een bedrag van
+€ 728.390- contant wordt opgenomen. Dit geldbedrag valt buiten de bewezenverklaarde periode en zal op het ten laste gelegde bedrag in mindering worden gebracht. Van de bankrekening van [bedrijf 3] B.V. vonden in de periode van 9 mei 2014 tot 16 januari 2015 contante opnamen van in totaal € 1.226.200- plaats. Nu deze opnamen gedeeltelijk plaatsvonden buiten de bewezenverklaarde periode kan ook het witwassen van dat bedrag niet geheel bewezen worden verklaard. Op grond van het voorgaande zal de rechtbank voornoemde bedragen op het ten laste gelegde bedrag in mindering brengen. Concluderend verklaart zij bewezen dat [verdachte] geldbedragen te weten contante opnamen ter hoogte van tenminste € 5.652.602- en contante geldbedragen van  € 2.346.200- heeft witgewassen. Het verweer van de raadsvrouw dat slechts de helft van het ten laste gelegde bedrag kan worden bewezen verklaard wordt dan ook verworpen. 
+ 
+
+Uit het onderzoek naar de bitcoinadressen van [medeverdachte 1] blijkt dat op het bitcoinadres dat begint met [bitcoinadres] van 21 februari 2014 tot en met 3 september 2015 een groot aantal 
+bitcoins is ontvangen dat gedeeltelijk buiten de bewezenverklaarde periode valt. Gelet daarop kan de rechtbank niet vaststellen wat het exacte aantal bitcoins is dat [verdachte] heeft witgewassen. Wel wordt vastgesteld dat op de bitcoinadressen beginnend met [bitcoinadres] en [bitcoinadres] in de bewezenverklaarde periode in totaal ruim 20.596 bitcoins zijn ontvangen. Om die reden zal de rechtbank bewezen verklaren dat [verdachte] een grote hoeveelheid van tenminste 20.596 bitcoins heeft witgewassen.
+ 
+
+Van de overige ten laste gelegde geldbedragen en aantallen bitcoins zal [verdachte] partieel worden vrijgesproken.
+ 
+
+
+Contante opname van € 50.000- in Polen
+
+Met de officier van justitie en de raadsvrouw acht de rechtbank niet kan worden bewezen dat [verdachte] zich schuldig heeft gemaakt aan het witwassen van € 50.000- opgenomen bij Raiffeisenbank Polska in Polen. [verdachte] zal daarvan partieel worden vrijgesproken. 
+ 
+
+
+Gewoontewitwassen
+
+Gelet op de omvang van het bedrag dat door [medeverdachte 1]  [medeverdachte 2] en [verdachte] is witgewassen de periode waarin dit heeft plaatsgevonden en het feit dat dit is gebeurd in tenminste 675 transacties acht de rechtbank bewezen dat sprake is van gewoontewitwassen. 
+ 
+
+
+4.3.2
+
+
+Vrijspraak ten aanzien van feit 2
+
+Van een criminele organisatie als bedoeld in artikel 140 Sr is sprake indien deze organisatie wordt gevormd door  een gestructureerd en duurzaam samenwerkingsverband van twee of meer personen welke als oogmerk heeft het plegen van misdrijven. 
+ 
+
+Zoals hiervoor ten aanzien van de wetenschap van [verdachte] van de criminele herkomst van het geld/de bitcoins is overwogen wordt bewezen verklaard dat hij minst genomen willens en wetens de aanmerkelijke kans heeft aanvaard dat hij zich schuldig zou maken aan witwassen. Aldus had [verdachte] (slechts) voorwaardelijk opzet op de door hem - en daarmee op de door de organisatie - gepleegde misdrijven te weten het gewoontewitwassen. Ditzelfde geldt voor [medeverdachte 1] en [medeverdachte 2]  zodat van een organisatie die tot oogmerk had het plegen van misdrijven (in de zin van onvoorwaardelijk opzet) geen sprake is. 
+ 
+
+Concluderend zal de rechtbank [verdachte] vrijspreken van deelname aan een criminele organisatie zoals onder feit 3 is ten laste gelegd.
+ 
+
+
+
+
+
+5 BEWEZENVERKLARING 
+
+De rechtbank acht wettig en overtuigend bewezen dat [verdachte] :
+ 
+
+
+Feit 1:
+
+in de periode van 1 september 2014 tot en met 29 september 2015 in Nederland tezamen en in vereniging met personen voorwerpen te weten
+A. geldbedragen in Euro bestaande uit
+
+- contante opnamen ter hoogte van tenminste 5.652.602- Euro en
+- contante geldbedragen ter hoogte van 2.346.200- Euro welke geldbedragen middellijk of onmiddellijk afkomstig waren uit de verkoop van bitcoins en
+B. 
+- een grote hoeveelheid van tenminste 20.596 bitcoins ingeruild/ingewisseld/verkocht bij Bitonic B.V. en
+- een hoeveelheid bitcoins aangekocht/ingeruild bij [A] en [medeverdachte 3] en [medeverdachte 4] en [B] en [C] en [medeverdachte 5] en [D] en [E] en [F] (zaaksdossiers 1 tot en met 9)
+
+heeft verworven en/of voorhanden heeft gehad en/of heeft overgedragen en/of
+heeft omgezet 
+daarvan de werkelijke aard en/of de herkomst heeft verborgen en/of heeft verhuld
+terwijl hij verdachte en zijn mededader(s) telkens wisten dat die voorwerpen onmiddellijk of middellijk afkomstig waren uit enig misdrijf en terwijl hij verdachte en zijn mededader(s) van het plegen van dit feit een gewoonte hebben gemaakt.
+ 
+
+Voor zover in het bewezen verklaarde deel van de tenlastelegging taal- en/of schrijffouten voorkomen zijn deze in de bewezenverklaring verbeterd. [verdachte] is daardoor niet in de verdediging geschaad.
+ 
+
+Hetgeen onder 2 meer of anders is ten laste gelegd is niet bewezen. [verdachte] wordt hiervan vrijgesproken.
+
+
+
+
+6 STRAFBAARHEID VAN HET FEIT 
+
+Er is geen omstandigheid aannemelijk geworden die de strafbaarheid van het bewezen verklaarde uitsluit zodat dit strafbaar is.
+ 
+
+Het bewezen verklaarde levert volgens de wet de volgende strafbare feiten op: 
+ 
+
+
+Feit 1:
+
+Medeplegen van gewoontewitwassen.
+
+
+
+
+7 STRAFBAARHEID VAN VERDACHTE 
+
+Er is geen omstandigheid gebleken of aannemelijk geworden die de strafbaarheid van [verdachte] uitsluit. [verdachte] is dan ook strafbaar.
+
+
+
+
+8 OPLEGGING VAN STRAF 
+
+8.1
+
+
+De vordering van de officier van justitie
+
+De officier van justitie heeft gevorderd [verdachte] ter zake van het door de officier van justitie bewezen geachte te veroordelen tot een gevangenisstraf van 4 jaren met aftrek van het voorarrest waarvan een gedeelte van 1 jaar voorwaardelijk met een proeftijd van 2 jaren. Daarnaast heeft de officier van justitie gevorderd het bevel waarbij de voorlopige hechtenis van [verdachte] is geschorst op te heffen nu sprake is van herhalingsgevaar en vluchtgevaar. 
+ 
+
+
+8.2
+
+
+Het standpunt van de verdediging
+
+De verdediging heeft verzocht de door de officier van justitie geformuleerde strafeis aanzienlijk te matigen en aan [verdachte] een onvoorwaardelijke gevangenisstraf gelijk aan het voorarrest op te leggen en daarnaast eventueel een werkstraf. De raadsvrouw heeft aangevoerd dat het opleggen van een deels voorwaardelijke gevangenisstraf zoals door de officier van justitie is geëist geen enkel redelijk doel dient. Bovendien dient [verdachte] bij oplegging hiervan het volledige onvoorwaardelijke strafdeel uit te zitten en komt hij niet voor detentiefasering in aanmerking. Daarnaast heeft de raadsvrouw op verschillende omstandigheden gewezen die in het voordeel van [verdachte] dienen te worden meegewogen. Allereerst is van belang dat de rol van [verdachte] die van medeplichtige was: hij kreeg van hogerhand opdrachten en hij zorgde ervoor dat deze werden uitgevoerd. Daarbij komt dat een veel kortere dan de ten laste gelegde periode bewezen kan worden verklaard en dat [verdachte] slechts een fractie van het ten laste gelegde witgewassen bedrag heeft verdiend. Ook is gewezen op de jeugdige leeftijd van [verdachte]  de omstandigheid dat hij al zes maanden in voorarrest heeft doorgebracht en dat hij zich al twee jaar aan alle schorsingsvoorwaarden die zeer strikt waren heeft gehouden. Tot slot heeft de raadsvrouw gewezen op de straffen die in het onderzoek 09Roepie aan de hoofdverdachten zijn opgelegd.
+De raadsvrouw heeft verzocht het geschorste bevel tot voorlopige hechtenis bij gebrek aan gronden op te heffen. Er is geen enkele reden om aan te nemen dat [verdachte] zich zou onttrekken aan de tenuitvoerlegging van zijn straf. De vordering van de officier van justitie tot opheffing van het bevel tot schorsing van de voorlopige hechtenis dient gelet daarop te worden afgewezen aldus de raadsvrouw. 
+ 
+
+
+8.3
+
+
+Het oordeel van de rechtbank
+
+Bij het bepalen van de straf heeft de rechtbank rekening gehouden met de ernst van het bewezen verklaarde de omstandigheden waaronder dit is begaan en de persoon van [verdachte]  zoals ter terechtzitting is gebleken. De rechtbank heeft bij de keuze tot het opleggen van een vrijheidsbenemende straf en bij de vaststelling van de duur daarvan in het bijzonder het volgende laten meewegen. 
+ 
+
+Wat betreft de ernst van de feiten en de omstandigheden waaronder deze zijn begaan overweegt de rechtbank als volgt. 
+ 
+
+
+          [verdachte] heeft samen met [medeverdachte 2] en [medeverdachte 1] gedurende ruim een jaar een gewoonte gemaakt van het witwassen van bijna acht miljoen euro en een grote hoeveelheid bitcoins. In ruil voor aanzienlijke contante geldbedragen ter hoogte van ruim zeven miljoen euro hebben verdachten tegen een hoge provisie bij hun klanten bitcoins ingekocht. Een groot aantal van die verkregen bitcoins zijn vervolgens bij Bitonic ingewisseld. [medeverdachte 1] en [medeverdachte 2] hebben ook in het buitenland op eigen en andermans naam een groot aantal rechtspersonen opgericht en vervolgens op naam van die rechtspersonen diverse bankrekeningen geopend. Ook [verdachte] heeft een aantal rechtspersonen op zijn naam opgericht. Op de desbetreffende bankrekeningen werden grote bedragen afkomstig uit de bitcoinhandel (door)gestort die uiteindelijk contant werden opgenomen. Op deze wijze hebben verdachten getracht de zogenaamde ‘paper trail’ te doorbreken. Daarnaast hebben verdachten een contant geldbedrag van ruim twee miljoen euro verkregen door de verkoop van bitcoins aan derden.
+ 
+
+Hoewel de rechtbank ervan uitgaat dat [medeverdachte 1]  [medeverdachte 2] en [verdachte] niet met een crimineel oogmerk aan de bitcoinhandel zijn begonnen hebben zij door op deze wijze te handelen welbewust risico’s genomen waarbij zij zich moesten realiseren dat zij hiermee de onderliggende criminaliteit faciliteerden. Van naïviteit zoals de verdediging heeft gesteld was dan ook geen sprake. Door de witwashandelingen van [medeverdachte 1]  [medeverdachte 2] en [verdachte] loonden de door anderen gepleegde misdaden en vonden de plegers daarvan via hen een weg om de opbrengsten daadwerkelijk aan het zicht van justitie te onttrekken. Verder brengen de door verdachten gepleegde feiten schade toe aan het vertrouwen dat moet kunnen worden gesteld in de integriteit van het financiële handelsverkeer. De rechtbank rekent [verdachte] dit alles zwaar aan. 
+ 
+
+Ook houdt de rechtbank rekening met de grootschaligheid van de bitcoinhandel de grote omvang van de contante geldbedragen en de frequentie waarmee de bitcointrades plaatsvonden. 
+ 
+
+Hoewel de rechtbank [medeverdachte 1]  [medeverdachte 2] en [verdachte] beschouwt als medeplegers ziet zij een aanmerkelijk verschil tussen de rollen die zij vervulden. [medeverdachte 1] en [medeverdachte 2] gaven leiding aan het bedrijf en beheerden de op naam van de betrokken rechtspersonen geopende bankrekeningen. Zij ontvingen als eigenaren de winst. [verdachte] was hun werknemer die in opdracht van [medeverdachte 1] en [medeverdachte 2] werkzaamheden uitvoerde en salaris ontving. Gelet daarop zal de rechtbank bij de straftoemeting in de onderhavige zaak afwijken van de straffen die aan [medeverdachte 1] en [medeverdachte 2] worden opgelegd. 
+ 
+
+Om te bevorderen dat landelijk door gerechten in gelijke gevallen gelijke straffen worden opgelegd heeft het Landelijk Overleg Vakinhoud Strafrecht van de gerechtshoven en de rechtbanken (LOVS) oriëntatiepunten voor straftoemeting opgesteld. Deze oriëntatiepunten gaan voor fraude bij een benadelingsbedrag van € 1.000.000- en hoger uit van een onvoorwaardelijke gevangenisstraf van 24 maanden tot de maximum op te leggen gevangenisstraf. Zoals blijkt uit de toelichting op deze oriëntatiepunten wordt onder fraudedelicten tevens geschaard witwassen mits de gedragingen in een frauduleuze context hebben plaatsgevonden. Hoewel bij witwassen niet (direct) kan worden gesproken van een benadelingsbedrag zoals bij fraudedelicten ziet de rechtbank toch aanleiding om aan te knopen bij het oriëntatiepunt fraude. De rechtbank volgt bij de straftoemeting anders dan de officier van justitie niet de ‘Richtlijn voor strafvordering witwassen’ van het Openbaar Ministerie aangezien de daarin opgenomen straffen te zeer afwijken van de door rechtbanken en hoven opgelegde straffen.
+ 
+
+De rechtbank houdt rekening met onder meer de navolgende straffen. Aan één van de andere afnemers van de Nocis-verdachten is voor het witwassen van onder meer bitcoins ter waarde van € 5.075.169- een gevangenisstraf van 2 jaren opgelegd.29 In het onderzoek Air Holland werden aan de hoofdverdachten voor het gedurende een periode van ruim een jaar in georganiseerd verband (gewoonte)witwassen van tientallen miljoenen guldens gevangenisstraffen van 28 tot 36 maanden opgelegd.30 Tot slot heeft de rechtbank acht geslagen op de straffen die aan twee verdachten in het IJsberg onderzoek werden opgelegd. In deze zaken werd voor het witwassen van 367 bitcoins en grote geldbedragen respectievelijk het witwassen van ruim 1.000 bitcoins en grote geldbedragen gevangenisstraffen van respectievelijk 3 en 6 maanden opgelegd.31
+ 
+
+De rechtbank heeft ook acht geslagen op de jeugdige leeftijd van [verdachte] en zijn strafblad waaruit blijkt dat hij niet eerder voor een soortgelijk delict is veroordeeld. Tot slot heeft de rechtbank acht geslagen op het reclasseringsadvies van 27 november 2015 waarin het opleggen van een deels voorwaardelijke (gevangenis)straf wordt geadviseerd. Gelet op wat hiervoor ten aanzien van de ernst van de feiten is overwogen ziet de rechtbank hiertoe geen aanleiding.
+ 
+
+Het bovenstaande in aanmerking nemend kan op de door [verdachte] gepleegde strafbare feiten niet worden volstaan met een straf die geen vrijheidsbeneming met zich brengt. Gelet echter op de oriëntatiepunten van het LOVS en op de straffen die in vergelijkbare zaken worden opgelegd zal de rechtbank bij de straftoemeting aanzienlijk afwijken van de strafeis van de officier van justitie.
+ 
+
+Alles afwegende acht de rechtbank een gevangenisstraf van twee jaren met aftrek van voorarrest passend en geboden. 
+ 
+
+
+Redelijke termijn
+
+Tot slot ziet de rechtbank zich ambtshalve voor de vraag gesteld of in de onderhavige zaak de redelijke termijn is overschreden. De rechtbank stelt voorop dat in artikel 6 eerste lid Europees Verdrag voor de Rechten van de Mens het recht van iedere verdachte is gewaarborgd om binnen een redelijke termijn te worden berecht. Die termijn vangt aan op het moment dat vanwege de Nederlandse Staat jegens de betrokkene een handeling is verricht waaraan deze in redelijkheid de verwachting kan ontlenen dat tegen hem ter zake van een bepaald strafbaar feit door het openbaar ministerie een strafvervolging zal worden ingesteld. Als uitgangspunt heeft in deze zaak te gelden dat de behandeling ter terechtzitting dient te zijn afgerond met een eindvonnis binnen twee jaar nadat de redelijke termijn is aangevangen tenzij sprake is van bijzondere omstandigheden zoals de ingewikkeldheid van een zaak - waartoe ook de omvang van het verrichte onderzoek en de gelijktijdige berechting van zaken tegen medeverdachten wordt gerekend de invloed van de verdachte en/of zijn raadsvrouw op het procesverloop en de wijze waarop de zaak door de bevoegde autoriteiten is behandeld.
+ 
+
+De rechtbank overweegt met betrekking tot de aanvang van de redelijke termijn en het procesverloop in deze zaak het volgende. De rechtbank beschouwt het moment van de doorzoekingen in de woningen en het kantoor van [medeverdachte 1]  [medeverdachte 2] en [verdachte] op 29 september 2015 als het moment waarop de redelijke termijn een aanvang heeft genomen. De uitspraak vindt plaats op 3 april 2018. De vervolging van de verdachten heeft daarmee tweeënhalf jaar in beslag genomen. Gelet op de ingewikkeldheid van de zaak de omvang van het door de politie verrichte onderzoek waarbij meerdere onderzoekswensen in het buitenland zijn uitgezet het feit dat de justitiële autoriteiten de strafzaak voortvarend hebben opgepakt het mede op verzoek van de verdediging (in het buitenland) horen van diverse getuigen en het belang van de gelijktijdige berechting van de verschillende terechtstaande verdachten oordeelt de rechtbank dat de redelijke termijn niet is overschreden zodat de duur van de onderhavige procedure niet leidt tot strafvermindering. 
+ 
+
+
+Opheffing bevel tot (schorsing van de) voorlopige hechtenis
+
+Op grond van artikel 75 eerste lid van het Wetboek van Strafvordering kan in hoger beroep een op artikel 67 Sv gegeven bevel ook worden gegeven of verlengd op de grond dat in het bestreden vonnis een vrijheidsbenemende straf of maatregel is opgelegd van ten minste even lange duur als de door de verdachte in voorlopige hechtenis doorgebrachte tijd na verlenging. Het vonnis in eerste aanleg vormt dan ook een zelfstandige grond voor de voorlopige hechtenis. Nu de rechtbank voorts van oordeel is dat de ook door de raadkamer aangenomen grond voor de voorlopige hechtenis nog onverminderd van toepassing is wijst zij het verzoek van de raadsvrouw tot opheffing van het - geschorste - bevel tot voorlopige hechtenis wegens het ontbreken van gronden af. 
+ 
+
+Ten aanzien van de vordering van de officier van justitie tot opheffing van het bevel tot schorsing van de voorlopige hechtenis van [verdachte] overweegt de rechtbank het volgende. 
+ 
+
+Een bevel tot schorsing van de voorlopige hechtenis kan op grond van artikel 82 lid 1 Sv te allen tijde worden opgeheven zelfs als de verdachte zich aan de hem gestelde voorwaarden houdt aangezien het gaat om een aan de rechter toekomende discretionaire bevoegdheid. Deze discretionaire bevoegdheid brengt echter ook met zich dat de rechter evenmin verplicht is de schorsing op te heffen. De rechtbank dient bij het nemen van die beslissing de belangen van de samenleving het slachtoffer en de verdachte tegen elkaar af te wegen en na te gaan of een bevel tot opheffing van de schorsing van de voorlopige hechtenis wenselijk is. Daarbij gaat het om de specifieke omstandigheden van het geval die afzonderlijk en in onderling verband bezien de grondslag vormen een verdachte in voorlopige hechtenis te stellen. 
+ 
+
+
+          [verdachte] is op 29 september 2015 in verzekering gesteld. Het bevel tot voorlopige hechtenis is op 24 maart 2016 door de rechtbank onder voorwaarden geschorst. Uit het voortgangsverslag toezicht van de Reclassering Nederland van 14 februari 2017 blijkt dat [verdachte] alle aan hem opgelegde voorwaarden heeft nageleefd. Gelet daarop ziet de rechtbank niet in welk doel op dit moment is gediend met een bevel tot opheffing van de schorsing van de voorlopige hechtenis. De enkele veroordeling volstaat daarvoor in het onderhavige geval niet. Bovendien is anders dan de officier van justitie heeft gesteld niet gebleken van enig vluchtgevaar. 
+ 
+
+Op grond van het voorgaande wordt de vordering tot opheffing van het bevel waarbij de voorlopige hechtenis is geschorst afgewezen.
+ 
+
+
+
+
+9 BESLAG 
+
+9.1
+
+
+Het standpunt van de officier van justitie
+
+De officier van justitie heeft gevorderd alle op de beslaglijst genoemde goederen verbeurd te verklaren.
+ 
+
+
+9.2
+
+
+Het standpunt van de verdediging
+
+De verdediging heeft primair verzocht alle inbeslaggenomen voorwerpen te retourneren indien [verdachte] wordt vrijgesproken. Subsidiair heeft de raadsvrouw verzocht de inbeslaggenomen Apple Mac pro te retourneren. Deze laptop is van de moeder van [verdachte] en is niet gebruikt bij het plegen van de strafbare feiten. De inbeslaggenomen telefoon een iPhone dient aan [verdachte] te worden teruggegeven. Deze telefoon is niet gebruikt bij het plegen van de strafbare feiten. Tot slot dient het geldbedrag van € 24440 dat op de privérekening van [verdachte] stond en naar een rekening van het Openbaar Ministerie is overgemaakt te worden geretourneerd nu dit geldbedrag niet van enig misdrijf afkomstig is.
+ 
+
+
+9.3
+
+
+Het oordeel van de rechtbank
+
+De rechtbank stelt vast dat de op de beslaglijst aangeduide voorwerpen waarop strafrechtelijk beslag ligt onder [verdachte] in beslag zijn genomen. 
+ 
+
+Het in de Nederlandse kluis aangetroffen en inbeslaggenomen geldbedrag van € 250.000- en de inbeslaggenomen geldbedragen op de bankrekeningen [rekeningnummer]  [rekeningnummer]  [rekeningnummer]  [rekeningnummer]  [rekeningnummer]  [rekeningnummer] en [rekeningnummer] worden verbeurd verklaard nu deze geldbedragen door het onder 1 bewezenverklaarde strafbare feit zijn verkregen. 
+ 
+
+Ten aanzien van het geldbedrag dat op de privérekening [rekeningnummer] van [verdachte] in beslag is genomen overweegt de rechtbank het volgende. Hoewel deze bankrekening niet betrokken lijkt te zijn bij het grootschalig opnemen van contante geldbedragen afkomstig uit de bitcoinhandel worden op deze rekening geldbedragen gestort die afkomstig zijn van de stichting waarvan [verdachte] bestuurder is. Dit laatst genoemde geld is wel rechtstreeks afkomstig van de bitcoinhandel.32 Gelet daarop zal de rechtbank het verzoek van de raadsvrouw tot het retourneren van een bedrag van € 24440 afwijzen en dit bedrag verbeurd verklaren. 
+ 
+
+De rechtbank stelt vast dat [verdachte] heeft verklaard hij niet de rechthebbende is van de op de beslaglijst vermelde Apple Macbook Pro. Nu de rechtbank geen feiten en omstandigheden bekend zijn die op het tegendeel wijzen gaat de rechtbank ervan uit dat de laptop aan de moeder van [verdachte] toebehoort. Uitgangspunt is dat een voorwerp dat niet aan een verdachte toebehoort alleen kan worden verbeurd verklaard indien degene aan wie dat voorwerp toebehoort bekend was met het gebruik in verband met het strafbare feit dan wel dat gebruik redelijkerwijs had kunnen vermoeden. Hoewel [verdachte] heeft verklaard dat hij op deze laptop administratie en kilometerlijsten heeft bijgehouden en daarmee met behulp van deze laptop het onder 1 bewezenverklaarde feit heeft begaan kan naar het oordeel van de rechtbank niet worden vastgesteld dat de moeder van [verdachte] dit wist of dit redelijkerwijs had moeten vermoeden. Gelet daarop zal de rechtbank bepalen dat de laptop Apple Macbook Pro aan de rechthebbende te weten de moeder van [verdachte]  dient te worden teruggegeven.  
+ 
+
+Naar het oordeel van de rechtbank kan niet worden vastgesteld dat de op de beslaglijst vermelde iPhone (goednummer 291274) uit de baten van feit 1 is verkregen dan wel dat met behulp van dit voorwerp het onder 1 bewezenverklaarde feit is begaan. De stelling van de officier van justitie dat op deze telefoon vluchtgegevens betreffende een reis naar Polen zijn aangetroffen maakt dit niet anders nu [verdachte] van het witwassen van een geldbedrag van 
+€ 50.000- in Polen wordt vrijgesproken. 
+ 
+
+De overige op de beslaglijst vermelde voorwerpen te weten diverse inbeslaggenomen gegevensdragers worden verbeurd verklaard. Gelet op de aard van de goederen en de werkwijze van [verdachte]  gaat de rechtbank ervan uit dat met behulp van deze voorwerpen het onder 1 bewezenverklaarde feit is begaan dan wel dat deze voorwerpen uit de baten van feit 1 zijn verkregen. 
+
+
+
+
+
+10 TOEPASSELIJKE WETTELIJKE VOORSCHRIFTEN 
+
+De beslissing berust op de artikelen 33 33a 47 63 en 420ter Sr  zoals de artikelen luidden ten tijde van het bewezen verklaarde.
+
+
+
+
+11 BESLISSING 
+
+De rechtbank:
+ 
+
+
+Vrijspraak
+
+
+- verklaart het onder 2 ten laste gelegde niet bewezen en spreekt [verdachte] daarvan vrij;  
+
+
+Bewezenverklaring
+
+
+- verklaart het onder 1 ten laste gelegde bewezen zoals hiervoor in rubriek 5 is vermeld;
+- verklaart het meer of anders ten laste gelegde niet bewezen en spreekt [verdachte] daarvan vrij;  
+
+
+Strafbaarheid
+
+
+- verklaart het onder 1 bewezen verklaarde strafbaar en kwalificeert dit zoals hiervoor in rubriek 6 is vermeld; 
+- verklaart [verdachte] strafbaar;  
+
+
+Oplegging straf 
+
+
+- veroordeelt [verdachte] tot een gevangenisstraf van 2 (twee) jaren; 
+- bepaalt dat de tijd door [verdachte] vóór de tenuitvoerlegging van deze uitspraak in verzekering en voorlopige hechtenis doorgebracht bij de tenuitvoerlegging van de gevangenisstraf in mindering zal worden gebracht; 
+- wijst af het verzoek tot opheffing van het geschorste bevel tot voorlopige hechtenis;
+- wijst af de vordering tot opheffing van het bevel tot schorsing van de voorlopige hechtenis; 
+
+
+Beslag 
+
+
+- verklaart de volgende voorwerpen verbeurd:
+
+-
+GSM (291266);
+
+-
+Skrill creditcard (291196);
+
+-
+Samsung met simkaart (291206);
+
+-
+iPhone 5S met zwarte plastic slede (322082);
+
+-
+2.00 STK Vorderingen ter waarde van € 675 ABN AMRO betaalrekening [rekeningnummer] ;
+
+-
+1.00 STK Vorderingen ter waarde van € 1.00450 ABN AMRO [rekeningnummer] t.n.v. [stichting 1] ;
+
+-
+1.00 STK Vorderingen ter waarde van € 1.51952 ABN AMRO betaalrekening [rekeningnummer] t.n.v. [stichting 1] ;
+
+-
+1.00 STK Vorderingen ter waarde van € 20.68971 ABN AMRO betaalrekening [rekeningnummer] t.n.v. [stichting 1] ;
+
+-
+1.00 STK Vorderingen ter waarde van € 1.98577 ABN AMRO betaalrekening [rekeningnummer] t.n.v. [stichting 2] ;
+
+-
+1.00 STK Vorderingen ter waarde van € 88196 ABN AMRO betaalrekening [rekeningnummer] t.n.v. [stichting 3] ;
+
+-
+1.00 STK Vorderingen ter waarde van € 97798 ABN AMRO betaalrekening [rekeningnummer] t.n.v. [stichting 4] ;
+
+-
+diverse pakketten Euro’s ter waarde van € 250.000- (1/3 deel van het in de Nederlandse kluis aangetroffen bedrag € 83.33333) (291228);
+
+-
+een bedrag van € 24440;
+
+
+- gelast de teruggave aan [verdachte] van het volgende voorwerp:
+ iPhone (291274); 
+- gelast de teruggave aan de rechthebbende de moeder van [verdachte]  van het volgende voorwerp:
+ Apple Macbook Pro zwart (291291); 
+- wijst af het verzoek tot teruggave van een geldbedrag van € 24440. 
+
+Dit vonnis is gewezen door mr. drs. S.M. van Lieshout voorzitter mrs. G.A. Bos en E. van den Brink rechters in tegenwoordigheid van mrs. J.M.T. Bouwman-Everhardus en 
+M. Rigter griffiers en is uitgesproken op de openbare terechtzitting van 3 april 2018.
+ 
+
+
+Bijlage: de tenlastelegging
+
+ 
+
+Aan [verdachte] wordt na wijzigingen ten laste gelegd dat: 
+ 
+
+1.
+ 
+
+hij op één of meer tijdstip(pen) in of omstreeks de periode van 01 januari 2014 tot en met 29 september 2015 te Baarn en/of te Nieuwegein en/of te Rotterdam en/of te Krimpen aan de IJssel en/of te Arnhem en/of (elders) in Nederland en/of op Malta en/of te Riga (Letland) en/of (elders) in Letland en/of op Cyprus en/of in Polen en/of (elders) in Europa
+tezamen en in vereniging met één of meer perso(o)n(en) althans alleen
+(een) voorwerp(en) te weten
+A. (een) geldbedrag(en) (in Euro) bestaande uit onder meer
+
+- één of meerdere contante opname(n) (ter hoogte van (ongeveer)/(tenminste) 7.607.192- Euro) en/of
+- een of meer contante geldbedrag(en) ter hoogte van (ongeveer)/(tenminste) 2.346.200- Euro welk(e) geldbedrag(en) (middellijk of onmiddellijk) afkomstig was/waren uit de verkoop van bitcoins en/of
+- een of meer contante opname(n) (ter hoogte van van (ongeveer)/(tenminste) 50.000- Euro (opgenomen bij Rafaissenbank Polska S.A. O/Warszawa) en/of
+B. een grote hoeveelheid bitcoin(s) waaronder
+- 45.242 bitcoins althans een hoeveelheid bitcoins ((in)geruild/ingewisseld/verkocht bij of via Bitonic B.V.) en/of
+- een hoeveelheid bitcoins aangekocht/(in)geruild bij [A] en/of [medeverdachte 3] en/of [medeverdachte 4] en/of [B] en/of [C] en/of [medeverdachte 5] en/of [D] en/of [E] en/of [F] (zaaksdossiers 1 tot en met 9)
+
+heeft verworven en/of voorhanden heeft gehad en/of heeft overgedragen en/of
+heeft omgezet 
+daarvan de werkelijke aard en/of de herkomst en/of de vindplaats en/of de vervreemding en/of de verplaatsing heeft verborgen en/of heeft verhuld
+en/of
+heeft verborgen en/of verhuld wie de rechthebbende op een voorwerp is en/of heeft verborgen en/of verhuld wie het voorhanden heeft
+terwijl hij verdachte en/of zijn mededader(s) (telkens) wist(en) dat/die voorwerp(en) geheel of gedeeltelijk onmiddellijk of middellijk afkomstig was/waren uit enig misdrijf
+en -terwijl hij verdachte en/of zijn mededader(s) van het plegen van dit feit een gewoonte heeft/hebben gemaakt
+ 
+
+en/of
+ 
+
+
+        [medeverdachte 1] en/of [medeverdachte 2] en/of een of meerdere andere perso(o)nen op één of meer tijdstip(pen) in of omstreeks de periode van 01 januari 2014 tot en met 29 september 2015 te Baarn en/of te Nieuwegein en/of te Rotterdam en/of te Krimpen aan de IJssel en/of te Arnhem en/of (elders) in Nederland en/of op Malta en/of te Riga (Letland) en/of (elders) in Letland en/of op Cyprus en/of in Polen en/of (elders) in Europa
+tezamen en in vereniging met één of meer perso(o)n(en) althans alleen
+(een) voorwerp(en) te weten
+A. (een) geldbedrag(en) (in Euro) bestaande uit onder meer
+
+- één of meerdere contante opname(n) (ter hoogte van (ongeveer)/(tenminste) 7.607.192- Euro) en/of
+- een of meer contante geldbedrag(en) ter hoogte van (ongeveer)/(tenminste) 2.346.200- Euro welk(e) geldbedrag(en) (middellijk of onmiddellijk) afkomstig was/waren uit de verkoop van bitcoins en/of
+- een of meer contante opname(n) (ter hoogte van van (ongeveer)/(tenminste) 50.000- Euro (opgenomen bij Rafaissenbank Polska S.A. O/Warszawa) en/of
+B. een grote hoeveelheid bitcoin(s) waaronder
+- 45.242 bitcoins althans een hoeveelheid bitcoins ((in)geruild/ingewisseld/verkocht bij of via Bitonic B.V.) en/of
+- een hoeveelheid bitcoins aangekocht/(in)geruild bij [A] en/of [medeverdachte 3] en/of [medeverdachte 4] en/of [B] en/of [C] en/of [medeverdachte 5] en/of [D] en/of [E] en/of [F] (zaaksdossiers 1 tot en met 9)
+
+heeft verworven en/of voorhanden heeft gehad en/of heeft overgedragen en/of heeft omgezet
+en/of
+daarvan de werkelijke aard en/of de herkomst en/of de vindplaats en/of de vervreemding en/of de verplaatsing heeft verborgen en/of heeft verhuld
+en/of
+heeft verborgen en/of verhuld wie de rechthebbende op een voorwerp is en/of heeft verborgen en/of verhuld wie het voorhanden heeft
+terwijl  die [medeverdachte 1] en/of [medeverdachte 2] en/of die andere perso(o)n(en)  en/of zijn/hun mededader(s) (telkens) wist(en) dat/die voorwerp(en) geheel of gedeeltelijk onmiddellijk of middellijk afkomstig was/waren uit enig misdrijf
+en -terwijl die [medeverdachte 2] en/of die [medeverdachte 1] en/of die andere perso(o)n(en) van het plegen van dit feit een gewoonte heeft/hebben gemaakt
+tot en/of bij het plegen van welk misdrijf verdachte op één of meerdere tijdstip(pen) in of omstreeks de periode van 01 januari 2014 tot en met 29 september 2015 te Baarn en/of te Nieuwegein en/of te Rotterdam en/of te Krimpen aan de IJssel en/of te Arnhem en/of (elders) in Nederland en/of op Malta en/of te Riga (Letland) en/of (elders) in Letlanden/of op Cyprus en/of in Polen en/of (elders) in Europa
+(telkens) opzettelijk gelegenheid middelen en / of inlichtingen heeft verschaft  en/of ppzettelijk behulpzaam is geweest door 
+
+
+-
+opzettelijk als (enige) gemachtigde van de (betaal)rekening(en) van na te noemen rechtsperso(o)n(en) [stichting 1] en/of [stichting 3] en/of [stichting 5] en/of [stichting 2] en/of [stichting 4] te zijn en/of
+
+-
+één of meer contante geldbedrag(en) en/of bitcoin(s) te ontvang(en) en/of  te vervoeren en/of over te dragen en/of één of meer contante geldbedrag(en) uit te betalen en/of te bemiddelen voorafgaand aan en/of bij één of meerdere trade(s) en/of transactie(s) en/of aanko(o)p(en) en/of verko(o)p(en) van (een) bitcoin(s)
+
+
+
+art 47 lid 1 ahf en onder 1 Wetboek van Strafrecht
+art 48 Wetboek van Strafrecht
+art 420bis Wetboek van Strafrecht
+art 420ter Wetboek van Strafrecht
+ 
+
+en/of
+ 
+
+hij op één of meerdere tijdstip(pen) in of omstreeks de periode van 01 januari 2014 tot en met 29 september 2015 te Baarn en/of te Nieuwegein en/of te Rotterdam en/of te Krimpen aan de IJssel en/of te Arnhem en/of (elders) in Nederland en/of op Malta en/of te Riga (Letland) en/of (elders) in Letland en/of op Cyprus en/of in Polen en/of (elders) in Europa
+tezamen en in vereniging met één of meer perso(o)n(en) althans alleen
+(een) voorwerp(en) te weten
+A. (een) geldbedrag(en) (in Euro) bestaande uit onder meer
+
+- één of meerdere contante opname(n) (ter hoogte van (ongeveer)/(tenminste) 7.607.192- Euro) en/of
+- een of meer contante geldbedrag(en) ter hoogte van (ongeveer)/(tenminste) 2.346.200- Euro welk(e) geldbedrag(en) (middellijk of onmiddellijk) afkomstig was/waren uit de verkoop van bitcoins en/of
+- een of meer contante opname(n) (ter hoogte van (ongeveer)/(tenminste) 50.000- Euro (opgenomen bij Rafaissenbank Polska S.A. O/Warszawa) en/of
+B. een grote hoeveelheid bitcoin(s) waaronder
+- 45.242 bitcoins althans een hoeveelheid bitcoins ((in)geruild/ingewisseld/verkocht bij of via Bitonic B.V.) en/of
+- een hoeveelheid bitcoins aangekocht/(in)geruild bij [A] en/of [medeverdachte 3] en/of [medeverdachte 4] en/of [B] en/of [C] en/of [medeverdachte 5] en/of [D] en/of [E] en/of [F] (zaaksdossiers 1 tot en met 9)
+
+heeft verworven en/of voorhanden heeft gehad en/of heeft overgedragen en/of heeft omgezet
+en/of
+daarvan de werkelijke aard en/of de herkomst en/of de vindplaats en/of de vervreemding en/of de verplaatsing heeft verborgen en/of heeft verhuld
+en/of
+heeft verborgen en/of verhuld wie de rechthebbende op een voorwerp is en/of heeft verborgen en/of verhuld wie het voorhanden heeft
+terwijl verdachte en/of zijn mededader(s) (telkens) redelijkerwijs moest(en) vermoeden dat/die voorwerp(en) geheel of gedeeltelijk onmiddellijk of middellijk afkomstig was/waren uit enig misdrijf
+artikel 47 lid 1 ahf en onder 1 Wetboek van Strafrecht
+artikel 420quater Wetboek van Strafrecht
+ 
+
+en/of
+ 
+
+
+        [medeverdachte 1] en/of [medeverdachte 2] en/of een of meerdere andere perso(o)n(en) op één of meer tijdstip(pen) in of omstreeks de periode van 01 januari 2014 tot en met 29 september 2015 te Baarn en/of te Nieuwegein en/of te Rotterdam en/of te Krimpen aan de IJssel en/of te Arnhem en/of (elders) in Nederland en/of op Malta en/of te Riga (Letland) en/of (elders) in Letland en/of op Cyprus en/of Polen en/of (elders) in Europa
+tezamen en in vereniging met één of meer perso(o)n(en) althans alleen
+(een) voorwerp(en) te weten
+A. (een) geldbedrag(en) (in Euro) bestaande uit onder meer
+
+- één of meerdere contante opname(n) (ter hoogte van (ongeveer)/(tenminste) 7.607.192- Euro) en/of
+- een of meer contante geldbedrag(en) ter hoogte van (ongeveer)/(tenminste) 2.346.200- Euro welk(e) geldbedrag(en) (middellijk of onmiddellijk) afkomstig was/waren uit de verkoop van bitcoins en/of
+- een of meer contante opname(n) (ter hoogte van van (ongeveer)/(tenminste) 50.000- Euro (opgenomen bij Rafaissenbank Polska S.A. O/Warszawa) en/of
+B. een grote hoeveelheid bitcoin(s) waaronder 
+- 45.242 bitcoins althans een hoeveelheid bitcoins ((in)geruild/ingewisseld/verkocht bij of via Bitonic B.V.) en/of
+- een hoeveelheid bitcoins aangekocht/(in)geruild bij [A] en/of [medeverdachte 3] en/of [medeverdachte 4] en/of [B] en/of [C] en/of [medeverdachte 5] en/of [D] en/of [E] en/of [F] (zaaksdossiers 1 tot en met 9)
+
+heeft verworven en/of voorhanden heeft gehad en/of heeft overgedragen en/of heeft omgezet
+en/of
+daarvan de werkelijke aard en/of de herkomst en/of de vindplaats en/of de vervreemding en/of de verplaatsing heeft verborgen en/of heeft verhuld
+en/of
+daarvan de werkelijke aard en/of de herkomst en/of de vindplaats en/of de vervreemding en/of de verplaatsing heeft verborgen en/of heeft verhuld
+en/of
+heeft verborgen en/of verhuld wie de rechthebbende op een voorwerp is en/of heeft verborgen en/of verhuld wie het voorhanden heeft
+terwijl die [medeverdachte 1] en/of [medeverdachte 2] en/of die andere perso(o)n(en) en/of zijn/hun mededader(s) (telkens) redelijkerwijs moest(en) vermoeden datdie voorwerp(en) geheel of gedeeltelijk onmiddellijk of middellijk afkomstig was/waren uit enig misdrijf
+tot en/of bij het plegen van welk misdrijf verdachte op één of meer tijdstip(pen) in of omstreeks de periode van 01 januari 2014 tot en met 29 september 2015 te Baarn en/of te Nieuwegein en/of te Rotterdam en/of te Krimpen aan de IJssel en/of te Arnhem en/of (elders) in Nederland en/of op Malta en/of te Riga (Letland) en/of (elders) in Letland
+en/of op Cyprus en/of in Polen en/of (elders) in Europa
+opzettelijk gelegenheid middelen en/of inlichtingen heeft verschaft en/of opzettelijke behulpzaam is geweest door
+
+
+-
+opzettelijk als (enige) gemachtigde van de (betaal)rekening(en) van na te noemen rechtsperso(o)n(en) [stichting 1] en/of [stichting 3] en/of [stichting 5] en/of [stichting 2] en/of [stichting 4] te zijn en/of
+
+-
+één of meer contante geldbedrag(en) en/of bitcoin(s) te ontvang(en) en/of  te vervoeren en/of over te dragen en/of één of meer contante geldbedrag(en) uit te betalen  en/of te bemiddelen voorafgaand aan en/of bij één of meerdere trade(s) en/of transactie(s) en/of aanko(o)p(en) en/of verko(o)p(en) van (een) bitcoin(s);
+
+
+
+artikel 47 lid 1 ahf en onder 1 Wetboek van Strafrecht
+artikel 48 Wetboek van Strafrecht
+art 420quater Wetboek van Strafrecht
+ 
+
+2.
+ 
+
+hij op een of meerdere tijdstip(pen) gelegen in of omstreeks de periode van 01 januari 2014 tot en met 29 september 2015 te Baarn en/of te Nieuwegein en/of te Rotterdam en/of te Krimpen aan de IJssel en/of (elders) in Nederland en/of op Malta en/of te Riga (Letland) en/of (elders) in Letland en/of op Cyprus en/of in Zwitserland en/of in Polen en/of (elders) in Europa heeft deelgenomen aan een organisatie
+bestaande uit een samenwerkingsverband van een of meerdere natuurlijke personen te weten onder andere medeverdachte [medeverdachte 1] en/of medeverdachte [medeverdachte 2] en/of een of meerdere ander(e) perso(o)n(en) welke organisatie tot oogmerk had het plegen van misdrijven namelijk het gewoontewitwassen en/of opzetwitwassen van giraal en/of chartaal geld en/of bitcoins;
+art 140 lid 1 Wetboek van Strafrecht
+ 
+
+1
+ Wanneer hierna wordt verwezen naar paginanummers betreft dit pagina’s van op ambtseed of ambtsbelofte opgemaakte processen-verbaal. Deze processen-verbaal zijn als bijlagen opgenomen bij het in de wettelijke vorm opgemaakte proces-verbaal genummerd 2015288539 160113.1107.EIND (onderzoek 09TFCNocis) opgemaakt door politie Midden-Nederland bestaande uit:
+- het einddossier 22 ordners pagina 1 tot en met 10.396;
+- aanvulling 1 op het einddossier NOCIS 1 ordner pagina 1 tot en met 555;
+- aanvulling 2 op het einddossier NOCIS 1 ordner pagina 557 tot en met 1057;
+- aanvulling 3 op het einddossier NOCIS 1 ordner pagina 1058 tot en met 1554;
+- aanvullend dossier 2 4 ordners pagina 1 tot en met 1351;
+- derde aanvullend einddossier NOCIS pagina 1 tot en met 462;
+- vierde aanvullend einddossier NOCIS pagina 1 tot en met 99;
+- vijfde aanvullend einddossier NOCIS pagina 1 tot en met 96;
+- zesde aanvullend einddossier NOCIS pagina 1 tot en met 213.
+Tenzij anders vermeld zijn dit processen-verbaal in de wettelijke vorm opgemaakt door daartoe bevoegde opsporingsambtenaren. Voor zover het gaat om geschriften als bedoeld in artikel 344 eerste lid sub vijf van het Wetboek van Strafvordering worden deze alleen gebruikt in verband met de inhoud van andere bewijsmiddelen. 
+2
+ De verklaring van [verdachte]  afgelegd ter terechtzitting van 23 januari 2018.
+3
+ Proces-verbaal van verhoor van [verdachte] van 9 januari 2017 bij de rechter-commissaris p. 2.
+4
+ Proces-verbaal van bevindingen onderzoek bescheid: “Afspraken samenwerking [verdachte] / [G] 21-10-2014” p. 112 (ordner 1).
+5
+ Proces-verbaal van verhoor van [verdachte] van 9 januari 2017 bij de rechter-commissaris p. 2.
+6
+ Proces-verbaal van verhoor van [verdachte] van 9 januari 2017 bij de rechter-commissaris p. 3.
+7
+ Proces-verbaal van bevindingen geldstromen in Nederland p. 535 (ordner 2).
+8
+ Proces-verbaal van bevindingen geldstromen in Nederland p. 537 (ordner 2).
+9
+ Proces-verbaal van bevindingen Nederlandse bankmutaties [medeverdachte 1] 1-1-14 tot 29-5-2015 p. 1128-1129 (ordner 3).
+10
+ Proces-verbaal van bevindingen Nederlandse bankmutaties [medeverdachte 1] 1-1-14 tot 29-5-2015 p. 1129 (ordner 3).
+11
+ Lijst van inbeslaggenomen goederen bij het proces-verbaal doorzoeking ter inbeslagneming doorzoeking locatie A (kantoor [adres]  [vestigingsplaats] ) p. 6946 en 6951 (ordner 15).
+12
+ Lijst van inbeslaggenomen goederen bij het proces-verbaal doorzoeking ter inbeslagneming doorzoeking locatie A (kantoor [adres]  [vestigingsplaats] ) p. 6946 en 6950 (ordner 15).
+13
+ Lijst van inbeslaggenomen goederen bij het proces-verbaal van doorzoeking ter inbeslagneming binnentreden [adres] [woonplaats]  p. 7135 en 7141 (ordner 15).
+14
+ Proces-verbaal van bevindingen inzake totaallijst trades p. 385 (ordner 2).
+15
+ Proces-verbaal van bevindingen inzake totaallijst trades p. 387 (ordner 2).
+16
+ Proces-verbaal van bevindingen geldstromen in Nederland p. 537 en bijlage 4 bij dit proces-verbaal p. 547-548 (ordner 2).
+17
+ Proces-verbaal van bevindingen onderzoek bitcoinadressen [medeverdachte 1] /mixerdiensten p. 1208 (ordner 3).
+18
+ Proces-verbaal van bevindingen onderzoek bitcoinadressen [medeverdachte 1] /mixerdiensten p. 1209 (ordner 3).
+19
+ Proces-verbaal van verhoor van de verdachte [medeverdachte 1]  p. 82 (vijfde aanvullend einddossier).
+20
+ Proces-verbaal van verhoor van [verdachte] van 9 januari 2017 bij de rechter-commissaris p. 6.
+21
+ De verklaring van [verdachte]  afgelegd ter terechtzitting van 23 januari 2018.
+22
+ Proces-verbaal ter terechtzitting d.d. 23 24 29 en 30 januari 2018 inzake [medeverdachte 1] .
+23
+ Proces-verbaal van verhoor van de getuige [getuige]  p. 14 (ordner 1).
+24
+ De verklaring van de getuige [getuige] bij de rechter-commissaris op 1 juni 2016 p. 3.
+25
+ De verklaring van de deskundige R.S. van Wegberg bij de rechter-commissaris op 30 september 2016 p. 3.
+26
+ Proces-verbaal van bevindingen onderzoek naar wetenschap herkomst bitcoins p. 4358 (ordner 10).
+27
+ Proces-verbaal van 7e verhoor van de verdachte [verdachte]  p. 9736 (ordner 21).
+28
+ Proces-verbaal van 7e verhoor van de verdachte [verdachte]  p. 9737 (ordner 21).
+29
+ Rechtbank Midden-Nederland d.d. 14 november 2017 (ECLI:NL:RBMNE:2017:5713).
+30
+ Rechtbank Rotterdam d.d. 7 december 2006 (ECLI:NL:RBROT:2006:AZ4159) en rechtbank Rotterdam d.d. 7 december 2006 (ECLI:NL:RBROT:2006:AZ4394).
+31
+ Rechtbank Rotterdam d.d. 8 november 2017 (ECLI:NL:RBROT:2017:8989) en rechtbank Rotterdam d.d. 8 november 2017 (ECLI:NL:RBROT:2017:8992).
+32
+ Het proces-verbaal van bevindingen bankmutatie [verdachte]  p. 1146.

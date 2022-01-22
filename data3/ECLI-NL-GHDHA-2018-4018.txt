@@ -1,0 +1,469 @@
+
+
+GERECHTSHOF DEN HAAG 
+Afdeling Civiel recht 
+
+Zaaknummer	: 200.208.036/01
+ 
+
+Zaaknummer rechtbank	: C/09/489185/HA ZA 15-625 
+ 
+
+
+arrest van 11 december 2018
+
+ 
+
+inzake
+ 
+
+
+Boehringer Ingelheim Pharma GmbH & Co. KG
+gevestigd te Ingelheim am Rhein Duitsland
+appellante in principaal appel
+geïntimeerde in incidenteel appel
+hierna te noemen: Boehringer
+advocaat: mr. J.A. Dullaart te Naaldwijk
+ 
+
+tegen
+ 
+
+
+Teva Pharmaceuticals Europe B.V.
+
+gevestigd te Utrecht
+geïntimeerde in principaal appel
+appellante in incidenteel appel
+hierna te noemen: Teva
+advocaat: mr. O.P. Swens te Amsterdam.
+ 
+
+
+
+1 Het geding 
+
+Bij exploot van 6 december 2016 is Boehringer in hoger beroep gekomen van een door de rechtbank Den Haag tussen partijen gewezen vonnis van 7 september 2016. Bij memorie van grieven met producties (‘MvG’) heeft Boehringer tien grieven aangevoerd. Bij memorie van antwoord in principaal appel tevens memorie van grieven in incidenteel appel tevens akte houdende overlegging producties (‘MvA/IA’) heeft Teva de grieven bestreden en in incidenteel appel twee grieven geformuleerd. Daarop heeft Boehringer bij memorie van antwoord in incidenteel appel en bezwaar ex art. 130 Rv (‘MvA-IA’) gereageerd. Beide partijen hebben voorafgaand aan de pleidooien bij akte aanvullende producties en proceskostenspecificaties overgelegd.  
+ 
+
+Vervolgens hebben partijen op 19 april 2018 de zaak doen bepleiten Boehringer door S.C. Dack barrister en mr. P. van Schijndel advocaat te Amsterdam en Teva door haar advocaat voornoemd en mr. N. Wiersma advocaat te Amsterdam beiden aan de hand van overgelegde pleitnotities (‘pleitnota HB’). Ten slotte hebben partijen arrest gevraagd.
+ 
+
+
+
+2 De feiten 
+
+De door de rechtbank in het vonnis van 7 september 2016 vastgestelde feiten zijn niet in geschil. Ook het hof zal daar van uitgaan. Het gaat in deze zaak om het volgende:
+ 
+
+2.1
+Teva is het Europese hoofdkantoor van het gelijknamige wereldwijde geneesmiddelenconcern dat zich bezighoudt met onderzoek ontwikkeling productie en marketing van onder andere generieke geneesmiddelen. 
+
+
+2.2
+Boehringer maakt deel uit van het geneesmiddelenconcern Boehringer Ingelheim. Boehringer was houdster van het aanvullende beschermingscertificaat (hierna: ABC) 300084 getiteld "zouten voor tiotropium in het bijzonder tiotropiumbromide" met als basisoctrooi EP 0 418 716 getiteld ‘Neue Thienylcarbonsäureester von Aminoalkoholen ihre Quaternierungsprodukte sowie die Herstellung und Verwendung dieser Verbindungen’. Dit ABC verlengd met zes maanden op basis van artikel 13 van de EU Verordening Nr. 469/2009 en artikel 36 van de EU Verordening 1901/2006 is vervallen op 11 maart 2016. Boehringer is daarnaast houdster van (het Nederlandse deel van) EP 1 379 220 getiteld ‘Inhalationskapseln’ verleend op 29 december 2004 op een aanvrage van 27 mei 2002 die de prioriteit inroept van de Duitse aanvrage DE 10126924 van 1 juni 2001 (hierna: EP 220). Tegen de verlening van EP 220 is geen oppositie ingesteld. 
+
+
+2.3
+
+In de oorspronkelijke Duitse taal luiden de verleende conclusies van EP 220 als volgt: 
+1. Inhalationskapseln die als Inhalationspulver Tiotropium im Gemisch mit einem physiologisch unbedenklichen Hilfsstoff enthalten dadurch gekennzeichnet daβ das Kapselmaterial einen reduzierten Feuchtegehalt als TEWS-oder Halogentrockner-Feuchte von weniger als 15%) aufweist. 
+ 
+
+2. Inhalationskapseln nach Anspruch 1 dadurch gekennzeichnet daβ das Kapselmaterial ausgewählt ist aus der Gruppe bestehend aus Gelatine Cellulosederivaten Stärke Stärkederivaten Chitosan und synthetischen Kunststoffen.
+ 
+
+3. Inhalationskapseln nach Anspruch 2 dadurch gekennzeichnet daβ als Kapselmaterial Gelatine im Gemisch mit anderen Zusätzen ausgewählt aus der Gruppe bestehend aus Polyethylenglycol (PEG) bevorzugt PEG 3350 Glycerol Sorbitol Propylenglycol PEO-PPO-Blockcopolymeren und anderen Polyalkoholen und Polyethern verwendet wird. 
+ 
+
+4. Inhalationskapseln nach Anspruch 3 dadurch gekennzeichnet daβ das Kapselmaterial neben Gelatine PEG in einem Anteil von 1-10 Gew- % bevorzugt 3-8 % enthält. 
+ 
+
+5. Inhalationskapseln nach Anspruch 3 oder 4 dadurch gekennzeichnet daβ das Kapselmaterial eine TEWS- oder Halogentrockner-Feuchte von weniger als 12% besonders bevorzugt von ≤ 10% aufweist. 
+ 
+
+6. Inhalationskapseln nach Anspruch 2 dadurch gekennzeichnet daβ das Kapselmaterial ausgewählt ist aus der Gruppe der Cellulosederivate Hydroxypropylmethytcellulose Hydroxypropylcellulose Methylcellulose Hydroxymethylcellulose und Hydroxyethylcellulose. 
+ 
+
+7. Inhalationskapseln nach Anspruch 6 dadurch gekennzeichnet daβ das Kapselmaterial eine TEWS- oder Halogentrockner-Feuchte von weniger als 8% besonders bevorzugt von < 5% aufweist. 
+ 
+
+8. Inhalationskapseln nach Anspruch 2 dadurch gekennzeichnet daβ das Kapselmaterial ausgewählt ist aus der Gruppe der synthetischen Kunststoffe Polyethylen Polycarbonat Polyester Polypropylen und Polyethylenterephthalat. 
+ 
+
+9. Inhalationskapseln nach Anspruch 8 dadurch gekennzeichnet daβ das Kapselmaterial ausgewählt ist aus Polyethylen Polycarbonat und Polyethylenterephthalat. 
+ 
+
+10. Inhalationskapseln nach Anspruch 8 oder 9 dadurch gekennzeichnet daβ das Kapselmaterial eine TEWS- oder Halogentrockner-Feuchte von weniger als 3% besonders bevorzugt ≤ 1% aufweist. 
+ 
+
+11. Inhalationskapseln nach einem der Ansprüche 1 bis 10 dadurch gekennzeichnet daβ das Inhalationspulver 0001 bis 2% Tiotropium im Gemisch mit einem physiologischen unbedenklichen Hilfsstoff enthält. 
+ 
+
+12. Inhalationskapseln nach Anspruch 11 dadurch gekennzeichnet daβ der Hilfsstoff aus einem Gemisch von gröberem Hilfsstoff mit einer mittleren Teilchengröβe von 15 bis 80 μm und feinerem Hilfsstoff mit einer mittleren Teilchengröβe von 1 bis 9 μm besteht wobei der Anteil von Feinerem Hilfsstoff an der Gesamthilfsstofmenge 1 bis 20% beträgt. 
+ 
+
+13. Inhalationskapseln nach Anspruch 12 dadurch gekennzeichnet daβ das Tiotropium in Form seines Chlorids Bromids Iodids Methansulfonats para-Toluolsulfonats oder Methylsulfats vorliegt. 
+ 
+
+14. Verwendung von Inhalationskapseln nach einem der Ansprüche 1 bis 13 und eines Inhalators zur Herstellung eines Medikament zur Inhalation. 
+ 
+
+15. Verwendung nach Anspruch 14 zur Behandlung von Asthma oder COPD. 
+ 
+
+16. Verwendung von leeren Kapseln die durch eine TEWS- oder Halogentrockner-Feuchte von weniger als 15% gekennzeichnet sind zur Herstellung von Tiotropium-haltigen Inhalationskapseln nach einem der Ansprüche 1 bis 13. 
+ 
+
+
+2.4
+De onbestreden Nederlandse vertaling van de verleende conclusies luidt als volgt: 
+
+1. Inhalatiecapsules die als inhalatiepoeder tiotropium gemengd met een fysiologisch aanvaardbare hulpstof bevatten met het kenmerk dat het capsulemateriaal een gereduceerd vochtgehalte als TEWS- of halogeendrogervochtgehalte van minder dan 15% heeft. 
+ 
+
+2. Inhalatiecapsules volgens conclusie 1 met het kenmerk dat het capsulemateriaal gekozen is uit de groep bestaande uit gelatine cellulosederivaten zetmeel zetmeelderivaten chitosan en synthetische kunststoffen. 
+3. Inhalatiecapsules volgens conclusie 2 met het kenmerk dat als capsulemateriaal gelatine gemengd met andere additieven gekozen uit de groep bestaande uit polyethyleenglycol (PEG) bij voorkeur PEG 3350 glycerol sorbitol propyleenglycol PEO-PPO-blokcopolymeren en andere polyalcoholen en polyethers wordt gebruikt. 
+ 
+
+4. Inhalatiecapsules volgens conclusie 3 met het kenmerk dat het capsulemateriaal behalve gelatine PEG bevat in een gehalte van 1-10 gew.% bij voorkeur 3-8%. 
+ 
+
+5. Inhalatiecapsules volgens conclusie 3 of 4 met het kenmerk dat het capsulemateriaal een TEWS- of halogeendroger-vochtgehalte heeft van minder dan 12% met bijzondere voorkeur ≤ 10%. 
+ 
+
+6. Inhalatiecapsules volgens conclusie 2 met het kenmerk dat het capsulemateriaal gekozen is uit de groep van de cellulosederivaten hydroxypropylmethylcellulose hydroxypropylcellulose methylcellulose hydroxymethylcellulose en hydroxyethylcellulose. 
+ 
+
+7. Inhalatiecapsules volgens conclusie 6 met het kenmerk dat het capsulemateriaal een TEWS- of halogeendroger-vochtgehalte heeft van minder dan 8% met bijzondere voorkeur ≤ 5%. 
+ 
+
+8. Inhalatiecapsules volgens conclusie 2 met het kenmerk dat het capsulemateriaal gekozen is uit de groep van de synthetische kunststoffen polyethyleen polycarbonaat polyester polypropyleen en polyethyleentereftalaat. 
+ 
+
+9. Inhalatiecapsules volgens conclusie 8 met het kenmerk dat het capsulemateriaal gekozen is uit polyethyleen polycarbonaat en polyethyleentereftalaat. 
+ 
+
+10. Inhalatiecapsules volgens conclusie 8 of 9 met het kenmerk dat het capsulemateriaal een TEWS- of halogeendroger-vochtgehalte heeft van minder dan 3% met bijzondere voorkeur ≤ 1%. 
+ 
+
+11. Inhalatiecapsules volgens één der conclusies 1- 10 met het kenmerk dat het inhalatiepoeder 0001 tot 2% tiotropium gemengd met een fysiologisch aanvaardbare hulpstof bevat. 
+ 
+
+12. Inhalatiecapsules volgens conclusie 11 met het kenmerk dat de hulpstof bestaat uit een mengsel van grovere hulpstof met een gemiddelde deeltjesgrootte van 15 tot 80 μm en fijnere hulpstof met een gemiddelde deeltjesgrootte van 1 tot 9 μm waarbij het gehalte fijnere hulpstof in het totale hulpstofmengsel 1 tot 20% is. 
+ 
+
+13. Inhalatiecapsules volgens conclusie 12 met het kenmerk dat het tiotropium aanwezig is in de vorm van zijn chloride bromide jodide methaansulfonaat para-tolueensulfonaat of methylsulfaat. 
+ 
+
+14. Gebruik van inhalatiecapsules volgens één der conclusies 1-13 en een inhalator voor de bereiding van een geneesmiddel voor inhalatie. 
+ 
+
+15. Gebruik volgens conclusie 14 voor de behandeling van astma of COPD. 
+16. Gebruik van lege capsules die worden gekenmerkt door een TEWS- of halogeendroger-vochtgehalte van minder dan 15% voor de bereiding van tiotropium-bevattende inhalatiecapsules volgens één der conclusies 1-13. 
+ 
+
+
+2.5
+Boehringer heeft in deze procedure als productie een set ‘gewijzigde conclusies’ ingediend (hierna: de gewijzigde conclusies) die in de Nederlandse taal luiden als volgt: 
+
+1. Inhalatiecapsules die als inhalatiepoeder tiotropium gemengd met een fysiologisch aanvaardbare hulpstof bevatten met het kenmerk dat het capsulemateriaal behalve gelatine PEG bevat in een gehalte van 1-10 gew.% bij voorkeur 3-8% een gereduceerd vochtgehalte als TEWS- of halogeendroger-vochtgehalte van ≤10% heeft en waarbij de fysiologisch aanvaardbare hulpstof lactose is.
+ 
+
+2. Inhalatiecapsules volgens conclusie 1 met het kenmerk dat het capsulemateriaal behalve gelatine PEG 3350 bevat. 
+ 
+
+3. Inhalatiecapsules volgens conclusie 1 of 2 met het kenmerk dat het inhalatiepoeder 0001 tot 2% tiotropium bevat. 
+ 
+
+4. lnhalatiecapsules volgens conclusie 3 met het kenmerk dat de hulpstof bestaat uit een mengsel van grovere hulpstof met een gemiddelde deeltjesgrootte van 15 tot 80 μm en fijnere hulpstuf [bedoeld zal zijn: hulpstof hof] met een gemiddelde deeltjesgrootte van 1 tot 9 μm waarbij het gehalte fijnere hulpstof in het totale hulpstofmengsel 1 tot 20% is.
+ 
+
+5. Inhalatiecapsules volgens conclusie 4 met het kenmerk dat het tiotropium aanwezig is in de vorm van zijn chloride bromide jodide methaansulfonaat para-tolueensulfonaat of methylsulfaat. 
+ 
+
+6. Inhalatiecapsules die als inhalatiepoeder tiotropium gemengd met een fysiologisch aanvaardbare hulpstof bevatten met het kenmerk dat het capsulemateriaal gekozen is van het cellulosederivaat hydroxypropylmethylcellulose en een gereduceerd vochtgehalte als TEWS- of halogeendroger-vochtgehalte van ≤5% heeft en waarbij de fysiologisch aanvaardbare hulpstof lactose is.
+ 
+
+7. Inhalatiecapsules volgens conclusie 6 met het kenmerk dat het capsulemateriaal een TEWS- of halogeendroger-vochtgehalte heeft van minder dan 4 %. 
+ 
+
+8. Inhalatiecapsules volgens conclusie 6 met het kenmerk dat het capsulemateriaal een TEWS- of halogeendroger-vochtgehalte heeft van minder dan 2 %. 
+ 
+
+9. Inhalatiecapsules volgens één der conclusies 6-8 met bet [bedoeld zal zijn: het hof] kenmerk dat het inhalatiepoeder 0001 tot 2% tiotropium bevat. 
+ 
+
+10. Inhalatiecapsules volgens conclusie 9 met het kenmerk dat de hulpstof bestaat uit een mengsel van grovere hulpstof met een gemiddelde deeltjesgrootte van 15 tot 80 μm en fijnere hulpstuf [bedoeld zal zijn: hulpstof hof] met een gemiddelde deeltjesgrootte van 1 tot 9 μm waarbij het gehalte fijnere hulpstof in het totale hulpstofmengsel 1 tot 20% is. 
+ 
+
+11. Inhalatiecapsules volgens conclusie 10 met het kenmerk dat het tiotropium aanwezig is in de vorm van zijn chloride bromide jodide methaansulfonaat para-tolueensulfonaat of methylsulfaat. 
+ 
+
+12. Gebruik van inhalatiecapsules volgens één der conclusies 1-11 en een inhalator voor de bereiding van een geneesmiddel voor inhalatie. 
+ 
+
+13. Gebruik volgens conclusie 12 voor de behandeling van astma of COPD. 
+ 
+
+
+2.6
+De beschrijving van EP 220 luidt onder meer als volgt: 
+
+[0006] Es ist Aufgabe der Erfindung eine ein Tiotropium-haltiges Inhalationspulver enthaltende Inhalationskapsel bereitzustellen die ein ausreichendes Maβ an Stabilität des Wirkstoffs gewährleistet.
+ 
+
+Es ist ferner Aufgabe der Erfindung eine Inhalationskapsel bereitzustellen die aufgrund ihrer Stabilität die Freisetzung des Wirkstoffs mit hoher Dosiergenauigkeit (betreffend die pro Inhalationskapsel herstellerseitig abgefüllte Menge an Wirkstoff und Pulvermischung wie auch die pro Inhalationskapsel durch den Inhalationsvorgang ausgebrachte und lungengängige Wirkstoffmenge) gewährleistet. Ferner ist es Aufgabe der vorliegenden Erfindung eine Inhafationskapsel [bedoeld zal zijn: Inhalationskapsel hof] bereitzustellen die die Applikation des Wirkstoffs bei gutem Entleerungsverhalten der Inhaiationskapsel [bedoeld zal zijn: Inhalationskapsel hof] ermöglicht.
+ 
+
+Eine weitere Aufgabe der vorliegenden Erfindung besteht in der Bereitstellung von Inhalationskapseln die bei hoher Stabilität und geringer Brüchigkeit ein gutes Lochungsverhalten aufweisen und dadurch problemlos in zur Applikation von Inhaletten geigneten [bedoeld zal zijn: geeigneten hof] Inhalationsgeräten zur Anwendung gelangen können. (…)
+ 
+
+[0007] Überraschenderweise wurde gefunden daβ die eingangs genannten Aufgaben durch die nachstehend beschriebenen erfindungsgemäβen Inhalationskapseln (Inhaletten) gelöst werden. 
+ 
+
+[0008] Bei den erfindungsgemäβen Inhalationskapseln (Inhaletten) handelt es sich um Kapseln die als Inhalationspulver Tiotropium im Gemisch mit einem physiologisch unbedenklichen Hilfsstoff enthalten dadurch gekennzeichnet daβ das Kapselmaterial einen reduzierten Feuchtegehalt aufweist.
+ 
+
+[0009] Der Begriff des reduzierten Feuchtegehalts ist im Rahmen der vorliegenden Erfindung definiert als äquivalent zu der Bezeichnung einer TEWS-Feuchte von weniger als 15%.
+ 
+
+[0015] Werden Cellulosederivate als Kapselmaterial verwendet so ist die Verwendung von Hydroxypropylmethylcellulose Hydroxypropylcellulose Methylcellulose Hydroxymethylcellulose und Hydroxyethylcellulose bevorzugt. Besonders bevorzugt wird in diesem Fall Hydroxypropylmethylcellulose (HPMC) besonders bevorzugt HPMC 2910 als Kapselmaterial eingesetzt. Im Falle der Verwendung von Cellulosederivaten als Kapselmaterialien liegt der Grad der TEWS- oder Halogentrockner-Feuchte vorzugsweise bei weniger als 8% besonders bevorzugt bei weniger als 5%. Hochst bevorzugt werden lnhalationskapseln aus Cellulosederivaten vor Befüllung mit dem Tiotropiumhaltigen lnhalationspulver auf eine TEWS- oder Halogentrockner-Feuchte von weniger als 4 % besonders bevorzugt weniger als 2% getrocknet.
+ 
+
+[0018] Erfindungswesentlich ist bei der Herstellung der erfindungsgemäβen lnhalationskapseln daβ sofern das Kapselmaterial vor Befüllung mit dem wirkstoffhaltigen lnhalationspulver nicht bereits aufgrund entsprechender Lagerung oder Herstellung mit ausreichend reduziertem Feuchtegehalt zur Verfügung steht eine Trocknung der leeren
+Kapseln erfolgt. Diese Trocknung wird solange durchgeführt bis ein Feuchtigkeitsgrad erreicht ist wie er der erfindungsgemaβen Spezifikation von maximal 15% TEWS- oder Halogentrockner-Feuchte entspricht.
+ 
+
+
+2.7
+Een publicatie van Richard Casaburi c.s. getiteld ‘The Spirometric Efficacy of Once-Daily Dosing With Tiotropium in Stable COPD A 13-Week Multicenter Trial’ in CHEST vol. 118(5) november 2000 p. 1294–1302 (hierna: Casaburi) bevat de volgende passages:  
+
+Patients: Four hundred seventy patients with stable COPD (mean FEV1 = 38.6% predicted).
+ 
+
+Interventions: Tiotropium 18 µg (N = 279) or placebo (N = 191) given once daily via a lactose-based dry-powder inhaler device. (…)
+ 
+
+The parasympathetic nervous system plays an important role in autonomic control of airways and is believed to be largely responsible for resting bronchomotor tone in COPD.1-5 Although anticholinergic drugs have been known to have bronchodilating properties for centuries side effects limited their therapeutic utility. This was overcome by thedevelopment of ipratropium bromide whose structural features limited absorption thus minimizing side effects common to atropine-like drugs. During the past two decades ipratropium bromide has emerged as an effective maintenance bronchodilator therapy for COPD.1-5
+ 
+
+More recently another important milestone in anticholinergic airway pharmacology has been achieved with the discovery of tiotropium bromide.6-8 Like ipratropium tiotropium is distinguished from atropine by its positively charged quaternary ammonium structure that is responsible for its limited systemic absorption. On a receptor level tiotropium has been shown to have a binding affinity similar for all three human muscarinic receptor subtypes (apparent KD: M1 0.27 nM; M2 0.12nM; M3 0.33 nM). However it dissociates very slowly from M1 and M3 receptors which mediate bronchoconstriction (14.6- and 34.7-h half-life respectively) and more rapidly from M2 receptors which inhibit acetylcholine release from cholinergic nerve endings (3.6-h half-life). For all receptor subtypes tiotropium dissociates much more slowly than ipratropium (0.035- to 0.26-h half-life). Taken together these data indicate that tiotropium has kinetic selectivity. This slow dissociation from M1 and M3 receptors results in a prolonged duration of action in physiologic experiments.6-9 (…)
+ 
+
+Subjects took the study medication by inhalation once daily between the hours of 8 AM and 10 AM. This was a double-blind study in which the active medication and placebo were delivered by identically appearing lactose-based inhalers (HandiHaler BIPI; Ridgefield CT). To use this device patients placed a single capsule in the device pressed a button to puncture the capsule and then inhaled slowly and deeply to evacuate the powder for inhalation. (…)
+ 
+
+In summary tiotropium was demonstrated to provide superior efficacy relative to placebo for both in-clinic spirometry and daily measurements of peak flow. These observations were accompanied by better symptom control and subjective global assessments as well as by less reliance on rescue albuterol. Other than the reported increase in dry mouth tiotropium was judged as safe and well tolerated during the 3 months of study. The results of this study suggest that tiotropium should prove useful as once-daily bronchodilator therapy for COPD.
+ 
+
+
+2.8
+Een bijdrage van Toshihiro Ogura c.s. getiteld ‘HPMC Capsules - An Alternative to Gelatin’ geplaatst in het novembernummer van Pharmaceutical Technology Europe van 1998 (hierna: Ogura) bevat de volgende passages:  
+
+Hydroxypropyl methylcellulose (HPMC) capsules are made of plant-derived materials and do not contain components of animal origin eliminating problems with religious or vegetarian dietary restrictions. Unlike gelatin HPMC does not have chemically reactive groups dramatically decreasing the potential for reactions between the drug and the capsule shell. HPMC capsules have a naturally low moisture content maintain mechanical integrity under extremely low-moisture conditions and are therefore ideally suited for use with formulations containing water-unstable drugs. (…)
+ 
+
+Capsules do have some drawbacks. Capsule shells made from gelatin the main material used for this purpose generally contain 13-15% water and therefore may not be suitable for use with readily hydrolysable drugs. Some drugs may react with the amino groups of gelatin causing discolouration or formation of crosslinks between gelatin molecules which retard capsule dissolution. Gelatin products are sometimes shunned as a result of religious or vegetarian dietary restrictions. For these reasons work is under way to develop capsules made of starch cellulose or polyvinyl alcohol/vinyl acetate mixtures. Yamamoto et al. recently succeeded in making capsules from hydroxypropyl methylcellulose 2910 (HPMC)1 a material also used as a water-soluble film coating. We have confirmed the applicability of the HPMC capsule to products.2 As USP EP and JP (the United States European and Japanese pharmacopoeia) monographs all describe capsules made of cellulose or methylcellulose in addition to gelatin the HPMC capsule conforms to pharmacopoeial standards. (…)
+ 
+
+The HPMC capsule is odourless and flexible and exhibits similar dissolution behaviour to the gelatin capsule. Its appearance is the same except that it lacks the lustre of gelatin. The physical properties of both HPMC and gelatin capsule shells that may affect stability and dissolution and therefore their suitability for use with various formulations and intended use are listed in Table I.
+ 
+
+Capsule hardness. There are two components of capsule shell hardness – brittleness and tolerance to deformation – which determine suitability for use with automated encapsulating machines as well as end use. When the moisture content of the capsule shell is decreased as may occur when a desiccant is added to a package of capsules containing moisture-labile drugs gelatin capsules tend to become brittle and are subject to breakage during transport and storage. (…) The results of our testing show that the percentage of broken gelatin capsules sharply increases as the moisture content of the hard gelatin shell drops below 10% although the degree of brittleness can be modified somewhat by addition of polyethylene glycol (PEG) during manufacture. In contrast no brittleness was observed in HPMC capsule shells even at moisture levels of only 2%. (…)
+ 
+
+As can be seen in Figure 2b tolerance (resistance) of both type of capsules to deformation increased with decreasing moisture content. The two types of capsules show equivalent tolerance to deformation at their average moisture content levels – 2-5% for HPMC capsules and 13-15% for gelatin capsules. (…)
+ 
+
+Some drugs react with gelatin which may prolong dissolution or result in discolouration of the capsule shell during storage. Other drugs become hydrolysed by the moisture contained in the gelatin capsule shell. HPMC is not only chemically inert but has a lower moisture content (2-5%) permitting maintenance of a low humidity environment within the HPMC capsule shell. (...) 
+ 
+
+Although HPMC capsules have a naturally low moisture content the HPMC film does contain some adsorbed water that is readily released. For drugs that are extremely moisture sensitive it may still be desirable to add water absorbent excipients to the formulation and desiccants to the container to enhance stability. Hydroxypropyl methylcellulose (HPMC) capsules as described in this article are particularly well suited to these situations because they resist becoming brittle under low humidity conditions. (...) 
+ 
+
+Capsules have also been used as unit-dose containers to administer finely divided powders with specially designed inhalation devices. In the past such delivery systems have encountered problems including adherence of the powder to the gelatine capsule because of static electricity and capsule breakage because of the brittleness that results from storage under very low humidity. The HPMC capsule avoids these problems and would be appropriate for use in these situations. (…)
+ 
+
+Conclusion
+ 
+
+HPMC does not have chemically reactive groups such as those in gelatin dramatically decreasing the potential for interaction between filled drug and capsule shell.
+ 
+
+HPMC has naturally low moisture content maintains mechanical integrity under extremely low-moisture conditions such as that created by addition of water adsorbent excipients and is therefore ideally suited for use with formulations containg water-unstable drugs.
+ 
+
+Dissolution profiles of HPMC and gelatin capsules are comparable over a wide range of pH values. Human studies show that oral bioavailability of cephalexin in HPMC capsules is identical to that delivered in standard gelatin capsules.
+ 
+
+
+2.9
+In de ‘Draft Guidance for Industry: Metered Dose Inhaler (MDI) and Dry Powder Inhaler (DPI) Drug Products: Chemistry Manufacturing and Controls Documentation’ van de Department of Health and Human Services van de Amerikaanse Food and Drug Administration uit oktober 1998 is op bladzijde 23 het volgende opgenomen onder “DPI’s”: 
+
+Water in the drug product should be strictly limited since it may have a significant effect on characteristics such as aerosolization of the particles particle size distribution crystallinity dose content uniformity microbial content and stability.
+ 
+
+
+2.10
+Bij vonnis van 21 oktober 2015 in de parallelle procedure in Engeland heeft de Engelse High Court (Justice Morgan [2015] EWHC 2963 (Pat)) geoordeeld dat het gebruik van HPMC als capsulemateriaal voor de hand liggend was en dat de geclaimde vochtpercentages arbitrair waren en inventiviteit ontbeerden.  
+
+
+2.11
+Het Duitse Bundesgerichtshof heeft bij uitspraak van 12 januari 2016 het octrooi in zijn geheel ongeldig bevonden.  
+
+
+2.12
+Parallelle procedures zijn aanhangig (geweest) in (onder meer) Noorwegen Zweden Denemarken Italië Ierland België en Spanje.  
+
+
+
+
+3 Het geschil in eerste aanleg en in hoger beroep 
+
+3.1
+In eerste aanleg heeft Teva aanvankelijk de vernietiging van (alle conclusies van) EP 220 gevorderd. Boehringer heeft daarop haar octrooi slechts verdedigd in de vorm van de gewijzigde conclusies. Teva heeft vervolgens alleen nog de vernietiging van de gewijzigde conclusies 6 t/m 13 van EP 220 gevorderd met veroordeling van Boehringer in de volledige proceskosten overeenkomstig artikel 1019h van het Wetboek van Burgerlijke Rechtsvordering (hierna: Rv) zulks uitvoerbaar bij voorraad. 
+
+
+3.2
+Teva heeft aan haar vordering ten grondslag gelegd dat de gewijzigde conclusies 6 tot en met 13 nietig zijn wegens een gebrek aan inventiviteit en dat de gewijzigde conclusies 7 tot en met 13 nietig zijn wegens toegevoegde materie. Deze laatste grondslag is door de rechtbank wegens strijd met de goede procesorde buiten beschouwing gelaten.   
+
+
+3.3
+De rechtbank heeft geoordeeld dat de gewijzigde conclusies 6 t/m 13 inventiviteit ontberen. Omdat de door Boehringer in de procedure in eerste aanleg betrokken gewijzigde conclusies nog geen formele status hadden verkregen (middels een akte van afstand of een centrale beperking in de zin van artikel 105a Verdrag inzake de verlening van Europese octrooien (Europees Octrooiverdrag)) heeft de rechtbank EP 220 vernietigd voor zover het meer omvat dan de materie van de gewijzigde conclusies 1 tot en met 5 en de gewijzigde conclusies 12 en 13 voor zover daarnaar terugverwijzend.  
+
+
+3.4
+Met de door Boehringer aangevoerde grieven komt zij op tegen dit oordeel van de rechtbank. De grieven strekken ertoe dat het hof het geschil in volle omvang beoordeelt. In hoger beroep vordert Boehringer dat de vorderingen van Teva alsnog worden afgewezen met veroordeling van Teva in de op de voet van 1019h Rv te begroten kosten in beide instanties uitvoerbaar bij voorraad.   
+
+
+3.5
+In incidenteel appel heeft Teva ertegen gegriefd dat de rechtbank de uitbreiding van de grondslag van haar nietigheidsvordering met argumenten gebaseerd op ongeoorloofde toegevoegde materie buiten beschouwing heeft gelaten wegens strijd met de goede procesorde. In hoger beroep heeft zij deze grondslag alsnog aangevoerd.  
+
+
+3.6
+In incidenteel appel heeft Teva voorts haar eis vermeerderd door ook de vernietiging te vorderen van de gewijzigde conclusies 1 tot en met 5 van EP 220 die betrekking hebben op PEG-gelatine capsules. Bij memorie van antwoord in incidenteel appel heeft Boehringer tegen die eisvermeerdering bezwaar gemaakt. Nadat partijen ter zake in de gelegenheid zijn gesteld hun standpunten toe te lichten heeft het hof na beraad ter zitting beslist dat de eiswijziging van Teva wegens strijd met de eisen van een goede procesorde buiten beschouwing wordt gelaten. In eerste aanleg heeft Teva weliswaar geen afstand gedaan van vernietiging van de gewijzigde conclusies 1 tot en met 5 maar zij heeft door aanvankelijk de integrale vernietiging van EP 220 te vorderen en vervolgens haar nietigheidsvordering tot de gewijzigde conclusies 6 tot en met 13 te beperken op zijn minst wel de indruk gewekt dat de rechtsstrijd in deze procedure beperkt zou worden tot de gewijzigde conclusies 6 tot en met 13 betrekking hebbend op HPMC capsules. In hoger beroep heeft Teva eerst op een laat moment en niet reeds na dagvaarding (en voordat Boehringer haar memorie van grieven heeft genomen) laten weten dat zij haar eis wenste te vermeerderen zonder dat zij daarvoor een reden heeft gegeven. Daarenboven zou met de beoogde eisvermeerdering de omvang van de rechtsstrijd in dat late stadium van de procedure in aanzienlijke mate worden uitgebreid.  
+
+
+
+
+4 Beoordeling  
+
+4.1
+De door Boehringer voorgestelde gewijzigde conclusies van het octrooi waar het in deze zaak om gaat hebben betrekking op poederformuleringen van tiotropium dat met een Dry Powder Inhaler (DPI) wordt toegediend voor de behandeling van de longaandoening COPD (Chronic Obstructive Pulmonary Disease).  
+
+
+4.2
+Boehringer verwijt de rechtbank een onjuiste – te beperkte – lezing van de gewijzigde conclusies van het octrooi. Volgens Boehringer volgt uit een lezing van die conclusies (6 t/m 13) door de gemiddelde vakman in het licht van de beschrijving gebruik makend van zijn algemene vakkennis en met een ‘mind willing to understand’ dat de kern van de uitvinding daarin is gelegen dat door het hanteren van capsulemateriaal met een lager vochtgehalte dan dat het bij normale omstandigheden (‘ambient conditions’) zou hebben betere capsules dan die volgens de stand van de techniek worden verkregen. Die verbetering betreft de in paragraaf 6 van het octrooi genoemde aspecten te weten stabiliteit van de werkzame stof doseringsnauwkeurigheid ledigingsgedrag en perforatiegedrag. Het hanteren van een vochtgehalte lager dan dat onder ‘ambient conditions’ impliceert – en de vakman zou dat volgens Boehringer ook begrijpen – dat een actieve droogstap nodig is.  
+
+
+4.3
+Boehringer kan hierin niet worden gevolgd. De eigen deskundige van Boehringer professor Friess heeft verklaard dat algemeen is aanvaard dat het vochtgehalte van HPMC onder ‘ambient conditions’ in de range tussen 5 en 7% ligt. Het begrip ‘reduzierten Feuchtgehalts’ wordt in paragraaf 9 van het octrooi in het kader van de uitvinding volgens EP 220 gedefinieerd als ‘äquivalent zu der Bezeichnung einer TEWS-Feuchte von weniger als 15%’. De in paragraaf 9 genoemde bovengrens van 15% beneden welke sprake is van ‘gereduceerd vochtgehalte’ bevindt zich dus ruimschoots boven het vochtgehalte van HPMC bij normale omstandigheden. Daarmee wordt geen actieve droogstap geïmpliceerd. 
+
+
+4.4
+Volgens Boehringer is het evenwel voor de gemiddelde vakman op grond van zijn algemene vakkennis duidelijk dat de in paragraaf 9 genoemde bovengrens van 15% betrekking heeft op de bovengrens van het vochtgehalte van gelatine – een op de prioriteitsdatum veel gebruikt capsulemateriaal – bij normale omstandigheden. De gemiddelde vakman zou voor de bij HPMC toepasselijke bovengrens te rade gaan bij paragraaf 15 van de beschrijving en de daar voor HPMC genoemde bovengrens ‘inlezen’ in paragraaf 9. Als Boehringer daarin al zou worden gevolgd dan kan dat haar nog niet baten. In paragraaf 15 staat geen bovengrens voor HPMC genoemd. Wel wordt in die paragraaf een vochtpercentage van minder dan 8% reeds aangemerkt als ‘bevorzugt’. De gemiddelde vakman zal daarom aannemen dat reeds bij dat vochtgehalte – dat dus ligt boven de bovengrens van het vochtpercentage van HPMC bij ‘ambient conditions’ – sprake is van ‘reduzierten Feuchtgehalts’ als bedoeld in paragraaf 9 waarbij de in paragraaf 6 van de beschrijving genoemde voordelen zich zullen voordoen. De gemiddelde vakman zal (ook) hier dus niet uit afleiden dat het vochtpercentage van HPMC – teneinde de aan de uitvinding verbonden voordelen te verkrijgen – beneden het vochtpercentage onder ‘ambient conditions’ derhalve onder de 5% moet liggen en er een actieve droogstap nodig zal zijn om het beoogde percentage te bereiken zoals Boehringer stelt. Overigens valt dit ook niet af te leiden uit de beschrijving als wordt gekeken naar het vochtgehalte van gelatine. Niet in geschil is dat dit onder ‘ambient conditions’ tussen de 13 en 15% bedraagt. Ook daarvoor geldt dus dat geen actieve droogstap nodig is om de in paragraaf 6 bedoelde voordelen te behalen bij het in paragraaf 9 (volgens Boehringer met het oog op gelatine genoemde) vochtpercentage van 15%.  
+
+
+4.5
+Anders dan Boehringer aanvoert zal de gemiddelde vakman dat ook niet afleiden uit paragraaf 18 van de beschrijving. In die paragraaf wordt alleen beschreven dat een actieve droogstap kan worden doorgevoerd voor zover niet reeds een capsule met een op grond van passende opslag of vervaardiging genoegzaam gereduceerd vochtgehalte ter beschikking staat. De droging moet zo lang worden doorgevoerd totdat een vochtigheidsgehalte is bereikt dat voldoet aan de specificatie volgens de uitvinding van maximaal 15%. De vakman zal dit laatste begrijpen als een verwijzing naar paragraaf 9. Zelfs als de gemiddelde vakman hier de in paragraaf 15 genoemde waarde voor HPMC zou inlezen dan volgt daaruit nog niet dat een actieve droogstap noodzakelijk is zoals hiervoor reeds overwogen.   
+
+
+4.6
+Gelet op het voorgaande kan niet worden aanvaard dat de leer van het octrooi daarin is gelegen dat het vochtgehalte van HPMC capsulemateriaal volgens het octrooi beneden ‘ambient conditions’ ligt en dat dit wordt bereikt door middel van een actieve droogstap. Veeleer maakt de gemiddelde vakman uit de beschrijving op dat bij HPMC met een vochtgehalte van minder dan 8% reeds sprake is van ‘gereduceerd vochtgehalte’ en dat daarmee de in paragraaf 6 van de beschrijving genoemde voordelen reeds worden bereikt. Boehringer heeft niet duidelijk gemaakt waarom de gemiddelde vakman dat anders zou zien. Het octrooi leert niet dat en waarom de in gewijzigde conclusies 6 tot en met 8 genoemde percentages van ≤ 5% < 4% respectievelijk < 2% iets uitmaken in die zin dat daarmee iets anders of beters wordt bereikt dan met een vochtpercentage van HPMC gelegen tussen 5% en 8% (dus reeds met vochtgehalte bij ambient conditions en iets daarboven). Boehringer heeft ook niet voldoende gemotiveerd aangevoerd dat de gemiddelde vakman reeds op grond van zijn algemene vakkennis zou aannemen dat aan een verdere verlaging van het vochtgehalte tot gelijk aan of beneden 5% nog andere of verdere voordelen waren verbonden dan die genoemd in paragraaf 6 van de beschrijving (en die zich naar de vakman begrijpt al voordoen bij een vochtgehalte beneden de 8%). Integendeel Boehringer heeft nadrukkelijk gesteld dat de gemiddelde vakman er niet van zou uitgaan dat een drogere capsule noodzakelijkerwijs ook beter zou zijn gelet op nadelen die zijn verbonden aan te droge capsules zoals problemen met statische elektriciteit. 
+
+
+4.7
+De slotsom is dat voor het conclusiekenmerk ‘en een gereduceerd vochtgehalte als TEWS- of halogeendroger-vochtgehalte van ≤5% (respectievelijk minder dan 4% respectievelijk minder dan 2%) heeft’ uit gewijzigde conclusies 6 tot en met 8 geen enkel (verder) technisch effect is geopenbaard. De rapporten waarnaar Boehringer heeft verwezen ter onderbouwing van het technisch effect dat optreedt bij het gebruik van HPMC capsules met een vochtigheidshalte van lager dan 5% dateren van na de prioritietsdatum en moeten bij deze stand van zaken buiten beschouwing blijven. Volgens vaste rechtspraak kan op zogenoemde post-filed data immers alleen een beroep worden gedaan indien het optreden van een gesteld technisch effect voor de gemiddelde vakman reeds uit de beschrijving valt op te maken ofwel: voldoende plausibel is. Bij gebreke van zelfs maar enig geopenbaard technisch effect kan daarvan geen sprake zijn. De vraag welke toets moet worden aangelegd bij de beoordeling van plausibiliteit (de mate van aannemelijkheid van het optreden van een gesteld technisch effect) behoeft derhalve geen bespreking.  
+
+
+4.8
+Uit het voorgaande volgt dat de in de conclusies 6 t/m 8 genoemde grenswaarden niet anders kunnen worden gezien dan als arbitraire keuzes waarin geen op uitvinderwerkzaamheid gebaseerde bijdrage aan de stand van de techniek kan worden onderkend. De rechtbank heeft daarom terecht overwogen dat de inventiviteit van die conclusies niet in dat conclusiekenmerk kan zijn gelegen.  
+
+
+4.9
+In het vochtigheidsgehalte van 5-8% van een HPMC capsule kan de inventiviteit evenmin gelegen zijn. Naar Boehringer heeft gesteld was het op de prioriteitsdatum gebruikelijk dat DPI producten geformuleerd werden bij ambient conditions (par. 78 pleitnota HB). Daaruit volgt dat als een HPMC capsule gebruikt zou worden deze een vochtigheidsgehalte zou hebben dat binnen die range valt omdat het bij ambient conditions een vochtigheidsgehalte heeft van 5-7%. Hoewel Boehringer nadrukkelijk stelt dat de uitvinding is gelegen in het gebruik van een HPMC capsule met een verlaagd vochtgehalte (van 5% of lager) en niet zozeer in het gebruik van HPMC als capsulemateriaal als zodanig (onder ambient conditions) zal het hof – voor zover de stellingen van Boehringer aldus moeten worden begrepen dat zij zich subsidiair op het standpunt stelt dat de uitvinding daarin is gelegen – dat hierna beoordelen.  
+
+
+4.10
+Beide partijen gaan ervan uit dat op de prioriteitsdatum DPI producten bekend waren waarbij voor de capsule gebruik werd gemaakt van gelatine. Niet (langer) in geschil is dat dergelijke capsules (impliciet) zijn geopenbaard in Casaburi (zie par. 76 MvG). Deze publicatie is door de rechtbank aangemerkt als de meest nabije stand van de techniek waartegen Boehringer niet heeft gegriefd. De opmerking in noot 13 van haar MvG dat zij dit niet geacht moet worden positief te erkennen kan – bij gebreke van een nadere onderbouwing en standpunt ten aanzien van hetgeen dan wel als meest nabije stand van de techniek moet worden beschouwd – niet als grief worden beschouwd. Het verschil met Casaburi is het gebruik van HPMC als capsulemateriaal. In (de beschrijving van) het octrooi worden diverse materialen die geschikt (kunnen) zijn voor gebruik als capsulemateriaal genoemd en geclaimd. Er wordt in de beschrijving niet enig specifiek voordeel van het gebruik van het ene of het andere materiaal genoemd. Ook voor het gebruik van HPMC zijn geen specifieke voordelen beschreven. Zoals de rechtbank terecht heeft overwogen is HPMC derhalve te beschouwen als een louter alternatief voor gelatine als capsulemateriaal. Het objectieve technische probleem kan derhalve worden geformuleerd als “het verschaffen van een alternatief capsulemateriaal geschikt voor toediening van tiotropiumbromide in inhaleerbare droge poedervorm”. De vraag die dan moet worden beantwoord is of het voor de gemiddelde vakman die op zoek is naar een oplossing voor dit probleem op de prioriteitsdatum voor de hand lag om in plaats van gelatine gebruik te maken van HPMC als capsulemateriaal. 
+
+
+4.11
+Niet valt in te zien waarom in die probleemstelling hindsight zou zijn ingebouwd door alleen op het capsulemateriaal te focussen zoals Boehringer stelt. De in aanmerking te nemen verschilmaatregel betreft immers alleen het gebruik van HPMC in plaats van gelatine als capsulemateriaal zonder dat daaraan enig specifiek voordeel is verbonden. Tiotropium in poedervorm (met glucose als drager) in een capsule voor gebruik in een DPI was op de prioriteitsdatum al bekend uit klinische studies (onder meer beschreven in Casaburi). Boehringer heeft niet onderbouwd waarom de gemiddelde vakman gegeven het technische probleem aanleiding zou zien daarin enige verandering aan te brengen. Aldus kan ook niet als juist worden aanvaard dat de gemiddelde vakman het volledige door Boehringer geschetste omvangrijke stappenplan voor het ontwikkelen van een inhalatiemedicijn zou volgen waaronder ook (en zelfs in de eerste plaats) onderzoek naar de werkzame stof en hulpstoffen.  
+
+
+4.12
+Boehringer meent dat het gebruik van HPMC als capsulemateriaal niet voor de hand lag reeds omdat de gelatinecapsules volgens de stand van de techniek in het algemeen prima voldeden zodat de gemiddelde vakman niet gemotiveerd was alternatieven te onderzoeken. Dat standpunt wordt verworpen. De gemiddelde vakman is in beginsel altijd gemotiveerd een voorliggend probleem op te lossen.  
+
+
+4.13
+Daarenboven kan dat standpunt van Boehringer niet als juist worden aanvaard omdat het op de prioriteitsdatum bij de gemiddelde vakman bekend was dat er wel nadelen waren verbonden aan het gebruik van gelatinecapsules in het bijzonder dat dergelijke capsules bros worden indien het vochtgehalte van de gelatine beneden 10% daalt. Daardoor kunnen de capsules tijdens opslag of gebruik (met name bij perforatie) gemakkelijk breken en daarmee ongeschikt worden voor gebruik. Het voorkomen van deze problemen stelt eisen aan productie- en opslagomstandigheden en/of verpakking. Verder was het bekend dat gelatine een statische lading kan opbouwen waardoor fijne deeltjes aan de binnenkant van de capsule kunnen blijven kleven en de capsule dus niet volledig wordt geledigd. Daarnaast – wellicht van minder maar niet zonder belang – is gelatine een dierlijk materiaal tegen het gebruik waarvan sommige mensen bezwaren hebben. Naar het oordeel van het hof zijn deze aan het gebruik van gelatine verbonden nadelen voldoende motivatie voor de gemiddelde vakman om de mogelijkheid van alternatief capsulemateriaal te onderzoeken ook al zou tiotropium zelf niet vochtgevoelig zijn (zoals Boehringer stelt maar Teva betwist) waardoor sommige aan het gebruik van gelatine verbonden nadelen (in het bijzonder het vochtig worden van het poeder of een reactie daarvan met gelatine) zich daarbij niet zouden voordoen.  
+
+
+4.14
+Tot de stand van de techniek behoort Ogura. Reeds vanwege de titel van die publicatie (HPMC Capsules - An Alternative to Gelatin) zal de gemiddelde vakman die op zoek is naar een alternatief voor gelatine als capsulemateriaal op deze publicatie stuiten zoals Boehringer ook erkent (par. 129 MvG). Dat de gemiddelde vakman deze publicatie niet serieus zou nemen omdat Pharmaceutical Technology Europe geen hoogwaardig wetenschappelijk tijdschrift zou zijn waarin voornamelijk advertenties staan en is geschreven door medewerkers van de capsule-fabrikant Shionogi zoals Boehringer aanvoert wordt verworpen. De gemiddelde vakman die zich voor het hiervoor geformuleerde probleem geplaatst ziet zal met belangstelling kennis nemen van het artikel van Ogura c.s. Daarin zijn diverse experimenten met HPMC capsules beschreven en verwijzing naar andere wetenschappelijke publicaties opgenomen. Niet valt in te zien waarom de gemiddelde vakman deze publicatie niet serieus zou nemen. Boehringer heeft ook niet op passages in die publicatie gewezen die de gemiddelde vakman ertoe zouden brengen het artikel als ‘niet serieus te nemen’ terzijde te leggen.     
+
+
+4.15
+In Ogura worden de nadelen verbonden aan het gebruik van gelatine genoemd en de geschiktheid en de voordelen verbonden aan het gebruik van HPMC capsules voor DPI producten uiteengezet. Zoals Boehringer heeft opgemerkt heeft Ogura voornamelijk betrekking op het gebruik van HPMC capsules voor oraal gebruik maar niet uitsluitend: het vermeldt daarnaast onder het kopje ‘Other applications’ ook dat de problemen die zich voordoen bij het gebruik van gelatinecapsules voor de toediening van poeder in inhalatiesystemen namelijk ‘adherence of the powder to the gelatine capsule because of static electricity and capsule breakage because of the brittleness that results from storage under very low humidity’ door het gebruik van HPMC capsules worden voorkomen en dat deze ‘would be appropriate for use in these situations’. Dat HPMC capsules het voordeel hebben dat het – anders dan gelatine capsules – ‘maintain mechanical integrity under extremely low-moisture conditions’ is reeds in de korte samenvatting boven het artikel vermeld. De gemiddelde vakman zal daarom zeker van de publicatie kennis nemen.  
+
+
+4.16
+Boehringer stelt zich op het standpunt dat de gemiddelde vakman niettegenstaande deze aanwijzing toch niet gemotiveerd zou zijn de geschiktheid van HPMC als capsulemateriaal te onderzoeken.  Zij heeft erop gewezen dat Ogura geen informatie bevat over de benodigde perforatie- en ledigingseigenschappen van HPMC capsules. Anders dan Boehringer stelt zou de gemiddelde vakman zich hierdoor niet laten weerhouden van het doen van onderzoek naar de geschiktheid van HPMC als alternatief capsulemateriaal. Ogura vermeldt juist dat HPMC capsules geschikt zijn voor gebruik met een inhalator en Boehringer heeft niet onderbouwd waarom de gemiddelde vakman daaraan zou twijfelen. Voorts is niet gesteld of gebleken is dat het doen van onderzoek naar perforatie- en ledigingseigenschappen van HPMC capsules voor de gemiddelde vakman meer zou vergen dan het doen van routinematige testen of anderszins een ‘undue burden’ zou opleveren.  
+
+
+4.17
+Verder heeft Boehringer erop gewezen dat de gemiddelde vakman in Ogura leest dat “Although HPMC capsules have a naturally low moisture content the HPMC film does contain some adsorbed water that is readily released”. Naar het oordeel van het hof zou de gemiddelde vakman zich hierdoor evenmin laten afschrikken. Naar Boehringer zelf stelt (par. 77 MvG) zou de gemiddelde vakman op basis van documenten uit de stand van de techniek hebben verondersteld dat tiotropium niet gevoelig was voor water. Dat de gemiddelde vakman – ondanks dat Ogura vermeldt dat dit alleen speelt bij geneesmiddelen die extreem vochtgevoelig zijn – de bedoelde passage aldus zou begrijpen (kennelijk op basis van zijn algemene vakkennis op de prioriteitsdatum) dat het vocht in HPMC aanwezig is op het oppervlak in de vorm van druppeltjes en daarmee een nadelig effect zou hebben op de dispersie van een DPI-poeder ook als de actieve stof niet vochtgevoelig is zoals Boehringer stelt (par. 143 MvG) heeft zij onvoldoende inzichtelijk gemaakt. De partij-deskundige aan de zijde van Boehringer professor Friess noemt dit ook alleen mogelijk nadelig ‘in as far as water could be relevant’ (1e verklaring par. 75). Ten slotte draagt Ogura mocht het vrijlaten van vocht al een probleem zijn daarvoor reeds een oplossing aan: “For drugs that are extremely moisture sensitive it may still be desirable to add water absorbent excipients to the formulation and desiccants to the container to enhance stability”. 
+
+
+4.18
+Dat de gemiddelde vakman zou afzien van onderzoek naar de geschiktheid van HPMC als capsulemateriaal omdat deze capsules nog niet op de markt waren en voor zo’n product een nieuwe marktvergunning nodig zou zijn kan evenmin als juist worden aanvaard. Gelet op de publicatie van Ogura – geschreven door de general manager en een onderzoeker van Shionogi producent van capsules – zou de gemiddelde vakman verwachten dat dergelijke capsules binnen afzienbare tijd aangeboden zouden gaan worden. De noodzaak van een nieuwe marktvergunning is een vertragende factor die aan ieder nieuw (of nieuw geformuleerd) geneesmiddel kleeft maar geen omstandigheid die een gemiddelde vakman die zoekt naar een oplossing van het hier aan de orde zijnde probleem zou weerhouden van het doen van verder onderzoek naar de geschiktheid van HPMC als alternatief capsulemateriaal.   
+
+
+4.19
+Evenmin kan worden aangenomen dat de gemiddelde vakman ervan zou afzien HPMC als capsulemateriaal te proberen omdat tiotropium significant sneller zou degraderen in een HPMC-capsule dan in een gelatinecapsule. Boehringer heeft naar haar eigen testresultaten verwezen (stellende dat de gemiddelde vakman zo’n compatibiliteitstest zou uitvoeren) waaruit zou volgen dat de degradatie van tiotropium met gelatine 13% zou bedragen en van tiotropium met HPMC 28%. Wat er zij van de statistische relevantie van dit verschil naar het oordeel van het hof is dit ene onderzoek met een enkel monster en dergelijke niet ver van elkaar liggende resultaten onvoldoende om zodanig afbreuk te doen aan de redelijke verwachting van succes die de gemiddelde vakman op grond van Ogura heeft dat hij zijn onderzoek naar de geschiktheid van HPMC als alternatief capsulemateriaal direct zou staken zoals ook verklaard door de partij-deskundige aan de zijde van Teva professor Frijlink.  Daar komt bij dat te minder aannemelijk is dat de gemiddelde vakman op de prioriteitsdatum ernstige bedenkingen had bij de geschiktheid van HPMC wegens compatibiliteitsproblemen omdat de beschrijving dergelijke problemen noch het (verrassenderwijs) toch geschikt zijn van HPMC vermeldt. 
+
+
+4.20
+Boehringer heeft verder onder verwijzing naar een publicatie van na de prioriteitsdatum gewezen op het aan HPMC capsules klevende nadeel van (ten opzichte van gelatine) hogere zuurstofdoorlatendheid. Mede in het licht van de stelling van Teva (bij monde van Frijlink 4e verklaring par. 15) dat dit niet relevant is omdat de capsules grotendeels gevuld zijn met zuurstofhoudende lucht heeft Boehringer onvoldoende onderbouwd dat de gemiddelde vakman dit gestelde probleem (op voorhand) zou onderkennen en / of daarop bij zijn onderzoek naar de geschiktheid van HPMC als alternatief capsulemateriaal voor een tiotropium DPI product zou stuiten en daarom zou afzien van verder onderzoek naar HPMC. Daarenboven geldt ook hiervoor dat dit probleem noch de overwinning ervan in de beschrijving van het octrooi is vermeld. 	  
+
+
+4.21
+Het door Boehringer genoemde nadelige ‘tribo-elektrisch effect’ dat zou optreden bij het drogen van een HPMC capsule voor DPI formulering kan als niet ter zake doend onbesproken blijven nu het octrooi zoals hiervoor overwogen geen droogstap impliceert en de vakman zich daardoor derhalve niet zou laten weerhouden.  
+
+
+4.22
+Het voorgaande leidt tot de slotsom dat de gemiddelde vakman uitgaande van Casaburi en kennis nemend van Ogura zonder inventieve denkarbeid tot de oplossing van het voorliggende probleem zou komen. Ogura wijst hem in de richting van HPMC als alternief voor gelatine als capsulemateriaal. Er zijn geen omstandigheden die zodanig afbreuk doen aan zijn redelijke verwachting van succes dat hij daarvan zou afzien. Dat betekent dat gewijzigde conclusies 6 t/m 8 inventiviteit ontberen. Tegen het oordeel van de rechtbank dat ook de conclusies 9 t/m 13 niet geldig zijn wegens gebrek aan inventiviteit heeft Boehringer geen grief gericht. De slotsom is daarom dat het vonnis dient te worden bekrachtigd. Bij die stand van zaken heeft Teva geen belang bij haar grieven in incidenteel appel zodat deze onbesproken kunnen blijven.  
+
+
+4.23
+Boehringer zal als de in het ongelijk gestelde partij worden veroordeeld in de proceskosten van Teva in hoger beroep. Teva heeft haar kosten gespecificeerd tot een bedrag van €322.13246. Boehringer heeft deze kosten niet bestreden. Het hof dient evenwel ambtshalve de redelijkheid en evenredigheid van de gevorderde proceskosten te beoordelen. In aanmerking genomen de reeds in eerste aanleg begrote kosten en de aard en omvang van het voorliggende geschil valt niet in te zien dat de kosten in hoger beroep hoger zouden zijn dan die in eerste aanleg. Integendeel gezien de aard en omvang van het geschil in hoger beroep moeten de redelijke en evenredige kosten lager worden begroot. Derhalve ziet het hof aanleiding de door Teva opgegeven kosten te matigen tot een bedrag van € 225.000-. 
+
+
+
+
+5 Beslissing 
+
+Het hof:
+ 
+
+5.1
+bekrachtigt het vonnis waarvan beroep; 
+
+
+5.2
+veroordeelt Boehringer in de kosten van Teva in hoger beroep in principaal en incidenteel appel tezamen begroot op een bedrag van € 225.000-; 
+
+
+5.3
+verklaart de proceskostenveroordeling uitvoerbaar bij voorraad; 
+
+
+5.4
+wijst af het meer of anders gevorderde. 
+
+Dit arrest is gewezen door mrs. R. Kalden M.Y. Bonneur en C.J.J.C. van Nispen en is uitgesproken ter openbare terechtzitting van 11 december 2018 in aanwezigheid van de griffier.
+
+
+

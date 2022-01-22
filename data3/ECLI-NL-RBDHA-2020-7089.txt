@@ -1,0 +1,971 @@
+
+
+
+
+
+
+
+
+
+
+
+
+vonnis
+RECHTBANK DEN HAAG
+
+Team handel
+ 
+
+
+Vonnis van 29 juli 2020
+
+ 
+
+in de zaak met zaaknummer / rolnummer: C/09/581672 / HA ZA 19-1088 van
+ 
+
+
+
+1 BIOGEN B.V.
+te Badhoevedorp en 
+
+2.	de rechtspersoon naar vreemd recht
+
+SAMSUNG BIOEPIS UK LIMITED
+te Brentford Verenigd Koninkrijk
+ 
+
+eiseressen in conventie
+verweersters in reconventie
+advocaat mr. G. Kuipers te Amsterdam
+ 
+
+tegen
+ 
+
+de rechtspersoon naar vreemd recht
+
+RICHTER GEDEON NYRT
+te Boedapest Hongarije
+gedaagde in conventie
+eiseres in reconventie
+advocaat mr. P. Marcelis te Amsterdam
+ 
+
+en in de zaak met zaaknummer / rolnummer C/09/584626 / HA ZA 19-1247 van
+ 
+
+de rechtspersoon naar vreemd recht
+
+RICHTER GEDEON NYRT
+te Boedapest Hongarije
+eiseres in conventie
+verweerster in reconventie
+advocaat mr. P. Marcelis te Amsterdam
+ 
+
+tegen
+ 
+
+
+
+1 BIOGEN NETHERLANDS B.V.
+te Amsterdam en 
+
+
+
+2 SAMSUNG BIOEPIS NL B.V.
+te Delft 
+
+gedaagden in conventie
+eiseressen in reconventie
+advocaat mr. G. Kuipers te Amsterdam.
+ 
+
+Partijen zullen hierna Biogen c.s. en Richter genoemd worden. Zaak 19-1088 wordt ook aangeduid als de geldigheidszaak en zaak 19-1247 als de inbreukzaak. Eiseressen in conventie in de geldigheidszaak worden afzonderlijk aangeduid als B en SB en tezamen als B/SB. Gedaagden in conventie in de geldigheidszaak worden afzonderlijk aangeduid als BNL en SBNL en tezamen als BNL c.s. Met de aanduiding Biogen c.s. wordt gedoeld op B/SB en BNL c.s. tezamen.
+ 
+
+Voor Biogen c.s. zijn de zaken inhoudelijk behandeld door de advocaat voornoemd en door mrs. B.J. Berghuis van Woortman A.F. Kupecz en E.W. Peijster advocaten te Amsterdam. Voor Richter zijn de zaken inhoudelijk behandeld door de advocaat voornoemd tezamen met mr. B.J. Mooij advocaat te Amsterdam en bijgestaan door de octrooigemachtigde drs. K.M.L. Bijvank. 
+ 
+
+
+
+1 De procedure
+
+1.1.
+Het verloop van de procedure blijkt  
+
+
+in de zaak 19-1088 (de geldigheidszaak) uit:
+ 
+
+-
+de beschikking van de voorzieningenrechter van deze rechtbank van 16 augustus 2019 waarbij B/SB verlof is verleend Richter te dagvaarden in de versnelde bodemprocedure in octrooizaken (hierna ook: VRO);
+
+-
+de dagvaarding van 27 augustus 2019; 
+
+-
+de akte houdende overlegging producties EP11 t/m EP17 namens B/SB;
+
+
+
+-
+de conclusie van antwoord tevens conclusie van eis in reconventie met producties GP1 t/m GP11;
+
+-
+de conclusie van antwoord in reconventie met producties EP18 t/m EP23;
+
+-
+de akte houdende overlegging nadere producties namens B/SB van 1 april 2020 met producties EP24 en EP25;
+
+-
+de akte houdende overlegging aanvullende productie namens Richter van 1 april 2020 met productie GP12;
+
+-
+de akte houdende overlegging nadere productie namens B/SB van 15 april 2020 met productie EP26;
+
+-
+de akte houdende reactieve producties namens Richter van 15 april 2020 met producties GP13 en GP14;
+
+-
+de akte houdende overlegging reactieve producties namens B/SB van 1 mei 2020 met productie EP27 t/m EP29;
+
+-
+de akte houdende reactieve productie namens Richter van 1 mei 2020 met productie GP15;
+
+-
+de akte houdende overlegging nadere productie namens B/SB van 13 mei 2020 met productie EP30;
+
+
+
+en in de zaak 19-1247 (de inbreukzaak) uit:
+ 
+
+-
+de beschikking van de voorzieningenrechter van deze rechtbank van 26 november 2019 waarbij Richter verlof is verleend BNL c.s. te dagvaarden in de versnelde bodemprocedure in octrooizaken;
+
+-
+de dagvaarding van 26 november 2019; 
+
+-
+de akte houdende overlegging producties RP21 t/m RP10 namens Richter;
+
+
+- de conclusie van antwoord tevens eis in reconventie met producties BP23 t/m BP39;
+
+-
+de conclusie van antwoord in reconventie met producties RP11 t/m RP15;
+
+-
+de akte houdende overlegging nadere producties namens BNL c.s. van 1 april 2020 met producties BP40 en BP41;
+
+-
+de akte houdende aanvullende producties namens Richter van 15 april 2020 met producties RP16 en RP17;
+
+-
+de akte houdende overlegging nadere productie namens BNL c.s. van 15 april 2020 met productie BP42; 
+
+-
+de akte houdende reactieve productie namens Richter van 1 mei 2020 met productie RP18;
+
+-
+de akte houdende overlegging reactieve producties namens BNL c.s. van 1 mei 2020 met productie BP43 t/m BP45;
+
+-
+de akte houdende reactieve productie namens Richter van 13 mei 2020 met productie RP19;
+
+-
+de akte houdende overlegging nadere productie namens BNL c.s. van 13 mei 2020 met productie BP46;
+
+
+
+en voorts in beide zaken uit: 
+ 
+
+-
+de brief van mr. Kuipers van 22 mei 2020 ter toezending van een gespecificeerd proceskostenoverzicht;
+
+-
+de akte houdende overlegging proceskostenoverzicht namens Richter ingekomen op 22 mei 2020;
+
+-
+het aanvullend proceskostenoverzicht namens Richter ingekomen op 26 mei 2020;
+
+-
+de e-mail van mr. Kuipers van 28 mei 2020 met een aanvullend proceskostenoverzicht; 
+
+-
+de op 27 mei 2020 door partijen schriftelijk ingediende en uitgewisselde pleitnotities (zie 1.3);
+
+-
+de transponeringstabellen voor de in de geldigheids- en inbreukprocedure ingediende producties (bij Biogen c.s. gehecht aan de pleitnota door Richter overgelegd bij e-mail bericht van 28 mei 2020).
+
+
+
+
+1.2.
+Bij brief van 15 mei 2020 heeft Biogen c.s. bezwaar gemaakt tegen producties van Richter en daarin door Richter ingenomen (nieuwe) stellingen waarop Richter bij e-mail van 19 mei 2020 heeft gereageerd. Het bezwaar voor zover dat ziet op producties die overeenkomstig de betreffende VRO-regimes zijn ingediend is door de rechtbank bij brief van 25 mei 2020 verworpen. Ten aanzien van in enkele van die producties gesteld nieuw ingenomen stellingen heeft de rechtbank partijen in dezelfde brief bericht vooralsnog geen aanleiding te zien het bezwaar van Biogen c.s. te honoreren. 
+
+
+1.3.
+In verband met de coronavirus-pandemie is het gecombineerde pleidooi dat in beide zaken in de corresponderende VRO-beschikkingen was bepaald op 29 mei 2020 in overleg met partijen in aangepaste vorm gehouden zonder fysieke aanwezigheid van (de advocaten van) partijen. De gecombineerde pleitnota’s zijn door partijen op 27 mei 2020 schriftelijk uitgewisseld. Het pleidooi in beide zaken is vervolgens ‘voortgezet’ tijdens een video-zitting op 29 mei 2020 in die zin dat de rechtbank aan partijen vragen heeft gesteld en re- en dupliek is gehouden.  
+
+
+1.4.
+Ten slotte is in beide zaken vonnis bepaald op 15 juli 2020. 
+
+
+
+
+2 De feiten
+
+2.1.
+Adalimumab is een monoclonaal antilichaam gericht tegen TNFα een lichaamseigen eiwit dat vaak betrokken is bij auto-immuunziektes. Het antilichaam adalimumab is het werkzame bestanddeel van een geneesmiddel dat door het farmaceutische concern AbbVie onder de merknaam Humira® op de markt wordt gebracht in onder meer Nederland voor de behandeling van bepaalde auto-immuunziektes waaronder reumatoïde artritis de ziekte van Crohn en psoriasis. Humira is in september 2003 goedgekeurd voor Europa door het Europees Geneesmiddelenbureau (EMA) en viel tot oktober 2018 onder de bescherming van AbbVie’s (basis)octrooi voor adalimumab waarvan de bescherming was verlengd met een aanvullend beschermingscertificaat en de pediatrische verlenging. Humira is het best verkochte medicijn ter wereld. Het wordt toegediend via een injectie. 
+
+
+2.2.
+Om adalimumab in een injecteerbare oplossing te formuleren worden hulpstoffen gebruikt voor stabiliteit van het antilichaam waaronder buffers. Een buffer is een waterige oplossing van twee stoffen – een zwak zuur en het zout van de daarbij horende base of omgekeerd een base en het zout van het daarbij horende zuur – die een evenwicht vormen bij een bepaalde pH. Wijzigingen van de oplossing die normaal een verandering van de pH teweeg zouden brengen doen dat niet althans in veel mindere mate wanneer een buffer aanwezig is omdat in plaats daarvan het evenwicht tussen de bufferstoffen verschuift. Humira bevat als buffer een combinatie van citraat en fosfaat. 
+
+
+2.3.
+Richter is houdster van het Europese octrooi EP 3 212 667 B1 (hierna: het octrooi of EP 667) met gelding in onder meer Nederland voor: ‘Pharmaceutical anti-TNF-alpha Antibody Formulation’. Het octrooi is op 19 september 2018 verleend op een aanvrage van 28 oktober 2015 met inroeping van de prioriteit van de Hongaarse octrooiaanvrage HU P1400510 van 28 oktober 2014.  
+
+
+2.4.
+EP 667 zoals verleend telt zeven conclusies waarvan alleen de eerste onafhankelijk is. In de originele Engelse taal luiden de conclusies als volgt: 
+1. A pharmaceutical formulation which is free of a phosphate buffer and selected from the group consisting of: 
+
+(a) a liquid aqueous pharmaceutical formulation comprising a therapeutically effective amount of Adalimumab in a buffered solution comprising L-Histidine and citrate said formulation having a pH of 5 to 5.5 and having a content of aggregated species of Adalimumab after storage at 5°C for 3 to 6 months of less than 5 %;
+(b) a liquid aqueous pharmaceutical formulation comprising a therapeutically effective amount of Adalimumab in a buffered solution comprising L-Histidine and citrate said formulation having a pH of 5 to 5.5 and having a content of aggregated species of Adalimumab after storage at 25°C for 3 to 6 months of less than 5 %;
+(c) a liquid aqueous pharmaceutical formulation comprising a therapeutically effective amount of Adalimumab in a buffered solution comprising L-Histidine and citrate said formulation having a pH of 5 to 5.5 and having a content of acidic species of Adalimumab after storage at 25°C for 3 to 6 months of less than 40 %;
+(d) a liquid aqueous pharmaceutical formulation comprising a therapeutically effective amount of Adalimumab in a buffered solution comprising L-Histidine and citrate said formulation having a pH of 5 to 5.5 and having a content of aggregated species of Adalimumab under heat stress conditions for 10 minutes at 55°C of less than 5 %;
+(e) a liquid aqueous pharmaceutical formulation comprising a therapeutically effective amount of Adalimumab in a buffered solution comprising L-Histidine and citrate said formulation having a pH of 5 to 5.5 and having a content of acidic species of Adalimumab under heat stress conditions for 10 minutes at 55°C of less than 40%; and 
+(f) a liquid aqueous pharmaceutical formulation comprising a therapeutically effective amount of Adalimumab in a buffer solution comprising L-Histidine and citrate said formulation having a pH of 5 to 5.5 and retaining TNFα neutralizing activity of at least 80% after storage of 6 months at a temperature of 5°C or 25°C and/or after being subjected to heat stress for 10 minutes at 55°C freeze-thaw conditions at -20°C to 5°C and/or mechanical stress;
+ 
+
+wherein the concentration of Adalimumab in the pharmaceutical formulation of any one of (a) to (f) is 50 mg/mL and the formulation further comprises a polyol and a surfactant which is a polysorbate and wherein the aggregated species are measured by Size Exclusion High Performance Liquid Chromatography (HP-SEC) and the acidic species are measured by Strong Cation Exchange (SCX) High Performance Liquid Chromatography (SCX-HPLC).
+ 
+2. The formulation of claim 1 which further is suitable for single use subcutaneous injection and contained in a pharmaceutical container. 
+3. A pharmaceutical container comprising the formulation of claim 1 or 2 wherein the container is a prefilled syringe injection pen ampoule bottle autoinjector or an infusion bag preferably being closed under nitrogen protective atmosphere.  
+4. The container of claim 3 wherein the dose strength of Adalimumab is 40 mg. 
+5. The formulation of claim 1 or 2 or the container of claim 3 or 4 for use as a medicament for use in the treatment of a disorder in which TNFα activity is detrimental preferably wherein the disorder in which TNFα activity is detrimental is selected from the group consisting of an autoimmune or inflammatory disorder.  
+6. The formulation or container for use in accordance with claim 5 wherein the formulation is designed to be administered subcutaneously to the human subject in need thereof on a biweekly dosing regimen of every 13-15 days.  
+7. The formulation or container for use in accordance with claim 5 or 6 wherein the formulation is to be administered in combination with an additional therapeutic agent that inhibits TNFα production or activity preferably methotrexate. 
+
+
+2.5.
+De – niet bestreden – Nederlandse vertaling van de conclusies luidt: 
+1. Farmaceutische formulering die vrij is van een fosfaatbuffer en wordt gekozen uit de groep bestaande uit: 
+( a) een vloeibare waterige farmaceutische formulering die een therapeutisch doeltreffende hoeveelheid Adalimumab in een L-histidine en citraat omvattende gebufferde oplossing omvat waarbij de formulering een pH van 5 tot 55 heeft en een gehalte aan geaggregeerde species van Adalimumab na 3 tot 6 maanden opslag bij 5oC van minder dan 5% heeft;
+( b) een vloeibare waterige farmaceutische formulering die een therapeutisch doeltreffende hoeveelheid Adalimumab in een L-histidine en citraat omvattende gebufferde oplossing omvat waarbij de formulering een pH van 5 tot 55 heeft en een gehalte aan geaggregeerde species van Adalimumab na 3 tot 6 maanden opslag bij 25oC van minder dan 5% heeft;
+( c) een vloeibare waterige farmaceutische formulering die een therapeutisch doeltreffende hoeveelheid Adalimumab in een L-histidine en citraat omvattende gebufferde oplossing omvat waarbij de formulering een pH van 5 tot 55 heeft en een gehalte aan zure species van Adalimumab na 3 tot 6 maanden opslag bij 25oC van minder dan 40% heeft;
+( d) een vloeibare waterige farmaceutische formulering die een therapeutisch doeltreffende hoeveelheid van Adalimumab in een L-histidlne en citraat omvattende gebufferde oplossing omvat waarbij de formulering een pH van 5 tot 55 heeft en een gehalte aan geaggregeerde species van Adalimumab onder warmtestressomstandigheden gedurende 10 minuten bij 55oC van minder dan 5% heeft;
+( e) een vloeibare waterige farmaceutische formulering die een therapeutisch doeltreffende hoeveelheid Adalimumab in een L-histidine en citraat omvattende gebufferde oplossing omvat waarbij de formulering een pH van 5 tot 55 heeft en een gehalte aan zure species van Adalimumab onder warmtestressomstandigheden gedurende 10 minuten bij 55oC van minder dan 40% heeft; en
+( f) een vloeibare waterige farmaceutische formulering die een therapeutisch doeltreffende hoeveelheid Adalimumab in een L-histidine en citraat omvattende bufferoplossing omvat waarbij de formulering een pH van 5 tot 55 heeft en een TNF-α neutraliserende activiteit na 6 maanden opslag bij een temperatuur van 5oC of 25oC en/of na te zijn blootgesteld aan warmtestress gedurende 10 minuten bij 55oC vries-dooi-omstandigheden bij -20°C tot 5°C en/of mechanische stress van ten minste 80% behoudt; 
+
+waarbij de concentratie van Adalimumab in de farmaceutische formulering van een van (a) tot (f) 50 mg/ml is en de formulering verder een polyol en een oppervlakteactieve stof die een polysorbaat is omvat en waarbij de geaggregeerde species worden gemeten door middel van grootte-uitsluitingsvloeistofchromatografie met groot scheidend vermogen (HP-SEC) en de zure species worden gemeten door middel van sterkkationuitwisselings (SCX) -vloeistofchromatografie met groot scheidend vermogen (SCX-HPLC). 
+ 
+2. Formulering volgens conclusie 1 welke verder geschikt is voor eenmalige subcutane injectie en in een farmaceutische houder aanwezig is.  
+3. Farmaceutische houder omvattende de formulering volgens conclusie 1 of 2 waarbij de houder een voorgevulde spuit een injectiepen een ampul een fles een auto-injector of een infuuszak is die bij voorkeur onder beschermende stikstofatmosfeer is gesloten. 
+4. Houder volgens conclusie 3 waarbij de dosissterkte van Adalimumab 40 mq is.  
+5. Formulering volgens conclusie 1 of 2 of houder volgens conclusie 3 of 4 voor toepassing als een geneesmiddel voor toepassing bij de behandeling van een stoornis waarbij TNF-α -activiteit schadelijk is waarbij de stoornis waarbij TNF-α -activiteit schadelijk is bij voorkeur wordt gekozen uit de groep bestaande uit een auto-immuunstoornis en een ontstekingsstoornis.  
+6. Formulering of houder voor toepassing volgens conclusie 5 waarbij de formulering is bestemd om op een tweewekelijks doseringsregime elke 13-15 dagen subcutaan te worden toegediend aan de menselijk individu dat daaraan behoefte heeft.  
+7. Formulering of houder voor toepassing volgens conclusie 5 of 6 waarbij de formulering is bestemd om in combinatie met een extra therapeutisch middel dat de productie of activiteit van TNF-α remt bij voorkeur methotrexaat te worden toegediend. 
+
+
+2.6.
+In de beschrijving van EP 667 is onder meer het volgende opgenomen:  
+
+
+[0014] Indeed hitherto combined aqueous buffer solutions including histidine and for example acetate or citrate have been discarded as not suitable or being inferior compared to histidine as the sole buffer component or in combination with others. For example in international application WO2014/039903 at page 88 and 89 in Table H and HI among various others two formulations formulation 6 and 10 of a proprietary Adalimumab biosimilar with histidine-acetate and histidine-citrate are described in a short-term stability test for only one and two weeks and disregarded for further investigation of a pharmaceutical formulation. Rather WO2014/039903 teaches the avoidance of for example citrate but to use histidine only or in combination with a succinate buffer. Nevertheless in one embodiment the pharmaceutical 5 formulation of the present invention does not consist of a formulation according to formulation 6 or 10 in Table H and H1 at page 88 and 89 WO2014/039903.
+(…)
+
+[0024] As used herein the term "Adalimumab" refers to the fully human recombinant monoclonal IgG1 antibody which binds to human TNF-alpha (hTNFα) and which is registered at Chemical Abstracts Service (CAS) under Registry Number 331731-18-1. (…) 
+Adalimumab is marketed by Abbott Laboratories US (now AbbVie Inc US) as liquid pharmaceutical formulation for subcutaneous administration under the trade name HUMIRA®; see also international application WO2004/016286. Adalimumab was approved by the US Food and Drug Administration (FDA) in 2002 and by the European Medicines Agency (EMA) in 2003 for the treatment of rheumatoid. Since then it received additional approval for the treatment of other TNF-mediated chronic inflammatory diseases including psoriatic arthritis polyarticular juvenile idiopathic arthritis psoriasis plaque psoriasis ankylosing spondylitis (AS) axial spondyloarthritis axial spondyloarthritis without radiographic evidence of AS Crohn's disease pediatric Crohn's disease and ulcerative colitis. Adalimumab can be used alone or in combination with methotrexate (MTX) or other non-biological disease modifying anti-rheumatic drugs (DMARDs). For the treatment of rheumatoid diseases Adalimumab is typically administered by subcutaneous injection at 40 mg every one or two weeks. It is supplied in glass vials prefilled glass syringes and as an autoinjection device (HUMIRA® Pen) as a sterile preservative-free solution for subcutaneous administration. The solution of HUMIRA® is clear and colorless with a pH of about 5.2. The prefilled syringes and autoinjector (Pen) comprise 40 mg of Adalimumab in 0.8 mL of a buffered solution of mannitol citric acid monohydrate sodium citrate disodium phosphate dihydrate monosodium phosphate dihydrate sodium chloride and Polysorbate 80.
+
+[0025] Moreover the term "Adalimumab" as used in the present invention encloses also proteins which are "biosimilar" to Adalimumab in accordance with the working definition declared in the published guidelines drafted by the FDA and the EMA which defines a biosimilar product to be one that is "highly similar" to a reference product despite minor differences in clinically inactive components (…) In practice there can be no clinically meaningful differences between the reference product and the biosimilar product in terms of safety purity and potency (…). In other words a biosimilar form/protein of Adalimumab is an antibody which a regulatory authority deems to be "highly similar" to the reference product HUMIRA® on the basis of an abbreviated regulatory submission.
+(…)
+
+[0027] (…) In one embodiment the route of administration the dosage form and/or the strength of the biosimilar Adalimumab protein of the present invention are the same as recommended in the Summary of Product Characteristics (SMPC) and Label information for HUMIRA® as approved by the EMA and FDA respectively.
+ 
+
+
+2.7.
+Biogen c.s. maakt onderdeel uit van de Samsung Bioepis groep (hierna: de SB-groep). De SB-groep heeft voor zover hier van belang een biosimilar voor adalimumab ontwikkeld en geproduceerd. Dit heeft geleid tot een goedgekeurd geneesmiddel dat onder de merknaam Imraldi® sinds oktober 2018 in Europa waaronder in Nederland op de markt wordt gebracht. Imraldi bevat geen fosfaatbuffer.  
+
+
+2.8.
+SBNL is houdster van de Europese marktvergunning voor Imraldi. In Nederland is BNL het aanspreekpunt voor Imraldi. 
+
+
+2.9.
+Biogen Inc (een lid van de SB-groep die geen partij is bij deze procedure) en SB hebben op 19 juni 2019 oppositie ingesteld tegen het octrooi. SBNL is daarna tussengekomen in de oppositieprocedure en wordt tevens als opposant aangemerkt. 
+
+
+2.10.
+In de oppositieprocedure heeft Richter bij de oppositiedivisie (hierna: OD) van het Europees Octrooi Bureau (hierna: EOB) op 18 november 2019 vijf hulpverzoeken (I t/m V) ingediend. In deze procedure zijn hulpverzoeken IV en V relevant. De tekst van deze hulpverzoeken uitsluitend beschikbaar in het Engels zijn hieronder in 2.10.1 en 2.10.2 weergegeven. Daarbij zijn passages die uitgaande van het octrooi zoals verleend zijn toegevoegd onderstreept weergegeven en passages die zijn verwijderd als doorgestreept.  
+
+2.10.1.
+Hulpverzoek IV luidt: 
+
+1. A pharmaceutical container for use as a medicament for use in the treatment of a disorder in which TNFα activity is detrimental comprising a pharmaceutical formulation which is free of a phosphate buffer and selected from the group consisting of: 
+( a) a liquid aqueous pharmaceutical formulation comprising a therapeutically effective amount of Adalimumab in a buffered solution comprising L-Histidine and citrate said formulation having a pH of 5 to 5.5 and having a content of aggregated species of Adalimumab after storage at 5°C for 3 to 6 months of less than 5 %;
+( b) a liquid aqueous pharmaceutical formulation comprising a therapeutically effective amount of Adalimumab in a buffered solution comprising L-Histidine and citrate said formulation having a pH of 5 to 5.5 and having a content of aggregated species of Adalimumab after storage at 25°C for 3 to 6 months of less than 5 %;
+( c) a liquid aqueous pharmaceutical formulation comprising a therapeutically effective amount of Adalimumab in a buffered solution comprising L-Histidine and citrate said formulation having a pH of 5 to 5.5 and having a content of acidic species of Adalimumab after storage at 25°C for 3 to 6 months of less than 40 %;
+( d) a liquid aqueous pharmaceutical formulation comprising a therapeutically effective amount of Adalimumab in a buffered solution comprising L-Histidine and citrate said formulation having a pH of 5 to 5.5 and having a content of aggregated species of Adalimumab under heat stress conditions for 10 minutes at 55°C of less than 5 %;
+( e) a liquid aqueous pharmaceutical formulation comprising a therapeutically effective amount of Adalimumab in a buffered solution comprising L-Histidine and citrate said formulation having a pH of 5 to 5.5 and having a content of acidic species of Adalimumab under heat stress conditions for 10 minutes at 55°C of less than 40%; and
+( f) a liquid aqueous pharmaceutical formulation comprising a therapeutically effective amount of Adalimumab in a buffer solution comprising L-Histidine and citrate said formulation having a pH of 5 to 5.5 and retaining TNFα neutralizing activity of at least 80% after storage of 6 months at a temperature of 5°C or 25°C and/or after being subjected to heat stress for 10 minutes at 55°C freeze-thaw conditions at -20°C to 5°C and/or mechanical stress; 
+
+wherein the concentration of Adalimumab in the pharmaceutical formulation of anyone
+of (a) to (f) is 50 mg/ml and the formulation further comprises a polyol and a surfactant which is a polysorbate and wherein the aggregated species are measured by Size Exclusion High Performance Liquid Chromatography (HP-SEC) and the acidic species are measured by Strong Cation Exchange (SCX) High Performance Liquid Chromatography (SCX-HPLC); and wherein the formulation is suitable for single use subcutaneous injection and the container is a prefilled syringe or injection pen.
+ 
+
+2. The formulation of claim 1 which further is suitable for single use subcutaneous injection and contained in a pharmaceutical container.
+ 
+
+
+
+3.2.
+
+.2. A The pharmaceutical container comprising the formulation of for use in accordance with claim 1 or 2 wherein the container is a prefilled syringe injection pen ampoule bottle
+
+autoinjector or an infusion bag preferably being closed under nitrogen protective atmosphere.
+ 
+
+4 
+3The container of for use in accordance with claim 1 or 2 3 wherein the dose strength of
+Adalimumab is 40 mg. 
+
+
+5
+4.The formulation of claim 1 or 2 or the container of for use in accordance with anyone of claims 1 to 3 or 4 for use as a medicament for use in the treatment of a disorder in which TNFα activity is detrimental preferably wherein the disorder in which TNFα activity is detrimental is selected from the group consisting of an autoimmune or inflammatory disorder.
+ 
+
+
+6
+5.The formulation or container for use in accordance with claim 54 wherein the formulation is designed to be administered subcutaneously to the human subject in need thereof on a biweekly dosing regimen of every 13-15 days.
+ 
+
+7 
+6The formulation or container for use in accordance with claim 54 or 65 wherein the
+
+formulation is to be administered in combination with an additional therapeutic agent that
+inhibits TNFα production or activity preferably methotrexate.
+ 
+
+2.10.2.
+Conclusies 1 t/m 7 van hulpverzoek V zijn gelijkluidend aan de conclusies van het octrooi zoals verleend met als enige verschil de volgende aan het slot van conclusie 1 toegevoegde disclaimer:  
+
+
+; wherein the formulation does not consist of 50 mg Adalimumab in 10 mM Histidine and citrate 65 mM mannitol 100 mM NaCl and 0.1 % polysorbate 80
+
+ 
+
+
+
+2.11.
+In de internationale (PCT) octrooiaanvrage WO 2014/039903 A2 ‘Stable Aqueous Formulations of Adalimumab’(hierna: Manning) gepubliceerd op 13 maart 2014 is onder meer het volgende opgenomen: 
+
+
+Field of the Invention
+
+The present invention relates to aqueous pharmaceutical compositions suitable for long-term storage of adalimumab (including antibody proteins considered or intended as "biosimilar" or "bio-better" variants of commercially available adalimumab) methods of manufacture of the compositions methods of their administration and kits containing the same. (p. 1 r. 2-7)
+(…)
+In each of the five embodiments discussed above (…) Preferably adalimumab formulations containing the stabilizers mentioned above also do not contain buffer systems in which phosphate buffer and citrate buffer are present in combination and most preferably contains buffer systems free or substantially free of citrate buffer. In particularly preferred embodiments (i) the optional additional stabilizer present in this embodiment is not sodium chloride or comprises sodium chloride present in amounts not to exceed about 100 mM and comprises at least one of arginine and glycine including combinations of the two amino acids; (ii) the buffer when present contains no citrate or at least no citrate and phosphate combination but is instead at least one of histidine and succinate including combinations thereof; and (iii) the stabilizer when it includes a polyol is preferably mannitol in amounts exceeding about 150 mM. 
+In further embodiments the invention is directed to an aqueous buffered pharmaceutical composition comprising adalimumab and a buffer wherein (i) the composition is free or substantially free of a buffer combination that comprises both a citrate buffer and a phosphate buffer; and (ii) the   composition exhibits long term stability. (p. 4 r. 3 en 10-25)
+(…)
+It is to be understood that both the foregoing general description and the following detailed description are exemplary and explanatory only and are not restrictive of the invention as claimed. Further representative embodiments are set forth in the numerous formulation studies reported in the detailed description as well as the various embodiments listed in Appendices A B and C attached hereto and made a part hereof. (p 8 r. 5-10)
+(…)
+
+BLOCK H FORMULATION STUDIES
+
+The Block H formulations focused on three aspects of the adalimumab formulation: (1) higher protein concentrations (2) formulations with no buffers present (other than the protein) and (3) the use of various buffer combinations beside citrate-phosphate (See Table H). (p. 87 r. 5-9)
+ 
+
+
+
+
+
+
+(p. 88)4
+ 
+
+
+
+
+
+
+(p. 89)
+Methods of Treatment
+(…)
+Diseases or disorders that can be treated with the provided compositions include but are not limited to rheumatoid arthritis psoriatic arthritis ankylosing spondylitis Wegener's disease (granulomatosis) Crohn's disease (or inflammatory bowel disease) chronic obstructive pulmonary disease (COPD) Hepatitis C endometriosis asthma cachexia psoriasis and atopic dermatitis. (p. 111 r. 27-31)
+(…)
+The provided pharmaceutical compositions may be administered to a subject in need of treatment by injection systemically such as by intravenous injection; (p. 112 r.4-5)
+(…)
+In one embodiment adalimumab is administered at 40mg by single subcutaneous (SC) injection; (p.113 r.1-2)
+(…)
+The pharmaceutical compositions of this invention are particularly useful for parenteral administration i.e. subcutaneously intramuscularly intravenously (…) (p. 113 r.27-28)
+(…) the pharmaceutical compositions of the present invention are suitable for administration using these new methods e.g. Inject-ease® Genject® injector pens (…) (p. 114 r. 1-3)
+The pharmaceutical compositions may if desired be presented in a vial pack or dispenser device which may contain one or more unit dosage forms containing the 15 active ingredient. In one embodiment the dispenser device can comprise a syringe having a single dose of the liquid formulation ready for injection. The syringe can be accompanied by instructions for administration.
+In another embodiment the present invention is directed to a kit or container which contains an aqueous pharmaceutical composition of the invention. (p. 114 r. 13-19)
+(…)
+
+WHAT IS CLAIMED IS:
+
+
+1. An aqueous buffered pharmaceutical composition comprising adalimumab and a buffer wherein (i) the composition is free or substantially free of a buffer combination that comprises both a citrate buffer and a phosphate buffer; and (ii) the composition exhibits long term stability. (p. 147)
+(…)
+29. An aqueous buffered pharmaceutical composition exhibiting long term stability said composition comprising: (i) adalimumab; (ii) a buffer selected from the group consisting of histidine buffer succinate buffer and combinations thereof; (iii) a polysorbate or poloxamer surfactant or combinations thereof; and (iv) one or both of the following:
+( a) a stabilizer selected from the group consisting of glycine alanine glutamate arginine methionine EDTA sodium chloride sodium sulfate metal ions and combinations
+thereof; and 
+( b) a polyol  selected from sorbitol mannitol and trehalose or combinations thereof.
+30. The composition of claim 29 further comprising a buffer selected from the group consisting of phosphate citrate acetate maleate and tartrate buffers including combinations thereof. (p. 149) 
+
+
+2.12.
+De Prior Art Publishing publicatie Nr. PAPDEOTT002384 van A. Bender met als titel ‘Alternative buffers for pharmaceutical anti-TNFa monoclonal antibody formulations’   gepubliceerd op 6 februari 2013 (hierna: Bender) bevat onder meer de volgende tekst op de volgende pagina’s:  
+
+[derde pagina onderaan:]
+However there is still the need for alternative or improved pharmaceutical formulations for anti-TNFa antibodies. In the following further suitable liquid pharmaceutical formulation alternatives for anti-TNFa antibodies are designed. 
+(…)
+ 
+
+[op de vierde pagina:] 
+All suggested alternatives provide sufficient buffer capacities show good long term stability and have a good safety record. 
+(…)
+The proposed alternative Adalimumab formulations are listed in the following. The preferred concentration ranges are disclosed within squared brackets. 
+The alternative Adalimumab compositions are designed for formulation at a pH range between pH 4.9 and pH 6.5 [pH 4.9 - pH 5.5] and comprise basically: 
+20-130 mg/ml Adalimumab [45-55 mg/ml]
+1-10 mg/ml sodium chloride [6.0-6.4 mg/ml]
+2-25 mg/ml mannitol [10-14 mg/ml]
+0.1-5 mg/ml polysorbate 20 or 80 [0.5-2 mg/ml] and
+
+0.5-30 mM of the selected buffers 1) - 9).
+
+The proposed buffers 1) - 9) as disclosed below are prepared by mixing reasonable
+concentrations of conjugated acid and respective conjugated base to achieve the
+desired pH or alternatively by titrating the base (salt) with the free acid until the
+desired pH is reached. In production processes the buffer substances are added by
+weight and usually sodium hydroxide is applied for final pH adjustments. 
+ 
+
+[op de vijfde pagina:]
+(…)
+
+6) Citrate + Histidine
+
+• 1-10 mM Citric acid
+• 0.5-10 mM Trisodium citrate
+• 1-30 mM L-Histidine-HCI
+• 1-30 mM L-Histidine
+ 
+
+[op de zesde pagina:]
+(…)
+Remark: The mixed buffer systems 2) 3) 5) 6) and 8) require as minimum one basic
+component from one buffer and one acidic component from the other buffer. Not
+always all components as listed are necessary. See tables 1 and 2 for possible
+preparation and titration schemes for the proposed mono buffer solutions 1 ) 4 ) 7)
+and 9) and the proposed buffer combinations.
+ 
+
+[en op de zevende pagina:]
+
+
+
+
+
+
+
+
+2.13.
+De mondelinge behandeling bij de OD is bepaald op 20 en 21 oktober 2020. In de aan partijen toegezonden voorlopige opinie van de OD van 6 april 2020 is vermeld dat de conclusies van het octrooi voorshands ongeldig worden geacht wegens onder meer gebrek aan nieuwheid en inventiviteit ten opzichte van onder meer Manning en Bender. Het octrooi kan ook niet worden gehandhaafd in de gewijzigde vorm van de ingediende hulpverzoeken aldus de OD voorshands oordelend. 
+
+
+
+
+3 Het geschil in de zaak 19-1088 (de geldigheidszaak)
+in conventie
+
+3.1.
+B/SB vordert vernietiging van het Nederlandse deel van EP 667 met veroordeling van Richter in de volledige proceskosten op de voet van 1019h Rv5 vermeerderd met rente en (na)kosten voor wat betreft de proceskosten uitvoerbaar bij voorraad. 
+
+
+3.2.
+Zij legt daaraan ten grondslag dat het octrooi niet nieuw dan wel niet inventief is ten opzichte van Manning Bender en Humira en dat EP 667 niet nawerkbaar is. 
+
+
+3.3.
+Richter voert verweer. In de processtukken tot aan het pleidooi heeft Richter betoogd dat en waarom EP 667 volgens haar geldig is en voor het geval de rechtbank zou oordelen dat conclusie 1 zoals verleend niet nieuw is ten opzichte van formulering 6 in Bender of formulering H-11 in Manning heeft Richter zich als terugvalpositie op (de geldigheid van) het octrooi in de vorm van hulpverzoeken IV en V (hierna tezamen ook aangeduid als ‘de hulpverzoeken’) beroepen. Voor het eerst in haar pleitnota heeft Richter het standpunt verkondigd dat zij zich voor het geschil in Nederland ‘zal beperken tot’ de hulpverzoeken. 
+
+
+in reconventie
+
+ 
+
+
+3.4.
+Richter vordert een verklaring voor recht dat de producten verkocht onder de naam Imraldi® althans producten die vallen onder acht in de dagvaarding genoemde marktvergunningen onder de beschermingsomvang van EP 667 vallen met veroordeling uitvoerbaar bij voorraad van B/SB in de proceskosten op de voet van art.1019h Rv. De gevorderde verklaring voor recht ziet uitsluitend op Nederland.6 
+
+
+3.5.
+Richter heeft in de processtukken tot aan het pleidooi aangevoerd dat de in de vordering genoemde Imraldi-producten inbreuk maken op EP 667 als verleend en zich voorwaardelijk op de hulpverzoeken beroepen stellende dat de Imraldi-producten ook onder de beschermingsomvang van de hulpverzoeken vallen. Voor het eerst in haar pleitnota heeft Richter het standpunt verkondigd dat zij zich ‘zal beperken tot’ de hulpverzoeken. 
+
+
+3.6.
+B/SB voert verweer. 
+
+
+
+
+4 Het geschil in de zaak 19-1247 (de inbreukzaak)
+in conventie
+
+4.1.
+Richter vordert – samengevat – om BNL c.s. te verbieden inbreuk te maken op EP 667 dan wel (anderszins) onrechtmatig jegens haar te handelen en om BNL c.s. te veroordelen om aan Richter de door Richter ten gevolge van de inbreuk dan wel ten gevolge van het onrechtmatig handelen geleden schade te vergoeden dan wel zulks ter keuze van Richter de door BNL c.s. genoten winst af te dragen een en ander met nevenvordering (opgave recall mededeling rekening en verantwoording) met oplegging van dwangsommen en met veroordeling van BNL c.s. in de volledige proceskosten op de voet van art. 1019h Rv vermeerderd met rente. 
+
+
+4.2.
+Voor de grondslag van deze vorderingen kan worden verwezen naar 3.5. In deze zaak heeft Richter de hulpverzoeken bij conclusie van antwoord in reconventie ingebracht. Nu het BNL c.s. is die de producten onder de naam Imraldi® verhandelt dan wel de marktvergunning daartoe ter beschikking stelt kan BNL c.s. volgens Richter op de inbreuk dan wel het anderszins onrechtmatig handelen jegens haar worden aangesproken. 
+
+
+4.3.
+BNL c.s. voert verweer. 
+
+
+in reconventie
+
+ 
+
+
+4.4.
+BNL c.s. vordert vernietiging van EP 667 met veroordeling van Richter in de art. 1019h Rv proceskosten inclusief nakosten vermeerderd met rente. 
+
+
+4.5.
+Voor de grondslag van deze vordering en het daartegen door Richter gevoerde verweer kan worden verwezen naar 3.2 en 3.3. 
+
+
+in conventie en in reconventie
+
+ 
+
+
+4.6.
+Op de stellingen van partijen wordt hierna voor zover van belang nader ingegaan. 
+
+
+
+
+5 De beoordeling in beide zaken 
+in conventie en in reconventie
+
+
+Bevoegdheid 
+
+ 
+
+
+in zaak 19-1088 (de geldigheidszaak)
+
+ 
+
+5.1.
+De (niet bestreden) internationale bevoegdheid van de rechtbank om kennis te nemen van de vorderingen in conventie volgt uit art. 24 aanhef en onder 4 Brussel I bis-Vo7. Die bevoegdheid is beperkt tot Nederland. De bevoegdheid in reconventie kan worden gegrond op art. 8 lid 3 Brussel I bis-Vo. De relatieve bevoegdheid volgt uit art. 80 lid 1 sub a en lid 2 sub a ROW8. 
+
+
+in zaak 19-1247 (de inbreukzaak)
+
+ 
+
+
+5.2.
+In deze zaak volgt de (evenmin bestreden) internationale bevoegdheid van de rechtbank om kennis te nemen van de vorderingen in conventie uit art. 4 lid 1 Brussel I bis-Vo nu de gedaagden in Nederland gevestigd zijn. Die bevoegdheid strekt zich uit tot het treffen van grensoverschrijdende maatregelen. De internationale bevoegdheid om kennis te nemen van de reconventionele vordering strekkende tot vernietiging van het Nederlandse deel van EP 667 volgt uit art. 24 aanhef en onder 4 Brussel I bis-Vo. De relatieve bevoegdheid van deze rechtbank berust op art. 80 lid 1 sub a en lid 2 sub a ROW.  
+
+
+5.3.
+Naar Richter ter zitting heeft bevestigd is het door haar gevorderde inbreukverbod niet beperkt tot Nederland maar vraagt zij tevens een inbreukverbod in alle andere landen waar EP 667 gelding heeft. Het geldigheidsverweer van BNL c.s. in deze zaak ziet echter mede op de buitenlandse delen van EP 667 waarvoor andere rechters dan de Nederlandse rechter bij uitsluiting bevoegd zijn een oordeel te geven. De rechtbank is derhalve weliswaar bevoegd om het grensoverschrijdende deel van de verbodsvordering te beoordelen maar dient het oordeel van de exclusief bevoegde buitenlandse rechters over de geldigheid af te wachten indien Richter verzoekt om aanhouding en dient de vordering bij gebreke van een dergelijk verzoek af te wijzen.9 Richter heeft (bij pleidooi) om aanhouding verzocht zodat de rechtbank gehouden is de beoordeling van de gestelde betrokkenheid bij octrooi-inbreuk op de buitenlandse delen van EP 667 aan te houden totdat de daartoe bevoegde buitenlandse rechters hebben beslist over de geldigheid van die delen. 
+
+
+Producties
+
+ 
+
+
+5.4.
+De rechtbank beschouwt alle door partijen overgelegde producties als ingebracht in beide zaken ook wanneer een enkele productie slechts in één van de zaken is overgelegd (zoals blijkt uit de door Richter overgelegde transponeringstabel). Alle partijen zijn met de producties bekend en tegen deze ter zitting door de rechtbank gemelde beslissing is geen bezwaar gemaakt. 
+
+
+Bezwaar stellingen
+
+ 
+
+
+5.5.
+Bij brief van 25 mei 2020 heeft de rechtbank partijen bericht vooralsnog geen aanleiding te zien om het bezwaar van Biogen c.s. van 15 mei 2020 tegen gesteld nieuwe stellingen in enkele producties (welke nieuwheid door Richter wordt betwist) te honoreren (zie 1.2). Omdat de gewraakte stellingen niet zijn betrokken bij de beoordeling is een nadere beslissing hierover niet nodig. 
+
+
+Het octrooi
+
+ 
+
+
+5.6.
+Het octrooi ziet op een formulering voor het antilichaam adalimumab zonder fosfaatbuffer. Het vormt daarmee een – naar Richter aanvoert en Biogen c.s. betwist verbeterd – alternatief voor de formulering waarin Humira op de markt wordt gebracht welke formulering wel een fosfaatbuffer bevat. De in EP 667 geclaimde formulering is in conclusie 1 van EP 667 gedefinieerd met de volgende structurele kenmerken: 
+
+-
+een vloeibare waterige farmaceutische formulering die 
+
+-
+een therapeutisch doeltreffende hoeveelheid adalimumab in een concentratie van 50 mg/ml bevat
+
+-
+in een L-histidine en citraat omvattende gebufferde oplossing 
+
+-
+waarbij de formulering een pH van 5 tot 55 heeft en voorts bevat
+
+-
+een polyol en 
+
+-
+een oppervlakte actieve stof die een polysorbaat is.
+
+
+Verder is nog uitdrukkelijk opgenomen dat de formulering geen fosfaatbuffer bevat. 
+
+
+5.7.
+De in conclusie 1 beschreven uitvinding is voorts gedefinieerd aan de hand van stabiliteitskenmerken in de conclusie opgesomd onder a) tot en met f). Tussen partijen is niet in geschil dat de stabiliteitskenmerken inherent zijn aan de structurele kenmerken oftewel dat wanneer aan de structurele kenmerken is voldaan dit meebrengt dat ook aan de stabiliteitskenmerken wordt voldaan en de stabiliteitskenmerken derhalve geen technische effect opleveren. De stabiliteitskenmerken zijn als zodanig dan ook niet beperkend voor de conclusie.  
+
+
+5.8.
+Biogen c.s. heeft voor zover hier van belang gemotiveerd gesteld dat alle structurele kenmerken van conclusie 1 duidelijk en ondubbelzinnig zijn geopenbaard in twee anticipaties te weten in Manning – een gepubliceerde internationale octrooiaanvrage – op pagina 88 formulering nummer 11 beschreven in tabel H (hierna Manning H-11) en in Bender – een wetenschappelijke publicatie – formulering 6 (hierna Bender 6) en dat deze kenmerken derhalve niet nieuw zijn. Dit is door Richter als zodanig niet betwist; zij heeft hier slechts tegen ingebracht dat die formuleringen in Manning en Bender niet zouden zijn geopenbaard als farmaceutische formuleringen hetgeen conclusie 1 als verleend wel zou vereisen. De vraag die zich echter aandient is of dat geschilpunt nog een inhoudelijke beoordeling behoeft.  
+
+
+Terugtrekking op hulpverzoeken IV en V
+
+ 
+
+
+5.9.
+Richter heeft immers in een (zeer) laat stadium van de procedures in haar pleitnota gemeld dat zij zich voor de Nederlandse procedures ‘zal beperken tot’ de hulpverzoeken. Naar Richter betoogt gelden alle argumenten die zij heeft aangevoerd ten aanzien van het octrooi zoals verleend a fortiori voor de hulpverzoeken die dezelfde structurele (en stabiliteits)kenmerken onder bescherming stellen als EP 667 zoals verleend.10 
+
+
+5.10.
+Biogen c.s.  heeft tijdens de zitting bezwaar gemaakt tegen de late koerswijziging van Richter in het bijzonder in de inbreukzaak omdat Richter in de dagvaarding in die zaak (nog) geen beroep op de hulpverzoeken heeft gedaan en dit volgens Biogen c.s. wel had moeten doen. Zij had dit ook kunnen doen omdat de hulpverzoeken op 18 november 2019 zijn ingediend bij het EOB en de dagvaarding in de inbreukzaak daarna op 24 november 2019 is uitgebracht aldus Biogen c.s. 
+
+
+5.11.
+Het bezwaar van Biogen c.s. dat aan de hulpverzoeken voorbij moet worden gegaan reeds omdat deze te laat zouden zijn ingediend slaagt niet. Het feit dat Richter de hulpverzoeken in de inbreukprocedure theoretisch ook bij dagvaarding had kunnen indienen maakt niet dat de hulpverzoeken te laat zijn ingediend. Niet valt in te zien hoe Biogen c.s. door het moment van indiening in haar verdediging is geschaad te meer nu zij met die hulpverzoeken al bekend was. Nadat de hulpverzoeken (tegelijk met de voor deze procedures niet relevante hulpverzoeken I t/m III) op 18 november 2019 bij het EOB waren ingediend (bij welke procedure verschillende rechtspersonen van de SB-groep partij zijn) heeft Richter deze in de geldigheidsprocedure bij conclusie van antwoord (als productie GP08) ingebracht en in de inbreukprocedure bij conclusie van antwoord in reconventie (als productie RP13). Biogen c.s. was derhalve bekend met de hulpverzoeken en heeft deze ook in haar stellingen en weren betrokken.  
+
+
+5.12.
+Voor zover het bezwaar van Biogen c.s. tegen de laattijdige koerswijzing zo moet worden begrepen dat dit ziet op bij en/of ten gevolge van de terugtrekking op de hulpverzoeken ten pleidooie mogelijk (expliciet dan wel impliciet) ingenomen nieuwe stellingen geldt het volgende. Naar het oordeel van de rechtbank is Biogen c.s. door de late wijziging van de gronden van eis niet in haar verdediging geschaad voor zover Richter bij die koerswijziging geen nieuwe stellingen inneemt. Voor zover Richter bij pleidooi in verband met de eiswijzing wel nieuwe stellingen heeft ingenomen ligt dit vanzelfsprekend anders. Aan dergelijke stellingen wordt gelet op de goede procesorde voorbijgegaan. Biogen c.s. heeft daarop immers (zelfs) niet in haar eerste termijn van het pleidooi kunnen reageren.  
+
+
+Betoog over geldigheid Nederlandse deel EP 667 zoals verleend achterhaald
+
+ 
+
+
+5.13.
+Ter beoordeling staat vervolgens welke rechtsgevolgen moeten worden verbonden aan het feit dat Richter zich in deze procedures niet langer beroept op het Nederlandse deel van EP 667 (hierna ook: EP NL 667) zoals verleend.  
+
+
+5.14.
+Biogen c.s. betoogt dat aan die processtrategie de conclusie moet worden verbonden dat Richter alle nietigheidsweren ten aanzien van EP NL 667 zoals verleend laat varen en uitsluitend nog de toelaatbaarheid en de geldigheid van de hulpverzoeken voor zover die afwijken van het octrooi zoals verleend ter beoordeling staan. Dit brengt volgens Biogen c.s. naar de rechtbank haar betoog begrijpt al zonder verdere inhoudelijke beoordeling mee dat EP NL 667 zoals verleend als niet geldig moet worden aangemerkt zodat de vordering tot vernietiging daarvan moet worden toegewezen. 
+
+
+5.15.
+Richter heeft ter zitting toegelicht dat de ‘beperking’ moet worden aangemerkt als een vermindering van eis waarbij zij afstand doet van het Nederlandse deel van het octrooi in de vorm waarin het is verleend hetgeen zij aldus (de octrooigemachtigde van) Richter ter zitting hangende een procedure gelet op art. 63 lid 2 ROW niet althans niet eenzijdig op de in art. 63 lid 1 ROW aangegeven weg kan doen. Dat brengt volgens Richter echter niet mee dat het octrooi zoals verleend kan worden vernietigd maar dat de geldigheid daarvan in de vorm van de hulpverzoeken moet worden beoordeeld waarbij ook alle argumenten die ten aanzien van het octrooi zoals verleend zijn aangevoerd moeten worden meegewogen.  
+
+
+5.16.
+Nu Richter zich in Nederland niet meer beroept op het octrooi zoals verleend kan dit zoals Richter ook zelf aangeeft wat betreft rechtsgevolgen – wat er ook zij van het betoog van Richter dat zij niet op de in art. 63 lid 1 ROW voorgeschreven wijze afstand kon doen –  gelijk gesteld worden met afstand van EP NL 667 zoals verleend. Dat brengt naar het oordeel van de rechtbank mee dat het debat over het octrooi in de ruimere vorm waarin het is verleend met de terugtrekking op de beperktere hulpverzoeken achterhaald is. Immers nu de geldigheid van EP NL 667 zoals verleend niet langer door Richter wordt verdedigd moet het er voor worden gehouden dat de weren tegen de ongeldigheid van dat octrooi niet worden gehandhaafd en dat in deze procedures in feite aan de voorwaarde die Richter aanvankelijk aan de terugval op de hulpverzoeken had verbonden is voldaan.11 
+
+
+5.17.
+Het voorgaande leidt ertoe dat in het navolgende ervan wordt uitgegaan dat conclusie 1 van EP NL 667 niet nieuw is ten opzichte van de formuleringen Bender 6 en Manning H-11. Het verweer van Richter dat die formuleringen geen ‘farmaceutische samenstellingen’ zouden zijn en het debat over of het octrooi en de anticipaties al dan niet een verbetering vormen ten opzichte van (de formulering van) Humira is – wat daar ook van zij – niet meer aan de orde. Een ander oordeel zou betekenen dat de terugtrekking op de beperktere hulpverzoeken in feite geen betekenis heeft.  
+
+
+5.18.
+Anders dan Biogen c.s. ingang wil doen vinden brengt een en ander echter niet mee dat de vordering tot vernietiging van EP NL 667 door de terugtrekking op de hulpverzoeken voor toewijzing gereed ligt. De weren die tegen de nietigheid van conclusie 1 van het octrooi zoals verleend zijn aangevoerd staan weliswaar niet meer ter beoordeling maar alvorens een beslissing te kunnen nemen over de vernietiging moet beoordeeld worden of EP NL 667 zoals deze luidt volgens de hulpverzoeken (kennelijk bedoeld om het niet-nieuwheidsbezwaar tegen de in conclusie 1 van EP 667 zoals verleend geclaimde formulering te repareren) er toe kan leiden dat het octrooi in de daarin voorgestelde beperktere vorm(en) in stand kan blijven.  
+
+
+De beoordeling van conclusie 1 van EP 667 volgens hulpverzoek IV
+
+ 
+
+
+5.19.
+Conclusie 1 van dit hulpverzoek (zie 2.10.1) is aldus Richter een combinatie van verleende conclusies 1 2 3 en 5. Het relevante deel van conclusie 1 van dit hulpverzoek is hieronder nogmaals weergegeven: 
+
+1. A pharmaceutical container for use as a medicament for use in the treatment of a disorder in which TNFα activity is detrimental comprising a pharmaceutical formulation which is free of a phosphate buffer and selected from the group consisting of:
+(…)
+; and wherein the formulation is suitable for single use subcutaneous injection and the container is a prefilled syringe or injection pen.
+ 
+
+
+5.20.
+Conclusie 1 lijkt daarbij geformuleerd te zijn als een pseudo – het voorwerp van de conclusie is immers niet een stof of mengsel – tweede medische gebruik conclusie in de zin van art. 54 lid 5 EOV12 (art. 4 lid 6 ROW) met als voorwerp van bescherming ‘a pharmaceutical container for use as a medicament for the treatment of (…)’ waarbij de container adalimumab volgens de formulering geclaimd in conclusie 1 van het octrooi zoals verleend bevat en een ‘prefilled syringe’ of een ‘injection pen’ kan zijn.  
+
+
+5.21.
+Nog daargelaten of dit hulpverzoek wel voldoet aan de duidelijkheidsvereisten van art. 84 EOV – Biogen c.s. heeft erop gewezen dat de tekst suggereert dat de container zelf wordt ingebracht als geneesmiddel terwijl deze formulering anders dan Richter betoogt niet in de aanvrage is geopenbaard – maakt de combinatie van een bekende formulering met een ‘prefilled syringe’ of een ‘injection pen’ het geclaimde niet nieuw. Bij de beoordeling van nieuwheid geldt als uitgangspunt dat een maatregel niet nieuw is indien alle kenmerken daarvan expliciet of impliciet op een directe en ondubbelzinnige wijze aan een gemiddelde vakman gebruikmakend van zijn algemene vakkennis worden geopenbaard in één enkele vindplaats behorend tot de stand van de techniek. Bij de beoordeling moet voorts de inhoud van het prior art document in zijn geheel worden beschouwd. Wanneer in één document verschillende uitvoeringsvormen voorkomen en het beroep op nieuwheid ziet op een combinatie van verschillende elementen van die uitvoeringsvormen is het toetsingscriterium of het document een ‘clear teaching combining them’ bevat.13 
+
+
+5.22.
+Zoals hiervoor overwogen staat niet meer ter discussie dat de geclaimde formulering op de prioriteitsdatum tot de stand van de techniek behoorde. Voor zover het gebruik van een bekende formulering in een in conclusie 1 van hulpverzoek IV geclaimde container daarmee niet reeds impliciet is geopenbaard gelet op de algemene vakkennis van de relevante vakman over de toedieningswijze van onder meer Humira (zoals ook weergegeven in [0024] van de beschrijving van EP 667 zie 2.6) geldt dat in Manning ook de combinatie van de daarin geopenbaarde farmaceutische formuleringen met een toedieningswijze als bedoeld in hulpverzoek IV duidelijk en ondubbelzinnig is openbaard. Pagina 113 en 114 van die anticipatie leert de vakman namelijk expliciet dat ‘The pharmaceutical compositions of this invention’ subcutaan kunnen worden toegediend bijvoorbeeld met een injectie pen of ‘a syringe having a single dose of the liquid formulation ready for injection’ (zie 2.11). Manning H-11 is aan te merken als een ‘pharmaceutical composition of this invention’ reeds omdat die formulering wordt geclaimd in Manning (in conclusies 1 en 30 in combinatie met 29 zie 2.11) en behoort dan ook tot de ‘formuleringen van de uitvinding’ bedoeld en geopenbaard in Manning. De combinatie van (ook) deze formulering Manning H-11 met een container (syringe of injection pen) voor de toediening daarvan is daarmee duidelijk en ondubbelzinnig geopenbaard. Daarbij is anders dan Richter betoogt geen sprake van een ongeoorloofde combinatie van verschillende uitvoeringsvormen. Immers Manning leert nu juist dat alle uitvoeringsvormen waaronder formulering Manning H-11 kunnen worden toegepast op de zojuist besproken wijze. 
+
+
+5.23.
+Daarmee valt het doek voor conclusie 1 van hulpverzoek IV. Ten overvloede geldt dat niet valt in te zien waarom het opnemen van een bekende formulering in een bekende container inventief zou zijn.  
+
+
+5.24.
+Richter heeft nog aangevoerd dat de leer van Manning juist wegwijst van formulering H-11 welke formulering slechts een ‘referentieformulering’ zou zijn die uitsluitend ter vergelijking is opgenomen. Die formulering zou dan ook niet vallen binnen het bereik van de in Manning geopenbaarde uitvinding en derhalve zou naar de rechtbank in verband met hulpverzoek IV begrijpt ook geen sprake kunnen zijn van een nieuwheidsschadelijke openbaarmaking van de combinatie van die formulering met een toedieningswijze/container. Nog daargelaten dat Richter dit argument met de terugtrekking op de hulpverzoeken in wezen al heeft prijsgegeven en ook niet valt in te zien waarom een ‘referentieformulering’ die alle structurele kenmerken van de geclaimde formulering bevat niet nieuwheidsschadelijk zou kunnen zijn gaat de rechtbank aan dit verweer voorbij omdat Manning geen feitelijke basis biedt voor dit betoog. Ter onderbouwing van haar argument verwijst Richter namelijk naar een passage op pagina 4 r. 17-19 waar Manning leert dat de buffer als aanwezig geen citraat mag bevatten of in ieder geval geen combinatie van citraat en fosfaat. Die passage ziet echter uitsluitend op een aantal uitvoeringsvormen terwijl in de passage direct daaronder een andere uitvoeringsvorm wordt beschreven waarin alleen de combinatie van citraat en fosfaat als buffer wordt uitgesloten. In de in de vorige rechtsoverweging genoemde conclusies van Manning worden dan ook tevens formuleringen geclaimd waarin een citraat buffer in combinatie met een histidine buffer wordt gebruikt zoals geopenbaard in Manning H-11. 
+
+
+5.25.
+Conclusie 1 van EP NL 667 is derhalve naar het oordeel van de rechtbank ook in de voorgestelde gewijzigde vorm van hulpverzoeken IV niet geldig.  
+
+
+De beoordeling van conclusie 1 van EP 667 volgens hulpverzoek V
+
+ 
+
+
+5.26.
+
+In dit hulpverzoek is aan conclusie 1 van het octrooi een disclaimer toegevoegd om Manning H-11 uit te sluiten (zie 2.10.2). Deze disclaimer is voor de leesbaarheid nogmaals opgenomen: 
+
+“wherein the formulation does not consist of 50 mg Adalimumab in 10 mM Histidine and citrate 65 mM mannitol 100 mM NaCl and 0.1 % polysorbate 80”
+
+ 
+
+
+5.27.
+
+Om aan een (on)duidelijkheids-bezwaar (art. 84 EOV) van Biogen c.s. tegemoet te komen doet Richter subsidiair een beroep op een verbijzonderd hulpverzoek V dat als volgt luidt: 
+“wherein the formulation does not consist of 50 mg Adalimumab in 10 mM Histidine en 10 mM citrate 65 mM mannitol 100 mM NaCl and 0.1% polysorbate 80” 
+[onderstreping toegevoegd door de rechtbank ter onderscheiding van de eerdere tekst van hulpverzoek V]
+ 
+
+
+5.28.
+Voor de basis van de opgenomen disclaimer verwijst Richter naar [0014] van de beschrijving van EP 667 (zie 2.6) welke passage woordelijk overeenkomt met een passage in de aanvrage zoals ingediend (op pagina’s 14 laatste alinea en pagina 15 1e alinea). In die passage moet formulering 10 uit tabel H van Manning worden gelezen als formulering 11 (die een histidine-citraat buffer beschrijft) aldus Richter.  
+
+
+5.29.
+Ook wanneer ervan wordt uitgegaan dat de tekst van het hulpverzoek formeel toelaatbaar is onder meer omdat de genoemde passage in de aanvrage voldoende basis biedt voor de uitsluiting en geen sprake is van toegevoegde materie in de zin van art. 123 lid 2 EOV zoals Biogen c.s. betoogt en het hulpverzoek ook voldoet aan de vereisten van art. 84 EOV oordeelt de rechtbank dat dit hulpverzoek het octrooi niet kan redden. Daartoe is het volgende redengevend.  
+
+
+5.30.
+Als uitgangspunt bij de beoordeling dient gelet op de terugtrekking op de hulpverzoeken dat Bender 6 nieuwheidsschadelijk is voor conclusie 1 van het octrooi zoals verleend (zie rechtsoverweging 5.17). Het argument van Richter ter zitting dat Bender niet schadelijk kan zijn voor hulpverzoek V omdat de samenstelling in dat document niet als farmaceutische formulering is geopenbaard een argument dat zij ook ten aanzien van het octrooi zoals verleend voerde is dan ook een gepasseerd station.  
+
+
+5.31.
+Formulering Bender 6 is een ruimere anticipatie dan Manning H-11. Zo openbaart Bender 6 een formulering met een buffer-concentratie in een range terwijl Manning H-11 uitsluitend specifieke bufferconcentraties van 10mM openbaart. Ook openbaart Bender 6 polysorbaat en mannitol (een polyol) concentraties over een bereik waar Manning H-11 uitsluitend ziet op 65 mM mannitol en 01% polysorbaat 80.  
+
+
+5.32.
+Nu de disclaimer uitsluitend ziet op de specifieke concentraties genoemd in Manning H-11 valt de formulering Bender 6 deels buiten die uitsluiting. In conclusie 1 (ook zoals die luidt volgens hulpverzoek V) is geen beperking opgenomen voor de concentraties van polyol en polysorbaat zodat ook de ruimere openbaringen van Bender 6 binnen het bereik van die conclusie vallen. Ook wordt in conclusie 1 geen beperking gesteld aan de concentratie van de buffers van L-Histidine en citraat behalve dat het resultaat een pH waarde van 5 tot 55 moet hebben. De voorkeurs-pH-range van de in Bender geopenbaarde formuleringen (49 tot 55) stemt daarmee voor een belangrijk deel overeen.  
+
+
+5.33.
+De nieuwheidsschadelijke openbaring Bender 6 is derhalve niet althans maar deels uitgesloten door het opnemen van een disclaimer die ziet op Manning H-11. Voor zover Bender 6 buiten de disclaimer en binnen de geclaimde beschermingsomvang van EP 667 valt blijft deze anticipatie derhalve nieuwheidsschadelijk zodat het octrooi ook niet in de gewijzigde vorm van hulpverzoek V gehandhaafd kan worden. 
+
+
+5.34.
+Conclusie 1 van EP NL 667 is derhalve naar het oordeel van de rechtbank in de voorgestelde gewijzigde vorm van hulpverzoeken V evenmin geldig.  
+
+
+Volgconclusies
+
+ 
+
+
+5.35.
+Voor de van conclusie 1 afhankelijke overige conclusies van de hulpverzoeken geldt dat Richter de gewijzigde volgconclusies 2 t/m 5 van hulpverzoek IV niet heeft verdedigd terwijl Biogen c.s. wel de nietigheid daarvan inroept. Gesteld noch gebleken is dat die volgconclusies het octrooi geldig maken. De volgconclusies 2 t/m 6 van hulpverzoek V zijn gelijkluidend aan die van het octrooi zoals verleend. Richter heeft weliswaar aangevoerd dat conclusies 3 4 en 6 van dat hulpverzoek nieuw zijn ten opzichte van Bender omdat Bender niet de daarin geclaimde specifieke farmaceutische containers openbaart maar zij heeft niet verduidelijkt waarom de in die volgconclusies geclaimde containers die tot de algemene vakkennis van de gemiddelde vakman moeten worden gerekend het in conclusie 1 geclaimde nieuw kunnen maken zodat ook deze nietig verklaard zullen worden. In ieder geval is die toepassing niet inventief. Met betrekking tot volgconclusie 7 van hulpverzoek V (dat overeenstemt met conclusie 7 van het octrooi zoals verleend en met conclusie 6 van hulpverzoek IV) heeft Richter geen verweer gevoerd tegen de stelling van Biogen c.s. dat het toedienen van (een) adalimumab (formulering) in combinatie met methotrexaat behoort tot de algemene vakkennis (zoals ook genoemd in paragraaf [0024] van de beschrijving van het octrooi zie 2.6) zodat ook die volgconclusie niet geldig wordt geacht. 
+
+
+Onrechtmatig handelen?
+
+ 
+
+
+In zaak 19-1247 (inbreukzaak)
+
+ 
+
+
+5.36.
+In de inbreukzaak legt Richter aan haar vorderingen jegens SBNL tevens onrechtmatig handelen ten grondslag door het ter beschikking stellen van de marktvergunning (voor Imraldi) aan BNL voor het vermarkten van Imraldi in Nederland en aan andere entiteiten in Europa voor het vermarkten van Imraldi in andere Europese landen. Nu het Nederlandse deel van het octrooi niet geldig wordt bevonden kan ook geen sprake zijn van het door Richter gestelde onrechtmatig handelen in Nederland. De grondslag van onrechtmatig handelen in andere landen heeft zij los van het gestelde (indirect) inbreukmakend handelen in andere landen waarvan de beoordeling is geschorst niet onderbouwd zodat de rechtbank hieraan mede gelet op de betwisting door BNL c.s. voorbijgaat. 
+
+
+Slotsom
+
+ 
+
+
+in zaak 19-1088 (geldigheidszaak)
+
+ 
+
+
+5.37.
+Een en ander leidt tot het eindoordeel dat EP NL 667 zoals verleend nietig is ook in de vorm van de voorgestelde hulpverzoeken zodat de vordering tot vernietiging van het Nederlandse deel van het octrooi in de geldigheidszaak zal worden toegewezen. Dit brengt mee dat de in reconventie gevorderde verklaring voor recht zal worden afgewezen.  
+
+
+in zaak 19-1247 (inbreukzaak)
+
+ 
+
+
+5.38.
+De vorderingen van Richter in de inbreukzaak voor zover deze zien op inbreuk op het Nederlandse deel van EP 667 worden afgewezen nu op een nietig octrooi geen inbreuk gemaakt kan worden. De overige stellingen en weren waaronder het beroep op voorgebruik van BNL c.s. behoeven geen behandeling. 
+
+
+5.39.
+Voor zover het gevorderde ziet op (al dan niet indirecte) inbreuk op andere nationale delen van EP 667 is de beoordeling daarvan afhankelijk van het oordeel over de geldigheid van die nationale delen op de nietigheid waarvan Biogen c.s. zich beroept. Zoals in het kader van de bevoegdheid reeds is overwogen (zie 5.3) zal de rechtbank de beslissing op dit deel van de vorderingen aanhouden totdat over de nietigheid in de betreffende jurisdicties zal zijn beslist. De zaak wordt naar de parkeerrol verwezen met dien verstande dat de meest gerede partij de zaak weer op de rol kan brengen voor voortprocederen over dit deel van de vorderingen zodra duidelijkheid is verkregen omtrent de geldigheid van EP 667 in de relevante landen. 
+
+
+5.40.
+De door BNL c.s. in de inbreukzaak ingestelde vordering in reconventie zal gelet op de uitkomst in de geldigheidszaak worden afgewezen wegens gebrek aan belang. Een octrooi kan niet twee keer vernietigd worden.  
+
+
+Proceskosten
+
+ 
+
+
+5.41.
+Richter zal in de geldigheidszaak als overwegend in het ongelijk gestelde partij in de proceskosten in conventie en reconventie veroordeeld worden. In de inbreukzaak zal Richter in conventie worden veroordeeld in de kosten. In reconventie in de inbreukzaak dient BNL c.s. de kosten van Richter te dragen echter die kosten worden begroot op nihil nu dit een herhaling van zetten vormt van haar nietigheidsverweer in de geldigheidszaak. 
+
+
+5.42.
+Biogen c.s. vordert vergoeding van de volledige proceskosten die zij heeft gespecificeerd tot een bedrag van ongeveer een miljoen euro inclusief verschotten en waaronder begrepen declaraties van drie advocatenkantoren. Richter die zelf een totaal aan proceskosten van € 323.60501 heeft opgevoerd maakt bezwaar tegen de hoogte van de door Biogen c.s. opgevoerde kosten stellende dat deze buitensporig en in ieder geval niet redelijk en evenredig zijn. Zij bepleit matiging van een eventueel ten laste van haar komende proceskostenveroordeling tot het beloop van de door haar zelf opgevoerde kosten of hoogstens tot € 400.000-.  
+
+
+5.43.
+De rechtbank is van oordeel dat de door Biogen c.s. opgevoerde kosten waarbij in aanmerking wordt genomen dat B/SB en BNL c.s. steeds in beide zaken gezamenlijk zijn opgetreden en ook een specificatie hebben ingediend die niet per partij is uitgesplitst niet redelijk en evenredig is in zaken als de onderhavige waarbij de stellingen wat betreft nietigheid en inbreuk in beide procedures grotendeels overeenkomen. De in totaal toe te wijzen proceskosten aan de zijde van Biogen c.s. worden dan ook gemaximeerd op € 400.000- welk bedrag de rechtbank redelijk en evenredig acht. De proceskosten worden gelijkelijk verdeeld over de beide procedures. In de geldigheidszaak zal € 50.000- (een kwart van het totaal) worden toegerekend aan het in reconventie gevoerde verweer. Alle kosten en verschotten worden geacht in de aldus begrote bedragen begrepen te zijn. De gevorderde wettelijke rente over de proceskosten zal als onbestreden worden toegewezen maar pas met ingang van de datum gelegen 14 dagen na betekening van dit vonnis. 
+
+
+5.44.
+Voor veroordeling in de nakosten zoals gevorderd in de geldigheidszaak bestaat geen grond nu de kostenveroordeling ook voor deze nakosten een executoriale titel oplevert.14 
+
+
+
+
+6 De beslissing
+De rechtbank 
+
+
+in de zaak 19-1088 (de geldigheidszaak)
+ 
+
+
+in conventie
+
+ 
+
+6.1.
+vernietigt het Nederlandse deel van EP 3 212 667 B1; 
+
+
+6.2.
+veroordeelt Richter in de proceskosten aan de zijde van B/SB tot op heden begroot op € 150.000- te vermeerderen met de wettelijke rente daarover berekend over het tijdvak van de vijftiende dag na betekening van dit vonnis tot de dag van volledige betaling; 
+
+
+in reconventie
+
+ 
+
+
+6.3.
+wijst de vorderingen af; 
+
+
+6.4.
+veroordeelt Richter in de proceskosten aan de zijde van B/SB tot op heden begroot op € 50.000-; 
+
+
+in de zaak 19-1247 (de inbreukzaak)
+
+in conventie
+
+ 
+
+
+6.5.
+wijst de vorderingen af behoudens het in 6.6 bepaalde; 
+
+
+6.6.
+houdt de beslissing over de vorderingen aan voor zover die zien op buitenlandse delen van EP 667 bedoeld in r.o. 5.39; 
+
+
+6.7.
+bepaalt dat de meest gerede partij de zaak op de rol kan plaatsen na het in r.o. 5.39 laatste zin nader beschreven moment;  
+
+
+6.8.
+veroordeelt Richter in de proceskosten aan de zijde van BNL c.s. tot op heden begroot op € 200.000- te vermeerderen met de wettelijke rente daarover berekend over het tijdvak van de vijftiende dag na betekening van dit vonnis tot de dag van volledige betaling; 
+
+
+in reconventie
+
+ 
+
+
+6.9.
+wijst de vorderingen af;  
+
+
+6.10.
+veroordeelt BNL c.s. in de proceskosten tot op heden aan de zijde van Richter begroot op nihil;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+
+
+in beide zaken in conventie en reconventie
+
+ 
+
+
+6.11.
+verklaart de proceskostenveroordelingen uitvoerbaar bij voorraad. 
+
+Dit vonnis is gewezen door mr. M.E. Kokke mr. M. Knijff en mr. C. Schüller en in het openbaar uitgesproken door mr. D. Nobel rolrechter op 29 juli 2020.
+
+
+
+1
+ De producties in de geldigheidszaak worden aangeduid met nummers voorafgegaan door EP (producties afkomstig van eiseressen B/SB) en GP (producties afkomstig van gedaagde Richter).
+2
+ Ter onderscheiding van de producties in de geldigheidszaak worden de in de inbreukzaak door eisende partij Richter overgelegde producties aangeduid met het productienummer voorafgegaan door de letters RP en de door gedaagden BNL c.s. overgelegde producties met BP (gevolgd door het productienummer).
+3
+ Er is geen productie BP1 overgelegd.
+4
+ NB in dit overzicht zijn de proteïneconcentraties van adalimumab biosimilar in de derde kolom weergegeven in mg/ml en de polysorbaatconcentratie (PS80) in een % (zie Tabel A p.32). De andere concentraties zijn in millimol per liter vermeld
+5
+ Wetboek van Burgerlijke Rechtsvordering
+6
+ Zoals Richter ter zitting heeft toegelicht.
+7
+Verordening (EU) 1215/2012 van het Europees Parlement en de Raad van 12 december 2012 betreffende de rechterlijke bevoegdheid de erkenning en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken inwerkingtreding: 9-1-2013 PB EU 2012 L 351/1 (de ‘herschikte EEX-Verordening’)
+8
+Rijksoctrooiwet 1995 
+9
+HR 30 november 2007 ECLI:NL:HR:2007:BA9608 (Roche/Primus II) 
+10
+ Pleitnota Richter randnummers 5 en 44; in randnummer 44 verwijst zij naar ‘het hoofdverzoek’. De rechtbank gaat ervan uit dat daaarmee het octrooi zoals verleend is bedoeld.
+11
+ Vgl. Hof Den Haag 5 juni 2018 (High Point/KPN) ECLI:NL:GHDHA:2018:1271 
+12
+ Verdrag inzake de verlening van Europese octrooien (Europees Octrooiverdrag)
+13
+ Case Law of the Boards of Appeal of the European Patent Office (2016) p. 104 met verwijzing naar o.m. 
+T 1988/07 ECLI:EP:BA:2010:T198807.20101008
+14
+ HR 19 maart 2010 ECLI:NL:HR:2010:BL1116

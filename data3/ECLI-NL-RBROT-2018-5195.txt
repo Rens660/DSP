@@ -1,0 +1,615 @@
+
+
+Rechtbank Rotterdam
+
+Team straf 1
+ 
+
+Parketnummer: 10/740105-16
+Datum uitspraak: 5 april 2018
+Tegenspraak
+ 
+
+Vonnis van de rechtbank Rotterdam meervoudige kamer voor strafzaken in de zaak tegen de verdachte:
+ 
+
+
+
+          [naam verdachte] 
+
+geboren te [geboorteplaats verdachte] op [geboortedatum verdachte]  
+niet ingeschreven in de basisregistratie personen
+verblijvende te [verblijfadres verdachte]  [verblijfplaats verdachte] 
+raadsman mr. M.P.K. Ruperti advocaat te Baarn.
+
+
+
+
+1 Onderzoek op de terechtzitting
+Gelet is op het onderzoek op de terechtzitting van 22 maart 2018.
+
+
+
+2 Tenlastelegging
+Aan de verdachte is ten laste gelegd hetgeen is vermeld in de dagvaarding. De tekst van de tenlastelegging is als bijlage I aan dit vonnis gehecht.
+
+
+
+3 Eis officier van justitie
+De officier van justitie mr. J. Bonnes heeft gevorderd:
+
+-
+vrijspraak van het primair ten laste gelegde;
+
+-
+bewezenverklaring van het subsidiair ten laste gelegde;
+
+-
+veroordeling van de verdachte tot een gevangenisstraf voor de duur van 12 maanden met aftrek van voorarrest.
+
+
+
+
+
+4 Waardering van het bewijs
+
+4.1.
+
+
+Vrijspraak zonder nadere motivering primair tenlastegelegde
+
+Met de officier van justitie en de verdediging is de rechtbank van oordeel dat het primair ten laste gelegde niet wettig en overtuigend is bewezen zodat de verdachte daarvan zonder nadere motivering zal worden vrijgesproken.
+ 
+
+
+4.2.
+
+Bewijswaardering subsidiair tenlastegelegde
+ 
+
+4.2.1.
+
+
+Inleiding
+
+Het broertje van de verdachte [naam medeverdachte]  tevens medeverdachte handelde vanaf begin 2015 in bitcoins. De verdachte wist dit. Op 27 februari 2015 had [naam medeverdachte] een account aangemaakt bij kraken.com zijnde de site van een in Amerika gevestigd bedrijf (“wisselkantoor”) dat kopers en verkopers van bitcoins samenbrengt. Dit account bevatte een bitcoinadres (zijnde een virtuele bitcoinportemonnee ook wel “wallet” genoemd) waarop bitcoins konden worden gestort. De houder van een dergelijk account kan aan Kraken opdracht geven om in de wallet aanwezige bitcoins te verkopen (veilen) en de geldelijke opbrengsten van die transactie te laten storten op een bankrekening. 
+ 
+
+
+            [naam medeverdachte] had dit door hem beheerde account op naam van de verdachte gesteld. De daaraan gekoppelde bankrekening was ook van de verdachte te weten [bankrekeningnummer] . Dit alles kon aldus worden bewerkstelligd omdat de verdachte daartoe en op diens verzoek aan [naam medeverdachte] had verstrekt een (digitale) kopie van zijn paspoort en een bankafschrift. 
+ 
+
+
+            [naam medeverdachte] heeft vervolgens de bankrekening van de verdachte actief ingezet. In de periode van 2 maart 2015 tot en met 22 mei 2015 werd daarop door Kraken via het op naam van de verdachte staande account een bedrag van in totaal € 160.59138 bijgeschreven. Het ging dan steeds om duizenden euro’s welke gelden kort daarna contant bij verschillende pinautomaten werden opgenomen. Dat deed [naam medeverdachte] met de pinpas van de verdachte welke pinpas hij daartoe steeds even aan hem gaf. Daarna krijg hij zijn pinpas weer terug. De verdachte gebruikte deze bankrekening namelijk ook voor zijn dagelijkse reguliere uitgaven zoals het doen van boodschappen. Hij was steeds goed op de hoogte van de transacties die werden verricht via zijn bankrekening. 
+ 
+
+
+4.2.2.
+
+
+Standpunt officier van justitie 
+
+De officier van justitie heeft zich op het standpunt gesteld dat wettig en overtuigend bewezen kan worden dat de verdachte zich schuldig heeft gemaakt aan medeplichtigheid aan het witwassen door [naam medeverdachte] . 
+ 
+
+
+4.2.3.
+
+
+Standpunt verdediging
+
+De verdediging heeft vrijspraak bepleit vanwege het ontbreken van voldoende wettig en overtuigend bewijs. De verdachte heeft geen enkele andere handeling verricht dan het ter beschikking stellen van zijn bankrekening en het daarop ontvangen van de opbrengsten van door [naam medeverdachte] verkochte bitcoins. Hiermee had hij geen criminele intentie. De verdachte wist dat [naam medeverdachte] bezig was met de handel in bitcoins maar vertrouwde hem. De verdachte heeft geen opzet of voorwaardelijk opzet gehad op het witwassen. Hij wist niet en hoefde ook niet te weten dat de (opbrengsten van de verkochte) bitcoins direct of indirect uit enig misdrijf afkomstig waren.
+ 
+
+
+4.2.4.
+
+Beoordeling
+ 
+
+
+Algemeen
+
+Op grond van vaste jurisprudentie inzake witwasdelicten kan het in de tenlastelegging opgenomen onderdeel ‘afkomstig uit enig misdrijf’ - het hoeft niet per se te gaan om een nauwkeurig omschreven misdrijf - bewezen worden geacht indien het op grond van de vastgestelde feiten en omstandigheden niet anders kan zijn dan dat het voorwerp - in casu een uiteindelijk fors geldbedrag - uit enig misdrijf afkomstig is. 
+Allereerst zal moeten worden vastgesteld of de aangedragen feiten en omstandigheden van dien aard zijn dat zonder meer sprake is van een vermoeden van witwassen. Indien dat het geval is mag van de verdachte worden verlangd dat hij een verklaring geeft voor de herkomst van het voorwerp/de voorwerpen. Die verklaring moet concreet min of meer verifieerbaar en niet op voorhand hoogst onwaarschijnlijk te zijn. 
+In het onderhavige geval gaat het om een verdenking van witwassen door middel van (tussen)handel in bitcoins en daaruit voortvloeiende opbrengsten. Bij haar beoordeling stelt de rechtbank het volgende voorop.
+ 
+
+Het is een feit van algemene bekendheid dat diverse vormen van criminaliteit gepaard gaan met grote hoeveelheden contant geld. Het is eveneens een feit van algemene bekendheid dat ter voorkoming van meldingen in het kader van de Wet melding ongebruikelijke transacties geldbedragen worden opgenomen in meerdere tranches. Vastgesteld moet kunnen worden dat er geen legale economische verklaring is voor het wisselen dan wel het versturen van grote geldbedragen in bitcoins. Vaak wordt het contant omwisselen in een witwascyclus gedaan ter onderbreking van een papertrail. Vaststaat voorts dat het fysiek vervoeren van grote bedragen in contanten niet gebruikelijk is en grote veiligheidsrisico’s met zich brengt. Tot slot geldt in zijn algemeenheid dat een verkoper van bitcoins hogere provisies moet betalen aan een particuliere bitcointrader dan aan een regulier bitcoinwisselkantoor. 
+ 
+
+Meer specifiek gericht op onderhavige zaak overweegt de rechtbank het volgende. 
+ 
+
+
+Herkomst bitcoins 
+
+Uit het dossier blijkt dat het overgrote deel van de bitcoins gestort in de wallet behorende bij het Kraken-account op naam van de verdachte afkomstig was van bitcoinclusters die vrijwel exclusief direct en indirect afkomstig waren uit DarkNet Market bitcoinclusters. 
+DarkNet Markets zijn internet marktplaatsen die zich bevinden op het afgeschermde TOR-netwerk dat anoniem internetgebruik mogelijk maakt. De websites van deze DarkNet Markets zijn alleen met speciale software te benaderen. Op deze DarkNet Markets wordt op grote schaal gehandeld in met name verboden goederen zoals drugs en wapens. Daarbij worden bitcoins gebruikt als betaalmiddelen.
+De rechtbank gaat er daarom van uit dat de meeste bitcoins die van DarkNet Markets afkomstig zijn een criminele herkomst hebben. 
+Het bovenstaande leidt tot de vaststelling dat het overgrote deel van de door [naam medeverdachte] via het Kraken-account op naam van de verdachte verkochte bitcoins een criminele herkomst hadden. 
+Uit de wetgeschiedenis van artikel 420bis en 420quater van het Wetboek van Strafrecht kan worden afgeleid dat de wetgever het met het oog op een effectieve bestrijding van het witwassen noodzakelijk achtte om niet alleen voorwerpen onder het bereik van de witwasbepalingen te brengen die onmiddellijk of middellijk van misdrijf afkomstig zijn maar ook voorwerpen die gedeeltelijk van misdrijf afkomstig zijn. Verder kan uit de wetsgeschiedenis worden afgeleid dat in het geval dat van misdrijf afkomstige vermogensbestanddelen zijn vermengd met vermogensbestanddelen die zijn verkregen door middel van legale activiteiten het aldus vermengde vermogen kan worden aangemerkt als mede of deels uit misdrijf afkomstig (HR 23 november 2010 NJ 2011 44). 
+ 
+
+
+Vermoeden van witwassen
+
+Op grond van het voorgaande is de rechtbank van oordeel dat door vermenging van bitcoins die direct of indirect zijn verkregen uit misdrijven met bitcoins met mogelijk wel een legale herkomst het gehele door [naam medeverdachte] via Kraken verzilverde bedrag aan bitcoins als geheel of gedeeltelijk - onmiddellijk of middellijk - van misdrijf afkomstig moet worden aangemerkt. De geldbedragen met een totaal van € 160.59138 zijn op de bankrekening van de verdachte gestort door Kraken na daartoe strekkende bitcoin verkoopopdrachten door [naam medeverdachte] . Dat betekent dat die geldbedragen indirect eveneens geheel of gedeeltelijk van misdrijf afkomstig zijn. 
+ 
+
+Een legale herkomst van de op de bankrekening van de verdachte gestorte bedragen is ook anderszins niet gebleken. De verdachte noch [naam medeverdachte] hebben in de tenlastegelegde periode zodanige inkomsten verworven waarmee die herkomst kan worden verklaard. Evenmin is door de verdachte - noch [naam medeverdachte] - een verklaring gegeven die het voor het openbaar ministerie noodzakelijk maakte om daarnaar - ter verificatie - onderzoek te doen. Verder kan worden vastgesteld dat de handel in bitcoins op de wijze zoals die blijkt uit het dossier voldoet aan de hiervoor genoemde algemene ervaringsregels van witwassen namelijk het opnemen van relatief kleine contante bedragen ter voorkoming van een melding op grond van de Wet melding ongebruikelijke transacties het handelen met contant geld ter doorbreking van de paper trail en het handelen in bitcoins via een particuliere bitcointrader. 
+ 
+
+
+Medeplichtigheid
+
+Ter terechtzitting heeft de verdachte verklaard dat [naam medeverdachte] hem vertelde dat hij met de handel in bitcoins bezig was en hij met het oog op deze handel een extra account bij Kraken wilde openen en dat die dan op naam van de verdachte moest komen te staan. Ten behoeve hiervan heeft de verdachte een kopie van zijn ID-bewijs en een kopie van een bankafschrift aan [naam medeverdachte] verstrekt. De verdachte heeft aldus zijn bankrekening ter beschikking gesteld voor de stortingen van Kraken na verkoop van bitcoins. De verdachte gaf daarnaast meermalen zijn pinpas en pincode aan [naam medeverdachte]  zodat deze de gestorte geldbedragen contant kon opnemen. 
+ 
+
+De verdachte heeft op deze wijze een bijdrage geleverd aan het ontvangen en contant opnemen van (grote) geldbedragen die voortvloeiden uit de bitcoinhandel van [naam medeverdachte] en dus indirect afkomstig waren uit misdrijven. Hierbij had de verdachte niet alleen opzet op het behulpzaam zijn bij en het verschaffen van middelen aan [naam medeverdachte]  maar ook (voorwaardelijk) opzet op het witwassen door [naam medeverdachte] . De verdachte heeft namelijk erkend dat hij zag dat er in korte tijd forse stortingen op zijn rekening plaatsvonden. De verdachte was er ook van op de hoogte dat de gestorte geldbedragen met een totaalbedrag van ruim € 160.000- steeds kort na storting op zijn bankrekening in meerdere kleinere tranches contant werden opgenomen. De verdachte had onder deze omstandigheden moeten weten dat deze geldbedragen (indirect) van misdrijven afkomstig waren. De verdachte heeft verklaard dat hij zich afvroeg hoe het met de geldbedragen zat. Desondanks heeft hij zonder nader onderzoek te doen of [naam medeverdachte] hierover te bevragen telkens zijn pinpas aan hem afgegeven en toegestaan dat zijn bankrekening op deze wijze werd gebruikt. 
+Onder deze omstandigheden heeft de verdachte bewust de aanmerkelijke kans aanvaard dat de gelden die op zijn bankrekening werden gestort en vervolgens contant werden opgenomen van misdrijf afkomstig waren. 
+ 
+
+Concluderend acht de rechtbank wettig en overtuigend bewezen dat de verdachte medeplichtig is aan het door [naam medeverdachte] gepleegde witwassen van (in totaal) ruim € 160.000-.
+ 
+
+
+
+4.3.
+
+
+Bewezenverklaring
+
+In bijlage II heeft de rechtbank de inhoud van wettige bewijsmiddelen opgenomen houdende voor de bewezenverklaring redengevende feiten en omstandigheden. Op grond daarvan en op grond van de redengevende inhoud van het voorgaande is wettig en overtuigend bewezen dat de verdachte het subsidiair ten laste gelegde heeft begaan op die wijze dat:
+ 
+
+dat terwijl [naam medeverdachte] op tijdstippen gelegen in de periode van 27 februari 2015 tot en met 22 mei 2015 te Rotterdam  
+(telkens) meermalen 
+ 
+b. voorwerpen te weten: 
+- in de periode van 2 maart 2015 tot en met 22 mei 2015 geldbedragen tot een totaal van 160.591 euro (op een bankrekening op naam van [naam verdachte]  eindigend op [nummer 1] )  
+
+ heeft verworven voorhanden heeft gehad of daarvan gebruik heeft gemaakt
+ 
+
+terwijl die [naam medeverdachte] wist dat deze voorwerpen - onmiddellijk of middellijk -
+afkomstig waren uit enig misdrijf;
+ 
+
+tot en bij welk misdrijf hij verdachte op tijdstippen gelegen
+in de periode van 27 februari 2015 tot en met 22 mei 2015 te Rotterdam 
+(telkens) opzettelijk behulpzaam is geweest en middelen heeft verschaft
+door aan die [naam medeverdachte]  ter beschikking te stellen:
+
+
+-
+zijn verdachtes' ID-bewijs waarmee een bitcoinportemonnee is aangevraagd en/of
+
+-
+een kopie van een bankrekeningafschrift op zijn verdachtes' naam waarmee een bitcoinportemonnee  is aangevraagd en/of één  bankrekening op zijn verdachtes' naam (eindigend op [nummer 1]  en
+
+-
+één bankpasje behorende bij een bankrekening op zijn verdachtes' naam (eindigend op  [nummer 1] );
+
+
+
+Hetgeen meer of anders is ten laste gelegd is niet bewezen. De verdachte moet ook daarvan worden vrijgesproken.
+
+
+
+
+
+5 Strafbaarheid feit
+Het bewezen feit levert op:  
+
+
+medeplichtigheid aan witwassen.
+
+ 
+
+Er zijn geen feiten of omstandigheden aannemelijk geworden die de strafbaarheid van het feit uitsluiten.
+ 
+
+Het feit is dus strafbaar. 
+
+
+
+
+6 Strafbaarheid verdachte
+Er is geen omstandigheid aannemelijk geworden die de strafbaarheid van de verdachte uitsluit. 
+
+De verdachte is dus strafbaar.
+
+
+
+
+7 Motivering straf 
+De straf die aan de verdachte wordt opgelegd is gebaseerd op de ernst van het feit de omstandigheden waaronder het feit is begaan en de persoon en de persoonlijke omstandigheden van de verdachte. Daarbij wordt in het bijzonder het volgende in aanmerking genomen. 
+
+De verdachte is medeplichtig geweest aan het witwassen van ruim € 160.000-. Hij heeft onder meer zijn bankrekening en bankpas ter beschikking gesteld aan medeverdachte [naam medeverdachte] . Op deze bankrekening werden grote geldbedragen gestort die vervolgens door [naam medeverdachte] contant werden opgenomen terwijl de verdachte door de manier waarop werd gehandeld wist dat deze geldbedragen een criminele herkomst hadden. 
+ 
+
+Door het witwassen van crimineel vermogen wordt de onderliggende criminaliteit gefaciliteerd. De door anderen gepleegde misdaden lonen enkel en alleen door de witwashandelingen van verdachte. De handel in verboden goederen via Darknet Markets zou immers niet zo aantrekkelijk zijn als de daders er niet in slaagden wegen te vinden om de opbrengsten ervan (bitcoins) contant te maken en zo aan het zicht van justitie te onttrekken. Het gaat om een ernstig feit dat de integriteit van het financiële handelsverkeer schaadt en het vertrouwen dat daarin moet kunnen worden gesteld. 
+ 
+
+De rechtbank heeft bij het bepalen van de straf voor dit feit rekening gehouden met straffen in soortgelijke zaken en overweegt op grond daarvan dat voor dit feit een onvoorwaardelijke gevangenisstraf op zijn plaats zou zijn. 
+ 
+
+In strafverminderende zin houdt de rechtbank rekening met de justitiële documentatie van verdachte van 16 februari 2018 waaruit blijkt dat hij niet eerder is veroordeeld voor soortgelijke strafbare feiten en ook na het feit niet met justitie in aanraking is gekomen. Daarnaast heeft de omstandigheid dat het gaat om een strafbaar feit uit 2015 en dat de verdachte wordt veroordeeld voor medeplichtigheid een strafverlagend effect. Bovendien heeft de verdachte werk en betaalt hij daardoor zijn schulden af. Gelet op genoemde omstandigheden zal de rechtbank - in afwijking van de officier van justitie - afzien van het opleggen van een onvoorwaardelijke gevangenisstraf. 
+ 
+
+Alles afwegende acht de rechtbank het passend en geboden aan de verdachte op te leggen een taakstraf voor de duur van 120 uren waarvan 60 uren voorwaardelijk. Dit voorwaardelijk strafdeel dient er ook toe de verdachte ervan te weerhouden in de toekomst opnieuw strafbare feiten te plegen. 
+
+
+
+
+8 In beslag genomen voorwerpen
+De officier van justitie heeft gevorderd de in beslag genomen USB-sticks te onttrekken aan het verkeer. 
+
+Op de USB-sticks zijn voornamelijk muziekbestanden aangetroffen. De USB-sticks bevatten geen relevante informatie voor het onderzoek en er bestaan geen aanwijzingen dat de USB-sticks een rol hebben gespeeld bij het plegen van het strafbare feit. Daarom zal ten aanzien van de in beslag genomen USB-sticks een last worden gegeven tot teruggave aan de verdachte.
+
+
+
+
+9 Toepasselijke wettelijke voorschriften
+Gelet is op de artikelen 9 14a 14b 14c 22c 22d 48 49 en 420bis van het Wetboek van Strafrecht. 
+
+
+
+10 Bijlagen
+De in dit vonnis genoemde bijlagen maken deel uit van dit vonnis.
+
+
+
+11 Beslissing
+De rechtbank: 
+
+verklaart niet bewezen dat de verdachte het primair ten laste gelegde feit heeft begaan en spreekt de verdachte daarvan vrij;
+ 
+
+verklaart bewezen dat de verdachte het subsidiair ten laste gelegde feit zoals hiervoor omschreven heeft begaan;
+ 
+
+verklaart niet bewezen hetgeen aan de verdachte meer of anders ten laste is gelegd dan hiervoor bewezen is verklaard en spreekt de verdachte ook daarvan vrij;
+ 
+
+stelt vast dat het bewezen verklaarde oplevert het hiervoor vermelde strafbare feit;
+ 
+
+verklaart de verdachte strafbaar;
+ 
+
+veroordeelt de verdachte tot een taakstraf voor de duur van 120 (honderdtwintig) uren waarbij de Reclassering Nederland dient te bepalen uit welke werkzaamheden de taakstraf dient te bestaan;
+ 
+
+beveelt dat de tijd die door de veroordeelde voor de tenuitvoerlegging van deze uitspraak in verzekering en in voorlopige hechtenis is doorgebracht bij de uitvoering van de opgelegde taakstraf in mindering wordt gebracht volgens de maatstaf van twee uren per dag zodat na deze aftrek 116 (honderdzestien) uren te verrichten taakstraf resteert;
+ 
+
+beveelt dat voor het geval de veroordeelde de taakstraf niet naar behoren verricht vervangende hechtenis zal worden toegepast voor de duur van 58 dagen;
+ 
+
+bepaalt dat van deze taakstraf een gedeelte groot 60 (zestig) uren niet ten uitvoer zal worden gelegd tenzij de rechtbank later anders mocht gelasten omdat de veroordeelde voor het einde van de proeftijd die hierbij wordt gesteld op 2 jaar na te melden voorwaarden overtreedt;
+ 
+
+stelt als algemene voorwaarde dat de veroordeelde zich vóór het einde van de proeftijd niet aan een strafbaar feit schuldig zal maken;
+ 
+
+beslist ten aanzien van de voorwerpen geplaatst op de lijst van inbeslaggenomen en nog niet teruggegeven voorwerpen als volgt:- gelast de teruggave aan de veroordeelde van 2 USB-sticks.
+ 
+
+Dit vonnis is gewezen door:
+mr. F.W. van Lottum voorzitter
+en mrs. A. Verweij en F.A. Hut rechters
+in tegenwoordigheid van mr. M. Koek griffier
+en uitgesproken op de openbare terechtzitting van deze rechtbank op 5 april 2018.
+Bijlage I 
+ 
+
+
+Tekst tenlastelegging
+
+ 
+
+Aan de verdachte wordt ten laste gelegd dat
+ 
+
+hij op een of meer tijdstip(pen) gelegen in of omstreeks de periode van 2
+januari 2014 tot en met 11 mei 2016 te Rotterdam althans in Nederland
+(telkens) tezamen en in vereniging met een of meer anderen althans alleen
+meermalen althans éénmaal
+(telkens)
+ 
+a. a) van (een) voorwerp(en) te weten 
+
+-
+in de periode van 10 februari 2015 tot en met 10 augustus 2015 tot een totaal van 2.53955 bitcoins (in een bitcoinportemonnee eindigend op [bitcoinwallet-naam 1] en/of in een bitcoinportemonnee eindigend op [bitcoinwallet-naam 2] ) en/of
+
+-
+in de periode van 27 februari 2015 tot en met 28 september 2015 tot een totaal van 1.17134 bitcoins (in een bitcoinportemonnee eindigend op [bitcoinwallet-naam 2] ) en/of
+
+-
+in de periode van 28 januari 2015 tot en met 27 april 2015 tot een totaal van 1.91064 bitcoins (in een bitcoinportemonnee eindigend op [bitcoinwallet-naam 1] ) en/of
+
+-
+in de periode van 2 mei 2015 tot en met 17 mei 2015 tot een totaal van 70566 bitcoins (in een bitcoinportemonnee eindigend op [bitcoinwallet-naam 3] )
+
+
+althans (telkens) een of meer bitcoins 
+
+en
+ 
+
+-
+in de periode van 26 januari 2015 tot en met 30 mei 2015 tot een totaal van 654.425 euro (op een ABN-studentenrekening op naam van [naam medeverdachte]  eindigend op [nummer 2] ) en/of
+
+-
+op of omstreeks 21 januari 2016 tot een totaal van 8.000 euro (op een bankrekening op naam van [naam medeverdachte]  eindigend op [nummer 3] ) en/of
+
+-
+op of omstreeks 11 mei 2016 12.000 euro in contant geld 
+
+
+en
+
+-
+in de periode van 6 maart 2014 tot en met 10 maart 2014 tot een totaal van 20.161 euro (op een bankrekening op naam van [naam verdachte]  eindigend op [nummer 4] ) en/of
+
+-
+in de periode van 2 maart 2015 tot en met 22 mei 2015 tot een totaal van 160.591 euro (op een bankrekening op naam van [naam verdachte]  eindigend op [nummer 1] ) en/of
+
+-
+op of omstreeks 16 april 2016 tot een totaal van 2.000 euro (op een bankrekening op naam van [naam verdachte]  eindigend op [nummer 5] )
+
+
+althans (telkens) een of meer geldbedrag(en) 
+
+en
+ 
+
+-
+in de periode van 15 december 2015 tot en met 11 mei 2016 een computer (Apple Macbook Pro) en/of
+
+-
+in de periode van 29 februari 2016 tot en met 11 mei 2016 een auto (Volkswagen Golf [kentekennummer] )
+
+
+
+althans terzake van enig voorwerp
+ 
+
+(telkens) de werkelijke aard de herkomst de vindplaats de vervreemding of
+de verplaatsing heeft verborgen en/of verhuld wie de rechthebbende op de/het
+voorwerp(en) is
+ 
+
+dan wel
+
+b. (een) voorwerp(en) te weten 
+
+-
+in de periode van 10 februari 2015 tot en met 10 augustus 2015 tot een totaal van 2.53955 bitcoins (in een bitcoinportemonnee eindigend op [bitcoinwallet-naam 1] en/of in een bitcoinportemonnee eindigend op [bitcoinwallet-naam 2] ) en/of
+
+-
+in de periode van 27 februari 2015 tot en met 28 september 2015 tot een totaal van 1.17134 bitcoins (in een bitcoinportemonnee eindigend op [bitcoinwallet-naam 2] ) en/of
+
+-
+in de periode van 28 januari 2015 tot en met 27 april 2015 tot een totaal van 1.91064 bitcoins (in een bitcoinportemonnee eindigend op [bitcoinwallet-naam 1] ) en/of
+
+-
+in de periode van 2 mei 2015 tot en met 17 mei 2015 tot een totaal van 70566 bitcoins (in een bitcoinportemonnee eindigend op [bitcoinwallet-naam 3] )
+
+
+althans (telkens) een of meer bitcoins 
+
+en
+ 
+
+-
+in de periode van 26 januari 2015 tot en met 30 mei 2015 tot een totaal van 654.425 euro (op een ABN-studentenrekening op naam van [naam medeverdachte]  eindigend op [nummer 2] ) en/of
+
+-
+op of omstreeks 21 januari 2016 tot een totaal van 8.000 euro (op een bankrekening op naam van [naam medeverdachte]  eindigend op [nummer 3] ) en/of
+
+-
+op of omstreeks 11 mei 2016 12.000 euro in contant geld 
+
+
+en
+
+-
+in de periode van 6 maart 2014 tot en met 10 maart 2014 tot een totaal van 20.161 euro (op een bankrekening op naam van [naam verdachte]  eindigend op [nummer 4] ) en/of
+
+-
+in de periode van 2 maart 2015 tot en met 22 mei 2015 tot een totaal van 160.591 euro (op een bankrekening op naam van [naam verdachte]  eindigend op [nummer 1] ) en/of
+
+-
+op of omstreeks 16 april 2016 tot een totaal van 2.000 euro (op een bankrekening op naam van [naam verdachte]  eindigend op [nummer 5] )
+
+
+althans (telkens) een of meer geldbedrag(en) 
+
+en
+ 
+
+-
+in de periode van 15 december 2015 tot en met 11 mei 2016 een computer (Apple Macbook Pro) en/of
+
+-
+in de periode van 29 februari 2016 tot en met 11 mei 2016 een auto (Volkswagen Golf [kentekennummer] )
+
+
+
+(telkens) heeft verworven voorhanden heeft gehad heeft overgedragen of
+omgezet of daarvan gebruik heeft gemaakt
+ 
+
+terwijl hij en/of zijn mededader(s) wist(en) althans redelijkerwijs moest(en)
+vermoeden dat dit/deze voorwerp(en)
+
+- onmiddellijk of middellijk - (mede) afkomstig is/waren uit enig misdrijf; 
+
+Subsidiair voor zover het vorenstaande niet tot een veroordeling mocht of zou
+kunnen leiden:
+ 
+
+dat terwijl [naam medeverdachte] en/of één of meer vooralsnog onbekend gebleven
+perso(o)n(en) op een of meer tijdstip(pen) gelegen in of omstreeks de periode
+van 2 januari 2014 tot en met 11 mei 2016 te Rotterdam althans in Nederland
+(telkens) tezamen en in vereniging met een of meer anderen althans alleen
+meermalen althans éénmaal
+(telkens)
+ 
+a. a) terzake van (een) voorwerp(en) te weten 
+
+-
+in de periode van 10 februari 2015 tot en met 10 augustus 2015 tot een totaal van 2.53955 bitcoins (in een bitcoinportemonnee eindigend op [bitcoinwallet-naam 1] en/of in een bitcoinportemonnee eindigend op [bitcoinwallet-naam 2] )en/of
+
+-
+in de periode van 27 februari 2015 tot en met 28 september 2015 tot een totaal van 1.17134 bitcoins (in een bitcoinportemonnee eindigend op [bitcoinwallet-naam 2] ) en/of
+
+-
+in de periode van 28 januari 2015 tot en met 27 april 2015 tot een totaal van 1.91064 bitcoins (in een bitcoinportemonnee eindigend op [bitcoinwallet-naam 1] ) en/of
+
+-
+in de periode van 2 mei 2015 tot en met 17 mei 2015 tot een totaal van 70566 bitcoins (in een bitcoinportemonnee eindigend op [bitcoinwallet-naam 3] ) 
+
+
+althans (telkens) een of meer bitcoins 
+
+en
+ 
+
+-
+in de periode van 26 januari 2015 tot en met 30 mei 2015 tot een totaal van 654.425 euro (op een ABN-studentenrekening op naam van [naam medeverdachte]  eindigend op [nummer 2] ) en/of
+
+-
+op of omstreeks 21 januari 2016 tot een totaal van 8.000 euro (op een bankrekening op naam van [naam medeverdachte]  eindigend op [nummer 3] ) en/of 
+
+-
+op of omstreeks 11 mei 2016 12.000 euro in contant geld
+
+
+en
+
+-
+in de periode van 6 maart 2014 tot en met 10 maart 2014 tot een totaal van 20.161 euro (op een bankrekening op naam van [naam verdachte]  eindigend op [nummer 4] ) en/of
+
+-
+in de periode van 2 maart 2015 tot en met 22 mei 2015 tot een totaal van 160.591 euro (op een bankrekening op naam van [naam verdachte]  eindigend op [nummer 1] ) en/of
+
+-
+op of omstreeks 16 april 2016 tot een totaal van 2.000 euro (op een bankrekening op naam van [naam verdachte]  eindigend op [nummer 5] )
+
+
+althans (telkens) een of meer geldbedrag(en) 
+
+en
+ 
+
+-
+in de periode van 15 december 2015 tot en met 11 mei 2016 een computer (Apple Macbook Pro) en/of
+
+-
+in de periode van 29 februari 2016 tot en met 11 mei 2016 een auto (Volkswagen Golf [kentekennummer] )
+
+
+
+althans terzake van enig voorwerp
+ 
+
+(telkens) de werkelijke aard de herkomst de vindplaats de vervreemding of
+de verplaatsing heeft verborgen en/of verhuld wie de rechthebbende op de/het
+voorwerp(en) is
+ 
+
+ dan wel
+
+b. (een) voorwerp(en) te weten: 
+
+-
+in de periode van 10 februari 2015 tot en met 10 augustus 2015 tot een totaal van 2.53955 bitcoins (in een bitcoinportemonnee eindigend op [bitcoinwallet-naam 1] en/of in een bitcoinportemonnee eindigend op [bitcoinwallet-naam 2] ) en/of
+
+-
+in de periode van 27 februari 2015 tot en met 28 september 2015 tot een totaal van 1.17134 bitcoins (in een bitcoinportemonnee eindigend op [bitcoinwallet-naam 2] ) en/of
+
+-
+in de periode van 28 januari 2015 tot en met 27 april 2015 tot een totaal van 1.91064 bitcoins (in een bitcoinportemonnee eindigend op [bitcoinwallet-naam 1] ) en/of
+
+-
+in de periode van 2 mei 2015 tot en met 17 mei 2015 tot een totaal van 70566 bitcoins (in een bitcoinportemonnee eindigend op [bitcoinwallet-naam 3] ) 
+
+
+althans (telkens) een of meer bitcoins 
+
+en
+ 
+
+-
+in de periode van 26 januari 2015 tot en met 30 mei 2015 tot een totaal van 654.425 euro (op een ABN-studentenrekening op naam van [naam medeverdachte]  eindigend op [nummer 2] ) en/of
+
+-
+op of omstreeks 21 januari 2016 tot een totaal van 8.000 euro (op een bankrekening op naam van [naam medeverdachte]  eindigend op [nummer 3] ) en/of
+
+-
+op of omstreeks 11 mei 2016 12.000 euro in contant geld 
+
+
+en
+
+-
+in de periode van 6 maart 2014 tot en met 10 maart 2014 tot een totaal van 20.161 euro (op een bankrekening op naam van [naam verdachte]  eindigend op [nummer 4] ) en/of
+
+-
+in de periode van 2 maart 2015 tot en met 22 mei 2015 tot een totaal van 160.591 euro (op een bankrekening op naam van [naam verdachte]  eindigend op [nummer 1] ) en/of
+
+-
+op of omstreeks 16 april 2016 tot een totaal van 2.000 euro (op een bankrekening op naam van [naam verdachte]  eindigend op [nummer 5] )
+
+
+althans (telkens) een of meer geldbedrag(en) 
+
+en
+ 
+
+-
+in de periode van 15 december 2015 tot en met 11 mei 2016 een computer (Apple Macbook Pro) en/of 
+
+-
+in de periode van 29 februari 2016 tot en met 11 mei 2016 een auto (Volkswagen Golf [kentekennummer] )
+
+
+
+(telkens) heeft verworven voorhanden heeft gehad heeft overgedragen of
+omgezet of daarvan gebruik heeft gemaakt
+ 
+
+terwijl die [naam medeverdachte] en/of diens mededader(s) wist(en) althans redelijkerwijs
+moest(en) vermoeden dat dit/deze voorwerp(en) - onmiddellijk of middellijk -
+afkomstig is/waren uit enig misdrijf;
+ 
+
+tot en bij welk misdrijf hij verdachte op een of meer tijdstip(pen) gelegen
+in de periode van 2 januari 2014 tot en met 11 mei 2016 te Rotterdam althans
+in Nederland
+(telkens) opzettelijk behulpzaam is geweest en/of gelegenheid middelen en/of
+inlichtingen heeft verschaft
+door aan die [naam medeverdachte] en/of diens mededader(s) ter beschikking te stellen:
+
+
+-
+een bitcoinportemonnee gekoppeld aan zijn verdachtes' naam (eindigend op [bitcoinwallet-naam 1] ) en/of
+
+-
+zijn verdachtes' ID-bewijs waarmee een bitcoinportemonnee (eindigend op [bitcoinwallet-naam 1]  is aangevraagd en/of
+
+-
+een kopie van een bankrekeningafschrift op zijn verdachtes' naam waarmee een bitcoinportemonnee (eindigend op [bitcoinwallet-naam 1] ) is aangevraagd en/of
+
+-
+één of meer bankrekening(en) op zijn verdachtes' naam (eindigend op [nummer 4] en/of [nummer 1] en/of [nummer 5] ) en/of
+
+-
+één of meer bankpasje(s) behorende bij (een) bankrekening(en) op zijn verdachtes' naam (eindigend op [nummer 4] en/of [nummer 1] en/of [nummer 5] );
+
+
+

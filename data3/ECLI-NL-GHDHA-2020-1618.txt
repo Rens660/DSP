@@ -1,0 +1,873 @@
+
+
+GERECHTSHOF DEN HAAG 
+Afdeling Civiel recht 
+
+Zaaknummer	: 200.246.353/01
+ 
+
+Zaaknummer rechtbank	: C/09/518528/ HA ZA 16-1091 
+ 
+
+
+arrest van 18 februari 2020
+
+ 
+
+inzake
+ 
+
+
+
+1 Pepscan Systems B.V.
+
+gevestigd te Lelystad
+
+2. Pepscan Presto B.V.
+gevestigd te Lelystad
+appellanten in het principaal appel
+geïntimeerden in het incidenteel appel
+hierna te noemen: Pepscan
+advocaat: mr. M.G.R. van Gardingen te Amsterdam
+ 
+
+tegen
+ 
+
+
+Bicycle Therapeutics Limited
+
+gevestigd te Cambridge Verenigd Koninkrijk
+geïntimeerde in het principaal appel
+appellante in het incidenteel appel
+hierna te noemen: BT
+advocaat: mr. W.E. Pors te 's-Gravenhage.
+ 
+
+
+
+1 Het geding 
+
+Bij exploot van 17 juli 2018 is Pepscan in hoger beroep gekomen van een door de rechtbank Den Haag tussen partijen gewezen vonnis van 18 april 2018. Bij memorie van grieven met producties heeft Pepscan twaalf grieven aangevoerd. Bij memorie van antwoord met een productie heeft BT de grieven bestreden en tevens incidenteel appel ingesteld en daarbij één grief geformuleerd. Pepscan heeft hierop gereageerd bij memorie van antwoord in incidenteel appel. Beide partijen hebben daarna nog nadere stukken in het geding gebracht. 
+ 
+
+Vervolgens hebben partijen op 25 november 2019 de zaak doen bepleiten Pepscan door haar advocaat voornoemd en diens kantoorgenoten mrs. H.W.J. Lambers en mr. B.J.M. van der Maazen en BT door haar advocaat voornoemd en diens kantoorgenoot mr. F. Douwenga beiden aan de hand van overgelegde pleitnotities. Ten slotte hebben partijen arrest gevraagd.
+ 
+
+
+
+2 De feiten 
+
+De door de rechtbank in het vonnis van 18 april 2018 vastgestelde feiten zijn niet in geschil. Ook het hof zal daar van uitgaan.
+ 
+
+Het gaat in deze zaak om het volgende:
+ 
+
+2.1
+De Pepscan-vennootschappen zijn beiden onderdeel van een Nederlands biotechnologiebedrijf dat zich richt op onderzoek en ontwikkeling en het leveren van diensten op het gebied van peptides. Dit bedrijf is een zelfstandige commerciële voortzetting van het Instituut voor dierhouderij en -gezondheid (ID-DLO). 
+
+
+2.2
+
+De naam Pepscan verwijst naar de zogenoemde pepscan-methode die begin jaren
+tachtig van de vorige eeuw is ontwikkeld door één van de oprichters van Pepscan. Het
+gaat daarbij om een techniek om geautomatiseerd grote aantallen peptides te synthetiseren
+en te screenen op hun biologische eigenschappen. Eén van de resultaten van het onderzoek
+van Pepscan betreft de zogeheten CLIPS-technologie (CLIPS is een afkorting voor Chemical Linkage of Peptides onto Scaffolds). Dit is een techniek voor het produceren van producten met lineaire peptides waarin één of meerdere lussen zijn aangebracht. Pepscan Presto is de Pepscan onderneming die werkzaamheden verricht op het gebied van de scanning en synthese van peptides.
+ 
+
+
+2.3
+
+Voor de CLIPS-techniek en de daarmee te verkrijgen producten (‘geluste
+peptides’) heeft Pepscan Systems op 15 juni 2011 het Europese octrooi EP 1 597 585
+betreffende een “Method for selecting a candidate drug compound” (in de Nederlandse
+vertaling: “Werkwijze voor het selecteren van een gegadigde geneesmiddel verbinding”)
+verkregen (hierna: EP 585 of het octrooi). Dit octrooi is verleend op de internationale
+aanvraag WO 2004/077062 van 26 februari 2004 met inroeping van prioriteit van de
+Europese aanvraag EP 1 452 868 van 27 februari 2003.
+ 
+
+
+2.4
+
+EP 585 bevat tien conclusies waarvan de conclusies 1 tot en met 8 een werkwijze
+claimen en de conclusies 9 en 10 een stof. De onafhankelijke conclusies 1 7 9 en 10 luiden in de authentieke Engelse versie:
+ 
+
+1. A method for providing a compound composed of at least one looped peptide structure
+
+
+
+attached via at least two thioether linkages to a molecular scaffold said method comprising
+
+
+providing a functionalized scaffold molecule comprising a (hetero)aromatic molecule
+
+
+comprising at least two benzylic halogen substituents; providing at least one di-SH
+
+
+functionalized peptide capable of reacting with said at least two benzylic halogen
+
+
+substituents; contacting said functionalized scaffold molecule with said at least one di-SH functionalized peptide to form at least two linkages between said scaffold and said at least
+
+
+one peptide in a coupling reaction whereby the formation of a linkage accelerates the
+
+
+formation of a consecutive linkage wherein said coupling reaction is performed in an
+
+
+aqueous solution.
+
+ 
+
+7. A method for selecting a candidate drug compound comprising
+
+a. a) providing a library of compounds composed of at least one looped peptide
+
+
+structure attached via at least three thioether linkages to a scaffold comprising a
+
+
+(hetero)aromatic molecule or if said peptide is selected from the cysteine knot
+
+
+protein family attached via at least two thioether linkages; and
+
+
+
+b) determining the binding of a target molecule to said compounds.
+ 
+
+9. A compound composed of at least one looped peptide structure attached via at least three
+
+
+thioether linkages to a scaffold comprising a (hetero)aromatic molecule.
+ 
+
+10. A compound composed of at least one looped peptide structure attached via at least
+
+
+
+two thioether linkages to a scaffold comprising a (hetero)aromatic molecule wherein said
+
+
+peptide is selected from the cystine knot protein family.
+
+ 
+
+
+2.5
+
+BT is een Engels commercieel biotechnologiebedrijf dat in 2009 is opgericht door
+een aantal onderzoekers van het Laboratory of Molecular Biology in Cambridge Verenigd
+Koninkrijk.
+ 
+
+
+2.6
+
+BT is opgericht met het doel om met behulp van de door haar oprichters
+ontwikkelde “phage display peptide library” (PDL) screeningtechniek op commerciële basis
+(dubbel geluste of) bicyclische peptides (zogeheten ‘bicycles’) te screenen en te selecteren
+ten behoeve van de ontwikkeling van een nieuwe klasse geneesmiddelen. Omdat deze
+bicycles bleken te vallen onder de productconclusies van EP 585 hebben de oprichters van
+BT - voorafgaand aan de oprichting - Pepscan benaderd om een licentie te verkrijgen
+voor de octrooirechten en knowhow betreffende de CLIPS-technologie.
+ 
+
+
+2.7
+
+De hierop volgende besprekingen tussen partijen hebben in april 2009 geresulteerd
+in een eerste “Proposal for a license Agreement” door partijen aangeduid als ‘Term Sheet’ (hierna: Term Sheet april 2009) waarin het nog op te richten BT wordt aangeduid als ‘NewCo’. Daarin is - onder meer - het navolgende opgenomen:
+ 
+
+
+Licence: 	A world-wide royalty-free exclusive license under the Pepscan Patent Rights to use the CLIPS™ Technology together with NewCo’s proprietary Phage Display Technology for the screening identification development [manufacture and commercialization?] of Therapeutic Peptides
+
+ 
+
+
+Service Work:	NewCo shall engage Pepscan as its exclusive supplier for all [CLIPS™ Technology] related research and development activities under terms and conditions to be negotiated in good faith before the execution of the final license agreement
+
+ 
+
+
+2.8
+
+Na verschillende nieuwe versies van de Term Sheet is op 24 juni 2009 een
+definitieve Term Sheet (hierna: Term Sheet juni 2009) tot stand gekomen waarin - onder
+meer - is opgenomen:
+ 
+
+
+Non-Exclusive	A world-wide royalty-free non-exclusive license under the Pepscan
+
+
+License 	Patent Rights Know How and Improvements for the screening identification development manufacture and commercialization of Therapeutic Peptides within the Field of Activity. Such license shall be with the right to grant sublicenses for the development manufacture and commercialization of Therapeutic Peptides within the Field of Activity.
+
+ 
+
+
+Option to	Pepscan grants to NewCo an option to obtain an exclusive license
+
+
+exclusive 	under the Pepscan Patent Rights Know How and Improvements for the
+
+
+License 	screening identification development manufacture and commercialization of Therapeutic Peptides within the Field of Activity.
+
+
+Such license shall be with the right to grant sublicenses for the development manufacture and commercialization of Therapeutic Peptides within the Field of Activity.
+
+ 
+
+
+NewCo may exercise the option at any time during the Option Period I (or if extended Option Period II) by notifying Pepscan thereof in writing.
+
+ 
+
+
+Service Work 	NewCo and Pepscan shall enter into discussions with Pepscan regarding a Service Agreement pursuant to which Pepscan would serve as NewCo's exclusive supplier for CLIPSTM Technology related research and development activities under terms and conditions to be negotiated in good faith between the parties (the "Service Agreement") provided however the Service Agreement shall in no way restrict NewCo from pursuing any internal developments either within NewCo 'of in collaboration with research labs.
+
+ 
+
+
+2.9
+Pepscan en BT hebben op 13 augustus 2009 een Patent License Agreement gesloten waarin - onder meer - de navolgende bepalingen zijn opgenomen:  
+
+
+3.2
+
+The parties shall negotiate in good faith to conclude a service agreement pursuant to which any Pepscan Service lmprovements will be licensed the Licensor will provide know-how (excluding the Pepscan Know-How) and the Licensor would serve as the Licensee's exclusive supplier for the synthesis of CLIPS Peptides provided that the Licensee shall not be precluded from pursuing any synthesis of CLIPS Peptides on its own or in collaboration with research laboratories.
+ 
+
+
+9.2
+
+The Licensor shall have the right to terminate this Agreement immediately by notice in writing to the Licensee in the event that:
+ 
+
+
+(a)	the Licensee fails to perform or observe any of its obligations under this Agreement provided that in a case where the Licensor considers the breach to be remediable such notice from the Licensor shall also require the Licensee to remedy such breach and if the Licensee so remedies within 30 days of such notice being served such notice to terminate this Agreement shall be deemed to be void and of no effect; or (…)
+
+ 
+
+
+(c)	the Licensee challenges the validity of any of the Licensed Patents.
+
+ 
+
+
+9.3
+
+
+In the event of expiry or termination of this Agreement howsoever arising and subject to any express provisions set out elsewhere in this Agreement:
+
+
+	(…)
+
+
+(c)	the Licensee shall cease all and any exploitation of the Licensed Patents and of any know-how provided by the Licensor to the Licensee except insofar as such knowhow ceases or has ceased to be confidential unless this is or was as a consequence of the default of the Licensee; (…)
+
+ 
+
+
+15.1
+
+This Agreement and the documents referred to in it constitutes the entire agreement and understanding of the parties and supersedes any previous agreement between the parties relating to the subject matter of this Agreement.
+ 
+
+
+18.1
+
+This Agreement and any disputes or claims arising out of or in connection with it or its subject matter or formation (including non-contractual disputes or claims) are governed by and construed in accordance with the law of the Netherlands.
+ 
+
+
+18.2
+
+The parties irrevocably agree that the Courts of The Hague have exclusive jurisdiction to settle any dispute or claim that arises out of or in connection with this Agreement or its subject matter or formation (including non-contractual disputes or claims).
+ 
+
+
+2.10
+Op 12 januari 2010 heeft Pepscan het door haar (toenmalige) advocaat opgestelde concept voor een Framework Service Agreement (hierna: de concept-FSA) aan BT toegestuurd. De onderstaande bepalingen maakten daarvan - onder meer - deel uit:  
+
+
+6.1
+
+
+To the extent permitted by law PEPSCAN shall serve as BICYCLE’s exclusive
+
+
+supplier of CLIPS™ Peptides and rendering of services similar or competitive to the Services.
+
+ 
+
+
+6.2
+
+BICYCLE shall not engage any third party for the synthesis and/or supply of CLIPS™ Peptides and/or the rendering of services similar or competitive to the Services during the term of the License Agreement provided however that BICYCLE shall not be precluded from pursuing any synthesis of CLIPS Peptides on its own or in collaboration with research laboratories.
+ 
+
+
+8.1
+
+
+This Agreement shall come into force on the date of signature by both Parties and
+
+
+shall run for an indefinite period of time. It can be terminated by either Party with a notice period of 3 months. Termination pursuant to this Section 8.1 shall not affect the SOWs in force at the time of termination which shall be completed and paid for in accordance with the terms of this Agreement and the applicable SOW unless expressly agreed otherwise.
+
+ 
+
+8.4.5
+
+The termination of this Agreement leaves rights and duties which have already arisen in connection with this Agreement unaffected. Articles 1 4 6 7 8 and 9 shall survive termination.
+ 
+
+
+
+2.11
+Na onderhandelingen hebben Pepscan Presto en BT op 15 maart 2010 een Framework Service Agreement (hierna: FSA) gesloten waarin de artikelen 6.1 6.2 8.1 en 8.4.5 als volgt zijn komen te luiden:  
+
+
+6.1
+
+
+To the extent permitted by law PEPSCAN shall serve as BICYCLE's exclusive
+
+
+supplier of CLIPS™ Peptides.
+
+ 
+
+
+6.2
+
+
+BICYCLE shall not engage any third party for the synthesis and/or supply of
+
+
+CLIPS™ Peptides during the term of this Agreement provided however that BICYCLE shall not be precluded from pursuing any synthesis of CLIPS™ Peptides on its own or in collaboration with research laboratories. In circumstances in which PEPSCAN is not able to provide BICYCLE with CLIPS™ peptides to the required quantity or specification e.g. GMP manufacturing BICYCLE may obtain CLIPS™ peptides from a third party manufacturer with the agreement of PEPSCAN not to be unreasonably withheld. For the avoidance of doubt BICYCLE shall not be precluded from engaging third parties for the synthesis and/or supply of peptides which are not CLIPS™ peptides.
+
+ 
+
+
+8.1
+
+This Agreement shall come into force on the date of signature by both Parties and shall run for an indefinite period of time. It can be terminated by either Party with a notice period of 3 months. Termination pursuant to this Section 8.1 shall not affect the SOWs in force at the time of termination which shall be completed and paid for in accordance with the terms of this Agreement and the applicable SOW unless expressly agreed otherwise.
+ 
+
+8.4.5
+
+The termination of this Agreement leaves rights and duties which have already arisen in connection with this Agreement unaffected. Articles 1 4 7 8 and 9 shall survive termination.
+ 
+
+
+
+2.12
+Op 1 juli 2010 is de Patent License Agreement vervangen door een andere licentie-overeenkomst die behoudens artikel 2.1 daarvan gelijkluidend is aan de op 13 augustus 2009 gesloten overeenkomst. Ieder van deze overeenkomsten zal hierna worden aangeduid als PLA.  
+
+
+2.13
+
+BT heeft Lonza Group Ltd (hierna: Lonza) ingeschakeld voor de productie van
+CLIPS peptiden. Daartoe heeft BT aan Lonza een sub-licentie onder de PLA verstrekt.
+BT heeft een aantal bestellingen bij Lonza geplaatst. Op 30 augustus 2013 heeft BT een samenwerkings- en licentieovereenkomst gesloten met ThromboGenics B.V. voor de ontwikkeling van peptide remmers voor een specifiek medicijn voor de behandeling van oogziekten. Daartoe heeft zij een sub-licentie onder de PLA aan ThromboGenics verstrekt.
+ 
+
+
+2.14
+
+Bij brief van 22 april 2015 heeft Pepscan aan BT - onder meer - het volgende
+geschreven: 
+ 
+
+
+(…) These agreements [PLA en FSA] are interconnected as the FSA refers to the PLA and vice versa meaning that the license granted to BT under Pepscan’s patents and know-how should be deemed granted under the assumption that Pepscan would serve as the exclusive supplier for CLIPS peptides. In the spirit of this collaboration Pepscan has shared with BT essential confidential information and knowhow regarding the finesses of our CLIPS cyclisation chemistry. 
+
+ 
+
+
+(…) we just found out that CLIPS peptides are being supplied to BT by our competitor Lonza Group Ltd without asking us for approval or even noting this beforehand.
+
+ 
+
+
+This is a clear breach of BT’s obligations under the agreements made i.e. breaching of at
+
+
+least clause 6.1 6.2 and 7 of the FSA and clause 3.2 and 6 of the PLA. (...)
+
+ 
+
+
+2.15
+In haar brief van 22 mei 2015 heeft BT als volgt aan Pepscan laten weten: 
+
+
+(…) Rest assured that we have not breached our obligations. BT is not however
+
+
+prepared to continue its services and supply arrangement with Pepscan under the FSA.
+
+ 
+
+
+(…) BT and Pepscan negotiated in good faith and entered into the FSA which means that we have each fully complied with (and BT has not therefore breached) our obligations under clause 3.2 of the PLA. Clause 3.2 of the PLA has no further legal effect.
+
+ 
+
+
+Under clauses 6.1 and 6.2 of the FSA Pepscan is to serve as BT’s exclusive supplier of
+
+
+CLIPS Peptides in that BT is not permitted to “engage any third party for the synthesis
+
+
+and/or supply” of CLIPS Peptides. This obligation is subject to certain qualifications
+
+
+including an obligation on the part of Pepscan not to unreasonably withhold its agreement
+
+
+to the use by BT of another supplier. The obligation not to engage third parties as suppliers
+
+
+does not survive termination of the FSA.
+
+ 
+
+
+(…)
+
+ 
+
+
+You will find enclosed our notice of termination of the FSA. Clause 8.1 of the FSA gives
+
+
+both BT and Pepscan the right to terminate the FSA on three months’ notice. We have come
+
+
+to the conclusion that we must exercise this termination right.
+
+ 
+
+
+(…) Please be advised that for the avoidance of doubt the PLA will remain in effect as the
+
+
+PLA and the FSA are not co-terminus. 
+
+ 
+
+
+2.16
+Onder verwijzing naar de brief van 22 april 2015 en verdere correspondentie tussen partijen heeft de (toenmalige) advocaat van Pepscan op 17 maart 2016 (onder meer) het volgende aan BT geschreven: 
+
+
+Therefore my client concludes that your client failed to perform or observe its obligations
+
+
+under the PLA e.g. clauses 3.1 3.2 and/or 6. Pursuant to clause 9.2 of the PLA Pepscan
+
+
+terminates this PLA with immediate effect by giving notice to your client of this effect
+
+
+through this letter.
+
+ 
+
+
+1 refer to the consequences of this termination in art. 9.3 of the PLA. My client feels free to
+
+
+make third parties aware of its patent and know-how rights and warn them that they should
+
+
+not infringe these rights.
+
+ 
+
+
+2.17
+Pepscan heeft verklaringen overgelegd van de heren [COO Pepscan] (in 2009 / 2010 Chief Operational Officer / Chief Business Officer bij Pepscan) [lid RvC Pepscan] (in 2009 / 2010 lid van de Raad van Commissarissen van Pepscan) en [toenmalig advocaat Pepscan]  toenmalig advocaat van Pepscan. Zij hebben over de totstandkoming van de PLA en FSA onder meer als volgt verklaard: 
+
+
+          [COO Pepscan] :
+ 
+
+
+(…) Tijdens de ontmoeting in Lelystad [april 2009 - hof] is er ook al onderhandeld over de vormgeving van de samenwerking. De grenzen van die samenwerking zijn toen al getrokken. Voor Pepscan stonden drie zaken voorop voor het verlenen van een licentie: het krijgen van een geldbedrag bij het sluiten van de overeenkomst een aandelenbelang in het op te richten bedrijf en het exclusief verlenen van service werk onder de CLIPS technologie aan Bicycle. Die randvoorwaarden zijn ook besproken met [naam 1] en [naam 2] . Partijen zijn daar bij het opstellen van de overeenkomsten ook steeds vanuit gegaan. (…)
+
+Het moet toen en ook daarna duidelijk voor Bicycle zijn geweest dat het exclusief servicen net zo goed een cruciale corner stone van de overeenkomst was als het geldbedrag en aandelenbelang. In mijn herinnering heb ik daarna van [naam 2] of ander mensen achter Bicycle nooit gehoord dat wij niet exclusief zouden gaan service of dat ze die exclusieve levering wilden opzeggen. (…)
+
+
+In de eerste term sheet staat nog dat Pepscan "shall engage Pepscan as its exclusive supplier" en dat de voorwaarden waaronder zij exclusief zou leveren voor het sluiten van licentieovereenkomst in goed vertrouwen zouden worden onderhandeld. Het is uiteindelijk niet gekomen van het uitonderhandelingen van die voorwaarden in de licentieovereenkomst. 
+
+
+Dat kwam doordat er haast werd gezet achter de oprichting van Bicycle. (…) 
+
+
+In mijn herinnering zijn wij toen meegegaan in die druk. Het uitwerken van de afgesproken exclusieve levering werd voorlopig op de lange baan geschoven naar een service agreement. Pepscan heeft daar toen mee ingestemd. Het was immers al duidelijk dat Pepscan de exclusieve leverancier zou worden ook voor de mensen achter Bicycle. Wij hadden ook geen enkele reden om daar niet op te vertrouwen. Vandaar dat in de PLA 2009 de woorden "shall negotiate to conclude" zijn terugkomen. (…)
+
+
+Ik heb gevraagd [toenmalig advocaat Pepscan] een concept FSA op te stellen. Dat concept is door mij naar [naam 3 BT] van BT gestuurd in januari 2010. De contacten over de uitwerking van de FSA verliepen daarna niet tussen onze advocaten maar telefonisch en per email tussen [naam 3 BT] en mijzelf. De FSA is uiteindelijk in maart 2010 getekend tussen Pepscan Presto (het services onderdeel van Pepscan) en BT. (…)
+
+
+Ik kan nu alleen maar constateren dat in de concept FSA die [toenmalig advocaat Pepscan] mij stuurde en ik aan [naam 3 BT] heb gestuurd er wel een koppeling aan de looptijd van de PLA was opgenomen (artikel 6.2) en dat die de beëindiging van de FSA zou overleven (artikel 8.4.5). Ik moet nu ook constateren dat die koppeling en het overleven daarvan niet meer in de uiteindelijke FSA staan. Ik herinner mij niet meer hoe dit gekomen is. Ik weet niet waarom of door wie dit toen verwijderd is. Wat ik wel weet is dat het niet de bedoeling is geweest dat daardoor Pepscan tijdens de looptijd van de licentie niet exclusief zou servicen voor BT bijvoorbeeld omdat BT de FSA zou opzeggen. Het was immers al duidelijk voor partijen bij het afsluiten van de PLA dat de afspraak was dat Pepscan exclusief het servicen van CLIPS peptiden voor BT zou gaan verrichten. (…)
+
+ 
+
+
+          [lid RvC Pepscan] :
+ 
+
+
+(…) Dat Bicycle nu zegt begrijp ik dat zij de services agreement op ieder moment na afsluiten had kunnen opzeggen en er van exclusief leveren daarmee geen sprake meer zou zijn maar dat zij dan nog wel zelf als licentienemer volledig gerechtigd zou blijven tot toepassing van de CLIPS technologie en zelfs derden zou kunnen inschakelen voor het leveren van CLIPS peptiden vind ik onbegrijpelijk. Dat is in ieder geval absoluut niet in lijn met de intenties die partijen in Lelystad al hebben uitgesproken en de verwachting die Bicycle daarna bij Pepscan in stand heeft gelaten.
+
+ 
+
+
+          [toenmalig advocaat Pepscan] :
+ 
+
+
+(…) Mijn bijstand van Pepscan bij de totstandkoming van de PLA en FSA was beperkt. Ik had een rol op de achtergrond die bestond uit het aanleveren van concepten op instructie van Pepscan (een term sheet voor de uiteindelijke PLA en een concept voor de FSA) en het beoordelen van een stuk dat feitelijk al uitonderhandeld was (de PLA; de uiteindelijke FSA heb ik volgens mij nooit beoordeeld). Ik heb in mijn herinnering nooit persoonlijk contact gehad met Bicycle Therapeutics of de advocaten van Bicycle Therapeutics over het opstellen van de PLA en FSA. Mijn contact met Pepscan verliep via [COO Pepscan] van Pepscan. Voor zover ik weet heeft hij de door mij aangeleverde concepten verder zelf met Bicycle Therapeutics besproken. (…)
+
+
+Voor de FSA geldt dat ik op verzoek van Pepscan ( [COO Pepscan] ) in januari 2010 een concept versie heb opgesteld. Ik heb dat gedaan met oog voor de afspraken tussen Pepscan en Bicycle Therapeutics zoals die ook bleken uit de PLA (2009). Aan het opstellen van het concept zijn voor zover ik weet geen onderhandelingen met Bicycle Therapeutics voorafgegaan. Ik ben daar in ieder geval niet bij betrokken geweest. Ik heb het door mij opgestelde concept op 12 januari 2010 aan [COO Pepscan] gestuurd. Ik begrijp dat hij dit vervolgens diezelfde dag naar Bicycle Therapeutics heeft verstuurd. (…)
+
+
+In het concept had ik opgenomen (artikel 6.2) dat Bicycle Therapeutics "shall not enage any third party for the synthesis and/or supply of CLIPS™ and/or the rendering of services similar or competitive to the Services during the term of the License Agreement [ ... ]". Ik had dus een koppeling aangebracht tussen de exclusieve levering door Pepscan aan Bicycle Therapeutics en de looptijd van de PLA. Bovendien had ik in het concept van 12 januari 2010 opgenomen dat deze koppeling een beëindiging van de FSA zou overleven (art. 8.4.5: "Articles [. .. ] 6 [. .. ] shall survive termination.").
+
+
+Deze koppeling was bewust opgenomen. Het benadrukte wat door partijen was afgesproken in het kader van het verlenen van een licentie door Pepscan aan Bicycle Therapeutics. De exclusieve levering door Pepscan was daar onderdeel van en dat was toen duidelijk het uitgangspunt voor het opstellen van het concept van 12 januari 2010 op instructie van Pepscan. Het was dus niet de bedoeling dat met het opzeggen van de FSA van een exclusieve levering door Pepscan geen sprake meer zou zijn. (…)
+
+ 
+
+
+
+
+3 De vorderingen in eerste aanleg en in hoger beroep 
+
+3.1
+In eerste aanleg vorderde BT alles zoveel mogelijk uitvoerbaar bij voorraad kort weergegeven  
+1. een verklaring voor recht dat de PLA door Pepscan niet rechtsgeldig is beëindigd; 
+2.	- onder de voorwaarde dat die vordering niet wordt toegewezen - vernietiging van conclusies 9 en 10 van EP 585; 
+
+3.a	dat Pepscan zich zal onthouden van het doen van mededelingen aan derden dat BT en/of haar afnemers mogelijk inbreuk maken op EP 585 en/of dat de PLA is opgezegd met dwangsom;
+3.b	subsidiair dat Pepscan zich zal onthouden van het doen van dergelijke mededelingen zonder daarvoor voldoende concrete op deskundig onderzoek gebaseerde aanwijzingen te hebben met dwangsom;
+
+4. althans een door het hof gepast geachte voorziening;
+5. veroordeling van Pepscan in de proceskosten voor zover betrekking hebbend op vordering sub 2 begroot volgens artikel 1019h wetboek van burgerlijke rechtsvordering (Rv).   
+
+
+3.2
+
+Pepscan vorderde in reconventie alles zoveel mogelijk uitvoerbaar bij voorraad  eveneens kort weergegeven  
+I.	een verklaring voor recht dat Pepscan de PLA rechtsgeldig heeft beëindigd;
+II	een vaststelling dat BT de PLA en/of de FSA niet is nagekomen en aansprakelijk is voor de daaruit door Pepscan geleden schade;
+III	een wereldwijd bevel de gevolgen van de opzegging zoals neergelegd in artikel 9.3 PLA na te leven waaronder het wereldwijd staken van de exploitatie van de octrooirechten van Pepscan met dwangsom; 
+IV	opgave van toeleveranciers van CLIPS peptiden met hoeveelheden en inkoop- en kostprijzen met dwangsom;
+V	veroordeling tot vergoeding van de schade en/of afdracht van winst wegens de niet-nakoming door BT;
+VI	verzending van een brief aan de toeleveranciers van CLIPS peptiden dat zij BT niet meer mogen beleveren en dat het gebruik van de CLIPS-technologie mogelijk octrooi-inbreuk oplevert;
+VII	rectificatie op BT’s website inhoudende dat zij heeft gehandeld in strijd met de PLA dat BT Pepscan’s octrooi en knowhow niet langer mag exploiteren en dat zij veroordeeld is tot betaling van schadevergoeding aan Pepscan;
+VIII	veroordeling van BT in de proceskosten voor wat betreft het verweer tegen BT’s vordering sub 2 op de voet van art. 1019h Rv.
+ 
+
+
+3.3
+BT heeft aangevoerd dat de rechtbank niet bevoegd is kennis te nemen van de reconventionele vorderingen anders dan de verklaringen voor recht omdat deze zijn gebaseerd op octrooi-inbreuk zodat deze niet vallen onder het forumkeuzebeding van artikel 18 lid 2 PLA.  
+
+
+3.4
+De rechtbank heeft BT’s beroep op onbevoegdheid verworpen kort gezegd omdat de reconventionele vorderingen van Pepscan (alle) zijn gebaseerd op nakoming door BT van artikel 9.3 van de PLA zodat deze vallen onder het forumkeuzebeding. Voorts heeft de rechtbank geoordeeld dat artikel 3.2 PLA aldus moet worden uitgelegd dat dit partijen uitsluitend verplichtte te onderhandelen over de totstandkoming van een FSA welke verplichting is nageleefd waarna deze bepaling haar werking heeft verloren. Aldus stond het Pepscan niet vrij om de PLA te beëindigen omdat BT van derden CLIPS peptiden heeft afgenomen. Wel achtte de rechtbank voorshands aannemelijk dat BT in strijd met artikel 6 PLA vertrouwelijke informatie heeft gedeeld met haar leveranciers waarbij BT is toegelaten tegenbewijs te leveren.  
+
+
+3.5
+Op verzoek van Pepscan heeft de rechtbank tussentijds hoger beroep opengesteld. Aan dit tussentijds appel is slechts onderworpen het oordeel van de rechtbank in r.o. 6.17 (gebaseerd op r.o. 6.6 - 6.16) dat van een opzeggingsgrond als bedoeld in artikel 9.2 PLA wegens handelen door BT in strijd met artikel 3.2 PLA gelet op de uitleg van laatstgenoemde bepaling geen sprake is.    
+
+
+
+
+4 De beoordeling 
+
+4.1
+Het geschil tussen partijen komt er in de kern op neer dat zij ieder uitgaan van een andere uitleg van hetgeen is opgenomen in artikel 3.2 van de PLA:  
+
+
+The parties shall negotiate in good faith to conclude a service agreement pursuant to which any Pepscan Service lmprovements will be licensed the Licensor will provide know-how (excluding the Pepscan Know-How) and the Licensor would serve as the Licensee's exclusive supplier for the synthesis of CLIPS Peptides provided that the Licensee shall not be precluded from pursuing any synthesis of CLIPS Peptides on its own or in collaboration with research laboratories.
+
+ 
+
+
+4.2
+Volgens Pepscan is in artikel 3.2 PLA de afspraak vastgelegd dat Pepscan voor BT de exclusieve leverancier van CLIPS peptiden zal zijn gedurende de looptijd van de licentie-overeenkomst. Omdat de tijd ontbrak om voorafgaand aan het ondertekenen van de PLA alle relevante condities uit te onderhandelen is afgesproken dat daarover nog te goeder trouw zou worden onderhandeld.  
+
+
+4.3
+BT stelt zich op het standpunt dat artikel 3.2 PLA tot niets meer verplicht dan het te goeder trouw onderhandelen over een service-overeenkomst. Dat hebben partijen gedaan en dat heeft geleid tot de FSA. Daarmee is artikel 3.2 PLA uitgewerkt. De FSA voorziet in de mogelijkheid van opzegging – zonder opgaaf van redenen – met een opzegtermijn van 3 maanden. De opzegging van de FSA laat onverlet dat de PLA voortduurt.   
+
+
+4.4
+Bij de beoordeling van dit geschilpunt stelt het hof voorop dat bij de uitleg van artikel 3.2 PLA niet alleen moet worden gekeken naar de taalkundige uitleg van die bepaling. Het komt aan op de zin die partijen in de gegeven omstandigheden gelet op hun verklaringen en gedragingen over en weer redelijkerwijs aan die bepaling mochten toekennen en op hetgeen zij te dien aanzien redelijkerwijs van elkaar mochten verwachten (het zogenaamde Haviltex-criterium uit HR 13 maart 1981 ECLI:NL:HR:1981:AG4158).  
+
+
+4.5
+Naar het oordeel van het hof volgt uit de totstandkomingsgeschiedenis van de PLA en de FSA alsmede de (onweersproken) verklaringen van [COO Pepscan]  [lid RvC Pepscan] en [toenmalig advocaat Pepscan]  dat partijen bedoeld hebben dat gedurende de looptijd van de licentie-overeenkomst BT verplicht was de CLIPS peptiden exclusief van Pepscan af te nemen (behoudens de in die overeenkomsten genoemde uitzonderingen). Ook voor zover een taalkundige uitleg van artikel 3.2 PLA de door BT verdedigde uitleg zou toelaten of zelfs in die richting zou wijzen moet naar het oordeel van het hof onder de gegeven omstandigheden niettemin worden uitgegaan van de door Pepscan verdedigde uitleg die aansluit bij de bedoelingen van partijen en hetgeen zij daarover over en weer hebben besproken en op grond daarvan ook van elkaar mochten verwachten. Het hof baseert zich daarbij op de navolgende feiten en omstandigheden.   
+
+4.5.1
+
+          [COO Pepscan]  [lid RvC Pepscan] en [toenmalig advocaat Pepscan] hebben – consistent – verklaard ten aanzien van de onderhandelingen voorafgaand aan de totstandkoming van de PLA en FSA – in het bijzonder dat het de wederzijds uitgesproken bedoeling van partijen was dat BT gedurende de looptijd van de licentie-overeenkomst de CLIPS peptiden exclusief van Pepscan zou afnemen (behoudens enkele uitzonderingen).  
+
+
+4.5.2
+
+In de Term Sheet april 2009 is ter zake van de door Pepscan te verlenen diensten opgenomen: “NewCo shall engage Pepscan as its exclusive supplier for all [CLIPS™ Technology] related research and development activities under terms and conditions to be negotiated in good faith before the execution of the final license agreement”. In de Term Sheet juni 2009 is dat vervolgens als volgt verwoord: “NewCo and Pepscan shall enter into discussions with Pepscan regarding a Service Agreement pursuant to which Pepscan would serve as NewCo's exclusive supplier for CLIPSTM Technology related research and development activities under terms and conditions to be negotiated in good faith between the parties (the "Service Agreement") provided however the Service Agreement shall in no way restrict NewCo from pursuing any internal developments either within NewCo or in
+
+collaboration with research labs.”. Deze verplichting is vervolgens in artikel 3.2 PLA verwoord als: “The parties shall negotiate in good faith to conclude a service agreement pursuant to which any Pepscan Service Improvements will be licensed the Licensor will provide know-how (excluding the Pepscan Know-How) and the Licensor would serve as the Licensee's exclusive supplier for the synthesis of CLIPS Peptides provided that the Licensee shall not be precluded from pursuing any synthesis of CLIPS Peptides on its own or in collaboration with research laboratories.” 
+ 
+
+
+4.5.3
+
+Naar [COO Pepscan] en [lid RvC Pepscan] hebben verklaard vindt de aangepaste terminologie van “shall engage” in “shall enter into discussions (…) pursuant to which Pepscan would serve” zijn oorsprong daarin dat er geen tijd was om de Service Agreement uit te onderhandelen voorafgaand aan het sluiten van de licentie-overeenkomst. Daar werd in de Term Sheet april 2009 nog wel van uitgegaan getuige de zinsnede “before the execution of the final license agreement”. Omdat die reden zijn partijen overeengekomen dat over de voorwaarden van de service-overeenkomst na de licentie-overeenkomst nader onderhandeld zou worden. 
+Naar Pepscan onweersproken heeft gesteld zijn de Term Sheet juni 2009 en de PLA onder zekere tijdsdruk tot stand gekomen. 
+ 
+
+
+4.5.4
+Dat aan de gewijzigde bewoordingen in de Term Sheet juni 2009 niet een andere – van de Term Sheet april 2009 afwijkende – afspraak ten grondslag lag blijkt ook uit het feit dat Pepscan na het sluiten van de PLA haar advocaat de opdracht heeft gegeven een concept voor de af te sluiten FSA op te stellen in overeenstemming met de reeds aan de Term Sheet april 2009 ten grondslag liggende afspraken. De artikelen 6.1 en 6.2 alsmede de koppeling met de looptijd van de licentie-overeenkomst in artikel 8.4.5 van het door haar advocaat opgestelde concept weerspiegelden dan ook het begrip van Pepscan ten aanzien van de – inhoudelijk niet gewijzigde – met BT gemaakte afspraken. Aangezien de bewoordingen van artikel 3.2 PLA – die immers behoudens enkele toevoegingen betreffende verbeteringen en know how identiek zijn aan die opgenomen in de Term Sheet juni 2009 – is er geen aanleiding over de uitleg daarvan anders te oordelen.   
+
+
+4.5.5
+De suggestie van BT dat betekenis zou moeten worden toegekend aan het gebruik van ‘would’ (in plaats van ‘will’) in artikel 3.2 PLA (en daarvoor ook al in de Term Sheet juni 2009) wat volgens BT een ‘duidelijk terughoudender formulering’ zou zijn wijst het hof van de hand. Aan de eventuele aan de Engelse grammatica ontleende nuances tussen ‘will’ en ‘would’ kan nu Pepscan (en ook haar toenmalige advocaat) geen native speaker is geen betekenis worden toegekend. Met artikel 3.2 PLA is in het licht van de sluiting van de PLA voorafgaand aan het sluiten van de FSA in plaats van daarna zoals aanvankelijk beoogd niets anders tot uitdrukking gebracht dan dat er nog onderhandeld moest worden over een FSA. Uit niets blijkt dat daarbij over de exclusieve afnameverplichting van BT andere afspraken zijn gemaakt dan die in de Term Sheet april 2009 waren neergelegd. Uit de door Pepscan overgelegde verklaringen blijkt integendeel dat voor alle partijen bij ondertekening van de PLA – nog steeds – buiten kijf stond dat Pepscan onder nader overeen te komen voorwaarden gedurende de licentie-overeenkomst exclusief leverancier van de CLIPS peptiden zou worden. Dat in artikel 3.2 PLA niet expliciet is opgenomen dat de FSA zou worden aangegaan voor de looptijd van de PLA waarop BT heeft gewezen betekent niet dat partijen dit niet voor ogen hadden. Juist omdat partijen dat wél voor ogen hadden is die koppeling vervolgens in de concept-FSA uitdrukkelijk opgenomen getuige ook de verklaring van mr. [toenmalig advocaat Pepscan] : “Deze koppeling was bewust opgenomen. Het benadrukte wat door partijen was afgesproken in het kader van het verlenen van een licentie door Pepscan aan Bicycle Therapeutics”. Niet gesteld of gebleken is dat BT ooit aan Pepscan heeft laten weten dat zij met die koppeling niet akkoord ging. Het hof merkt hierbij nog op dat de omstandigheid nog geen overeenstemming was bereik over alle specifieke voorwaarden van de exclusieve afnameverplichting er niet aan in de weg staat dat hierover – in artikel 3.2 PLA - een overeenkomst tot stand was gekomen (zie o.m. HR 26-09-2003 NJ 2004 460 ‘Regiopolitie/Hovax’).   
+
+
+4.5.6
+Uit de door Pepscan overgelegde verklaringen met name die van [COO Pepscan]  blijkt verder dat over het verwijderen van de koppeling van de exclusieve afnameverplichting van BT aan de duur van de licentie-overeenkomst (door in artikel 6.2 FSA te verwijzen naar ‘this Agreement’ in plaats van de ‘License Agreement’ en door artikel 6 FSA niet langer in artikel 8.4.5 FSA te vermelden) niet tussen partijen is gesproken. BT heeft dat niet gemotiveerd bestreden. Ook BT heeft er geen verklaring voor kunnen geven hoe door wie en waarom deze koppeling uit de definitieve tekst is verdwenen. Aangenomen moet daarom worden dat het achterwege laten van die koppeling niet het resultaat is geweest van onderhandelingen daarover en dus ook niet de weerslag vormt van – latere van de eerdere uit de Term Sheets en de concept-FSA blijkende afspraken afwijkende – overeenstemming tussen partijen op dat punt. De (ondertekende) FSA strookt derhalve niet met de bedoelingen van partijen zoals die blijken uit artikel 3.2 PLA en de daaraan voorafgaande Term Sheets.  
+
+
+4.5.7
+Dat er over de FSA is onderhandeld en er wijzigingen in de concept-FSA zijn aangebracht doet daar niet aan af. Zoals [COO Pepscan] ook heeft verklaard en ook blijkt uit overgelegde e-mail correspondentie is over de inhoud van die overeenkomst inderdaad tussen partijen onderhandeld maar alleen op andere punten dan genoemde koppeling. De onderhandelingen met betrekking tot artikel 6.2 FSA waarop BT heeft gewezen hadden betrekking op de uitzonderingen op de exclusiviteit en hebben geleid tot de toevoeging van de passage “In circumstances in which PEPSCAN is not able to provide BICYCLE with CLIPS™ peptides to the required quantity or specification e.g. GMP manufacturing BICYCLE may obtain CLIPS™ peptides from a third party manufacturer with the agreement of PEP SCAN not to be unreasonably withheld. For the avoidance of doubt BICYCLE shall not be precluded from engaging third parties for the synthesis and/or supply of peptides which are not CLIPS™ peptides.”. Deze onderhandelingen hadden blijkens de overgelegde correspondentie geen betrekking op de koppeling tussen de looptijd van de FSA en de PLA.  
+
+
+4.5.8
+Het standpunt van BT dat Pepscan de in artikel 6.2 en 8.4.5 van de FSA aangebrachte wijzigingen had kunnen zien en dat Pepscan nu eenmaal de FSA heeft ondertekend zodat BT volgens de letterlijke bewoordingen van artikel 8.1 FSA het recht had de overeenkomst zonder opgaaf van redenen met een opzegtermijn van 3 maanden op te zeggen en volgens artikel 8.4.5 FSA daarmee ook de exclusieve afnameverplichting is vervallen moet worden verworpen. Anders dan waar BT vanuit lijkt te gaan staat met het feit dat de FSA door Pepscan is ondertekend nog niet vast dat de FSA in het bijzonder de artikelen 6.2 en 8.4.5 daarvan de juiste weergave vormt van de bedoelingen van partijen. De FSA is aan te merken als een onderhandse akte die weliswaar dwingend bewijs oplevert ten aanzien van de daarin opgenomen verklaringen van partijen maar waartegen tegenbewijs openstaat. Op grond van hetgeen hiervoor en hierna onder r.o. 4.5 is en wordt overwogen in het bijzonder het feit dat het wegvallen van de koppeling tussen de afnameverplichting en de PLA in de artikelen 6.2 en 8.4.5 van de FSA niet het resultaat is geweest van onderhandelingen is naar het oordeel van het hof dat tegenbewijs door Pepscan geleverd. Aldus kunnen die bepalingen niet worden aangemerkt als een juiste weergave van hetgeen partijen bedoeld hebben af te spreken en kunnen de letterlijke bewoordingen van die bepalingen aan de hiervoor gegeven uitleg van artikel 3.2 PLA niet in de weg staan. De bedoeling van partijen was en bleef datgene wat in artikel 3.2 PLA tot uitdrukking is gebracht namelijk dat voor BT een exclusieve afnameverplichting gold gedurende de looptijd van de PLA (behoudens enkele uitzonderingen op die exclusiviteit zoals opgenomen in de PLA en de FSA).  
+
+
+4.5.9
+BT heeft de verklaringen van [COO Pepscan]  [lid RvC Pepscan] en [toenmalig advocaat Pepscan] niet weersproken. In het bijzonder heeft BT geen andersluidende verklaringen overgelegd van de namens BT bij de totstandkoming van de PLA en FSA betrokkenen. Zij heeft voorts (expliciet) geen (tegen-)getuigenbewijs aangeboden ter zake van de totstandkoming van de PLA en FSA en hetgeen in dat kader tussen partijen is besproken en afgesproken (zie par. 159 MvA). Zij heeft enkel benadrukt (onder meer in par. 31 MvA) dat BT niet bereid was een onvoorwaardelijke exclusieve afnameverplichting aan te gaan zonder enige beperking voor onbepaalde tijd en zonder mogelijkheid tot beëindiging. Nog daargelaten dat ook voor die stelling onderbouwing ontbreekt is dat anders dan BT meent (in par. 97 MvA) ook niet wat Pepscan stelt. Zij stelt door diverse verklaringen onderbouwd dat partijen een aan de licentie-overeenkomst gekoppelde exclusieve afnameverplichting (met enkele beperkingen) beoogden en dat heeft BT niet voldoende gemotiveerd weersproken.  
+
+
+4.5.10
+Niet valt in te zien waarom de ‘entire agreement clause’ in artikel 15.1 van de PLA aan de door Pepscan voorgestane uitleg van artikel 3.2 van die overeenkomst in de weg zou staan zoals door BT aangevoerd (par. 34 e.v. MvA) nu hetgeen partijen volgens die uitleg zijn overeengekomen geheel in lijn is met de eerdere ongewijzigde bedoelingen van partijen. Voor zover BT heeft bedoeld te betogen dat vanwege dat artikel meer gewicht moet worden toegekend aan de taalkundige uitleg van artikel 3.2 PLA wordt dat verworpen. Onder de hiervoor besproken omstandigheden waaronder die bepaling tot stand is gekomen bestaat daarvoor naar het oordeel van het hof geen aanleiding. Ook de omstandigheid dat Pepscan met betrekking tot artikel 3.2 van het concept voor de PLA geen opmerkingen heeft gehad leidt niet tot een andere uitleg dan die door Pepscan verdedigd. Naar Pepscan immers mocht aannemen kwam die bepaling – zoals door haar gelezen – overeen met de over en weer bestaande en uitgesproken bedoeling van partijen dat BT gedurende de licentie-overeenkomst exclusief CLIPS peptiden van Pepscan zou afnemen behoudens de overeen te komen (inhoudelijke) beperkingen op die exclusiviteit. Voor het maken van opmerkingen bestond voor haar daarom geen aanleiding.  
+
+
+4.5.11
+De omstandigheid dat Pepscan tijdens de onderhandelingen over de FSA had kunnen beschikken over juridische bijstand waarop BT heeft gewezen (waarvan overigens geen gebruik is gemaakt naar [COO Pepscan] en mr. [toenmalig advocaat Pepscan] hebben verklaard) maakt dat niet anders. Nu er over de aanpassingen van de artikelen 6.2 en 8.4.5 van de concept-FSA waarmee de koppeling met de PLA kwam te vervallen helemaal niet is onderhandeld valt niet in te zien wat de (toenmalige) advocaat van Pepscan daaraan had kunnen bijdragen.  
+
+
+4.5.12
+BT heeft verder nog gewezen op de tweede ‘considerans’ van de FSA die luidt: “WHEREAS in connection with the License Agreement the Parties have agreed that PEPSCAN will render certain services for BICYCLE within the Field of Use (as defined below)”. Daaruit zou volgens haar volgen dat Pepscan niet zonder enige beperking exclusief leverancier van BT zou zijn en dat het op de bepalingen van de overeenkomst aankomt te bepalen wat de rechten en verplichtingen van partijen zijn. Wat daarvan zij deze (ten opzichte van de concept-FSA ongewijzigde) considerans ziet op de omvang van de exclusiviteit als zodanig – waarvan Pepscan ook nooit heeft betoogd dat die onbeperkt zou zijn – en biedt geen (ander) inzicht in de bedoelingen van partijen ten aanzien van de koppeling tussen de looptijd van de FSA en de PLA. Eerder verwijst deze overweging juist op de reeds overeengekomen samenhang met de PLA (“in connection with the License Agreement the Parties have agreed”). 
+
+
+4.5.13
+Aan de omstandigheid dat artikel 3.2 in ongewijzigde vorm in de in 2010 aangepaste PLA is blijven staan – waaraan partijen overigens ieder andere argumenten ontlenen – komt naar het oordeel van het hof geen betekenis toe. De PLA is in 2010 alleen gewijzigd wat betreft art. 2.1 PLA en de overige bepalingen zijn zonder enige verdere onderhandeling ongewijzigd overgenomen naar BT ook aanvoert (par. 25 MvA). 
+
+
+4.5.14
+Evenmin acht het hof van belang dat het lump sum bedrag en het aandelenbelang als tegenprestatie voor de door Pepscan verstrekte licentie naar beneden is bijgesteld. Wat daarvan zij uit de totstandkomingsgeschiedenis blijkt genoegzaam dat een exclusieve afnameverplichting (met enkele beperkingen) van BT als onderdeel van de tegenprestatie voor de verleende licentie onder het octrooi en de know how van Pepscan van aanvang af al de bedoeling was.   
+
+
+
+4.6
+Het voorgaande leidt het hof tot de slotsom dat gelet op de Term Sheets de concept FSA en de onbestreden gebleven verklaringen van [COO Pepscan]  [lid RvC Pepscan] en [toenmalig advocaat Pepscan]  artikel 3.2 PLA de bedoeling van partijen weergeeft dat de exclusieve afnameverplichting van BT van kracht zou zijn gedurende de looptijd van de licentie-overeenkomst. Het standpunt van BT dat artikel 3.2 PLA slechts inhoudt dat te goeder trouw onderhandeld zal worden over een leveringsovereenkomst (de FSA) en dat art. 3.2 PLA  met de totstandkoming van de FSA uitgewerkt was wordt dan ook als onjuist verworpen. Door het aangaan van de FSA – en de opzegging daarvan wat daar verder ook van zij – is die bedoeling van partijen en zijn de in overeenstemming daarmee uit artikel 3.2 PLA voortvloeiende verplichtingen niet gewijzigd en evenmin beëindigd.  
+
+
+4.7
+Daaruit volgt dat de verplichting om de CLIPS peptiden exclusief van Pepscan af te nemen zoals neergelegd in artikel 3.2 PLA – nader ingevuld door hetgeen partijen in de artikelen 6.1 en 6.2 FSA waren overeengekomen – onverminderd op BT bleef rusten ook na opzegging van de FSA door BT. Niet bestreden is dat BT CLIPS peptiden van derden heeft afgenomen zonder voorafgaande toestemming van Pepscan waarop Pepscan BT heeft gewezen in de brief van 22 april 2015. Het standpunt van BT dat een redelijke uitleg van artikel 6.2 FSA meebrengt dat zij dit artikel (of artikel 3.2 PLA) niet heeft geschonden omdat zij mocht aannemen dat Pepscan niet onder GMP kon produceren en het verstrekken van vertrouwelijke informatie niet aan de orde was wordt verworpen. Het feit dat Pepscan ten tijde van het aangaan van de PLA en de FSA BT niet kon voorzien van CLIPS peptiden van bepaalde kwaliteit (GMP) of hoeveelheid (op commerciële schaal) is onvoldoende om voetstoots aan te nemen dat dit in 2014 nog steeds het geval was. Voorts heeft Pepscan voldoende gemotiveerd gesteld dat en welke know how zij had en dat dit met BT is gedeeld. Daarmee was de door Pepscan gegeven reden voor het stellen van de voorwaarde van voorafgaande toestemming (om zich ervan te verzekeren dat dit een respectabele partij zou zijn in verband met de toepassing van vertrouwelijke know how) wel degelijk aan de orde. Op grond waarvan BT op voorhand kon vaststellen dat Pepscan die toestemming niet had mogen weigeren is door BT onvoldoende onderbouwd en naar het oordeel van het hof overigens ook onvoldoende grond om de verplichting tot het vragen van toestemming terzijde te stellen. Ten slotte wordt ook het standpunt van BT dat haar niet-nakoming zo onbeduidend was dat dit geen opzegging van de PLA rechtvaardigde verworpen. BT miskent daarmee dat de exclusieve afnameverplichting zoals volgt uit hetgeen hiervoor is overwogen juist een van de kernverplichtingen van BT was. Daar komt bij dat BT na de brief van 22 april 2015 de schending van die verplichting stelselmatig is blijven ontkennen en met het afnemen van CLIPS peptiden bij derden is doorgegaan. Aldus heeft Pepscan naar het oordeel van het hof de PLA gelet op artikel 9.2 onder (a) daarvan rechtsgeldig opgezegd bij brief (van haar toenmalige advocaat) van 17 maart 2016.   
+
+
+4.8
+Het voorgaande betekent dat de door Pepscan aangevoerde grieven (één tot en met tien) tegen het in r.o. 6.17 door de rechtbank gegeven oordeel en de daaraan ten grondslag liggende overwegingen in r.o. 6.6 – 6.16 slagen. Het bestreden vonnis dient in zoverre te worden vernietigd. De door BT gevorderde verklaring voor recht dat de PLA door Pepscan niet rechtsgeldig is beëindigd en onverminderd voortduurt (vordering onder 1) moet reeds op grond van hetgeen hiervoor is overwogen worden afgewezen. De door Pepscan in reconventie gevorderde verklaring voor recht dat de PLA rechtsgeldig door haar is beëindigd (vordering onder I) en de vaststelling dat BT de PLA niet is nagekomen en aansprakelijk is voor de daaruit door Pepscan geleden schade (vordering onder II) komen voor toewijzing in aanmerking voor zover betrekking hebbend op de niet-nakoming van haar verplichtingen ingevolge artikel 3.2 PLA door BT. In zoverre slaagt ook Pepscan’s twaalfde grief. Bij deze stand van zaken heeft Pepscan geen belang meer bij de beoordeling van haar elfde grief waarmee zij opkomt tegen r.o. 6.21 van het bestreden vonnis waarin art. 9.2 sub (c) PLA als opzeggingsgrond is afgewezen. 
+
+
+4.9
+Met afwijzing van de door BT gevorderde verklaring voor recht gaat de voorwaarde in vervulling waarmee BT haar vordering tot vernietiging van de conclusies 9 en 10 van het octrooi heeft ingesteld. Het hof zal de zaak naar de rechtbank terugverwijzen voor de beoordeling van die vorderingen. De rechtbank zal dan voorts hebben te beslissen over de proceskosten in eerste aanleg met inachtneming van hetgeen in dit arrest is beslist.  
+
+
+4.10
+Onder verwijzing naar artikel 356 Rv zal het hof de zaak verder aan zich houden om op hetgeen overigens is gevorderd te beslissen voor zover die vorderingen samenhangen met de uitleg van artikel 3.2 PLA en de geldigheid van de opzegging van de PLA door Pepscan op grond van artikel 9.2 onder (a) PLA wegens niet-nakoming door BT van artikel 3.2 PLA welke geschilpunten onderwerp vormen van dit tussentijds appel. Duidelijkheidshalve merkt het hof op dat voor zover de vorderingen samenhangen met de gestelde niet-nakoming van artikel 6 PLA (schending van de geheimhoudingsverplichtingen) deze niet aan dit tussentijds appel zijn onderworpen. Daarover zal de rechtbank nog (verder) moeten beslissen.  
+
+
+4.11
+Uit de afwijzing van de door BT gevorderde verklaring voor recht volgt dat de door BT primair en subsidiair gevorderde bevelen (vorderingen onder 3a en 3b) dat Pepscan zich zal onthouden van het doen van mededelingen aan derden dat de PLA is opgezegd niet voor toewijzing in aanmerking komen. Ook voor zover deze vorderingen zien op het doen van mededelingen aan derden dat BT en/of haar afnemers mogelijk inbreuk maken op EP 585 ziet het hof geen aanleiding tot toewijzing. BT stelt zich weliswaar op het standpunt dat dit octrooi nietig is maar zolang niet in kracht van gewijsde anders is beslist zal van het bestaan van een geldig octrooi moeten worden uitgegaan.   
+
+
+4.12
+BT stelt zich op het standpunt dat geen bevoegdheid bestaat te oordelen over het door Pepscan onder III tot en met VII gevorderde. Zij stelt dat vordering III ‘in feite een octrooi inbreukverbod’ is zodat daarvoor aan het forumkeuzebeding in artikel 18.2 van de PLA geen bevoegdheid kan worden ontleend. De overige vorderingen hangen daar zodanig mee samen dat wat de bevoegdheid betreft daarvoor hetzelfde moet gelden aldus BT. Het hof wijst dat standpunt af. Gelet op hetgeen in artikel 9.3 PLA is overeengekomen te weten dat in geval van beëindiging van de overeenkomst “the Licensee shall cease all and any exploitation of the Licensed Patents and of any know-how provided by the Licensor to the Licensee except insofar as such knowhow ceases or has ceased to be confidential unless this is or was as a consequence of the default of the Licensee” heeft het onder III tot en met VII gevorderde (een aan BT op te leggen bevel om “wereldwijd de gevolgen van de opzegging zoals neergelegd in artikel 9.3 van de PLA na te leven waaronder (…) het wereldwijd staken en gestaakt houden van de exploitatie van de octrooirechten en knowhow van Pepscan”) onmiskenbaar een contractuele – en niet een octrooirechtelijke of onrechtmatige daad – grondslag. Dat een octrooi-inbreukverbod wellicht op hetzelfde zou neerkomen kan daaraan niet afdoen. Het hof acht zich derhalve op grond van het forumkeuzebeding in de PLA bevoegd om over deze vorderingen te oordelen.     
+
+
+4.13
+Nu de vordering geen octrooirechtelijke grondslag heeft staat het feit dat BT de nietigheid van het octrooi heeft ingeroepen niet aan de grensoverschrijdende bevoegdheid van het hof in de weg. De door het Hof van Justitie van de Europese Unie (HvJ EU) in het Gat/Luk arrest geformuleerde regel (arrest van 13 juli 2006 in zaak C-4/03 ECLI:EU:C:2006:457) mist hier toepassing. Ook het door BT gedane beroep op de Cartel Damage Claims /Akzo Nobel-zaak (arrest HvJ EU van 21 mei 2015 in zaak C-352/13 ECLI:EU:C:2015:335) gaat niet op. Daarin overwoog het HvJ EU dat ‘een forumkeuzebeding zich enkel uitstrekt tot geschillen die zijn ontstaan in de rechtsbetrekking naar aanleiding waarvan het is overeengekomen’ en dat een niet op de overeenkomst (maar het mededingingsrecht) gegrond geschil ‘niet redelijkerwijs voorzienbaar was op het moment waarop zij instemde met bedoeld beding’ zodat dit ‘niet [kan] worden geacht zijn oorsprong te vinden in de contractuele betrekkingen’ en daarom niet wordt bestreken door het forumkeuzebeding. Van een buiten de contractuele rechtsbetrekking (namelijk op het gebied van het octrooirecht en onrechtmatige daad) gelegen geschil is zoals hiervoor overwogen evenwel geen sprake. BT heeft voorts niet voldoende gemotiveerd gesteld en overigens valt ook niet in te zien dat een op artikel 9 lid 3 PLA gebaseerde vordering voor BT niet redelijkerwijs voorzienbaar was op het moment waarop zij instemde met het forumkeuzebeding. Dat niet met ieder land waarin Pepscan octrooirechten heeft een verknoping tussen het geschil en de Nederlandse rechtsorde bestaat zoals door BT verder aangevoerd kan aan de rechtsmacht van de Nederlandse rechter evenmin afdoen. Dit vereiste kan anders dan BT suggereert niet uit voornoemd arrest worden afgeleid en bestaat ook overigens niet voor een forumkeuzebeding. De incidentele grief van BT slaagt derhalve niet.  
+
+
+4.14
+Het hof acht het onder III gevorderde bevel toewijsbaar. Anders dan BT stelt is deze vordering niet onduidelijk. Pepscan heeft bewijs van de validatie van EP 585 overgelegd voor de landen waar dit octrooi van kracht is (par 146 MvA). Voorts heeft Pepscan voldoende gespecificeerd waaruit haar know how bestaat. Evenmin is voor toewijzing noodzakelijk dat BT nu reeds handelingen verricht die exploitatie van het octrooi of know how van Pepscan zouden opleveren. Gelet op de eerdere (niet bestreden) niet-nakoming van artikel 3.2 van de PLA door BT heeft Pepscan voldoende belang bij een bevel tot nakoming van de verplichtingen die bij beëindiging van de PLA op BT komen te rusten. Voor de beoordeling van de op contractuele grondslag gebaseerde vordering onder III is ook niet noodzakelijk dat eerst over het voorwaardelijke nietigheidsverweer van BT wordt geoordeeld zoals BT aanvoert. Duidelijkheidshalve zal het hof wel aan het bevel toevoegen dat dit bevel van kracht is zolang het octrooi niet bij in kracht van gewijsde gegane rechterlijke beslissing is vernietigd. Gelet op de aard van hetgeen in artikel 9 lid 3 PLA is bepaald moeten partijen immers geacht worden te hebben beoogd dat BT na vernietiging van het octrooi niet langer aan naleving van die bepaling kan worden gehouden. De in art. 9 lid 3 PLA neergelegde verplichting om te stoppen met de exploitatie van het octrooi veronderstelt immers dat er een geldig octrooi is. Dat betekent dat die bepaling alleen met vrucht kan worden ingeroepen voor landen waar het octrooi geldt (vgl. punt 5 van BT’s incidentele conclusie tot onbevoegdheid) en zolang het octrooi (nog) geldt/niet definitief is vernietigd.  
+
+
+4.15
+De vordering onder IV ziet op het verkrijgen van informatie ten behoeve van de berekening van de door Pepscan geleden schade ten gevolge van de in rov. 4.7 omschreven niet-nakoming door BT van artikel 3.2 PLA . Deze vordering is toewijsbaar evenals de vordering onder V tot vergoeding van die schade nader op te maken bij staat voor zover aan dit tussentijds appel onderworpen en derhalve beperkt tot de schade geleden ten gevolge van de niet-nakoming door BT van artikel 3.2 PLA. Het is voldoende aannemelijk dat Pepscan door die niet-nakoming enige schade heeft geleden. Voor toewijzing van deze vorderingen is niet noodzakelijk dat reeds thans vaststaat dat hoeveel en welke schade Pepscan heeft geleden. Dat kan in de schadestaatprocedure worden vastgesteld.  
+
+
+4.16
+Het onder VI gevorderde bevel tot notificatie van de niet-nakoming door BT aan de derden van wie zij CLIPS peptiden heeft afgenomen met mededeling dat de productie daarvan octrooi-inbreuk kan opleveren is eveneens toewijsbaar zoals hierna bepaald nu daarmee (verdere) niet-nakoming door BT van artikel 9.3 PLA en onrechtmatig handelen door derden kan worden voorkomen. Naar BT terecht heeft opgemerkt is daartoe niet nodig te vermelden dat BT is veroordeeld tot betaling van schadevergoeding en vergoeding van proceskosten. Het hof ziet naast toewijzing van het onder VI gevorderde bevel geen aanleiding voor toewijzing van het onder VII gevorderde bevel tot het plaatsen van een notificatie op de website van BT.  
+
+
+4.17
+Nu BT zowel in principaal als in incidenteel appel vrijwel geheel in het ongelijk is gesteld zal zij worden veroordeeld in de proceskosten van Pepscan. Nu daartegen geen verweer is gevoerd zullen de vorderingen voorts uitvoerbaar bij voorraad worden verklaard.   
+
+
+
+
+5 De beslissing 
+
+Het hof:
+ 
+
+5.1
+vernietigt het vonnis waarvan beroep voor zover aan dit tussentijds appel onderworpen (vgl. r.o. 3.5) en opnieuw recht doende: 
+
+
+in het principaal appel
+ 
+
+
+in conventie:
+
+ 
+
+
+5.2
+wijst de vorderingen van BT onder 1 3 4 en 5 van het petitum van de inleidende dagvaarding (weergegeven in r.o. 3.1 onder 1 3a 3b en 4) af; 
+
+
+5.3
+verwijst de zaak terug naar de rechtbank Den Haag voor beslissing op de vordering onder 2 van het petitum van de inleidende dagvaarding (weergegeven in r.o. 3.1 onder 2) en de proceskosten in eerste aanleg; 
+
+
+in reconventie:
+
+ 
+
+
+5.4
+verklaart voor recht dat de PLA rechtsgeldig door Pepscan is beëindigd op grond van artikel 9.2 onder (a) PLA wegens niet-nakoming door BT van haar verplichtingen ingevolge artikel 3.2 PLA; 
+
+
+5.5
+stelt vast dat BT haar verplichtingen ingevolge artikel 3.2 PLA niet is nagekomen en aansprakelijk is voor de daaruit voor Pepscan ontstane schade; 
+
+
+5.6
+beveelt BT om met onmiddellijke ingang na de betekening van dit arrest wereldwijd de rechtsgevolgen van de opzegging als neergelegd in artikel 9.3 PLA na te leven waaronder maar niet beperkt tot het wereldwijd staken en gestaakt houden van de exploitatie van Pepscans octrooirechten – voor de landen waar deze gelden en zolang zij gelden - en know how zoals bepaald in artikel 9.3 onder (c) PLA zulks op straffe van verbeurte van een onmiddellijk opeisbare dwangsom van € 25.000 (zegge: vijfentwintigduizend euro) voor elke schending van dit bevel of naar keuze van Pepscan voor iedere dag waaronder begrepen een gedeelte van een dag waarop BT dit bevel niet volledig naleeft; 
+
+
+5.7
+beveelt BT om binnen 30 dagen na betekening van dit arrest Pepscan te voorzien van een schriftelijke opgave met aanhechting van kopieën van alle ter staving van die opgave relevante bescheiden van de volgende gegevens: 
+
+a.	de volledige NAW-gegevens van alle (rechts)personen aan wie BT opdracht heeft gegeven CLIPS peptiden te synthetiseren;
+b.	de hoeveelheden (grammen) CLIPS peptiden waartoe BT opdracht heeft gegeven aan de hierboven onder sub. a. bedoelde (rechts)personen;
+c.	de inkoop en/of productiekosten die verband houden met de hierboven sub b. bedoelde CLIPS peptiden
+ 
+
+één en ander onder bijvoeging van een rapportage van feitelijke bevindingen opgesteld door een onafhankelijke registeraccountant uit welke rapportage blijkt dat de accountant de opgave heeft geverifieerd aan de hand van de administratie van BT welke verificatie heeft plaatsgevonden op basis van zelfstandig door die accountant verricht onderzoek onder aanhechting van een gewaarmerkte versie van de opgave als object van de specifieke uit te voeren werkzaamheden onder overlegging van de relevante onderliggende bescheiden ter staving van de uitgevoerde werkzaamheden welke bescheiden zijn aangehecht aan de rapportage uit welke rapportage overigens blijkt dat voor zover verifieerbaar de opgave strookt met de gegevens uit de administratie van BT en dat voor zover afdoende verificatie niet meer mogelijk is om door de accountant te noemen redenen de accountant overigens geen aanwijzingen heeft aangetroffen welke de verdenking doen rijzen dat de opgave geen getrouwe weergave van de te verstrekken informatie inhoudt waarbij opdracht aan de accountant is afgestemd en overeengekomen met BT en Pepscan met in achtneming van het doel van de opdracht op straffe van verbeurte van een onmiddellijk opeisbare dwangsom van € 10.000 (zegge: tienduizend euro) voor iedere overtreding van dit bevel of naar keuze van Pepscan voor iedere dag waaronder begrepen een gedeelte van een dag waarop BT dit bevel niet volledig naleeft. 
+ 
+
+
+5.8
+veroordeelt BT tot vergoeding aan Pepscan van de schade die Pepscan heeft geleden lijdt en nog zal lijden ten gevolge van het niet nakomen van artikel 3.2 PLA of ter keuze van Pepscan tot het afdragen aan Pepscan van de door BT genoten winst ten gevolge van de niet-nakoming van artikel 3.2 PLA opleverende handelingen één en ander nader op te maken bij staat en te vereffenen volgens de wet;  
+
+
+5.9
+beveelt BT de onder 5.7 sub (a) van het dictum bedoelde (rechts)personen binnen zeven (7) dagen na ontvangst door Pepscan van de onder 5.7 genoemde opgave een brief op briefpapier van BT te versturen (met gelijktijdige verzending van kopie daarvan aan Pepscan (p/a Brinkhof N.V.) met uitsluitend de volgende tekst:   
+
+
+"Dear Madam / Sir 
+
+ 
+
+
+The Court of Appeal The Hague has by judgment of 18 February 2020 decided that Bicycle violated a license granted by Pepscan under Pepscan's patent rights (under EP 1 597 585 and parallel patents based on WO 2006/078161 and/or WO 2008/01345) and know how by ordering the supply of CLIPS peptides from your company. 
+
+
+The Court of Appeal The Hague has ordered Bicycle to cease and desist any exploitation of Pepscan's patent rights and know how anywhere in the world.  
+
+
+The Court of Appeal The Hague has also ordered that we inform you that we are not allowed to request third parties to synthesize CLIPS peptides. In the past we have requested you to synthesize and deliver such peptides. We request you to stop those services on our behalf immediately. 
+
+
+We would also like to inform you that the use of Pepscan's CLIPS technology in the absence of a valid license may infringe Pepscan's patent rights. 
+
+ 
+
+
+Sincerely yours 
+
+
+Bicycle Therapeutics Ltd." 
+
+ 
+
+op straffe van verbeurte van een onmiddellijk opeisbare dwangsom van € 10.000 (zegge: tienduizend euro) voor iedere overtreding van dit bevel of naar keuze van Pepscan voor iedere dag waaronder begrepen een gedeelte van een dag waarop BT dit bevel niet volledige naleeft. 
+ 
+
+
+5.10
+verwijst de zaak terug naar de rechtbank Den Haag voor beslissing op de proceskosten in eerste aanleg en voor afdoening van de vorderingen die niet aan het tussentijds appel zijn onderworpen; 
+
+
+in incidenteel appel:
+
+ 
+
+
+5.11
+bekrachtigt onderdelen 7.1 tot en met 7.3 van het dictum van het bestreden vonnis; 
+
+
+voorts in principaal appel (in conventie en reconventie) en incidenteel appel:
+
+ 
+
+
+5.12
+veroordeelt BT in de proceskosten van Pepscan in hoger beroep zowel in principaal als in incidenteel appel aan de zijde van Pepscan begroot op € 726- aan griffierecht en € 3.759- aan kosten van de advocaat (35 punt x € 1.074 (tarief II)) derhalve in totaal een bedrag van € 4.485-;  
+
+
+5.13
+verklaart dit arrest voor zover mogelijk uitvoerbaar bij voorraad; 
+
+
+5.14
+wijst het meer of anders gevorderde af; 
+
+
+5.15
+verstaat dat onderdelen 7.4 tot en met 7.10 van het dictum van het bestreden vonnis niet onderworpen zijn aan dit tussentijds appel.  
+
+Dit arrest is gewezen door mrs. R. Kalden M.Y. Bonneur en M. Bronneman en is uitgesproken ter openbare terechtzitting van 18 februari 2020 in aanwezigheid van de griffier. 
+
+
+

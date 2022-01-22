@@ -1,0 +1,220 @@
+
+
+uitspraak  
+COLLEGE VAN BEROEP VOOR HET BEDRIJFSLEVEN
+
+zaaknummer: 15/503
+20150
+ 
+
+
+
+Uitspraak van de meervoudige kamer van 15 november 2016 op het hoger beroep van:
+
+
+
+
+      [naam 1]  te [plaats 1]  appellant 
+
+(gemachtigde: mr. J.C.J. Wouters)
+
+tegen de uitspraak van de accountantskamer van 27 mei 2015 gegeven op een klacht op 16 oktober 2012 door appellant ingediend tegen
+ 
+1. [naam 2] RA RV ( [naam 2] ) te [plaats 2] 
+2 [naam 3] RA ( [naam 3] ) te [plaats 3]  en
+3. [naam 4] RA RV ( [naam 4] ) te [plaats 4]  betrokkenen
+(gemachtigde van betrokkenen: mr. J.H.M. den Otter). 
+
+
+Procesverloop in hoger beroep 
+
+Appellant heeft hoger beroep ingesteld tegen de uitspraak van de accountantskamer van 27 mei 2015 met nummers 12/2145 12/2146 en 12/2147 Wtra AK (www.tuchtrecht.nl ECLI:NL:TACAKN:2015:64). 
+Betrokkenen hebben een schriftelijke reactie op het hogerberoepschrift gegeven.
+ 
+
+Het onderzoek ter zitting heeft plaatsgevonden op 31 mei 2016.
+Appellant is verschenen bijgestaan door zijn gemachtigde. Betrokkenen zijn eveneens verschenen bijgestaan door hun gemachtigde.
+ 
+
+
+Grondslag van het geschil 
+
+1.1
+Voor een uitgebreide weergave van het verloop van de procedure en de in dit geding van belang zijnde feiten en omstandigheden voor zover niet bestreden wordt verwezen naar de inhoud van de bestreden uitspraak van de accountantskamer die als hier ingelast wordt beschouwd. Het College volstaat met het volgende. 
+
+
+1.2
+In het kader van zijn echtscheiding welke op 29 oktober 1997 in de registers van de burgerlijke stand is ingeschreven diende appellant met zijn ex-echtgenote de waarde van de aandelen [naam 5] BVBA ( [naam 5] ) te verrekenen. [naam 5]  althans het vóór de statutenwijziging op 20 december 1996 in Nederland gezetelde [naam 6] B.V. heeft haar activiteiten per 1 februari 1994 verkocht aan [naam 7] B.V. ( [naam 7] ). [naam 7] is een deelneming van [naam 5] . 
+
+Bij arrest van 23 december 2008 heeft het Gerechtshof Amsterdam (hof) een onderzoek door drie deskundigen bevolen ter beantwoording van de volgende twee vragen: (1) wat is de waarde in het economisch verkeer van de aandelen [naam 6] B.V. per 29 oktober 1997 en (2) dient bij de verrekening tussen partijen van de berekende waarde van de aandelen [naam 6] B.V. rekening te worden gehouden met een (latente) aanmerkelijk belang belastingclaim. Naast de aanvankelijk in het tussenarrest van 23 september 2008 door het hof genoemde [naam 4] heeft het hof op verzoek van appellant tevens [naam 2] en [naam 3] als deskundige benoemd. Ten aanzien van de reden om drie deskundigen te wensen – volgens appellant is de waardemaatstaf “waarde in het economisch verkeer” een complex begrip dat tot veel misverstanden aanleiding kan geven – heeft het hof overwogen dat “[i]n zaken als de onderhavige (…) bepaling van de waarde in het economisch verkeer van aandelen een algemeen aanvaard begrip [is] dat althans bij het hof in de praktijk doorgaans niet tot verwarring en misverstanden aanleiding geeft. Het is aan de deskundigen om te bepalen wat in de gegeven omstandigheden de meest aangewezen methode van waardering is. De door [appellant] voorgestelde aanvullende vraag zal het hof dan ook niet aan de deskundigen voorleggen.” Appellant wilde dat de deskundigen in ieder geval ook de rentabiliteitswaarde en de intrinsieke waarde van de aandelen zouden berekenen per 29 oktober 1997.  
+ 
+
+Betrokkenen verstrekten op 1 september 2011 een concept van hun deskundigenbericht (conceptbericht) aan de procespartijen. Nadat betrokkenen het conceptbericht voor zover zij daartoe aanleiding zagen op onderdelen hadden gewijzigd maakten zij hun bericht op 21 maart 2012 definitief (deskundigenbericht).
+ 
+
+In de beschrijving van hun werkwijze in beide berichten hebben betrokkenen vermeld dat de aandelen in [naam 5] en haar Nederlandse deelneming [naam 7] afzonderlijk zijn gewaardeerd. Betrokkenen hebben voorts aangegeven dat de aandelen in [naam 7] zijn gewaardeerd op basis van de ‘adjusted present value’ (APV) methode conform door het Nederlands Instituut voor Register Valuators geaccepteerde normen en werkwijze welke methode een variant is van de ‘discounted cash flow’ (DCF) methode. Een nadere toelichting op deze methodiek hebben betrokkenen opgenomen in de appendices A-D van hun bericht. De waarde van [naam 5] is bepaald op de intrinsieke waarde (van de individuele activa). De balansposten ‘deelneming [naam 7] ’ en ‘goodwill’ zijn in de waardering buiten beschouwing gelaten.
+ 
+
+
+1.3
+De hier aan de orde zijnde klacht van 16 oktober 2012 heeft betrekking op handelen en/of nalaten van betrokkenen in het kader van het deskundigenbericht van 21 maart 2012. Over handelen en/of nalaten van betrokkenen in het kader van het conceptbericht van 1 september 2011 heeft appellant op 30 januari 2012 een klacht ingediend. Bij uitspraak van eveneens 27 mei 2015 met nummers 12/185 12/186 en 12/187 Wtra AK heeft de accountantskamer die klacht in al haar onderdelen ongegrond verklaard (ECLI:NL:TACAKN:2015:65). Tegen die uitspraak heeft appellant geen hoger beroep ingesteld. 
+
+
+1.4
+Na het uitbrengen van het deskundigenbericht hebben appellant en zijn ex-echtgenote voor zover thans van belang de procedure bij het hof geroyeerd. 
+
+
+
+Uitspraak van de accountantskamer 
+
+2.1
+De klacht zoals weergegeven in de uitspraak van de accountantskamer welke weergave door partijen niet wordt bestreden houdt in dat betrokkenen ter zake het handelen en nalaten dat heeft geresulteerd in hun deskundigenbericht van 21 maart 2012 het verwijt treft dat zij: 
+
+1. de toekomstverwachting hebben binnengesmokkeld zonder appellant daarover te horen;
+2. appellant niet hebben gehoord met het oog op paragraaf 2.4 van het bericht;
+3. fundamentele fouten hebben gemaakt bij het bepalen van de toekomstverwachting van [naam 7] ;
+4. essentiële informatie hebben genegeerd;
+5. het fundamentele beginsel van ‘deskundigheid en zorgvuldigheid’ hebben geschonden;
+6. de opdracht ook overigens principieel verkeerd hebben uitgevoerd;
+7. het fundamentele beginsel van integriteit twee maal hebben geschonden.
+ 
+
+
+2.2
+Bij de bestreden uitspraak heeft de accountantskamer de klacht in al haar onderdelen ongegrond verklaard. 
+
+
+
+Beoordeling van het geschil in hoger beroep
+3. Het College gaat eerst in op het verweer van betrokkenen dat appellant niet in zijn hoger beroep kan worden ontvangen. Volgens betrokkenen kan appellant kwesties waarover de accountantskamer in de niet door hem aangevochten uitspraak van 27 mei 2015 op zijn klacht van 30 januari 2012 heeft beslist in deze procedure niet opnieuw aan de orde stellen. Dit verweer faalt. De naar aanleiding van het door betrokkenen uitgebrachte concept voor het deskundigenberichtbericht ingediende klacht van 30 januari 2012 stemt inhoudelijk niet overeen met de hier aan de orde zijnde klacht van 16 oktober 2012 over het handelen en/of nalaten van betrokkenen in het kader van het door hen uitgebrachte deskundigenbericht. Van een overlap in de door betrokkenen bedoelde zin is geen sprake. In dit hoger beroep stelt appellant kort gezegd aan de orde het oordeel van de accountantskamer ten aanzien van zijn klacht dat betrokkenen een deskundigenbericht hebben uitgebracht dat op naar zijn mening essentiële punten afwijkt van het conceptbericht en waarin betrokkenen door hem aangedragen feiten en omstandigheden niet bij de – zoals de accountantskamer dat in overweging 4.2.5 van de bestreden uitspraak noemt – hernieuwde afweging hebben betrokken. Anders dan betrokkenen menen staat het feit dat de uitspraak van de accountantskamer op de klacht van 30 januari 2012 gezag van gewijsde heeft gekregen er niet aan in de weg dat het College in het kader van dit hoger beroep aspecten beoordeelt waarover de accountantskamer zich in die uitspraak in relatie tot het conceptbericht reeds heeft uitgelaten. 
+
+Het ontvankelijkheidsverweer van betrokkenen treft geen doel.
+ 
+4. Appellant heeft de bestreden uitspraak op vrijwel alle onderdelen bestreden. Het College zal in het navolgende de grieven die appellant heeft aangevoerd tegen het oordeel van de accountantskamer ten aanzien van de klachtonderdelen 1 en 2 gezamenlijk bespreken. Vervolgens zal het College ingaan op hetgeen appellant heeft aangevoerd tegen het oordeel ten aanzien van de klachtonderdelen 3 4 en 5. Op klachtonderdeel 6 heeft appellant in de bestreden uitspraak berust. Ten slotte zal het College ingaan op hetgeen appellant naar voren heeft gebracht aangaande het oordeel over klachtonderdeel 7. 
+5. Het College stelt voorop dat een tuchtrechtelijke procedure als de onderhavige er niet toe strekt om de inhoud of de wijze van totstandkoming van een deskundigenbericht opgesteld in het kader van een civielrechtelijke procedure opnieuw en integraal te onderzoeken. Beoordeeld dient te worden of de accountant bij het opstellen van zijn deskundigenbericht in strijd heeft gehandeld met de voor hem geldende beroeps- en gedragsregels. 
+
+5.1
+Het eerste klachtonderdeel betreft het verwijt dat betrokkenen in het deskundigenbericht van 21 maart 2012 voor de waardering van de aandelen essentiële tekst hebben opgenomen die niet voorkwam in het aan appellant voorgelegde conceptbericht. Appellant vindt het onterecht dat hij zich niet over die teksten heeft kunnen uitlaten. In de paragrafen 2.8.1 en 2.8.2 van de bestreden uitspraak heeft de accountantskamer bedoelde verschillen tussen het conceptbericht en het deskundigenbericht weergegeven. Het College verwijst daarnaar. Te dien aanzien heeft de accountantskamer – in overweging 4.6.1 van de bestreden uitspraak – overwogen dat de tekst in het definitieve deskundigenbericht deels anders is geredigeerd en dat twee paragrafen zijn toegevoegd. De aldus geformuleerde nieuwe tekst is naar het oordeel van de accountantskamer een nadere toelichting op de toekomstverwachtingen welke op zich zowel in het conceptbericht als in het deskundigenbericht steunen op dezelfde berekeningen die vervolgens in beide berichten zijn gebaseerd op dezelfde uitgangspunten. Van enig heimelijk opnemen van een nieuwe onderbouwing voor het standpunt van betrokkenen is volgens de accountantskamer geen sprake. 
+
+Volgens appellant is de accountantskamer ten onrechte niet ingegaan op de uitgebreide reactie die hij ter zitting heeft gegeven op het schriftelijke verweer van betrokkenen. In het bijzonder wijst appellant op punt 3.14 van zijn pleitnotitie waarin hij heeft aangevoerd dat betrokkenen wel de toekomstverwachting uit de beursgang van 1998 hebben meegenomen maar niet ook de kenbare historische werkelijkheid ten aanzien van de brutomarge – die nog fundamenteler is dan de omzet – tijdens het prognose interval over de jaren 1997 tot en met 2002. Betrokkenen hadden eigenlijk beide moeten negeren.
+ 
+
+
+5.2
+Het tweede klachtonderdeel betreft het verwijt dat betrokkenen appellant over de in paragraaf 2.4 van het deskundigenbericht opgenomen tekst hadden moeten horen omdat de beschouwingen in die paragraaf naar zijn mening nieuw zijn en wezenlijk voor de waardering door betrokkenen van [naam 7] op basis van verwachte toekomstige geldstromen. Van een debat met hem zoals betrokkenen in hun deskundigenbericht hebben gesteld is volgens appellant geen sprake geweest. De accountantskamer heeft in overweging 4.7.1 van de bestreden uitspraak ten aanzien van dit klachtonderdeel het volgende overwogen: 
+
+	“	In acht genomen de overweging onder 4.6.1 inhoudende dat de in het deskundigenbericht opgenomen tekst een nadere toelichting van betrokkenen behelst inzake de (achtergronden) van de toekomstverwachtingen van [naam 7]  is deze in weerwil van het door klager gestelde niet nieuw noch vormt deze voor een exponentiele groei van de omzet een nadere grondslag. De aangehaalde bewoordingen zijn hooguit niet fraai gekozen omdat die zonder kennis te nemen van de context waarin ze zijn gebruikt (kennelijk) de indruk kunnen wekken dat er een debat is geweest over de nieuwe tekst. Van een tuchtrechtelijk vergrijp is dienaangaande echter geen sprake. Daarbij merkt de Accountantskamer op dat een accountant bij het opstellen van zijn (persoonlijke) reactie op commentaren waar het ten dezen om gaat ook een zekere mate van vrijheid toekomt.Ook dit klachtonderdeel is derhalve ongegrond.”
+ 
+
+
+5.3
+Appellant is van mening dat de accountantskamer de in paragraaf 2.4.2 van het deskundigenbericht voor het eerst opgenomen tekst over de (achtergronden) van de toekomstverwachtingen van [naam 7] ten onrechte tot een nadere toelichting reduceert. Volgens appellant miskent de accountantskamer daarmee (-) dat ook volgens betrokkenen één van de belangrijkste doelstellingen van het onderzoek was de toekomstverwachting van de onderneming te achterhalen (-) dat tijdens de hoorzitting op 6 mei 2011 niet over die toekomstverwachting is gesproken noch daar een vraag over is gesteld (-) dat informatie over de toekomstverwachting ontbreekt bij de nadien door appellant in te leveren informatie (-) dat bij het toezenden van het conceptbericht niet alsnog om informatie dienaangaande is gevraagd en (-) dat betrokkenen de vier elementen uit paragraaf 2.4.2 waaruit zij een positieve toekomstverwachting afleidden in geen enkel opzicht specifiek aan appellant hebben voorgelegd. Aldus is sprake van een ernstige schending van het beginsel van hoor en wederhoor terwijl de toekomstverwachtingen op zichzelf het methodologische draagvlak vormen voor een DCF-berekening [bedoeld zal zijn: APV-berekening]. Het zal wel juist zijn aldus appellant dat de berekeningen in het conceptbericht en het deskundigenbericht op dezelfde toekomstverwachtingen zijn gebaseerd maar in dat concept waren die toekomstverwachtingen niet tot uitdrukking gebracht. Appellant had de gelegenheid moeten krijgen zijn recht op tegenspraak uit te oefenen. Eventueel hadden betrokkenen bij het aanbieden van het conceptbericht afzonderlijk moeten aangeven dat zij bij hun berekeningen waren uitgegaan van de toekomstverwachtingen die zij later in paragraaf 2.4.2 van het deskundigenbericht tot uitgangspunt zouden nemen en hem moeten verzoeken daarop te reageren. Van een ernstig tuchtrechtelijk vergrijp is wel degelijk sprake. Van het uitoefenen van een zekere mate van vrijheid van een accountant bij het opstellen van zijn (persoonlijke) reactie op commentaren is geen sprake. Het gaat er hier om dat een door de rechter benoemde deskundige gehouden is om hoor en wederhoor toe te passen te meer nu betrokkenen juist hadden aangegeven dat zij op zoek zouden gaan naar de toekomstverwachtingen van [naam 7] op 29 oktober 1997 hetgeen de door hen gekozen DCF-methode [bedoeld zal zijn: APV-methode] met zich bracht.  
+
+
+5.4
+Het College ziet geen grond voor het oordeel dat betrokkenen het tuchtrechtelijke verwijt treft in het kader van het door hen uit te brengen deskundigenbericht het fundamentele beginsel ‘deskundigheid en zorgvuldigheid’ als bedoeld in artikel A-100.4 onder c van de Verordening gedragscode (RA’s) (VGC) te hebben geschonden. Naar het oordeel van het College heeft appellant voldoende mogelijkheden van hoor en wederhoor gehad. Anders dan appellant ook ter zitting van het College heeft gesteld blijkt uit het verslag dat van de op 6 mei 2011 gehouden hoorzitting is opgemaakt dat betrokkenen de ten aanzien van [naam 7] op of omstreeks de peildatum bestaande toekomstverwachtingen uitdrukkelijk aan de orde hebben gesteld en dat deze uitvoerig zijn besproken. Vervolgens hebben betrokkenen partijen in de gelegenheid gesteld een reactie op het conceptbericht te geven. Naar aanleiding van de reacties van partijen hebben betrokkenen het conceptbericht aangevuld. Het College is met de accountantskamer van oordeel dat gezien het feit dat het conceptbericht en het deskundigenbericht cijfermatig identiek zijn – hetgeen appellant in randnummer 19 van het hoger beroepschrift met zoveel woorden ook heeft erkend – er voor betrokkenen geen noodzaak bestond om opnieuw een aangepast concept aan partijen voor te leggen. Betrokkenen mochten er bovendien van uit gaan dat partijen in de lopende civiele procedure nog de mogelijkheid hadden om na het uitbrengen van het deskundigenbericht omtrent (de totstandkoming van) de inhoud daarvan een conclusie te nemen. 
+
+De grieven van appellant tegen de ongegrondverklaring van de klachtonderdelen 1 en 2 slagen niet. 
+ 
+
+6.	Klachtonderdelen 3 4 en 5
+ 
+
+
+6.1
+Het verwijt dat appellant betrokkenen in klachtonderdeel 3 maakt is dat zij bij het bepalen van de toekomstverwachting van [naam 7] fundamentele fouten hebben gemaakt. Ten eerste hebben zij volgens appellant ten onrechte gebruik gemaakt van ‘hindsight’ informatie doordat zij de toekomstverwachting per peildatum 29 oktober 1997 (mede) aan het prospectus van juni 1998 (en de beursgang in 1998) hebben ontleend. Ten tweede meent appellant dat betrokkenen blijkens de in paragraaf 2.4.2 onder a tot en met d van het deskundigenbericht genoemde punten – te weten a. dividenduitkeringen b. geactiveerde kosten c. aandeel optieplan 1997 en d. beursintroductie en prospectus – hun toekomstverwachting op (een) onjuiste (analyse van) financiële informatie hebben gebaseerd. 
+
+Ten aanzien van het eerste deel van het in klachtonderdeel 3 gemaakte verwijt heeft de accountantskamer in overweging 4.8.1 van de bestreden uitspraak het volgende overwogen:
+ 
+
+	“	(….) Volgens de gebruikelijke normen geldend wanneer er geen sprake is van bijzondere omstandigheden wordt een toekomstverwachting met betrekking tot de waarde van een zaak bepaald voordat (de verwachte) ontwikkelingen zich hebben voorgedaan. Echter bijzonder aan de opdracht van betrokkenen is nu dat zij de toekomstverwachting dienden te bepalen nadat ontwikkelingen zich (al dan niet) hadden gemanifesteerd. Als betrokkenen deze (achteraf) verkregen bevindingen uit hun onderzoek niet zouden mogen projecteren op de waardebepaling per waardepeildatum hetgeen echter naar het oordeel van de Accountantskamer niet per definitie het geval is hadden zij de opdracht niet kunnen uitvoeren en deze terug moeten geven. In het kader van de onderhavige opdracht heeft naar het oordeel van de Accountantskamer dan ook te gelden dat betrokkenen op een juiste wijze vaktechnisch gebruik hebben gemaakt van de informatie die voorhanden was en zich daarbij overigens terecht beperkt hebben tot wetenschap van feitelijkheden welke dicht bij de waardepeildatum lagen zoals het besluit over de beursgang en het met het oog daarop uitgebrachte prospectus en de daarin opgenomen feitelijkheden van voor de peildatum en verwachte ontwikkelingen die reeds toen waren ingezet en voorts van de resultaten van de beursgang in 1998.
+ 
+
+Het betoog dat betrokkenen geen acht hebben geslagen op de onverkoopbaarheid van de aandelen mist zoals hierna onder 4.9.2 uiteen wordt gezet feitelijke grondslag. Klager heeft dan ook niet aannemelijk gemaakt dat betrokkenen ten deze een tuchtrechtelijk verwijt treft. In verband daarmee behoeft al hetgeen klager ter zitting naar voren heeft gebracht ter weerlegging van het door betrokkenen tegen dit klachtsubonderdeel gevoerde verweer geen afzonderlijke bespreking.”
+ 
+
+In de overwegingen 4.9.1 4.9.2 en 4.9.3 van de bestreden uitspraak is de accountantskamer ingegaan op het met betrekking tot het tweede deel van klachtonderdeel 3 gestelde:
+ 
+
+	“	4.9.1 Betrokkenen hebben enerzijds het verwijt met betrekking tot punt a. erkend in die zin dat het uitgekeerde dividend in de vier jaren 1994 tot 1997 NLG 700.000- bedroeg en niet NLG 1.400.000-. Anderzijds hebben betrokkenen als verweer gemotiveerd naar voren gebracht dat de toekomstverwachtingen daar per saldo en per peildatum niet minder gunstig door behoefden te worden ingeschat waarna klager zijn stelling dat de positieve toekomstverwachting door deze onjuistheid een deugdelijke grondslag ontbeert niet nader met feiten heeft onderbouwd terwijl dit evenmin uit de door hem bij het klaagschrift overgelegde stukken voortvloeit. In zoverre ontbeert ook dit klachtsubonderdeel [voldoende] tuchtrechtelijke relevantie en is mitsdien ongegrond.
+ 
+
+4.9.2
+Uit het onder punt b. in het deskundigenbericht vermelde met betrekking tot de geactiveerde kosten in de jaarrekening 1997 kan volgens klager geen positieve toekomstverwachting voor [naam 7] worden afgeleid zoals betrokkenen hebben gedaan omdat er op 29 oktober 1997 in het geheel geen sprake was van geactiveerde kosten.Ter onderbouwing van dat standpunt heeft klager gewezen op het volgende. Hij heeft betrokkenen in verband met het deskundigenonderzoek bij brief van 27 mei 2011 laten weten dat de extern accountant van [naam 7] van destijds [naam 8] RA in een brief van 17 april 1998 aan klager duidelijk heeft gemaakt dat (volgens de Nederlandse regels) in het kader van de controle van de jaarrekeningen 1996 en 1997 tot activeringen van de R&D en de zelfontwikkelde software moest worden overgegaan. Hierop hebben betrokkenen (toen) niet gerespondeerd en daaraan hebben zij in het conceptbericht geen duiding gegeven terwijl zij in het deskundigenbericht deze activering ineens als positieve toekomstverwachting hebben geduid. Betrokkenen miskennen hiermee echter dat het in het kader van het onderzoek van betrokkenen het ging om de feitelijke situatie aangaande geactiveerde kosten naar de stand per 29 oktober 1997 vast te stellen; welnu die waren toen nog niet geactiveerd.Met betrokkenen is de Accountantskamer te dier zake van oordeel dat hier niet het moment van de controle van de jaarrekeningen en de conclusie dat kosten geactiveerd hadden moet worden van belang is maar de omstandigheid dat die conclusie betrekking had op de periode vóór de peildatum. Tegenover deze gemotiveerde betwisting heeft klager nagelaten zijn stelling nader met feiten te onderbouwen zodat ook dit klachtsubonderdeel ongegrond is. 
+
+
+4.9.3
+Wat betreft het verwijt van klager dat betrokkenen zich schuldig hebben gemaakt aan willekeur omdat de informatie onder punt c. en punt d. van paragraaf 2.4.2 niet volledig is is gelet op het uitvoerig verweer van betrokkenen waarop klager niet althans onvoldoende is ingegaan niet aannemelijk gemaakt dat betrokkenen terzake enig tuchtrechtelijk verwijt treft.” 
+
+Appellant stelt dat betrokkenen bij het bepalen van de toekomstverwachting op de peildatum fundamentele fouten hebben gemaakt. Volgens appellant herschrijft de accountantskamer in overweging 4.8.1 de standaardwerken over ‘corporate finance’. Het uitgangspunt bij ondernemingswaardering is dat alleen rekening mag worden gehouden met toekomstige ontwikkelingen die op de peildatum voorzienbaar waren. Met de beursgang in 1998 mocht geen rekening worden gehouden omdat geen sprake was van een verwachte ontwikkeling die reeds vóór de peildatum was ingezet. Appellant stelt dit te kunnen bewijzen. De aandeelhouders in [naam 7]  de accountant en de bankier zullen verklaren dat daarvan vóór of op 29 oktober 1997 geen sprake was. De accountant van [naam 7]  die ervaring had met het naar de beurs brengen van ondernemingen heeft [naam 7] in het voorjaar van 1998 bij het jaarwerk van 1996 en 1997 op het gunstige beursklimaat gewezen. Ook onjuist is de overweging van de accountantskamer dat betrokkenen de opdracht wegens niet uitvoerbaarheid hadden moeten teruggeven indien zij de achteraf verkregen onderzoeksbevindingen niet op de waardebepaling per peildatum zouden mogen projecteren. Het komt veelvuldig voor dat de waarde van een onderneming achteraf moet worden bepaald. Feitelijk onjuist is aldus appellant dat het besluit over de beursgang en het met het oog daarop uitgebrachte prospectus verwachte ontwikkelingen bevat die reeds op 29 oktober 1997 waren ingezet. Het oordeel van de accountantskamer dat appellant als het gaat om gestelde onverkoopbaarheid van de aandelen niet aannemelijk heeft gemaakt dat betrokkenen ten deze een tuchtrechtelijk verwijt treft is volgens appellant eveneens onjuist.
+ 
+
+Wat betreft het tweede deel van klachtonderdeel 3 wijst appellant erop dat betrokkenen met betrekking tot omstandigheid a. hebben gesteld dat het foutieve dividend voor de toekomstverwachting niet van materieel belang is geweest omdat de toekomstverwachtingen hierdoor per saldo niet minder gunstig dienen te worden ingeschat. Die beperking valt echter niet in paragraaf 2.4.2 van het deskundigenbericht te lezen. De vier omstandigheden a. tot en met d. worden daarin zonder enige beperking aangevoerd als omstandigheden waaruit een positieve toekomstverwachting voor [naam 7] werd afgeleid. Alleen met de prijzen (c. en d.) is per peildatum geen rekening gehouden. Niet het verweer van betrokkenen maar het deskundigenbericht had voor de accountantskamer uitgangspunt moeten zijn. Verder vindt appellant het opmerkelijk dat uit dat verweer blijkt dat de omstandigheden b. c. en d. kennelijk van groter belang zijn voor de positieve toekomstverwachting dan omstandigheid a. terwijl bovendien het verkrijgen van toegang tot de Amerikaanse markt bepalend is geweest voor de toekomstverwachtingen. Toen betrokkenen in het conceptbericht schreven dat [naam 7] in Noord-Amerika inmiddels voldoende bekendheid had verworven om geleidelijk een groter marktaandeel te veroveren en dat de markt van de Verenigde Staten voor verdere groei van [naam 7] van essentieel belang was waren zij bekend met de tekst van de prospectus waaraan de zogenaamde doorbraak in 1997 werd ontleend. In het deskundigenbericht is in paragraaf 2.4.1 de Verenigde Staten gekenmerkt als de belangrijkste markt waarin door [naam 7] in 1997 de doorbraak wordt bereikt. Die tekst staat anders dan wordt aangegeven niet zo in het prospectus. Bovendien is de omstandigheid dat de markt van de Verenigde Staten van essentieel belang was zoals in het conceptbericht staat iets anders dan dat de Verenigde staten wordt gekenmerkt als de belangrijkste markt zoals in het deskundigenbericht staat. Het begrip ‘doorbraak’ in het prospectus betekende slechts dat alle vereiste vergunningen van de Food and Drugs Administration waren verkregen en dat op basis daarvan de marketing van de Amerikaanse markt een start kon maken. Dit is volgens appellant een ontoereikende basis voor een toekomstverwachting zoals door betrokkenen is gehanteerd. 
+	Wat betreft omstandigheid b. stelt appellant dat van de activering van kosten op 29 oktober 1997 nog geen sprake was en de accountant daar pas op 17 april 1998 op gewezen heeft. Bij brief van 27 mei 2011 is aan betrokkenen bericht dat de accountant toen duidelijk heeft gemaakt dat in het kader van de controle van de jaarrekeningen over 1996 en 1997 tot activering van de R&D en de zelfontwikkelde software moest worden overgegaan. Appellant wijst erop dat als er een voorschrift van jaarrekeningrecht is dat tot een bepaalde activering noopt die activering dan nooit gebruikt kan worden om een positieve toekomstverwachting van het management te bewijzen. Dat zijn volgens hem twee totaal verschillende dingen. 
+	De onder punt c. en d. genoemde omstandigheden hadden betrokkenen volgens appellant achterwege moeten laten aangezien zij deze blijkens het deskundigenbericht niet in het perspectief per peildatum hebben meegenomen. Door ze niettemin te vermelden hebben betrokkenen zich schuldig gemaakt aan onaanvaardbare willekeur door niet ook melding te maken van de werkelijke omzet en de werkelijke bruto marge tijdens het door hen gehanteerde prognose interval. De accountantskamer is hier ten onrechte niet op ingegaan.
+ 
+
+
+
+6.2
+Appellant kan zich ook niet verenigen met het oordeel van de accountantskamer ten aanzien van het in klachtonderdeel 4 in samenhang met klachtonderdeel 5 gemaakte verwijt dat betrokkenen geen aandacht hebben geschonken aan de door hem verstrekte informatie waaruit blijkt dat de aandelen in [naam 7] op 29 oktober 1997 feitelijk onverkoopbaar waren. Ten aanzien van dit verwijt heeft de accountantskamer in overweging 4.11.2 van de bestreden uitspraak overwogen dat uit het verweer van betrokkenen naar voren komt: 
+
+	“	dat betrokkenen in weerwil van het door klager gestelde wel aandacht hebben besteed aan de verklaring van de heren [naam 9] en [naam 10]  zij het dat deze wat hen betreft tot een andere gevolgtrekking heeft geleid. Daarbij hebben zij verwezen naar stukken waar een en ander uit kan blijken. Klachtonderdelen 4. en 5. wat betreft het geen aandacht geven aan de gestelde bewering van een ‘beperkte verhandelbaarheid van de aandelen’ missen gelet hierop feitelijke grondslag. Bovendien heeft te gelden dat een beperkte verhandelbaarheid van aandelen niet impliceert dat aan die aandelen geen waarde kan worden toegekend.Klachtonderdeel 4. en klachtonderdeel 5. voor zover gegrond op deze onjuiste geoordeelde bewering zijn derhalve ongegrond.”
+ 
+
+Appellant wijst erop dat de beursgang niet op 30 april 1998 heeft plaatsgevonden. [naam 7] is op die datum begonnen met het opstellen van een prospectus en een emissiebericht. Deze zijn op 17 juni 1998 gepubliceerd. Van een aanvang van het schrijven van een prospectus “ruim voor de beurgang” is geen sprake. Op 29 oktober 1997 was van een beursgang geen sprake ook niet als voorzienbaar feit. Met haar oordeel miskent de accountantskamer dat betrokkenen in hun deskundigenbericht geen aandacht hebben besteed aan de op 11 oktober 2011 toegestuurde verklaring van [naam 10] en [naam 9]  zoals toegelicht door [naam 11] ( [naam 11] ). [naam 11] heeft erop gewezen dat een aandeelhoudersovereenkomst ontbrak wat van cruciaal belang is voor de verkoopbaarheid van het minderheidsbelang van [naam 5] in [naam 7] en daarmee voor de waardebepaling van dat minderheidsbelang. Bij gebreke daaraan bestond er voor de medeaandeelhouders in [naam 7] ( [naam 10] en [naam 9] ) geen enkele plicht tot aankoop van het 48% pakket van [naam 5] . Zij waren op 29 oktober 1997 de enige partijen die als kopers kwalificeerden. Bij toepassing van de statutaire blokkeringsregeling waarmee appellant een exit had kunnen afdwingen zouden zij een gegadigde bepaald niet met open armen hebben ontvangen. Daarnaast eisten zij dat appellant als bestuurder zou aanblijven. Het standpunt van [naam 10] en [naam 9] leidde feitelijk tot een blokkade van verkoop aan een derde. Onder deze omstandigheden was het 48% pakket onverkoopbaar. Met deze toelichting van [naam 11] en de verklaring van [naam 10] en [naam 9] hebben betrokkenen niets gedaan. Ook op de vele andere argumenten die appellant heeft aangevoerd heeft de accountantskamer geen acht geslagen. Appellant bestrijdt dat de klachtonderdelen 4 en 5 als het gaat om het door betrokkenen geen aandacht geven aan de gestelde bewering van een ‘beperkte veranderbaarheid van de aandelen’ een feitelijke grondslag missen. Het uitgangspunt van betrokkenen was wat een gewillige en goed geïnformeerde koper op 29 oktober 1997 voor [naam 5] betaald zou hebben. Die waarde hebben betrokkenen ten onrechte niet vastgesteld en is hoe dan ook zeer aanzienlijk minder dan de waarde die zij hebben vastgesteld. 
+ 
+
+
+6.3
+Het in klachtonderdeel 5 gemaakte verwijt dat betrokkenen het fundamentele beginsel ‘deskundigheid en zorgvuldigheid’ hebben geschonden betreft tevens het handelen en/of nalaten van betrokkenen naar aanleiding van de uitkomsten van het onderzoek van [naam 11] naar de waarde van [naam 5] en het commentaar van [naam 11] op het conceptbericht. Volgens appellant deugt de reactie van betrokkenen inhoudelijk niet hebben zij niet gedaan wat [naam 11] vindt dat ze hadden moeten doen en/of wijst het commentaar van [naam 11] erop dat betrokkenen fouten hebben gemaakt bij de vaststelling van de waarde van [naam 5] en onvoldoende rekening hebben gehouden met specifieke risico’s. De accountantskamer heeft hieromtrent in overweging 4.12.1 van de bestreden uitspraak het volgende overwogen: 
+
+	“	Betrokkenen hebben zich tegen dit klachtonderdeel uitvoerig verweerd waarop klager niet meer is terug gekomen. Gelet op al het geen door partijen naar voren is gebracht is de Accountantskamer van oordeel dat klager niet aannemelijk heeft gemaakt dat betrokkenen ten deze een tuchtrechtelijk verwijt treft. Niet gebleken is dat (de inhoud van) het deskundigenbericht een deugdelijke grondslag ontbeert of dat betrokkenen bij hun onderzoek of wijze van rapporteren anderszins in strijd hebben gehandeld met enig tuchtrechtelijk beginsel. Het moge zo zijn dat klager vindt dat betrokkenen op grond van door hem naar voren gebrachte argumenten tot een andere waardebepaling hadden moeten komen maar dat brengt tuchtrechtelijk bezien niet met zich dat betrokkenen aan de door hen vastgestelde waarde een gebrekkige motivering ten grondslag hebben gelegd of dat het op hun weg lag om de visie van klager op alle punten te weerleggen. In dat verband moet nog worden opgemerkt dat juist een dergelijke waardebepaling geen absolute waarheid kent. Het gaat er bij een deskundigenbericht als het onderhavige om dat de deskundige op de eerste plaats een waarderingsmethode toepast die gegeven de omstandigheden algemeen aanvaard en gebruikelijk is althans en in elk geval niet een op hun vakgebied omstreden c.q. moeilijk verdedigbaar en/of niet gangbaar geacht standpunt c.q. maatstaf c.q. methode inneemt respectievelijk toepast en anderzijds dat de deskundige voldoende inzicht geeft in de gehanteerde methode(n) en de daarbij gehanteerde gegevens zodat de civiele partijen zoals klager in staat zijn bij de civiele rechter het deskundigenbericht te becommentariëren en te bekritiseren en zo nodig de rechter gemotiveerd in overweging te kunnen geven het bericht niet of niet geheel te volgen.Niet aannemelijk is geworden dat het deskundigenbericht niet aan deze eisen voldeed.Klachtonderdeel 5. is dan ook in haar geheel ongegrond.”
+ 
+
+Appellant stelt dat de accountantskamer ten onrechte geen oordeel heeft gegeven over de tegenover elkaar staande standpunten van de deskundigen. Appellant meent een oordeel van het College te mogen verlangen en verzoekt het College in dit verband op de voet van artikel 37 van de Wet tuchtrechtspraak accountants (Wtra) een deskundige te benoemen. 
+
+
+
+6.4
+Het College is met de accountantskamer van oordeel dat het bij een deskundigenbericht als hier aan de orde erom gaat dat de gerechtelijk deskundige een in de gegeven omstandigheden algemeen aanvaarde en gebruikelijke waarderingsmethode toepast en voorts dat de door de gerechtelijk deskundige in het deskundigenbericht gehanteerde uitgangspunten en de wijze waarop hij tot zijn zienswijze met betrekking tot de aan hem voorgelegde punten is gekomen voor de civiele rechter en voor partijen transparant en inzichtelijk moeten zijn. 
+
+Evenmin als de accountantskamer ziet het College grond voor het oordeel dat (de inhoud van) het deskundigenbericht een deugdelijke grondslag ontbeert of dat betrokkenen bij hun onderzoek of wijze van rapporteren anderszins in strijd hebben gehandeld met enig tuchtrechtelijk beginsel. Niet gebleken is dat het deskundigenbericht niet aan de hiervoor genoemde eisen met betrekking tot de waarderingsmethode en de eisen van transparantie en inzichtelijkheid voldoet. Het College overweegt dat appellant weliswaar stelt dat het deskundigenbericht inhoudelijk onjuist is en een deugdelijke grondslag ontbeert maar de door betrokkenen toegepaste methode om de aandelen in [naam 7] te waarderen – de APV-methode – wordt niet door hem bestreden. Voorts is het College niet gebleken dat betrokkenen op ondeugdelijke wijze aan deze APV-methode uitvoering hebben gegeven. Appellant heeft op dat punt zijn stellingen niet feitelijk onderbouwd. Uit hetgeen appellant aanvoert valt niet te concluderen dat het oordeel van de accountantskamer dat betrokkenen terecht rekening hebben gehouden met ontwikkelingen die zich kort na de peildatum hebben voorgedaan omdat die toen reeds voorzienbaar waren onjuist is. Dat wellicht pas na de peildatum definitieve beslissingen zijn genomen doet daaraan niet af. Appellant stelt verder (slechts) dat hij zich niet met de weging en waardering van bepaalde feiten en omstandigheden door betrokkenen kan verenigen wederom zonder deze stellingname met feiten te onderbouwen.  De accountantskamer heeft in dit verband terecht geoordeeld dat het feit dat appellant vindt dat betrokkenen op grond van door hem naar voren gebrachte argumenten tot een andere waardebepaling hadden moeten komen tuchtrechtelijk bezien niet met zich brengt dat betrokkenen aan de door hen vastgestelde waarde een gebrekkige motivering ten grondslag hebben gelegd of dat het op hun weg lag om de visie van appellant of de door hem ingeschakelde deskundige op alle punten te weerleggen. 
+ 
+
+De grieven van appellant tegen de ongegrondverklaring van de klachtonderdelen 3 4 en 5 slagen evenmin. 
+ 
+
+7.	Klachtonderdeel 7
+ 
+
+
+7.1
+Dit klachtonderdeel stelt het door betrokkenen schenden van het fundamentele beginsel van integriteit aan de orde. In hoger beroep handhaaft appellant één integriteitsschending te weten dat betrokkenen naar zijn mening in strijd met de feitelijke gang van zaken hebben opgeschreven dat wijzigingen in debat met klager tot stand gekomen zijn. Ten aanzien hiervan heeft de accountantskamer – in overweging 4.14 van de bestreden uitspraak – overwogen dat dit verwijt gelet op al hetgeen reeds is overwogen en beslist zelfstandige betekenis mist en daarom geen verdere bespreking behoeft. 
+
+Appellant vindt het onjuist dat betrokkenen op bladzijde 12 van bijlage 18 van het deskundigenbericht hebben geschreven dat de mutaties in het deskundigenbericht ten opzichte van het conceptbericht in debat met hem tot stand zijn gekomen. Appellant wijst er opnieuw op dat er geen enkel debat zelfs geen enkel contact met hem is geweest over het opnemen in het deskundigenbericht van de paragraaf waarin toekomstverwachtingen in alle opzichten bepalend zijn en het ontbreken van een dergelijke beschouwing in het conceptbericht.  
+ 
+
+
+7.2
+Gezien hetgeen het College in overweging 5.4 van deze uitspraak ten aanzien van de klachtonderdelen 1 en 2 heeft geoordeeld slaagt ook deze grief van appellant niet.    
+8. De slotsom is dat het hoger beroep van appellant ongegrond is.  
+9. De beslissing op dit hoger beroep berust mede op hoofdstuk V van de Wtra.   
+
+
+
+Beslissing 
+
+Het College verklaart het hoger beroep ongegrond. 
+ 
+
+Deze uitspraak is gedaan door mr. J.A.M. van den Berk mr. S.C. Stuldreher en mr. J.L. Verbeek in aanwezigheid van mr. C.G.M. van Ede griffier. De beslissing is in het openbaar uitgesproken op 15 november 2016.
+ 
+
+De voorzitter is verhinderd						w.g. C.G.M. van Ede 
+de uitspraak te ondertekenen
+ 
+
+w.g. S.C. Stuldreher
+
+

@@ -1,0 +1,428 @@
+
+
+GERECHTSHOF DEN HAAG 
+Afdeling Civiel Recht  
+
+Zaaknummer			: 200.237.828/01
+Zaak-/rolnummers rechtbank	: C/09/533643/HA ZA 17-599 (hierna: zaak 17-599) en       
+  C/09/534649/HA ZA 17- 651 (hierna: zaak 17-651)
+ 
+
+
+Arrest d.d. 27 november 2018 
+
+
+De vennootschap naar vreemd recht ASTRAZENECA AB
+
+gevestigd te Södertälje Zweden 
+appellante    
+hierna te noemen: AZ  
+advocaat: mr. J.A. Dullaart te Naaldwijk       
+ 
+
+tegen
+ 
+
+
+SANDOZ B.V. 
+
+gevestigd te Almere 
+geïntimeerde  
+hierna te noemen: Sandoz 
+advocaat: mr. O.P. Swens te Amsterdam.                
+ 
+
+
+Het verloop van het geding  
+
+Bij appeldagvaarding met grieven (hierna: AD) van 18 april 2018 is AZ in hoger beroep gekomen van het tussen partijen gewezen vonnis van de rechtbank Den Haag van 11 april 2018 in de zaken 17-599 en 17-651 (hierna: het vonnis). Aan dit vonnis waren de volgende stukken voorafgegaan: 
+
+- de inleidende dagvaardingen van Sandoz (ID/17-599 en ID/17-651);
+- de conclusies van antwoord in conventie/eis in reconventie van AZ (CvA/CvE-ir/17-599 en CvA/CvE-ir/17-651);
+- de conclusies van antwoord in reconventie (CvA-ir/17-599 en CvA-ir/17-651) en 
+- de pleitnota’s van Sandoz (PE-S) en AZ (PE-AZ).    
+In hoger beroep heeft AZ vervolgens een incidentele conclusie tot het treffen van een voorlopige voorziening ex artikel 223 Rv genomen. Sandoz heeft hierop gereageerd met een memorie van antwoord in het incident. Bij arrest in dit ‘artikel 223 Rv-incident’ van 29 mei 2018 heeft het hof de door AZ bij wege van voorlopige voorziening ingestelde vorderingen afgewezen. Vervolgens heeft Sandoz een memorie van antwoord met de producties 45 t/m 48 (hierna: MvA) genomen.  
+
+Partijen hebben hun standpunten doen bepleiten ter zitting van dit hof van 11 oktober 2018 AZ door mrs. W.A. Hoyng en T.M. Blomme advocaten te Amsterdam en Sandoz door haar advocaat en diens kantoorgenoot mr. T.D. Sigterman. De raadslieden hebben hierbij gebruik gemaakt van pleitnota’s (hierna: PA).  
+ 
+
+Met het oog op het pleidooi hebben partijen nog de volgende stukken aan het hof en de wederpartij gestuurd:
+
+- ingekomen op 27 september 2018 van AZ: een akte houdende overlegging aanvullende producties met de producties 29  en 30;     
+- ingekomen op 27 september 2018 van Sandoz: productie 49A en B; 
+- ingekomen op 28 september 2018 van AZ: een akte houdende overlegging aanvullende productie 31 (een beslissing van de Zwitserse ‘Supreme Court’).   
+
+Bij fax van 1 oktober 2018 is namens Sandoz bezwaar gemaakt tegen de beide akten van AZ. Bij mail van 2 oktober 2018 is hierop namens AZ gereageerd. 
+Ter zitting heeft het hof bij monde van de voorzitter Sandoz’ bezwaar tegen de akte van AZ met de producties 29 en 30 verworpen op de grond dat deze akte tijdig met inachtneming van de in het toepasselijke procesreglement gestelde termijn is overgelegd en dat de daarbij in het geding gebrachte stukken niet van een zodanige aard en omvang zijn dat Sandoz daarop bij pleidooi niet meer adequaat heeft kunnen reageren. Sandoz’ bezwaar tegen de akte met productie 31 is ter zitting gegrond verklaard nu naar AZ heeft bevestigd de beslissing van het Zwitserse ‘Supreme Court’ al eerder was overgelegd en er dus geen plaats is voor de schriftelijke argumentatie die daaromtrent in die akte is gegeven.           
+ 
+
+
+De beoordeling van het hoger beroep 
+
+
+De feiten
+
+ 
+1. Het gaat in dit geding om het volgende.  
+a.	Het hormoon oestrogeen versterkt de groei van bepaalde vormen van borstkanker de oestrogeen-afhankelijke vormen daarvan.  
+b. 	Fulvestrant (ook aangeduid als ICI 182780) is beschermd geweest door een stofoctrooi van AZ dat is verlopen in 2004.  
+c. 	Fulvestrant is een (steroïde) anti-oestrogeen/oestrogeen antagonist die zich hecht aan de oestrogeenreceptoren van de tumorcel waardoor oestrogenen zich daaraan niet meer kunnen binden. Hierdoor wordt de groei van tumorcellen geremd. Door onder meer de extreem lage oplosbaarheid in zowel water als olie is het moeilijk om een formulering van fulvestrant te maken.  
+d. 	Het is niet gelukt om een orale formulering (een pil) van fulvestrant te ontwikkelen. Het eerste generatie anti-oestrogeen genaamd tamoxifen is wel als pil beschikbaar.    
+e. 	AZ is houdster van Europees octrooi EP 1 250 138 (hierna: EP 138 of het octrooi) betreffende een ‘Fulvestrant formulation’ dat is gebaseerd op een aanvrage van 8 januari 2001 onder inroeping van prioriteit van 10 januari althans 12 april 2000. De oorspronkelijke conclusie 1 van EP 138 was een productconclusie die een specifieke formulering van fulvestrant onder bescherming stelde terwijl de oorspronkelijke conclusie 22 gericht was op het gebruik van die formulering voor de behandeling van borstkanker. Na een oppositie waarin het in rov. 1.k te bespreken McLeskey-document aan de orde is gekomen zijn de conclusies gewijzigd in tweede medicatie Swiss-type claims. De in deze zaak relevante gewijzigde conclusies van EP 138 luiden als volgt (in de niet bestreden Nederlandse vertaling): 
+
+
+1. Toepassing van fulvestrant bij de bereiding van een farmaceutische formulering voor de behandeling van een benigne of maligne ziekte van de borst of voortplantingstractus door intramusculaire toediening waarbij de formulering fulvestrant in een ricinoleaatmedium een farmaceutisch aanvaardbaar niet-waterig esteroplosmiddel en een farmaceutisch aanvaardbaar alcohol omvat waarbij de formulering aangepast is voor het verkrijgen van een therapeutisch significante bloedplasmaconcentratie aan fulvestrant gedurende ten minste 2 weken. 
+
+ 
+
+
+28. Toepassing volgens een van de conclusies 1 tot en met 27 waarbij de totale hoeveelheid aan fulvestrant in de formulering 250 mg of meer is en het totale volume van de formulering 6 ml of minder is. 
+
+ 
+
+
+29. Toepassing volgens conclusie 28 waarbij de totale hoeveelheid aan fulvestrant in de formulering 250 mg of meer is en het totale volume van de formulering 5 tot 525 ml is. 
+
+ 
+
+
+30. Toepassing volgens van de conclusies 1-29 waarbij de farmaceutisch aanvaardbare alcohol een mengsel is van 10 gew.% ethanol per volume formulering 10 gew.% benzylalcohol per volume formulering en de formulering 15 gew.% benzylbenzoaat per volume formulering bevat en het ricinoleaatmedium ricinusolie is (in de Engelse tekst staat voor ‘ricinusolie’: ‘castor oil’ het hof zal hierna net als partijen spreken over: castorolie).   
+ 
+f. 	Conclusie 30 met daarin geïncorporeerd de conclusies 1 en 29 kan worden onderverdeeld in de volgende deelkenmerken (zie ook de onweersproken rov. 4.10 van het vonnis): 
+
+(i) 	toepassing van fulvestrant bij de bereiding van een farmaceutische formulering voor de behandeling van een benigne of maligne ziekte van de borst of voortplantingstractus door intramusculaire toediening waarbij 
+(ii) 	het totale volume van de formulering 5 tot 525 ml is; 
+(iii) 	de totale hoeveelheid fulvestrant in de formulering 250 mg of meer is;
+(iv) 	de farmaceutisch aanvaardbare alcohol die de formulering omvat een mengsel is van 10 gew.% ethanol (EtOH) per volume formulering 10 gew.% benzylalcohol (BzOH) per volume formulering en;
+(v) 	de formulering 15 gew.% benzylbenzoaat (BzBz) – een ester – per volume formulering bevat; 
+(vi) 	het ricinoleaatmedium waarin de formulering zich bevindt castorolie is; 
+(vii)	waarbij de formulering is aangepast voor het verkrijgen van een therapeutisch significante bloedplasmaconcentratie aan fulvestrant gedurende ten minste 2 weken.
+ 
+g. 	In de beschrijving van EP 138 is het onder meer het volgende vermeld:
+
+‘[0017] However even with using the best oil based solvent castor oil we have found that it is not possible to dissolve fulvestrant in an oil based solvent alone so as to achieve a high enough concentration to dose a patient in a low volume injection and achieve a therapeutically significant release rate. (…). 
+
+		(….)
+
+
+	[0019] (…) We have surprisingly found that the introduction of a non-aqueous ester solvent which is miscible in the castor oil and an alcohol surprisingly eases the solubilisation of fulvestrant into a concentration at least 50 mgml-1 – see Table 3 below. The finding is surprising since the solubility of fulvestrant in non-aqueous ester solvents (…) is significantly lower than the solubility of fulvestrant in an alcohol.  
+
+
+	(…)
+
+
+	[0048] Figure 1 shows the release profile in vivo of the four formulations from the second part of Table 4 and shows the effect of the fixed oil component on fulvestrant plasma profile over five days following intramuscular administration in rabbits (…). As can be seen the castor oil formulation showed a particularly even release profile with no evidence of precipitation of fulvestrant at the injection site.’ 
+
+De achtergrond van de in rov. 1.f weergegeven maatregelen zoals die ook uit de beschrijving van EP 138 (zie o.m. § 0048) naar voren komt is de volgende. Intramusculaire toediening is voorgeschreven omdat toediening via een pil niet mogelijk is vanwege onder meer de lage oplosbaarheid en het hoge first-pass metabolisme van fulvestrant. Aangezien intramusculaire toediening (een injectie in de bil) voor de patiënt veel onplezieriger is dan een pil moet het aantal injecties zo beperkt mogelijk blijven. Daarom moet de depotinjectieformulering een voldoende hoge dosis fulvestrant bevatten (250 mg per injectiespuit van 5 ml het maximale volume dat destijds per injectie intramusculair mocht worden toegediend) en moet de afgifte aan het bloed voldoende vertraagd te gebeuren; er moet kortom een goed afgifte-profiel zijn. Verder dient precipitatie (neerslag van fulvestrant in vaste vorm) en irritatie (necrose) op de plaats van de injectie te worden voorkomen. 
+ 
+h. 	AZ is tevens houdster van het op 17 juni 2015 verleende Europees octrooi EP 2 266 573 (hierna: EP 573) dat een (klein)dochter is van EP 138 en dat op dezelfde aanvrage als EP 138 is gebaseerd. Conclusie 3 van EP 573 openbaart de specifieke formulering van (conclusie 30 van) EP 138.  
+i. 	Verder is AZ houdster van Nederlands octrooi NL 1 011 075 C2 (hierna: NL 075) voor een ‘preparaat’. NL 075 is op 11 juli 2001 ingeschreven in het octrooiregister met inroeping van dezelfde prioriteiten als die van EP 138. De conclusies van NL 075 zijn (nagenoeg) identiek aan die van EP 138 zoals oorspronkelijk verleend (zie rov. 1.e).        
+j. 	Omdat alle hiervoor onder 1.e h en i genoemde octrooien dezelfde prioriteitsdata en dus ook dezelfde oudste prioriteitsdatum hebben zal hierna kortweg worden gesproken over: de prioriteitsdatum. Op die prioriteitsdatum waren de hiervoor onder 1.a-c weergegeven feiten openbaar bekend.  
+k. 	Van voor de prioriteitsdatum stammen de volgende documenten die dus tot de stand van de techniek (‘prior art’) van de octrooien behoren:     
+
+- 	het in augustus 1964 in het tijdschrift Journal of Pharmaceurtical Sciences gepubliceerde artikel ‘Castor oil as a vehicle for parenteral administration of steroid hormones’ van Riffkin et al. (hierna: Riffkin). 
+	In dit document is geopenbaard dat castorolie een geschikte drager is voor – parenteraal (dat wil zeggen: anders dan via het maag-darm kanaal dus bijvoorbeeld via intramusculaire injectie) toe te dienen – vertraagde afgifteformuleringen met steroïden en dat ‘co-solvents’ (aanvullende oplosmiddelen) nodig zijn om de therapeutisch vereiste hoge concentraties steroïden in castorolie op te lossen. Als voorbeelden van co-solvents worden genoemd benzylbenzoaat en benzylalcohol. 
+ 
+
+- 	de Europese octrooiaanvrage EP 0 346 014 A1 (hierna EP-A 014) van 2 juni 1989.  
+Deze aanvrage heeft betrekking op onder meer een anti-oestrogeen voor gebruik in ‘selective therapy of perimenopausal or postmenopausal conditions’. In voorbeeld 3 wordt als anti-oestrogeen de stof fulvestrant genoemd. In dat voorbeeld wordt een formulering voor intramusculaire toediening in ratten beschreven die bestaat uit 50 mg van de ‘test compound’ (= fulvestrant) 400 mg benzylalcohol en voldoende castorolie om de oplossing op een volume van 1 ml te brengen (dus: 50 mg fulvestrant in 1 ml castorolie hetgeen hetzelfde is als 250 mg in 5 ml). 
+ 
+
+- 	het in 1996 in de British Journal of Cancer (p. 300-306) gepubliceerde artikel van A. Howell en anderen (waaronder twee medewerkers van AZ’s rechtsvoorgangster Zeneca Pharmaceuticals) getiteld ‘Pharmacokinetics pharmacological and anti-tumour effects of the specific anti-oestrogen ICI 182780 in women with advanced breast cancer’ (hierna: Howell). 
+	Dit document toont de resultaten van fase II klinische studies met fulvestrant voor de behandeling van borstkanker. Beschreven wordt dat een formulering van 250 mg fulvestrant in 5 ml castorolie die intramusculair bij mensen wordt toegediend een effectieve behandeling voor borstkanker geeft. Tevens wordt vermeld dat:
+- 	één injectie van deze formulering genoeg is om een maand lang afdoende therapeutische concentratie fulvestrant in het bloed te houden en   
+- 	de formulering goed wordt verdragen.  
+De precieze samenstelling van de gebruikte formulering wordt in Howell  niet genoemd: over de co-solvents en hun concentratieverhouding is niets vermeld. Het komt erop neer dat alleen de in rov. 1.f genoemde onderdelen (iv) en (v) van EP 138 niet in Howell zijn geopenbaard. 
+ 
+
+- 	het in maart 1998 in het tijdschrift Clinical Cancer Research (p. 697-711) gepubliceerde artikel van S.W. McLeskey et al. getiteld ‘Tamoxifen-resistant Fibroblast Growth Factor-transfered MCF-7 Cells Are Cross-Resistant In Vivo to the Antiestrogen ICI 182780 and Two Aromatase Inhibitors’ (hierna: McLeskey). 
+In dit document wordt de in de EP 138 geclaimde formulering volledig vermeld dus met inbegrip van de onder 1.f  in (iv) en (v) genoemde onderdelen daarvan zie de volgende passage uit dit document:
+‘Drugs. ICI 182780 was kindly donated by Dr. Alan Wakeling of Zeneca (…) and was administered s.c. at a dose of 5 mg in 01 ml of vehicle every week. (…). For the experiments depicted in Fig. 1 B and C 50 mg/ml; preformulated drug in a vehicle of 10% ethanol 15% benzyl benzoate 10 % benzyl alcohol brought to volume with castor oil was supplied by B.M. Vose (Zeneca Pharmaceuticals). (…)’.
+Het ging hier om een test om vast te stellen of in muizen waarbij de (oestrogeenproducerende) eierstokken waren weggehaald tumorgroei nog wel kan worden veroorzaakt door elders aangemaakt oestrogeen. De muizen kregen eenmaal per week een depotinjectie met de zojuist genoemde fulvestrant-formulering vanuit de gedachte dat wanneer toevoeging van fulvestrant (ICI 182780) die voorkomt dat oestrogeen zich aan de tumorcellen hecht niet tot verminderde tumorgroei zou leiden de conclusie dan zou zijn – en in dit geval was – dat de tumorgroei niet afhankelijk was van oestrogeen.         
+ 
+
+l. 	Sandoz heeft in 2015 voor onder meer Nederland een handelsvergunning verkregen voor generiek fulvestrant hierna Fulvestrant Sandoz. 
+ 
+
+
+De vorderingen over en weer en het vonnis van de rechtbank
+
+ 
+
+2.l 	In conventie in zaak 17-599 heeft Sandoz gevorderd vernietiging van het Nederlandse deel van EP 138 en een verklaring voor recht dat NL 075 sinds 11 februari 2015 niet de in de artikelen 53 53a 71 en 73 ROW bedoelde rechtsgevolgen heeft. In conventie in zaak 17-651 heeft Sandoz gevorderd nietigverklaring van het Nederlandse deel van EP 573. In reconventie in de zaken 17-599 en 17-651 heeft AZ gevorderd verboden om in Nederland inbreuk te maken op achtereenvolgens EP 138 en EP 573 met verklaringen voor recht omtrent de inbreuk nevenvorderingen (opgave van afnemers en de genoten winst recall en vernietiging van inbreukmakende producten) en schadevergoeding op te maken bij staat.   
+ 
+
+2.2
+
+De rechtbank heeft de vorderingen van Sandoz in conventie toegewezen en – als uitvloeisel daarvan – de vorderingen van AZ in reconventie afgewezen onder veroordeling van AZ in de kosten van alle procedures. De vernietiging van EP 138 en EP 573 is gebaseerd op samengevat de volgende gronden:
+I. 	De meest nabije stand van de techniek is Howell (rov. 4.14); 
+II.		In Howell zijn alleen de in rov. 1.f bij (iv) en (v) genoemde deelkenmerken van EP 138 niet geopenbaard (rov. 4.18); 
+III. 	Het objectieve technische probleem luidt: het verschaffen van een fulvestrant-formulering waarbij 250 mg fulvestrant is opgelost in 5 ml castorolie en waarbij de formulering (a) geschikt is voor de behandeling van borstkanker (b) niet precipiteert en (c) waarbij sprake is van vertraagde afgifte in die zin dat een therapeutisch significante plasmaconcentratie wordt verkregen gedurende ten minste twee weken na toediening van 5 ml via intramusculaire injectie (rov. 4.23); 
+IV. 	De vakman zou bij zijn zoektocht naar een oplossing voor dit probleem stuiten op McLeskey nu dit op hetzelfde vakgebied ligt namelijk onderzoek naar de behandeling van borstkanker (rov. 4.26); 
+V. 	In McLeskey vindt de vakman een oplossing van fulvestrant in castorolie met precies de beoogde concentratie: 50 mg/ml komt overeen met 250 mg in 5 ml zoals in Howell toegepast (rov. 4.30);   
+VI. 	De vraag of de vakman met een redelijke verwachting van succes zal onderzoeken of de McLeskey-formulering geschikt is wordt bevestigend beantwoord: naar de vakman op de prioriteitsdatum wist waren de in McLeskey geopenbaarde co-solvents geschikt en niet ongebruikelijk voor geneesmiddelen terwijl de omstandigheden dat de McLeskey-formulering complex was en deze ‘preformulated’ ter beschikking was gesteld een nadere aanwijzing voor de geschiktheid daarvan voor mensen vormt (rovv. 4.31 en 4.32);  
+VII: 	Dit geldt temeer nu het onderzoek naar de geschiktheid van de formulering relatief eenvoudig is terwijl het alternatief is om van ‘scratch’ te beginnen met het maken van een geschikte formulering: het komt niet reëel voor om aan te nemen dat de vakman gegeven alle aanwijzingen dat de formulering geschikt is op zoek naar de oplossing van het probleem de formulering van McLeskey links zou laten liggen en integendeel de lange weg zou inslaan om van ‘scratch’ te beginnen (rov. 4.33);      
+VIII. 	Er zijn bovendien geen ‘pointers away’ (rovv. 4.35-4.39);
+IX. 	De vakman zal dus de geschiktheid van de McLeskey-formulering onderzoeken met standaardtests. Daarbij zal hij vinden dat de formulering in in vivo dierproeven op konijnen geschikt is voor het behandelen van borstkanker niet precipiteert en daarmee een therapeutisch significante plasmaconcentratie wordt verkregen gedurende tenminste twee weken na toediening van 5 ml via een intramusculaire injectie. Hij komt daarmee zonder creatieve denkarbeid tot de in conclusie 30 geclaimde vinding (rov. 4.41).   
+Deze overwegingen zullen hierna worden weergegeven als de Rb-Overwegingen I II III etc..   
+ 
+
+
+Het hoger beroep
+
+ 
+
+
+3.1
+Grief 1 van AZ richt zich met een reeks van klachten tegen de Rb-Overwegingen I en III t/m IX. Het hof zal deze grief eerst beoordelen ten aanzien van EP 138.  
+
+
+3.2
+Bij haar betogen heeft AZ zich onder meer bediend van rapporten van haar partij-deskundigen prof. [X] (2 rapporten) en prof. [Y] (6 rapporten aan te duiden als [Y] I II etc). Sandoz heeft zich onder meer bediend van een aantal rapporten van haar partij-deskundige prof. [Z].   
+
+
+Inventiviteit; inleidende overwegingen 
+
+ 
+
+
+4.1
+Beide partijen gaan uit van een beoordeling van de inventiviteit op basis van de ‘Problem-Solution-Approach’ (kortweg: PSA). Het hof zal partijen hierin volgen.  
+
+
+4.2
+Allereerst wordt het volgende overwogen.  
+
+(a) 	Op Sandoz rust de bewijslast wat betreft de door haar gestelde nietigheid waaronder het ontbreken van inventiviteit en ook de stelplicht te dien aanzien in de zin dat zij de daarvoor benodigde feiten (op voldoende duidelijke wijze) moet aanvoeren.   
+ 
+
+(b) 	De vakman wist op de prioriteitsdatum dat om een oplossing van 250 mg fulvestrant in 5 ml castorolie – hierna ook kortweg: de 250F/5C-Verhouding – te kunnen verkrijgen co-solvents nodig waren (o.m. de punten 26 en 53 PE-S). 
+ 
+
+(c) 	Op de prioriteitsdatum wist de vakman tevens dat niet voor elke voor de oplossing van de 250F/5C-Verhouding geschikte formulering van co-solvents – waarbij onder formulering wordt verstaan: de gebruikte co- solvents en de onderlinge verhoudingen en concentraties daarvan – gold dat deze niet zou precipiteren en/of tot een vertraagde afgifte zou leiden. Bij welke co-solvent-formulering (hierna kortweg ook: CS-Formulering) deze effecten zouden optreden was op de prioriteitsdatum onvoorspelbaar (punten 37 en 46 van Sandoz’ PA). 
+ 
+
+(d) 	Volgens Sandoz hebben dierproeven voorspellende waarde voor mensen (o.m. punt 53 PA). Volgens AZ voorspelt dierenonderzoek echter niet noodzakelijkerwijs de uitkomst van klinisch onderzoek bij mensen (PA blz. 21 en punt 64). In punt 23 van zijn eerste rapport heeft AZ’s partij-deskundige [X] het volgende opgemerkt:
+‘A physician would have clearly understood that the rabbit data shown in the Patent (=  EP 138 hof) would be sufficiently predictive for the situation in humans to render it plausible that therapeutically significant levels of fulvestrant could be maintained over an extended period of time. What Table 4 and Fig 1 show (i.e. precipitation and drug profile release) are that the claimed formulation uniquely allows fulvestrant to be released consistently and evenly over a prolonged period from a rabbit muscle into the bloodstream. There is good reason to believe from this data that the same formulation would give the same release characteristics in a human muscle.’   
+In zijn tweede rapport heeft prof. [X] verklaard kort gezegd dat deze opmerking niet strikt letterlijk moet worden gelezen maar in de context daarvan moet worden beschouwd en dat die opmerking dus niet mag worden geïnterpreteerd als inhoudende dat de konijndata in EP 138 op zichzelf zonder verder klinisch of pre-klinisch bewijs voldoende voorspellend voor mensen zouden zijn (punt 7 van het tweede rapport). Het hof acht deze verklaring uit prof. [X] tweede rapport niet geloofwaardig in het licht van de niet voor misverstand vatbare tekst van punt 23 van zijn eerste rapport. Op grond van deze tekst wordt bewezen geacht dat konijnproeven voorspellende waarde hebben voor het afgifteprofiel van een oplossing met de 250F/5C-Verhouding en de mate van precipitatie daarvan in mensen.        
+ 
+
+
+4.3
+Het hof zal – met Sandoz – Howell als de meest nabije stand van de techniek aanmerken (stap 1 van de PSA). AZ heeft EP-A 014 als de ‘closest prior art’ naar voren geschoven (punten 89 en 90 CvA/CvE-ir/17-599) doch dit document is daarvoor minder geëigend omdat daarin niet – zoals in Howell wel het geval is – is geopenbaard dat de daarin beschreven CS-Formulering met de 250F/5C-Verhouding geschikt is voor de behandeling van borstkanker maar alleen voor de behandeling van ‘perimenopausal or postmenopausal conditions’ (zie rov. 1.k en punt 42 CvA-ir/17-599).  
+
+
+4.4
+Stap 2 van de PSA houdt in dat moet worden vastgesteld wat het objectieve probleem uit de stand van het techniek (Howell) is dat het octrooi beoogt op te lossen (hierna: het Stap 2-Probleem of de Stap 2-Probleemstelling).   
+
+
+4.5
+Sandoz heeft aanvankelijk het standpunt ingenomen dat het Stap 2-Probleem bestaat in het verschaffen van een fulvestrant-formulering waarbij 250 mg fulvestrant is opgelost in castorolie terwijl het totale volume van de formulering 5 ml bedraagt dus louter in het verschaffen van een CS-Formulering waarin de 250F/5C-Verhouding kan worden opgelost. De in EP 138 genoemde voordelige effecten (werking tegen borstkanker niet-precipitatie en vertraagde afgifte) waren door Sandoz niet in haar aanvankelijke probleemstelling meegenomen kennelijk vanuit de gedachte dat die effecten ook al in Howell stonden en de (niet-uitgesproken) veronderstelling dat wanneer een CS-Formulering wordt gevonden waarin de 250F/5C-Verhouding oplosbaar is die Howell-effecten zich zullen voordoen. Deze veronderstelling is echter niet juist omdat naar de vakman op de prioriteitsdatum wist niet elke CS-Formulering waarin de 250F/5C-Verhouding kon worden opgelost die voordelige effecten had en zelfs onvoorspelbaar was welke CS-Formuleringen die zouden hebben zie rov. 4.2(c).     
+
+
+4.6
+Sandoz heeft dit onderkend (punten 29 en 30 PA) en daarom laten weten – onder de voorwaarde dat het besef er maar blijft dat die voordelige effecten al bekend waren uit Howell – te ‘kunnen leven’ met de in rov. 2.2. bij III weergegeven Stap 2-Probleemstelling van de rechtbank. Aan die voorwaarde wordt voldaan (zie ook rov. 5.7 hierna). Het hof zal zich – onder verwerping van de aanvankelijke probleemstelling van Sandoz – aansluiten bij deze probleemstelling van de rechtbank die ook door AZ zij het ‘veronderstellenderwijs’ wordt aanvaard (punt 14 AD). 
+
+
+4.7
+De laatste stap van de PSA stap 3 houdt in dat moet worden vastgesteld of de gemiddelde vakman op basis van de meest nabij stand van de techniek en het Stap 2-Probleem tot de in het octrooi geclaimde uitvinding zou (‘would’) zijn gekomen. Om de redenen die door de rechtbank zijn genoemd in de punten 4.26-4.28 van het vonnis – waartegen door AZ niet gemotiveerd is gegriefd (het enkele zinnetje in noot 7 bij punt 21 AD is daarvoor onvoldoende) – zou de vakman bij zijn zoektocht naar de oplossing van het Stap 2-Probleem op McLeskey zijn gestuit. 
+
+
+4.8
+
+AZ betoogt dat de vakman de door hem gevonden McLeskey-formulering alleen daadwerkelijk in beschouwing zou hebben genomen bij zijn zoektocht naar de oplossing van het Stap 2-Probleem wanneer – hetgeen volgens haar niet het geval is – McLeskey een ‘pointer’ zou bevatten die zou duiden op de geschiktheid van de McLeskey-formulering als oplossing voor dat probleem. Het hof volgt AZ hierin niet omdat dit een te strikte eis is gezien ook hetgeen in het kader van stap 3 van de PSA in de Guidelines van het EOB (deel G hfd. VII onder 5.3 ‘Could-would approach’) is vermeld over het combineren van verschillende documenten uit de prior art:     
+‘Even an implicit prompting or implictely recognisable incentive is sufficient to show that the skilled person would have combined the elements from the prior art’
+en gezien hetgeen onder 6 ‘Combining pieces of prior art’ van die Guidelines is vermeld te weten:
+‘In the context of the problem-solution approach it is permissable to combine the disclosure of one or two documents parts of documents or other pieces of prior art (e.g. a public prior use or written general technical knowledge) with the closest prior art. (…). 
+
+In determining whether it would be obvious to combine two or more distinct disclosures the examiner should also have regard in particular to the following:
+
+
+(i) 	whether the content of the disclosures (e.g. documents) is such as to make it likely or unlikely that the person skilled in the art when faced with the problem solved by the invention would combine them (…); 
+
+
+(ii) 	whether the disclosures e.g. documents come from similar neighbouring or remote technical fields (…);
+
+
+(iii) 	(…) it is obvious to combine the teaching of one or more documents with the common general knowledge in the art. (..)’.          
+Het gaat er dus om of er voor de vakman in de relevante prior art (hier in ieder geval: Howell McLeskey en de algemene vakkennis afzonderlijk of gezamenlijk beschouwd) een (al dan niet impliciete) prompting/recognisable incentive (hierna kortweg: incentive) was om – ter oplossing van het Stap 2-Probleem in kwestie – McLeskey met Howell te combineren. Als zo’n incentive er niet is zal de vakman de McLeskey-formulering ook niet gaan testen. Daarvoor heeft hij dan geen aanleiding.  
+ 
+
+
+Inventiviteit: incentives?
+
+ 
+
+
+5.1
+Howell openbaart het gebruik van een oplossing met de 250F/5C-Verhouding voor de behandeling van borstkanker in mensen met de daarin genoemde gunstige effecten en het Stap 2-Probleem houdt in dat een CS-Formulering voor het gebruik van die verhouding gevonden moet worden voor toepassing in mensen ter behandeling van borstkanker waarbij geen precipitatie optreedt en waarbij vertraagde afgifte plaatsvindt. In McLeskey wordt weliswaar (op blz. 697 rechtsonder) zijdelings ter sprake gebracht dat zoals al langer bekend was (zie rov. 1.c) de stof fulvestrant kan worden toegepast voor de behandeling van mensen met borstkanker maar de in dat document beschreven CS-Formulering met de 250F/5C-verhouding wordt daarin alleen gebruikt in muizen én in het kader van een test of oestrogeen nog een rol speelt bij de groei van tumorcellen wanneer de eierstokken zijn weggehaald. De CS-Formulering met de 250F/5C verhouding wordt hier in een wezenlijk ander kader gebruikt dan voor de behandeling van (oestrogeenafhankelijke) borstkanker in mensen. Reeds deze omstandigheden – gebruik van de CS-Formulering in muizen en in een ander kader dan dat van Howell en van het Stap 2-Probleem in kwestie – zullen de vakman huiverig maken om McLeskey bij zijn zoektocht naar de oplossing van dat probleem te betrekken.  
+
+
+5.2
+Hierbij is in aanmerking genomen dat Sandoz – op wie de stelplicht te dezer zake ligt en die (in o.m. de punten 172/173 PE en 74 MvA) er blijk van heeft gegeven zich bewust te zijn van het verschil tussen muizenstudies en de in rov. 4.2 (d) besproken konijnenstudies – niet (voldoende) specifiek heeft gesteld dat testen in muizen voorspellende waarde hebben voor het afgifteprofiel van een oplossing met de 250F/5C-Verhouding en de mate van precipitatie daarvan in mensen en het er daarom voor moet worden gehouden dat (de vakman op de prioriteitsdatum wist dat) muizentesten daarvoor geen voorspellende waarde hebben. Dit brengt tevens met zich dat – zoals AZ heeft opgemerkt (punt 104 PE-AZ) – het feit dat in McLeskey is vermeld dat de muizen eenmaal per week een (subcutane) depotinjectie kregen niet kan worden gezien als informatie die er op zou kunnen duiden dat de daarin beschreven CS-Formulering met de 250F/5C-verhouding bij een (intramusculaire) depotinjectie in mensen een goed afgifteprofiel zou geven.        
+
+
+5.3
+De overwegingen van de rechtbank dat uit onder meer Riffkin al bekend was dat twee van de co-solvents uit McLeskey namelijk benzylalcohol en benzylbenzoaat geschikt waren ook in combinatie met elkaar om een parenteraal toe te dienen steroïde (als fulvestrant) in castorolie op te lossen en dat de derde McLeskey-co- solvent ethanol een gebruikelijk oplosmiddel in (menselijke) formuleringen is kunnen niet de daaraan door haar en Sandoz verbonden – door AZ bestreden (punten 42-46 AD) – gevolgtrekking dragen dat de vakman op het spoor wordt gezet dat in McLeskey mogelijk sprake is van een geschikte formulering ook niet wanneer er met Sandoz (o.m. punt 10 PA) van uit zou worden gegaan dat die feiten niet alleen uit Riffkin volgden maar tot de algemene vakkennis behoorden. Zeker tegen de achtergrond van de in rov. 4.2(c) genoemde onvoorspelbaarheid is er immers geen reden om aan te nemen dat toepassing van bepaalde voor de oplossing van steroïden als fulvestrant in castorolie geschikte en/of gebruikelijke co-solvents ook tot niet-precipitatie of vertraagde afgifte zou leiden.  
+
+
+5.4
+
+De CS-Formulering van McLeskey bestaat voor 20% uit alcohol (10% benzylalcohol en 10% ethanol). Niet betwist is (punten 144-148 CvA: punten 144-150 PE-S) dat alcohol vanwege zijn vluchtige karakter snel zal diffunderen uit een geïnjecteerde oplossing en dat wanneer een CS-Formulering met de 250F/5C-Verhouding voor een groot percentage uit alcohol bestaat zoveel van die alcohol wegdiffundeert dat fulvestrant in de castorolie achterblijft in een (oververzadigde) concentratie die normaal gesproken te hoog is om als oplossing aanwezig te zijn zodat normaal gesproken fulvestrant neerslaat met precipitatie tot gevolg (zie rov. 1.g in fine). AZ heeft gesteld dat het alcoholpercentage van 20 zo hoog is dat de vakman het optreden van precipitatie zou verwachten. Ter onderbouwing hiervan heeft zij gewezen op [Y] I en II waarin is te lezen dat alcohol ‘snel’ uit de olie verdwijnt ‘meestal in een dag’ en dat omdat dan fulvestrant in de resterende olie boven de oplosbaarheidsgrens ligt de vakman redelijkerwijs zou verwachten dat fulvestrant uitkristalliseert en dus irritatie veroorzaakt (punt 8b van [Y] I; punten 25 en 27 van [Y] II). Naar stelling van Sandoz is het percentage van 20 weliswaar aan de hoge kant maar niet zodanig dat de vakman zich daar zorgen over zou maken (punt 74 CvA-ir/17-599; punt 149 PE-S) waarmee Sandoz kennelijk bedoelt dat het percentage van 20 niet zo hoog is dat de vakman op de prioriteitsdatum precipitatie zou verwachten. Sandoz – op wie de bewijslast in deze rust – heeft zich voor haar voormelde stelling in het bijzonder beroepen op het rapport van [Z] van 22 maart 2017 waarin deze heeft verklaard dat: 
+a. 	20% alcohol ‘fairly high’ is maar niet ‘unusually high’ (punt 23) en    
+b. 	de vakman zich over het percentage van 20 ‘in particular’ geen zorgen zou maken omdat de formulering niet een oplossing van fulvestrant in water betreft waarin ‘the alcohol is present freely and as a result dissipates fully and directly in the tissue’ maar een oplossing in olie waarin ‘the alcohol is not present freely and will not dissipate fully and directly into the tissue’ (punt 28 en de punten 29-30). 
+Aan verklaring a. is het vereiste bewijs niet te ontlenen omdat daarin juist wordt bevestigd dat zoals Sandoz zelf ook al had gesteld 20% alcohol aan de hoge kant is. Verklaring b. vermag dat bewijs niet te leveren omdat het niet afdoet aan de verklaringen van [Y] die immers niet heeft beweerd dat alcohol ‘fully and directly’ uit olie ‘dissipates’ maar alleen dat dit ‘snel’ en `meestal’ in een dag gebeurt. In de verklaring van [Z] is niet te lezen dat bij een ‘dissipation’ van alcohol die binnen een dag intreedt geen precipitatie (van betekenis) optreedt. Voormelde stelling van Sandoz – waarvoor ook geen specifiek bewijsaanbod is gedaan – is dus onbewezen gebleven zodat er in dit geding met AZ vanuit moet worden gegaan dat het in McLeskey genoemde alcoholpercentage van 20 zo hoog is dat de vakman op de prioriteitsdatum het optreden van precipitatie zou verwachten. Dit vormde een contra-indicatie om de CS-Formulering van McLeskey in beschouwing te nemen als een mogelijke (bijdrage aan de) oplossing van het onderdeel van het Stap 2-Probleem om een niet-precipiterende formulering te verkrijgen. Deze contra-indicatie komt nog bij en versterkt de in rov. 5.1 beschreven huivering van de vakman om McLeskey bij zijn zoektocht te betrekken.        
+ 
+
+
+5.5
+De omstandigheid dat de vakman precipitatie verwachtte bij toepassing van de McLeskey-formulering brengt tevens met zich dat de vakman uit de vermelding in McLeskey dat het bij daarin beschreven formulering ging om een ‘preformulated drug’ die bovendien complex is niet zal afleiden dat die oplossing ontwikkeld was voor mensen bij wie precipitatie immers moet worden voorkomen. Het andersluidende betoog van Sandoz (in o.m. punt 176 PE-S) en het andersluidende oordeel van de rechtbank kunnen niet als juist worden aanvaard.   
+
+
+5.6.
+McLeskey in samenhang bezien met de algemene vakkennis bevat zo volgt uit het onder 5.1 t/m 5.5 overwogene zelf geen incentive om daarin beschreven CS-Formulering te gaan toepassen of te gaan testen voor de oplossing van Stap 2-Probleem in kwestie. McLeskey bevat daarvoor integendeel de in rov. 5.4 vastgestelde contra-indicatie.   
+
+
+5.7
+Dat de in EP 138 vermelde gunstige effecten (niet-precipitatie en een goed afgiftepatroon) al bekend waren uit Howell vormt – anders dan Sandoz stelt (punt 27 PA) – op zichzelf beschouwd geen enkele incentive om de oplossing van het Stap 2-Probleem in kwestie te zoeken in de CS-Formulering uit McLeskey. Het was immers onvoorspelbaar welke CS-Formulering(en) tot die effecten zou(den) leiden. Hierbij is eveneens van belang dat er een contra-indicatie voor toepassing van de McLeskey-formulering bestond.     
+
+
+5.8
+Feit is nog wel dat de vakman op de prioriteitsdatum uit Howell wist dat er een CS-Formulering was waarmee de 250F/5C-Verhouding in opgeloste toestand kon worden gebracht en waarmee tevens de zo-even genoemde gunstige effecten konden worden verkregen en dat hij (na lezing van die documenten) ook wist dat zowel de Howell-formulering als de McLeskey-formulering afkomstig was van (de rechtsvoorgangster van) AZ (zie rov. 1.h alsook punt 90 PE-AZ). Kan op grond van deze omstandigheden bij de vakman het – als een incentive te beschouwen – vermoeden zijn gerezen dat de McLeskey-CS-Formulering de in Howell (bij mensen) gebruikte maar niet geopenbaarde CS-Formulering was? Het antwoord op deze vraag moet ontkennend luiden omdat – daargelaten nog of de vakman acht zou slaan op dergelijke omstandigheden van niet-technische aard en aannemend dat de vakman vanwege die omstandigheden nog eens scherper naar McLeskey zou zijn gaan kijken – hij dan zou zijn gestuit op de in rov. 5.4 besproken contra-indicatie voor gebruik van de McLeskey-formulering voor mensen en dit hem van het mogelijk bij hem gerezen vermoeden zou hebben afgebracht. Ook het beroep dat Sandoz (in o.m. punt 27 PA) op deze omstandigheden heeft gedaan gaat derhalve niet op.    
+
+
+Inventiviteit: het ‘van scratch’-argument 
+
+ 
+
+
+6.1
+Door Sandoz is verder aangevoerd (in o.m. punt 41 PA) dat niet is vol te houden dat de vakman de McLeskey-formulering ‘links’ zou ‘laten liggen’ en in plaats daarvan ‘van scratch’ een geheel nieuwe formulering zou gaan ontwikkelen: het hof zal hierna spreken van het ‘van scratch’-argument dat ook door de rechtbank is gehanteerd zie Rb-Overweging V. Tegen deze overweging is door AZ gegriefd met een betoog (in punt 27 AD) dat door het hof aldus wordt verstaan dat het ‘van scratch’-argument alleen opgaat ‘zolang’ het uitgangspunt van de vakman is dat ‘hij (…) een castorolie-formulering vindt die 50 mg/ml fulvestrant bevat’ en dus zo begrijpt het hof niet wanneer diens uitgangspunt is het vinden van een castorolie-formulering die 50 mg/ml fulvestrant bevat en die bovendien geschikt is voor de behandeling van borstkanker in mensen niet precipiteert en een goed afgifteprofiel heeft.        
+
+
+6.2
+De gedachte achter het ‘van scratch’-argument is klaarblijkelijk dat de vakman met McLeskey al een eind op weg is geholpen in zijn zoektocht naar de oplossing van het Stap 2-Probleem in kwestie aangezien hij daarmee in ieder geval al de beschikking heeft over een CS-Formulering waarin de 250F/5C-Verhouding kan worden opgelost welke CS-Formulering hij zonder McLeskey nog niet had en dus nog moest gaan ontwikkelen. Het hof constateert dat hiermee in feite wordt gezegd dat McLeskey de oplossing is van het probleem om een CS-Formulering te vinden waarin de 250F/5C-Verhouding kan worden opgelost en dat voor de oplossing van dat probleem een sterke incentive bestaat (niet ‘links laten liggen’) om McLeskey te gebruiken. Het gaat bij het ‘van scratch’-argument dus – zoals ook tot uitdrukking is gebracht in het in rov. 6.1 weergegeven betoog van AZ – welbeschouwd niet om de zoektocht naar de oplossing van het Stap 2-Probleem in kwestie maar om de zoektocht naar de oplossing van een ander probleem namelijk het door Sandoz aanvankelijk voorgestane probleem (zie rov. 4.5). Hierbij is van belang dat vanwege de in rov. 4.2 (c) genoemde onvoorspelbaarheid de oplossing van het door Sandoz aanvankelijk voorgestane probleem nog niet tot de oplossing van het Stap 2-Probleem in kwestie voert. Aangezien met het ‘van scratch’-argument een probleemstelling in de PSA wordt gebracht die daarin niet thuishoort wordt met dat argument de PSA geweld aan gedaan. Of vanuit een andere invalshoek: de incentive om McLeskey te gebruiken ter oplossing van het aanvankelijk door Sandoz voorgestane probleem vormt nog geen incentive om dat document ook te gebruiken ter oplossing van het Stap 2-Probleem in kwestie. Het ‘van scratch’-argument loopt (reeds) op dit een en ander stuk.    
+
+
+6.3
+
+Hierbij komt nog dat voor het ‘van scratch’-argument in het onderhavige geval te minder grond bestaat nu: 
+- 	er een contra-indicatie voor het toepassen of testen van de McLeskey-formulering bestond; 
+- 	McLeskey op de prioriteitsdatum niet het enige document was waarin een CS-Formulering was genoemd die de 250F/50C-Verhouding in oplossing kon brengen: ook in EP-A 014 was zo een formulering al beschreven (zie ook de rovv. 1.k en 4.3).  
+ 
+
+
+Inventiviteit: afsluitende overwegingen
+
+ 
+
+
+7.1
+
+Er zijn naast haar ‘van scratch’-argument nog andere stellingen/argumenten door Sandoz betrokken die in feite berusten op de door haar aanvankelijk voorgestane maar door het hof niet overgenomen probleemstelling. Alle aan dit manco lijdende argumenten/stellingen van Sandoz worden gepasseerd waaronder (doch niet beperkt tot) de volgende:  
+- 	in punt 34 PA: ‘de vakman vindt in McLeskey dus een oplossing voor zijn probleem: een precieze opsomming van oplosmiddelen met hun hoeveelheden waarmee je het voor elkaar krijgt de juiste hoeveelheid fulvestrant in de juiste hoeveelheid castorolie te krijgen’;    
+- 	in punt 38 PA: ‘gezien het feit dat hij met de McLeskey-formulering de oplossing voor zijn probleem heeft (…) zal de vakman die testen natuurlijk doen’. 
+ 
+
+
+7.2
+Uit het voorgaande volgt dat er in de prior art geen incentive was om McLeskey toe te passen of te testen met het oog op de oplossing van het Stap 2-Probleem in kwestie.  
+
+
+7.3
+Anders dan Sandoz meent bevond de vakman zich ten opzichte van McLeskey ook niet in een ‘try and see situation’. Daarvoor is immers vereist dat de vakman gelet op de prior art al een bepaalde stof of groep stoffen duidelijk in beeld had (‘clearly envisaged’) en vervolgens via routinetests de aanwezigheid van de gezochte eigenschap kon vaststellen (zie Case Law of the Boards of Appeal of the European Patent Office § I.D.7.2 ‘Try and see situation’). Nu een incentive voor het toepassen/testen van McLeskey ontbrak en daarvoor zelfs een contra-indicatie bestond kan niet worden gezegd dat de vakman McLeskey met de daarin beschreven formulering al duidelijk in beeld had.        
+
+
+7.4
+Omdat onder 4.2(d) is geoordeeld dat konijnenproeven voorspellende waarde hebben voor het optreden van precipitatie en het afgifteprofiel in mensen hoeft niet verder te worden ingegaan op het ‘squeeze’-argument van Sandoz (punten 62 en 69 PA) dat wanneer – in weerwil van haar andersluidende stelling (zie de eerste volzin van rov. 4.2(d) – zou worden geoordeeld dat de in EP 138 vermelde konijnenproeven geen voorspellende waarde voor mensen zouden hebben aan de plausibiliteitseis niet zou zijn voldaan en dat EP 138 dan daarom de inventiviteitsdrempel niet haalt. 
+
+
+7.5
+Alles overziend moeten de maatregelen van de conclusies 1 29 en 30 van EP 138 zoals weergegeven in rov. 1.f als inventief worden beschouwd. De tegen de Rb-Overwegingen VI t/m IX gerichte onderdelen van AZ’s grief 1 treffen doel. Sandoz heeft hoewel dat op haar weg lag niet (voldoende) concreet gesteld dat en waarom bij deze stand van zaken de overige conclusies van dat octrooi (iedere) inventiviteit zouden ontberen. De in de punten 135-148 van ID/17-599 vermelde redenen om de volgconclusies te vernietigen zijn niet steekhoudend omdat zij niet tot uitgangspunt nemen dat de hoofdconclusies 1 29 en 30 op inventieve denkarbeid berusten.        
+
+
+Overige nietigheidsargumenten
+
+ 
+
+
+8.1
+Vanwege de positieve zijde van de devolutieve werking van het appel moet nog worden ingegaan op de in de eerste aanleg gevoerde nietigheidsargumenten van Sandoz aan de behandeling waarvan de rechtbank niet is toegekomen.  
+
+
+8.2
+De eerste van deze ‘overige’ nietigheidsargumenten luidt dat EP 138 nieuwheid mist ten opzichte van McLeskey. Dit argument faalt. Uit het onder 5.1 t/m 5.5 overwogene vloeit namelijk voort dat zoals AZ heeft aangevoerd (punt 69 CvA/CvE-ir/17-599) de maatregel van EP 138 om de fulvestrant-formulering toe te passen voor de behandeling van borstkanker bij mensen in McLeskey niet is geopenbaard. Evenmin is in McLeskey de maatregel geopenbaard om dit intramusculair te doen waarbij aangetekend wordt dat de subcutane toediening (bij muizen) die in McLeskey is beschreven in technische zin verschilt van de intramusculaire toediening (bij mensen) die in EP 138 is geclaimd.         
+
+
+8.3
+Het tweede ‘overige’ nietigheidsargument is aangevoerd voor het – zich gezien rov. 8.2 voordoende – geval dat in McLeskey niet plausibel is beschreven dat de daarin vermelde formulering therapeutische werking voor mensen heeft en houdt in dat in dat geval ook de therapeutische werking van de EP-138-formulering niet aannemelijk moet worden geacht zodat dat octrooi als niet-nawerkbaar heeft te gelden (ID /17-599 onder 76 77 149 en 150). Dit argument van Sandoz strandt – net als haar andere in rov. 7.4 besproken ‘squeeze’-argument – op het onder 3.4 (d) gegeven oordeel dat de in EP 138 beschreven konijnenproeven voorspellende waarde voor mensen hebben hetgeen niet zo is bij de in McLeskey beschreven muizenproeven (zie rov. 5.2).                 
+
+
+Slotsom met betrekking tot de geldigheid van EP 138 en EP 573; NL 075 
+
+ 
+
+
+9.1
+Nu alle door Sandoz tegen EP 138 ingebrachte nietigheidsargumenten falen is haar vordering in conventie tot nietigverklaring van dat octrooi niet toewijsbaar. Sandoz gaat er blijkens o.m. punt 16 ID/17-651 en de punten 3-6 PE-S – evenals overigens AZ (zie punt 24 PE-AZ) – vanuit dat de verschillen tussen de in dit geding aan de orde zijnde octrooien niet relevant zijn voor de beoordeling van de geldigheid daarvan. Ook de vordering tot vernietiging van EP 573 is dus niet toewijsbaar waarbij nog wordt opgemerkt dat op de punten 122/123 van ID/17-651 de slotzin van  rov. 7.5 van overeenkomstige toepassing is.   
+
+
+9.2
+AZ heeft niet althans niet gemotiveerd gegriefd tegen de door de rechtbank uitgesproken verklaring voor recht dat NL 075 sinds 11 februari 2015 niet de in de artikelen 53 53a 71 en 73 ROW bedoelde rechtgevolgen heeft.    
+
+
+De inbreukvorderingen van AZ
+
+ 
+
+
+10.1
+Door Sandoz is niet betwist dat haar Fulvestrant Sandoz onder de beschermingsomvang van EP 138 en EP 537 valt. De verbodsvorderingen van AZ en de door haar gevorderde verklaringen voor recht dat Sandoz inbreuk op die octrooien heeft gemaakt liggen daarom voor toewijzing gereed met dien verstande dat Sandoz er terecht op heeft gewezen dat AZ onvoldoende heeft gesteld voor het door haar tevens gevorderde verbod tot betrokkenheid bij inbreuk zodat dat onderdeel van AZ’s verbodsvordering zal worden afgewezen.      
+
+
+10.2
+In eerste aanleg heeft Sandoz het verweer gevoerd dat zij met haar Fulvestrant Sandoz niet op de markt is geweest; het is volgens Sandoz alleen in juni 2016 in de G-standaard opgenomen geweest (punten 93 en 95 CvA-ir/17-599; punten 90 en 92 CvA-ir/17-651). Dit is door AZ noch in de eerste aanleg (zie punt 136 PE-AZ) noch in de AD weersproken. In het met het arrest van 29 mei 2018 afgesloten ‘artikel 223 Rv’-incident heeft AZ weliswaar opgemerkt dat zij er vanuit ging dat Sandoz per 1 juni 2018 met haar fulvestrant de Nederlandse markt zou betreden doch bij het op 11 oktober 2018 gehouden pleidooi in de hoofdzaak heeft zij niet gesteld dat dit daadwerkelijk is gebeurd. Het moet er daarom voor worden gehouden dat Fulvestrant Sandoz in Nederland nimmer op de markt is geweest. Gelet hierop zijn zoals Sandoz heeft betoogd AZ’s recall-vordering en haar vorderingen tot het doen van opgave van de afnemers en van de genoten winst niet toewijsbaar en evenmin haar vordering tot schadevergoeding op te maken bij staat. Hoewel dat op haar weg lag heeft AZ immers niet toegelicht waarom gegeven het uitgangspunt dat Fulvestrant Sandoz nooit is verhandeld de mogelijkheid dat zij schade heeft geleden toch aannemelijk moet worden geacht. AZ’s vordering tot vernietiging van de inbreukmakende producten is niet bestreden en zal daarom worden toegewezen. De hoogte en modificaties van de gevorderde dwangsommen zullen – mede naar aanleiding van hetgeen Sandoz te dien aanzien naar voren heeft gebracht (punt 94 CvA-ir/17-599; punt 91 CvA-ir/17-651) – worden vastgesteld en gemaximeerd als in het dictum te vermelden waarbij wordt opgemerkt dat de maximering alleen betrekking heeft op het vernietigingsbevel en niet op het inbreukverbod.               
+
+
+Slotsom
+
+ 
+
+
+11.1
+Het bestreden vonnis zal gezien het onder 9.2 10.1 en 10.2 overwogene worden bekrachtigd ten aanzien van de daarin uitgesproken verklaring voor recht dat NL 075 sinds 11 februari 2015 niet de in de artikelen 53 53a 71 en 73 ROW bedoelde rechtgevolgen heeft en de afwijzing van AZ’s inbreukvorderingen in reconventie met betrekking tot ‘betrokkenheid’ de opgave van afnemers en de genoten winst de recall en schadevergoeding op te maken bij staat.   
+
+
+11.2
+Voor het overige zal zo volgt uit het voorgaande het bestreden vonnis worden vernietigd onder alsnog afwijzing van vernietigingsvorderingen van Sandoz in conventie en alsnog toewijzing van AZ’s overige inbreukvorderingen in reconventie met veroordeling van Sandoz (als de grotendeels in het ongelijk gestelde partij) in de kosten van de procedure(s) in beide instanties te begroten op de bedragen die partijen daarvoor zijn overeengekomen te weten € 175.000- voor de eerste aanleg en € 140.000- voor het hoger beroep.     
+
+
+
+Beslissing 
+
+Het gerechtshof: 
+ 
+- bekrachtigt het tussen partijen gewezen vonnis van de rechtbank Den Haag van 11 april 2018 doch uitsluitend voor zover daarin voor recht is verklaard dat NL 075 sinds 11 februari 2015 niet de in de artikelen 53 53a 71 en 73 ROW bedoelde rechtgevolgen heeft en voor zover daarin AZ’s inbreukvorderingen in reconventie met betrekking tot ‘betrokkenheid’ de opgave van afnemers en de genoten winst de recall en schadevergoeding op te maken bij staat zijn afgewezen;  
+- vernietigt dat vonnis voor het overige en te dien aanzien opnieuw rechtdoende:  
+
+*	verbiedt Sandoz om in Nederland inbreuk te maken op de Europese octrooien EP (NL) 1 250 138 B2 en EP 2 266 573 onder meer door het in het verkeer brengen verder verkopen afleveren of anderszins verhandelen of voor dit een en ander (verder) aanbieden van generieke “Fulvestrant Sandoz 50 mg/ml oplossing voor injectie in een voorgevulde spuit” of andere fulvestrant formuleringen die onder de beschermingsomvang van genoemde octrooien vallen en veroordeelt Sandoz om een dwangsom te betalen van € 100.000- voor iedere overtreding van dit verbod dan wel ter keuze van AZ een dwangsom van € 10.000- per kilogram van het betrokken product of per dag (een gedeelte van een dag voor een gehele gerekend) dat de overtreding na betekening van dit arrest voortduurt;  
+ 
+
+* 	beveelt Sandoz om binnen twee weken na betekening van dit arrest de hiervoor bedoelde “Fulvestrant Sandoz”- producten die nog in voorraad zijn evenals de teruggezonden producten (binnen twee weken na ontvangst hiervan) en voorts alle brochures en andere promotiemiddelen voor die producten te vernietigen en om AZ binnen drie weken na de vernietiging deugdelijk bewijs te verschaffen dat die vernietiging volledig en tijdig heeft plaatsgevonden en veroordeelt Sandoz om een dwangsom te betalen van 
+€ 10.000- bij iedere niet-nakoming van deze bevelen dan wel ter keuze van AZ een dwangsom van € 10.000- per kilogram van het betrokken product of per dag (een gedeelte van een dag voor een gehele gerekend) dat de niet-nakoming voortduurt en bepaalt dat – uitsluitend naar aanleiding van niet-nakoming van deze bevelen – boven het bedrag van € 1.000.000- geen dwangsommen meer worden verbeurd; 
+ 
+
+* 	wijst af het door AZ in reconventie meer of anders gevorderde; 
+ 
+
+* 	wijst af de vorderingen van Sandoz in conventie; 
+ 
+
+* 	veroordeelt Sandoz in de kosten van de gedingen in de eerste aanleg aan de zijde van AZ begroot op € 175.000-;    
+ 
+- veroordeelt Sandoz in de kosten van het hoger beroep aan de zijde van AZ begroot op € 140.000-; 
+- verklaart dit arrest ten aanzien van de verboden de bevelen en de veroordelingen uitvoerbaar bij voorraad.  
+
+Dit arrest is gewezen door mrs. M.Y. Bonneur J.W. Frieling en M.W.D. van der Burg; het is uitgesproken ter openbare terechtzitting van 27 november 2018 in aanwezigheid van de griffier.
+
+

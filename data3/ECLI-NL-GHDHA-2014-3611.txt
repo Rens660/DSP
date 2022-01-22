@@ -1,0 +1,744 @@
+
+
+GERECHTSHOF DEN HAAG  
+Afdeling Civiel recht 
+
+Zaaknummer	: 200.141.272/01
+ 
+
+Zaaknummer rechtbank	: C/09/452370 / KG ZA 13-1160
+ 
+
+
+arrest van 18 november 2014
+
+ 
+
+inzake
+ 
+
+de vennootschap naar buitenlands recht
+
+NOVARTIS AG
+gevestigd te Basel Zwitserland
+appellant
+advocaat: mr. D. Knottenbelt te Rotterdam.
+ 
+
+tegen 
+ 
+
+
+
+1 de vennootschap naar buitenlands recht
+
+
+ALVOGEN IPCO S.a.r.l.
+gevestigd te Senningerberg Luxemburg
+
+2. de besloten vennootschap met beperkte aansprakelijkheidFOCUS FARMA B.V.
+gevestigd te Koog aan de Zaan
+geïntimeerden
+advocaat: mr. M.H.J. van den Horst te Den Haag.
+ 
+
+Partijen zullen worden aangeduid als enerzijds “Novartis” en anderzijds “Alvogen e.a.” respectievelijk geïntimeerden afzonderlijk “Alvogen” of “Focus Farma”.
+ 
+
+
+
+1 De procedure
+Bij exploot van 20 januari 2014 is Novartis in hoger beroep gekomen van een door de voorzieningenrechter in de rechtbank Den Haag tussen partijen gewezen vonnis van 23 december 2013. Novartis heeft bij dat exploot zes grieven aangevoerd en producties ingediend. Bij conclusie van antwoord in hoger beroep met producties hebben Alvogen e.a. geconcludeerd tot bevestiging van het bestreden vonnis met kosten conform 1019h Rv1. Bij voorafgaand aan het pleidooi gestuurde akte heeft Novartis nadere producties overgelegd. Ook Alvogen e.a. hebben nog een akte houdende overlegging producties ingestuurd alsmede per brief van 17 september 2014 een aanvullend proceskostenoverzicht. Ter zitting van 19 september 2014 is de zaak namens Novartis bepleit door mrs. R.M. Kleemans en A.A.A.C.M. van Oorschot advocaten te Amsterdam en namens Alvogen e.a. door mrs. M.H.J. van den Horst voornoemd en mr. C. Zeri advocaten te Den Haag. Novartis is daarbij bijgestaan door octrooigemachtigde drs. K.M.L. Bijvank Alvogen e.a. door octrooigemachtigde dr. R. Raggers. Van de zitting is proces-verbaal opgemaakt. Vervolgens is arrest bepaald op heden. 
+
+
+
+2 De feiten
+De vaststelling van de feiten door de voorzieningenrechter in het vonnis van 23 december 2013 is niet bestreden. Ook het hof zal daar van uitgaan. De feiten zijn de volgende. 
+
+2.1.
+Rivastigmine is een actief bestanddeel dat in de vorm van pleisters voor transdermaal gebruik (hierna ook te noemen: transdermal therapeutic system afgekort TTS) kan worden toegediend bij het voorkomen behandelen of vertragen van de progressie van dementie of de ziekte van Alzheimer. Toediening van rivastigmine kan leiden tot bijwerkingen zoals misselijkheid en overgeven. 
+
+
+2.2.
+Bij de behandeling wordt aanvankelijk een niet werkzame dosis rivastigmine aan de patiënt toegediend. Deze wordt stapsgewijs verhoogd tot de hoogst getolereerde dosering welke patiënt afhankelijk is. Als een volgende dosering resulteert in onaanvaardbare bijwerkingen wordt de dosering verlaagd. Het proces van het geleidelijk aanpassen van de dosering wordt titratie genoemd.  
+
+
+2.3.
+Novartis is een wereldwijd opererend farmaceutisch bedrijf. Voor de prioriteitsdatum van het hierna te noemen octrooi werd rivastigmine uitsluitend oraal toegediend in de vorm van een twee maal daags in te nemen capsule met een (niet werkzame) aanvangsdosis van 15 mg rivastigmine. Deze capsules worden door Novartis op de markt gebracht onder de merknaam Exelon.  
+
+
+2.4.
+Novartis is een van de houdsters van het Europese octrooi EP 2 292 219 (hierna ook: EP 219 of het octrooi) voor een "Transdermal therapeutic system for the administration of rivastigmine" verleend op een aanvrage van 10 oktober 2006 met een beroep op het prioriteitsdocument US 741511 en de prioriteitsdatum 1 december 2005. EP 219 is – onder meer in Nederland – van kracht met ingang van 12 juni 2013. Tegen de verlening van EP 219 is door verschillende partijen oppositie ingesteld.  
+
+
+2.5.
+De (oorspronkelijke) Engelse tekst van conclusie 1 van EP 219 - de enige conclusie die het octrooi als verleend telt - luidt als volgt. 
+
+1. Rivastigmine for use in a method of preventing treating or delaying progression of dementia or Alzheimer's disease wherein the rivastigmine is administered in a TTS and the starting dose is that of a bilayer TTS of 5 cm2 with a loaded dose of 9mg rivastigmine wherein one layer: 
+
+
+has a weight per unit area of 60 g/m2 and the following composition:  
+
+
+-
+
+rivastigmine free base  	 	 	30.0 wt % 
+
+
+-
+
+Durotak®387-2353(polyacrylate adhesive)	49.9 wt % 
+
+
+-
+
+Plastoid®B (acrylate copolymer)  		20.0 wt % 
+
+
+-
+
+Vitamin E 	 	 	 	 	  0.1 wt% 
+
+
+
+
+and wherein said layer is provided with a silicone adhesive layer having a weight per unit area of 30 g/m2 according to the following composition: 
+
+
+- Bio-PSA® Q7-4302 (silicone adhesive)  	98.9 wt % 
+
+
+-
+
+Silicone oil  	 	 	 		1.0. wt % 
+
+
+-
+
+Vitamin E  	 	 	 		0.1. wt % 
+
+
+
+
+
+2.6.
+De (onbestreden) Nederlandse vertaling van conclusie 1 luidt: 
+
+1. Rivastigmine voor toepassing in een werkwijze voor het voorkomen behandelen of vertragen van de progressie van dementie of de ziekte van Alzheimer waarbij rivastigmine wordt toegediend in een TTS en de aanvangsdosis die is van een dubbellaag-TTS van 5 cm2 met een geladen dosis van 9 mg rivastigmine waarbij één laag: 
+
+
+een gewicht per oppervlakte-eenheid van 60 g/m2 en de volgende samenstelling heeft: 
+
+
+-
+
+rivastigmine vrije basis   	 			300gew.% 
+
+
+-
+
+Durotak® 387-2353 (polyacrylaat-hechtmiddel)   	499gew.% 
+
+
+-
+
+Plastoid® B (acrylaat-copolymeer)  			200gew.% 
+
+
+-
+
+Vitamine E  	 	 	 			  01gew.% 
+
+
+
+
+en waarbij de genoemde laag is voorzien van een silicone-hechtlaag met een gewicht per oppervlakteeenheid van 30 g/m2 volgens de volgende samenstelling: 
+
+
+-
+
+Bio-PSA® Q7-4302 (silicone-hechtmiddel)   989gew.% 
+
+
+-
+
+Siliconenolie     					 10gew.% 
+
+
+-
+
+ Vitamine E     		  			 01gew.%. 
+
+
+
+
+
+2.7.
+EP 219 is verleend op een aanvrage met nummer 10179085.5 welke aanvrage is afgesplitst van de aanvrage met nummer 06816633.9 in vervolg op de internationale aanvrage PCT/US2006/039557 gepubliceerd als WO 2007/064407 (hierna: WO 407). WO 407 telt 26 conclusies: 
+
+1. A Transdermal Therapeutic System (TTS) comprising 
+
+a. a) a backing layer 
+
+b) a reservoir layer comprising one or more pharmaceutically active ingredients and one or more polymers 
+
+
+c) an adhesive layer comprising a silicone polymer and a tackifier. 
+ 
+
+(…)
+ 
+
+15. A TTS comprising as active ingredient rivastigmine in free base or pharmaceutically acceptable salt form and providing a maximum plasma concentration of about 1 to 30 ng/ml from a mean of about 2 to 16 hours after application . 
+ 
+
+16. A TTS comprising as active ingredient rivastigmine in free base or pharmaceutically acceptable salt form and providing a maximum plasma concentration of about 2.5 to 20 ng/ml from a mean of about 4 to 12 hours after application . 
+ 
+
+17. A TTS comprising as active ingredient rivastigmine in free base or pharmaceutically acceptable salt form and having an AUC24h of about 25 to 450 ng*h/ml after repeated once daily administration. 
+ 
+
+18. A TTS comprising as active ingredient rivastigmine in free base or pharmaceutically acceptable salt form and an having an AUC24h of about 45 to 340 ng*h/ml after repeated once daily administration. 
+ 
+
+19. A TTS according to any of claims 1 to 14 comprising as active ingredient rivastigmine and Memantine. 
+ 
+
+20. A process for manufacturing a TTS according to any of the preceding claims comprising the steps of 
+
+a. a) manufacturing of the active ingredient in adhesive solution 
+
+b) coating of the active ingredient in adhesive solution 
+
+
+c) drying of the active ingredient in adhesive solution 
+
+
+d) manufacturing of the silicone adhesive solution 
+
+
+e) coating of the silicone adhesive solution 
+
+
+f) laminating of the silicone adhesive layer to the drug in adhesive layer 
+
+
+g) Punching and Pouching . 
+ 
+
+21. A method for the prevention treatment or delay of progression of Alzheimer's disease in a subject in need of such treatment which comprises administering to said subject a therapeutically effective amount of a TTS according to any of claims 1 to 17 
+ 
+
+22. A method for the prevention treatment or delay of progression of dementia associated with Parkinson's disease in a subject in need of such treatment which comprises administering to said subject a therapeutically effective amount of a TTS according to any of claims 1 to 17 
+ 
+
+23. A method for the prevention treatment or delay of progression of symptoms of traumatic brain injury in a subject in need of such treatment which comprises administering to said subject a therapeutically effective amount of a TTS according to any of claims 1 to 17. 
+ 
+
+24. A method for the prevention treatment or delay of progression of Down's syndrome in a subject in need of such treatment which comprises administering to said subject a therapeutically effective amount of a TTS according to any of claims 1 to 17. 
+ 
+
+25. A method for the prevention treatment or delay of progression of post operative delirium in a subject in need of such treatment which comprises administering to said subject a therapeutically effective amount of a TTS according to any of claims 1 to 17. 
+ 
+
+26. Use of a TTS according to any of claims 1 to 17 for prevention treatment or delay of progression of Alzheimer's disease dementia associated with Parkinson's disease symptoms of traumatic brain injury.
+ 
+
+
+2.8.
+In de beschrijving van WO 407 zijn onder meer de volgende passages opgenomen.  
+p. 1-3: 
+
+Transdermal Therapeutic System
+ 
+
+
+The present invention relates to Transdermal Therapeutic Systems comprising a backing layer a reservoir layer and an adhesive layer to Transdermal Therapeutic Systems having specific release profiles to their manufacture and use.
+
+ 
+
+
+Transdermal Therapeutic Systems (TTS) and their manufacture are generally known in the art. EP 1047409 discloses a TTS containing rivastigmine and an antioxidant. GB 2203040 discloses a TTS containing rivastigmine and a hydrophilic polymer.
+
+ 
+
+
+These TTS have valuable properties. However there is a need for further TTS showing improved properties. In particular there is a need to provide TTS to improve compliance adhesion tolerability and / or safety.
+
+ 
+
+
+Thus it is an aim of the present invention to provide TTS with improved compliance adhesion tolerability a and / or safety properties.
+
+ 
+
+
+It is a further objective of the present invention to provide a TTS that has a relatively large amount of active ingredient and has an adhesive force to ensure safe application over the entire application period.
+
+ 
+
+
+It is a further objective of the present invention to provide a TTS that has a relatively large amount of active ingredient without having an inadequately large expanse.
+
+ 
+
+
+It is a further objective of the present invention to provide a TTS that shows improved adhesive properties without changing the release profile of the active ingredient.
+
+ 
+
+
+It is a further objective of the present invention to provide a method of treatment and controlled-release formulation(s) that substantially improves the efficacy and tolerability of rivastigmine.
+
+ 
+
+
+It is a further objective of the present invention to provide a method of treatment and controlled-release formulation(s) that substantially reduces the time and resources needed to administer rivastigmine for therapeutic benefit.
+
+ 
+
+
+It is a further objective of the present invention to provide a method of treatment and
+
+
+controlled-release formulation(s) that substantially improves compliance with rivastigmine
+
+
+therapy.
+
+ 
+
+
+It is a further objective of the present invention to provide a method of treatment and
+
+
+controlled-release formulation(s) that have substantially less inter-individual variation with
+
+
+regard to plasma concentrations of rivastigmine required to produce a therapeutic benefit
+
+
+without unacceptable side effects.
+
+ 
+
+
+This is achieved by a TTS as defined in claim 1 and depending claims.
+
+[…]
+
+Tests with active ingredients for the treatment of Alzheimer's disease have surprisingly shown that a line of silicone adhesive can be applied to a poorly adhesive reservoir matrix thus significantly increasing the adhesive properties of the preparation without affecting the thermodynamic properties of the TTS i.e. without reducing the release of active ingredient from the matrix and its permeation through the skin.
+
+ 
+
+
+The findings of the tests on transdermal application of active ingredients for the treatment of Alzheimer's disease carried out by the applicant can of course be transferred to other groups of active ingredients. It can therefore be stated in general that for many active ingredients an increasing proportion of active ingredient in the adhesive polymer matrix of the TTS significantly reduces the adhesive properties of the TTS if said active ingredients are solid at room temperature. Usually if the active ingredients are in a liquid state at room temperature large amounts of so-called "thickening polymers" (e.g. cellulose or polyacrylate derivatives) have to be added in order to achieve mechanical processability of the polymers which results also in a reduction of adhesive properties
+
+ 
+
+
+The present invention provides TTS comprising a backing layer a reservoir layer containing at least one active ingredient and a polymer an adhesive layer comprising a silicone polymer and a tackifier.
+
+ 
+
+
+A TTS according to the invention shows improved adhesive properties. Further and very surprisingly the so obtained TTS has essentially the same release profile when compared with a standard TTS.
+
+[…]
+
+A TTS according to the invention quite surprisingly shows improved tolerability particularly gastrointestinal adverse events such as nausea and vomiting relative to equivalent levels of exposure (AUC24h) of Exelon® capsule.  
+
+[...] 
+ 
+p. 8 alinea 2-4:
+
+In a further aspect the invention provides a TTS which incorporates as active agent a cholinesterase inhibitor in free or pharmaceutically acceptable salt form for use in the prevention treatment or delay of progression of dementia.
+ 
+
+
+In a further aspect the invention provides a method for the prevention treatment or delay of progression of dementia associated with Parkinson's disease in a subject in need of such treatment which comprises administering to said subject a therapeutically effective amount of a TTS which incorporates as active agent a cholinesterase inhibitor in free or pharmaceutically acceptable salt form.
+
+ 
+
+
+ In a further aspect the invention provides a method for the prevention treatment or delay of progression of Alzheimer's disease in a subject in need of such treatment which comprises administering to said subject a therapeutically effective amount of a TTS which incorporates as active agent a cholinesterase inhibitor in free or pharmaceutically acceptable salt form. 
+
+[...]  
+ 
+p. 10:  
+
+[…]
+
+The exact amounts of active agent doses and of the ITS to be administered depend on a number of factors e.g. the condition to be treated the desired duration of treatment and the rate of release of active agent.  
+
+ 
+
+
+For example the amount of the active agent required and the release rate thereof may be determined on the basis of known in vitro or in vivo techniques determining how long a particular active agent concentration in the blood plasma remains at an acceptable level for a therapeutic effect. 
+
+ 
+p. 11: 
+
+The TTS of the invention allows e.g. the manufacture of once a day pharmaceutical forms for patients who have to take more than one dose of an active agent per day e.g. at specific times so that their treatment is simplified. With such compositions tolerability of rivastigmine may be improved and this may allow a higher starting dose and a reduced number of dose titration steps.
+ 
+
+
+An increased tolerability of rivastigmine provided by the compositions may be observed in standard animal tests and in clinical trials  
+
+ 
+
+
+2.9.
+WO 407 bevat op p. 12 e.v onder meer de navolgende voorbeelden van de geclaimde uitvinding.  
+
+
+I. TTS Production 
+
+ 
+
+
+The following exemplary tests were conducted using the cholinesterase inhibitor rivastigmine present in form of its free base. For the tests the following two TTSs were produced: 
+
+ 
+
+
+TTS #1: Substrate portions with a weight per unit area of 60 g/m2 having the following composition were produced:  
+
+
+rivastigmine (free base)   	 		30.0 wt-% 
+
+
+Durotak ®387-2353 (polyacrylate adhesive)	49.9. wt-%
+
+
+Plastoid® B (acrylate copolymer)		20.0 wt-% 
+
+
+Vitamine E  	 	 	 		0.1 wt-%  
+
+ 
+
+
+TTS #2: Substrate portions were produced in the form of a bilayer one layer of said bilayer corresponding to ITS #1. Said layer is provided with a silicone adhesive layer having a weight per unit area of 30g/m2 according to the following composition:  
+
+
+Bio-PSA® Q7-4302 (silicone adhesive)  		98.9 wt-% 
+
+
+Silicone oil  	 	 	 		1.0 wt-% 
+
+
+Vitamine E 	 	 	 	 	0.1 wt-% 
+
+
+The saturation solubility of rivastigmine in form of its free base in the silicone adhesive is about 5%-wt.  
+
+ 
+
+
+ II. Determination of adhesive force
+
+ 
+
+
+The adhesive force of both TTSs was determined by methods known to persons skilled in the art taking into consideration the following details:
+
+ 
+
+[…]
+
+For both TTSs the adhesive forces shown in Figure 1 were obtained. The chart of Figure 1 clearly shows that coating the acrylate adhesive matrix with a silicone adhesive layer significantly increases its adhesive force.
+
+ 
+
+
+rivastigmine in the form of its free base is liquid at room temperature. It was therefore necessary to add a "thickening polymer" (Plastoid®) B) when incorporating 30%-wt. of active ingredient. A substrate with low adhesive force is thus obtained. When using an additional silicone adhesive layer the adhesive force is about five times that of a comparable TTS without additional silicone adhesive layer.
+
+ 
+
+
+III.  Permeation properties
+
+ 
+
+
+In order to determine whether the application of an additional silicone adhesive layer affects active ingredient release the permeation of rivastigmine through full-thickness human skin and EVA membranes was tested for both TTSs. 
+
+[…]
+
+Said results illustrate that practically no differences with regard to permeation rates of rivastigmine present in the form of its free base through human skin were observed between the two TTSs (Figure 2). The slight differences are likely to be due to the use of a biological material like skin and could be explained by local skin variations like for example microlesions or hair follicles.
+
+[…]
+
+Surprisingly the application of the additional silicone adhesive layer has no influence on active ingredient permeation through the skin.
+
+ 
+
+
+According to the present invention TTSs having significantly higher adhesive force while retaining their original size can therefore be produced.
+
+ 
+
+
+IV. Pharmacokinetic properties 
+
+ 
+
+
+An open-label parallel-group. four-period ascending dose-proportionality study evaluating TTS#2 5 cm2 10 cm2 15 cm2 and 20 cm2 and 1.5 mg 3 mg 4.5 mg and 6 mg BID
+2
+ Exelon® capsules at steady state in patients with mild-to-moderate Alzheimer's disease was conducted.  
+
+ 
+
+
+Patients diagnosed with mild to moderate Alzheimer's Disease were randomized to either TTS#2 or capsule treatment. The criteria for inclusion were: male or female (non-child-bearing potential) patients 50-85 years of age who fulfill the (DSM-IV) criteria for dementia of the Alzheimer's type. Patients should have been diagnosed with probable AD according to NINCDS - ADRDA criteria with a MMSE score of 10-26 (both inclusive) and no other medical conditions that could impact study results.  
+
+ 
+
+
+Based on previous experience in clinical trials 14-day titration steps were implemented for this study.  
+
+ 
+
+
+At the time of this analysis the following number of patients completed each of the four periods and were included in the pharmacokinetic evaluation: 
+
+ 
+
+
+
+
+
+
+
+The pharmacokinetics of rivastigmine were investigated after both treatments on the last day of each titration period except on highest doses when it is investigated on third day of titration (in order not to miss plasma samplings in case of early drop-outs due to poorer tolerability). Plasma samples were analyzed for rivastigmine using LC-MS/MS with a lower limit of quantification (LLOQ) of 0.2 ng/mL. Standard non compartmental pharmacokinetic parameters were derived from the individual plasma concentration-time profiles using WinNonlin Pro.  
+
+ 
+
+
+The pharmacokinetic parameters of rivastigmine are summarized in Table 1 (capsule treatment) and Table 2 (TTS#2 treatment). The mean (± SD) plasma concentration-time profiles are displayed in Figure 4. 
+
+ 
+
+
+During the application of TTS#2 a rivastigmine plateau concentration was achieved at a Median tmax of 8.0 h for all TTS sizes. Exposure also increased over-proportionally with increasing doses as displayed in Table 3 but to a lesser extent than with the capsule in particular for AUC24h.  
+
+ 
+
+
+The inter-subject variability as assessed by the coefficients of variation (CVs) for the exposure parameters of rivastigmine (Cmax and AUC24h) was generally lower after the patch (CVs of 33-48%) as compared to the oral administration (CVs of 39-68%). 
+
+ 
+
+
+V. Pharmacologic properties 
+
+ 
+
+
+TTS#2 shows improved pharmacological properties when compared with a capsule formulation as shown in standard animal test and in clinical trials.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+[…]
+ 
+
+
+2.10.
+De hier weergegeven inhoud van WO 407 is ook opgenomen in de afgesplitste Europese aanvrage.  
+
+
+2.11.
+Sinds 2007 brengt Novartis pleisters met rivastigmine op de markt eveneens onder de merknaam Exelon die volgens Novartis onder de beschermingsomvang van het octrooi vallen.  
+
+
+2.12.
+Op 12 maart 2013 heeft Alvogen marktvergunningen verkregen voor Nederland met betrekking tot generieke rivastigminepleisters. Focus Farma is producent en leverancier van de generieke pleisters onder de merknaam Permente. Alvogen heeft deze generieke rivastigminepleisters doen opnemen in de zogenaamde G-standaard. 
+
+
+
+
+3 De procedure in eerste aanleg 
+
+3.1.
+Novartis vorderde in eerste aanleg dat de voorzieningenrechter bij vonnis voor zoveel mogelijk uitvoerbaar bij voorraad Alvogen e.a. verbiedt inbreuk te maken op het Nederlandse deel van EP 219 in het bijzonder door het produceren verhandelen distribueren importeren of op voorraad houden in Nederland van generieke rivastigmine-pleisters op straffe van een dwangsom en met hoofdelijke veroordeling van Alvogen e.a. in de volledige proceskosten overeenkomstig artikel 1019h Rv en met een bepaling van een termijn als bedoeld in artikel 1019i Rv.  
+
+
+3.2.
+De voorzieningenrechter heeft bij vonnis van 23 december 2013 de vorderingen van Novartis afgewezen. Hij oordeelde daarbij kort gezegd dat het octrooi toegevoegde materie bevatte en er zodoende een gerede kans was dat het de oppositie procedure dan wel een in te stellen nietigheidsprocedure niet zou overleven. Van dit oordeel is Novartis in beroep gekomen.   
+
+
+
+
+4 De beoordeling in hoger beroep 
+
+
+Rechtsmacht/(internationale) bevoegdheid 
+
+ 
+
+4.1.
+Het hof stelt ambtshalve vast dat het bevoegd is van de vorderingen kennis te nemen nu de procedure de gestelde inbreuk betreft op het Nederlands deel van een Europees Octrooi.  
+
+
+Spoedeisendheid 
+
+ 
+
+
+4.2.
+Met de voorzieningenrechter welk oordeel Alvogen e.a. ook niet hebben betwist stelt het hof vast dat sprake is van een spoedeisend belang van Novartis bij haar vorderingen.  
+
+
+Geldigheid EP 219 
+
+ 
+
+
+4.3.
+Met de grieven 1-5 neemt Novartis stelling tegen het oordeel van de voorzieningenrechter dat in strijd met artikel 123 lid 2 EOV3 en artikel 75 lid 1 onder c ROW4 in het verleende octrooi ten opzichte van WO 407 materie is toegevoegd.  
+
+
+4.4.
+Ter verduidelijking zal eerst de door Novartis gewenste uitleg van de conclusie worden weergegeven. Alvogen e.a. hebben hun argument dat sprake is van toegevoegde materie in wezen op die lezing gebaseerd (zie met name nrs. 66 en 67 conclusie van antwoord in hoger beroep). Die  uitleg van Novartis (hierna ook aan te duiden met de “ruime lezing”) is als volgt (pleitnota in beroep nr. 4): 
+
+
+
+
+a
+
+
+
+Rivastigmine
+
+
+
+
+
+b
+
+
+
+voor toepassing in een werkwijze voor het voorkomen behandelen of vertragen van de progressie van dementie of de ziekte van Alzheimer
+
+
+
+
+
+c
+
+
+
+waarbij rivastigmine wordt toegediend in een TTS
+
+
+
+
+
+d
+
+
+
+en de aanvangsdosis die is van een [referentie pleister].
+
+
+
+
+
+4.5.
+Novartis stelt dus in feite dat iedere rivastigmine TTS tegen dementie of Alzheimer die een aanvangsdosis afgeeft gelijk aan de aanvangsdosis als afgegeven door de “referentiepleister” (dat is in wezen TTS#2) onder het octrooi valt. Aldus gelezen levert de conclusie naar voorlopig oordeel toegevoegde materie op. Het hof overweegt daartoe als volgt. 
+
+
+4.6.
+Het hof gaat er in het navolgende veronderstellenderwijs met Novartis van uit dat WO 407 voldoende direct en ondubbelzinnig een aanvangsdosering openbaart. Naar luid van WO 407 is de daarin neergelegde uitvinding gericht op een TTS voor (bij voorkeur) rivastigmine dat is voorzien van een speciale “adhesive layer”. Die kleeflaag maakt het mogelijk dat de pleister voldoende blijft plakken ondanks de afname in kleefkracht vanwege een hoge dosering van rivastigmine dat als vrije base ook nog eens vloeibaar is bij kamertemperatuur. Verwezen wordt naar de hiervoor in r.o. 2.8 en 2.9 opgenomen passages uit de beschrijving. Vooral de laatste twee alinea’s van p. 2 overlopend in pagina 3 van WO 407 beschrijven deze gedachte van de uitvinders. De speciale kleeflaag die als oplossing van de afgenomen kleefkracht bij toename van de dosering wordt gepresenteerd wordt in de eerste alinea van p. 3 van WO 407 omschreven als “an adhesive layer comprising a silicone polymer and a tackifier [kleefkrachtversterker hof]”. In lijn daarmee schrijft de eerste conclusie van WO 407 voor dat de TTS voorzien moet zijn van een dergelijke kleeflaag “comprising a silicone polymer and a tackifier”. Dit een en ander strookt voorts met de passage op p. 11 van WO 407 de enige plaats in WO 407 waar de term aanvangsdosering (“starting dose”) wordt gebezigd en waar tevens het voordeel wordt gesteld dat deze hoger kan worden gekozen waardoor minder titratiestappen nodig zijn. Het is ook de passage waarin Novartis bij uitstek basis ziet voor de aanvangsdosering volgens conclusie 1 van het octrooi (in combinatie overigens met voorbeeld IV dat basis biedt voor de kenmerken van de “referentiepleister” TTS#2). Onmiskenbaar verwijst in bedoelde passage op p. 11 van WO 407 “such compositions” naar TTS-samenstellingen volgens de uitvinding. Desgevraagd is ter zitting in beroep door Novartis aangegeven dat dit door het gebruik van de meervoudsvorm niet kan slaan op slechts TTS#2 (zoals Alvogen e.a. willen) maar juist ook op de andere in conclusie 1 van WO 407 geclaimde TTS-samenstellingen. Het hof houdt die interpretatie van Novartis inderdaad voor de meest logische. Een gemiddelde vakman zal evenwel uit die passage tevens logischerwijs afleiden dat het een TTS volgens de in WO 407 neergelegde uitvinding is die hem in staat stelt de hogere aanvangsdosis (met snellere titratie) toe te passen. Die TTS volgens de uitvinding is volgens de beschrijving (zie met name p. 2 3e alinea: “This is achieved by a TTS as defined in claim 1 and depending claims.”) en conclusie 1 van WO 407 uitgerust met een kleeflaag die een siliconen polymeer alsmede een tackifier bevat. 
+
+
+4.7.
+Anders gezegd een gemiddelde vakman zal niet direct en ondubbelzinnig uit de aanvraag kunnen afleiden hoe hij een TTS met een verhoogde aanvangsdosis kan maken zonder daarbij een kleeflaag als bedoeld in WO 407 toe te passen. Uit voormelde passages van WO 407 leidt hij immers af dat die kleeflaag nodig is om hoge doses in een pleister te kunnen verwerken zonder dat – eenvoudig gezegd – de pleister er tijdens de behandeling af valt. Voor zover Novartis derhalve haar conclusie wil lezen op een pleister zonder die kleeflaag van een siliconen polymeer met tackifier maar die wel genoeg plakt voor een behandeling zal de gemiddelde vakman een dergelijke pleister niet in WO 407 kunnen lezen noch deze daaruit voldoende direct en ondubbelzinnig kunnen afleiden onder gebruikmaking van zijn algemene vakkennis. De mening van de gemiddelde vakman zal verder worden versterkt doordat iedere klinische proefneming (op patiënten) met een pleister zonder de speciale kleeflaag (maar met de hoge aanvangsdosis) voor de behandeling van patiënten met Alzheimer of dementie – zoals wel voor TTS#2 en de capsule zie voorbeeld IV – in de aanvrage (en overigens ook in het octrooi) ontbreekt. 
+
+
+4.8.
+Zelfs als zodoende de stelling van Novartis gevolgd zou moeten worden dat er sprake is van twee uitvindingen in WO 407 te weten enerzijds een TTS met speciale kleeflaag en anderzijds een (willekeurige) TTS met verhoogde aanvangsdosis (volgens Novartis leidend tot een inventief doseringsregime) dan  zal de gemiddelde vakman na lezing van WO 407 onderkennen dat die uitvindingen een technisch verband hebben. Een gemiddelde vakman weet na bestudering van WO 407 niet hoe hij de tweede uitvinding kan bereiken zonder toepassing van de eerste. Er wordt hem immers geen enkele manier geopenbaard hoe hij toch zonder de eerste uitvinding zou kunnen niet expliciet maar ook niet impliciet op directe en ondubbelzinnige wijze. De verwijzingen van Novartis (en haar deskundigen Frijlink en Fahr) naar onder meer paragrafen 1 6 en 8 op pagina 1 paragrafen 2-4 van pagina 8 (zie r.o. 2.8) en conclusies 15-18 en 21 (r.o. 2.7) van WO 407 waaruit zij een doseringsregime zonder structurele beperkingen aan de TTS (lees: speciale kleeflaag) wenst te destilleren geven de vakman geen informatie over hoe die TTS er dan uit zou moeten zien zonder een dergelijke kleeflaag. Hij weet immers dat de kleefkracht van de reeds bekende TTS-en in WO 407 bij hoge doseringen als onvoldoende wordt bestempeld. Voor zover Novartis nog bedoeld heeft te stellen dat de gemiddelde vakman een alternatieve kleeflaag op basis van zijn algemene vakkennis zal meelezen (nogal impliciet want de betreffende paragrafen 23-29 van de verklaring van Frijlink productie 37 Novartis gaan over de nawerkbaarheid van het octrooi) is dit niet aannemelijk geworden gelet op de gemotiveerde betwisting door Alvogen e.a. onder verwijzing naar de verklaring van hun deskundige prof. Bouwstra (productie 18 nrs. 29-41). Hierbij weegt mee dat Frijlink ook niet stelt dat een tackifier geen onderdeel van de kleeflaag zou behoeven te zijn integendeel hij noemt in nr. 25 juist als voorbeeld gebruik van een siliconen olie (“To obtain patches with sufficient adehesion properties”). Bovendien acht het hof zijn suggestie in het slot van nr. 25 van die verklaring dat een gemiddelde vakman wel zou weten welke “adhesion excipients will be chosen that will not affect the release and transport of the drug compound through the skin” in strijd met wat WO 407 daarover stelt. WO 407 leert immers juist dat het vinden van een TTS met een kleeflaag die het afgifteprofiel niet beïnvloedt verrassend (en inventief) is: A TTS according to the invention shows improved adhesive properties. Further and very surprisingly the so obtained TTS has essentially the same release profile when compared with a standard TTS. (p. 3 2e volledige alinea). Het hof kan in het licht van het voorgaande evenmin de opmerking van Fahr (p. 6 productie 38 Novartis) plaatsen dat in WO 407 “good adhesion however is only mentioned as an aim” en dat ook minder goede “adhesion” toereikend is . Het is evident dat een vakman uit WO 407 zal afleiden dat de hoge dosis een goede kleefkracht noodzakelijk maakt. 
+
+
+4.9.
+Evenmin kan het hof voorshands het betoog van Novartis (en haar deskundigen Frijlink en Fahr) volgen dat TTS#1 (gelijk aan TTS#2 maar zonder de kleeflaag) aan haar ruime lezing van conclusie 1 van het octrooi steun kan geven. De gemiddelde vakman zal weliswaar begrijpen dat TTS#1 in vitro de gewenste aanvangsdosis afgeeft omdat deze hetzelfde afgifte profiel heeft als (verrassenderwijs) TTS#2 met kleeflaag (voorbeeld III) maar hij zal deze niettemin niet tot de in WO 407 geopenbaarde vinding rekenen. Hij zal immers zonder meer zien dat TTS#1 niet voor de behandeling van dementie of Alzheimer geschikt zal zijn omdat deze onvoldoende zal kleven gelet op de hoge dosering (en het vloeibare karakter van de vrije base). Die uitleg ligt te meer voor de hand nu kennelijk ook de uitvinders TTS#1 geen nadere proefneming (in vivo) waard achtten zoals zij wel deden in het vergelijkende onderzoek van de capsule met TTS#2 in voorbeeld IV. De gepretendeerde voordelen van de aanvangsdosis/het doseringsregime doen zich vanzelfsprekend slechts voor tijdens een daadwerkelijke behandeling en niet in een laboratorium zoals voorbeeld III nog is. Om die redenen zal de gemiddelde vakman TTS#1 in een behandelsituatie juist niet zien als geschikte drager van de hoge aanvangsdosis. 
+
+
+4.10.
+De conclusie luidt zodoende dat er een gerede kans bestaat dat het octrooi gelezen in de ruime zin als door Novartis gewenst een in te stellen nietigheidsprocedure of de oppositieprocedure niet zal overleven. Indien is uit te gaan van een zodanig beperktere lezing van de conclusie dat het octrooi geen gevaar loopt te worden vernietigd op grond van ontoelaatbare toegevoegde materie in de hiervoor bedoelde zin dan dient die lezing in elk geval te worden beperkt tot de toepassing van de aanvangsdosering rivastigmine (als gedefinieerd in conclusie 1) in een TTS met speciale kleeflaag die zowel een siliconen polymeer als tackifier bevat. Voor zover Alvogen e.a. tegen het aldus beperkt te lezen octrooi nog andere toegevoegde materie- of verdere geldigheidsbezwaren hebben kunnen deze gelet op het in r.o. 4.11 hierna te geven voorlopig oordeel in het midden blijven. 
+
+
+Inbreuk
+
+ 
+
+
+4.11.
+Novartis heeft in het kader van dit kort geding niet aannemelijk gemaakt dat van een kleeflaag met zowel siliconen polymeer als tackifier bij het Permente product sprake is. Alvogen e.a. hebben de inbreuk gemotiveerd betwist en aangegeven dat geen sprake is van een siliconenolie (als tackifier) en dat de kleeflaag van het Permente product voor 100% uit siliconenepolymeer bestaat (zie conclusie van antwoord in hoger beroep voetnoot 15 p. 38 en pleitnota in eerste aanleg voetnoot 3 p. 11) derhalve zonder enige tackifier zo begrijpt het hof. Novartis heeft daartegenover geen analyse van de samenstelling van de Permente pleister gesteld die aannemelijk zou maken dat er wel sprake is van een tackifier. Van inbreuk kan voorshands oordelend dan ook geen sprake zijn. 
+
+
+Buitenlandse uitspraken
+
+ 
+
+
+4.12.
+Het hof realiseert zich dat met dit oordeel wordt afgeweken van een aantal uitspraken van buitenlandse rechters. Overwogen wordt dat door een aantal van die rechters geen wezenlijke toets van de geldigheid van het octrooi is uitgevoerd (de Italiaanse en Roemeense rechters) terwijl in het Deense vonnis het hiervoor geschetste verband tussen de TTS met kleeflaag en de hoge aanvangsdosis niet lijkt te zijn gelegd (p. 77 van de Engelse vertaling van dat vonnis). De Oostenrijkse rechter lijkt ook niet stil te hebben gestaan bij toegevoegde materie . Het hof van beroep te Brussel is van oordeel dat (zelfs indien de ruime uitleg van Novartis zou worden gevolgd zo begrijpt dit hof) de inbreuk onvoldoende is aangetoond zodat het deze vraag niet behoefde te beantwoorden. De Spaanse rechter kwam evenmin aan deze vraag toe omdat hij geen inbreuk aannam daar hij van oordeel was dat de TTS van conclusie 1 dient te voldoen aan alle kenmerken als in het slot van de conclusie zijn opgenomen. Anders gezegd de Spaanse rechter zag de conclusie niet als een TTS met aanvangsdosis die wordt bepaald door een “referentiepleister” (TTS#2) maar vond dat deze in wezen beperkt was tot TTS#2. Het Duitse Landesgericht Düsseldorf heeft de inbreukvordering als “einstweilige Verfügung” geweigerd met een zelfde type redenering als dit hof. Ook de Duitse rechter ziet een verband tussen de structuur van de TTS (met kleeflaag) en het doseringsregime zie p. 18 van die uitspraak waarin het volgende wordt overwogen ten aanzien van de vakman die WO 407 leest: “Er gelangt aber nicht ohne weitere Uberlegungen zu dem Schluss dass das Dosierungsschema unabhangig von der Struktur des TTS gewahrleistet werden kann.”.  
+
+
+Slotsom en proceskosten
+
+ 
+
+
+4.13.
+De slotsom luidt dat de voorzieningenrechter de gevraagde voorziening terecht heeft geweigerd zodat zijn beslissing kan worden bekrachtigd en grieven 1-6 in zoverre moeten stranden. Voor het overige behoeven de grieven niet verder te worden behandeld omdat zij niet tot het door Novartis gewenste resultaat kunnen leiden. Hetzelfde geldt voor de overige weren van Alvogen e.a. Met juistheid heeft de voorzieningenrechter Novartis voorts in de kosten volgens 1019h Rv veroordeeld. Het hof zal hetzelfde doen voor de kosten in dit beroep.  
+
+
+4.14.
+Novartis heeft naar voorlopig oordeel terecht bezwaar gemaakt tegen de hoogte van de kosten als door Alvogen e.a. opgevoerd meer in het bijzonder het grote aantal uren dat de octrooigemachtigden van Alvogen e.a. in dit beroep hebben gedeclareerd. In de door Alvogen e.a. genoemde omstandigheden dat zij een aanzienlijk uitgebreidere conclusie van antwoord in beroep hebben genomen dan de appeldagvaarding met grieven van Novartis en dat Alvogen e.a. veel van hun nietigheidsargumenten zelf dienden te ontwikkelen terwijl Novartis in meerdere landen procedures voert en al heeft gevoerd kan onvoldoende verklaring worden gevonden voor het grote verschil in opgevoerde kosten (Novartis vordert EUR 121.92695 en Alvogen e.a. EUR 303.13343). Hierbij weegt mee dat naar voorlopig oordeel de weren van Alvogen e.a. in beroep niet wezenlijk zijn uitgebreid. In dat licht hebben Alvogen e.a. het kostenverschil onvoldoende verantwoord. Het hof zal daarom als door Novartis gevorderd een mindering van EUR 100.000- op die kosten aan brengen alsmede een kennelijke dubbeltelling (die door Alvogen e.a. niet is bestreden) van EUR 9.748- corrigeren. Novartis zal zodoende worden veroordeeld aan Alvogen e.a. te betalen een bedrag van EUR 193.38543 ten aanzien waarvan Novartis onvoldoende heeft bestreden dat deze redelijk en evenredig zijn te achten. 
+
+
+4.15.
+Voor zover in nrs. 155-162 van de pleitnota door Novartis bezwaar wordt gemaakt tegen de hoogte van de proceskosten in eerste instantie moet dat worden gepasseerd nu tegen de vaststelling van die hoogte door de voorzieningenrechter in de memorie van grieven geen klacht was geformuleerd en een grief daarover eerst bij pleidooi niet kan worden geaccepteerd. 
+
+
+
+
+5 Beslissing 
+
+Het hof:
+ 
+- bekrachtigt het vonnis waarvan beroep;  
+
+-
+veroordeelt Novartis in de kosten van het geding in hoger beroep aan de zijde van Alvogen e.a. tot op heden begroot op EUR 193.38543;  
+
+-
+verklaart dit arrest uitvoerbaar bij voorraad waar het de proceskostenveroordeling betreft.
+
+
+
+Dit arrest is gewezen door mrs. E.F. Brinkman M.Y. Bonneur en R. Kalden en is uitgesproken ter openbare terechtzitting van 18 november 2014 in aanwezigheid van de griffier.
+
+
+1
+ Wetboek van Burgerlijke Rechtsvordering 
+2
+ BID staat voor "bis in die" dat wil zeggen tweemaal daags. 
+3
+ Verdrag inzake de verlening van Europese octrooien (Europees Octrooiverdrag) 
+4
+ Rijksoctrooiwet 

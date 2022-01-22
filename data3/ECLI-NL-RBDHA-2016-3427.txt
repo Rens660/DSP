@@ -1,0 +1,769 @@
+
+
+
+
+
+
+
+
+
+
+
+
+vonnis
+RECHTBANK DEN HAAG
+
+Team handel - voorzieningenrechter
+ 
+
+zaaknummer / rolnummer: C/09/500844 / KG ZA 15-1829
+ 
+
+
+Vonnis in kort geding van 30 maart 2016
+
+(afschrift met toepassing van artikel 28 lid 4 Wetboek van Burgerlijke Rechtsvordering)
+ 
+
+in de zaak van
+ 
+
+de buitenlandse vennootschap
+
+NOVARTIS AG
+gevestigd te Bazel (Zwitserland)
+eiseres
+advocaat: mr. D. Knottenbelt te Rotterdam
+ 
+
+tegen
+ 
+1. de besloten vennootschap met beperkte aansprakelijkheid
+
+
+TEVA B.V.
+gevestigd te Haarlem
+
+2. de besloten vennootschap met beperkte aansprakelijkheid
+
+
+TEVA PHARMA B.V.
+gevestigd te Haarlem
+
+3. de besloten vennootschap met beperkte aansprakelijkheid
+
+
+TEVA PHARMACEUTICALS EUROPE B.V.
+gevestigd te Amsterdam
+
+4. de buitenlandse vennootschap 
+
+
+TEVA PHARMA BELGIUM NV
+gevestigd te Antwerpen (België)
+
+5. de buitenlandse vennootschap
+
+
+RATIOPHARM GMBH
+gevestigd te Ulm (Duitsland)
+
+6. de buitenlandse vennootschap
+
+
+TEVA UK LIMITED
+gevestigd te Castleford West Yorkshire (Verenigd Koninkrijk)
+gedaagden
+advocaat: mr. O.P. Swens te Amsterdam.
+ 
+
+Eiseres zal hierna Novartis worden genoemd. Gedaagden zullen hierna respectievelijk Teva B.V. Teva Pharma Teva Europe Teva Belgium Ratiopharm en Teva UK worden genoemd en gezamenlijk ook wel Teva c.s. (vrouwelijk enkelvoud). Voor Novartis wordt de zaak inhoudelijk behandeld door mrs. R.M. Kleemans en J.D. Drok advocaten te Amsterdam. Voor Teva c.s. wordt de zaak inhoudelijk behandeld door de advocaat voornoemd tezamen met mr. R. Dijkstra eveneens advocaat te Amsterdam.
+ 
+
+
+
+1 De procedure
+
+1.1.
+Het verloop van de procedure blijkt uit:
+
+-
+de dagvaarding van 4 december 2015 met producties 1 tot en met 5 en 7 tot en met 38;
+
+-
+de faxbrief van 7 december 2015 van Novartis waarin zij verzoekt productie 6 als ongelezen uit het procesdossier te verwijderen;
+
+-
+de op 8 december 2015 ingekomen kostenopgave van Novartis;
+
+-
+de op 21 januari 2016 ingekomen exceptie van (grensoverschrijdende) onbevoegdheid tevens conclusie van antwoord van Teva c.s. met producties 1 tot en met 23;
+
+-
+de op 28 januari 2016 ingekomen akte overlegging producties van Novartis met producties 39 tot en met 41;
+
+-
+het op 29 januari 2016 ingekomen proceskostenoverzicht van Teva c.s.;
+
+-
+de faxbrief van 29 januari 2016 van Teva c.s. waarin zij bezwaar maakt tegen overlegging van productie 39 door Novartis alsmede de brief van 1 februari 2016 van Novartis met daarin een reactie op het bezwaar van Teva c.s.;
+
+-
+de op 4 februari 2016 ingekomen akte overlegging aanvullende producties van Teva met producties 24 tot en met 26;
+
+-
+de op 5 februari 2016 ingekomen e-mail en fax van Novartis met daarin een eenstemmig verzoek om de behandeling gedeeltelijk achter gesloten deuren te doen plaatsvinden en een verzoek om de inhoud van productie 42 niet openbaar te maken in een vonnis met productie 42; 
+
+-
+de brief van 9 februari 2016 van Teva c.s. met daarin de tussen partijen gemaakte proceskostenafspraak;
+
+-
+de op 9 februari 2016 ingekomen e-mails van Novartis met producties 43 en 44;
+
+-
+de eveneens op 9 februari 2016 ingekomen e-mails van Teva c.s. met producties 27 en 28;
+
+
+de mondelinge behandeling van 10 februari 2016;
+
+-
+de pleitnota van Novartis waarin zijn doorgehaald de niet voorgedragen paragrafen 61 tot en met 62;
+
+-
+de pleitnota van Teva c.s. waarin zijn doorgehaald de niet voorgedragen paragrafen 72 tot en met 75 78 tot en met 83 85 tot en met 88 en 90 tot en met 106.
+
+
+
+
+1.2.
+Op verzoek van partijen heeft een gedeelte van de mondelinge behandeling in verband met de vertrouwelijkheid van bepaalde stukken plaatsgevonden achter gesloten deuren. 
+
+
+1.3.
+Ter zitting heeft Teva c.s. haar bezwaar tegen productie 39 van Novartis (een opinie van mr. C. Schoonderbeek) gehandhaafd omdat het volgens haar een verkapte conclusie van repliek betreft die in kort geding niet zou zijn die toegestaan. Daarnaast heeft Teva c.s. verzocht om opheldering van mr. Schoonderbeeks positie. Novartis heeft hiertegen verweer gevoerd. Hierop heeft de voorzieningenrechter beslist dat de productie 39 wordt toegelaten. Hij heeft hiertoe overwogen dat de specifiek gegeven instructies het toepasselijke procesreglement noch de goede procesorde hieraan in de weg staan en dat bezwaren tegen de gestelde deskundigheid van mr. Schoonderbeek en daarmee tegen de inhoud van de productie eerst bij de waardering van de betreffende productie dus pas na de toelating ervan aan de orde kunnen komen. 
+
+
+1.4.
+Ten slotte is vonnis nader bepaald op heden. 
+
+
+
+
+2 De feiten
+
+2.1.
+Novartis is een wereldwijd opererend farmaceutisch bedrijf. Onder de merknaam Glivec® brengt Novartis een geneesmiddel op de markt dat wereldwijd onder meer in Nederland wordt voorgeschreven voor de behandeling van verschillende vormen van kanker. De werkzame stof in Glivec® is imatinib (mesilaat). 
+
+
+2.2.
+Gedaagden maken deel uit van het eveneens wereldwijd opererende Teva-concern waarvan de betrokken vennootschappen (hierna ook wel: de Teva-vennootschappen) zich bezighouden met of betrokken zijn bij de verhandeling van generieke geneesmiddelen. Teva B.V. Teva Pharma (beide gevestigd in Nederland) Teva Pharma België (gevestigd in België) Ratiopharm (gevestigd in Duitsland) en Teva UK (gevestigd in het Verenigd Koninkrijk) zijn dochtervennootschappen van Teva Europe (gevestigd in Nederland).  
+
+
+2.3.
+
+Novartis was houdster van Europees octrooi 0 564 409 (hierna: EP 409 of het basisoctrooi) dat betrekking heeft op ‘pyrimidin derivatives and process for their preparation’ (pyrimidinederivaten en werkwijzen voor de bereiding ervan). Het octrooi is verleend op 19 januari 2000 op een aanvrage daartoe van 25 maart 1993 onder inroeping van een prioriteitsdatum van 3 april 1992. Het octrooi dat op 25 maart 2013 is vervallen was gedesigneerd voor onder meer Nederland. De conclusies 1 en 11 (conclusie 11 ziet specifiek op imatinib) van EP 409 luiden (in de niet-bestreden Nederlandse vertaling) als volgt:
+ 	1. 	N-fenyl-2-pyrimidineaminederivaten met de formule I
+ 
+
+
+
+
+
+
+	waarin R1 pyrazinyl 1-methyl-1H-pyrrolyl met amino of amino-klein-alkyl gesubstitueerd
+	fenyl waarin de aminogroep telkens vrij is of als klein-alkylamino di-klein-alkylamino
+	klein-alkanoylamino of benzoylamino aanwezig is aan een vijfringkoolstofatoom
+	gebonden 1H-indolyl of 1H-imidazolyl of aan een ringkoolstofatoom gebonden ongesubstitueerd of 	met klein alkyl gesubstitueerd pyridyl dat aan het stikstofatoom ongesubstitueerd is of met zuurstof 	gesubstitueerd is voorstelt R2 en R3 onafhankelijk van elkaar telkens waterstof of klein alkyl 	voorstellen één of twee van de resten R4 R5 R6 R7 en R8 telkens nitro met fluor gesubstitueerd 	klein alkoxy of een rest met de formule II voorstellen
+ 
+
+-N(R9)-C(=X)-(Y)n-R10 (II)
+ 
+
+	waarin R9 waterstof of klein alkyl X oxo thio imino N-klein-alkylimino hydroxyimino
+	of O-klein-alkylhydroxyimino Y zuurstof of de groep NH n 0 of 1 en R10 een alifatische 	koolwaterstofrest met 5-22 C-atomen een fenyl- of naftylrest die telkens ongesubstitueerd is of met 	cyano trifluormethyl hydroxy klein alkoxy klein-alkanoyloxy halogeen amino klein-alkylamino 	di-klein-alkylamino klein-alkanoylaminobenzoylamino carboxy klein-alkoxycarbonyl of met 	ongesubstitueerd of gesubstitueerd klein alkyl gesubstitueerd is fenyl-klein-alkyl waarin de fenylrest 	ongesubstitueerd of zoals hierboven is aangegeven gesubstitueerd is een cycloalkyl- of 	cycloalkenylrest met tot 30 C-atomen cycloalkyl-klein-alkyl of cycloalkenyl-klein-alkyl met telkens 	tot 30 C-atomen en het cycloalkyl- of cycloalkenylgedeelte een monocyclische rest met 5 of 6 	ringleden en 1-3 ringatomen uitgekozen uit stikstof zuurstof en zwavel waaraan 1 of 2 benzeenresten 	geanelleerd kunnen zijn of klein alkyl dat met één van dergelijke monocyclische rest gesubstitueerd 	is voorstelt en de overige van de resten R4 R5 R6 R7 en R8 onafhankelijk van elkaar telkens 	waterstof klein alkyl dat ongesubstitueerd is of met amino klein-alkylamino di-klein-alkylamino 	piperazinyl piperidinyl pyrrolidinyl of morfolinyl gesubstitueerd is klein-alkanoyl trifluormethyl 	hydroxy klein-alkoxy klein-alkanoyloxy halogeen amino klein-alkylamino di-klein-alkylamino
+	klein-alkanoylamino benzoylamino carboxy of klein-alkoxycarbonyl voorstellen waarbij het 	voorvoegsel "klein" telkens een rest met tot 7 C-atomen voorstelt en zouten van dergelijke 	verbindingen met ten minste één zoutvormende groep.
+ 
+
+	11.	N-{5-[4-(4-methylpiperazinomethyl)benzoylamido]-2-methylfenyl}-4-(3-
+	pyridyl)-2-pyrimidineamine met de formule I volgens conclusie 1 of een farmaceutisch
+	toepasbaar zuur-additiezout daarvan.
+ 
+
+
+2.4.
+Op basis van EP 409 is aan Novartis onder nummer 300086 een aanvullend beschermingscertificaat voor geneesmiddelen verleend (hierna: ABC 300086 of SPC NL 300086). Dit ABC is afgegeven voor het product imatinib desgewenst in de vorm van een farmaceutisch aanvaardbaar zuuradditiezout in het bijzonder mesilaat. ABC 300086 was aanvankelijk geldig tot 21 juni 2016. 
+
+
+2.5.
+Bij beschikking van 14 februari 2001 heeft de Commissie van de Europese Gemeenschappen (hierna ook: de Commissie) op grond van de Weesgeneesmiddelenverordening1 imatinib aangewezen als weesgeneesmiddel voor de behandeling van chronische myeloïde leukemie (hierna: CML) en is het voor deze indicatie ingeschreven in het Communautaire register van weesgeneesmiddelen (hierna: het Weesgeneesmiddelenregister). 
+
+
+2.6.
+Bij beschikking van 7 november 2001 heeft de Commissie aan Novartis een handelsvergunning verleend voor het geneesmiddel imatinib voor de CML indicatie. Ingevolge artikel 8 van de Weesgeneesmiddelenverordening verkreeg Novartis voor deze indicatie marktexclusiviteit voor de duur van 10 jaar te rekenen vanaf 12 november 2001 de notificatie van de handelsvergunning aan Novartis. De registratie in het Weesgeneesmiddelenregister voor de indicatie CML is op de voet van artikel 5 lid 12 onder c van de Weesgeneesmiddelen verordening op 12 november 2011 doorgehaald. 
+
+
+2.7.
+Na de verlening van de oorspronkelijke handelsvergunning voor imatinib verkreeg Novartis bij beschikkingen van 20 november 2001 26 augustus 2005 28 oktober 2005 en 23 december 2005 verdere aanwijzingen als weesgeneesmiddelen voor vijf andere aandoeningen waaronder de behandeling van volwassen patiënten met acute lymfoblastaire leukemie met Ph+ (hierna: ALL). Ook voor deze indicatie heeft registratie in Weesgeneesmiddelenregister plaatsgevonden. Nadat op aanvraag van Novartis de handelsvergunning met deze aandoeningen was uitgebreid verkreeg zij ook voor deze indicaties marktexclusiviteit voor de duur van 10 jaar. Als einddata voor de marktexclusiviteit voor deze vijf indicaties gold respectievelijk 27 mei 2012 18 september 2016 en 1 december 2016.
+
+
+2.8.
+Medio 2009 was Novartis voornemens haar handelsvergunning uit te breiden met een nieuwe indicatie te weten de behandeling van pediatrische patiënten met ALL. Voor deze uitbreiding van de vergunning was Novartis op grond van artikel 8 van de Pediatrische Verordening2 gehouden een plan voor pediatrisch onderzoek (hierna: PIP) in te dienen. De PIP is vervolgens goedgekeurd door het in de verordening voorziene Comité pediatrie en geregistreerd onder nummer EMEA/000463/PIP01/08 en voor het laatst gewijzigd op 27 januari 2012. Op 9 maart 2012 heeft het Comité pediatrie een positief advies uitgebracht met betrekking tot de conform de PIP aangeleverde (klinische) gegevens zodat Novartis op grond van artikel 36 (en volgende) van de Pediatrische Verordening in aanmerking kwam voor een beloning en/of stimulans in de zin van die verordening. 
+
+
+2.9.
+In de Pediatrische Verordening zijn voor het doen van pediatrisch onderzoek onder meer de volgende beloningen voorzien: verlenging van een ABC met de duur van zes maanden ofwel verlenging van de ingevolge de Weesgeneesmiddelenverordening toegekende marktexclusiviteit met de duur van twee jaar. Met betrekking tot deze beloningen en stimulansen is in de artikelen 36 en 37 van de Pediatrische Verordening – voor zover hier van belang – het volgende bepaald: 
+
+Artikel 36
+	1. Wanneer een aanvraag uit hoofde van artikel 7 of 8 de resultaten van alle overeenkomstig een 	goedgekeurd plan voor pediatrisch onderzoek uitgevoerde onderzoeken bevat heeft de houder 	van het octrooi of van het aanvullende beschermingscertificaat recht op een verlenging van de in 	artikel 13 leden 1 en 2 van Verordening (EEG) nr. 1768/92 bedoelde termijn met zes maanden. 
+ 
+
+	De eerste alinea is ook van toepassing wanneer de voltooiing van het goedgekeurde plan 	voor pediatrisch onderzoek niet leidt tot toelating van een pediatrische indicatie maar de 	resultaten van de uitgevoerde onderzoeken wel in de samenvatting van de kenmerken van het product 	en in voorkomend geval in de bijsluiter van het betrokken geneesmiddel tot uitdrukking komen.
+ 
+
+	2. De toepassing van lid 1 van dit artikel wordt gebaseerd op de opname van de in artikel 28 lid 3 	bedoelde verklaring in een vergunning voor het in de handel brengen.
+ 
+
+	(…)
+ 
+
+	4. De leden 1 2 en 3 zijn van toepassing op producten die door een aanvullend 	beschermingscertificaat uit hoofde van Verordening (EEG) nr. 1768/92 of door een voor de verlening 	van het aanvullende beschermingscertificaat in aanmerking komend octrooi worden beschermd. Zij 	zijn niet van toepassing op geneesmiddelen die overeenkomstig Verordening (EG) nr. 141/2000 als 	weesgeneesmiddelen zijn aangewezen.
+ 
+
+	Artikel 37
+	Wanneer een aanvraag voor een vergunning voor het in de handel brengen wordt ingediend voor een 	overeenkomstig Verordening (EG) nr. 141/2000 als weesgeneesmiddel aangewezen geneesmiddel en 	die aanvraag de resultaten van alle overeenkomstig een goedgekeurd plan voor pediatrisch 	onderzoek uitgevoerde onderzoeken bevat en de in artikel 28 lid 3 van deze verordening bedoelde 	verklaring vervolgens in de verleende vergunning voor het in de handel brengen wordt opgenomen  wordt de in artikel 8 lid 1 van Verordening (EG) nr. 141/2000 bedoelde termijn van tien jaar tot 	twaalf jaar verlengd.
+ 
+
+	De eerste alinea is ook van toepassing wanneer de voltooiing van het goedgekeurde plan 	voor pediatrisch onderzoek niet leidt tot toelating van een pediatrische indicatie maar de 	resultaten van de uitgevoerde onderzoeken wel in de samenvatting van de kenmerken van het product 	en in voorkomend geval in de bijsluiter van het betrokken geneesmiddel tot uitdrukking komen.
+ 
+
+2.9.1.
+Met betrekking tot deze beloningen en stimulansen is in de randnummers 6 en 29 van de considerans van de Pediatrische Verordening het volgende opgenomen: 
+
+6. 	Om deze doelstellingen te verwezenlijken is een systeem noodzakelijk gebleken dat zowel verplichtingen als beloningen en stimulansen omvat. De precieze aard van de verplichtingen beloningen en stimulansen moet zijn toegesneden op de status van het betrokken specifieke geneesmiddel. Omdat deze verordening op alle geneesmiddelen voor pediatrisch gebruik van toepassing moet zijn moeten zowel nog niet toegelaten producten in de ontwikkelingsfase als toegelaten producten waarop nog intellectuele-eigendomsrechten rusten als toegelaten producten waarop niet langer intellectuele eigendomsrechten rusten onder het toepassingsgebied vallen.
+ 
+
+	(…)
+ 
+
+29. 	Uit hoofde van Verordening (EG) nr. 141/2000 van het Europees Parlement en de Raad van 16 december 1999 inzake weesgeneesmiddelen (…) wordt voor geneesmiddelen die als weesgeneesmiddel zijn aangewezen bij het verlenen van de vergunning voor het in de handel brengen voor de desbetreffende indicatie een tienjarige marktexclusiviteit toegekend. Omdat deze producten veelal niet door een octrooi worden beschermd kan de beloning in de vorm van een verlenging van het aanvullende beschermingscertificaat niet altijd worden gegeven en wanneer zij wel door een octrooi worden beschermd zou verlenging een dubbele stimulans inhouden. In plaats van een verlenging van het aanvullende beschermingscertificaat moet daarom voor weesgeneesmiddelen waarvoor volledig aan het voorschrift betreffende de verstrekking van gegevens over het gebruik bij de pediatrische populatie wordt voldaan de tienjarige termijn van marktexclusiviteit tot twaalf jaar worden verlengd.
+ 
+
+
+2.9.2.
+Voorafgaand aan de vaststelling van de Pediatrische Verordening heeft een consultatie plaatsgevonden die heeft geresulteerd in een Extended Impact Assessment (hierna: EIA) final version 3 september 2004. Voor zover hier van belang vermeldt de EIA op pagina 39-40 het volgende: 
+
+Many of the comments on details of the draft paediatric regulation have been taken on board for the 	final proposal. Two key issues that were amended as a result of the consultation response (and the 	extended impact assessment) were rewards/ incentives for orphan medicines and the strength of the 	incentive for off-patent medicines and these are briefly explored below.
+ 
+
+	A number of responses were concerned about the interface between the proposal and the EU
+	orphan regulation. There was some concern that if SPC extension was the only reward
+	offered for compliance with the requirement the requirement would not be rewarded for a
+	significant proportion of orphan medicines as many such medicines are not patent-protected at the 	time of authorisation. Others were concerned that for orphan medicines covered by a
+	patent a double incentive would be granted (SPC extension from this proposal and ten-year
+	market exclusivity from the orphan regulation). To meet these concerns the final Commission 	proposal excludes orphan medicines from the SPC extension and instead rewards them for 	compliance with an additional two-years of market exclusivity. Two-years has been chosen rather 	than six-months as the market exclusivity only covers the medicinal product in the orphan indication. 	In contrast the SPC extension covers the active substance and therefore relates to all products 	containing it. Consequently for the same time period SPC extension is more valuable.
+ 
+
+
+
+2.10.
+In het verslag ‘Record of the Third meeting of national "Supplementary Protection Certificate" (SPC) experts held on 26 September 2008 at the EMA3’ is onder vraag 9 met betrekking tot de Pediatrische beloningen en stimulansen het volgende opgenomen.  
+
+
+If the orphan designation is lost or waived may the patent/SPC holder apply for an SPC extension?
+
+Article 36.4 expressly prohibits SPC extensions for orphan medicinal products and Article 37 sets out a specific reward (two additional years of market exclusivity) for authorised orphan medicinal products.
+ 
+
+The reasonable interpretation of recital 29 of the Paediatric Regulation is that where a product is no longer an orphan medicine it can qualify for the six-month SPC extension. Recital 29 shows that the rationale for Articles 36.4 and 37 is to avoid a double incentive (i.e. SPC extension and additional market exclusivity). Therefore if one of the incentives disappears for whatever reason the other incentive logically becomes available. To obtain the 6-month SPC extension the orphan product would have to be withdrawn from the Community Register (…).
+ 
+
+The question arises therefore at what moment the orphan status must be determined for purposes of choosing the reward. The representative of DG MARKT argued (bearing in mind Article 37 of the Paediatric Regulation) that the orphan status should be determined at the time of filing the application for the MA or variation/line extension. If the orphan status is lost i.e. the product is withdrawn from the Community register before that date the reward can be the SPC extension (provided that all other legal requirements are met).
+ 
+
+To know that a medicinal product is designated as an orphan medicinal product the NPOs can check the orphan public register held by the Commission. (http://ec.europa.eu/enterprise/pharmaceuticals/reqister/index.htm)
+ 
+
+
+2.11.
+Met betrekking tot deze beloningen en stimulansen is in het Commissierapport “Better Medicines for Children From Concept to Reality - Progress Report On The Paediatric Regulation (EC) N°1901/2006” (Com (2013) 443 (Final)) voorts het volgende opgenomen:  
+
+No orphan rewards have been awarded yet. In this regard it is observed that some companies 	withdrew the orphan designation of a product in order to qualify for the SPC reward rather than the 	orphan reward which seems to be more attractive from an economic perspective.
+ 
+
+
+2.12.
+In het jaarrapport 2013 heeft de EMA met betrekking tot de verlenging van de marktexclusiviteit voor weesgeneesmiddelen het volgende opgenomen: 
+
+3.4.2.
+Orphan Market Exclusivity extension 
+
+So far no orphan medicinal product has benefited from this reward since the entry into force of the 	regulation.
+ 
+
+However it should be noted that a medicinal product may be removed from the list of orphan-designated products for example to benefit from the 6-month extension of the SPC as paediatric reward instead of the 2-year extension of the market exclusivity foreseen for orphan products. Among the products with an SPC extension pending or granted in 2013 and included in this report two (imatinib and colistimethate) have non-active orphan designations.
+ 
+
+
+
+2.13.
+Voorafgaand aan de aanvraag voor de uitbreiding van haar handelsvergunning voor imatinib met de pediatrische indicatie ALL heeft Novartis met de EMA gecorrespondeerd over de vraag of Novartis door intrekking van de status van weesgeneesmiddel voor Glivec® (imatinib) voor de uitvoering van de PIP verlenging van haar ABC kon verkrijgen. Bij e-mail van 23 maart 2012 heeft de EMA hierop het volgende aan Novartis bericht:  
+
+The Agency has discussed your queries and is able to provide the following information:
+ 
+
+	1. The orphan drug status of Glivec may be withdrawn at Novartis request. In order to do so
+	Novartis should submit a request to the European Commission to have the product removed from the 	Community Register of Orphan Medicinal Products in all designated conditions.
+ 
+
+	Once removed from the Register Glivec could be entitled to the six-month extension of the
+	Supplementary Protection Certificate foreseen in Article 36 of Regulation (EC) No 1901/2006 	provided all the requirements in the Paediatric Regulation are met in particular if the results of all 	studies performed in compliance with the agreed PIP are submitted and are reflected in the Product 	Information.
+ 
+
+
+2.14.
+Bij brief van 3 april 2012 heeft Novartis de Commissie verzocht de aanwijzing van imatinib als weesgeneesmiddel voor alle indicaties te schrappen. In deze brief schrijft Novartis onder meer het volgende: 
+
+The voluntary withdrawal of the orphan designation of Glivec® and its removal from the 	Community Register of Orphan Medicinal Products is requested by Novartis (…) in order to obtain 	six-month extensions of Supplementary Protection Certificates (SPC) foreseen in Article 36 of 	Regulation  (EC) No 1901/2006.
+ 
+
+
+2.15.
+Per e-mail van 19 april 2012 heeft de Commissie aan Novartis bevestigd dat imatinib met ingang van 16 april 2012 uit het weesgeneesmiddelenregister is geschrapt. 
+
+
+2.16.
+Op 8 juni 2012 heeft Novartis een aanvraag (met daarbij de uitkomsten van de PIP) ingediend voor uitbreiding van de handelsvergunning voor imatinib met de nieuwe pediatrische indicatie. 
+
+
+2.17.
+Nadat de EMA had vastgesteld dat Novartis aan alle verplichtingen in de PIP had voldaan heeft de Commissie bij beschikking van 27 juni 2013 de handelsvergunning voor imatinib uitgebreid met de indicatie ‘behandeling van pediatrische patiënten met ALL’.  
+
+
+2.18.
+Na een aanvraag daartoe van 3 december 2013 heeft het Octrooicentrum Nederland op 18 maart 2014 aan Novartis meegedeeld dat de beschermingsduur van ABC 300086 conform artikel 10 van de (gecodificeerde) ABC-verordening4 met zes maanden is verlengd en wel tot en met 20 december 2016. Het certificaat is dienovereenkomstig aangepast.  
+
+
+2.19.
+Ook in andere Europese landen heeft Novartis van de plaatselijk bevoegde autoriteiten een verlenging van de duur van haar daar voor imatinib geldende ABC’s met zes maanden verkregen. Deze verlenging (hierna: de ABC-verlenging of de Pediatrische Verlenging) geldt onder meer voor Oostenrijk (AT) België (BE) Tsjechië (CZ)  Duitsland (DE) Spanje (ES) Frankrijk (FR) Griekenland (GR) Hongarije (HU) Ierland (IE) Italië (IT) Luxemburg (LU) Portugal (PT) Zweden (SE) en het Verenigd Koninkrijk (UK). In haar dagvaarding heeft Novartis dit als volgt weergegeven: 
+
+
+
+
+
+
+
+2.20.
+Bij beschikking van 8 januari 2013 heeft de Commissie aan Teva B.V. een centrale handelsvergunning toegekend voor het geneesmiddel “Imatinib Teva - imatinib” (hierna ook wel: Imatinib Teva of generiek imatinib) een geneesmiddel met als werkzame stof imatinibmesilaat. 
+
+
+2.21.
+Ratiopharm is houdster van de Duitse nationale handelsvergunning voor Imatinib Teva. Teva Pharma is houdster van de Tsjechische en Ierse nationale handelsvergunningen voor Imatinib Teva. Teva Pharma Belgium is houdster van de Belgische nationale handelsvergunning voor Imatinib Teva en Teva UK van die van het Verenigd Koninkrijk. 
+
+
+2.22.
+Naar aanleiding van de verkrijging van de vergunningen door de hiervoor vermelde Teva-vennootschappen heeft Novartis zowel voorafgaand als na verkrijging van de Pediatrische verlenging diverse vennootschappen van het Teva-concern gewezen op haar ABC 300086. Hierop heeft Teva Europe steeds geantwoord dat “Teva geldige intellectuele eigendomsrechten van derden respecteert”. 
+
+
+2.23.
+Naar aanleiding van de verkrijging van de centrale handelsvergunning door Teva B.V. heeft de advocaat van Novartis Teva Pharma bij brief van 6 februari 2013 gewezen op het basisoctrooi en haar ABC-bescherming tot (toen nog) 20 juni 2016. Deze brief is bij brief van 15 mei 2013 beantwoord door Teva Europe. Zij schrijft dat “Teva” geldige intellectuele eigendomsrechten van derden respecteert en dat ‘Teva’s product launch plans’ vertrouwelijk zijn. In deze brief verwijst Teva Europe naar een eerder door haar bij brief van 21 februari 2013 gegeven ‘pan-European response’ dat ook betrekking op Nederland zou hebben.  
+
+
+2.24.
+Bij brieven van 18 maart 2014 en 31 juli 2014 hebben de Belgische en de Duitse advocaten van Novartis Teva Belgium en Ratiopharm erop gewezen dat Novartis in België respectievelijk Duitsland ABC-bescherming geniet tot 20 juni 2016. Beide brieven zijn beantwoord door Teva Europe (vestiging Harlow Essex UK). In haar brief van 7 april 2014 met betrekking tot het Belgische handelsvergunning schrijft Teva Europe wederom: 
+
+Teva’s product launch plans are confidential commercial information and will not be shared with its 	competitors in the industry.
+ 
+
+
+2.25.
+Bij brieven van 27 mei 2015 heeft de advocaat van Novartis Teva Pharma alsmede de eveneens tot het Teva-concern behorende vennootschap Pharmachemie B.V. (hierna: Pharmachemie) erop gewezen dat Novartis het vóór 20 december 2016 in Nederland in de handel brengen van Teva imatinib zal beschouwen als een inbreuk op haar ABC. 
+
+
+2.26.
+Bij brief van 6 augustus 20155 heeft mr. Swens zich namens Teva Pharma op het standpunt gesteld dat de Pediatrische Verlenging van zes maanden nietig is omdat deze ten onrechte zou zijn verleend. In deze brief schrijft mr. Swens dat “Teva” de Pediatrische Verlenging niet zal respecteren.  In de brief is voorts – voor zover hier van belang – het  volgende opgenomen: 
+
+Teva Pharma B.V. (“Teva”) provided us with the correspondence regarding the Dutch Supplementary Protection Certificate (…) and your letter dated 27 May 2015 in particular and requested us to respond on its behalf.
+	(…)
+	Because the six-month paediatric extension of NL SPC 300086 is null and void Teva shall not 	respect the extended expiry date of 20 December 2016. Teva intends to start marketing its generic 	imatinib product Imatinib Teva in the Netherlands as soon as possible after 20 June 2016. Teva does 	assure however that it will not launch in the Netherlands before 20 June 2016.
+	(…)
+ 
+
+	In view of the above my client seeks a confirmation from your client (…) that your client shall 	refrain from enforcing and relying upon the paediatric extension of NL SPC 300086 in any way 	against my client and/or other Teva companies that shall be involved in the marketing of 	Imatinib Teva in the Netherlands (…).
+ 
+
+
+2.27.
+Bij brief van 4 februari 2016 heeft Novartis Teva B.V. Teva Pharma en Teva Europe gewezen op de in de conclusie van antwoord in dit geding betrokken stelling dat er geen dreiging van inbreuk is op het ABC van Novartis in andere landen dan Nederland. Gelet daarop heeft Novartis aangegeven dat de vorderingen II en III in dit geding kunnen en zullen worden ingetrokken indien de aangeschreven partijen bevestigen dat zij in alle Europese landen waar het verlengde ABC van kracht is de markt niet zullen betreden totdat – kort gezegd – het ABC expireert althans bevestigen dat zij de markt niet zullen betreden dan na een ‘two months notice’. 
+
+
+2.28.
+Bij brief van 8 februari 2016 heeft mr. Swens aan de advocaat van Novartis laten weten – kort samengevat – dat zijn cliënten bereid zijn [vertrouwelijk]‘to provide your client with at least 1 month’s notice’ bij het voornemen de markt te betreden. 
+
+
+2.29.
+Bij brief van 9 februari 2016 heeft de advocaat van Novartis aan mr. Swens bericht dat zijn cliënt ‘is unable to agree to your counter-proposal to shorten the notice period to one month’ omdat die termijn – kort gezegd – in veel landen te kort is om tijdig een voorlopig verbod te verkrijgen.  
+
+
+2.30.
+Met betrekking tot het geschil over de (geldigheid van de) Pediatrische Verlenging voor imatinib zijn tussen Novartis en Teva procedures aanhangig in Duitsland Italië en het Verenigd Koninkrijk. In deze procedures heeft Teva c.s. de nietigheid van de Pediatrische Verlenging ingeroepen. De procedure ten overstaan van de High Court in Engeland is aangehouden in verband met een tussen partijen getroffen vertrouwelijke regeling van 31 oktober 20136 en een daaraan verbonden zogenoemde ‘Tomlin-order’7. De stand van zaken met betrekking tot de procedures in Duitsland en Italië is niet bekend. 
+
+
+
+
+3 Het geschil 
+
+3.1.
+Na vermindering van eis vordert Novartis samengevat bij vonnis uitvoerbaar bij voorraad:   
+
+	I. Teva B.V. Teva Pharma  en Teva Europe te verbieden om met onmiddellijke 	ingang na betekening van dit vonnis tot en met 21 december 2016 in Nederland 	inbreuk te maken op ABC 300086 dan wel daarbij betrokken te zijn onder meer 	door geneesmiddelen die imatinib omvatten te vervaardigen te gebruiken in het 	verkeer te brengen of verder te verkopen af te leveren of anderszins te 	verhandelen dan wel voor een of ander aan te bieden in te voeren of in voorraad te 	hebben;
+ 
+
+	II. Teva B.V. te verbieden om met onmiddellijke ingang na betekening van dit 	vonnis tot 21 december 2016 onrechtmatig te handelen meer in het bijzonder door 	betrokken te zijn bij het in de handel brengen van geneesmiddelen die imatinib 	omvatten door de Tevavennootschappen in de tabel in paragraaf 2.23 van de 	dagvaarding8 vermelde landen (met uitzondering van Italië) of dit te bevorderen of 	te faciliteren waaronder mede wordt verstaan het niet volledig en 	onvoorwaardelijk	intrekken van direct of indirect gegeven toestemming 	aan andere 	Teva-vennootschappen om geneesmiddelen die imatinib omvatten in 	voornoemde landen in de handel te brengen;
+ 
+
+	III. Teva Pharma Teva Europe Teva Pharma Belgium Ratiopharm en Teva UK
+	te verbieden om met onmiddellijke ingang na betekening van dit vonnis tot en met 	21 december 2016 in Tsjechië Ierland België Duitsland en/of het Verenigd 	Koninkrijk geneesmiddelen die imatinib omvatten in de handel te brengen althans 	onrechtmatig te handelen meer in het bijzonder door het betrokken zijn bij het op 	de markt brengen van geneesmiddelen die imatinib omvatten door andere Teva-	vennootschappen in de hierboven vermelde landen of om dit te bevorderen of te 	faciliteren inclusief het incompleet en onvoorwaardelijk verwijderen van de direct 	of indirect verkregen toestemming op basis van nationale handelsvergunningen aan  	andere Teva vennootschappen om geneesmiddelen omvattende imatinib op de 	markt te brengen in strijd met de vordering onder II;
+ 
+
+een en ander op straffe van een dwangsom en met veroordeling van Teva c.s. in de volledige proceskosten conform art. 1019h Rv.
+ 
+
+
+3.2.
+
+Aan deze vordering heeft Novartis het volgende ten grondslag gelegd.
+Na de op goede gronden toegekende Pediatrische Verlenging heeft Novartis op grond van ABC 300086 en de parallelle ABC’s tot 20 december 2016 aanvullende (sui generis)bescherming voor het geneesmiddel imatinib in de in 2.19 vermelde landen. Nu Teva c.s. te kennen heeft gegeven dat zij de Pediatrische Verlenging niet respecteert en zij vóór 20 december 2016 op de markt wil komen met Imatinib Teva heeft Novartis recht op en een spoedeisend belang bij het door haar gevorderde inbreukverbod en verbod op onrechtmatig handelen in de landen waar zij ABC-bescherming geniet. Analoog aan en in uitbreiding op de uitspraak van de voorzieningenrechter van de (toenmalige) rechtbank Utrecht in de zaak Boehringer/Teva9 dienen de verboden te worden opgelegd aan i) Teva Pharma die (alleen of in samenwerking met Teva B.V. en/of Teva Europe) controle en zeggenschap heeft over de houders van de verschillende nationale handelsvergunningen; ii) Teva B.V. de houdster van de centrale handelsvergunning; en iii) Teva Belgium Ratiopharm en Teva UK houdsters van de nationale handelsvergunningen voor België Duitsland en het Vereinigd Koninkrijk. Gelet op de houding van Teva c.s. en ervaringen uit het verleden bestaat het risico dat de verschillende Teva-vennootschappen in de verschillende landen op basis van nationale handelsvergunningen handelen op een wijze die in overeenstemming is met het gemeenschappelijk beleid dat is opgesteld door Teva Pharma al dan niet in samenwerking met Teva Europe. Indien Teva c.s. overgaat tot een launch at risk dan is de schade van Novartis niet te overzien en die schade kan in een schadevergoedingsactie niet ongedaan gemaakt worden. 
+
+
+
+3.3.
+Teva c.s. voert de volgende verweren. De Pediatrische Verlenging is ten onrechte verleend aangezien deze strijdig is met artikel 36 lid 4 van de Pediatrische Verordening. Dit volgt uit de bewoordingen van die bepaling overweging 29 van de considerans van de Pediatrische Verordening en de daaraan ten grondslag liggende passages van de EIA. De Europeesrechtelijke uitlegregels laten op dit punt geen andere interpretatie toe. Bij de aanvraag van haar Pediatrische Verlenging heeft Novartis het Octrooicentrum Nederland op dit punt ook onvoldoende geïnformeerd en daarmee misleid. Daarnaast heeft Novartis deze verlenging verkregen op een manier die in strijd is met het mededingingsrecht. Zo heeft Novartis na verwijdering van imatinib voor de indicatie CML uit het Weesgeneesmiddelenregister opnieuw marktexclusiviteit voor CML verkregen door aanwijzing als weesgeneesmiddel van het met imatinib vergelijkbare Tasigna (nilotinib). Op grond van het voorgaande is handhaving van ABC 300086 en ieder parallel buitenlands ABC na 21 juni 2016 onrechtmatig. Overigens dient de voorzieningenrechter zich onbevoegd te verklaren ten aanzien van het grensoverschrijdende deel van de vorderingen van Novartis. Voor de in Nederland gevestigde gedaagden (Teva B.V. Teva Pharma en Teva Europe) geldt dat geen van hen in Nederland voorbehouden handelingen in de zin van de Rijksoctrooiwet 1995 (ROW) zal verrichten. Zo is het houden van een centrale of nationale handelsvergunning geen inbreukmakende handeling. Naast de in de wet bepaalde bescherming voor voorbehouden handelingen is geen ruimte voor aanvullende bescherming uit hoofde van onrechtmatige daad. 
+
+
+3.4.
+Op de stellingen van partijen wordt hierna voor zover van belang nader ingegaan.  
+
+
+
+
+4 De beoordeling
+bevoegdheid
+
+4.1.
+Teva c.s. heeft voor alle weren de grensoverschrijdende bevoegdheid van de voorzieningenrechter betwist. 
+
+4.1.1.
+Met betrekking tot de vordering onder I stelt de voorzieningenrechter vast dat de rechtbank internationaal bevoegd is van deze vordering kennis te nemen aangezien deze vordering enerzijds betrekking heeft op de geldigheid van en inbreuk op een in Nederland geregistreerd ABC en anderzijds op het faciliteren van dergelijke inbreuk in Nederland door de in Nederland gevestigde gedaagden Teva B.V. Teva Pharma en Teva Europe. Bevoegdheid is dan te baseren op artikel 64 EVEX 200710 jo. artikel 4 EEX II-Vo en – gelet op het beroep op de nietigheid van het aanvullend beschermingscertificaat – artikel 24 lid 4 EEX II-Vo.11 Gelet daarop is de voorzieningenrechter ook bevoegd voorlopige maatregelen te nemen. Deze bevoegdheid staat tussen partijen ook niet ter discussie. 
+
+
+4.1.2.
+Met betrekking tot de vordering onder II overweegt de voorzieningenrechter dat deze vordering (enkel) is gebaseerd op onrechtmatige daad meer in het bijzonder bestaande uit betrokkenheid bij inbreuk op ABC 300086 en parallelle ABC’s in de in de dagvaarding genoemde landen verminderd met Italië. Aangezien aan de vordering geen inbreuk op een intellectueel eigendomsrecht ten grondslag is gelegd is het geen typische Gat/LuK-situatie.12 Vordering II is enkel gericht tegen de in Nederland gevestigde Teva B.V. Voor zover de vordering gericht is op onrechtmatig handelen in Nederland stelt de voorzieningenrechter vast dat hij op grond van artikel 4 EEX II-Vo bevoegd is daarvan kennis te nemen. Ook die bevoegdheid staat tussen partijen niet ter discussie. Voor zover de vordering onder II een grensoverschrijdend karakter heeft stelt de voorzieningenrechter vast dat hij – ongeacht de mogelijke toepasselijkheid van artikel 24 lid 4 EEX II-Vo – op grond van artikel 4 eveneens bevoegd is grensoverschrijdende voorlopige maatregelen te treffen. Aan die bevoegdheid wordt geen afbreuk gedaan door artikel 24 lid 4 EEX II-Vo aangezien de voorzieningenrechter slechts evalueert hoe de op grond van deze bepaling bevoegde nationale rechter zich over de geldigheid van de respectieve ABC’s zou uitspreken en hij de gevorderde voorlopige maatregel niet toekent indien er naar zijn oordeel een serieuze niet te verwaarlozen kans bestaat dat een ABC door de bevoegde rechter nietig wordt verklaard.13 Alternatief komt de voorzieningenrechter deze grensoverschrijdende bevoegdheid toe op grond van artikel 35 EEX II-Vo aangezien Teva B.V. in Nederland gevestigd is zodat sprake is van een reële band. Anders dan Teva c.s. heeft betoogd staan paragraaf 32 en 33 van de considerans van de EEX II-Vo daaraan niet in de weg. Deze wijzigingen ten opzichte van de oude EEX-verordening betreffen enkel de erkenning en de tenuitvoerlegging van voorlopige maatregelen en niet valt aan te nemen dat die wijzigingen ook gevolgen hebben voor de bevoegdheid voorlopige maatregelen te treffen. Dat ten aanzien van het gestelde onrechtmatig handelen een beoordeling naar vreemd recht noodzakelijk zal zijn ten aanzien van de vraag of er op de (respectieve) intellectuele eigendomsrechten in het buitenland inbreuk wordt gemaakt en in dat kader de geldigheid van die rechten moet worden onderzocht doet aan de (grensoverschrijdende) bevoegdheid ook niet af. Artikel 35 EEX-Vo heeft immers een autonome draagwijdte ten opzichte van artikel 24 EEX II-Vo14. 
+
+
+4.1.3.
+Met betrekking tot de vordering onder III stelt de voorzieningenrechter vast dat  deze deels is gebaseerd op octrooi-inbreuk en deels op onrechtmatige daad. Deze vordering is gericht tegen zowel de in Nederland gevestigde gedaagden Teva Pharma en Teva Europe als tegen in het buitenland gevestigde gedaagden Teva Belgium Ratiopharm en Teva UK en deze heeft uitsluitend betrekking op handelen buiten Nederland en (vermeende) inbreuken op buitenlandse aanvullende beschermingscertificaten. Voor de in Nederland gevestigde gedaagden geldt dat de voorzieningenrechter net als met betrekking tot de vordering onder II – ongeacht (mogelijke) toepasselijkheid van artikel 24 lid 4 EEX II-Vo – op de voet van artikel 4 EEX II-Vo bevoegd is zowel ten aanzien van de octrooi-inbreuk als de onrechtmatig daad ook grensoverschrijdend. Voor de buiten Nederland gevestigde gedaagden (hierna: de buitenlandse vennootschappen) ligt dit anders. Ten aanzien van deze gedaagden kan geen bevoegdheid worden ontleend aan artikel 35 EEX II-Vo aangezien de vereiste reële band met Nederland ten aanzien van de buitenlandse vennootschappen gesteld noch gebleken is. De verbondenheid van de buitenlandse vennootschappen met Teva Pharma (en/of Teva B.V. en Teva Europe) is in dit verband niet relevant. 
+
+
+4.1.4.
+Novartis heeft ten aanzien van de buitenlandse vennootschappen wel een beroep gedaan op artikel 8 aanhef en onder 1 EEX II-Vo wegens de samenhang met de vorderingen tegen de gedaagden die wel in Nederland gevestigd zijn. Voor toepassing van deze – in afwijking van de in artikel 4 lid 1 EEX II-Vo neergelegde hoofdregel – bijzondere bevoegdheidsbepaling is vereist dat tussen de vorderingen tegen de buitenlandse vennootschappen en die tegen de Nederlandse gedaagden een zo nauwe band bestaat dat een goede rechtsbedeling vraagt om gelijktijdige behandeling en berechting teneinde te vermijden dat bij afzonderlijke berechting van de zaken onverenigbare beslissingen worden gegeven. Hiervan kan slechts sprake zijn indien die beslissingen zien op eenzelfde situatie feitelijk en rechtens. Artikel 8 EEX II-Vo dient daarbij volgens vaste rechtspraak strikt te worden uitgelegd aangezien de bevoegdheidsregels een hoge mate van voorspelbaarheid moeten vertonen met als uitgangspunt de bevoegdheid van de rechter van de woonplaats van de verweerder. De voorzieningenrechter verwijst in dit verband naar jurisprudentie van de Hof van Justitie in de zaken Roche/Primus15 en Painer16 en Freeport17 en Solvay/Honeywell18. Met betrekking tot de gestelde samenhang wordt als volgt overwogen. 
+
+
+4.1.5.
+Indien met Novartis al zou worden aangenomen dat er sprake is van eenzelfde feitelijke situatie omdat de buitenlandse vennootschappen “behoren tot hetzelfde concern en zij op dezelfde of nagenoeg dezelfde wijze handelen overeenkomstig een gemeenschappelijk beleidsplan dat is uitgegaan van slechts een van hen” (vgl. rov. 34 en 35 van het Roche v. Primus-arrest van het HvJ EG) dan is het nog maar de vraag of sprake is van ‘eenzelfde situatie rechtens’. Het betreft immers vorderingen wegens (dreigende) inbreuk op per lidstaat verleende ABC’s en het gevaar voor onverenigbare beslissingen bij afzonderlijke berechting moet dan ook worden geacht afwezig te zijn (vgl. rov. 29 t/m 35 Roche/Primus). Zou desalniettemin op de voet van het Painer-arrest (rov. 84) worden aangenomen de omstandigheid dat de ABC’s op verschillende nationale grondslagen berusten niet aan toepassing van artikel 8 EEX II-Vo in de weg staat19 – hetgeen op grond van het nadien gewezen arrest Solvay v. Honeywell maar zeer de vraag is dan ontbreekt nog altijd de in de jurisprudentie vereiste voorzienbaarheid. Er zijn immers geen feiten of omstandigheden gesteld noch gebleken op grond waarvan kan worden aangenomen dat het voor de buitenlandse vennootschappen voorzienbaar was dat zij in Nederland konden worden opgeroepen. 
+
+
+4.1.6.
+Dit betekent dat ten aanzien van de buitenlandse vennootschappen ook geen bevoegdheid kan worden aangenomen op grond van artikel 8 aanhef en onder 1 EEX II-Vo. 
+
+
+4.1.7.
+Gelet op hetgeen is overwogen in 4.1.3 tot en met 4.1.6 zal de voorzieningenrechter zich ten aanzien van de vorderingen ingesteld tegen Teva Belgium Ratiopharm en Teva UK onbevoegd verklaren. Ten aanzien van vorderingen tegen de overige gedaagden Teva B.V. Teva Pharma en Teva Europe (hierna ook wel: Teva Nederland) is de voorzieningenrechter wel bevoegd. De relatieve bevoegdheid van deze rechtbank om van de vorderingen van Novartis kennis te nemen is door Teva Nederland niet betwist. 
+
+
+spoedeisend belang 
+
+ 
+
+
+
+4.2.
+Met de stelling van Novartis dat Teva Nederland vóór december 2016 in Nederland en daarbuiten generiek imatinib op de markt wenst te brengen is het voor deze procedure vereiste spoedeisend belang gegeven. Teva Nederland heeft op dit punt ook geen verweer gevoerd. 
+
+
+beoordelingskader
+
+ 
+
+
+4.3.
+Bij de beoordeling stelt de voorzieningenrechter voorop dat Novartis uit hoofde van de aan haar verleende ABC’s (met in Nederland een beschermingsduur tot 20 december 2016) in Nederland en de in andere landen waarvoor zij een ABC heeft anderen kan verbieden om met generiek imatinib op de markt te komen. Gelet daarop heeft Teva Nederland de maatschappelijke zorgvuldigheid jegens Novartis in acht te nemen die maakt dat zij niet welbewust inbreuk mag faciliteren. In deze procedure ligt het dan ook op de weg van Teva Nederland om aannemelijk te maken dat het ABC in Nederland en de overige betrokken landen ten onrechte is verleend en/of dat handhaving van die ABC’s jegens haar onrechtmatig is. 
+
+
+pediatrische verlenging 
+
+ 
+
+
+4.4.
+
+In de Pediatrische Verordening wordt in de daar voorziene beloningen en stimulansen voor door octrooi (of ABC) beschermde producten onderscheid gemaakt tussen geneesmiddelen die al dan niet zijn aangewezen als weesgeneesmiddel. Kort gezegd komt het erop neer dat weesgeneesmiddelen zijn uitgesloten van (het recht op) de in artikel 36 lid 1 van de Pediatrische Verordening voorziene ABC-verlenging met zes maanden. In plaats van de ABC-verlenging krijgen (door octrooi beschermde) weesgeneesmiddelen op grond van artikel 37 van de Pediatrische Verordening een verlenging van de in artikel 8 van de Weesgeneesmiddelenverordening voorziene marktexclusiviteit van 10 jaar naar 12 jaar. 
+In de verordening is evenwel niet expliciet opgenomen voor welke stimulans geneesmiddelen die in het verleden waren aangewezen als weesgeneesmiddelen in aanmerking komen.
+ 
+
+
+4.5.
+Niet in geschil is dat alle aanwijzingen van Glivec® (imatinib beschermd door ABC 300086) als weesgeneesmiddel op 16 april 2012 (en daarmee ruim voor de aanvraag van de uitbreiding van de handelsvergunning) waren ingetrokken door de Commissie en op dat moment waren geschrapt uit het Weesgeneesmiddelenregister ofwel op het moment van de beëindiging van de periode van marktexclusiviteit (CML) ofwel op verzoek van Novartis (alle andere indicaties). Evenmin is in geschil dat Novartis niet de in artikel 37 Pediatrische Verordening voorziene verlenging van twee jaar van de periode van marktexclusiviteit heeft genoten. Ten slotte is ook niet in geschil dat Novartis op zichzelf heeft voldaan aan de in de Pediatrische Verordening gestelde materiele voorwaarden om voor een beloning voor het uitgevoerde pediatrische onderzoek in aanmerking te komen.  
+
+
+4.6.
+
+Het geschil dat partijen verdeeld houdt is de vraag of de Pediatrische Verlenging voor imatinib voor de ABC’s terecht is afgegeven. In dit verband heeft Teva Nederland zich op het standpunt gesteld dat de uitzonderingsbepaling van artikel 36 lid 4 en 37 van de Pediatrische Verordening ook van toepassing is indien een geneesmiddel in het verleden aangewezen is geweest als weesgeneesmiddel. Het bezwaar van Teva Nederland is erin gelegen dat Novartis door de intrekking van het weesgeneesmiddelschap van imatinib een dubbele beloning zou genieten. Teva Nederland heeft daartoe verwezen naar paragraaf 29 van de considerans van de Pediatrische Verordening (zie 2.9.1) en de daaraan ten grondslag liggende passages in de EIA (zie 2.9.2). Volgens Teva Nederland was Novartis om die reden voor imatinib aangewezen op pediatrische beloning in de vorm van verlenging van de marktexclusiviteit met een periode van twee jaar en dient het voor haar rekening en risico te komen dat zij die door eigen toedoen (intrekking van de aanwijzing als weesgeneesmiddel) niet heeft genoten. Novartis heeft dit verweer gemotiveerd bestreden onder meer eveneens met verwijzing naar de EIA en daarnaast naar het in 2.10 vermelde verslag de in 2.11 en 2.12 vermelde rapporten en voorts naar het door de EMA ingenomen standpunt (zie 2.13).
+Naar het voorlopig oordeel van de voorzieningenrechter kan het standpunt van Teva Nederland niet worden gevolgd. Hiertoe wordt het volgende overwogen. 
+ 
+
+
+4.7.
+Op grond van vaste rechtspraak van het Hof van Justitie moet bij de uitleg van een bepaling van een Verordening niet uitsluitend worden uitgegaan van de bewoordingen ervan maar dient ook de algemene opzet en de doelstellingen van de regeling waarvan deze bepaling deel uitmaakt in de beschouwing te worden betrokken.20 
+
+4.7.1.
+
+In de eerste plaats geven de bewoordingen van artikel 36 lid 4 Pediatrische Verordening (en de daarmee vergelijkbare in artikel 37 van de verordening) geen aanwijzing voor de gedachte dat ook geneesmiddelen die in het verleden waren aangemerkt als weesgeneesmiddelen niet voor ABC-verlenging in aanmerking zouden komen. 
+In de gelijkwaardig authentieke versies van de Verordening staat immers geneesmiddelen (die) “als weesgeneesmiddelen zijn aangewezen” “designated as orphan medicinal products” “désignés comme médicaments orphelins” “als Arzneimittel für seltene Leiden ausgewiesen sind” en “declarados huérfanos”. Op grond van artikel 36 lid 1 en lid 2 van de Pediatrische Verordening ontstaat het recht op ABC-verlenging op het moment dat de aanvraag voor de handelsvergunning de resultaten van alle overeenkomstig de goedgekeurde PIP uitgevoerde onderzoeken bevat en een verklaring in de zin van artikel 28 van de Pediatrische Verordening in de verleende handelsvergunning wordt opgenomen. Op grond van artikel 37 lid 1 van de verordening geldt hetzelfde ingangsmoment voor de verlenging van de marktexclusiviteit. De bewoordingen van de bepaling in onderlinge samenhang bezien met het ingangsmoment van de beloningen doet vermoeden dat het moment van aanvraag dan wel dat van de opname van de verklaring van artikel 28 van de Pediatrische Verordening in de verleende handelsvergunning beslissend is voor het verkrijgen van de pediatrische beloning. Hoewel dat met een enkele toevoeging had gekund is in de artikelen 36 en 37 van de Pediatrische Verordening op geen enkele wijze tot uitdrukking gebracht dat geneesmiddelen die in het verleden als weesgeneesmiddel aangemerkt zijn geweest van toepassing van de ABC-verlenging zijn uitgesloten. 
+ 
+
+
+4.7.2.
+De door Teva Nederland gegeven uitleg wordt voorts ook niet ondersteund door paragraaf 29 van de considerans. Weliswaar wordt daar melding gemaakt van een ‘dubbele stimulans’ maar daaruit volgt niet dat in de Pediatrische Verordening bedoeld is de door Novartis gewenste beloning uit te sluiten. In de door Teva c.s. bedoelde paragraaf 29 van de considerans wordt ingezoomd op geneesmiddelen die zijn aangewezen als weesgeneesmiddel. Hierbij wordt onderscheid gemaakt tussen wel of niet door een octrooi beschermde producten. In dat verband wordt opgemerkt dat (i) een ABC-verlenging niet kan worden gegeven aan geneesmiddelen die niet door een octrooi worden beschermd; (ii) dat ABC-verlenging voor weesgeneesmiddelen een dubbele stimulans zou inhouden en (iii) dat weesgeneesmiddelen in plaats van met een ABC-verlenging worden beloond met verlenging van de marktexclusiviteit. Hieruit valt niets af te leiden over de status van geneesmiddelen die in het verleden waren aangewezen als weesgeneesmiddelen. 
+
+
+4.7.3.
+De in de considerans vermelde zorgen zijn te terug te vinden in de door de Commissie uitgevoerde marktconsultatie die is neergelegd in de EIA. In de EIA worden ten aanzien van de Pediatrische Verlenging twee zorgen onderscheiden: (i) de zorg dat de ABC-verlenging onmogelijk is voor niet door een octrooi beschermde geneesmiddelen; en (ii) de zorg dat door octrooi beschermde weesgeneesmiddelen een dubbele stimulans krijgen: namelijk ABC-verlenging én marktexclusiviteit. 
+
+
+4.7.4.
+Aan Teva Nederland moet worden toegegeven dat met betrekking tot de tweede zorg in de EIA en ook in de considerans (de dubbele stimulans) wordt verwezen naar de combinatie tussen zes maanden ABC-verlenging en de tien jaar marktexclusiviteit (de in artikel 8 van de Weesgeneesmiddelenverordening voorziene beloning). Hieruit kan evenwel niet worden afgeleid dat de communautaire wetgever in haar definitieve voorstel geheel aan die tweede zorg (die overigens inhoudelijk niet verder wordt toegelicht) tegemoet gekomen is. Net als de considerans vermeldt de EIA op dit punt immers dat zij in haar definitieve voorstel (i) weesgeneesmiddelen zal uitsluiten van ABC-verlenging; en (ii) dat weesgeneesmiddelen in plaats daarvan worden beloond met twee jaar extra marktexclusiviteit (tot twaalf jaar in plaats van tien jaar). De communautaire wetgever heeft aan weesgeneesmiddelen derhalve een alternatieve beloning toebedacht. Overigens zegt ook deze passage niets over geneesmiddelen die in het verleden als weesgeneesmiddel aangemerkt zijn geweest. 
+
+
+4.7.5.
+Uit doelstellingen van de Pediatrische Verordening (zoals neergelegd in randnummer 6 van de considerans (zie 2.9.1) en de hierboven vermelde passages van de EIA volgt evenwel dat het uitgangspunt van de Verordening is dat pediatrisch onderzoek moet worden beloond ook wanneer het weesgeneesmiddelen betreft. Uit de EIA (zie 2.9.2 onderaan) is immers af te leiden dat de Commissie heeft beoogd om de beloning voor weesgeneesmiddelen te matchen met die voor door octrooi beschermde (niet-wees)geneesmiddelen. De EIA vermeldt op dat punt namelijk dat in plaats van toekenning van zes maanden gekozen is voor toekenning van twee jaar additionele marktexclusiviteit aangezien marktexclusiviteit voor de weesindicatie minder waardevol wordt geacht dan ABC-bescherming die meerdere producten kan omvatten. Indien een geneesmiddel om welke reden dan ook zijn aanwijzing tot weesgeneesmiddel en de daarbij horende marktexclusiviteit heeft verloren is verlenging van de marktexclusiviteit uiteraard uitgesloten. Indien zo’n voormalig weesgeneesmiddel dan ook niet in aanmerking zou mogen komen voor ABC-verlenging zou aan deze categorie dus geen (extra) beloning voor pediatrisch onderzoek toekomen en dat zou dat strijdig zijn met voormeld uitgangspunt zonder dat daarvoor een rechtvaardiging bestaat. Voorts is in temporeel opzicht ook geen sprake van een dubbele beloning aangezien – door de intrekking van de weesgeneesmiddelenstatus – de marktexclusiviteit(verlenging) niet gelijktijdig met de ABC-verlenging wordt genoten. Hierbij merkt de voorzieningenrechter nog op dat Novartis voor de indicatie ALL ook niet de volledige periode van tien jaar marktexclusiviteit heeft genoten. Daar komt bij dat ook in artikel 8 van de Weesgeneesmiddelenverordening is bepaald dat deze verordening intellectuele eigendomsrechten (en andere communautaire rechten) onverlet laat. Zo bezien is ook daar geen bezwaar tegen ABC-verlenging voor (voormalig) weesgeneesmiddelen. 
+
+
+4.7.6.
+Gelet op hetgeen is overwogen in 4.7.1 tot en met 4.7.5 is de voorzieningenrechter dan ook voorshands van oordeel dat de opzet en de doelstellingen van de Pediatrische Verordening geen aanleiding geven om de uitzondering van artikel 36 lid 4 van die verordening aldus uit te leggen dat daaruit begrepen moet worden dat ook voormalig weesgeneesmiddelen van ABC-verlenging zijn uitgesloten. 
+
+
+4.7.7.
+Uit de in 2.13 vermelde e-mail van EMA aan Novartis en uit het door Novartis overgelegde verslag en de overgelegde rapporten (zie 2.10 2.11 en 2.12) volgt juist dat de Commissie en de EMA er beide van uitgaan dat aan voormalig weesgeneesmiddelen een ABC-verlenging kan worden toegekend. Hiertegenover heeft Teva Nederland geen feiten of omstandigheden naar voren gebracht waaruit zou kunnen volgen dat ABC-verlenging voor een voormalig weesgeneesmiddel desalniettemin onrechtmatig zou moeten worden geacht. Desgevraagd heeft de advocaat van Teva Nederland ter zitting verklaard dat hij en zijn kantoorgenoten voor het standpunt van Teva c.s. ook geen redelijke uitleg hebben kunnen verzinnen. 
+
+
+
+4.8.
+Gelet op het voorgaande ziet de voorzieningenrechter geen aanleiding om in dit kort geding aan te nemen dat Novartis geen recht had op de Pediatrische Verlenging voor imatinib. Dit geldt niet alleen voor ABC 300086 maar ook voor de in het buitenland verleende parallelle certificaten ten aanzien waarvan Teva Nederland geen zelfstandig verweer heeft gevoerd. 
+
+
+misbruik machtspositie/misleiding Octrooicentrum
+
+ 
+
+
+4.9.
+
+Teva Nederland heeft nog betoogd dat Novartis bij de verkrijging van haar Pediatrische Verlenging voor imatinib misbruik heeft gemaakt van haar machtspositie. Hoewel dat wel op haar weg lag heeft Teva Nederland dit betoog evenwel niet onderbouwd met voldoende concrete (economische) feiten en omstandigheden.21Teva Nederland heeft enkel verwezen naar Tasigna een geneesmiddel dat volgens Teva Nederland met imatinib vergelijkbaar zou zijn en dat kort na de intrekking van de weesgeneesmiddelenstatus van imatinib op haar beurt als weesgeneesmiddel zou zijn aangewezen. Novartis heeft hiertegen gemotiveerd verweer gevoerd en op dit punt onder meer aangevoerd dat “Teva” in een procedure bij het Gerecht in eerste Aanleg op in essentie dezelfde gronden zonder succes heeft getracht de marktexclusiviteit van Tasigna aan te vechten. Niet valt daarom in te zien in welk opzicht de marktexclusiviteit voor Tasigna misbruik van machtspositie met betrekking tot de Pediatrische Verlenging van imatinib oplevert. Voor zover Teva c.s. nog heeft betoogd dat Novartis bij de aanvraag van de ABC-verlenging het Octrooicentrum heeft misleid overweegt de voorzieningenrechter dat – gelet hetgeen hiervoor is overwogen over de verlening van de Pediatrische Verlenging niet valt in te zien dat Novartis het Octrooicentrum had behoren te informeren over de intrekking van de weesgeneesmiddelenstatus van imatinib. Dat de ABC-verlenging voor imatinib wegens misbruik van machtspositie en/of misleiding ten onrechte zou zijn verleend is dan ook niet aannemelijk geworden.
+
+verboden
+
+ 
+
+
+4.10.
+Gelet op hetgeen dat is overwogen in 4.3 tot en met 4.9 heeft Teva Nederland onvoldoende aannemelijk gemaakt dat de verlenging van ABC 300086 nietig is althans dat de beschermingsduur ten onrechte zou zijn verlengd. Daarmee moet tot uitgangspunt worden genomen dat de beschermingsduur van ABC 300086 tot 21 december 2016 is verlengd. Daarmee zijn de door Novartis gevorderde (inbreuk)verboden in beginsel toewijsbaar namelijk voor zover aannemelijk te achten is dat sprake is van een reële dreiging van inbreuk en/of van onrechtmatig handelen. Hetzelfde geldt voor de parallelle ABC’s in de in 2.19 vermelde landen met dien verstande dat er enige onduidelijkheid bestaat over de precieze einddatum van deze parallelle ABC’s.  
+
+
+verbod I
+
+ 
+
+
+4.11.
+De door Novartis onder I gevorderde verboden vallen uiteen in een inbreukverbod en een verbod op onrechtmatig handelen. Deze verboden zullen uitsluitend worden opgelegd voor zover Novartis de dreiging van inbreuk en/of onrechtmatig handelen door de betreffende gedaagde partij voldoende aannemelijk heeft gemaakt. Hierbij geldt zoals Teva Nederland heeft betoogd dat het sec houden van een handelsvergunning niet als een voorbehouden handeling kan worden beschouwd. Anders dan Teva Nederland heeft betoogd kan betrokkenheid bij een inbreuk wel een onrechtmatige daad opleveren. Dit geldt temeer wanneer het (aan de vermeend inbreukmaker gelieerde) partijen betreft die zelf geen inbreuk maken maar deze wel (opzettelijk) faciliteren. 
+
+
+4.12.
+Uit de in 2.26 vermelde brief van Teva Pharma leidt de voorzieningenrechter af dat deze vennootschap tezamen met andere niet bij naam genoemde vennootschappen na 20 juni 2016 met generiek imatinib in Nederland op de markt wenst te komen. In die brief verzoekt de advocaat van Teva Pharma Novartis ook nadrukkelijk om een toezegging dat de Pediatrische Verlenging niet jegens haar cliënt gehandhaafd wordt. Gelet hierop bestaat voldoende dreiging van inbreuk en is een verbod voor Nederland ten aanzien van Teva Pharma gerechtvaardigd. De omstandigheid dat het binnen het Teva-concern gebruikelijk zou zijn dat “in ieder geval” (de niet gedagvaarde vennootschappen) Teva Nederland en Pharmachemie in Nederland geneesmiddelen verhandelen maakt dat niet anders. Ten aanzien van de andere Nederlandse vennootschappen overweegt de voorzieningenrechter dat Novartis niet heeft gesteld of aannemelijk gemaakt dat zij ten aanzien van ABC 300086 voorbehouden handelingen zullen verrichten. Het inbreukverbod zal derhalve ten aanzien van deze gedaagden worden afgewezen. 
+
+
+4.13.
+Mede gelet op de uitspraak van de voorzieningenrechter van de (toenmalige) Rechtbank Utrecht in de zaak Teva/Boehringer22 is de voorzieningenrechter van oordeel dat Teva B.V. als houdster van de centrale handelsvergunning voor Imatinib Teva handelt in strijd met de maatschappelijke zorgvuldigheid indien zij toelaat of faciliteert dat vóór 21 december 2016 in Nederland Imatinib Teva op de markt wordt gebracht. Teva B.V. is immers bekend met de rechten van Novartis en het faciliteren van inbreuk op die rechten moet als onrechtmatig worden beschouwd. Gelet op het mede door Teva B.V. ingenomen standpunt met betrekking tot Pediatrische Verlenging van Novartis en nu zij geen toezegging heeft gedaan met betrekking tot het gebruik van haar handelsvergunning gedurende de looptijd van de Pediatrische Verlenging acht de voorzieningenrechter oplegging van een verbod op onrechtmatig faciliteren van inbreuk aangewezen. 
+
+
+4.14.
+Ten aanzien van Teva Europe heeft Novartis gesteld dat zij (net als Teva Pharma en/of Teva B.V.) rechtstreeks betrokken is bij het organiseren en mogelijk maken van octrooi-inbreuk in Nederland. In dit verband heeft Novartis gesteld dat Teva Europe controle en zeggenschap heeft over (haar dochtervennootschappen) Teva B.V. en Teva Pharma en dat zij namens deze vennootschappen brieven van Novartis heeft beantwoord waarin zij schrijft over háár ‘product launch plans’. 
+
+
+4.15.
+Teva Nederland heeft de gestelde zeggenschap van Teva Europe onvoldoende betwist. Hoewel uit de in 2.23 vermelde brief van 15 mei 2013 van Teva Europe niet zonder meer valt af te leiden dat Teva Europe mogelijk zelf generiek imatinib op de markt zou brengen acht de voorzieningenrechter het aannemelijk dat Teva Europe minst genomen op enigerlei wijze bij inbreuk in Nederland betrokken zou kunnen zijn. Dat deze brief dateert van vóór de Pediatrische Verlenging is niet van belang aangezien ook Teva Europe zich op het standpunt stelt dat de Pediatrische Verlenging nietig is en zij ook geen toezeggingen heeft willen doen over haar betrokkenheid bij de lancering van Imatinib Teva gedurende die verlenging. Oplegging van een verbod op onrechtmatig faciliteren van inbreuk is daarmee gerechtvaardigd. 
+
+
+verbod II
+
+ 
+
+
+4.16.
+Het ter beschikking stellen van de centrale handelsvergunning ten behoeve van de verhandeling van generiek imatinib in de in 2.19 vermelde landen is naar voorlopig oordeel eveneens onrechtmatig te achten indien en voor zover de daar verleende ABC’s overeind blijven. Met Novartis acht de voorzieningenrechter de dreiging dat Teva c.s. of andere vennootschappen binnen het Teva-concern voor afloop van de Pediatrische Verlenging in andere landen dan Nederland generiek imatinib op de markt brengen voldoende aannemelijk. Dit volgt uit de door Teva c.s. in deze procedure ingenomen standpunten en uit de omstandigheid dat zij in meerdere landen de nietigheid van de Pediatrische Verlenging heeft ingeroepen. Daarnaast heeft zij ook in deze procedure haar belang bij een first mover advantage benadrukt. Voorts hebben partijen geen afspraken weten te maken met betrekking tot een aan een product launch voorafgaande waarschuwingsperiode (vgl. 2.27 - 2.29). De met Italië verminderde vordering II zal derhalve worden toegewezen zij het met uitzondering van het Verenigd Koninkrijk waarvoor partijen een vertrouwelijke regeling hebben getroffen. Zonder nadere toelichting – die Novartis niet heeft gegeven – valt niet in te zien welk belang zij thans nog heeft bij oplegging van een verbod voor dat territoir. Dat de – kennelijk – ook in Duitsland lopende parallelle bodemprocedure in de weg zou staan aan het opleggen van een voorlopig verbod in dit geding is gesteld noch anderszins aannemelijk geworden. 
+
+
+verbod III
+
+ 
+
+
+4.17.
+Met betrekking tot de vordering onder III – die net als vordering I te splitsen is in een inbreukverbod en een (niet-IE) verbod op onrechtmatig handelen – overweegt de voorzieningenrechter dat deze ten aanzien van Teva Pharma gelet op de in 2.26 en 2.27 – 2.29 vermelde correspondentie (waaruit blijkt dat Teva Pharma niet bereid is te bevestigen dat zij in alle Europese landen waar het verlengde ABC van kracht is de markt niet zal betreden totdat – kort gezegd – het ABC expireert althans niet bereid is te bevestigen dat zij dat niet zal doen dan na een ‘two months notice’) en hetgeen is overwogen in 4.12 toewijsbaar is nu een voldoende dreiging van inbreuk kan worden aangenomen. Het inbreukverbod zal derhalve ten aanzien van Teva Pharma worden toegewezen maar alleen ten aanzien van Tsjechië en Ierland voor welke landen Teva Pharma houdster is van de nationale handelsvergunning. Voor Teva Europe ligt dit anders aangezien Novartis niet aannemelijk heeft gemaakt dat zij voorbehouden handelingen zal verrichten althans van een voldoende dreiging daartoe kan worden uitgegaan. Het inbreukverbod zal derhalve ten aanzien van Teva Europe worden afgewezen. 
+
+
+4.18.
+Overeenkomstig hetgeen de voorzieningenrechter met betrekking tot het onder II gevorderde verbod heeft overwogen ten aanzien van Teva B.V. acht de voorzieningenrechter het naar voorlopig oordeel eveneens onrechtmatig indien Teva Pharma als houdster van nationale handelsvergunningen voor Imatinib Teva voor Ierland en Tsjechië toelaat dat in de betreffende landen met die vergunning gedurende de geldigheidsduur van de ABC’s in die landen generiek imatinib op de markt wordt gebracht. Ten aanzien van Teva Pharma acht de voorzieningenrechter een verbod (op grond van onrechtmatige daad) voor die landen eveneens gedurende de geldigheidsduur van de respectieve ABC’s dan ook gerechtvaardigd. 
+
+
+4.19.
+Overeenkomstig hetgeen de voorzieningenrechter in 4.14 t/m 4.15 ten aanzien van Teva Europe heeft overwogen met betrekking tot het onder I gevorderde verbod acht de voorzieningenrechter oplegging van een verbod op betrokkenheid bij inbreuken in België en Duitsland eveneens gerechtvaardigd. Teva Nederland heeft de zeggenschap van Teva Europe over Teva Belgium en Ratiopharm en over handelingen in genoemde landen ook onvoldoende betwist. Voorts heeft Teva Europe met betrekking tot de marktintroductie van generiek imatinib in België en Duitsland brieven verzonden terwijl ook zij de in 4.17 bedoelde bevestiging niet heeft willen geven zodat voldoende aannemelijk is dat zij op enigerlei wijze bij mogelijke inbreuken in de betreffende landen betrokken zal zijn althans van een voldoende dreiging daartoe kan worden uitgegaan. 
+
+
+4.20.
+De op te leggen verboden zullen op de in het dictum te vermelden wijze en onder de hierna te vermelden voorwaarden worden opgelegd. De op te leggen verboden verliezen hun werking indien ABC 300086 en de parallelle ABC’s in de betreffende landen om welke reden dan ook hun geldigheid hebben verloren. 
+
+
+4.21.
+Oplegging van een dwangsom is passend en geboden. De dwangsom zal worden gemaximeerd op € 25.000.000-. 
+
+
+4.22.
+Er bestaat geen aanleiding om af te zien van uitvoerbaarverklaring bij voorraad. 
+
+
+proceskosten 
+
+ 
+
+
+4.23.
+Na de toelichting van partijen ter zitting begrijpt de voorzieningenrechter deze afspraak aldus dat partijen zijn overeengekomen dat de vergoeding voor het IE-deel van de procedure € 150.000- bedraagt en die voor het overige (niet-IE) deel nihil waarbij een hogere vergoeding (€ 110.000-) wordt toegerekend aan vordering I en een lagere (€ 40.000-) aan vordering III. Dit betekent dat uitsluitend een kostenveroordeling zal worden uitgesproken voor de vorderingen I en III. 
+
+
+4.24.
+Nu partijen de kosten niet verder hebben uitgesplitst tussen de gedaagde partijen zal de voorzieningenrechter ervan uitgaan dat op grond van de proceskostenafspraak de kosten evenredig over die partijen moet worden verdeeld.  
+
+
+4.25.
+Nu de voorzieningenrechter niet bevoegd is om kennis te nemen van de vorderingen tegen Teva Belgium Ratiopharm en Teva UK zal Novartis in de verhouding tot die partijen worden veroordeeld in de proceskosten. De kosten worden voor deze partijen tezamen begroot op (3/5 deel van de aan vordering III toegedeelde waarde van € 40.000- zijnde) € 24.000-;. 
+
+
+4.26.
+Nu de vorderingen I en III ten aanzien van de in Nederland gevestigde gedaagden grotendeels wordt toegewezen zullen zij als de in overwegende mate in het ongelijk gestelde partij worden veroordeeld in de daarop betrekking hebbende proceskosten aan de zijde van Novartis. Deze kosten zullen worden begroot op € 126.000-. 
+
+
+
+
+5 De beslissing
+De voorzieningenrechter: 
+
+5.1.
+verklaart zich onbevoegd om kennis te nemen van de vorderingen tegen Teva Belgium Ratiopharm en Teva UK; 
+
+
+5.2.
+verbiedt Teva Pharma om met onmiddellijke ingang na betekening van dit vonnis tot 21 december 2016 in Nederland inbreuk te maken op ABC 300086 onder meer door geneesmiddelen die imatinib omvatten te vervaardigen te gebruiken in het verkeer te brengen of verder te verkopen af te leveren of anderszins te verhandelen dan wel voor een of ander aan te bieden in te voeren of in voorraad te hebben; 
+
+
+5.3.
+verbiedt Teva B.V. en Teva Europe om met onmiddellijke ingang na betekening van dit vonnis onrechtmatig te handelen meer in het bijzonder door betrokken te zijn bij inbreuken zoals vermeld onder 5.2; 
+
+
+5.4.
+verbiedt Teva B.V. om met onmiddellijke ingang na betekening van dit vonnis gedurende de geldigheidsduur van de betreffende ABC’s in de betreffende in 2.19 vermelde landen onrechtmatig te handelen meer in het bijzonder door betrokken te zijn bij het in de handel brengen van geneesmiddelen die imatinib omvatten in de in 2.19 vermelde landen met uitzondering van Italië en het Verenigd Koninkrijk door de Teva-vennootschappen of zulks te bevorderen of te faciliteren waaronder mede wordt verstaan het niet volledig en onvoorwaardelijk intrekken van direct of indirect gegeven toestemming aan andere Teva-vennootschappen om geneesmiddelen die imatinib omvatten in de betreffende landen in de handel te brengen; 
+
+
+5.5.
+verbiedt Teva Pharma om met onmiddellijke ingang na betekening van dit vonnis gedurende de geldigheidsduur van de betreffende ABC’s in Tsjechië en/of Ierland geneesmiddelen die imatinib omvatten in genoemde landen in de handel te brengen althans onrechtmatig te handelen meer in het bijzonder door het betrokken zijn bij het in de handel brengen van geneesmiddelen die imatinib omvatten door andere vennootschappen behorend tot het Teva-concern in Tsjechië en/of Ierland of om dit te bevorderen of te faciliteren waaronder mede wordt verstaan het niet volledig of onvoorwaardelijk intrekken van de op basis van de nationale handelsvergunning voor die landen aan andere tot het Teva-concern behorende vennootschappen verleende toestemming om geneesmiddelen die imatinib omvatten op de markt te brengen; 
+
+
+5.6.
+verbiedt Teva Europe om met onmiddellijke ingang na betekening van dit vonnis gedurende de geldigheidsduur van de betreffende ABC’s in België en/of Duitsland onrechtmatig te handelen meer in het bijzonder door betrokken te zijn bij het in de handel brengen van geneesmiddelen die imatinib omvatten door andere vennootschappen behorend tot het Teva-concern in België en/of Duitsland of om dit te bevorderen of te faciliteren waaronder mede wordt verstaan het niet volledig of onvoorwaardelijk intrekken van de op basis van de nationale handelsvergunning voor die landen aan andere tot het Teva-concern behorende vennootschappen verleende toestemming om geneesmiddelen die imatinib omvatten op de markt te brengen; 
+
+
+5.7.
+bepaalt dat bij overtreding van de onder 5.2 tot en met 5.6 opgelegde verboden de betreffende gedaagde een dwangsom verbeurt van € 100.000- per dag of zulks ter keuze van Novartis van € 5.000- per product met een maximum van (in totaal) € 25.000.000-; 
+
+
+5.8.
+veroordeelt Novartis in de proceskosten aan de zijde van Teva Belgium Ratiopharm en Teva UK tot op heden begroot op (in totaal) € 24.000-;  
+
+
+5.9.
+veroordeelt Teva B.V Teva Pharma en Teva Europe in de overige proceskosten aan de zijde van Novartis tot op heden begroot op € 126.000-; 
+
+
+5.10.
+verklaart dit vonnis met uitzondering van 5.1. tot zover uitvoerbaar bij voorraad; 
+
+
+5.11.
+
+bepaalt de termijn voor het instellen van een eis in de hoofdzaak in de zin van 
+artikel 1019i Rv op zes maanden na heden;
+ 
+
+
+5.12.
+wijst af het meer anders gevorderde.  
+
+Dit vonnis is gewezen door mr. J.Th. van Walderveen en in het openbaar uitgesproken op 30 maart 2016 in tegenwoordigheid van mr. W. Jansen als griffier. 
+
+
+
+1
+ Verordening (EG) nr. 141/2000 van het Europees Parlement en de Raad van 16 december 1999 inzake weesgeneesmiddelen.
+2
+ Verordening (EG) nr. 1901/2006 van het Europees Parlement en de Raad  van 12 december 2006 betreffende de geneesmiddelen voor pediatrisch gebruik en tot wijziging van Verordening (EEG) nr. 1768/92 Richtlijn 2001/20/EG Richtlijn 2001/83/EG en Verordening (EG) nr. 726/2004. 
+3
+ European Medicines Agency (hierna ook: het Europese Geneesmiddelenagentschap).
+4
+ Verordening (EG) nr. 469/2009 van het Europees Parlement en de Raad van 6 mei 2009 betreffende het aanvullende beschermingscertificaat voor geneesmiddelen. Dit betreft een codificatie van Verordening (EEG) nr. 1768/92.  
+5
+ Deze brief is door Teva overgelegd als productie 26C.
+6
+ Vertrouwelijke productie 42 van Novartis
+7
+ Een Tomlin-order is een wijze van tenuitvoerlegging van een schikking waarbij partijen (uitsluitend) bij niet-nakoming van die schikking de procedure kunnen heropenen met het oog op de (gedwongen) tenuitvoerlegging ervan.
+8
+ Zie 2.19 van dit vonnis.
+9
+ Vzr. Rb Utrecht 15 augustus 2012 ECLI:NL:RBUTR:2012:7331 (Boehringer/Teva c.s.)
+10
+ Verdrag van 30 oktober 2007 PbEU 2009 L 147.
+11
+ Verordening (EU) Nr. 1215/2012 van het Europees Parlement en de Raad van 12 december 2012 betreffende de rechterlijke bevoegdheid de erkenning en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken (herschikking).
+12
+ HvJ EG 13 juli 006 zaak C-4/03 ECLI:NL:XX:2006:AY6818 (GAT/LuK).
+13
+ Hof Den Haag 20 mei 2014 ECLI:NL:GHDHA:2014:1727 (Apple/Samsung).
+14
+ HvJ EU 12 juli 2012 zaak C-616/10  ECLI:NL:XX:2012:BX2267 (Solvay/Honeywell c.s.) Vzr. Rb Utrecht 15 augustus 2012 ECLI:NL:RBUTR:2012:7331 (Boehringer/Teva c.s.).
+15
+ HVJ EG 13 juli 2006 (zaak C-539/03 ECLI:NL:XX:2006:AY:6817 NJ 2008/76 (Roche/Primus)
+16
+ HvJ EU 1 december 2011 (zaak C-145/10 ECLI:EU:C:2011:798) (Painer/Standard Verlag)
+17
+ HvJEG 11 oktober 2007 zaak C-98/06 ECLI:EU:C:2007:595 NJ 2008/80 (Freeport/Arnoldussen)
+18
+ HvJEU 12 juli 2012 zaak C-616/10  ECLI:NL:XX:2012:BX2267 (Solvay/Honeywell).
+19
+ Vgl. noot mr. S.J. Schaafsma bij het Painer-arrest IER 2012 afl. 2 pp. 155-158.
+20
+Vgl. HvJ EG 3 september 2009 C-482/07 AHP Manufacturing punt 27 ECLI:EU:C:2009:501 en HvJ EU 11 november 2010 C-229/09 Hogan Lovells International punt 32 ECLI:EU:C:2010:673.
+21
+ HR 21 december 2012 (ANVR c.s. v. IATA) ECLI: NL:HR:2012:BX0345
+22
+
+ Vzr. Rb. Utrecht 15 augustus 2012 ECLI:NL:RBUTR:2012:7331 (Boehringer/Teva c.s.)

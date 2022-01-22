@@ -1,0 +1,742 @@
+
+
+Rechtbank Rotterdam
+
+Team straf 3
+ 
+
+Parketnummers: 10/997378-15 en 10/702076-16 (gevoegd ter terechtzitting)
+Uitspraakdatum: 30 mei 2018
+Tegenspraak
+ 
+
+Vonnis van de rechtbank Rotterdam meervoudige kamer voor strafzaken in de zaak tegen de verdachte:
+ 
+
+
+
+          [naam verdachte] 
+
+geboren te [geboorteplaats verdachte] op [geboortedatum verdachte]  
+ingeschreven in de basisregistratie personen op het adres 
+
+        [adres verdachte]  [woonplaats verdachte] 
+bijgestaan door mr. J.P. Plasman advocaat te Amsterdam.
+
+
+
+
+1 Onderzoek op de terechtzitting
+Gelet is op het onderzoek op de terechtzittingen van 13 17 18 19 april en 30 mei 2018.
+
+
+
+2 Tenlastelegging
+Aan de verdachte is ten laste gelegd hetgeen is vermeld in de dagvaarding met parketnummer 10/997378-15 zoals deze op de terechtzitting overeenkomstig de vordering van de officier van justitie is gewijzigd en hetgeen is vermeld in de dagvaarding met parketnummer 10/702076-16. De tekst van de (gewijzigde) tenlastelegging met een door de rechtbank aangebrachte doorlopende nummering is als bijlage I aan dit vonnis gehecht. 
+
+
+
+3 Eis van de officier van justitie
+De officier van justitie mr. M. van der Zwan heeft gevorderd:
+
+-
+bewezenverklaring van de ten laste gelegde feiten behoudens ten aanzien van het witwassen van de personenauto met kenteken [kentekennummer 1] ;
+
+-
+veroordeling van de verdachte tot een gevangenisstraf voor de duur van 6 jaar met aftrek van de tijd die hij reeds in voorarrest heeft doorgebracht;
+
+-
+opheffing van de schorsing van de voorlopige hechtenis.
+
+
+
+
+
+4 Waardering van het bewijs
+
+4.1.
+
+
+  Standpunt van de verdediging
+
+De raadsman heeft integrale vrijspraak bepleit voor feit 1. Daartoe heeft hij aangevoerd dat direct bewijs voor de criminele herkomst van de door de verdachte verhandelde bitcoins ontbreekt en dat in ieder geval niet wettig en overtuigend is bewezen dat de verdachte wetenschap had van de vermeende criminele herkomst. Dat de verdachte mogelijk rond medio 2015 wetenschap had van de herkomst van de door hem van ‘de Turken’ gekochte bitcoins betekent niet per definitie dat hij deze wetenschap ook al had voordat hij zoals de officier van justitie meent werkzaamheden met betrekking tot de pillenlijn van hen zou hebben overgenomen. Nog daargelaten dat niet vast staat dat deze Turken dezelfde Turken zijn als waarvoor de verdachte bitcoins wisselde vóór juli 2015.
+Zelfs als een groot deel van de door de verdachte verhandelde bitcoins zoals de officier van justitie beweert in aanraking zou zijn geweest met het darkweb dan blijkt daaruit nog niet van een criminele herkomst. Daar komt bij dat niet alle door de verdachte verhandelde bitcoins zijn te relateren aan het darkweb. Dat is van belang omdat de officier van justitie in de ontnemingszaak tegen de medeverdachte [naam medeverdachte 1] het standpunt heeft ingenomen dat het wederrechtelijk verkregen voordeel berekend moet worden over de bitcoins die gerelateerd kunnen worden aan het darkweb. Daarmee kan niet anders bedoeld zijn dan dat ter zake de bitcoins die niet gerelateerd kunnen worden aan het darkweb geen sprake is van witwassen. De verdachte dient dan ook te worden vrijgesproken voor de hoeveelheid bitcoins en voor die geldbedragen die niet aan het darkweb te relateren zijn.
+ 
+
+Ten aanzien van de feiten 2 en 3 is geen bewijsverweer gevoerd.
+ 
+
+De raadsman heeft ten aanzien van feit 4 aangevoerd dat niet vast staat dat het telefoonnummers waarmee de bedreigende sms-berichten zijn verstuurd aan de verdachte toebehoren. Het dossier bevat uitsluitend een document van de hand van [naam medeverdachte 1] waaruit zulks zou moeten blijken. Zelfs als de berichten al afkomstig zijn van telefoonnummers van de verdachte betekent dat nog niet dat hij de afzender is geweest of wetenschap had over de verzending ervan. 
+
+Met betrekking tot feit 5 heeft de raadsman aangevoerd dat de verbalisant heeft gerelateerd dat het gesprek van 1 april 2015 ‘vermoedelijk met [naam verdachte] ’ is gevoerd; dit kan niet worden aangemerkt als een stemherkenning. Bovendien blijkt uit de aangifte van [naam medeverdachte 1] niet hoe hij erbij komt dat hij door de verdachte is gebeld. Dat [naam medeverdachte 1] denkt dat de verdachte een motief voor een bedreiging heeft is daarvoor onvoldoende.
+ 
+
+
+4.2.
+
+  Het oordeel van de rechtbank
+12 
+
+4.2.1.
+
+
+Algemene overweging gebruik telefoonnummers
+
+In het onderzoek IJsberg is gespreksverkeer en dataverkeer opgenomen en uitgeluisterd dan wel –gelezen welk verkeer heeft plaatsgevonden met in het onderzoek bekend geworden telefoonnummers. De rechtbank geeft hieronder aan op basis van welke gegevens zij oordeelt dat specifieke telefoonnummers aan de verdachte en medeverdachte [naam medeverdachte 2] toebehoren.
+ 
+
+
+de verdachte
+De verdachte heeft verklaard dat het nummer [gsm-nummer 1] van hem is.3 Uit een kamer van koophandel uittreksel van het bedrijf van de verdachte blijkt dat ook het nummer [gsm-nummer 2] van hem is.4
+ 
+
+
+
+              [naam medeverdachte 2]
+            
+
+ heeft verklaard dat hij de gebruiker was van de telefoonnummers [gsm-nummer 3] en [gsm-nummer 4] .5
+ 
+
+
+4.2.2.
+
+Feit 1 (witwassen)
+ 
+
+
+4.2.2.1. Inleiding
+
+Uit het onderzoek van de FIOD blijkt dat de verdachte in de periode van 23 maart 2014 tot en met 14 januari 2016 heeft gehandeld in bitcoins. In totaal heeft hij in deze periode 25.30164 bitcoins verkocht die een waarde vertegenwoordigden van € 6.435.43414.6
+Door de verdediging is aangevoerd dat niet uit te sluiten valt dat er door de FIOD fouten zijn gemaakt bij de reconstructie van de transacties en dat daarom niet uitgegaan kan worden van deze aantallen. Dit verweer slaagt niet. Immers de FIOD concludeert uiteindelijk dat de verdachte met zijn bitcoinhandel € 223.83318 heeft verdiend7 en de verdachte heeft op zitting verklaard met bitcoins een bedrag van € 200.00000 a € 250.00000 te hebben verdiend. Daarmee is gegeven dat de reconstructie van de transacties geen fouten van meer dan ondergeschikte betekenis bevat.
+ 
+
+
+4.2.2.2. Witwassen bitcoins uit handel door de Turken
+
+Bij de doorzoeking in de woning [adres 1 delict ] te Rotterdam is in de slaapkamer van de verdachte8 een notitieblok aangetroffen.9 In dit notitieblok heeft de verdachte de administratie bijgehouden van de door hem in de periode van 1 april 2014 tot en met 23 september 2015 aan- en verkochte bitcoins.10 De FIOD heeft een overzicht gemaakt van de in het notitieblok genoteerde transacties. Uit dit overzicht is gebleken dat de verdachte in voornoemde periode in totaal voor € 5.165.809- bitcoins heeft gekocht van de in het overzicht genoemde Turken.11 De verdachte heeft verklaard dat de Turken zijn grootste klanten waren. Gevraagd naar de identiteit van de Turken heeft de verdachte verklaard dat de Turk zich [naam 1] noemde.12 De verdachte kocht één à twee keer per week bitcoins van [naam 1] voor € 50.000 per keer. [naam 1] komt uit ’s-Hertogenbosch en de communicatie verliep via een gecrypted telefoon die hij speciaal daarvoor van [naam 1] had ontvangen.13 De verdachte heeft ter terechtzitting verklaard dat [naam 1] gemiddeld 6% fee betaalde.14
+ 
+
+Met betrekking tot de herkomst van de bitcoins die de verdachte van ‘de Turken’ kocht en de wetenschap van de verdachte daarover kent de rechtbank betekenis toe aan het volgende. 
+ 
+
+Op 26 mei 2015 is door een observatieteam van de FIOD waargenomen dat de verdachte in Breda een ontmoeting had met de bestuurder van een personenauto merk BMW voorzien van kenteken [kentekennummer 2] . Deze bestuurder is [naam medeverdachte 3] .1516 Waargenomen is dat [naam medeverdachte 3] bij deze ontmoeting een tas heeft ontvangen van de verdachte.17 Op 23 juli 2015 is [naam medeverdachte 3] aangehouden. Bij zijn aanhouding zijn een grote hoeveelheid XTC-pillen € 19.000 aan contanten en diverse soorten verpakkingsmateriaal in beslag genomen.18
+ 
+
+Op 30 juli 2015 voert de verdachte een gesprek met [naam medeverdachte 4] . In dit gesprek zegt de verdachte onder meer: ‘Je weet toch datgeen waar de Turken mee werken. Ze willen gewoon aan ons geven man. Die dikke is gepakt. Ik heb alles. Ik heb alleen appartement nodig.’ [naam medeverdachte 4] biedt aan om met een persoon genaamd [naam 2] te praten over het huis waarop de verdachte zegt dat dit niet over de telefoon kan.19
+ 
+
+Op 28 juli 2015 voert de verdachte een gesprek in zijn auto met ene [naam 3]  waarin hij onder meer zegt: “Ik heb alles alleen het huis. Het belangrijkste is huis en die machine. Die machine ga ik straks regelen.’ Op de vraag waarom het vacuüm moet antwoordt de verdachte: ‘Die pillen als je zo doet hoor je ze schudden. Als je in die zak doet trek je die lucht eruit. Blijft stevig strak.’20
+ 
+
+Eerder in het gesprek met [naam 3]  wordt het volgende besproken: 
+
+Y: Voordat zij hun pakketten hebben ontvangen sturen die mensen die bitcoins op
+
+N: maar kijk die pakketje hoe gaan we dat doen
+
+Y: gaan we maken twee dagen per week inpakken enzo en dan opsturen. (…) niet van Nederland via Duitsland de grens
+
+N: gaan we opsturen
+
+Y: ja want als je hier opstuurt Nederland is risico land.
+
+ 
+
+In een ander gesprek van 28 juli 2015 wordt door de verdachte onder meer het volgende besproken:
+
+N: wat gaat hij doen dan hij gaat gewoon die orders sturen en zo
+
+
+Y: ja naar mij. Hij geeft mij die adressen en wat er moet in die bestellingen. (…) hele lijst en hij ontvangt die bitcoins en die geeft hij aan mij. (…) ik wissel die ook gelijk voor hem. 
+
+N: voor hem deed je dat al toch
+
+Y: Ja. (…) 
+
+(….)N: over te nemen. Hij heeft al alles gedaan. Klanten zijn er. Wordt nog steeds via hem geregeld.Y: ja.21
+ 
+
+Gelet op de combinatie van voornoemde bewijsmiddelen en de hierna te noemen bewijsmiddelen over feit 2 en 3 – kort gezegd: de vondst van XTC pillen van de verdachte en goederen voor de verzending daarvan – gaat de rechtbank ervan uit dat de verdachte eind juli 2015 een drugslijn van ‘de Turken’ heeft overgenomen en dat hij daarvoor al voor hen optrad als bitcoincasher voor contant geld. Verdachte is ter zitting uitdrukkelijk uitgenodigd hierover te verklaren hetgeen hij niet heeft gedaan. Ook bij de FIOD is hij hierover weinig mededeelzaam geweest. Gelet op deze feiten en omstandigheden die schreeuwen om een verklaring van de verdachte moet het ervoor worden gehouden dat de bitcoins van ‘de Turken’ afkomstig zijn uit de drugshandel en dat de verdachte daarvan op de hoogte was ook al voordat hij de drugslijn overnam. Het laat zich immers moeilijk denken dat ‘de Turken’ hem gevraagd zouden hebben om de drugslijn over te nemen als hij voorafgaand aan die overname nog van niets wist. Dat ‘de Turken’ van wie de verdachte werkzaamheden heeft overgenomen mogelijk andere Turken zijn dan degenen voor wie de verdachte vóór die tijd bitcoins wisselde zoals de raadsman heeft betoogd is niet aannemelijk geworden en de verdachte verklaart hierover ook niets concreets. De rechtbank is dan ook van oordeel dat de verdachte zich voor wat betreft de van ‘de Turken’ afkomstige bitcoins schuldig heeft gemaakt aan witwassen.
+ 
+
+
+4.2.2.3. Witwassen bitcoins uit eigen drugshandel
+
+Zoals hiervoor is overwogen staat vast dat de verdachte zich vanaf eind juli 2015 bezig heeft gehouden met druggerelateerde werkzaamheden. Uit de hiervoor weergegeven bewijsmiddelen is gebleken dat die werkzaamheden hebben bestaan uit het verpakken en verzenden van ‘pillen’ (de rechtbank begrijpt in het licht van de hierna te bespreken resultaten van de doorzoeking van de [adres 2 delict ] : XTC-pillen) naar het buitenland; de betaling vond plaats in bitcoins. De rechtbank gaat er dan ook van uit dat (een deel van) de bitcoins die na juli 2015 in de wallets van de verdachte zijn bijgeschreven afkomstig zijn van de handel in drugs. Gebleken is dat de door de verdachte na juli 2015 verkregen bitcoins deels via Kraken.com en deels aan anderen zijn verkocht.22 Met deze omzetting is de criminele herkomst van de bitcoins verhuld. 
+ 
+
+
+4.2.2.4. Witwassen van anderen dan de Turken/uit eigen drugshandel afkomstige bitcoins 
+
+Vast staat dat de verdachte ook andere klanten had dan de Turken. De verdachte heeft immers over zijn bitcoinhandel verklaard dat hij ook bitcoins kocht van [naam 4] uit Antwerpen en van [naam 5] . De verdachte kocht bitcoins tegen contanten op.23 Van [naam 4] kocht de verdachte één keer per week bitcoins voor ongeveer € 20.000-. De ontmoetingen met [naam 4] vonden plaats op het station in Den Haag. De transacties met [naam 5] vonden eens in de twee à drie weken plaats voor een bedrag van ongeveer € 30.000-. De ontmoetingen met [naam 5] vonden plaats bij de Burger King in Groningen.24 In het notitieblok van de verdachte staan ook nog andere verkopers genoemd zoals [naam 6]  [naam 7]  [naam 8] enz.25 De verdachte heeft verklaard niet te weten hoe zijn klanten aan hun bitcoins kwamen.26 De fee bedroeg ongeveer 6%.27 De opgekochte bitcoins verkocht de verdachte vervolgens door aan [naam 9]  [naam 10] en een Marokkaanse man.28 Ook verkocht de verdachte de bitcoins via Kraken en Bitconic.29
+ 
+
+De rechtbank zal deze groep klanten aanduiden als ‘de andere klanten’. Vastgesteld kan worden dat voor de handel met deze klanten zonder meer een vermoeden van witwassen geldt. Immers de verdachte kocht op meerdere momenten grote hoeveelheden bitcoins tegen (aanzienlijke) contante geldbedragen. De door hem gekochte bitcoins verkocht hij ofwel direct door ofwel liet hij vervolgens verzilveren bij Kraken en Bitconic voor giraal geld. De transacties met zijn klanten vonden plaats in openbare gelegenheden onder meer op het station en bij de Burger King. De verdachte hanteerde bij de koop van de bitcoins een provisie van 6%. Dit percentage is aanzienlijk hoger dan het percentage dat een regulier bitcoinexchangebedrijf als Bitconic hanteert30 waar de uitbetaling plaatsvindt via een bankrekening in plaats van in contanten. [naam 11] verklaart hierover dat de extra vergoeding bij een cashtrade een vergoeding betreft voor anonimiteit.31
+ 
+
+Gelet op dit vermoeden van witwassen mag op grond van vaste rechtspraak van de verdachte worden verlangd dat hij een concrete min of meer verifieerbare en niet op voorhand onaannemelijke verklaring geeft voor de legale herkomst van de bitcoins van deze klanten. Nu de verdachte hiervoor geen verklaring heeft gegeven en een mogelijke legale herkomst evenmin uit het dossier blijkt is er geen andere conclusie mogelijk dan dat het niet anders kan zijn dan dat deze bitcoins onmiddellijk of middellijk uit enig misdrijf afkomstig zijn. Gelet op de omstandigheden waaronder deze handel plaatsvond moet bovendien geoordeeld worden dat de verdachte minst genomen de aanmerkelijke kans heeft aanvaard dat hij met de andere klanten bitcoins witwaste.
+ 
+
+Het verweer van de raadsman dat niet vaststaat dat de door de verdachte verhandelde bitcoins afkomstig zijn van het darkweb en dat reeds daarom witwassen niet bewezen kan worden slaagt gelet op het voorgaande niet. 
+ 
+
+
+4.2.2.5. Conclusies ten aanzien van het witwassen van bitcoins
+
+De rechtbank acht wettig en overtuigend bewezen dat de verdachte in de periode van 23 maart 2014 tot en met 14 januari 2016 bitcoins en girale en/of chartale gelden heeft witgewassen. Dit betreft een aantal van 25.30164 verkochte bitcoins met een waarde van € 6.435.43414.32
+ 
+
+Gelet op de omvang van het totaal aantal bitcoins dat door de verdachte is witgewassen en de periode waarin dit is gebeurd acht de rechtbank bewezen dat sprake is van gewoontewitwassen.
+ 
+
+
+4.2.2.6. Witwassen personenauto’s
+
+ 
+
+
+Vrijspraak Audi [kentekennummer 1]
+
+De rechtbank is met de officier van justitie en de verdediging van oordeel dat niet wettig en overtuigend is bewezen dat de verdachte zich schuldig heeft gemaakt aan het witwassen van de Audi A1 personenauto voorzien van het kenteken [kentekennummer 1]  zodat hij daarvan zonder nadere motivering zal worden vrijgesproken.
+ 
+
+
+Bewezenverklaring Mercedes [kentekennummer 3]
+
+Op 28 augustus 2015 neemt de verdachte telefonisch contact op met [naam autobedrijf] en vraagt naar een Mercedes 220 CLA met het kenteken [kentekennummer 3] . In dit gesprek wordt afgesproken dat de verdachte de auto op 29 augustus 2015 om 15:30 uur mag bezichtigen en er een proefrit mee mag maken.33 Op 29 augustus 2015 verschijnt de verdachte met zijn broer [naam medeverdachte 2] bij [naam autobedrijf] . Aldaar wordt een aankoopprijs overeengekomen van € 35.000. [naam medeverdachte 2] tekent de koopovereenkomst en betaalt 
+€ 2.000- contant aan. Ze spreken af dat bij de aflevering € 10.000 contant wordt betaald en het restant per bank wordt overgemaakt.3435 Op 4 september 2015 om 10:58 uur wordt [naam medeverdachte 2] gebeld door [naam autobedrijf] met de mededeling dat de auto kan worden opgehaald. Hierop belt [naam medeverdachte 2] de verdachte en deelt hem mede dat hij de auto kan ophalen. Afgesproken wordt dat de auto voor een paar dagen op naam van [naam medeverdachte 2] komt te staan.36 Om 17:15 uur belt de verdachte zijn broer [naam medeverdachte 2] en zegt dat hij de auto heeft opgehaald.37 Uit de tenaamstelling bij de RDW blijkt dat [naam medeverdachte 2] op 4 september 2015 het voertuig met kenteken [kentekennummer 3] op naam heeft staan. Op 10 september 2015 wordt het voertuig overschreven op naam van [naam 12] .38 [naam medeverdachte 2] heeft verklaard dat deze auto van de verdachte was en dat hij mee is gegaan met de verdachte om de auto te kopen.39
+ 
+
+De rechtbank is op grond van voornoemde bewijsmiddelen in onderling verband en samenhang bezien van oordeel dat de personenauto met het kenteken [kentekennummer 3] toebehoort aan de verdachte. Nu niet is gebleken van een legale inkomensbron in 2015 van enige betekenis houdt de rechtbank het ervoor dat de verdachte een deel van het geldbedrag dat door de bitcoinhandel danwel de drugshandel is verkregen heeft besteed aan de aanschaf van deze personenauto. Op deze manier heeft de verdachte middellijk uit misdrijf afkomstige geldbedragen omgezet en daarmee een volgende witwashandeling verricht. 
+ 
+
+
+4.2.3.
+
+
+Feit 2 en feit 3 (drugs)
+
+Op 19 januari 2016 is de woning aan de [adres 2 delict ] te Den Haag doorzocht.40 De verdachte en/of zijn Mercedes met kenteken [kentekennummer 3] zijn in een periode van ruim twee maanden diverse malen gesignaleerd/op camera vastgelegd in de directe omgeving van de [adres 2 delict ] .41 Tijdens de doorzoeking zijn 6 zakken met tabletten en 7 zakken met brokken/kristallen aangetroffen. De aangetroffen tabletten en brokken/kristallen zijn gewogen en bemonsterd42 waarna de monsters zijn getest. Uit deze testen is gebleken dat het alle monsters MDMA bevatten.43 In de woning waren bovendien een vacuümmachine aanwezig en sealzakken weegschalen en enveloppen. De aangetroffen vacuümmachine is door de verdachte gekocht op 28 juli 2015 en werd op 30 juli aan hem afgeleverd.44 Het dossier bevat verder diverse belastende telefoongesprekken en OVC gesprekken die door de verdachte zijn gevoerd over -kort gezegd- drugshandel waarbij drugs per post via Duitsland naar de afnemers wordt gestuurd.4546 Tot slot zijn op het notitieblok van de verdachte aantekeningen met de afkorting ‘AG’ aangetroffen die betrekking hebben op de verdiensten uit de drugshandel en op zaken die tijdens de doorzoeking zijn aangetroffen zoals de vacuümmachine47. Gelet op deze omstandigheden waar de verdachte geen enkele uitleg voor geeft zijn de feiten 2 en 3 wettig en overtuigend bewezen.
+ 
+
+
+4.2.4.
+
+
+Feit 4 (bedreiging)
+
+Op 5 april 2015 heeft [naam medeverdachte 1] aangifte gedaan. [naam medeverdachte 1] heeft verklaard dat hij sinds 7 maart 2015 wordt bedreigd door de verdachte.48 Bij zijn aangifte heeft [naam medeverdachte 1] een aantal screenshots van de door de hem ontvangen berichten gevoegd. Eén van de berichten luidt: “(…) We will see if you will be breathing till tonight!!!” en is verstuurd met het aan de verdachte toegeschreven telefoonnummer [gsm-nummer 2] .49
+ 
+
+Enkele overige berichten luiden: (…) - “as long as we breath you and everybody around you will be hunted down. - Wij zijn nu in de buurt van [naam straat] . We hebben twee kalashnikovs en twee scorpion uzis als jij niet wil betalen met bitcoins dan ga je betalen met jouw leven en die van je hele familie!! we gaan eerst je vader [naam vader] vermoorden dan jouw broertje [naam broertje]  jouw vriendin [naam vriendin] en daarna pakken wij jou! 
+
+-…dit is je allerlaatste kans om de bitcoins op te sturen anders zijn jullie binnen een paar uur allemaal dood!! 
+
+
+
+- Gisteren hebben wij jouw moeder gezien wij weten waar zij werkt als wij haar vandaag weer zien schieten we haar door haar hoofd
+
+
+- Voor bitcoins ga jij sterven laat maar op. Jou naam staat op de lijst. 
+
+20.000 euro staat er op jou hoofd
+
+
+- Wij gaan blijven jagen op jullie totdat wij jullie hebben uitgeschakeld!
+
+
+- Betaal of ga dood vuile hond”
+50
+ 
+
+Vast staat dat [naam medeverdachte 1] en de verdachte een vriendschappelijke en zakelijke relatie hadden die in maart 2015 is beëindigd vanwege een conflict met betrekking tot de diefstal van een hoeveelheid bitcoins. In het procesdossier bevinden zich screenshots van berichten die door [naam medeverdachte 1] bij zijn aangifte zijn gevoegd. De rechtbank leidt uit deze screenshots af dat de sms-/Whatsapp-berichten afkomstig zijn van een persoon die door [naam medeverdachte 1] in zijn telefoon is opgeslagen als “ [bijnaam 1 verdachte] ( [gsm-nummer 2] )” en “ [voornaam verdachte] ” alsmede van de gebruiker(s) van de telefoonnummers [gsm-nummer 5]  [gsm-nummer 6]  [gsm-nummer 7]  [gsm-nummer 8] en [gsm-nummer 9] . Eén van de door [naam medeverdachte 1] overgelegde berichten (‘We will see if you will be breathing till tonight’) is afkomstig van het telefoonnummer dat aan de verdachte wordt toegeschreven en daarvoor is dan ook voldoende bewijs. Het verweer dat niet vaststaat dat het de verdachte was die dit bericht heeft verzonden met zijn telefoon slaagt niet. Gegeven het feit dat het zijn telefoon betrof is de enkele opmerking dat een ander het bericht mogelijk heeft verzonden onvoldoende. Voor de overige berichten is de rechtbank van oordeel dat er weliswaar reden is om te denken dat die van de verdachte afkomstig zijn maar dat er onvoldoende steun is voor de verklaring van [naam medeverdachte 1] om ook voor die berichten tot een bewezenverklaring te komen.
+
+
+
+4.2.5.
+
+
+Feit 5 (bedreiging)
+
+De rechtbank acht dit feit wettig en overtuigend bewezen op grond van het navolgende. [naam medeverdachte 1] heeft verklaard dat de verdachte hem op 1 april 2015 heeft bedreigd door hem via de telefoon te zeggen dat hij een wapen bij zich had en hem twee kogels door zijn hoofd zou schieten.51 De verdachte heeft tegenover de politie bevestigd dat hij op 1 april 2015 met [naam medeverdachte 1] heeft gebeld om hem af te schrikken.52 Dat er tijdens dat gesprek inderdaad een bedreiging is geuit door de verdachte blijkt uit de gegevens van de getapte telefoon van [naam medeverdachte 1] . Daarop is op 1 april 2015 een telefoongesprek binnengekomen. In dit gesprek zegt de beller onder andere: “I swear on my mothers grave I put two bullets in your fucking head. Fucking cow”.53
+ 
+
+
+
+4.3.
+
+
+Bewezenverklaring
+
+Op grond van de redengevende inhoud van het voorgaande is wettig en overtuigend bewezen dat de verdachte feit 1 (partieel) 2 3 4 (partieel) en 5 heeft begaan. 
+ 
+
+De verdachte heeft de bewezen verklaarde feiten op die wijze begaan dat:
+ 
+
+1.
+hij in de periode van 1 januari 2014 tot en met 19 januari 2016 te Rotterdam en/of Schiedam en/of (elders) in Nederland
+ 
+
+tezamen en in vereniging met een ander of anderen meermalen
+ 
+
+a.
+ voorwerpen te weten
+
+- een hoeveelheid van 25.30164 bitcoins en
+- geldbedragen van in totaal 6.435.43414 euro en
+- één personenauto (Mercedes-Benz met kenteken [kentekennummer 3] )
+
+heeft verworven en/of voorhanden heeft gehad en/of heeft overgedragen en/of omgezet en/of van genoemde voorwerp(en) gebruik heeft gemaakt terwijl hij verdachte en zijn mededader(s) wisten dat bovenomschreven voorwerpen - onmiddellijk of middellijk - afkomstig waren uit enig misdrijf
+terwijl hij verdachte en zijn mededader(s) van het plegen van dat feit een gewoonte hebben gemaakt
+ 
+
+en
+ 
+
+b.
+ voorwerpen te weten
+
+- een hoeveelheid van 25.30164 bitcoins en
+- geldbedragen van in totaal 6.435.43414 euro en
+- één personenauto (Mercedes-Benz met kenteken [kentekennummer 3] )
+de werkelijke aard de herkomst de vindplaats de vervreemding de verplaatsing heeft verborgen en/of verhuld en/of heeft verborgen en/of verhuld wie de rechthebbende(n) op genoemde voorwerpen was/waren en/of heeft verborgen en/of verhuld wie genoemde voorwerpen voorhanden heeft/hebben gehad terwijl hij verdachte en zijn mededader(s) wisten dat bovenomschreven voorwerpen
+- onmiddellijk of middellijk - afkomstig was/waren uit enig misdrijf terwijl hij verdachte en zijn mededader(s) van het plegen van dat feit een gewoonte hebben gemaakt; 
+
+2.
+hij op 19 januari 2016 te Rotterdam
+tezamen en in vereniging met een of meer anderen 
+opzettelijk aanwezig heeft gehad ongeveer 212 kilogram in elk geval een hoeveelheid van een materiaal bevattende MDMA (34 methyleendioxymethamfetamine)  zijnde MDMA (34 methyleendioxymethamfetamine) (te weten zogeheten XTC-pillen)  telkens een middel als bedoeld in de bij de Opiumwet behorende lijst I dan wel aangewezen krachtens het vijfde lid van artikel 3a van die wet;
+ 
+
+3.
+hij
+in de periode van 1 juli 2015 tot en met 19 januari 2016 te Rotterdam en/of Schiedam en/of (elders) in Nederland tezamen en in vereniging met een ander of anderen om een feit bedoeld in het vierde of vijfde lid van artikel 10 van de Opiumwet te weten het opzettelijk binnen of buiten het grondgebied van Nederland brengen en/of  bewerken verwerken verkopen afleveren verstrekken en/of vervoeren van een hoeveelheid van een materiaal
+bevattende  MDMA (te weten zogeheten XTC-pillen) zijnde  MDMA  (telkens) een middel vermeld op de bij de Opiumwet behorende lijst I  voor te bereiden en/of te bevorderen
+voorwerpen en gelden en/of andere
+betaalmiddelen te weten:
+
+- een vacuümmachine en
+- weegschalen en
+- folie voor sealapparaat en
+- sealzakken en
+- lege CD doosjes en
+- enveloppen en postzegels en
+- telefoon(s) en een andere
+  gegevensdrager en
+- bitcoins 
+ voorhanden heeft gehad waarvan hij verdachte en/of zijn mededader(s) wist(en) of ernstige redenen had(den) te  vermoeden dat die bestemd waren tot het plegen van dat feit. 
+
+4.
+hij
+in  de periode van 07 maart 2015 tot en met 31 maart 2015 te Rotterdam en/of Schiedam althans in Nederland en/of Litouwen
+
+          [naam slachtoffer] heeft bedreigd met enig misdrijf tegen het leven gericht immers heeft verdachte  opzettelijk dreigend:
+die [naam slachtoffer]  middels een whats app-bericht de navolgende woorden toegevoegd:
+
+- " We will see if you will be breathing till tonight!!!" . 
+
+5.
+hij op 01 april 2015 te Rotterdam [naam slachtoffer] heeft bedreigd met enig misdrijf tegen het leven gericht door die [naam slachtoffer] dreigend (per telefoon) de woorden toe te voegen "I swear on my mothers grave i put two bullets in your fucking head Fucking cow".
+ 
+
+Hetgeen meer of anders is ten laste gelegd is niet bewezen. De verdachte moet (ook) daarvan worden vrijgesproken.
+
+
+
+
+
+5 Strafbaarheid van de feiten
+Over de strafbaarheid van feit 1 wordt het volgende overwogen. De rechtbank heeft hiervoor overwogen dat een deel van de witgewassen bitcoins en de Mercedes-Benz met kenteken [kentekennummer 3] (feit 1) (mede) afkomstig (kunnen) zijn uit een door de verdachte zelf begaan misdrijf namelijk de handel in drugs. Dat staat echter aan strafbaarheid van dit feit niet in de weg. De zogeheten ‘eigen misdrijf exceptie’ is niet van toepassing nu de verdachte deze voorwerpen niet alleen verkregen en voorhanden heeft gehad maar ook handelingen heeft verricht die er naar hun uiterlijke verschijningsvorm (kennelijk) op gericht zijn geweest de criminele herkomst te verbergen of te verhullen. De bitcoins heeft hij omgezet in contant geld om daarmee naar aangenomen moet worden de criminele bron te verhullen. Bij de aanschaf van de auto heeft de verdachte zijn broer en later zijn zus ingeschakeld om te verhullen dat hij deze auto had aangeschaft en dat hij de eigenaar daarvan was. 
+
+Over de feiten 2 en 3 wordt overwogen dat er anders dan door de raadsman bepleit geen sprake is van eendaadse samenloop reeds omdat de drugs bedoeld in feit 2 niet vermeld zijn in feit 3. Een redelijke uitleg van de tenlastelegging brengt met zich dat deze drugs niet bedoeld zijn om te vallen onder ‘andere zaken’ als bedoeld aan het slot van de tenlastelegging van feit 3.
+ 
+
+De bewezen feiten leveren op:
+ 
+
+Ten aanzien van feit 1:
+
+medeplegen van gewoontewitwassen
+
+ 
+
+en 
+ 
+
+
+witwassen.
+
+ 
+
+Ten aanzien van feit 2:
+
+opzettelijk handelen in strijd met het in artikel 2 onder C van de Opiumwet gegeven verbod.
+
+ 
+
+Ten aanzien van feit 3:
+
+voorwerpen en stoffen voorhanden hebben waarvan hij weet dat zij bestemd zijn om een feit bedoeld in het vierde/vijfde lid van artikel 10 van de Opiumwet voor te bereiden of te bevorderen. 
+
+ 
+
+Ten aanzien van feit 4:
+
+bedreiging met enig misdrijf tegen het leven gericht.
+
+ 
+
+Ten aanzien van feit 5: 
+
+bedreiging met enig misdrijf tegen het leven gericht.
+
+ 
+
+Er zijn geen feiten of omstandigheden aannemelijk geworden die de strafbaarheid van de feiten uitsluiten. De feiten zijn dus strafbaar. 
+
+
+
+
+6 Strafbaarheid van de verdachte
+Er is geen omstandigheid aannemelijk geworden die de strafbaarheid van de verdachte uitsluit. De verdachte is dus strafbaar.
+
+
+
+7 Motivering van de straf  
+
+7.1.
+
+
+Algemene overweging
+
+De straf die aan de verdachte wordt opgelegd is gegrond op de ernst van de feiten de omstandigheden waaronder de feiten zijn begaan en de persoon en de persoonlijke omstandigheden van de verdachte. Daarbij wordt in het bijzonder het volgende in aanmerking genomen.
+
+
+
+7.2.
+
+
+Feiten waarop de straf is gebaseerd
+
+De verdachte heeft een zeer grote hoeveelheid van 212 kg XTC (hard drugs) aanwezig gehad en heeft daarnaast voorbereidingshandelingen gepleegd voor de handel in XTC. De verdachte heeft er bewust voor gekozen de druglijn van de ‘Turken’ over te nemen waarbij XTC die via het internet tegen betaling in bitcoins werden gekocht per post naar de kopers in diverse landen werd verzonden. De verdachte heeft zich hier gedurende een periode van bijna een half jaar mee bezig gehouden en de aangetroffen harddrugs had de verdachte onmiskenbaar aanwezig om die op de geschetste wijze te verhandelen. De verdachte heeft zodoende meegewerkt aan het in stand houden van de internationale handel in harddrugs. Het is algemeen bekend dat het gebruik van harddrugs een onaanvaardbaar risico oplevert voor de volksgezondheid. De rechtbank rekent dit de verdachte zwaar aan.
+ 
+
+In de oriëntatiepunten voor straftoemeting van het Landelijk Overleg Vakinhoud Strafrecht van de gerechtshoven en rechtbanken (LOVS) wordt voor de uitvoer van een hoeveelheid harddrugs van meer dan 20 kg een gevangenisstraf van 60 maanden gevangenisstraf als uitgangspunt gehanteerd. De ressortelijke oriëntatiepunten voor het aanwezig hebben van een hoeveelheid harddrugs van meer dan 20 kg gaan uit van een gevangenisstraf van 36 tot 48 maanden. De rechtbank acht gelet voor de twee drugsfeiten een gevangenisstraf van 40 maanden dan ook op zijn plaats. 
+ 
+
+Daarnaast heeft de verdachte gedurende een periode van 22 maanden een gewoonte gemaakt van het witwassen van bitcoins. Het gaat daarbij om 25.30164 bitcoins met een beurskoerswaarde van ruim 64 miljoen euro. Witwassen is een ernstig feit dat de integriteit van het financiële handelsverkeer schaadt alsmede het vertrouwen dat daarin moet kunnen worden gesteld. Bovendien heeft verdachte door zijn handelwijze de opbrengsten uit misdrijf aan het zicht van justitie onttrokken. Het handelen van de verdachte heeft er toe bijgedragen dat door anderen gepleegde misdrijven hebben geloond waarmee de onderliggende criminaliteit is gefaciliteerd. De rechtbank neemt dit de verdachte kwalijk.
+ 
+
+De LOVS oriëntatiepunten gaan voor fraude bij een benadelingsbedrag van meer dan € 1.000.000- uit van een onvoorwaardelijke gevangenisstraf van 24 maanden tot aan het strafmaximum. Zoals blijkt uit de toelichting op deze oriëntatiepunten wordt onder fraudedelicten tevens geschaard witwassen mits de gedragingen in een frauduleuze context hebben plaatsgevonden. Hoewel bij witwassen niet (direct) kan worden gesproken van een benadelingsbedrag zoals bij fraudedelicten ziet de rechtbank toch aanleiding om aan te knopen bij het oriëntatiepunt fraude. De rechtbank volgt bij de straftoemeting anders dan de officier van justitie niet de ‘Richtlijn voor strafvordering witwassen’ van het Openbaar Ministerie aangezien de daarin opgenomen straffen te zeer afwijken van de door rechtbanken en hoven opgelegde straffen.
+ 
+
+De rechtbank heeft bij het bepalen van de strafmaat voor het witwassen verder gekeken naar straffen die in soortgelijke zaken zijn opgelegd. Daarbij noemt de rechtbank met name de vonnissen die door de rechtbank Midden-Nederland zijn gewezen naar aanleiding van het Nocis-onderzoek54 de vonnissen in het onderzoek Air Holland55 en de eerder gewezen vonnissen in het onderzoek IJsberg56. 
+Terzake van het witwassen acht de rechtbank een gevangenisstraf van 32 maanden op zijn plaats. De omvang van de handel en de haast bedrijfsmatige opzet door de verdachte zijn daarbij doorslaggevend.
+ 
+
+De rechtbank constateert tot slot dat de verdachte zich schuldig heeft gemaakt aan het bedreigen van een medeverdachte. 
+ 
+
+De rechtbank heeft op het punt van de persoonlijke omstandigheden acht geslagen op het uittreksel uit de justitiële documentatie betreffende verdachte waaruit blijkt dat hij niet eerder is veroordeeld voor soortgelijke strafbare feiten. 
+Er is in deze ingewikkelde strafzaak sprake van een beperkte overschrijding van de redelijke termijn. De rechtbank volstaat met de constatering daarvan en zal daar geen gevolgen aan verbinden.
+ 
+
+De rechtbank heeft verder acht geslagen op het rapport van Reclassering Nederland betreffende de verdachte gedateerd 31 maart 2016. 
+
+
+
+7.3.
+
+
+Conclusies van de rechtbank
+
+De rechtbank komt tot de conclusie dat aan de verdachte een straf dient te worden opgelegd die gelijk is aan de straf zoals die door de officier van justitie is geëist te weten een gevangenisstraf voor de duur van 6 jaren.
+
+
+
+
+
+8 Voorlopige hechtenis
+De officier van justitie heeft gevorderd om de schorsing van de voorlopige hechtenis op te heffen. De verdediging heeft primair verzocht de voorlopige hechtenis op te heffen subsidiair de vordering tot opheffing van de schorsing af te wijzen. 
+
+De rechtbank is van oordeel dat de ernstige bezwaren en gronden die hebben geleid tot het bevel gevangenhouding zich nog steeds voordoen en ziet ook overigens geen reden dit bevel op te heffen. Het verzoek van de raadsman tot opheffing van de (geschorste) voorlopige hechtenis wordt dan ook afgewezen. 
+ 
+
+De rechtbank is van oordeel dat er onvoldoende grond is dat de verdachte zijn hoger beroep niet in vrijheid mag afwachten en ziet daarom onvoldoende reden de schorsing op te heffen. De daartoe strekkende vordering van de officier van justitie wordt dan ook afgewezen. 
+
+
+
+
+9 Toepasselijke wettelijke voorschriften
+
+Gelet is op de artikelen 47 57 285 420bis en 420ter van het Wetboek van Strafrecht en
+2 10 en 10a van de Opiumwet zoals deze golden ten tijde van de bewezen verklaarde feiten. 
+
+
+
+
+10 Bijlagen
+De in dit vonnis genoemde bijlage maakt deel uit van dit vonnis.
+
+
+
+11 Beslissing
+De rechtbank: 
+
+verklaart bewezen dat de verdachte de ten laste gelegde feiten zoals hiervoor omschreven heeft begaan;
+ 
+
+verklaart niet bewezen hetgeen aan de verdachte meer of anders ten laste is gelegd dan hiervoor bewezen is verklaard en spreekt de verdachte daarvan vrij;
+ 
+
+stelt vast dat het bewezen verklaarde oplevert de hiervoor vermelde strafbare feiten;
+ 
+
+verklaart de verdachte strafbaar;
+ 
+
+veroordeelt de verdachte tot een gevangenisstraf voor de duur van 6 jaren 
+ 
+
+beveelt dat de tijd die door de veroordeelde voor de tenuitvoerlegging van deze uitspraak in verzekering en in voorlopige hechtenis is doorgebracht bij de uitvoering van de opgelegde gevangenisstraf in mindering wordt gebracht voor zover deze tijd niet reeds op een andere vrijheidsstraf in mindering is gebracht;
+
+wijst af de vordering van de officier van justitie tot opheffing van de schorsing van de voorlopige hechtenis;
+ 
+
+wijst af het verzoek van de raadsman tot opheffing van de voorlopige hechtenis. 
+ 
+
+Dit vonnis is gewezen door:
+mr. N. Doorduijn voorzitter
+mr. W.J.M. Diekman en mr. I.W.M. Laurijssens rechters
+in tegenwoordigheid van mr. D. Ince griffier
+en uitgesproken op de openbare terechtzitting van deze rechtbank op 30 mei 2018.
+ 
+
+
+Bijlage I 
+
+ 
+
+
+Tekst (gewijzigde) tenlastelegging
+
+ 
+
+Aan de verdachte wordt ten laste gelegd dat
+ 
+
+
+In de zaak met parketnummer 10/997378-15
+
+ 
+
+1.
+hij op een of meerdere tijdstip(pen) in of omstreeks de periode van 1 januari 2014 tot en met 19 januari 2016 te Rotterdam en/of Schiedam en/of (elders) in Nederland
+ 
+
+tezamen en in vereniging met een ander of anderen althans alleen meermalen althans eenmaal
+ 
+
+a.
+(telkens) één of meer voorwerp(en) te weten
+
+- een hoeveelheid van 25.30164 bitcoins althans een (grote) hopeveelheid bitcoins en/of
+- een of meer geldbedrag(en) van in totaal 6.435.43414 althans een of meer (grote) (girale en/of contante) geldbedrag(en) (DOC-586 en DOC-587);
+- twee althans één personenauto('s) (Mercedes-Benz met kenteken [kentekennummer 3] en/of Audi A1 met kenteken [kentekennummer 1] )
+
+heeft verworven en/of voorhanden heeft gehad en/of heeft overgedragen en/of omgezet en/of van genoemde voorwerp(en) gebruik heeft gemaakt terwijl hij verdachte en/of zijn mededader(s) wist(en) althans redelijkerwijs moest(en) vermoeden dat bovenomschreven voorwerp(en) - onmiddellijk of middellijk - afkomstig was/waren uit enig misdrijf
+terwijl hij verdachte en/of zijn mededader(s) van het plegen van dat feit een gewoonte heeft/hebben gemaakt
+ 
+
+en/of
+ 
+
+b.
+(telkens) van één of meer voorwerp(en) te weten
+
+- een hoeveelheid van 25.30164 bitcoins althans een (grote) hopeveelheid bitcoins en/of
+- een of meer geldbedrag(en) van in totaal 6.435.43414 althans een of meer (grote) (girale en/of contante) geldbedrag(en) (DOC-586 en DOC-587);
+- twee althans één personenauto('s) (Mercedes-Benz met kenteken [kentekennummer 3] en/of Audi A1 met kenteken [kentekennummer 1] )
+de werkelijke aard de herkomst de vindplaats de vervreemding de verplaatsing heeft verborgen en/of verhuld en/of heeft verborgen en/of verhuld wie de rechthebbende(n) op genoemde voorwerpen was/waren en/of heeft verborgen en/of verhuld wie genoemde voorwerpen voorhanden heeft/hebben gehad terwijl hij verdachte en/of zijn mededader(s) wist(en) althans redelijkerwijs moest(en) vermoeden dat bovenomschreven voorwerp(en)
+- onmiddellijk of middellijk - afkomstig was/waren uit enig misdrijf terwijl hij verdachte en/of zijn mededader(s) van het plegen van dat feit een gewoonte heeft/hebben gemaakt; 
+
+2.
+hij op of omstreeks 19 januari 2016 te Rotterdam en/of (elders) in Nederland
+tezamen en in vereniging met een of meer anderen althans alleen 
+opzettelijk aanwezig heeft gehad
+ongeveer 215 kilogram in elk geval een hoeveelheid van een materiaal bevattende MDMA (34 methyleendioxymethamfetamine) en/of MDA (tenamfetamine) en/of MDEA (34 methyleendioxyethylamfetamine synoniem: N-ethyl-MDA) en/of amfetamine zijnde MDMA (34 methyleendioxymethamfetamine) en/of MDA (tenamfetamine) en/of MDEA (34 methyleendioxyethylamfetamine synoniem: N-ethyl-MDA) en/of amfetamine (te weten zogeheten XTC-pillen) (DOC-458) (telkens) een middel als bedoeld in de bij de Opiumwet behorende lijst I dan wel aangewezen krachtens het vijfde lid van artikel 3a van die wet;
+ 
+
+3.
+hij
+op een of meer tijdstip(pen) in of omstreeks de periode van 1 juli 2015 tot en met 19 januari 2016 te Rotterdam en/of Schiedam en/of (elders) in Nederland
+tezamen en in vereniging met een ander of anderen althans alleen om een feit bedoeld in het vierde of vijfde lid van artikel 10 van de Opiumwet te weten het opzettelijk binnen of buiten het grondgebied van Nederland brengen en/of telen bereiden bewerken verwerken verkopen afleveren verstrekken en/of vervoeren van een hoeveelheid van een materiaal
+bevattende MDA en/of MDMA en/of MDEA en/of N-ethylMDA en/of amfetamine (te
+weten zogeheten XTC-pillen) zijnde MDA en MDMA en MDEA en N-ethylMDA en
+amfetamine (telkens) een middel vermeld op de bij de Opiumwet behorende lijst
+I en/of (een) ander(e) materia(a)l(en) bevattende (een) middel(en) vermeld op
+de bij de Opiumwet behorende lijst I voor te bereiden en/of te bevorderen
+voorwerpen en/of vervoermiddelen en/of stoffen en/of gelden en/of andere
+betaalmiddelen te weten:
+
+- een vacuümmachine en/of
+- weegschalen en/of
+- folie voor sealapparaat en/of
+- sealzakken en/of
+- lege CD doosjes en/of
+- enveloppen en/of postzegels en/of
+- telefoon(s) en/of een laptop en/of telefoon(s) en/of andere
+  gegevensdrager(s) en/of
+- bitcoins en/of
+andere voorwerpen en/of vervoermiddelen en/of stoffen en/of gelden en/of andere betaalmiddelen voorhanden heeft gehad waarvan hij verdachte en/of zijn mededader(s) wist(en) of ernstige redenen had(den) te  vermoeden dat dat/die bestemd was/waren tot het plegen van dat/die feit(en). 
+
+
+In de zaak met parketnummer 10/702076-16
+
+ 
+
+4.
+hij
+in of omstreeks de periode van 07 maart 2015 tot en met 31 maart 2015 te Rotterdam en/of Schiedam althans in Nederland en/of Litouwen meermalen althans eenmaal tezamen en in vereniging met een ander en/of anderen althans alleen
+ 
+
+(telkens) [naam slachtoffer] heeft/hebben bedreigd met enig misdrijf tegen het leven gericht althans met zware mishandeling
+ 
+
+immers heeft/hebben verdachte en/of zijn mededader(s) opzettelijk dreigend
+(meermalen) (telkens):
+die [naam slachtoffer] telefonisch en/of middels whats app-berichten en/of e-mailberichten althans berichten via internet de navolgende woorden toegevoegd:
+
+- " We will see if you will be breathing till tonight!!!" en/of
+- " As long as we breath you and everybody around you will be hunted down" en/of
+- " Wij zijn nu in de buurt van [naam straat] . We hebben twee kalashnikovs en twee scorpion uzis als jij niet wil betalen met bitcoins dan ga je betalen met jouw leven en die van je hele familie!! we gaan eerst je vader [naam vader] vermoorden dan jouw broertje [naam broertje]  jouw vriendin [naam vriendin] en daarna pakken wij jou!" en/of
+- "... dit is je allerlaatste kans om de bitcoins op te sturen anders zijn jullie binnen een paar uur allemaal dood!!" en/of
+- " Gisteren hebben wij jouw moeder gezien wij weten waar zij werkt als wij haar vandaag weer zien schieten we haar door haar hoofd" en/of
+- " Voor bitcoins ga jij sterven let maar op. Jou naam staat op de lijst. 20.000 euro staat er op jou hoofd" en/of
+- " Wij gaan blijven jagen op jullie totdat wij jullie hebben uitgeschakeld!" en/of
+- " Betaal of ga dood vuile hond"
+althans woorden van gelijke dreigende aard en/of strekking 
+
+(al dan niet terwijl deze bedreiging(en) schriftelijk en onder bepaalde voorwaarden is/zijn geschied);
+ 
+
+5.
+hij op of omstreeks 01 april 2015 te Rotterdam althans in Nederland [naam slachtoffer] heeft bedreigd met enig misdrijf tegen het leven gericht en/of met zware mishandeling door die [naam slachtoffer] dreigend (per telefoon) de woorden toe te voegen "I swear on my mothers grave i put two bullets in your fucking head Fucking cow" althans woorden van gelijke dreigende aard of strekking.
+
+
+1
+De door de rechtbank als proces-verbaal aangeduide bewijsmiddelen zijn steeds in de wettelijke vorm opgemaakt door personen die daartoe bevoegd zijn en voldoen ook overigens aan de daaraan bij wet gestelde eisen. Waar wordt verwezen naar documenten zijnde emails overzichten e.d. wordt steeds bedoeld te verwijzen naar een ander geschrift als bedoeld in artikel 344 lid 1 onder 5 Sv.
+2
+ Voor de leesbaarheid van dit vonnis verwijst de rechtbank naar stukken uit het dossier zoveel mogelijk aan de hand van de FIOD gehanteerde indeling en nummering (AMB-001 DOC-001 etc). 
+3
+ Het proces-verbaal van verhoor van [naam verdachte]  V-03-02 pagina 2.
+4
+ Een ander geschrift te weten een kamer van koophandel uittreksel p. 4416 van het doorlopend genummerde dossier.
+5
+ Het proces-verbaal van verhoor V-06-01 p. 2 en V06-03 p. 3. 
+6
+ Een geschrift te weten een overzicht van de totaal verkochte bitcoins door [naam verdachte]  DOC-586.
+7
+ Het proces-verbaal van bevindingen met nummer FIN-007 p. 11.
+8
+ Het proces-verbaal van verhoor van [naam verdachte]  V-03-01 pagina 3.
+9
+ Zie ook: het proces-verbaal Zaaksoverzicht Z1 inzake [naam verdachte]  p. 11 en het proces-verbaal van bevindingen ‘onderzoek naar bitcoinadressen en bitcoinwallets’ AMB-147 pagina 9.
+10
+ Een geschrift te weten de inhoud van het notitieblok van [naam verdachte]  DOC-439 tot en met DOC-444. De verdachte heeft op zitting bevestigd dat het notitieblok van hem is.
+11
+ Zie het geschrift te weten een door de FIOD op basis van het notitieblok van [naam verdachte] gemaakte overzicht van de bitcointransacties in de periode 1 april 2014 tot en met 23 september 2015 DOC-541. Zie ook het geschrift te weten een door de FIOD op basis van het notitieblok van [naam verdachte] gemaakte overzicht van de bitcointransacties in de periode 1 april 2014 tot en met 23 september 2015 DOC-629.
+12
+ De verklaring van de verdachte ter terechtzitting van 13 april 2018 afgelegd. 
+13
+ Het proces-verbaal van verhoor van [naam verdachte]  V-03-02 pagina 2.
+14
+ De verklaring van de verdachte ter terechtzitting van 13 april 2018 afgelegd.
+15
+ Het proces-verbaal van observatie op 26 mei 2015 OBS-002-22.
+16
+ Het proces-verbaal van ambtshandeling AMB-060.
+17
+ Het proces-verbaal van observatie op 26 mei 2015 OBS-002-22 pagina 2.
+18
+ Het proces-verbaal van ambtshandeling AMB-060.
+19
+ Een geschrift te weten een weergave van het tapgesprek op 30 juli 2015 DOC-365.
+20
+ Een geschrift te weten een weergave van een op 28 juli 2015 opgenomen OVC-gesprek DOC-191 pagina 2 en 3.
+21
+ Een geschrift te weten een weergave van een op 28 juli 2015 opgenomen OVC-gesprek DOC-193 pagina 3 en 4.
+22
+ Een geschrift te weten een overzicht van de totaal verkochte bitcoins door [naam verdachte]  DOC-586 pagina 8 tot en met 11.
+23
+ Het proces-verbaal van verhoor van verdachte [naam verdachte]  V-03-01 pagina 5.
+24
+ Het proces-verbaal van verhoor van verdachte [naam verdachte]  V-03-03 pagina 3.
+25
+ Een geschrift te weten een door de FIOD op basis van het notitieblok van [naam verdachte] opgesteld overzicht DOC-541.
+26
+ Het proces-verbaal van verhoor van verdachte [naam verdachte]  V-03-03 pagina 3.
+27
+ Het proces-verbaal van verhoor van verdachte [naam verdachte]  V-03-03 pagina 2.
+28
+ Het proces-verbaal van verhoor van verdachte [naam verdachte]  V-03-03 pagina 3.
+29
+ Het proces-verbaal van verhoor van verdachte [naam verdachte]  V-03-01 pagina 5.
+30
+ Verhoor getuige [naam getuige 1] bij de rechter-commissaris op 26 oktober 2016 pagina 7. 
+31
+ Verhoor getuige [naam getuige 1] bij de rechter-commissaris op 26 oktober 2016 pagina 11 en 12.
+32
+ De bedragen zijn ontleend aan DOC-586. Gelet op de verklaring van de verdachte dat hij tussen € 200.00000 en € 250.0000 heeft verdiend met de bitcoinhandel en het feit dat dit aansluit bij de bevindingen van de FIOD in FIN-7 maakt de rechtbank in dit vonnis geen onderscheid tussen de beurskoerswaarde en de opbrengst van de bitcoins.
+33
+ Een geschrift te weten een weergave van het op 28 augustus 2015 door [naam verdachte] gevoerd gesprek DOC-203.
+34
+ Het proces-verbaal van verhoor van getuige [naam getuige 2] d.d. 27 januari 2016 G-04-01 pagina 2.
+35
+ Het proces-verbaal van verhoor van verdachte [naam medeverdachte 2]  V-06-13 pagina 5.
+36
+ Een geschrift te weten een weergave van het op 4 september 2015 tussen [naam medeverdachte 2] en [naam verdachte] gevoerd gesprek DOC-197.
+37
+ Een geschrift te weten een weergave van het op 4 september 2015 tussen [naam medeverdachte 2] en [naam verdachte] gevoerd gesprek DOC-207.
+38
+ Een geschrift te weten een tenaamstellingsoverzicht van het voertuig [kentekennummer 3]  DOC-213.
+39
+ Het proces-verbaal van verhoor van verdachte [naam medeverdachte 2]  V-06-13 pagina 5 en 6.
+40
+ Het proces-verbaal van ambtshandeling AMB-091c
+41
+ De processen-verbaal van observatie OBS-02-049 OBS-02-053 en OBS-02-67 en DOC-279 en DOC-280
+42
+ Het proces-verbaal van ambtshandeling AMB 160
+43
+ DOC 638 inhoudende de rapportage van het NFI d.d. 5 februari 2016.
+44
+ DOC 196 en het proces-verbaal van observatie OBS-02-034.
+45
+ Het proces-verbaal van ambtshandeling AMB-064 en DOC 191/193
+46
+ Een geschrift te weten een weergave van het op 1 augustus 2015 door [naam verdachte] gevoerd gesprek DOC 356.
+47
+ Een geschrift te weten aantekeningen uit het notitieblok van [naam verdachte]  DOC 443.
+48
+ Het proces-verbaal van aangifte [naam medeverdachte 1] d.d. 5 april 2015 met nummer [proces-verbaalnummer 1]  pagina 1.
+49
+ Een geschrift te weten een als bijlage aan de aangifte van [naam medeverdachte 1] gevoegd screenshot pagina 13.
+50
+ Geschriften te weten als bijlage aan de aangifte van [naam medeverdachte 1] gevoegd screenshots pagina 15 tot en met 22.
+51
+ Het proces-verbaal van verhoor verdachte [naam medeverdachte 1] met documentcode 1504041300.V op 4 april 2015 pagina 5.
+52
+ Het proces-verbaal van verhoor aangever [naam verdachte] met nummer [proces-verbaalnummer 2] op 1 april 2015 pagina 3. 
+53
+ Het proces-verbaal van bevindingen met nummer [proces-verbaalnummer 3]  pagina 1.
+54
+ Rechtbank Midden-Nederland d.d. 14 november 2017 (o.a. ECLI:NL:RBMNE:2017:5713) en Rechtbank Midden-Nederland d.d. 3 april 2018 (o.a. ECLI:NL:RBMNE:2018:1180 1184 en 1191).
+55
+ Rechtbank Rotterdam d.d. 7 december 2006 (ECLI:NL:RBROT:2006:AZ4159) en rechtbank Rotterdam d.d. 7 december 2006 (ECLI:NL:RBROT:2006:AZ4394)
+56
+ Rechtbank Rotterdam d.d. 8 november 2017 (ECLI:NL:RBROT:2017:8989) rechtbank Rotterdam d.d. 8 november 2017 (ECLI:NL:RBROT:2017:8992) en rechtbank Rotterdam d.d. 8 november 2017 (ECLI:NL:RBROT:2017:8990).

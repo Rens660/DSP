@@ -1,0 +1,2604 @@
+
+
+RECHTBANK AMSTERDAM
+
+VONNIS
+ 
+
+Parketnummer: 13/730041-20 (Promis)
+ 
+
+Datum uitspraak: 13 september 2021
+ 
+
+Vonnis van de meervoudige kamer van de rechtbank Amsterdam in de strafzaak tegen:
+ 
+
+
+
+          [verdachte]
+        
+geboren op [geboortedatum 1] te [geboorteplaats] 
+zonder vaste woon- of verblijfplaats in Nederland
+gedetineerd in [naam PI]  
+locatie [locatie PI] .
+ 
+
+
+
+1 Onderzoek ter terechtzitting 
+
+Dit vonnis is op tegenspraak gewezen naar aanleiding van het onderzoek op de terechtzittingen van 9 februari 2021 21 april 2021 5 6 7 en 12 juli 2021 en 30 augustus 2021.
+ 
+
+De rechtbank heeft kennisgenomen van de vordering van de officieren van justitie 
+mrs. C.J. Cnossen en F. Posthumus en van wat verdachte en zijn raadslieden 
+mrs. S. Burmeister en C. Grijsen naar voren hebben gebracht. 
+ 
+
+
+
+2 Tenlastelegging 
+
+2.1
+
+Achtergrond van de zaak 
+ 
+
+Het Nederlandse bedrijf Ennetcom leverde diensten op het gebied van versleutelde communicatie. De servers van Ennetcom bevonden zich in Canada. Met BlackBerry-telefoontoestellen voorzien van specifieke software konden versleutelde tekstberichten en notities worden verzonden via een PGP (pretty good privacy)-protocol met daaraan gekoppelde e-mailadressen. De gebruikers van de telefoons en e-mailadressen konden op die manier volledig anoniem communiceren.
+ 
+
+Op verzoek van de Nederlandse autoriteiten zijn in het kader van vier strafzaken Ennetcom-data veiliggesteld. Op 13 september 2016 heeft the Superior Court of Justice in Toronto in een vonnis geoordeeld dat de veiliggestelde data aan Nederland konden worden overgedragen.
+Uit onderzoek naar de Ennetcom-data in een ander Nederlands strafrechtelijk onderzoek is de verdenking ontstaan dat een aantal personen waaronder de medeverdachten [medeverdachte 1]  [medeverdachte 2] en [medeverdachte 3]  in augustus en september 2015 voorbereidingen troffen om [naam beoogd slachtoffer] (verder: [naam beoogd slachtoffer] ) te liquideren in Berlijn. Naar aanleiding van deze verdenking is het onderzoek ‘Zwaluw’ gestart. Het onderzoek richt zich op de vraag of verdachte en anderen in strafrechtelijke zin betrokken zijn geweest bij de voorbereiding van de liquidatie. De strafzaak tegen verdachte is gelijktijdig behandeld met de strafzaken tegen vier medeverdachten. 
+ 
+
+
+2.2
+
+Samenvatting van de tenlastelegging 
+ 
+
+Aan verdachte is – na wijziging van de tenlastelegging op 5 juli 2021 – primair ten laste gelegd dat hij zich in de periode tussen 11 augustus 2015 en 9 september 2015 schuldig heeft gemaakt aan het medeplegen van voorbereiding van moord. Verdachte en zijn medeverdachten wordt verweten dat zij in het kader van deze voorbereiding een woning (‘safehouse’) aan de [adres safehouse] in Berlijn vuurwapens patronen auto’s een motor PGP-BlackBerry’s een GPS-tracker geldbedragen en foto’s van [naam beoogd slachtoffer] hebben verworven en/of vervaardigd en/of ingevoerd en/of uitgevoerd en/of doorgevoerd en/of voorhanden hebben gehad. 
+ 
+
+Subsidiair is aan verdachte ten laste gelegd dat hij medeplichtig is geweest aan dit feit. 
+ 
+
+De volledige tekst van de tenlastelegging staat in de bijlage die aan dit vonnis is gehecht. Deze tekst geldt als hier ingevoegd.
+ 
+
+
+
+
+3 Voorvragen 
+
+De dagvaarding is geldig en deze rechtbank is bevoegd tot kennisneming van het ten laste gelegde. Er zijn geen redenen voor schorsing van de vervolging.
+ 
+
+
+
+4 Ontvankelijkheid van het Openbaar Ministerie / 
+    vormverzuim in de zin van artikel 359a Sv 
+
+De raadslieden van verdachte hebben betoogd dat de officieren van justitie niet-ontvankelijk moeten worden verklaard in de vervolging van verdachte. De verweren van de verdediging (weergegeven in de kantnummers 10 - 42 van de pleitnota) komen (samengevat) op het volgende neer.
+
+a. Het gebruik van de Ennetcom data is in strijd met (tekst doel en strekking van) de beslissing van de Canadese rechter van 13 september 20161 en voorts strijdig met de binnen het internationale rechtsverkeer geldende beginselen. Verdachte was geen voorwerp van onderzoek binnen een lopend onderzoek. Het gevolg van het (onrechtmatige) gebruik van de verkregen data is dat sprake is geweest van een verboden ‘fishing expedition’ die heeft geleid tot de verdenking jegens verdachte en zijn uiteindelijke aanhouding.
+Er is sprake van een vormverzuim in de zin van artikel 359a Wetboek van Strafvordering (Sv). Er heeft geen (adequate) rechterlijke controle plaatsgevonden op het gebruik van de Ennetcom data binnen het onderzoek Zwaluw voor zover dat verdachte betreft. De door de rechter-commissaris op 28 september 2017 toegewezen vordering ex artikel 181 Sv en de daarmee samenhangende vervolgstappen in het bijzonder het zogenoemde plan van aanpak zagen op het onderzoek Mortel en de verdachten in dat onderzoek. Een aantal verdachten in het onderzoek Mortel is ook verdachte binnen het onderzoek Zwaluw maar dat gold niet voor verdachte. Ook de gang van zaken rond de beslissing van de rechter-commissaris roept vragen op.
+Gelet op de samenhang tussen hetgeen onder a. en b. is aangevoerd zal de rechtbank beide verweren hier gezamenlijk behandelen.  
+
+Vooropgesteld moet worden dat de Canadese rechter opmerkingen heeft gemaakt en zijn zorgen heeft geuit over het (kortgezegd: ongebreidelde) gebruik van de ter beschikking te stellen data. Cruciaal was in zijn ogen dat er rechterlijke controle moet plaatsvinden op de toegang tot onderzoek aan en het gebruik van data in andere onderzoeken teneinde het gevaar van een ‘fishing expedition’ te voorkomen.
+ 
+
+Ten aanzien van hetgeen onder a. is aangevoerd moet er op worden gewezen dat volstaan is met een selectieve verwijzing naar de tekst het doel en de strekking van de beslissing van de Canadese rechter en de stelling dat een aantal internationale beginselen zijn geschonden zonder nadere concretisering op welke wijze deze beginselen in deze zaak zouden zijn geschonden en op welke wijze verdachte daardoor in zijn belangen is geschaad. Met niet meer dan algemene stellingen is betoogd dat de officier van justitie niet ontvankelijk is. 
+Die onderbouwing is in het licht van het door de verdediging voorgestane rechtsgevolg  onvoldoende in het bijzonder gelet op de genuanceerde overwegingen (en het dilemma) van de Canadese rechter2 en de door hem opgenomen voorwaarden. Bovendien wordt er aan voorbijgezien dat er met voorafgaande machtiging3 van een gerecht toegang onderzoek en gebruik van het bewijsmateriaal mag plaatsvinden in andere dan die vier onderzoeken waarop de beslissing van de Canadese rechter ziet. Evenmin heeft de verdediging onderbouwd dat door het gestelde vormverzuim geen sprake meer kan zijn van een behandeling van zijn zaak die aan de beginselen van een behoorlijke procesorde voldoet (artikel 359a lid 3 Sv). 
+Het verweer onder a. kan reeds daarom niet slagen.
+ 
+
+Ten aanzien van hetgeen onder b. is aangevoerd wordt vooropgesteld dat het gebruik van de Ennetcom data in andere dan de vier initiële onderzoeken als zodanig niet ontoelaatbaar is. Voorwaarde is een voorafgaande machtiging van een gerecht in Nederland (en niet op grond van administratieve processen die in Nederland eventueel mogelijk zijn voor het verkrijgen van bewijsmiddelen).4
+ 
+
+De wijze waarop de rechter in dit geval de rechter-commissaris vorm geeft aan die controle is aan de rechter. De beslissing van de rechter-commissaris kan vervolgens worden getoetst door de zittingsrechter. Bij zijn beslissing van 28 september 2017 heeft de rechter-commissaris de weg gevolgd van 181 Sv jo (analoge toepassing van) 126ng Sv met de door de verdediging beschreven weg van 177 Sv onder hantering van het zogenoemde stappenplan5 en de aanvullingen daarop. In dat plan is een procedure gevonden voor de zoekslagen in de kaders A B en C.
+ 
+
+Door de verdediging zijn vraagtekens geplaatst6 bij de categorie indeling en een verschuiving (beter: opwaardering) naar de A-categorie van gegevens die eigenlijk deel uitmaken van de kaders B en C. Daarmee zouden bestanden bereikbaar worden die bij een juiste uitvoering van het stappenplan nooit onderzocht hadden mogen worden.7
+In het midden latend of dit daadwerkelijk het geval is moet worden vastgesteld dat er geen sprake is van een wettelijk voorschrift dat een bepaalde werkwijze voorschrijft dan wel uitsluit. Het is dan ook de vraag of er sprake is van een vormverzuim als bedoeld in artikel 359a Sv. 
+ 
+
+Voor zover zou worden betoogd dat hier sprake is van een door de rechters-commissarissen op de voet van (analoge toepassing van) artikel 126 ng Sv ontwikkelde procedure en dat niet overeenkomstig die (bestendige) procedure is gewerkt wordt als volgt overwogen.
+ 
+
+Met de verdediging kan worden vastgesteld dat er geen sprake is van een als zodanig benoemde vordering van de officier van justitie noch van een als zodanig benoemde machtiging van de rechter-commissaris. In het mailbericht van de officier van justitie van 
+14 augustus 2019 voorzien van de processen-verbaal ter onderbouwing van het verzoek is verzocht om toestemming om alle data uit de Ennetcom server die met goedvinden van de rechter-commissaris beschikbaar zijn gesteld in het onderzoek Mortel te mogen gebruiken in het (nieuwe) onderzoek Zwaluw. Bij mailbericht van diezelfde datum heeft de rechter-commissaris geantwoord: (…) “Ik heb de toegezonden bijlagen bestudeerd en kan u berichten dat ik akkoord met net de overdracht”.
+ 
+
+Naar het oordeel van de rechtbank heeft de rechter-commissaris hierdoor materieel voorafgaande machtiging verleend om de volledige dataset uit Mortel waarin onder meer de verdachten [medeverdachte 1]  [medeverdachte 2] en [medeverdachte 3] voorwerp van onderzoek waren (en wat de twee eerstgenoemden betreft leidend tot een veroordeling ter zake van 289 289/45 Wetboek van Strafrecht en 26 en 55 Wet wapens en munitie tot zeer lange gevangenisstraffen)8 ter beschikking te stellen in het onderzoek Zwaluw. De rechtbank is van oordeel dat gegeven de aard en ernst van de feiten in Zwaluw en de relatie met het onderzoek Mortel de rechter-commissaris in redelijkheid tot zijn beslissing van 14 augustus 2019 heeft kunnen komen.
+ 
+
+Tenslotte voor zover moet worden aangenomen dat er sprake is van een vormverzuim ex 359a Sv kan naar het oordeel van de rechtbank worden volstaan met de enkele constatering dat een dergelijk verzuim heeft plaatsgevonden. Daarbij is van belang dat indien wel een als zodanig benoemde vordering in de zin van artikel 188 jo (analoge toepassing van) 126ng Sv zou zijn gedaan de machtiging zonder twijfel zou zijn verleend. Bovendien zijn de door de verdediging gestelde (relevante) belangen niet zodanig dat daarmee niet zou kunnen worden volstaan.
+ 
+
+De verweren worden daarom verworpen en de officieren van justitie zijn ontvankelijk.
+ 
+
+
+
+5 Waardering van het bewijs
+
+5.1
+
+Inleiding 
+ 
+
+Eerst zal kort worden ingegaan op de rol die verdachte volgens het Openbaar Ministerie in de voorbereiding van de liquidatie zou hebben gehad en de verklaring die verdachte hierover heeft afgelegd. Vervolgens zal een chronologisch9 overzicht worden gegeven van relevante PGP-berichten die zijn verzonden tussen de verdachten onderling en de vermeende opdrachtgever(s).10 Hierbij zullen ook overige relevante feiten en omstandigheden worden benoemd. 
+ 
+
+In het kader van de leesbaarheid zijn – voor zover mogelijk – de e-mailadressen waarmee de berichten zijn verstuurd of ontvangen vervangen door de namen van geïdentificeerde gebruikers van deze e-mailadressen. 
+ 
+
+5.1.1
+
+De vermeende rol van verdachte 
+ 
+
+Verdachte wordt ervan verdacht dat hij in de ten laste gelegde periode in Berlijn is geweest en daar als ‘spotter’ voorverkenningen en observaties heeft verricht. Hij zou zijn bevindingen – via het volgens het Openbaar Ministerie aan hem te koppelen account [e-mailadres 1]11 – hebben doorgegeven aan medeverdachte [medeverdachte 1]  die met medeverdachten [medeverdachte 3] en [medeverdachte 2] in het ‘safehouse’ aan de [adres safehouse] in Berlijn zou hebben verbleven. Ook zou verdachte praktische ondersteuning hebben geboden onder meer door [medeverdachte 1] en [medeverdachte 3] op 20 augustus 2015 naar het ‘safehouse’ te brengen. 
+ 
+
+Verdachte heeft zich ten aanzien van de tenlastelegging op zijn zwijgrecht beroepen. Hij ontkent dat hij gebruik heeft gemaakt van het account [e-mailadres 1] . 
+ 
+
+
+5.1.2
+
+Relevante PGP-berichten en identificatie van gebruikers 
+ 
+
+
+11 augustus 2015
+
+ 
+
+Op 11 augustus 2015 vindt de volgende berichtenwisseling12 plaats tussen de gebruiker van het adres [e-mailadres 2] (door het onderzoeksteam geïdentificeerd als [naam 1]13) en de gebruiker van het adres [e-mailadres 3] (door het onderzoeksteam geïdentificeerd als [naam 2]14). De rechtbank gaat – mede nu de identificatie van [naam 1] en [naam 2] tijdens het onderzoek ter terechtzitting geen onderwerp van discussie is geweest – in dit vonnis uit van de juistheid van deze identificaties en zal de betreffende personen in het vervolg van dit vonnis aanduiden als [naam 1] en [naam 2] .  
+ 
+
+
+16:00 uur (afzender: [naam 2]): Ik ga iemand opzoeken die ook bezig is ik ga met hun praten ook. Kijken of we elkaar kunnen helpen (…) ik ga er nu achteraan ik heb al huis ik heb een tata die gaat timeren marokkanen stuur ik liever niet snap je. Hebben jullie tata? 
+
+16:01 uur (afzender: [naam 2]): Me vrienden daar berlijn hebben hem weer gezien weer in die soort pc hoofdstraat met een s klasse. 
+
+18:02 uur (afzender: [naam 1]): Ja tuurlijk heb ik een tatta die is onze OT’er man
+(afzender: [naam 2]): Kan hij samen met die van mij gaan? Ik heb osso voor ze klaar al. 
+
+16:06 uur (afzender: [naam 2]): Heb je 1 of 2? 
+
+16:08 uur (afzender: [naam 2]): (…) wanneer kan die van jou gaan dan gaan ze samen
+ 
+
+Verder communiceert [naam 2] op 11 augustus 2015 als volgt met de (niet-geïdentificeerde) gebruiker van het account [e-mailadres 4] :15
+ 
+
+
+13:36/16:36 uur (afzender: [naam 2]): Wanneer kunnen die gasten die gaan timeren naar berlijn. Baba moet echt ff een telefoon halen. Ennet. Is huis klaar? 
+(afzender: [e-mailadres 4]): Ja huis is klaar baba is morge weer in NL
+
+14:42 uur (afzender: [naam 2]): Ok ze gaan morgen of overmorgen die kant op maar moet details weten waar 
+
+21:26 uur (afzender: [e-mailadres 4]): Je hoord straks waar en wie die jongen heeft foto van nov en die andere gemaakt 2 dagen geleden 
+
+16:31/19:31 uur (afzender: [naam 2]): Dat meeeeen je niet?????????????????
+
+21:29 uur (afzender: [e-mailadres 4]): Ja wel ! 
+(afzender: [naam 2]): Aubaubaubaubaubaub. Laat baba snel doen. 
+
+21:31 uur (afzender: [e-mailadres 4]): Bij die dure str 
+
+19:36 uur (afzender: [naam 2]): Heb die meer info.?
+
+21:34 uur (afzender: [e-mailadres 4]): Ja straks geef je alle info waar ze heen moete ! Beter stuur je gelijk ook hitter want tweede hius gaat misschien teveel tijd kosten ! Wat denk jij ? 
+
+16:40/19:40 uur (afzender: [naam 2]): Hoe groot is huis? 
+
+19:41 uur (afzender: [naam 2]): Hij heb een chaufeur toch? Dat is zeker toch 
+
+21:39 uur (afzender: [e-mailadres 4]): Ja chaufeuir is er huis heeft 3 slaap plaatsen 
+
+16:52 uur (afzender: [naam 2]): Ok ik ben mee bezig. Ik moet even transport wapens regelen naar daar
+(…) 
+ 
+
+Vervolgens heeft [naam 2] weer contact met [naam 1] .16
+ 
+
+
+19:31/21:31 uur (afzender: [naam 2]): Bro die gasten daar hebben foto gemaakt van [bijnaam beoogd slachtoffer] en met wie die was 2 dagen geleden!!!! hij is gewoon daaaaar!!!!!
+(afzender: [naam 1]): Wat is de plan nu? Alvast wapens sturen ook. ? 
+
+21:39 uur (afzender: [naam 1]): Serieussss ja we gaan ze gewoon sturen je hebt huis daar toch???
+
+19:45 uur (afzender: [naam 2]): Ik heb chaufeur van daar gewoon kend de weg. Ik heb huis. 
+
+3 slaapplaatsen. Is er geen colo ofzo van buiten europa die gewoon in die pc hoofdstraat van daar kan geven met ze gezicht? Dat die gewoon rustig op hem afloopt en ze kanker moer doorzeefd. Anders word moeilijk. Moeten we plakken enzo ze auto. Ik denk in die winkelstraat is beste 
+
+
+21:46 uur (afzender: [naam 1]): Oke momentje hoeveel tijd hebben we? Sowieso zsm maar wil geen rommelwerk
+
+19:55 uur (afzender: [naam 2]): Ik weet niet bro deze man moet dood ik ben kijken met mijn hitters of iemand wil doen live gewoon. Is de beste denk ik. Die tatas moeten naar daar en ik heb ook transport naar daar spook zei hij had laatst wapens gekocht.kunnen jullie erbij of moeten we regelen ook.ik heb iemand die het brengd 
+
+21:55 uur (afzender: [naam 1]): Ik heb ze in mn stash bro heb allemaal aks en glocks. Zeg maar wnnr dan zorg ik dat ze klaarstaan. Kijk maar met je hitters dan geven we hem een groot bedrag. Voor zo’n drukke straat sowieso glock 
+(afzender: [naam 2]): Spook zei er is 1 miljoen op ze kop we geven alles aan de hitters ik hoef er niks van. Gewoon verdelen. Heb je hitters ook bro? 
+
+22:03 uur (afzender: [naam 1]): 1tje wacht ik op is in suriname nu nu bro en een jonge jongen in spanje. Heb sowieso back up nodig 
+
+20:10 uur (afzender: [naam 2]): Je krijgd back up. Laat ze komen alvast. Dit heb haast hoe lang duurt het?ik stuur ook en ik heb chaufeur. 
+
+22:24 uur (afzender: [naam 1]): Je had toch chauffeur van daar?? Als je die hebt graag. Die chauffeur van me zit vast 
+(afzender: [naam 2]): Ik heb chaufeur bro maar ik moet auto hebben gestolen. 
+ 
+
+
+13 augustus 2015
+
+ 
+
+Op 13 augustus 2015 vindt de volgende communicatie plaats tussen [naam 2] en [naam 1] .17
+ 
+
+
+10:55 uur (afzender: [naam 2]): Bro hoeveel wapens gaan we sturen? Ik ga met chaufeur praten
+
+13:45 uur (afzender: [naam 1]): Kijk bro ik heb 1man nu hier. 1tje in suriname is pas 24ste in nl vanwege paspoort hij is illegaal. Maar kan zijn dat hij er eerder is dan stuur ik hem ook gelijk. Ik heb ak’s en glocks liggen.  
+
+11:52 uur (afzender: [naam 2]): Ok is goed stuur 4 glocks 2 ak. Ok? Beter iets extra ik ga kijken ook wie ik ga sturen nog meer. Je hebt ze gewoon liggen toch kan ieder moment ophalen
+
+13:55 uur (afzender: [naam 1]): Perfect broer. Ik zet druk op die surinamer want die man heeft echt schijt. Wapens heb ze gewoon liggen broer. 
+
+12:01 uur (afzender: [naam 2]): Ja aub bro deze man is echt belangrijk ik heb teveel energie hierin gestoken. 
+
+14:05 uur (afzender: [naam 1]): Broer ik hoef je niet te vertellen hoe graag ik hem wil. Ben zo gemotiveerd dat ik mezelf rustig moet houden want wil geen fout maken nu met deze man. Daarom wil ik niet zomaar mensen sturen
+
+12:10 uur (afzender: [naam 2]): Iedereen leunt op hem zoveel mensen [bijnaam beoogd slachtoffer]   gewoon een soort god is hij van deze motherfuckers 
+
+14:09 uur (afzender: [naam 1]): Wat is plan nu broer zodat ik alles klaar kan zetten. Tata en hitter meesturen en wapens klaarleggen toch? 
+
+12:22 uur (afzender: [naam 2]): Hitter denk nog niet eerst gaat tata met kleuter en andere tata. En ik laat wapens ophalen bij je. Maar wacht tot straks me vriend gaat zo richting berlijn alles nakijken en praten nog daar. Dan sturen we hun morgen of overmorgen ok. Je hoord straks meer. Deze man gaat neer. Die gasten daar hebben foto gemaakt van [bijnaam beoogd slachtoffer] met nog 2 andere gasten 3 dagen geleden als ze me vriend daar aankomt gaat die foto maken van die gast ze telefoon en naar me sturen. Met ennet.dan weten ook met wie die zit daar. Ga aub naar spook vraag die man over die miljoen.dan kunnen we onze kosten dekken snap je. En vraag wie dit gaat trekken? Vraag hem gewoon zo.een naam. Want ik heb met veel mensen contact. Ik moet weten hoe en wat.ik hoef geen dubbeltje ervan wil zelfs bijleggen. Maar ik moet weten wie dit is. Want ik praat ook met mensen enzo die meehelpen enzo straks zijn het zelfde mensen of vrienden van.kom met naam. Wanneer kan je hem zien
+(afzender: [naam 1]): Oke oke mooi. Ik ga hem zo zien inshallah
+
+18:41 uur (afzender: [naam 1]): Je krijgt de groeten van spook zodra actie is gedaan dan pak ik die doekoe.
+
+16:48 uur (afzender: [naam 2]): Bro ik vraag een naam om een reden !ik snap dit niet. ik zit ook met mensen die ook willen betalen enzo. Wil weten gaat het om de zelfde mensen.  
+(afzender: [naam 1]): Ik heb het in nl liggen en moest het van hem afgeven. Dat is precies wat ie tegen mij heeft gezegd
+ 
+
+
+Tussenconclusie 
+
+Uit voornoemde communicatie leidt de rechtbank af dat [naam 2] en [naam 1] spreken over een man genaamd ‘ [bijnaam beoogd slachtoffer] ’ die ‘neer gaat’ die zich kennelijk in Berlijn bevindt en die rijdt in een S-Klasse. In de berichten wordt gesproken over vuurwapens (AK’s en Glocks) die naar Berlijn moeten worden vervoerd en over meerdere personen (waaronder een ‘hitter’) die naar Berlijn moeten worden gestuurd.   
+ 
+
+Uit het dossier blijkt dat er op (13 19 20 juli en 10 en 15 augustus 2015 parkeerovertredingen zijn gepleegd in Berlijn met een Duitse Mercedes (S-Klasse18) kenteken [kenteken 1]  gehuurd op naam van [valse naam beoogd slachtoffer]  zijnde één van de valse namen van [naam beoogd slachtoffer] .19 Op 26 augustus 2015 is er opnieuw een parkeerovertreding in Berlijn gepleegd op naam van [valse naam beoogd slachtoffer]  dit keer met een voertuig met het kenteken [kenteken 2] .20
+ 
+
+Gelet hierop stelt de rechtbank vast dat het plan (kennelijk) was om [naam beoogd slachtoffer] in Berlijn te liquideren.
+ 
+
+
+14 augustus 2015
+
+ 
+
+Op 14 augustus 2015 vindt er opnieuw communicatie plaats tussen [naam 2] en [naam 1] .21
+ 
+
+
+13:27 uur (afzender: [naam 2]): Ja bro aub. Ik ben bezig transport regelen nu 
+
+13:49/15:49 uur (afzender: [naam 2]): Heb je auto? 
+(afzender: [naam 1]): Heb misschien daar al gergeld moment laat je strakks weten. Hij gaat neer deze man is afgelopen 
+
+13:54 uur (afzender: [naam 2]): Ik kan niet helder denken ik loop rondjes in kamer nu die foto’s is hij gewoon ik heb gezien. Ben helemaal kan niet uitleggen
+
+14:54 uur (afzender: [naam 2]): Hoeveel kunnen echt volgeladen worden 
+(afzender: [naam 1]): Momentje hoor het zo. Komt die man ze ophalen? 
+
+14:56 uur (afzender: [naam 2]): Ik zeg je zo waar je moet brengen 
+
+14:58 uur (afzender: [naam 2]): Bp tankstation in zuid bij havenstraat bajes. Daar mmoet naar toe hoe lang ongeveer
+(afzender: [naam 1]): Ze worden nu klaargemaakt. Laat je gelijk weten hoelaat. Denk een uurtje  
+(…) 
+
+16:49 uur (afzender: [naam 1]): Ze worden klaargemaakt bro. Ik zal even mailen. Waar moeten ze heen?? 
+(afzender: [naam 2]): Verpak het goed aub heel goed. Deze man gaat met gezin vrouw kinderen. Niks mag misgaan. Dit moet doorgaan. 
+
+16:49 uur (afzender: [naam 1]): Ja uiteraard. Kijk krijg net te horen dat ik niet genoeg patronen heb voor glocks. Dus ik vul zoveel ik kan 
+(afzender: [naam 2]): Bro ze moeten toch vol zijn. En die ak wel? 
+(afzender: [naam 2]): Morgen ochtend vliegd een vriend van me naar berlijn. Die gaat die transport opwachten. Want deze jongen bouwd het in. En dan bouwd hij het uit in berlijn ok vang jij hem op daar dan wachten jullie tot die tp aankomt breng hem naar garage dan ok. 
+
+17:11 uur (afzender: [naam 1]): Ok wat moet ik voor hem regelen hotel etc?? Weet je planning niet bro. Dus zeg me en dan regel ik het
+
+15:15 uur (afzender: [naam 2]): Wat bedoel je snap niet 
+
+17:13 uur (afzender: [naam 1]): Je zegt vang hem op maar heb nog niemand gestationeerd. Heeft die man hotel nodig etc dan ga ik dat voor hem regelen 
+(afzender: [naam 2]): Ohhh nee die bericht is niet voor jou sorry was voor een mattie daar. Wacht ff met tata en kleuter is heel ziek 
+
+17:27 uur (afzender: [naam 1]): Bro gaat nog even duren want die aks liggen bij mensen die overdag werken begrijp je. Glocks heb ik 2 volle van 
+
+15:32 uur (afzender: [naam 2]): Je kan helemaal geen kogels regelen bro. Je maakt me blij met een dooie mus. Bro aub regel het je heb geen enkel idee wat ik hiervoor allemaal heb moeten doen doe aub je best.
+
+17:41 uur (afzender: [naam 1]): Bro ik zeg net dat ik 2volle glocks heb. Hoezo zou ik moeten liegen. En ik weet inderdaad niet hoeveel werk je ervoor verricht heb maar wil die man meer dan jou geloof me. Die man heeft mn broer vermoord
+
+15:46 uur (afzender: [naam 2]): Wie heb het hier over liegen?? Ik zeg doe je best je maakte me blij met 4 nu heb je 2. Ik zeg alleen doe je best. En ik snap dat je hem wil doen je hebt alle reden.
+
+17:48 uur (afzender: [naam 1]): Heb meer maar had geen rekening gehouden met bullets daarom. Ik ben heel gebrand om die man te pakken. Maak je niet druk komt goed
+(afzender: [naam 2]): Ok is goed we moeten vandaag afgeven die wapens
+
+16:22 uur (afzender: [naam 2]): Hoe laat ongeveer bro want kan niet laat naar garage
+(…) 
+
+17:51 uur (afzender: [naam 2]): Is die hitter van jullie er al 
+
+22:33 uur (afzender: [naam 2]): Broer ik ben goed bezig ik denk je hoefd niks te doen maar wacht blijf standby gewoon. 
+ 
+
+Ook vindt er op 14 augustus 2015 communicatie22 plaats tussen [naam 2] en de gebruiker van het account [e-mailadres 5] @ennetcom.com. De gebruiker van dit account is door het onderzoeksteam geïdentificeerd als medeverdachte [medeverdachte 4] . In het vonnis van 13 september 2021 in de strafzaak tegen medeverdachte [medeverdachte 4] heeft de rechtbank vastgesteld dat hij inderdaad de gebruiker was van voornoemd account. De rechtbank zal de gebruiker van het account [e-mailadres 5] in dit vonnis daarom verder aanduiden als [medeverdachte 4] . 
+ 
+
+
+14:49 uur (afzender: [naam 2]): Broer praat met aber aub kan hij zo snel mogelijk weg liefst
+
+vandaag? Aub aub hij is daar die hoerenkind ik heb foto's van hem. ! Daargemaakt!!!aub aub 
+
+
+15:10 uur (afzender: [medeverdachte 4]): Ik ga zo met hem praten komt goed eris ook een oudere man met carvan mar man hij lijkt op nederlander en heeft nl vrouw
+
+15:14 uur (afzender: [naam 2]): Is ook goed broer wanneer kan dat?
+
+15:13 uur (afzender: [medeverdachte 4]): Heel snel brn kan ook ik ga heel snel eten dan ga ik vandaag direct regellen
+
+15:17 uur (afzender: [naam 2]): Aub broer wallah dit is echt heel belangrijk voor mij
+
+15:16 uur (afzender: [medeverdachte 4]): Wallah ik ga het regellen broer maak je niet druk. Doe A.U.B plastic foli erop zodat niemand met hand eraan komt
+
+15:23 uur (afzender: [naam 2]): Nee zoiezo. 
+
+15:31 uur (afzender: [naam 2]): Het gaat even duren nog. Die aks liggen bij iemand die overdag werkt
+
+15:39 uur (afzender: [medeverdachte 4]): Ok ik ga nu naar buiten alles regellen met spoed.maar ik denk broer beter maandag is beste.met de verkeer mee
+
+15:47 uur (afzender: [naam 2]): Broer aub aub ik weet waar hij ontbijt elke dag! Ik smeek je. Ik heb ze auto alles ze sturen me foto's van daar nu van die hoerenkind aub regel het aub aub
+
+15:51 uur (afzender: [medeverdachte 4]): ik ben nu met BRN.hij vraagt is er garage waar hij zijn iets moet openen zodat ie niet opvalt
+(afzender: [naam 2]): Wacht ff vragen  
+
+13:58 uur (afzender: [naam 2]): Ja er is garage. 
+ 
+
+
+16:58 uur (afzender: [naam 2]): Ok maar niet nu moet even klaar maken nog ok
+
+16:57 uur (afzender: [medeverdachte 4]): Ok broer wel elke onderdeel appart broer .niet alles met elkaar binden.hoelaat ongeveer.want hij wil in de vroege ochtend gaan.en je weet zeker dat je garage hebt ?? Anders gaat ie voor niks
+
+17:01 uur (afzender: [naam 2]): Zeker broer baba is daar die gaat hem opvangen. Ik heb net
+
+gemaild. Zegd geen probleem
+
+
+17:02 uur (afzender: [medeverdachte 4]): Ok broer.want die oude man gaat.en BRN gaat morgen ochtend vliegen hem opwachten om open te doen in de garage
+
+17:07 uur (afzender: [naam 2]): Die oude man gaat met vrouw en kind caravan.
+
+17:31 uur (afzender: [naam 2]): Het gaat even duren nog. Die aks liggen bij iemand die overdag werkt
+(afzender: [medeverdachte 4]): Ok laat me weten 
+(afzender: [medeverdachte 4]): Hoelaat wordt het broer.want we kunnen niet laat naar die garage
+
+gaan
+
+(afzender: [medeverdachte 4]): Hoi broer BRN is al daar bij die garage aan het wachten
+
+17:43 uur (afzender: [naam 2]): Skoda fabia zilver (…) 
+
+17:41/19:41 uur (afzender: [naam 2]): Hij is er
+
+20:00 uur (afzender: [naam 2]): Zijn 2 aks en 3 glocks.
+(afzender: [medeverdachte 4]): Oh ok top.komt helemaal goed.morgen laat in de middag heb je ze
+
+daar 
+
+
+20:08 uur (afzender: [medeverdachte 4]): Ja is goed broer 
+(afzender: [naam 2]): Ze zijn geladen klaar voor vertrek
+
+21:36 uur (afzender: [naam 2]): Broer mail aub baba op pgp hij reageerd niet op ennet
+(afzender: [medeverdachte 4]): Ok broer
+
+22:20 uur (afzender: [medeverdachte 4]): Hij heeft soring broer  
+
+20:28 uur (afzender: [naam 2]): Zeg hem over de chaufeur regel jij met hem aub ok waar die moet komen enzo dat hij die wapens in huis legd. En zeg hem ik heb met die hollander gepraat
+(afzender: [medeverdachte 4]): Ok ik heb nu contact met hem 
+
+22:47 uur (afzender: [medeverdachte 4]): Alles is geregeld.zelfs huis heeft ie ook geregeld zegt ie.hij heeft fotos gemaakt.zodra storing weg is gaat ie je sturen ok
+(…) 
+
+23:11 uur (afzender: [naam 2]): Wanneer kunnen die jongens komen en hoeveel kunnen maximaal in die huis
+
+23:14 uur (afzender: [medeverdachte 4]): 1 2persoonsbed.en 1 1persoonsbed. En 1 bakstel is ook gelijk slaapbank.koelkast TV.deze is al klaar ze kunnen gaan
+
+21:20/23:20 uur (afzender: [naam 2]): Ok bro maar is er nog een huis want is 3 man die gaat timeren en 3 hitters 
+(afzender: [medeverdachte 4]): Oh ok ik ga hem vrgn broer
+ 
+
+
+16 augustus 2015 
+
+ 
+
+De gebruiker van het account [e-mailadres 1] heeft op 16 augustus 2015 het volgende gesprek met een gebruiker genaamd ‘ [naam 3] ’:23
+ 
+
+
+03:41 uur (afzender: ‘ [naam 3] ’): Je moet wat voor me regelen bro. (…)  
+
+03:45 uur (afzender: [e-mailadres 1]): Ik ben nu even bezig met iets ben niet in nl.
+ 
+
+De gebruiker van het account [e-mailadres 1] @ennetcom24 is door het onderzoeksteam geïdentificeerd als verdachte die overigens – zoals hierboven reeds vermeld – ontkent dat hij in de ten laste gelegde periode de gebruiker was van dit account. Dit verweer zal later in dit vonnis worden besproken.
+ 
+
+
+20 augustus 2015
+
+ 
+
+Op 20 augustus 2015 vindt een berichtenwisseling plaats tussen [naam 2] en de gebruiker van het account [e-mailadres 6] @ennetcom.com.25 Deze gebruiker is door het onderzoeksteam geïdentificeerd als medeverdachte [medeverdachte 1] . In haar vonnis van 13 september 2021 in de strafzaak tegen medeverdachte [medeverdachte 1] heeft de rechtbank vastgesteld dat hij inderdaad de gebruiker was van dit account. De rechtbank zal de gebruiker van genoemd account daarom verder aanduiden als [medeverdachte 1] .
+ 
+
+Opvallend is dat [medeverdachte 1] de woorden ‘dat’ en ‘wat’ in zijn berichten afkort als ‘dt’ en ‘wt’. 
+ 
+
+Uit de navolgende berichten blijkt dat [medeverdachte 1] op 20 augustus 2015 samen met een andere persoon naar Berlijn reist. Medeverdachte [medeverdachte 3] heeft verklaard dat hij op verzoek van [medeverdachte 1] met hem naar Berlijn is gereisd (waaronder deels in een witte Fiat 500 en deels met de trein) en dat ze daar in een appartement hebben verbleven.26 Hij zal hierna worden aangeduid als [medeverdachte 3] . 
+ 
+
+
+1:22 AM (afzender: [naam 2]): Hallo 
+(afzender: [medeverdachte 1]): Ai 
+
+11:51 AM (afzender: [naam 2]): Hallo vriend hoe is het ben je onderweg en hoe jullie herkend mijn vriend? Mijn vriend staat er al
+(afzender: [medeverdachte 1]): Ja ben al onderweg. Ik kom met een fiat 500 wit
+(afzender: [medeverdachte 1]): Maar is omleiding paar min langer voor ik er ben.
+ 
+
+Op diezelfde datum vindt er een berichtenwisseling27 plaats tussen [medeverdachte 1] en de gebruiker van het account [e-mailadres 1] : 
+ 
+
+
+12:25 PM (afzender: [e-mailadres 1]): Hey vriend zijn jullie al onderweg
+
+12:29 uur (afzender: [medeverdachte 1]): Ja onderweg.
+
+12:33 PM (afzender: [e-mailadres 1]): Oke. Top Mail me wanneer je er bijna bent. Vriend 
+(afzender: [medeverdachte 1]): Ai doen we
+
+2:51 PM (afzender: [e-mailadres 1]): Je moet berlin bhf. Komen.  
+
+
+
+
+14.50
+
+
+uur (afzender: [medeverdachte 1]): Dt is het station of moet ik gewoon ticket naar berlin bhf nemen?
+
+2:54 PM (afzender: [e-mailadres 1]): Je moet binnen. Bij de help desk een trein kaart kopen naar berlijn hun leggen je daar alles uit welke spoor
+
+14:52 uur (afzender: [medeverdachte 1]): Ok als ik bijna aankom mail ik
+
+
+
+12.56
+
+
+uur (afzender: [e-mailadres 1]): Mail me ook als je in. De trein zit vriend
+(afzender: [medeverdachte 1]): Doe ik
+ 
+
+Vervolgens heeft [medeverdachte 1] weer contact met [naam 2] :28
+ 
+
+
+16:36 uur (afzender: [medeverdachte 1]): Yo vriend me trein gaat 10voor5 ga zo instappen
+
+
+
+14.42
+
+
+uur (afzender: [naam 2]): Is goed je word daar opgepikt ok. Je heb de mail van mr x? Die pikt je op
+(afzender: [medeverdachte 1]): Ok is goed
+ 
+
+Uit het dossier blijkt dat de gebruiker van het account [e-mailadres 1] op 20 augustus 2015 door het account van [medeverdachte 1] is opgeslagen onder de naam ‘X’.29
+ 
+
+De gebruiker van het account [e-mailadres 1] en [medeverdachte 1] sturen elkaar op 20 augustus 2015 verder de volgende berichten: 
+ 
+
+
+4:44 PM (afzender: [e-mailadres 1]): Zitten jullie al in de trein
+
+16:42 uur (afzender: [medeverdachte 1]): Nee nog niet moet nog komen 
+
+14:46 uur (afzender: [e-mailadres 1]): Ok 
+ 
+
+Daarna laat [medeverdachte 1] om 17:20 uur aan [naam 2] weten dat hij in de trein zit en dat de trein te laat kwam. 
+ 
+
+De gebruiker van het account [e-mailadres 1] en [medeverdachte 1] hebben daarna het volgende contact:30
+ 
+
+
+6:29 PM (afzender: [e-mailadres 1]): Hey zijn jullie al op de trein 
+
+18:48 uur (afzender: [medeverdachte 1]): Ja man al een uurtje ofzo maar de trein had half uur vertraging dus rond 9uur zo komen we aan.
+
+6:51 PM (afzender: [e-mailadres 1]): Oke. Gap
+(afzender: [medeverdachte 1]): Ai zijn nu hannover 
+ 
+
+Vervolgens heeft [medeverdachte 1] weer contact met [naam 2] :31
+ 
+
+
+20:26 uur (afzender: [medeverdachte 1]): We zijn er met een kleine 20min denk ik zoniet eerder.
+
+18:30 uur/8:30 PM (afzender: [naam 2]): Ok mail mr x ik ga hem zeggen
+(afzender: [medeverdachte 1]): Ok is goed.  
+(afzender: [medeverdachte 1]): Zijn mail is fout denk ik kan hem niks sturen. Ben nu berlin spandau.
+ 
+
+De gebruiker van het account [e-mailadres 1] en [medeverdachte 1] hebben daarna het volgende contact:32
+ 
+
+
+20:36 uur (afzender: [medeverdachte 1]): Yo X ben bijna in berlin kwart voor 9 kom ik aan.
+
+8:43 PM (afzender: [e-mailadres 1]): Okee dan moet je taxi pakken ik ga je zo adress geven. Oke.
+(afzender: [medeverdachte 1]): Ok is goed  
+
+8:47 PM (afzender: [e-mailadres 1]): [adres 1]
+
+20:46 uur (afzender: [medeverdachte 1]): Ok heb ik. Is hotel waar we gaan? Jullie hebben geen huis?
+
+8:49 PM (afzender: [e-mailadres 1]): Jawel huis kom gewoon daaar pikken we jullie op.
+
+20:48 uur (afzender: [medeverdachte 1]): Ok is goed.
+
+18:51 uur/8:51 PM (afzender: [e-mailadres 1]): Hoe lang zijn jullie er ongeveer
+
+20:49 uur (afzender: [medeverdachte 1]): Trein rijd al hier langzaam we zijn er bijna
+
+8:53 PM (afzender: [e-mailadres 1]): Oke mail me als je in de taxi bent 
+(afzender: [medeverdachte 1]): Ok 
+ 
+
+
+20:49 uur (afzender: [medeverdachte 1]): Zit in taxi 
+
+9:09 PM (afzender: [e-mailadres 1]): Oke ik ben daar. Zwarte audi. A4 station precies voor de deur. 
+(afzender: [medeverdachte 1]): Ok 
+ 
+
+Uit bovenstaande PGP-berichten leidt de rechtbank af dat [medeverdachte 1] op 20 augustus 2015 met [medeverdachte 3] naar het station in Berlijn is gereisd en dat [medeverdachte 1] hierover contact had met [naam 2] en de gebruiker van het account [e-mailadres 1] . Verder blijkt uit de berichten dat [medeverdachte 1] en [medeverdachte 3] vanaf het station in Berlijn met een taxi naar een hotel zijn gereisd en dat ze daar zijn opgepikt door de gebruiker van het account [e-mailadres 1] .
+ 
+
+Op 20 augustus 2015 vraagt [naam 2] aan [medeverdachte 4] om naar een vrouw te gaan die woont aan de [adres 2] :33
+ 
+
+
+23:18 uur (afzender: [naam 2]): Hoe lang ongeveer? Kan je aub nog iets doen ?. Langs iemand ze moeder gaan zeg tegen haar haar zoon zegd alles is ok komt over paar dagen terug. En ze moet tegen ze vrouw ook zeggen.
+(afzender: [medeverdachte 4]): Iok wacht even deze geld afgeven dan ga ik ok
+
+21:23/23:23 uur (afzender: [naam 2]): Is italiaanse vrouw adres is [adres 2]
+
+Zeg haar haar zoon zegd niks is aan de hand is bezig paar dagen komt hij en ze moet aan ze vrouwtje zeggen ook.
+
+
+23:22 uur (afzender: [medeverdachte 4]): Is beetje laat broer straks schrikken ze
+
+21:26 uur (afzender: [naam 2]): Hij zei voor 12 uur is ok. En moest vandaag
+(…)
+(afzender: [medeverdachte 4]): Ik ben onderweg naaar die moeder van die jongen
+(afzender: [medeverdachte 4]): Is in noord tog
+
+21:46/23:46 uur (afzender: [naam 2]): Ik weet echt niet broer gewoon die straat kan wel ja.
+
+23:46 uur (afzender: [naam 2]): Parkeer je auto op de hoek ok beter niet voor de deur
+(afzender: [medeverdachte 4]): Was k al van plan
+
+23:44 uur (afzender: [medeverdachte 4]): Ik hoop niet dat ze vragen gaat stellen ik weet niet. Wat ik moet zeggen
+
+21:48/23:48 uur (afzender: [naam 2]): Niks gewoon weg lopen. Zeg je moest dat door geven meer weet je ook niet.
+(afzender: [medeverdachte 4]): Ok
+(…) 
+ 
+
+Ondertussen communiceert [naam 2] op 20 augustus 2015 ook waarschijnlijk gelijktijdig met [medeverdachte 1] :34
+ 
+
+
+11:48 PM (afzender: [naam 2]): Hallo vriend die straat is in noord toch?
+(afzender: [medeverdachte 1]): Ja klopt
+(afzender: [medeverdachte 1]): Ben je daar? 
+
+11:55 PM (afzender: [naam 2]): Me vriend is onderweg maar is bang hahah. Ze gaat niet politie bellen Want is laat. Een marokkaan in de nacht komt aanbellen snap je
+(afzender: [medeverdachte 1]): Nee tuurlijk niet zijn ma is soldaat.
+ 
+
+
+          [medeverdachte 1] communiceert als volgt met de gebruiker van het account [e-mailadres 1] :35
+ 
+
+
+11:49 PM (afzender: [e-mailadres 1]): Die adres van je vriend is in noord toch
+(afzender: [medeverdachte 1]): Ja 
+ 
+
+Uit het dossier blijkt dat mevrouw [naam 4]  geboren in [geboortedatum 2]  sinds 28 februari 1983 woonachtig is op het adres [adres 2] te Amsterdam en dat zij daar op 20 december 2019 nog steeds woonde.36 Medeverdachte [medeverdachte 3] heeft tijdens zijn verhoor op 13 juli 2020 bij de politie verklaard dat zijn moeder in Noord woont in de [adres 2] .37
+ 
+
+
+20-21-22 augustus 2015 
+
+ 
+
+Op 21 augustus 2015 om 00:03 uur stuurt [medeverdachte 4] naar [naam 2] :38‘Ik kan morgen ochtend als het nog nodig is weer gaan proberen’. Om 00:05 uur stuurt [medeverdachte 4] naar [naam 2] : ‘Hond van de buren ging ook blaffen beter tot morgen’. 
+ 
+
+
+          [naam 2] en [medeverdachte 1] wisselen vervolgens de volgende berichten:39
+ 
+
+(…) 
+
+20/21 augustus 2015 om 22:07 uur/12:07 AM (afzender: [naam 2]): Hij hoorde wel iemand maar denk wou niet opendoen is laat. Moet die in ochtend gaan?
+
+20 augustus 2015 om 22:09 uur (afzender: [naam 2]): Hond van buren ging ook blaffen beter morgen ochtend weer
+
+00:06 uur (afzender: [medeverdachte 1]): Gewoon kloppen op het raam is geen probleem al klopt ie ietsje
+
+harder zijn altijd wakker. Het moet worden doorgegeven.
+
+ 
+
+Vervolgens stuurt [naam 2] op 21 augustus 2020 om 00:10 uur het volgende bericht naar [medeverdachte 4] : ‘Hij zegd klop op raam moet worden doorgegeven broer’. 
+(…) 
+ 
+
+
+          [naam 2] en [medeverdachte 4] berichten elkaar vervolgens als volgt:40
+ 
+
+
+00:37 uur (afzender: [medeverdachte 4]): Heb er net gesproken.ze zegt waarom komt ie zelF niet
+
+00:42 uur (afzender: [naam 2]): Ben je weg daar? Wat zei je?
+
+22:47/00:47 uur (afzender: [naam 2]): Hahhaha sorry wallah heb je in hoofdpijn gebracht.
+(afzender: [medeverdachte 4]): Ewa jah bro als het moet dan moet t haha maar hij moet wel
+
+volgend x zijn dingen netjes regellen
+
+(…) 
+ 
+
+Vervolgens vindt de volgende communicatie plaats tussen [naam 2] en [medeverdachte 1] .41
+ 
+
+
+12:17 AM (afzender: [naam 2]): Wat je me gaf heb ik doorgegeven.
+
+00:29 uur (afzender: [medeverdachte 1]): En hoe is afgelopen? 
+
+12:41 AM (afzender: [naam 2]): Hij heb er gesproken ze zei waarom kom je zelf niet…..
+(afzender: [medeverdachte 1]): Is het geregeld. 
+
+23:12 uur/1:12 AM (afzender: [naam 2]): Ja hij had er gesproken is doorgegeven
+(afzender: [medeverdachte 1]): Ok is goed.  
+ 
+
+In de nacht van 21 op 22 augustus 2015 hebben [medeverdachte 1] en [naam 2] het volgende gesprek:42
+ 
+
+
+1:31 AM (afzender: [naam 2]): Is beter als je afstapt en ook schiet snap je.en Je mattie moet
+
+afstappen niet zittend want hij moet hem door ze hoofd geven. Hij moet echt dood.
+
+(afzender: [medeverdachte 1]): Nee me mattie stapt ook af maar is 4uur in de middag is druk als hij
+
+afstapt heb ik geen Tijd is hij al begonnen met schieten.
+
+
+23:33 uur (afzender: [naam 2]): Als hun komen dan kan niet op terras want motor kunnen hun niet. Dan moeten met auto gaan.
+
+23:34 uur/1:34 AM (afzender: [naam 2]): Beste is motor hij is daar elke dag bijna bro. als je anders wil moet je me zeggen dan zijn ze maandag daar
+
+01:34 uur (afzender: [medeverdachte 1]): Nee wij twee zijn genoeg. Maar nu is er geen eerlijke auto om over te stappen daarna. X vraagt als je jammer mee kan sturen?
+
+23:39 uur/1:39 AM (afzender: [naam 2]): Jammer ? Voor wat? Kan niet is te laat nu. Ik heb maar is in belgie bij die koekiemonster en die is marokko
+(afzender: [medeverdachte 1]): Ok. Omdt er geen eerlijke auto dan is. Dan stappen we twee keer in
+
+gestolen auto. Maar komt goed doen we het zo.
+
+
+23:37 uur/1:37 AM (afzender: [naam 2]): Beste is beide schieten. Is 3 sec om op standaard te zetten anders gewoon staand jij. Snap je met glock
+
+01:36 uur (afzender: [medeverdachte 1]): Ik heb ook bij me als ik de kans krijg schiet ik ook. We kijken wt de situatie is we hebben allebij wapens bij ons.
+
+23:41 uur/1:41 AM (afzender: [naam 2]): Bro aub schiet ook. Als ze met 4 man zijn moet je ook schieten. Als 2 man dan kan alleen je vriend schieten maar hij moet in ze hoofd
+
+schieten hij moet dood dood dood. Niet denken hij is dood echt door ze hoofd als hij ligd
+
+(afzender: [medeverdachte 1]): Zijn ze met 4schiet ik ook 2hij alleen komt goed. En hij gaat dood dt is de hele bedoeling hij krijgt zoiezo een headshot
+ 
+
+Vervolgens vindt er op 22 augustus 2015 opnieuw een gesprek plaats tussen [medeverdachte 1] en [naam 2]  waarin [medeverdachte 1] zegt dat hij één man tekort komt en dat hij die persoon gaat ophalen:43
+
+10:42 uur/12:42 PM (afzender: [naam 2]): Ik snap het bro maar is dat wel nodig die chaufeur? Die vriend van jullie? Kan het niet zonder hem bro? Dit gaat allemaal langer duren me hoofd gaat ontploffen van stress
+(afzender: [medeverdachte 1]): Maar we hebben niemand anders dacht dt die gasten die ik hier zag
+
+er ook bij hoorde. Maar niet dan hebben we alleen die ouwe .
+
+
+12:44 uur (afzender: [naam 2]): Ik kan ook schutters sturen is ook geen probleem. Kijk wat je beste lijkt?
+(afzender: [medeverdachte 1]): Gaat juist om die oversteek als het gebeurt is moeten we twee keer overstappen. Maar ze zijn nu bezig met 1auto. Als we die hebben gaat die ouwe een auto huren en hij rijd die huurauto maar niemand die eerste. het is overdag en druk hebben nog 
+
+1chauffeur nodig. Al zien we hem vandaag kunnen we niks doen morgen waarschijnlijk ook niet zal maandag worden of dinsdag. En die gap van jouw denkt dt hij hier blijft en niet weggaat.
+
+
+12:46 PM (afzender: [naam 2]): Kijk met wat je beste gevoel heb wat je gevoel zegd. Dat doen we
+
+12:47 uur (afzender: [medeverdachte 1]): Niet me gevoel is hoe situatie is we komen 1man te kort hoor ik pas vandaag. Dacht dt die gasten die ik hier zag erbij hoorde.
+
+10:51 uur/12:51 PM (afzender: [naam 2]): Dus je komt chaufeur tekort of hitter?
+
+12:51 uur (afzender: [medeverdachte 1]): Chauffeur. Anders ben ik chauffeur en die we erbij halen is ook
+
+schutter. Ik ben de beste rijder dan rij ik. poppen hun
+
+(afzender: [medeverdachte 1]): dus ga hem erbij halen
+
+10:57 uur/12:57 PM (afzender: [naam 2]): Ok dus iemand van jullie komt erbij? 
+(afzender: [medeverdachte 1]): Ja hebben we nodig er is niemand anders. 
+
+12:57 uur (afzender: [naam 2]): Ok hoe gaan we dat doen bro? Wat is plan
+
+12:59 uur (afzender: [medeverdachte 1]): Plan blijft zelfde. Dit is meer voor die ouwe hij gaat nu die eerlijke auto hier huren hij zou eerst 1ste oversteek zijn nu niet meer hij rijd die eerlijke dus hebben we iemand nodig die de gestolen auto rijd.
+
+1:04 PM (afzender: [naam 2]): Ok gaat die vriend van jullie jullie kant op nu?
+(afzender: [medeverdachte 1]): Nee ik ga nu daar naar toe die turk die hier is gaat nu terug en dan komt hij maandagochtend 6uur weer deze richting dan kom ik met hem mee naar hier.
+(afzender: [medeverdachte 1]): Ik had me pgp niet mee dus ga hem halen. 
+ 
+
+Op 22 augustus 2015 stuurt de gebruiker van het account [e-mailadres 1] [medeverdachte 1] de volgende berichten waarop een reactie van [medeverdachte 1] uitblijft: 
+
+20:02 uur: Halloo
+
+20:16 uur: ?????
+ 
+
+De gebruiker van het e-mailadres [e-mailadres 7] @ennetcom.com44 is door het onderzoeksteam geïdentificeerd45 als [tweelingbroer verdachte] (de tweelingbroer van verdachte). 
+De rechtbank gaat – mede nu de identificatie van [tweelingbroer verdachte] op het onderzoek ter terechtzitting geen onderwerp van discussie is geweest – in dit vonnis uit van de juistheid van deze identificatie en zal de gebruiker van het account [e-mailadres 7] in het vervolg van dit vonnis aanduiden als [tweelingbroer verdachte] .  
+ 
+
+
+          [tweelingbroer verdachte] wisselt op 22 augustus 2015 de volgende berichten met de gebruiker van het account [e-mailadres 1] :46
+ 
+
+
+16:36 uur (afzender: [e-mailadres 1]): MAakt niet uit ik ben hier ook nog bezig troep gassten. Motro heb ik al alleen nog waggie die hitters zijn even snel terug naar nl. En komen maandag terug snel inshalah.
+
+18:34 uur (afzender: [tweelingbroer verdachte]): Inshallah wat vondje van ze 
+
+16:38 uur (afzender: [e-mailadres 1]): Ja ze lijken serieus eerst even bewijzen ik had liever. [naam 5] en [naam 6] ik mis hem man
+
+18:37 uur (afzender: [tweelingbroer verdachte]): Trouwens wat had jij met madam afgesproken 
+
+16:41 uur (afzender: [e-mailadres 1]): Niks hij zou ergens naar toe gaan en timeren voor hier maar had niet gezegd waar.
+
+18:42 uur (afzender: [tweelingbroer verdachte]): Oke want hij vermijd me merk ik vieze schijtend ze moer
+ 
+
+
+21:10 uur (afzender: [e-mailadres 1]): Ze zouden maandag terug komen
+
+23:10 uur (afzender: [tweelingbroer verdachte]): Jah ik was daarnet bij macdonald leiderdorp daar hadden ze hun auto geparkeerd een witte fiat 500 hij stond er nog steeds rond half 9 ze slapen in de trein of zo laat langen. Hun baas bellen
+
+21:15 uur (afzender: [e-mailadres 1]): Kijk ik ben alleen bang voor dubbel spel ik vertrouw geen enkel hitter daarom mis ik mijn gabber [naam 6] .
+
+23:14 uur (afzender: [tweelingbroer verdachte]): Klopt maar denk het niet wat zegt die andere
+
+21:17 uur (afzender: [e-mailadres 1]): Hij vertrouwt zijn matie 
+
+23:15 uur (afzender: [tweelingbroer verdachte]): oke saf dan zijn ze inslaap gevalen broer of zo hoelang geleden was het dat ze weg zijn gegaan
+
+21:19 uur (afzender: [e-mailadres 1]): Rond 3 uur. Op de trein gelegd. Die nigger ken ik
+
+23:17 uur (afzender: [tweelingbroer verdachte]): Oke van waar 
+(afzender: [e-mailadres 1]): Adam ook die tata vaker gezien. Tegenwoordig hit iedereen man.
+
+23:14 uur (afzender: [tweelingbroer verdachte]): Maar kende ze hem of niet
+ 
+
+
+21:17 uur (afzender: [e-mailadres 1]): Nee. Heb geen naam genoemd
+
+23:16 uur (afzender: [tweelingbroer verdachte]): En ze bleven de heletijd in huis toch
+
+21:20 uur (afzender: [e-mailadres 1]): Ja alleen route plannen en zo 
+
+23:18 uur (afzender: [tweelingbroer verdachte]): Oke komt goed maak je niet druk je hebt pipa daar toch
+
+21:22 uur (afzender: [e-mailadres 1]): Ja. Bro. Maar niet opzak. 
+
+23:20 uur (afzender: [tweelingbroer verdachte]): Wie is die matie van die andere die ze vetrouwt 
+(afzender: [e-mailadres 1]): [bijnaam van persoon met naam 7]47
+ 
+
+
+21:17 uur (afzender: [e-mailadres 1]): Nee. Heb geen naam genoemd
+
+23:16 uur (afzender: [tweelingbroer verdachte]): Oke is niks dan dus ze weten niet hij is. Maar wouden ze hem we’ll doen waren ze down of niet
+
+21:20 uur (afzender: [e-mailadres 1]): Ja ze wouden zo snel mogenlijk gaann die dag nog
+
+23:18 uur (afzender: [tweelingbroer verdachte]): Oke ze krijgen gekke loet daarom die ital had geen paspoort meschien aanghouden of zo mag hij gelijk weg
+
+21:21 uur (afzender: [e-mailadres 1]): Kan. Mohim komt goed.
+
+23:19 uur (afzender: [tweelingbroer verdachte]): Jah we’ll wees alleen scherp. Konden hun een beetje de weg daar of helemaal niks ze kenden de straat niet toch
+
+21:23 uur (afzender: [e-mailadres 1]): Denk het niet.
+ 
+
+Uit bovenstaande PGP-berichten blijkt dat [medeverdachte 1] en [medeverdachte 3] terug naar Nederland gaan om een extra persoon op te halen. 
+ 
+
+Uit de berichten kan ook worden afgeleid dat de gebruiker van het account [e-mailadres 1] op 22 augustus 2015 in Berlijn is en dat [tweelingbroer verdachte] in Nederland is. [tweelingbroer verdachte] zegt immers om 23:10 uur dat hij net bij de McDonalds in Leiderdorp was en dat daar een witte Fiat 500 stond. Uit een hierboven genoemd PGP-bericht van 20 augustus 2015 van [medeverdachte 1] aan [naam 2] blijkt dat [medeverdachte 1] in die periode gebruik maakte van een witte Fiat 500. 
+ 
+
+
+23 augustus 2015 
+
+ 
+
+Op 23 augustus 2015 vindt de volgende communicatie plaats tussen de gebruiker van het account [e-mailadres 1] en [tweelingbroer verdachte] :48
+ 
+
+
+11:26 uur (afzender: [tweelingbroer verdachte]): Heb je die. Gasten nog gesproken
+
+09:31 uur (afzender: [e-mailadres 1]): Ja vanacht
+
+11:29 uur (afzender: [tweelingbroer verdachte]): Oke perfect saf is goed. Ze kommen trug toch
+
+09:33 uur (afzender: [e-mailadres 1]): Ja hij moet wel ik heb zijn rijbewijs
+
+11:33 uur (afzender: [tweelingbroer verdachte]): Oke hahahaah satan dat je bent
+
+09:36 uur (afzender: [e-mailadres 1]): Kijk
+
+11:43 uur (afzender: [tweelingbroer verdachte]): Hij is kk lelijk ahhahahahahaa hij is mat zwart woedelkahba
+(…) 
+
+09:48 uur (afzender: [e-mailadres 1]): Luiister sla deze foto op en nog 1 die ik je stuur
+(…)
+ 
+
+Vervolgens sturen [medeverdachte 1] en de gebruiker van het account [e-mailadres 1] elkaar de volgende berichten waaruit blijkt dat [medeverdachte 1] op 24 augustus 2015 (in het gezelschap van één of meer anderen) weer terug zal reizen naar Berlijn.49 [medeverdachte 3] heeft verklaard dat hij samen met [medeverdachte 1] medeverdachte Djurgen [medeverdachte 2] heeft opgehaald uit Nederland omdat [medeverdachte 1] een extra man nodig had.50 [medeverdachte 2] heeft bevestigd dat hij met [medeverdachte 1] en [medeverdachte 3] naar Berlijn is gegaan en dat hij daar met hen in een woning heeft verbleven.51
+ 
+
+(…) 
+
+8:48 PM (afzender: [e-mailadres 1]): Hey vriend hoe gaat ie 
+
+20:47 uur (afzender: [medeverdachte 1]): Ai hoe gaat ie 
+
+8:50 PM (afzender: [e-mailadres 1]): Ja stressen gap met die mensen hier hahah.
+
+20:48 uur (afzender: [medeverdachte 1]): Nee is die wagie niet gekomen? 
+
+8:52 PM (afzender: [e-mailadres 1]): Als het goed is vandaag zo niet laat ik een 330. Kom uit nl vanacht
+
+20:51 uur (afzender: [medeverdachte 1]): Ok hoelaat rijd die gapie terug? Je hebt me zijn mail nog niet
+
+gestuurt. 
+
+
+8:55 PM (afzender: [e-mailadres 1]): Ik ga je straks sturen maak je niet druk heb je. 3 vriend gesproken
+
+21:02 uur (afzender: [medeverdachte 1]): Ja tuurlijk. Hun staan paraat. 
+
+19:06 uur (afzender: [e-mailadres 1]): Oke gruwlijk
+
+10:11 PM (afzender: [e-mailadres 1]): Hey vriend luister me bro gaat jullie op halen. elf uur. Ophalen. En brengen naar dusseldorf. Daar worden jullie op gepikt door die vroiend van me met die 550
+
+22:11 uur (afzender: [medeverdachte 1]): Elf uur is vroeg je zei 6uur die andere ga ik nog niet zien of nu
+
+kunnen vertellen dt ze zo al klaar moeten zijn. Of bedoel je morgenochtend? 
+
+
+10:15 PM (afzender: [e-mailadres 1]): Morgen ochtend me broertje gaat je zo mailen en uitlegen hoelaat morgen ochtend hij jullie ziet
+(afzender: [medeverdachte 1]): Ok is goed. 
+ 
+
+Ook vindt er op 23 augustus 2015 een gesprek plaats tussen [medeverdachte 1] en [naam 2] :52
+ 
+
+
+10:12 PM (afzender: [naam 2]): Hallo vriend hoe is het 
+(afzender: [medeverdachte 1]): Goed bro 
+
+10:14 PM (afzender: [naam 2]): Hoe laat morgen? 
+(afzender: [medeverdachte 1]): Praat nu met die andere halen ons elf uur op. 
+
+10:19 PM (afzender: [naam 2]): welke andere mijn vriend? 
+(afzender: [medeverdachte 1]): Die matie van jouw. rijden met zijn broertje mee. Daarna rijden we
+
+verder met iemand anders. 
+
+(afzender: [medeverdachte 1]): Maar was weer niet gelukt om wagie te regelen daar? 
+
+10:23 PM (afzender: [naam 2]): Nee ik stuur morgen auto ik ga niet laten staan op straat gelijk van dief aan chaufeur vertrekt morgen. Heb al geregeld. Die gasten daar zijn bang bro die zijn deze dingen niet gewend is heel anders daar.
+(afzender: [medeverdachte 1]): Ok is goed. Wij komen morgen aan.  
+ 
+
+De gebruiker van het account [e-mailadres 1] en [tweelingbroer verdachte] hebben op 23 augustus 2015 het volgende gesprek waaruit blijkt dat [tweelingbroer verdachte] [medeverdachte 1] en zijn gezelschap op 24 augustus 2015 naar Düsseldorf zal brengen.53
+ 
+
+
+20:10 uur (afzender: [e-mailadres 1]): Bro ze moeten om 1 uur in dusseldorf zijn niet bij de trein. Ze worden opgepikt daar. Door die vriend van me baba
+
+22:08 uur (afzender: [tweelingbroer verdachte]): Oke waar in dusseldorf 
+(afzender: [e-mailadres 1]): Ik. Ga je morgen vroeg doorgeven waar 
+
+22:10 uur (afzender: [tweelingbroer verdachte]): Oke ik ga ze om 9 uur op pikken broer 
+
+20:14 uur (afzender: [e-mailadres 1]): Heb je het geregeld met. Die mooie 
+
+22:14 uur (afzender: [tweelingbroer verdachte]): Jah hij begon hee broer hoe is het ik zei zeg het maar hoelaat klootzak hahaha
+
+20:19 uur (afzender: [e-mailadres 1]): Hahahahahhaa hij kwam met tnawis dagoe. Je hebt mail van dnafer. Toch stem even met hem. Af
+
+22:17 uur (afzender: [tweelingbroer verdachte]): Nee heb dnafar de mail niet. Hahahahahahah Dnafer
+
+20:22 uur (afzender: [e-mailadres 1]): [e-mailadres 6] @ennetcom.com54
+
+22:24 uur (afzender: [tweelingbroer verdachte]): Nee. Ik ga. Ze om 9 proberen te opiken
+
+20:29 uur (afzender: [e-mailadres 1]): Ewa regel het even en maiil me aals het hebt geregeld bro
+
+20:31 uur (afzender: [tweelingbroer verdachte]): Jah sprak hem zo ik laat je straks weten
+
+22:34 uur (afzender: [tweelingbroer verdachte]): Hoelaat moeten we daar zijn
+
+20:37 uur (afzender: [e-mailadres 1]): 1 uur dusseldorf
+
+22:35 uur (afzender: [tweelingbroer verdachte]): Dusseldorf of dortmund 
+
+20:38 uur (afzender: [e-mailadres 1]): Dusseldorf 
+
+22:37 uur (afzender: [tweelingbroer verdachte]): Hoeveel is dat nog verder  
+
+20:40 uur (afzender: [e-mailadres 1]): is sneller. Is ook daar in de buurt 2 uur rijden van adam zo
+(afzender: [tweelingbroer verdachte]): ben er geweest toen ik trug reed klopt is zelfde ietje dichtbijer saf ik regel het
+
+20:42 uur (afzender: [tweelingbroer verdachte]): Oke vetrek half 10 met ze moet ik naar station dusseldorf
+(afzender: [e-mailadres 1]): Nee bro daar zijn cameras. Trouwens heb je die foto’s van dnafer opgeslagen. 
+
+22:41 uur (afzender: [tweelingbroer verdachte]): Kom$t goed zeg me aleen waar in dusseldorf
+
+20:45 uur (afzender: [e-mailadres 1]): Morgen. Inshalah stuurt baba die. Adress waar
+
+22:43 uur (afzender: [tweelingbroer verdachte]): Oke saf moet we’ll van tevoren dan weet ik waar
+(afzender: [e-mailadres 1]): Ja zoiezo
+ 
+
+
+20:54 uur (afzender: [e-mailadres 1]): Luister als je de grens over gaat kijk uit voor die cameras. Zo is ben gepakt
+
+22:57 uur (afzender: [tweelingbroer verdachte]): Heb je die hoer al weer gesingialeerd of niet
+
+21:04 uur (afzender: [e-mailadres 1]): Nee. Al 2 dagen niet maar we waren niet gaan zoeken
+
+23:02 uur (afzender: [tweelingbroer verdachte]): Oke saf hij komt altijd zelfde plek ze moer
+
+21:06 uur (afzender: [e-mailadres 1]): Vaak. Ze moeder 
+
+23:04 uur (afzender: [tweelingbroer verdachte]): Oke wordt galge maaltijd en dnafer gaat reserveren als ober bakie lood
+
+21:13 uur (afzender: [e-mailadres 1]): Nee hij is niet de echt doener hij denk hij is de black schumacher. Hij is driver hij weet niet als ie over de kop gaat met die waggie wat die moffen met hem gaan. Ze gaan die gummie in zijn neusgaten douwen
+(…)
+
+23:12 uur (afzender: [tweelingbroer verdachte]): Hebben jullie wagi of niet
+
+21:17 uur (afzender: [e-mailadres 1]): Nee we zijn er mee bezig. (…) 
+
+23:18 uur (afzender: [tweelingbroer verdachte]): Ahaahhaahahahahahhahahaha ga stuk elmoehim ze moeten hun werk goed doen en niet genakt worden
+
+21:24 uur (afzender: [e-mailadres 1]): Nee daarom. Dan gaan we hem rijkelijk belonen kan hij een mooie ritten huis kopen in su. Oja hij heeft een mocro vrouw. (…) Ze heet gizlan.55(…) 
+ 
+
+
+23-24 augustus 2015 
+
+ 
+
+In de nacht van 23 op 24 augustus 2015 zoekt [tweelingbroer verdachte] contact met [medeverdachte 1] en bespreken ze de reis die voor de volgende dag gepland staat:56
+ 
+
+
+10:21 PM (afzender: [tweelingbroer verdachte]): Eeh vriend we gaan morgen weer op reis he hoelaat zien we mekaar
+
+20:24 uur (afzender: [medeverdachte 1]): Ga het zo met die andere bespreken. Laat je straks weten.
+
+10:25 PM (afzender: [tweelingbroer verdachte]): Oke we moeten daar 12 uur zijn dus vetreken. Vroeg
+
+20:31 uur (afzender: [medeverdachte 1]): Je brada zei rond 11uur? 
+(…) 
+
+10:42 PM (afzender: [tweelingbroer verdachte]): Eeh vriend we moeten daar 1 uur zijn we gaan half 10 vetreken van hier bij de zelfde plek als toen bij macdonald leiderdorp
+
+20:45 uur (afzender: [medeverdachte 1]): Laat je zo weten geef me een uurtje hoor je het
+
+20:49 uur (afzender: [tweelingbroer verdachte]): Oke vriend 
+
+22:03 uur (afzender: [medeverdachte 1]): Bro 10uur zijn we daar.
+
+22:04 uur/12:04 AM (afzender: [tweelingbroer verdachte]): Oke perfect ik ben daar dan
+
+00:21 uur (afzender: [medeverdachte 1]): Is goed zie je morgen 
+(afzender: [tweelingbroer verdachte]): oke
+ 
+
+
+24 augustus 2015
+
+ 
+
+Op 24 augustus 2015 vindt de volgende berichtenwisseling plaats tussen [medeverdachte 1] en [tweelingbroer verdachte] respectievelijk [naam 2] .57
+ 
+
+
+11:32/13:35 uur (afzender: [tweelingbroer verdachte]): Eeh broer. Ben je klaar
+
+1:33 PM (afzender: [tweelingbroer verdachte]): Kom beter naar hier die straat is een richtings verkeer is kut moet dan om rijden drama. Kom naar die parkeer sta buiten geparkeerd
+
+13:34 uur (afzender: [medeverdachte 1]): Ok komen eraan. 
+(afzender: [tweelingbroer verdachte]): Oke pik
+ 
+
+
+18:58 uur (afzender: [medeverdachte 1]): Zijn aangekomen. 
+
+17:04 uur/07:04 PM (afzender: [naam 2]): Bro doe je best aub. Ik geef jullie een zware bonus. Meerd dan wat je zou krijgen.die is groter dan die bedrag wat me vriend je zei die bonus. Heel groot. En elke motherfucker erbij barkie. Extra en ik geef jullie die doekoe waar jullie willen suriname china amerika nedeland je krijgd waar jullie willen 
+(afzender: [medeverdachte 1]): Bro als alles geregeld is pakken we hem. als we hem zien is ie van ons. 
+
+18:59 uur (afzender: [medeverdachte 1]): Die matie die ik heb meegenomen heeft een beetje buit nodig voor
+
+kleren hij had me verkeerd begrepen. Heeft bijna niks meegenomen. 
+
+
+17:05 uur/07:05 PM (afzender: [naam 2]): Ik regel het maar aub ga niet winkelen daar ga ver erbuiten vroeg opstaan. Als winkels net open zijn 
+
+19:04 uur (afzender: [medeverdachte 1]): Wij gaan niet sturen die andere of die ouwe om te gaan wij gaan
+
+niet naar buiten. 
+
+
+07:09 PM (afzender: [naam 2]): Ok ik regel hhet. 
+(afzender: [medeverdachte 1]): Ok
+ 
+
+Uit de berichten tussen [medeverdachte 1] en [naam 2] blijkt dat [medeverdachte 1]  [medeverdachte 3] (weer) en [medeverdachte 2] in Berlijn zijn. 
+ 
+
+
+25 augustus 2015 
+
+ 
+
+Op 25 augustus 2015 zoekt [medeverdachte 1] om 16:28 uur contact met de gebruiker van het account [e-mailadres 1] . Laatstgenoemde stuurt op 25 augustus 2015 om 16:31 uur het volgende bericht naar [medeverdachte 1] : ‘Ja we komen zo’. [medeverdachte 1] reageert met: ‘Ok’. 
+ 
+
+Ook stuurt de gebruiker van het account [e-mailadres 1] op 25 augustus 2015 het volgende bericht naar [tweelingbroer verdachte] :58
+ 
+
+
+13:47 uur (afzender: [e-mailadres 1] ): Luister lever mijn rijpie bij me vrouw paspoort mag je houden tot je de jou terug krijgt. Je moet hem inleveren
+ 
+
+
+26 augustus 2015 
+
+ 
+
+
+          [medeverdachte 1] en de gebruiker van het account [e-mailadres 1] hebben op 26 augustus 2015 het volgende contact.59
+ 
+
+
+12:59 uur (afzender: [e-mailadres 1]): We hebben tom tom en. Dvd gehaald voor jullie. Gap. Zijn jullie ook alvast aangekleed. En zo. 
+
+12:58 uur (afzender: [medeverdachte 1]): Nee nog niet. Maar doen we nu. 
+(afzender: [medeverdachte 1]): Zou je met hun gaan kijken?  
+(afzender: [e-mailadres 1]): Ja we komen zo. 
+ 
+
+
+17:55 uur (afzender: [medeverdachte 1]): Heb het. 
+
+15:58 uur (afzender: [e-mailadres 1]): Oke kijken jullie goed naar die hond
+(afzender: [medeverdachte 1]): Ja 
+ 
+
+
+27 augustus 2015 
+
+ 
+
+Op 27 augustus 2015 hebben [medeverdachte 1] en de gebruiker van het account [e-mailadres 1] het volgende contact:60
+ 
+
+
+11:24 uur (afzender: [e-mailadres 1]): Hey jongen alles goed met jullie ik ben nu even bij die capuccino. Even kijken of die flikker hier is. Gap. We kom zo jullie kant op. 
+(afzender: [medeverdachte 1]): Ja alles goed. We zijn hier. 
+ 
+
+
+14:41 uur (afzender: [e-mailadres 1]): Hey vriend luister sta paraat volgens mij. Komt ie zo denk ik
+
+14:41 uur (afzender: [medeverdachte 1]): Waarom denk je dt? 
+(afzender: [medeverdachte 1]): Gevoel? 
+
+14:45 uur (afzender: [e-mailadres 1]): Omdat ik. Een. Paar rare figuren. Heb gezien die denk ik bij hem horen
+
+14:44 uur (afzender: [medeverdachte 1]): Ok is goed wij zijn klaar.
+
+12:53 uur (afzender: [e-mailadres 1]): Oke gap 
+ 
+
+
+28 augustus 2015 
+
+ 
+
+De gebruiker van het account [e-mailadres 1] heeft op 28 augustus 2015 het volgende gesprek met de gebruiker genaamd ‘ [naam 3] ’:61
+ 
+
+
+00:24 uur (afzender: ‘ [naam 3] ’): Waar jij 
+
+00:27 uur (afzender: [e-mailadres 1]): Buitenland bezig bro
+
+29 augustus 2015 
+
+ 
+
+
+          [medeverdachte 1] en de gebruiker van het account [e-mailadres 1] wisselen op 29 augustus 2015 de volgende berichten.62
+ 
+
+
+15:03 uur (afzender: [e-mailadres 1]): Hey. Hoe gaat ie
+
+15:01 uur (afzender: [medeverdachte 1]): Rustig. Jullie? 
+
+13:05/15:05 uur (afzender: [e-mailadres 1]): Ja rustig hahahah hebben jullie kater. Of valt het mee. Ik had gehoord jullie waren aan die jack. Cola
+
+15:04 uur (afzender: [medeverdachte 1]): Nee wij niet hebben twee glazen gedronken die tata was lam.
+
+overgeven en shit. Hij is net weer in slaap gevallen.
+
+
+13:08/15:08 uur (afzender: [e-mailadres 1]): Hahahahhaha. Oke oke die flikker is nog niet gezien
+
+15:06 uur (afzender: [medeverdachte 1]): Ja gingen stuk hier. Ok we wachten af.
+
+13:10/15:10 uur (afzender: [e-mailadres 1]): Oke alleen geen herrie maken bro denk aan de buren aub. Je weet we moeten allert blijven.
+(afzender: [medeverdachte 1]): Ja doen we. Had al met ze gesproken. Komt goed.
+
+15:10 uur (afzender: [medeverdachte 1]): hoelaat ben je straks hier?
+
+13:14/15:14 uur (afzender: [e-mailadres 1]): 2 uurtjes ben aan ot doen kijken of we die flikker kunnen zien
+(afzender: [medeverdachte 1]): Hahhaha is goed. Als je komt neem aub donerschotels mee?
+ 
+
+
+15:18 uur (afzender: [medeverdachte 1]): Had je me bericht gekregen?
+
+15:22 uur (afzender: [e-mailadres 1]): Ja. Ik ga halen maar jullie moeten wachten. Even
+(afzender: [medeverdachte 1]): Ja komt goed. Niet nu
+ 
+
+
+15:42 uur (afzender: [medeverdachte 1]): Hoe heet die naam van die straat waar wij zitten?
+
+13:45/15:45 uur (afzender: [e-mailadres 1]): Waarom.
+
+15:45 uur (afzender: [medeverdachte 1]): Ben op straat ga ef naar winkel maar ga taxi pakken moet terug
+
+daarna.
+
+
+13:47 uur (afzender: [e-mailadres 1]): [adres safehouse]
+(afzender: [medeverdachte 1]): Ok. 
+
+13:48/15:48 uur (afzender: [e-mailadres 1]): Vriend je gaat naar buiten terwijl die man meschien elk moment kan komen. En dan. Ben je er niet.
+(afzender: [medeverdachte 1]): Ben zo weer terug. Blijf niet lang. 
+ 
+
+
+18:00/20:00 uur (afzender: [e-mailadres 1]): Hey donner wouden jullie. Toch sorry we gaan nu halen en we komen. Direct
+
+20:00 uur (afzender: [medeverdachte 1]): Hahaha we hebben al doner broodje gehad. Lamskoteletschotel
+
+ofzo is beter met rijst ofzo?
+
+
+20:00 uur (afzender: [medeverdachte 1]): Had je ontvangen?
+
+18:04/20:04 uur (afzender: [e-mailadres 1]): Ja heb ontvangen. Ga halen voor jullie
+(afzender: [medeverdachte 1]): Ai top 
+ 
+
+
+20:25 uur (afzender: [e-mailadres 1]): Hey alles oke 
+
+20:22 uur (afzender: [medeverdachte 1]): Hoezo? 
+
+20:26 uur (afzender: [e-mailadres 1]): Reed net langs zag allemaak scotoe voor de deur staan.
+
+20:24 uur (afzender: [medeverdachte 1]): Wij zitten binnen. Nu net?  
+
+20:28 uur (afzender: [e-mailadres 1]): Oke
+
+20:26 uur (afzender: [medeverdachte 1]): Licht is we’ll aan op de gang weet je waar ze zijn?   
+
+20:30 uur (afzender: [e-mailadres 1]): Nee natuurlijk niet. Verstop gewoon die pipas goed is niks aan de hand.
+
+20:30 uur (afzender: [medeverdachte 1]): Nee weet ik. Ze rijden net weg met sirene aan.    
+(afzender: [e-mailadres 1]): Waar waren ze. Dan. Weet je dat
+
+18:33 uur (afzender: [e-mailadres 1]): Doe dat even omdat ik weet niet waar ze zijn. Ze reden voor me met. Sirenes toen later zag ik ze. Voor de deur 3 autos ben door gereden. Gap
+
+20:32 uur (afzender: [medeverdachte 1]): Denk daar bij die kapperzaak ergens
+
+18:35 uur (afzender: [e-mailadres 1]): Oke zie jullie zo
+(afzender: [medeverdachte 1]): Ok
+ 
+
+Op 29 augustus 2015 tussen 20:20 uur en 20:30 uur waren er – blijkens via een rechtshulpverzoek verkregen informatie van de politie in Berlijn – drie politieauto’s aanwezig in de [adres safehouse] te Berlijn die van daaruit vervolgens met zwaailichten en sirenes zijn weggereden vanwege een geactiveerd alarmsysteem elders in Berlijn.63
+ 
+
+
+30 augustus 2015 
+
+ 
+
+Op 30 augustus 2015 hebben [medeverdachte 1] en de gebruiker van het account [e-mailadres 1] opnieuw contact:64
+ 
+
+
+13:34 uur (afzender: [medeverdachte 1]): Ik pak nu taxi naar die osso was eten halen
+
+(afzender: [e-mailadres 1]): PffffffFffff
+ 
+
+
+21:04 uur (afzender: [e-mailadres 1]): Hey vriend kunnen jullie morgen om 11uur al kant en klaar staan ik kom ook bij jullie. Timeren als die anderen rond kijken.
+
+21:03 uur (afzender: [medeverdachte 1]): Doen ons best. Word niks meer vandaag?
+
+21:06 uur (afzender: [e-mailadres 1]): Denk het niet ga zo even weer kijken ik ben bij jullie morgen 11 uur.
+
+21:06 uur (afzender: [medeverdachte 1]): Is goed man.
+(…) 
+ 
+
+
+22:04 uur (afzender: [e-mailadres 1]): Ze. Moeten uit kijken als ie daar is oke.
+
+22:02 uur (afzender: [medeverdachte 1]): Waar bij die artemis?
+
+22:05 uur (afzender: [e-mailadres 1]): Ja overal gewoon. Vooral daar
+
+22:04 uur (afzender: [medeverdachte 1]): Ok. wt was die kenteken ook alweer?
+(afzender: [e-mailadres 1]): B cr 9070
+
+22:05 uur (afzender: [medeverdachte 1]): Hoe zat het met die kentekenplaten van die bmw zou je die nog
+
+wisslen?
+
+
+22:09 uur (afzender: [e-mailadres 1]): Ja ik ga straks kijk voor platen bro
+ 
+
+Zoals eerder in dit vonnis is vermeld zijn er op 13 19 en 20 juli en op 10 en 15 augustus 2015 parkeerovertredingen gepleegd in Berlijn met een Duitse Mercedes met het kenteken 
+
+          [kenteken 1] . Deze auto was gehuurd op naam van [valse naam beoogd slachtoffer]  zijnde één van de valse namen van [naam beoogd slachtoffer] .65
+ 
+
+
+31 augustus 2015
+
+ 
+
+Vervolgens vindt er op 31 augustus 2015 weer een gesprek plaats tussen [medeverdachte 1] en [naam 2]  waarin [medeverdachte 1] de woorden ‘dat’ en ‘wat’ afkort als ‘dt’ en ‘wt’:66
+ 
+
+
+09:01/11:01 uur (afzender: [naam 2]): Hallo vriend hoe is het? 
+
+11:36 uur (afzender: [medeverdachte 1]): Yo vriend. Gaat goed.
+
+11:40 uur (afzender: [naam 2]): Wat is er aan de hand bro?
+
+11:47 uur (afzender: [medeverdachte 1]): ik maak die man al een paar dagen mee zou die man hier zijn
+
+geweest zou hij nergens gaan eten en paraat blijven. Wij willen naar nederland heb ook een paar dingen lopen we komen eind van de week weer terug? Wij willen dit doen we willen niet dt je iemand anders voor de klus neemt wt je vriend zegd dt als we weggaan dan nemen we andere mensen we willen het doen maar alles moet we’ll kloppen.
+
+(afzender: [naam 2]): Bro alles klopt desnoods mail mij ok. Ik praat met je als er iets is
+
+mail gewoon mij. We zijn eerlijke mensen en liegen niet over dit soort dingen.maar aub vertrouwen is wel belangrijk. 
+
+ 
+
+Ook vindt op 31 augustus 2015 de volgende berichtenwisseling plaats tussen [medeverdachte 1] en de gebruiker van het account [e-mailadres 1] :67
+ 
+
+(…) 
+
+15:57 uur (afzender: [e-mailadres 1]): Heyyyyyy bro 
+(afzender: [medeverdachte 1]): Ok 
+
+13:59/15:59 uur (afzender: [e-mailadres 1]): Hallllooooo
+(afzender: [medeverdachte 1]): Ja we zijn paraat 
+
+14:07/16:07 uur (afzender: [e-mailadres 1]): Die is echt belangrijk 
+(afzender: [medeverdachte 1]): Ok 
+ 
+
+
+16:28 uur (afzender: [medeverdachte 1]): Hoeveel man? 
+
+14:34/16:34 uur (afzender: [e-mailadres 1]): Ze waren. Met zen 2. En zat even te praten met die. Die gasten van hier
+(afzender: [medeverdachte 1]): Ok maar zitten nog daar. 
+
+15:38 uur (afzender: [e-mailadres 1]): Hey die hond is niet gekomen die matie van hem is weg gegaan. Jullie kunnen gewoon naar boven
+ 
+
+Vervolgens hebben [medeverdachte 1] en [naam 2] het volgende gesprek:68
+ 
+
+
+17:30 uur (afzender: [medeverdachte 1]): Bro heb niks meer gehoord van die andere?
+
+17:36 uur (afzender: [naam 2]): Ik heb net net je mail gestuurd naar hem 3 minuten
+(afzender: [medeverdachte 1]): Ok 
+
+16:33/18:33 uur (afzender: [naam 2]): Je vriend heb geen bereik krijgd zo bereik met die nieuwe tel
+(afzender: [medeverdachte 1]): Ok snap ik. Maar wil toch alvast gaan rijden. Laat die gap die hier is ons rijden? 
+(afzender: [medeverdachte 1]): Word later en later zo. Dan is het straks weer nachtwerk.
+ 
+
+Op 31 augustus 2015 vindt ook de volgende communicatie69 plaats tussen [medeverdachte 1] en de gebruiker van het account [e-mailadres 8] @ennetcom.com die door het onderzoeksteam is geïdentificeerd als [naam 7] .70 De rechtbank gaat – mede nu deze identificatie tijdens het onderzoek ter terechtzitting geen onderwerp van discussie is geweest – in dit vonnis uit van de juistheid van deze identificatie en zal de gebruiker van genoemd account in het vervolg van dit vonnis aanduiden als ‘ [naam 7] ’. 
+ 
+
+Uit onderstaand gesprek blijkt dat [medeverdachte 1] op 31 augustus 2015 voor een paar dagen terug naar Nederland gaat. Ook in dit gesprek gebruikt [medeverdachte 1] de afkortingen ‘dt’ en ‘wt’. 
+ 
+
+
+18:40 uur (afzender: [naam 7]): Joo bro wat is de prob
+
+16:39 uur (afzender: [medeverdachte 1]): Is geen probleem. Hun maken er een probleem van dt ik zeg ik wil
+
+ef naar ned.
+
+(afzender: [naam 7]): Bro der is werk kan elke moment gebeuren gaan we niet wachten
+
+tot je terug bent
+
+
+16:42 uur (afzender: [medeverdachte 1]): Het loopt hier niet zoals het moet lopen. Nu we’ll maar toen we
+
+kwamen niet. We willen de klus klaren maar wij willen ef naar ned. We zijn straks hier bijna bij elkaar twee weken die 2a3dagen dt ik naar huis wil moet geen probleem zijn. Ik weet nou niet hoe het thuis gaat en had nog iets lopen met iemand wt ik niet heb kunnen afsluiten kan niemand anders doen dan ik.
+
+(afzender: [naam 7]): Ik zorg wel dat ze een tel krijgt
+
+18:43 uur (afzender: [naam 7]): Wat moet er geregelt worden dan regel ik het en je bent daar voor werk en thuis weten ze het toch en je hebt je brada daar stuur ik iemand naar hem die kk brilvriend van je reageert niet
+
+16:44 uur (afzender: [medeverdachte 1]): Ik weet dt ik voor werk ben en juist omdt die bril niet reageert. Broer we kunnen twee dagen gaan ik weet niet waarom ik je om moet praten. We zijn hier elke dag geweest.
+(afzender: [naam 7]): Gaat niet om ompraten maar om acktie die man is daar gezien ze maat is net gezien ik bgrp niet waarom je niet kan wachten tot weekend gebeurd er niks ga je weekendje terug
+
+18:46 uur (afzender: [naam 7]): Bro dit is belangrijk en gaat je veel geld opleveren deze gasten zijn mijn maten met huis regel ik maak je daar niet druk om maar je moet even gedult hebben die man duikt zo weer op
+
+16:46 uur (afzender: [medeverdachte 1]): Niemand van ons heeft het thuis goed geregeld. Ze zeiden tegen
+
+ons is zo gebeurt dus zeiden tegen onze vrouwen zijn zo terug. Ik weet van mijn vrouw dt ze mis iets doms gaat doen.
+
+
+18:49 uur (afzender: [naam 7]): Deze man is belangrijk zeg me waar ik kan gaan om buit aan je vrouw te geven
+
+16:50 uur (afzender: [naam 7]): Ok laat laat me tel brengen voor haar die enet kan je gewoon
+
+praten
+
+
+16:48 uur (afzender: [medeverdachte 1]): Kan niet ze gaat zoiets niet geloven of ik ben er zelf of voor haar
+
+klopt het niet. Dt is tussen mij en haar is mijn ding met haar. Ze weet zoiezo dt ik nooit iemand naar haar zal sturen.
+
+
+18:52 uur (afzender: [naam 7]): Ok dan ga jij en laat die jongens daar
+
+16:51 uur (afzender: [medeverdachte 1]): Maar niemand van hier doet mee. We zijn met zijn drieen zo was er een ouwe bij die moest weg. Nu moeten we al zelf de tweede auto rijden en de tas met alles meenemen in eerlijke auto. Ze kunnen weinig hier regelen.
+
+18:57 uur (afzender: [naam 7]): Bro ik wil hun 2 daar hebben ga jij snel je dingen regelen en voor hun
+
+16:58 uur (afzender: [medeverdachte 1]): Ok maar als hun blijven ze kunnen niet met zijn tweeen doen.
+
+19:02 uur (afzender: [naam 7]): Bro dus ga jij laat hun tot jew terug komt kan iemand van hun gaan acktie kan elke moment gebeuren
+
+17:01 uur (afzender: [medeverdachte 1]): Ok is goed doen we het zo. Maar als ik aankom zijn er dan tels en
+
+buit want weet niet hoelang we hier dan moeten blijven we horen elke dag van ja kan? Dus wil we’ll zeker zijn van jouw ben ik zeken van hun weet ik niet. Zei al vandaag tegen die hier is dat ik dacht dt hij loog om ons hier te houden vond hij niet leuk denk ik.
+
+
+19:03 uur (afzender: [naam 7]): Ik hou het in de gaten en je weet nu om wie het gaat toch
+
+17:02 uur (afzender: [medeverdachte 1]): Heb zijn gezicht gezien. 
+(afzender: [naam 7]): Je weet wie dat is toch
+
+17:05 uur (afzender: [medeverdachte 1]): Is hoes. 
+
+19:11 uur (afzender: [naam 7]): Wat nee man wat hoes hahah
+
+17:08 uur (afzender: [medeverdachte 1]): Oh dan weet ik het niet.
+(afzender: [medeverdachte 1]): Zijn gezicht komt me bekend voor maar heb hun niks gezegd ik weet niet wie of van waar.
+(afzender: [naam 7]): Ok bro hoelang blijf je weg je gaat veel geld mislopen heel veel
+
+want ze gaan andere bij doen en je mannen heb je ze gezegt gaan hier goed aan verdienen en bro die gasten zijn oke bij wie je bent
+
+
+19:06 uur (afzender: [naam 7]): Bro niemand van hun liegt zijn mijn maten ze hebben hem gezien maar toen ze jullie wouden halen was ie al weer weg
+(afzender: [medeverdachte 1]): Ja we waren onderweg daarheen. Ik dacht dt hij loog omdt toen hij er niet meer was hij tegen zijn vriend zei van kom we gaan eten maar ver wil hier niet in de buurt zijn ik dacht toen wij allemaal trouwens als je hem ziet wil je juist in de buurt zijn.
+
+19:08 uur (afzender: [naam 7]): Wil je tels voor hun allemaal en wat is met die kk bril van jou
+
+17:07 uur (afzender: [medeverdachte 1]): Zoiezo die kutbril daarom hebben we hem ook gelaten maar kan
+
+ook dt mijn vrouw hem die tel niet heeft gegeven. Ik weet niet wt er is.
+
+
+17:12/19:12 uur (afzender: [naam 7]): Ok bro 
+
+17:10 uur (afzender: [medeverdachte 1]): Ok ik ga zo rijden dan. Zorg jij dt er 6tels zijn voor hier en daar. Dan pik ik die op bij die bril. En buit. Want ik hossel voor thuis ook die andere zijn wij er niet is er niemand die het we’ll doet.
+
+19:15 uur (afzender: [naam 7]): Hoe 6 tels bro 3 dan mailen jullie gewoon met werk tel en bro je vrouw daar zorg ik wel voor via je brada moet je gewoon een privé num van hem of pgp bij bril van mij laten
+
+17:14 uur (afzender: [medeverdachte 1]): Dacht dt we die van ons niet mee mochten nemen dus die zijn niet
+
+hier ik heb alleen deze bij me?
+
+
+19:17 uur (afzender: [naam 7]): Loon van jullie vind je daar en hoe zit het met die grote geef zijn mail zodat ik met hem kan praten
+
+17:19 uur (afzender: [medeverdachte 1]): en sikje heeft van hun geen 5k gehad voor hier zegd ie. Ik heb hem twee k van mij gegeven hij wil dt ik beetje voor zijn vrouw laat en de rest hier om kleren en eten te halen.
+(afzender: [naam 7]): Ik ga zorgen dat hij het alsnog krijgt
+(afzender: [naam 7]): En bro die hond wou ons doen en had ons ook bijna daarom is dit belangrijk
+
+17:21/19:21 uur (afzender: [naam 7]): Ja die bedoel ik kan je ook met je vrouw in contackt staan en bro laat niemand wat weten ook niet met wie je on contackt staat boka enzo
+
+17:20 uur (afzender: [medeverdachte 1]): Nee broer niemand weet dt ik hier ben of wt ik doe alleen jij weet.
+
+Gaat hun ook niks aan.
+
+(afzender: [naam 7]): Ok bro wis die foto
+ 
+
+
+17:26 uur (afzender: [naam 7]): Hoelang blijf je weg
+
+17:28 uur (afzender: [naam 7]): Bro die ita kan het werk alleen af toch en sikje rijd en worden opgehaald door 3de man
+
+17:24 uur (afzender: [medeverdachte 1]): 1of twee dagen ben meteen terug regel wt ik moet regelen. Ik hou
+
+die foto ik neem deze tel niet mee die laat ik voor hun.
+
+
+19:29 uur (afzender: [naam 7]): Hoe ga je ze berieiken dan
+
+17:27 uur (afzender: [medeverdachte 1]): Via jouw of je br of die bril jullie hebben hun mails zo gaf die bril mij toen ook deze codes
+ 
+
+
+19:32 uur (afzender: [naam 7]): 5kop geeft bril je voor sikje en hun loon kop de man en jou loon
+
+17:30 uur (afzender: [medeverdachte 1]): Had doorgegeven dt ita 750extra moest hebben omdt hij die
+
+stashhuis moet betalen? En wie komt me nu halen?
+
+
+19:36 uur (afzender: [naam 7]): Aan wie doorgegeven
+
+17:35 uur (afzender: [medeverdachte 1]): Volgens mij aan je br weet niet meer zeker anders wou ik het nog
+
+zeggen? Ik weet niet meer
+
+ 
+
+
+19:38 uur (afzender: [naam 7]): En bro ben na zometeen niet meer bereikbaar op deze gooi ik
+
+meteen weg en wis alle gespreken
+
+(afzender: [medeverdachte 1]): Ok doe ik wis ze nu.
+
+19:40 uur (afzender: [naam 7]): Bro hoebedoel je brengen naar nl ofzo
+
+17:38 uur (afzender: [medeverdachte 1]): Naar de grens zoniet ga ik nu kijken hoe ik hier wegkom ik ga
+
+wissen en ef naar station rijden. Als ik in ned kom neem ik contact op met bril hij moet zorgen dt hij 3tels heeft dan kunnen die we’ll samen met onze tels.
+
+
+19:41 uur (afzender: [naam 7]): Je word naar de trein gebracht en bro neem deze tel mee gooi hem weg jullie hebben toch 2 tels daar nog
+
+17:39 uur (afzender: [medeverdachte 1]): Nee geen 1tel hebben we hier hun hebben niks gekregen.
+
+19:43 uur (afzender: [naam 7]): Je hebt maar 1 tel
+
+17:41 uur (afzender: [medeverdachte 1]): Ja alleen deze waar ik nu mee mail. Daarom vroeg ik je 6. 3voor
+
+thuis 3voor hier
+
+
+19:44 uur (afzender: [naam 7]): Bro rijd sikje die genakte waggie en 3de man haalt ze op ?
+(afzender: [medeverdachte 1]): Nee sikje rijd ita op motor 3man staat hun op te wachten die rijd
+
+hun naar eerlijke auto.
+
+
+19:46 uur (afzender: [naam 7]): Bro 1 voor jullie beter
+
+17:43 uur (afzender: [medeverdachte 1]): En dan koppelen met tels die we thuis hebben?
+
+17:46 uur (afzender: [naam 7]): Is niet dat jullie elke seconde in contackt staan met jullie vrouwen
+
+19:49 uur (afzender: [naam 7]): Ja deze en met huis praten
+
+17:46 uur (afzender: [medeverdachte 1]): Nee die van ita is zwanger hij zit daarmee in zijn hoofd. Iedereen
+
+van ons heeft 1 met zijn vrouw als hij in andere stad is. Dt als er iets is dt ze mee kunnen denken met hun vrouw. Dt is wt ze willen niet om de hele dag te mailen dt word ze ook uitgelegd.
+
+(afzender: [naam 7]): Bro ik ga niet nog 6tels halen jullie zitten bij elkaar 1 tel is dan genoeg ik ga kijken of jullie nog 1 krijgen
+ 
+
+
+17:46 uur (afzender: [medeverdachte 1]): Zo kan het morgen zijn dt er word gewerkt maar ook volgende
+
+week.
+
+ 
+
+
+19:52 uur (afzender: [naam 7]): Bro ita rijd en word opgehaald door eerlijke geen 2 overstapjes
+
+17:51 uur (afzender: [medeverdachte 1]): Hij kan niet alleen gaan moet toch bij sikje achterop de motor?
+(afzender: [naam 7]): Ja ita doet het werk stapt achterop sikje rijden naar eerlijke auto die
+
+op ze wacht
+
+
+17:51 uur (afzender: [medeverdachte 1]): Zo hebben hun een bmw laten komen uit ned
+
+17:56/19:56 uur (afzender: [naam 7]): Bro we hebben geen mannen daar alleen jullie nu en nog een chaffeur
+
+17:53 uur (afzender: [medeverdachte 1]): Ok
+(afzender: [naam 7]): Bro de rest regelt nijn maat via die man die bij jullie is
+
+17:54 uur (afzender: [medeverdachte 1]): Bro ga stoppen met mailen rij nu naar station om te kijke als ik kan gaan wil dit niet missen dan kan ik meteen terug. 
+(afzender: [naam 7]): Ok wis alles
+ 
+
+Uit de berichten blijkt dat [medeverdachte 1] zijn PGP-telefoon (met daaraan gekoppeld het account [e-mailadres 6] ) achterlaat in Berlijn. Tijdens zijn afwezigheid wordt via dit account op 
+31 augustus 2015 als volgt gecommuniceerd met de gebruiker van het account [e-mailadres 1] :71
+ 
+
+
+20:57 uur (afzender: [e-mailadres 6]): Yo broer
+(afzender: [e-mailadres 1]): Yoooo. Bro fawaka.
+
+20:59 uur (afzender: [e-mailadres 6]): Met ita. Heb je nog handdoeken en beddengoed. We hadden mee gegeven om te wassen
+(afzender: [e-mailadres 1]): Hebbe jullie niks nu daar
+
+21:01 uur (afzender: [e-mailadres 6]): Nee man helemaal niets. En die bolle72 zegt als je hem kan droppen bij berlin spaundau straks om 23:45 moet hij daar zijn
+(afzender: [e-mailadres 1]): Ja is goed ik ga kijken als het goed is heb ik iets liggen in die andere osso.
+ 
+
+
+1 september 2015 
+
+ 
+
+Op 1 september 2015 vindt de volgende communicatie73 plaats tussen het account [e-mailadres 6] en de gebruiker van het account [e-mailadres 1]  waarbij opvalt dat de gebruiker van het account [e-mailadres 6] het woord ‘dat’ voluit schrijft: 
+ 
+
+
+10:04 uur (afzender: [e-mailadres 1]): We weten nu 1000 procent de huis van die kleine is
+
+12:02 uur (afzender: [e-mailadres 6]): Nu hopen dat die varken daar ook komt
+(afzender: [e-mailadres 1]): Ja kan die. Man slaapt nog want ze auto staat daar broer
+ 
+
+
+11:49 uur (afzender: [e-mailadres 1]): Hey bro ik ga nu daar rondje maken om te kijken. Of die flikker daar is.
+(afzender: [e-mailadres 6]): Ok 
+ 
+
+
+22:20 uur (afzender: [e-mailadres 1]): Die vriend van jullie komt morgen. Bro heb dat net. binnen gekregen
+
+22:19 uur (afzender: [e-mailadres 6]): Ok. Kan je doorgeven dat die pgp die wij hier hebben andere is dus we kunnen geen kontakt hebben met thuisfront
+(afzender: [e-mailadres 1]): Oke 
+ 
+
+
+22:54 uur (afzender: [e-mailadres 1]): Broer morgen hebben julle een pgp jullie vrouwtjes krijgen allemaal 1 kunnen jullie met thuis front praten broer.
+
+22:53 uur (afzender: [e-mailadres 6]): Is goed thanks mattie
+(afzender: [e-mailadres 1]): No problemo bro 
+ 
+
+
+5 september 2015
+
+ 
+
+Op 5 september 2015 wordt als volgt gecommuniceerd tussen het account [e-mailadres 6] en het account [e-mailadres 1] :74
+ 
+
+
+11:52 uur (afzender: [e-mailadres 6]): Yo broer ja rustig. Die 2 snurkies slapen nog
+(afzender: [e-mailadres 1]): Hhahaha oke wij zijn net ook wakker.
+
+11:59 uur (afzender: [e-mailadres 6]): Ok ok heb je nog wat leuk nieuws of welloe
+
+10:03 uur (afzender: [e-mailadres 1]): Walllooee nog man. Maar 99 procent hij is bij die capuchino. Morgen maar we gaan zo deur uit.
+
+12:06 uur (afzender: [e-mailadres 6]): Ok ok. Komt goed. Ik ga zonnebankie pakken nu  kan dat ?
+
+10:10 uur (afzender: [e-mailadres 1]): Kan als je snel doet bro.
+
+12:17 uur (afzender: [e-mailadres 6]): Ja man er ligt niets om iets te doen. Ik zie je straks. Ik blijf gewoon binnen
+
+10:22/12:22 uur (afzender: [e-mailadres 1]): Maar wat loop ie over nee. Wat heb je. Nodig
+
+12:24 uur (afzender: [e-mailadres 6]): we hebben iets nodig dat lang en flexibel is om erin te steken of iets want zit vast. En anders zo'n plopper zo'n zuignap ding
+
+12:33 uur (afzender: [e-mailadres 1]): Ok haal intstopper
+
+12:33 uur (afzender: [e-mailadres 6]): Broer heb al gefixt. Ik heb die wc borstel gebruikt. Hij loopt weer goed
+(afzender: [e-mailadres 1]): Ok. Gelukkig 
+ 
+
+In bovenstaand gesprek schrijft de gebruiker van het account [e-mailadres 6] de woorden ‘dat’ en ‘wat’ voluit. 
+ 
+
+Op 5 september 2015 vindt vervolgens het volgende gesprek75 plaats tussen de gebruiker van het account [e-mailadres 6] en [naam 2] . Opvallend is dat vanaf dit gesprek weer gebruik wordt gemaakt van de afkortingen ‘dt’ en ‘wt’. Dit duidt erop dat [medeverdachte 1] vanaf dit moment weer gebruik maakt van het account [e-mailadres 6] . 
+ 
+
+
+18:00 uur (afzender: [medeverdachte 1]): Yo bro hoe gaat ie?
+
+16:06/18:06 uur (afzender: [naam 2]): He bro gaat goed rustigg. Wachten gewoon die man gaat komen bro zeker.hoe is met jullie
+
+18:04 uur (afzender: [medeverdachte 1]): Ja gaat goed. We wachten ook nog maar hoelang zou je willen dt
+
+we hier nog zouden blijven
+
+
+18:14 uur (afzender: [naam 2]): Bro ik krijg nu net net letterlijk 2 minuten bericht hij is nl nu nu nu . Hij gaat echt komen hij blijfd niet lang nl want hij staat telex. Bro aub heb even geduld hij gaat echt komen. Is kwestie van dagen max misschien al morgen berlijn is ze huis.
+
+Het is echt kwestie van dagen
+
+(afzender: [medeverdachte 1]): Wt vind je van woensdag als laatste dag? En dan ned om te wachten tot we horen dt hij hier is.
+
+18:20 uur (afzender: [naam 2]): Bro aub blijf nog even hij gaat echt komen vertrouw me ik weet waarom die daar was is voor een afspraak met iemand. Hij gaat echt terug.ik ga jullie echt goed geld geven voor dit vertrouw me hierop alleen heb geduld aub. Dit is gewoon een kwestie van paar dagen max. Hij was gewoon daar maar we hadden geen auto enzo.
+
+Dit is echt heel belangrijk ook voor je vriend. 
+
+
+18:20 uur (afzender: [medeverdachte 1]): Wt is paar dagen max?
+
+18:32 uur (afzender: [naam 2]): Bro ik kan niet precies zeggen maar hij gaat echt snel komen als ik weet dat lang weg blijfd ga ik jullie daar toch ook niet laten zitten gepropt in een huis bro. Dat kan niet. Zo ben ik niet. Aub vertrouw me echt heeel snel. Komt die
+(afzender: [medeverdachte 1]): Hmm ok. We wachten nog maar we hebben nog buit nodig hier.
+ 
+
+
+19:26 uur (afzender: [medeverdachte 1]): Had je ontvangen?
+
+19:32 uur (afzender: [naam 2]): Nee bro wat?
+(afzender: [medeverdachte 1]): Wou nog buit voor hier. Heb 5bar van me eigen geld aan die ita gegeven. Maar ook kwa eten mis paar spulletjes kopen als we langer blijven.
+ 
+
+
+7-8 september 2015
+
+ 
+
+Op 7 en 8 september 2015 vindt de volgende berichtenwisseling plaats tussen [medeverdachte 1] en de gebruiker van het account [e-mailadres 1] .76
+ 
+
+
+7 september 2015
+
+
+21:45 uur (afzender: [e-mailadres 1]): Hey. Bro. 2 uur zijn we bij jullie kan die monre. Mee. Naar die garage
+
+21:56 uur (afzender: [medeverdachte 1]): Ja is goed 
+(afzender: [e-mailadres 1]): Oke
+ 
+
+
+8 september 2015
+
+
+02:08 uur (afzender: [e-mailadres 1]): Hey bro we komen nu eraan
+
+02:05 uur (afzender: [medeverdachte 1]): Ok 
+
+02:10 uur (afzender: [e-mailadres 1]): Luister maak eens die gps schoon bro en zet hem in een. Plastic hanschoen en laat hem ook die sleutel van die. Renault mee nemen
+(afzender: [medeverdachte 1]): Ok 
+
+00:15/02:15 uur (afzender: [e-mailadres 1]): Alleen gps moet ie meenemen auto sleutel hoeft niet bro.
+
+02:13 uur (afzender: [medeverdachte 1]): Ok zijn jullie er al? 
+
+00:17 uur (afzender: [e-mailadres 1]): Bijna 3 min bro 
+(afzender: [medeverdachte 1]): Ok 
+
+00:21/02:21 uur (afzender: [e-mailadres 1]): Ik ben er 
+
+02:27 uur (afzender: [medeverdachte 1]): Gps vergeten is nog hier
+
+02:31 uur (afzender: [e-mailadres 1]): Ja dat weet ik bro.
+
+02:28 uur (afzender: [medeverdachte 1]): Ok 
+
+02:32 uur (afzender: [e-mailadres 1]): Je hebt hem schoon gemaakt toch
+(afzender: [medeverdachte 1]): Ja
+ 
+
+
+22:35 uur (afzender: [e-mailadres 1]): Denk ik 
+
+22:32 uur (afzender: [medeverdachte 1]): Is die kleine ook niet hier denk je?
+
+22:36 uur (afzender: [e-mailadres 1]): Nee denk dat ze weg zijn bro niks en ook niks te zien van hun.
+
+22:34 uur (afzender: [medeverdachte 1]): Dan wt gaan we doen dan nu? We’ll gaar dt die kleine er ook niet
+
+meer is.
+
+
+22:43 uur (afzender: [e-mailadres 1]): Ja denk terug. Bro. Maar morgen. Vroeg kom ik naar jullie zodat we alles met elkaar afstemmen. Hoe en wat
+
+22:40 uur (afzender: [medeverdachte 1]): Ok is goed. Zie je morgen dan.
+ 
+
+
+9 september 2015 
+
+ 
+
+Op 9 september 2015 vindt de volgende communicatie plaats tussen [medeverdachte 1] en de gebruiker van het account [e-mailadres 1] .77
+ 
+
+
+08:09/10:09 uur (afzender: [e-mailadres 1]): Hey bro kunnen jullie alvast die huis schoonmaken. Want jullie kunnen vandaag terug gaan omdat die man is hier niet net binnen gekregen maar wacht tot ik straks. Daar ben
+(afzender: [medeverdachte 1]): Is goed. 
+
+10:09 uur (afzender: [medeverdachte 1]): Neem buit mee voor de trein?
+
+10:14 uur (afzender: [e-mailadres 1]): Hoezo.ik heb jullie gisteren. Een kop gegeven
+(afzender: [medeverdachte 1]): Is goed je hebt gelijk.
+ 
+
+
+11:45 uur (afzender: [medeverdachte 1]): Ai bro hoelaat zou je komen? We zijn klaar hier
+
+11:52 uur (afzender: [e-mailadres 1]): Oke. Uurtje zijn we bij jullie
+(afzender: [medeverdachte 1]): Ok 
+ 
+
+
+13:16 uur (afzender: [medeverdachte 1]): Yo bro hoelaat het word het wil kaartjes halen voor de trein
+
+13:21 uur (afzender: [e-mailadres 1]): We zijn. Even die huur auto terug brengen. We zijn nu daar bij die bv. Bijna0klaar kom ik gelijk
+(afzender: [medeverdachte 1]): Ok 
+
+13:23 uur (afzender: [e-mailadres 1]): Hij moest voor 1 uur terug anders weer bij betalen. 
+
+13:21 uur (afzender: [medeverdachte 1]): Ok snap ik
+
+14:02 uur (afzender: [e-mailadres 1]): Net aangehouden door politie
+
+14:01 uur (afzender: [medeverdachte 1]): Ok wij staan beneden. Zoniet zie ik je op station.
+
+12:09/14:09 uur (afzender: [e-mailadres 1]): Hga maar bro. Nu laat alles in die osso worden.
+
+14:13 uur (afzender: [medeverdachte 1]): Hoelang voor je hier bent want heb we’ll sleutel van het huis zet ik hem onder die mat?
+
+12:19/14:19 uur (afzender: [e-mailadres 1]): Nee laat hem bij je haal hem morgen op bij je ik ben net zwaar aan gehouden door die. Rouchas en ze volgen ons ze dacht dieven zijn we en wil ze niet naar daar sturen
+
+14:17 uur (afzender: [medeverdachte 1]): Ok dan neem ik hem mee. Die wapens alles en die autosleutel zijn
+
+dan nog in het huis.
+
+
+12:23/14:23 uur (afzender: [e-mailadres 1]): Kijk even of die man van sport cafe beneden is. Links van ons. Hij hoort. Bij ons. Geef hem die sleutel bro
+
+14:21 uur (afzender: [medeverdachte 1]): Gewoon met alles laten wt in het huis is? Ok geef hem nu
+
+14:26 uur (afzender: [e-mailadres 1]): Ja laat aales gewoon in die osso want ze volgden ons net. Die kanker zakkenroller team bro. Zomaar ze dachten we zitten drugs yte dealen
+
+14:23 uur (afzender: [medeverdachte 1]): Ok sleutel gelaten wij gaan.
+
+14:23 uur (afzender: [medeverdachte 1]): Wapens zijn onder gasfornuis.
+
+12:28 uur (afzender: [e-mailadres 1]): Oke. We komen zoiezo maandag terug laat sleutel bij die man als ie er niet is. Dan moet je even blijven want die auto moet daar weg
+ 
+
+
+12:28 uur (afzender: [e-mailadres 1]): Oke top ik zie je morgen bro.
+
+14:26 uur (afzender: [medeverdachte 1]): Ok
+
+12:30/14:30 uur (afzender: [e-mailadres 1]): Mail me als jullie veilig daar zijn oke
+
+14:41 uur (afzender: [medeverdachte 1]): Ok
+
+14:46 uur (afzender: [e-mailadres 1]): Kanker honden kreeg gewoon boeien om 
+
+14:43 uur (afzender: [medeverdachte 1]): Nee zo gaar. Dan dachten ze echt dt jullie iets deden. Wt voor auto reden jullie.
+
+12:49/14:49 uur (afzender: [e-mailadres 1]): Die. A3 ik zag hem al bij pomp station vanaf daar gingen. Ze ons achter na. Opeens was in europcar ze komen naar binnen gelijk staande geghouden. Handboeien op ik heb ze de kanker uitgescholden later zagen ze dat we niks. Hadden hebben ze ons laten gaan
+
+14:48 uur (afzender: [medeverdachte 1]): Vieze honden gelukkig had je niks bij je. Hoe ga jij terug met auto? Want je zegt zie je morgen.
+
+12:52 uur (afzender: [e-mailadres 1]): Ja met waggoe. Bro.
+
+12:51/14:51 uur (afzender: [e-mailadres 1]): Ze volgen ons nu bro daarom ik ga niet naar die osso.
+
+14:48 uur (afzender: [medeverdachte 1]): Ok is goed ik ben al weg zie je snel weer.
+(afzender: [e-mailadres 1]): Ja zeker bro gekke ot hahahahahhaah
+ 
+
+
+18:48 uur (afzender: [e-mailadres 1]): Hey bro zijn julie al op de trein?
+(afzender: [medeverdachte 1]): Yo bro zitten in de trein
+ 
+
+Uit het dossier blijkt dat een persoon die zich heeft gelegitimeerd met een identiteitsbewijs van [tweelingbroer verdachte]  op 9 september 2015 in Berlijn staande is gehouden door de Duitse politie.78 Hij was hierbij in het gezelschap van [naam 8] en [naam 9] . De drie personen waren op dat moment bezig met het grondig schoonmaken van een gehuurde auto (een Audi A3) waarbij zij handschoenen droegen. In de kofferbak lagen een schroevendraaier en handschoenen. In de onderbroek van [naam 9] werd een bedrag van € 5.500- aangetroffen. Uit de via het rechtshulpverzoek verkregen informatie blijkt dat deze auto van 31 augustus 2015 tot 9 september 2015 is gehuurd op naam van Nicole Pohnke.79
+ 
+
+
+10 september 2015 
+
+ 
+
+Op 10 september 2015 vindt de volgende communicatie plaats tussen [tweelingbroer verdachte] en de gebruiker van het account [e-mailadres 1] :80
+ 
+
+
+17:19 uur (afzender: [tweelingbroer verdachte]): Eeh heb me legi nodig moet rijpie geven heb hem nodig waar kan ik hem halen en die van jou af geven
+
+17:26 uur (afzender: [e-mailadres 1]): Ben er nu niet.
+ 
+
+
+20 september 2015 
+
+ 
+
+Op 20 september 2015 vindt er een PGP-gesprek plaats tussen de gebruiker van het account [e-mailadres 1] en de gebruiker van het account [e-mailadres 9]  dat volgens het onderzoeksteam kan worden toegeschreven aan [naam 2] .81 De rechtbank gaat in het kader van dit vonnis uit van de juistheid van deze identificatie. 
+ 
+
+
+16:06 uur (afzender: [naam 2]): Deze man moet dood en snel. Hij blijfd doorgaan
+
+16:15 uur (afzender: [e-mailadres 1]): Ja vriend maar kijk bro hij heeft zwaAaar geluk gehad laatste keer. Als ie daar was was gebleven. Zijn tijd komt. Hij weet niks. Vandaar. We moeten alleen voorzichtig zijn. We hebben tot nu toe iedereen. Genakt toch zijn tijd komt
+
+16:14 uur (afzender: [naam 2]): Ja klopt ik hoop het wallah kankerkind moet dood is gestoorde psychopaat moet dooddddddd
+ 
+
+
+28 september 2015 
+
+ 
+
+Op 28 september 2015 vindt er opnieuw een gesprek plaats tussen de gebruiker van het account [e-mailadres 1] en (volgens het onderzoeksteam) [naam 2] :82
+ 
+
+
+20:50 uur (afzender: [naam 2]): Ook die kanker hoerenzoon moet dood wil niet uit me hoofd gaan
+
+20:54 uur (afzender: [e-mailadres 1]): Jah ik ook maar hij is nog steeds niet gezien in. Berlijn
+(…) 
+ 
+
+
+5.2
+
+Standpunt van de officieren van justitie 
+ 
+
+Volgens de officieren van justitie kan ten aanzien van elk van de verdachten het medeplegen van de voorbereiding van de moord bewezen worden verklaard. Uit het PGP-berichtenverkeer blijkt dat de verdachten nauw en bewust met elkaar hebben samengewerkt. 
+ 
+
+Voor [medeverdachte 1]  [medeverdachte 3] en [medeverdachte 2] geldt dat zij samen in Berlijn hebben verbleven en daar met wapens en voertuigen die beschikbaar en onder handbereik waren ‘paraat’ hebben gestaan om de liquidatie van [naam beoogd slachtoffer] uit te voeren. 
+Verdachte – die kan worden gekoppeld aan het account [e-mailadres 1] – heeft in Berlijn onder meer als spotter gefungeerd. Uit onder meer het hiervoor vermelde PGP-bericht van 
+10 september 2015 blijkt dat verdachte en zijn tweelingbroer [tweelingbroer verdachte] gebruik maakten van elkaars identiteitsbewijzen. Het Openbaar Ministerie gaat er daarom van uit dat het verdachte is geweest die op 9 september 2015 in het gezelschap van [naam 8] en [naam 9] staande is gehouden in Berlijn en zich heeft gelegitimeerd met het identiteitsbewijs van [tweelingbroer verdachte] . Verdachte stond in nauw contact met [medeverdachte 1]  die hij onder meer op de hoogte stelde van zijn observaties en de momenten dat [medeverdachte 1]  [medeverdachte 3] en [medeverdachte 2] ‘paraat’ moesten staan. Zijn bijdragen vormden een essentieel onderdeel in de voorbereiding om de uitvoering van de liquidatie mogelijk te maken. 
+
+          [medeverdachte 4] heeft vanuit Nederland nauw en bewust met zijn medeverdachten samengewerkt aan de voorbereiding van de liquidatie. Dat hij niet in Berlijn is geweest doet aan zijn rol van medepleger niet af. Uit de PGP-berichten blijkt dat Bouzzaoui volledig op de hoogte was van het plan om [naam beoogd slachtoffer] te liquideren. Hij was betrokken bij het regelen van huisvesting in Berlijn en verantwoordelijk voor de levering van de benodigde wapens. Deze zijn onder zijn leiding in een garage in een Skoda Fabia verborgen en naar Berlijn vervoerd. [medeverdachte 4] heeft ervoor gezorgd dat er iemand naar Berlijn vloog om de auto met de wapens op te wachten en daar een garage te benutten vermoedelijk om de wapens uit de auto te halen. De rol van [medeverdachte 4] dient te worden gekwalificeerd als medepleger vanwege zijn bijdrage aan de organisatie en de voorbereiding van de liquidatie op verschillende onderdelen en vanwege de rol die hij heeft vervuld bij het regelen van de wapens en het transport daarvan naar Berlijn. Hierbij is van doorslaggevend belang dat de wapens cruciaal waren voor een geslaagde uitvoering van de beoogde moord en dat [medeverdachte 4] op de hoogte was van het liquidatieplan en de voorbereidingen die daarvoor werden getroffen. 
+ 
+
+Voor het begaan van de moord hadden de verdachten diverse voorwerpen voorhanden. Hoewel de in de tenlastelegging genoemde woning (het ‘safehouse’ aan de [adres safehouse] ) diende als uitvalsbasis voor het beramen en het uitvoeren van de liquidatie en het bewaren van de wapens was die woning niet bestemd voor het begaan van het misdrijf. Voor dat onderdeel van de tenlastelegging dient vrijspraak te volgen. Verder is er onvoldoende bewijs dat de verdachten de ten laste gelegde foto(’s) van [naam beoogd slachtoffer] en de GPS-tracker voorhanden hebben gehad. Ook hiervan dient partieel vrijspraak te volgen.  
+ 
+
+Wel kan worden bewezenverklaard dat verdachte en zijn medeverdachten de in de tenlastelegging genoemde PGP-telefoons motor voertuigen en wapens en munitie voorhanden hebben gehad. 
+ 
+
+
+5.3
+
+Standpunt van de verdediging 
+ 
+
+De verdediging heeft integrale vrijspraak bepleit. Daartoe is het volgende aangevoerd. 
+ 
+
+Ten eerste was verdachte niet de gebruiker van het account [e-mailadres 1] . Dit account is door andere gebruikers opgeslagen onder een grote hoeveelheid – uiteenlopende – namen. In de ten laste gelegde periode is het account niet opgeslagen onder namen die aan verdachte kunnen worden gelinkt. Verder is het account [e-mailadres 1] door het account [e-mailadres 7] (welk account door het Openbaar Ministerie wordt toegeschreven aan de tweelingbroer van verdachte [tweelingbroer verdachte] ) in augustus respectievelijk september 2015 opgeslagen onder de namen ‘Shinbett’ en ‘Mossad’. Beide namen verwijzen naar iemand met een link met Israël en niet naar verdachte. Het is ook niet logisch dat [tweelingbroer verdachte] zijn tweelingbroer onder deze namen zou opslaan. 
+Het account [e-mailadres 1] is op momenten buiten de ten laste gelegde periode door (slechts) drie andere accounts opgeslagen onder de namen ‘ [bijnaam] ’ en ‘ [bijnaam] ’. Dit zijn de enige namen die mogelijkerwijs naar verdachte zouden kunnen verwijzen. Op basis hiervan kan echter niet worden geconcludeerd dat verdachte gebruik heeft gemaakt van het account [e-mailadres 1]  laat staan in de ten laste gelegde periode. 
+ 
+
+Verder kan niet worden vastgesteld dat verdachte in de ten laste gelegde periode in Berlijn was. De stelling van het Openbaar Ministerie dat verdachte gebruik maakte van het identiteitsbewijs van zijn tweelingbroer [tweelingbroer verdachte] – en dat het daarom verdachte moet zijn geweest die op 9 september 2015 in het gezelschap [naam 8] en [naam 9] staande is gehouden in Berlijn en zich heeft gelegitimeerd met het identiteitsbewijs van zijn tweelingbroer [tweelingbroer verdachte] – is onjuist. 
+ 
+
+Ook heeft de verdediging aangevoerd dat uiterst behoedzaam moet worden omgegaan met de interpretatie van de inhoud van de PGP-berichten. Daarbij is van belang dat het in deze zaak gaat om berichten van vele jaren terug waarvan op dit moment niet meer objectief is vast te stellen of de inhoud van die berichten overeenstemt met de werkelijkheid. In dat kader is van belang dat medeverdachte [medeverdachte 1] heeft verklaard dat hij de personen met wie hij in contact stond over de voorgenomen liquidatie op [naam beoogd slachtoffer] heeft misleid. Dat er daadwerkelijk een liquidatie had kunnen plaatsvinden was volgens [medeverdachte 1] onmogelijk omdat hij van tevoren wist dat [naam beoogd slachtoffer] niet in Berlijn aanwezig was. Op basis van het dossier kan ook niet worden vastgesteld dat [naam beoogd slachtoffer] in de ten laste gelegde periode in Berlijn was. 
+ 
+
+De verdediging heeft verder naar voren gebracht dat verdachte niet alleen – zoals door de officieren van justitie is verzocht – moet worden vrijgesproken van het voorhanden hebben van de woning de foto(’s) van [naam beoogd slachtoffer] en de GPS-tracker maar ook van de overige in de tenlastelegging genoemde voorwerpen. Ten aanzien van de voertuigen en de PGP-telefoons kan niet worden vastgesteld dat deze gebruikt zouden gaan worden bij de uitvoering van het delict. Daarnaast is ten aanzien van de wapens en munitie de voertuigen en de motor geen enkel objectief bewijs aanwezig op grond waarvan kan worden vastgesteld dat die voorwerpen voorhanden zijn geweest laat staan dat die bestemd waren tot het begaan van de ten laste gelegde liquidatie. 
+Onduidelijk is hoeveel en welke wapens en patronen er aanwezig zouden zijn geweest in de woning aan de [adres safehouse]  wie er op de hoogte was van deze aanwezigheid en wie beschikkingsmacht had over de wapens en patronen. Ook ten aanzien van de motor en de overige in de tenlastelegging genoemde voertuigen blijkt onvoldoende uit de PGP-berichten dat die daadwerkelijk voorhanden zijn geweest en wat de concrete bestemming daarvan zou zijn geweest bij een eventuele liquidatie van [naam beoogd slachtoffer] . 
+ 
+
+Mocht de rechtbank – ondanks het voorgaande – van oordeel zijn dat sprake is van een strafrechtelijke betrokkenheid van verdachte dan dient verdachte hoogstens te worden beschouwd als medeplichtige. In dat kader is onder meer van belang dat verdachte in de ten laste gelegde periode geen contact heeft gehad met de vermeende opdrachtgever [naam 2] . Uit de PGP-berichten die zijn verstuurd naar en door het account [e-mailadres 1] blijkt niet hoe de voorgenomen liquidatie precies zou worden uitgevoerd. Dat [medeverdachte 1] op enig moment vraagt naar het kenteken van [naam beoogd slachtoffer] doet bovendien vermoeden dat het ‘spotten’ – voor zover dat al een taak van verdachte zou zijn geweest – een gedeelde taak was. Deze taak was dus zeker niet exclusief en essentieel. Er was geen sprake van de voor medeplegen vereiste nauwe en bewuste samenwerking tussen verdachte en zijn medeverdachten. 
+De bijdrage van verdachte – het verstrekken van inlichtingen – was ook niet van voldoende intellectueel of materieel gewicht om tot een bewezenverklaring van medeplegen te kunnen komen aldus de verdediging. 
+ 
+
+
+5.4
+
+Oordeel van de rechtbank 
+ 
+
+De rechtbank stelt voorop dat het in de onderhavige zaak voor wat betreft de bewijsvoering in belangrijke mate aankomt op de betekenis die kan worden toegekend aan de inhoud van de ter beschikking gekomen PGP-berichten. Voor de bewijswaarde is relevant dat personen die de encrypte berichtendienst gebruikten zich onbespied waanden. Nu het echter gaat om de uitleg en interpretatie van berichten is het risico op een verkeerd begrip daarvan aanwezig. Om de inhoud van die berichten te kunnen duiden als betrekking hebbend op de voorbereiding van de moord op [naam beoogd slachtoffer]  is het daarom nodig dat bij de bewijslevering behoedzaamheid wordt betracht. De rechtbank is zich daar terdege van bewust. 
+ 
+
+De rechtbank zal eerst uitleggen waarom zij bewezen vindt dat verdachte in de ten laste gelegde periode de gebruiker was van het account [e-mailadres 1] en dat verdachte in die periode in Berlijn was. Vervolgens zal de rechtbank het juridisch kader uiteenzetten waaraan wordt getoetst. Daarbij zal worden beoordeeld of verdachte een strafrechtelijke betrokkenheid heeft gehad bij de voorbereiding van de liquidatie van [naam beoogd slachtoffer] en zo ja hoe deze betrokkenheid moet worden gekwalificeerd. 
+ 
+
+
+Verdachte was de gebruiker van het account [e-mailadres 1]
+
+ 
+
+Anders dan de verdediging vindt de rechtbank bewezen dat verdachte in de ten laste gelegde periode de gebruiker was van het account [e-mailadres 1] . Zij overweegt daartoe als volgt. 
+ 
+
+In een hiervoor onder 5.1.2 weergegeven PGP-gesprek van 9 september 2015 zegt de gebruiker van het account [e-mailadres 1] tegen [medeverdachte 1] dat zij ‘die huurauto’ gaan terugbrengen en even daarna (om 14.02 uur) dat hij net is aangehouden door de politie.83 [medeverdachte 1] vraagt hierop: ‘Wt voor auto reden jullie’ waarop de gebruiker van het account [e-mailadres 1] reageert met ‘A3’. Uit het dossier blijkt dat een persoon die zich heeft gelegitimeerd met een identiteitsbewijs van [tweelingbroer verdachte]  op 9 september 2015 in Berlijn staande is gehouden door de Duitse politie.84 Hij was daarbij in het gezelschap van [naam 8] en [naam 9] . De drie personen waren op dat moment bezig met het grondig schoonmaken van een gehuurde auto (een Audi A3). 
+ 
+
+Vervolgens heeft op 10 september 2015 een PGP-gesprek plaatsgevonden tussen de gebruiker van het account [e-mailadres 1] en de gebruiker van het account [e-mailadres 7] (geïdentificeerd als [tweelingbroer verdachte] ) waarin [tweelingbroer verdachte] zegt dat hij zijn ‘legi’ nodig heeft waar hij die kan halen en waar hij die van [e-mailadres 1] kan afgeven. 
+De rechtbank heeft ter terechtzitting van 5 juli 2021 geconstateerd dat het gezicht van verdachte – mede afgaande op de foto’s van [verdachte] en [tweelingbroer verdachte] op pagina’s ZD10-1-061 en 062 van het dossier – grote gelijkenis vertoont met het gezicht van zijn tweelingbroer [tweelingbroer verdachte] .85 Het is dus zeer wel mogelijk dat het de Duitse politie niet is opgevallen dat [verdachte] hen destijds een legitimatiebewijs van [tweelingbroer verdachte] toonde. 
+ 
+
+Het account [e-mailadres 1] is in 2015 door andere gebruikers opgeslagen onder verschillende namen waarvan een deel (‘ [bijnaam] ’ ‘ [bijnaam] ’ en ‘Broer [bijnaam] ’) een directe link met verdachte lijkt te hebben. De gebruiker van het account [e-mailadres 7] – door het onderzoeksteam gekoppeld aan [tweelingbroer verdachte] – is door andere gebruikers onder meer opgeslagen onder de namen ‘ [tweelingbroer verdachte] [e-mailadres 7] ’ ‘Br [bijnaam] ’ ‘ [bijnaam] bro’ en ‘ [bijnaam] br.’.86
+ 
+
+Gelet op voornoemde feiten en omstandigheden bezien in samenhang met de PGP-berichten waaruit blijkt dat verdachte en zijn tweelingbroer in de ten laste gelegde periode gebruik maakten van elkaars identiteitsbewijs – gezien het kennelijk gemak waarmee dit besproken wordt – stelt de rechtbank vast dat het verdachte moet zijn geweest die in de ten laste gelegde periode gebruik maakte van het account [e-mailadres 1] . De omstandigheid dat het account door anderen niet exact in de ten laste gelegde periode is opgeslagen onder de namen ‘ [bijnaam] ’ ‘ [bijnaam] ’ en ‘Broer [bijnaam] ’ doet hier niet aan af. Het account is immers wel kort vóór de ten laste gelegde periode respectievelijk op 20 juni 2015 27 juli 2015 en 1 augustus 2015 onder die benamingen opgeslagen terwijl het account ook na de ten laste gelegde periode namelijk op 14 november 2015 door weer een andere gebruiker is opgeslagen als ‘ [bijnaam] ’. Dat duidt juist op doorlopend gebruik door [verdachte] .
+ 
+
+De rechtbank zal de gebruiker van het account [e-mailadres 1] daarom verder aanduiden als verdachte. 
+ 
+
+
+Verdachte was in de ten laste gelegde periode in Berlijn
+
+ 
+
+De rechtbank acht ook bewezen dat verdachte in de ten laste gelegde periode in Berlijn was. Zij overweegt daartoe het volgende. 
+ 
+
+Uit PGP-berichten tussen verdachte en [medeverdachte 1] op 20 augustus 2015 blijkt dat [medeverdachte 1] en [medeverdachte 3] op die datum vanuit Nederland met de trein naar het treinstation in Berlijn reizen waar zij een taxi nemen naar een door verdachte genoemd hotel. Daar worden zij vervolgens – zoals afgesproken – opgepikt door verdachte in een zwarte Audi A4 en naar het ‘safehouse’ gebracht. 
+ 
+
+In een PGP-bericht op 22 augustus 2015 zegt verdachte tegen [tweelingbroer verdachte] dat ‘die hitters’ even snel terug naar Nederland zijn. Uit de daaropvolgende communicatie blijkt dat [tweelingbroer verdachte] [medeverdachte 1]  [medeverdachte 2] en [medeverdachte 3] op 24 augustus 2015 vanuit Leiderdorp naar Düsseldorf brengt van waaruit zij vervolgens verder reizen naar Berlijn. Uit deze communicatie en de aanwezigheid van [tweelingbroer verdachte] in Nederland leidt de rechtbank af dat verdachte op dat moment nog steeds in Berlijn is. 
+ 
+
+Daarnaast zegt verdachte in PGP-gesprekken op 16 en 28 augustus 2015 tegen een gebruiker genaamd ‘ [naam 3] ’ dat hij in het buitenland is. 
+ 
+
+Op 29 augustus 2015 vindt een PGP-gesprek plaats tussen [medeverdachte 1] en verdachte waarin [medeverdachte 1] vraagt naar de naam van de straat waar ‘wij’ zitten (de rechtbank neemt aan dat [medeverdachte 1] hier refereert aan zichzelf [medeverdachte 3] en [medeverdachte 2] ). Verdachte reageert daarop met: ‘ [adres safehouse] ’. 
+Later die dag hebben [medeverdachte 1] en verdachte opnieuw contact. Verdachte vraagt in een PGP-bericht om 20:25 uur aan [medeverdachte 1] of alles oké is omdat hij net langsreed en allemaal 
+‘scotoe’ voor de deur zag staan. De rechtbank acht het een feit van algemene bekendheid dat ‘scotoe’ straattaal is voor politie. [medeverdachte 1] reageert op het bericht van verdachte met: ‘Wij zitten binnen. Nu net?’ Verdachte zegt dat ze de ‘pipas’ (straattaal voor vuurwapens) goed moeten verstoppen. Om 20:30 uur zegt [medeverdachte 1] dat ‘ze’ net wegrijden met sirene aan. Verdachte zegt dat ze voor hem reden met sirenes aan en dat hij later drie auto’s voor de deur zag staan.87
+ 
+
+Op 29 augustus 2015 tussen 20:20 uur en 20:30 uur is er door de politie in Berlijn een melding geregistreerd waarbij drie politieauto’s aanwezig waren in de [adres safehouse] te Berlijn en van daaruit vervolgens met zwaailichten en sirenes zijn weggereden vanwege een geactiveerd alarmsysteem elders in Berlijn.88
+ 
+
+Gelet op het voorgaande staat naar het oordeel van de rechtbank vast dat verdachte in de ten laste gelegde periode in Berlijn was. 
+ 
+
+
+Voorbereidingshandelingen
+
+ 
+
+Op grond van artikel 46 van het Wetboek van Strafrecht (Sr) is er sprake van strafbare voorbereiding wanneer de dader opzettelijk middelen verwerft vervaardigt invoert doorvoert uitvoert of voorhanden heeft die zijn bestemd tot het begaan van een misdrijf waarop naar de wettelijke omschrijving een gevangenisstraf van 8 jaren of meer is gesteld. 
+In een zaak als de onderhavige – waarin het gaat om de voorbereiding van een moord – is niet vereist dat de dader op de hoogte was van de identiteit van het beoogde slachtoffer. Voldoende is dat het bewezenverklaarde feit strekt ter voorbereiding van het grondmisdrijf (in dit geval: moord) en dat het opzet van verdachte was gericht op het begaan van dat grondmisdrijf.89 Een concretisering van het voor te bereiden misdrijf naar tijdstip plaats en wijze van uitvoering is niet vereist.90
+ 
+
+In de rechtspraak zijn criteria ontwikkeld om vast te stellen of sprake is van strafbare voorbereidingshandelingen en -middelen. Ook op het eerste gezicht onschuldige voorwerpen kunnen voorbereidingsmiddelen worden wanneer zij worden bezien in samenhang met andere voorwerpen en tegen de achtergrond van het opzet van de dader. De voorwerpen moeten bestemd zijn tot het begaan van het uiteindelijke misdrijf. 
+ 
+
+Het Gerechtshof Amsterdam heeft op 11 maart 2019 arresten gewezen in het onderzoek 26Koper91 waarin hij een uiteenzetting heeft gegeven van de reikwijdte van de strafbaarstelling van voorbereiding. Het gerechtshof overweegt dat moet worden beoordeeld of de middelen afzonderlijk dan wel gezamenlijk naar hun uiterlijke verschijningsvorm ten tijde van het handelen van de verdachte dienstig konden zijn voor het misdadige doel dat de verdachte met het gebruik daarvan voor ogen had.92 Voldoende is dat uit de bewijsvoering kan worden afgeleid dat de bewezenverklaarde gedragingen van de verdachte strekten ter voorbereiding van dat misdrijf en dat zijn opzet op het begaan daarvan was gericht.​
+Verder overweegt het gerechtshof dat in de bewijslevering een objectieve en een subjectieve component zijn te onderscheiden. De objectieve component heeft betrekking op de bestemming van de voorwerpen die de verdachte voorhanden heeft. Deze bestemming kan blijken uit de aard van de voorwerpen zelf of uit het samenstel van voorwerpen bezien in hun onderling verband. De daarbij te hanteren maatstaf is de uiterlijke verschijningsvorm. 
+De subjectieve component heeft betrekking op de intentie van de verdachte. Het criminele karakter van die intentie kan blijken uit verklaringen van de verdachte of van anderen of uit bewijsmiddelen die zijn drijfveren onthullen. Hierbij kan worden gedacht aan opgenomen en afgeluisterde (tele)communicatie met anderen gedeelde informatie internetgedrag of verzonden berichten. 
+Volgens het gerechtshof zijn de objectieve en de subjectieve component te onderscheiden maar niet te scheiden. De interpretatie van objectieve gedragingen wordt ingevuld mede aan de hand van inzicht in intenties. De bedoelingen van de verdachte kunnen op hun beurt weer worden afgeleid uit gedrag. Het gerechtshof overweegt dat de rechter in dit kader dient te waken voor een te vergaande invulling. Naarmate meer inzicht bestaat in de intenties van de verdachte wordt de beoordeling van de bestemming van gedragingen – zoals het voorhanden hebben van voorwerpen – vergemakkelijkt. Omgekeerd kunnen de gedragingen van de verdachte of de voorwerpen waarover hij beschikt in hun onderling verband en samenhang een zodanige zeggingskracht hebben dat de intenties min of meer duidelijk naar voren komen. Dat geldt volgens het gerechtshof met name voor voorwerpen waaruit naar hun aard geen bijzondere bestemming kan worden afgeleid zoals auto’s of gereedschap. Pas bezien in hun onderlinge samenhang of in het grotere verband – met voorwerpen die wel als zodanig in een criminele context kunnen worden geplaatst – kunnen deze voorwerpen onder omstandigheden als voorbereidingsmiddel worden getypeerd aldus het gerechtshof.
+ 
+
+Het centrale begrip in het voorgaande is het misdadige doel dat de verdachte voor ogen had. Bewezen moet worden dat de verdachte opzet heeft gehad op de bestemming (het beoogde gebruik) van de voorwerpen die hij voorhanden had. Daarvoor is voorwaardelijk opzet voldoende: de verdachte heeft in dat geval willens en wetens de aanmerkelijke kans aanvaard dat het grondmisdrijf (in dit geval: de liquidatie) zou plaatsvinden. 
+ 
+
+Naar het oordeel van de rechtbank kan – gelet op het hiervoor geschetste kader – niet worden vastgesteld dat de woning aan de [adres safehouse] bestemd was tot het begaan van de liquidatie. Deze woning heeft mogelijk als uitvalsbasis gediend maar dat is niet voldoende om de woning aan te merken als een voorbereidingsmiddel in de zin van artikel 46 Sr. Verdachte en zijn medeverdachten zullen van dat gedeelte van de tenlastelegging worden vrijgesproken. 
+Datzelfde geldt voor de in de tenlastelegging genoemde GPS-tracker geldbedragen en fotografische afbeelding(en) van [naam beoogd slachtoffer]  nu niet kan worden bewezen dat verdachte en/of zijn medeverdachten deze voorwerpen hebben verworven vervaardigd ingevoerd uitgevoerd doorgevoerd en/of voorhanden hebben gehad.
+ 
+
+Dit ligt anders voor de vuurwapens de patronen de personenauto(’s) de motor en de PGP-BlackBerry’s. De rechtbank overweegt daartoe als volgt. 
+ 
+
+
+Vuurwapens en patronen 
+
+ 
+
+Uit de PGP-berichten blijkt dat [naam beoogd slachtoffer] moest worden vermoord met vuurwapens. De rechtbank verwijst bijvoorbeeld naar het hiervoor onder 5.1.2 genoemde gesprek dat op 
+11 augustus 2015 plaatsvindt tussen [naam 2] en [naam 1]  waaruit blijkt dat zij weten dat ‘ [bijnaam beoogd slachtoffer] ’ ( [naam beoogd slachtoffer] ) op dat moment in Berlijn is en dat ze besluiten om alvast wapens naar Berlijn te sturen. [naam 2] zegt tegen [naam 1] :‘deze man moet dood ik ben kijken met mijn hitters of iemand wil doen live gewoon’. [naam 1] zegt tegen [naam 2] : ‘Ik heb ze in mn stash bro heb allemaal aks en glocks. Zeg maar wnnr dan zorg ik dat ze klaarstaan. Kijk maar met je hitters dan geven we hem een groot bedrag. Voor zo’n drukke straat sowieso glock’. 
+Op 13 augustus 2015 vraagt [naam 2] aan [naam 1] hoeveel wapens ze gaan sturen. Daarop zegt [naam 1] : ‘Ik heb ak’s en glocks liggen’. [naam 2] antwoordt met: ‘stuur 4 glocks 2 ak’.93 [naam 2] spreekt over ‘ [bijnaam beoogd slachtoffer] ’ en zegt: ‘Deze man gaat neer’. 
+ 
+
+Dat [medeverdachte 1] in Berlijn over een vuurwapen beschikte blijkt uit een PGP-gesprek in de nacht van 21 op 22 augustus 2015 met [naam 2] waarin [medeverdachte 1] zegt: ‘Ik heb ook bij me als ik de kans krijg schiet ik ook. We kijken wt de situatie is we hebben allebij wapens bij ons’.
+Dat er daadwerkelijk wapens aanwezig waren in de woning aan de [adres safehouse] in Berlijn blijkt ook uit andere PGP-berichten. Op 29 augustus 2015 zegt verdachte tegen [medeverdachte 1] dat hij ‘de pipas gewoon goed moet verstoppen’.94 De rechtbank acht het een feit van algemene bekendheid dat ‘pipa’ straattaal is voor vuurwapen.
+Op 9 september 2015 krijgt [medeverdachte 1] van verdachte te horen dat ‘die man’ (de rechtbank begrijpt: [naam beoogd slachtoffer] ) niet meer in Berlijn is en dat ‘jullie’ (de rechtbank begrijpt: [medeverdachte 1]  [medeverdachte 3] en [medeverdachte 2] ) terug (de rechtbank begrijpt: naar Nederland) kunnen gaan. Later in dat gesprek zegt [medeverdachte 1] : ‘Wapens zijn onder gasfornuis.’
+ 
+
+
+          [medeverdachte 1] heeft op 20 november 2020 als getuige bij de rechter-commissaris verklaard dat er wapens aanwezig waren in de woning in Berlijn.95 [medeverdachte 1] heeft dit ter terechtzitting van 5 juli 2021 enigszins genuanceerd door te verklaren dat hij geen wapen(s) in zijn handen heeft gehad maar dat hij onder het gasfornuis in het appartement in Berlijn een tas heeft gezien met de vorm van één of meer wapen(s). Dat doet naar het oordeel van de rechtbank echter niet af aan de geloofwaardigheid van de eerdere verklaring van [medeverdachte 1] bij de rechter-commissaris nu die verklaring steun vindt in de hiervoor genoemde PGP-berichten. 
+ 
+
+De rechtbank stelt gelet op de inhoud van de PGP-berichten vast dat de wapens (in ieder geval AK’s en Glocks) vanuit Nederland naar een garage in Duitsland zijn vervoerd (ze zijn dus uitgevoerd uit Nederland naar Duitsland) en dat ze vervolgens zijn vervoerd naar het ‘safehouse’ aan de [adres safehouse] in Berlijn alwaar ze voorhanden zijn geweest. Uit de PGP-berichten kan worden afgeleid dat de wapens bestemd waren tot het begaan van de liquidatie. 
+ 
+
+Het voorhanden hebben van vuurwapens met het doel om iemand te liquideren veronderstelt dat er ook patronen voorhanden waren. Dat de vuurwapens inderdaad geladen waren blijkt uit berichten van [naam 1] aan [naam 2] op 14 augustus 2015: ‘Kijk krijg net te horen dat ik niet genoeg patronen heb voor Glocks. Dus ik vul zoveel ik kan’ en ‘Glocks heb ik 2 volle van’.
+Vervolgens stuurt [naam 2] [medeverdachte 4] op die datum berichten over geladen wapens: ‘Zijn 2 aks en 3 glocks.’ / ‘Ze zijn geladen klaar voor vertrek’. 
+ 
+
+
+Motor en personenauto 
+
+ 
+
+In een PGP-gesprek op 22 augustus 2015 zegt verdachte tegen zijn tweelingbroer [tweelingbroer verdachte] : ‘Motro heb ik al alleen waggie nog die hitters zijn even snel terug naar nl.’ 
+De rechtbank stelt daarom vast dat verdachte en/of zijn medeverdachten in Berlijn een motor voorhanden hadden. Dat deze motor bestemd was tot het begaan van de liquidatie blijkt eveneens uit PGP-gesprekken zoals het gesprek op 21 en 22 augustus 2015 tussen [medeverdachte 1] en [naam 2] :96
+
+1:31 AM (afzender: [naam 2]): Is beter als je afstapt en ook schiet snap je.en Je mattie moet afstappen niet zittend want hij moet hem door ze hoofd geven. Hij moet echt dood.
+(afzender: [medeverdachte 1]): Nee me mattie stapt ook af maar is 4uur in de middag is druk als hij
+
+afstapt heb ik geen Tijd is hij al begonnen met schieten.
+
+
+23:33 uur (afzender: [naam 2]): Als hun komen dan kan niet op terras want motor kunnen hun niet. Dan moeten met auto gaan.
+
+23:34 uur/1:34 AM (afzender: [naam 2]): Beste is motor hij is daar elke dag bijna bro. (…) 
+
+01:34 uur (afzender: [medeverdachte 1]): Nee wij twee zijn genoeg. Maar nu is er geen eerlijke auto om over te stappen daarna. (…)
+(afzender: [medeverdachte 1]): Ok. Omdt er geen eerlijke auto dan is. Dan stappen we twee keer in
+
+gestolen auto. Maar komt goed doen we het zo.
+
+
+23:37 uur/1:37 AM (afzender: [naam 2]): Beste is beide schieten. Is 3 sec om op standaard te zetten anders gewoon staand jij. Snap je met glock
+
+01:36 uur (afzender: [medeverdachte 1]): Ik heb ook bij me als ik de kans krijg schiet ik ook. We kijken wt de situatie is we hebben allebij wapens bij ons.
+
+23:41 uur/1:41 AM (afzender: [naam 2]): Bro aub schiet ook. Als ze met 4 man zijn moet je ook schieten. Als 2 man dan kan alleen je vriend schieten maar hij moet in ze hoofd schieten hij moet dood dood dood. Niet denken hij is dood echt door ze hoofd als hij ligd
+(afzender: [medeverdachte 1]): Zijn ze met 4schiet ik ook 2hij alleen komt goed. En hij gaat dood dt is de hele bedoeling hij krijgt zoiezo een headshot
+ 
+
+Verder zegt [medeverdachte 1] op 31 augustus 2015 tegen [naam 7] :97‘Nee sikje98 rijd ita99 op motor 3man staat hun op te wachten die rijd hun naar eerlijke auto.’
+Ook zegt [medeverdachte 1] op die datum tegen [naam 7] : ‘Hij kan niet alleen gaan moet toch bij sikje achterop de motor?’ waarop [naam 7] antwoordt: ‘Ja ita doet het werk stapt achterop sikje rijden naar eerlijke auto die op ze wacht’.
+ 
+
+Uit bovenstaande berichten leidt de rechtbank af dat het plan was dat ‘sikje’ de motor zou besturen dat ‘ita’ bij hem achterop zou zitten en dat ‘ita’ van de motor zou stappen en [naam beoogd slachtoffer] zou liquideren. [medeverdachte 1] zou ook meegaan en eventueel op [naam beoogd slachtoffer] schieten. 
+ 
+
+In een PGP-gesprek op 31 augustus 2015 stuurt [medeverdachte 1] om 16:51 uur het volgende bericht naar [naam 7] : ‘Maar niemand van hier doet mee. We zijn met zijn drieen zo was er een ouwe bij die moest weg. Nu moeten we al zelf de tweede auto rijden en de tas met alles meenemen in eerlijke auto. Ze kunnen weinig hier regelen’. 
+ 
+
+De rechtbank acht gelet op bovenstaande PGP-berichten ook bewezen dat er in Berlijn in ieder geval één personenauto is verworven en voorhanden was die zou worden gebruikt bij de liquidatie. Dat [medeverdachte 1] op 31 augustus 2015 tegen [naam 7] spreekt over een ‘tweede auto’ impliceert immers dat er op dat moment al één auto beschikbaar was. De rechtbank gaat ervan uit dat dit de gehuurde Audi A3 betrof die verdachte [naam 8] en [naam 9] op 9 september 2015 – de datum waarop [medeverdachte 1]  [medeverdachte 3] en [medeverdachte 2] onverrichter zake terug naar Nederland keerden – grondig aan het schoonmaken waren toen zij in Berlijn staande werden gehouden door de politie.100 Gelet op deze feiten en omstandigheden acht de rechtbank aannemelijk dat deze auto (als vluchtauto) een functie zou vervullen bij de uitvoering van de liquidatie en daartoe beschikbaar was. Om tot een voor de pleger geslaagde liquidatie te komen is het gebruikelijk dat ook maatregelen worden getroffen ten behoeve van de vlucht na het daadwerkelijk uitvoeren van de liquidatie. Naar het oordeel van de rechtbank hangt dit zodanig samen met de liquidatie zelf dat ook de daarvoor gebruikte middelen als voorbereidingsmiddel voor de liquidatie hebben te gelden.  
+ 
+
+
+PGP-BlackBerry’s 
+
+ 
+
+Uit de hiervoor genoemde berichten blijkt dat [medeverdachte 1] en verdachte PGP-telefoons voorhanden hadden waarmee verdachte [medeverdachte 1] op de hoogte hield van de verblijfplaats van [naam beoogd slachtoffer] . 
+Deze telefoons hadden een belangrijke functie bij de uitvoering van het moordplan en waren van groot belang voor de timing van de liquidatie en de aansturing van de bij de liquidatie betrokken verdachten. De rechtbank stelt dan ook vast dat de telefoons waren bestemd tot het begaan van het misdrijf. 
+ 
+
+De rechtbank concludeert dat het de bedoeling was dat de vuurwapens de patronen de motor de personenauto en de PGP-telefoons zouden worden gebruikt bij de liquidatie op [naam beoogd slachtoffer] . 
+De vraag die de rechtbank vervolgens moet beantwoorden is of verdachte de genoemde voorwerpen met dat doel tezamen en in vereniging met anderen heeft verworven ingevoerd doorgevoerd en/of voorhanden heeft gehad. 
+ 
+
+
+Medeplegen 
+
+ 
+
+Om te komen tot een bewezenverklaring van medeplegen is vereist dat is komen vast te staan dat sprake was van een voldoende nauwe en bewuste samenwerking die was gericht op het voltooien van het delict in casu de voorbereiding van de liquidatie. Ook indien het ten laste gelegde medeplegen in de kern niet bestaat uit een gezamenlijke uitvoering tijdens het begaan van het strafbare feit maar uit gedragingen die doorgaans met medeplichtigheid in verband worden gebracht (zoals het verstrekken van inlichtingen op de uitkijk staan helpen bij de vlucht) kan sprake zijn van de voor medeplegen vereiste nauwe en bewuste samenwerking. De materiële en/of intellectuele bijdrage van de verdachte aan het strafbare feit zal dan van voldoende gewicht moeten zijn. Bij de beoordeling of daaraan is voldaan kan rekening worden gehouden met onder meer de intensiteit van de samenwerking de onderlinge taakverdeling de rol in de voorbereiding de uitvoering of de afhandeling van het delict en het belang van de rol van de verdachte diens aanwezigheid op belangrijke momenten en het zich niet terugtrekken op een daartoe geëigend tijdstip. 
+ 
+
+Het opzet van de medepleger is – behalve op de samenwerking – in beginsel alleen gericht op de eigen gedraging(en). Het is niet nodig dat komt vast te staan dat de medepleger weet heeft van de precieze gedragingen die zijn mededaders hebben verricht. Voorwaardelijk opzet is hierbij voldoende. 
+ 
+
+
+Overwegingen ten aanzien van verdachte 
+
+ 
+
+De rechtbank stelt voorop dat het dossier – zoals de raadsman terecht heeft opgemerkt – geen PGP-berichten bevat die (binnen de ten laste gelegde periode) zijn verstuurd tussen verdachte en (vermeende) opdrachtgever [naam 2] . Het dossier bevat echter wel aanwijzingen voor een connectie tussen verdachte en [naam 2] . Zo zegt [medeverdachte 1] op 23 augustus 2015 tegen [naam 2] : ‘Praat nu met die andere halen ons elf uur op’. Als [naam 2] vraagt: ‘welke andere mijn vriend?’ reageert [medeverdachte 1] met: ‘Die matie van jouw. Rijden met zijn broertje mee.’ Vlak daarvoor heeft een PGP-gesprek plaatsgevonden tussen verdachte en [medeverdachte 1]  waarin verdachte tegen [medeverdachte 1] zegt dat zijn ‘bro’ [medeverdachte 1] en zijn gezelschap de volgende dag om 11:00 uur zal ophalen en naar Düsseldorf zal brengen. Uit het dossier blijkt dat [medeverdachte 1]  [medeverdachte 3] en [medeverdachte 2] op 24 augustus 2015 door [tweelingbroer verdachte] naar Düsseldorf zijn gebracht. 
+Daar komt bij dat verdachte op 20 en 28 september 2015 heeft gecommuniceerd met een ander account ( [e-mailadres 9] ) dat wordt toegeschreven aan [naam 2] . In deze berichten wordt gesproken over een man die dood moet en die nog steeds niet in Berlijn is gezien. 
+ 
+
+Verder blijkt uit de PGP-berichten dat verdachte [medeverdachte 1] en [medeverdachte 3] op 20 augustus 2015 vanaf een hotel in Berlijn naar de woning aan de [adres safehouse] heeft gebracht en dat hij vervolgens tot en met 9 september 2015 in nauw contact met [medeverdachte 1] heeft gestaan waarbij hij hem onder meer op de hoogte heeft gehouden van de (mogelijke) verblijfplaats van [naam beoogd slachtoffer] . Dat verdachte wist dat [medeverdachte 1] en zijn gezelschap in Berlijn waren met het doel om iemand te liquideren blijkt uit het PGP-bericht van 22 augustus 2015 om 16:36 uur waarin hij tegen zijn tweelingbroer [tweelingbroer verdachte] zegt: ‘(…) die hitters zijn even snel terug naar nl’. In dat gesprek zegt verdachte ook dat hij geen enkele hitter vertrouwt. Het woord ‘hitter’ duidt in de context van dat gesprek (‘maar wouden ze hem wel doen’) op het plegen van een liquidatie. Verder heeft verdachte het in dit gesprek over een ‘nigger’ en zegt hij: ‘ook die tata vaker gezien. Tegenwoordig hit iedereen man’. De rechtbank acht in dit kader van belang dat medeverdachte [medeverdachte 1] een donkere huidskleur heeft en dat medeverdachte [medeverdachte 3] een lichte huidskleur heeft terwijl het bovendien een feit van algemene bekendheid is dat ‘tata’ straattaal is voor personen met een lichte huidskleur. De rechtbank gaat er dus vanuit dat verdachte het hier over [medeverdachte 1] en [medeverdachte 3] heeft die hij eerder in Berlijn naar het ‘safehouse’ heeft gebracht. Het feit dat verdachte spreekt over ‘hitters’ bevestigt dat hij op de hoogte was van het doel van hun aanwezigheid in Berlijn. 
+ 
+
+Uit PGP-berichten van 29 augustus 2015 (van verdachte aan [medeverdachte 1] : ‘Verstop gewoon die pipas goed’) en van 9 september 2015 (van [medeverdachte 1] aan verdachte: ‘Wapens zijn onder gasfornuis’) blijkt dat verdachte op de hoogte was van de aanwezigheid van vuurwapens in het ‘safehouse’ en daarover ook een zekere beschikkingsmacht had. Uit het PGP-bericht van 22 augustus 2015 van verdachte aan [tweelingbroer verdachte] (‘Motro heb ik al alleen nog waggie’) blijkt ook van zijn wetenschap en beschikkingsmacht over de voor de uitvoering van de liquidatie bestemde motor. Ook de daarvoor bestemde personenauto heeft verdachte voorhanden gehad zoals blijkt uit het hiervoor onder 5.1.2 weergegeven PGP-gesprek van 9 september 2015 over het terugbrengen van de huurauto en de omstandigheden waaronder hij op die datum is aangehouden. Vanzelfsprekend heeft hij ook de PGP-telefoon voorhanden gehad waarmee hij met [medeverdachte 1] communiceerde over de (mogelijke) vindplaats van [naam beoogd slachtoffer] en het ‘paraat’ staan.
+ 
+
+Verdachte heeft [medeverdachte 1] op verschillende momenten laten weten dat [medeverdachte 1]  die in die woning verbleef paraat moest staan en dat verdachte aan het rondkijken was of hij het doelwit ergens zag. Uit de PGP-berichten tussen verdachte [medeverdachte 1] en [tweelingbroer verdachte] leidt de rechtbank af dat verdachte op de hoogte was van het plan om [naam beoogd slachtoffer] te liquideren en dat hij actief aan de voorbereiding van de liquidatie heeft meegewerkt.
+ 
+
+Verdachte heeft zich bij de politie en tijdens het onderzoek ter terechtzitting op zijn zwijgrecht beroepen. Hij heeft geen antwoord willen geven op tal van vragen die uit de (zeer belastende) PGP-berichten zijn gerezen. Daarmee is het accent in de bewijswaardering van wat is gebleken over de subjectieve wil van verdachte verschoven naar de context van de uiterlijke verschijningsvorm van het samenstel van voorbereidingsmiddelen ten aanzien waarvan handelingen van verdachte zijn gebleken. Die handelingen staan bovendien in een duidelijk verband met gedragingen van zijn medeverdachten in dit onderzoek. Gelet op voornoemde PGP-berichten stelt de rechtbank – mede bij gebreke van een andersluidende verklaring van de zijde van verdachte – vast dat verdachte opzet heeft gehad op de dood van [naam beoogd slachtoffer] . Dat opzet kan ook worden afgeleid uit de hiervoor genoemde berichten van 20 en 28 september 2015 tussen verdachte en een account dat volgens het onderzoeksteam kan worden toegeschreven aan [naam 2]  waarin [naam 2] (op 20 september 2015) zegt: ‘Deze man moet dood en snel’ waarop verdachte reageert met: 
+‘Ja vriend maar kijk bro hij heeft zwaAaar geluk gehad laatste keer. Als ie daar was was gebleven. Zijn tijd komt. Hij weet niks. Vandaar. We moeten alleen voorzichtig zijn. We hebben tot nu toe iedereen. Genakt toch zijn tijd komt’.
+Op 28 september 2015 zegt [naam 2] tegen verdachte: ‘Ook die kanker hoerenzoon moet dood wil niet uit me hoofd gaan’ waarop verdachte zegt: ‘Jah ik ook maar hij is nog steeds niet gezien in. Berlijn (…)’. 
+Deze berichten zijn weliswaar buiten de ten laste gelegde periode verstuurd maar geven wel duiding over de inhoud van de PGP-berichten die door verdachte in de ten laste gelegde periode zijn verzonden.
+ 
+
+Hoewel voor een bewezenverklaring niet vereist is dat verdachte wist dat [naam beoogd slachtoffer] het doelwit zou zijn leidt de rechtbank uit het feit dat verdachte een zeer actieve ‘spotter’ was af dat hij wist dat [naam beoogd slachtoffer] degene was die moest worden geliquideerd. 
+ 
+
+Voor zover de verdediging beoogd heeft zich aan te sluiten bij het door medeverdachte [medeverdachte 1] geschetste alternatieve scenario inhoudende dat hij tegenover zijn opdrachtgever(s) slechts deed alsof hij de liquidatie aan het voorbereiden was en hij [naam beoogd slachtoffer] bovendien had laten waarschuwen zodat [naam beoogd slachtoffer] niet in Berlijn zou zijn geldt dat dit scenario niet aannemelijk is geworden. Dit scenario vindt geen steun in het dossier en is door [medeverdachte 1] onvoldoende (en door verdachte in het geheel niet) feitelijk onderbouwd. Daar komt bij dat uit parkeerovertredingen die in Berlijn zijn begaan met voertuigen die zijn gehuurd op naam van ‘ [valse naam beoogd slachtoffer] ’ (een valse naam van [naam beoogd slachtoffer] ) blijkt dat [naam beoogd slachtoffer] in elk geval gedurende een aanzienlijk gedeelte van de ten laste gelegde periode in Berlijn verbleef.  
+ 
+
+De rechtbank is voorts van oordeel dat er gelet op de intensiteit van de contacten tussen de verdachten en de inhoud van de PGP-berichten sprake was van een zodanige nauwe en bewuste samenwerking dat verdachte kan worden aangemerkt als medepleger. De rechtbank volgt het verweer van de verdediging dat de rol van verdachte ‘slechts’ die van medeplichtige was niet. Het actieve ‘spotten’ van het beoogde doelwit kan immers worden gekwalificeerd als een uitvoeringshandeling van de voorbereiding en was essentieel voor het slagen van de liquidatie. Verdachte heeft op eigen initiatief en op verschillende momenten contact opgenomen met [medeverdachte 1] om te onderstrepen dat laatstgenoemde en zijn ‘gezelschap’ ‘paraat’ moesten staan zodra het doelwit [naam beoogd slachtoffer] daadwerkelijk gesignaleerd werd. 
+ 
+
+Uit de planmatige aard van de voorbereiding zoals deze blijkt uit de PGP-berichten leidt de rechtbank tot slot af dat de verdachten momenten van kalm beraad en rustig overleg hebben gehad zodat hun gedragingen kunnen worden gekwalificeerd als voorbereiding van moord. Uit de berichten blijkt immers dat alles in gereedheid was gebracht om de liquidatie te laten plaatsvinden en dat alleen nog werd gewacht tot [naam beoogd slachtoffer] werd ‘gespot’.  
+ 
+
+
+Conclusie 
+
+ 
+
+Gelet op het voorgaande vindt de rechtbank wettig en overtuigend bewezen dat verdachte zich als medepleger schuldig heeft gemaakt aan het voorbereiden van de moord op [naam beoogd slachtoffer] . 
+ 
+
+
+
+
+6 Bewezenverklaring 
+
+De rechtbank acht op grond van de genoemde bewijsmiddelen bewezen dat verdachte: op tijdstippen gelegen in de periode van 11 augustus 2015 tot en met 9 september 2015 in Nederland en in Duitsland tezamen en in vereniging met anderen ter voorbereiding van het te plegen misdrijf waarop naar de wettelijke omschrijving een gevangenisstraf van acht jaren of meer is gesteld te weten moord als bedoeld in artikel 289 van het Wetboek van Strafrecht op een persoon ( [naam beoogd slachtoffer] ) opzettelijk  
+
+
+-	meerdere vuurwapens (in elk geval Glocks en AK‘s) en
+
+
+-	meerdere patronen en
+
+
+-	één (gehuurde) (personen)auto en
+
+
+-	een motor en
+
+
+-	een PGP (zogenaamde Pretty Good Privacy) Blackberry 
+
+bestemd tot het begaan van dat misdrijf voorhanden heeft gehad. 
+
+Voor zover in de tenlastelegging taal- en/of schrijffouten staan zijn deze in de bewezenverklaring verbeterd. Verdachte is hierdoor niet in de verdediging geschaad.
+ 
+
+
+
+7 Strafbaarheid van het feit 
+
+Het bewezen geachte feit is volgens de wet strafbaar. Het bestaan van een rechtvaardigingsgrond is niet aannemelijk geworden.
+ 
+
+
+
+8 Strafbaarheid van verdachte  
+
+8.1
+
+Standpunt van de verdediging 
+ 
+
+De verdediging heeft zich op het standpunt gesteld dat bij verdachte sprake was van ‘ondeugdelijke voorbereiding’ (vergelijk de absoluut ondeugdelijke poging) dan wel van vrijwillige terugtred en heeft daarbij verwezen naar de noot van N. Rozemond bij een arrest van de Hoge Raad van 27 mei 2014 (ECLI:NL:HR:2014:1233 NJ 2014/338). In dat arrest heeft de Hoge Raad de veroordeling voor voorbereidingshandelingen van zedendelicten gepleegd jegens een fictief 10-jarig meisje in stand gelaten. Uit de noot van Rozemond volgt dat de Hoge Raad daarmee nog niet heeft bedoeld te zeggen dat de onmogelijkheid van voltooiing nooit een rol kan spelen bij voorbereiding. Waar bij zedenmisdrijven nog kan worden gezegd dat het doelwit om het even is gaat dat bij een liquidatie niet op. Het doelwit is bij een liquidatie nu juist het belangrijkst. Aangezien [naam beoogd slachtoffer] niet in Berlijn was en het in Berlijn in 2015 daarom nooit tot een voltooiing had kunnen komen is op zijn minst sprake van vrijwillige terugtred. 
+ 
+
+
+8.2
+
+Standpunt van de officieren van justitie 
+ 
+
+De officieren van justitie hebben zich op het standpunt gesteld dat niet is voldaan aan de vereisten voor vrijwillige terugtred. Deze zaak is niet vergelijkbaar met een zedenzaak met een fictief slachtoffer zoals in het door de verdediging aangehaalde arrest. [naam beoogd slachtoffer] is immers een niet-fictief persoon. Zelfs indien de rechtbank aanneemt dat [naam beoogd slachtoffer] in de ten laste gelegde periode niet in Berlijn was kan het beroep op vrijwillige terugtred niet slagen.  
+ 
+
+
+8.3
+
+Oordeel van de rechtbank 
+ 
+
+Artikel 46b van het Wetboek van Strafrecht luidt: ‘voorbereiding noch poging bestaat indien het misdrijf niet is voltooid ten gevolge van omstandigheden van de wil van de dader afhankelijk.’
+ 
+
+Anders dan de verdediging (naar de rechtbank begrijpt) betoogt staat vast dat [naam beoogd slachtoffer] in ieder geval een deel van de ten laste gelegde periode daadwerkelijk in Berlijn is geweest. Van een situatie die kan worden vergeleken met een absoluut ondeugdelijke poging is dan ook geen sprake.  
+ 
+
+In de onderhavige zaak staat niet ter discussie dat het voorgenomen misdrijf niet is uitgevoerd. De vraag die voorligt is of aannemelijk is geworden dat dat misdrijf – de geplande moord op [naam beoogd slachtoffer] – niet is voltooid ten gevolge van omstandigheden van de wil van verdachte afhankelijk. Of dit zo is hangt af van de concrete omstandigheden van het geval.
+ 
+
+De rechtbank stelt op grond van het dossier en het onderzoek ter terechtzitting het volgende vast. Verdachte heeft zich in de ten laste gelegde periode in Berlijn opgehouden terwijl hij wist dat medeverdachten [medeverdachte 1]  [medeverdachte 3] en [medeverdachte 2] in het ‘safehouse’ verbleven en klaar stonden om de liquidatie uit te voeren. Verdachte hield in de gaten waar [naam beoogd slachtoffer] zich bevond en gaf zijn bevindingen door aan [medeverdachte 1] en toonde zich ook op andere vlakken actief rond en met de voorgenomen liquidatie. Op 9 september 2015 liet verdachte aan [medeverdachte 1] weten dat hij zojuist te horen had gekregen dat ‘die man’ (de rechtbank begrijpt: [naam beoogd slachtoffer] ) niet meer in Berlijn was en dat [medeverdachte 1] naar huis kon gaan.
+ 
+
+De rechtbank is van oordeel dat er geen sprake is van een vrijwillige terugtred. De voorbereiding was immers al in een vergevorderd stadium en de uitvoering is niet gestaakt door een vrijwillig besluit van verdachte maar door een externe omstandigheid te weten: de omstandigheid dat [naam beoogd slachtoffer] zich op 9 september 2015 kennelijk niet meer in Berlijn bevond. 
+Uit het handelen van verdachte blijkt niet dat hij op enigerlei wijze heeft getracht om de uitvoering van de moord te verhinderen. Integendeel: verdachte heeft [medeverdachte 1] doelbewust op de hoogte gehouden van de verblijfplaatsen van [naam beoogd slachtoffer] zodat hij kon worden geliquideerd. 
+Daarbij is de rechtbank – met de officieren van justitie – van oordeel dat het door de verdediging genoemde arrest ziet op een wezenlijk andersoortige casus nu [naam beoogd slachtoffer] juist een niet-fictief slachtoffer was. Het verweer kan daarom ook in zoverre niet slagen. 
+ 
+
+Er is ook overigens geen omstandigheid aannemelijk geworden die de strafbaarheid van verdachte uitsluit. Verdachte is dan ook strafbaar.
+ 
+
+
+
+
+9 Motivering van de straf 
+
+9.1
+
+Eis van de officieren van justitie 
+ 
+
+De officieren van justitie hebben gevorderd dat verdachte zal worden veroordeeld tot een onvoorwaardelijke gevangenisstraf voor de duur van zeven jaren. Zij hebben in hun strafeis aansluiting gezocht bij straffen die deze rechtbank in andere zaken heeft opgelegd waarin voorbereiding van moord bewezen werd verklaard. 
+ 
+
+
+9.2
+
+Standpunt van de verdediging 
+ 
+
+De raadslieden hebben de rechtbank verzocht om – in het geval van een bewezenverklaring – het tijdsverloop in het voordeel van verdachte mee te wegen in de op te leggen straf. 
+Op 1 juli 2021 is de Wet Straffen en Beschermen in werking getreden. Hierdoor is de regeling van de voorwaardelijke invrijheidsstelling uitgekleed en is er veel veranderd op het gebied van detentiefasering. Het gevolg is dat een verdachte die nu tot een gevangenisstraf van zeven jaren wordt veroordeeld veel langer moet vastzitten dan wanneer die straf reeds in 2015 aan hem zou zijn opgelegd. Indien de rechtbank het tijdsverloop niet meeweegt in de strafoplegging zou dat voor verdachte een onacceptabele en onrechtvaardige uitwerking hebben. 
+ 
+
+Verdachte heeft in zijn laatste woord naar voren gebracht dat zijn detentie hem zwaar valt dat dit ook geldt voor zijn ouders – die op leeftijd zijn – en dat hij lang niet met justitie in aanraking is geweest. Verdachte heeft de rechtbank verzocht om hier bij een eventuele strafoplegging rekening mee te houden.  
+ 
+
+
+9.3
+
+Oordeel van de rechtbank 
+ 
+
+De rechtbank heeft bij de op te leggen strafsoort en -maat gelet op de ernst van het bewezenverklaarde feit te weten het medeplegen van voorbereiding van moord de omstandigheden waaronder dit feit is begaan en op de persoon van de verdachte.
+ 
+
+Een levensdelict behoort tot de ergste misdrijven die het Wetboek van Strafrecht kent. 
+Het voorbereiden van een liquidatie in het criminele milieu leidt vanwege het gevaarzettend karakter van dergelijk handelen bovendien tot gevoelens van onrust en onveiligheid in de samenleving. 
+ 
+
+Het medeplegen van voorbereiding van een liquidatie rechtvaardigt in beginsel de oplegging van een onvoorwaardelijke gevangenisstraf van lange duur. Dat [naam beoogd slachtoffer] nog leeft is niet te danken aan enig handelen van verdachte maar aan het feit dat [naam beoogd slachtoffer] tijdens het verblijf van de ‘hitters’ in Berlijn toevallig niet werd gesignaleerd. 
+ 
+
+Verdachte heeft – als ‘spotter’ – een belangrijke rol gespeeld in de voorbereiding van de moord. Hij stond in nauw contact met medeverdachte [medeverdachte 1] en gaf op verschillende momenten door dat hij op zoek was naar het doelwit en dat [medeverdachte 1] en de andere ‘hitters’ paraat moesten staan. Daarnaast heeft verdachte de ‘hitters’ praktisch ondersteund bijvoorbeeld door [medeverdachte 1] en [medeverdachte 3] naar het ‘safehouse’ te brengen. 
+ 
+
+De rechtbank heeft gelet op een Uittreksel Justitiële Documentatie betreffende verdachte van 3 juni 2021. Hieruit blijkt dat hij niet eerder onherroepelijk is veroordeeld wegens (de voorbereiding van) een levensdelict.
+ 
+
+Van persoonlijke omstandigheden die strafverminderend dienen mee te wegen is niet gebleken. Hetgeen verdachte bij gelegenheid van zijn laatste woord naar voren heeft gebracht maakt dit – gezien de ernst van het feit – niet anders. 
+ 
+
+De verdediging heeft naar voren gebracht dat het tijdsverloop in het voordeel van verdachte moet meewegen in de hoogte van de straf nu op 1 juli 2021 de Wet Straffen en Beschermen in werking is getreden en het nadelig is voor verdachte dat hij pas na deze datum wordt berecht. De rechtbank is zich ervan bewust dat – met de inwerkingtreding van genoemde wet – de wettelijke regelingen met betrekking tot de voorwaardelijke invrijheidsstelling minder ruimhartig zijn geworden. De rechtbank merkt op dat de wetgever ervoor heeft gekozen niet te voorzien in een regeling van overgangsrecht. In de onderhavige zaak geldt dat er weliswaar sprake is van een aanzienlijk tijdsverloop maar dat komt door het feit dat de PGP-berichten pas op een laat moment aan het licht zijn gekomen. Dit tijdsverloop is niet te wijten aan stilzitten van de justitiële autoriteiten. De rechtbank ziet dan ook geen reden om het tijdsverloop (en daarmee de inwerkingtreding van de Wet Straffen en Beschermen) mee te wegen in de hoogte van de straf. 
+ 
+
+De rechtbank vindt de door de officieren van justitie geëiste gevangenisstraf van zeven jaren passend en zal deze dan ook opleggen. De tijd die verdachte in verzekering en voorlopige hechtenis heeft doorgebracht zal op deze straf in mindering worden gebracht. 
+ 
+
+
+
+
+10 Toepasselijke wettelijke voorschriften 
+
+De op te leggen straf is gegrond op de artikelen 46 47 en 289 van het Wetboek van Strafrecht.
+ 
+
+
+
+11 Beslissing 
+
+De rechtbank komt op grond van het voorgaande tot de volgende beslissing.
+ 
+
+Verklaart bewezen dat verdachte het ten laste gelegde heeft begaan zoals hiervoor in rubriek 6 is vermeld.
+ 
+
+Verklaart niet bewezen wat aan verdachte meer of anders is ten laste gelegd dan hiervoor is bewezen verklaard en spreekt verdachte daarvan vrij.
+ 
+
+Het bewezen verklaarde levert op: 
+ 
+
+
+medeplegen van voorbereiding van moord. 
+
+ 
+
+Verklaart het bewezen verklaarde strafbaar.
+ 
+
+Verklaart verdachte [verdachte] daarvoor strafbaar.
+ 
+
+Veroordeelt verdachte tot een onvoorwaardelijke gevangenisstraf voor de duur van 
+
+7 (zeven) jaren. 
+Beveelt dat de tijd die door verdachte voor de tenuitvoerlegging van deze uitspraak in verzekering en voorlopige hechtenis is doorgebracht bij de tenuitvoerlegging van die straf in mindering zal worden gebracht.
+ 
+
+Dit vonnis is gewezen door 
+mr. C. Klomp	voorzitter
+mrs. J.P.W. Helmonds en M.E.M. James-Pater	rechters
+in tegenwoordigheid van mr. N.M. van Trijp	griffier
+en uitgesproken op de openbare terechtzitting van deze rechtbank van 13 september 2021.
+
+
+1
+ De zogenoemde Sending Order is opgemaakt op 16 september 2016.
+2
+ Zie onder meer de overwegingen 16 - 18 21 - 23.
+3
+ Zie ten aanzien van dit onderdeel hetgeen onder b. is overwogen.
+4
+ Overweging 23.
+5
+ Via de weg zoals beschreven in het proces-verbaal van bevindingen van 21 juli 2017 (ZD1-13-045).
+6
+ Kantnummers 18 - 27.
+7
+ Daarbij dient er op te worden gewezen dat in de 2e aanvulling op het plan van aanpak 13/Mortel het account 068M897I10 voorkomt als één van de drie gemeenschappelijke contacten van de accounts van ‘Mr X’ (...W51N) en het account van ‘Polo’ dat kan worden gelinkt aan de vergismoord van [naam 10] .
+8
+ Vonnissen van deze rechtbank van 9 mei 2018 (ECLI:NL:RBAMS:2018:3222 en ECLI:RBAMS:2018:3223).
+9
+ Soms kan een reactie op een bericht een eerder tijdstip bevatten dan het bericht waarop wordt gereageerd. Dit wordt waarschijnlijk veroorzaakt door verschillende tijdsinstellingen van de PGP-toestellen. De weergegeven volgorde van de berichten is echter wel correct. 
+10
+ De hierna weergegeven PGP-berichten zijn – voor zover niet anders vermeld – opgenomen in het proces-verbaal van bevindingen ‘tijdlijn voorbereidingshandelingen liquidatie in Berlijn’ d.d. 2 juni 2020 doorgenummerde pagina’s ZD1-2-1-011 t/m ZD1-2-1-057. Voor de specifieke vindplaats van de afzonderlijke gesprekken zal hierna worden verwezen naar het betreffende paginanummer. 
+11
+ Omwille van de leesbaarheid zal hierna worden volstaan met ‘ [e-mailadres 1] ’. 
+12
+ ZD1-2-1-013. 
+13
+ Aldus vastgesteld door de rechtbank Gelderland in haar vonnis van 26 juni 2019 ECLI:NL:RBGEL:2019:2830 en ZD1-2-1-013. 
+14
+ ZD1-2-1-013. 
+15
+ ZD1-2-1-014.
+16
+ ZD1-2-1-014.
+17
+ ZD1-2-1-015.
+18
+ ZD1-2-1-013.
+19
+ ZD1-2-2-009 en ZD1-2-2-010. 
+20
+ ZD1-2-2-010.
+21
+ ZD1-2-1-016. 
+22
+ ZD1-2-1-017.
+23
+ 6e aanvulling dossier ‘Zwaluw’ proces-verbaal van bevindingen ‘ [verdachte] is bezig in het buitenland’ d.d. 1 februari 2020 (documentcode: 14231603). 
+24
+ Omwille van de leesbaarheid zal hierna worden volstaan met ‘ [e-mailadres 1] ’. 
+25
+ Omwille van de leesbaarheid zal hierna worden volstaan met ‘ [e-mailadres 6] ’.
+26
+ Proces-verbaal van verhoor verdachte [medeverdachte 3] d.d. 13 juli 2020 doorgenummerde pagina’s ZD10-1-045 tot en met ZD10-1-060. 
+27
+ ZD1-2-1-020.
+28
+ ZD1-2-1-021.
+29
+ ZD1-8-7-002.
+30
+ ZD1-2-1-021.
+31
+ ZD1-2-1-021.
+32
+ ZD1-2-1-021 en 022.
+33
+ ZD1-2-1-023.
+34
+ ZD1-2-1-023.
+35
+ ZD1-2-1-023.
+36
+ ZD1-11-014.
+37
+ Proces-verbaal van verhoor verdachte [medeverdachte 3] d.d. 13 juli 2020 doorgenummerde pagina’s ZD10-1-045 tot en met ZD10-1-060. 
+38
+ ZD1-2-1-024. 
+39
+ ZD1-2-1-024. 
+40
+ ZD1-2-1-025.
+41
+ ZD1-2-1-025.
+42
+ ZD1-2-1-026. 
+43
+ ZD1-2-1-027.
+44
+ Omwille van de leesbaarheid zal hierna worden volstaan met ‘ [e-mailadres 7] ’. 
+45
+ ZD1-8-8-001.
+46
+ ZD1-2-1-028.
+47
+ De bijnaam ‘ [bijnaam van persoon met naam 7] ’ kan volgens het onderzoeksteam worden toegeschreven aan [naam 7] (ZD1-8-9-005).
+48
+ ZD1-2-1-030. 
+49
+ ZD1-2-1-030.
+50
+ Proces-verbaal van verhoor verdachte [medeverdachte 3] d.d. 13 juli 2020 doorgenummerde pagina’s ZD10-1-045 tot en met ZD10-1-060. 
+51
+ Verklaring van getuige [medeverdachte 2] bij de rechter-commissaris op 20 november 2020. 
+52
+ ZD1-2-1-031.
+53
+ ZD1-2-1-031.
+54
+ Hiervoor is overwogen dat [medeverdachte 1] in de ten laste gelegde periode gebruik maakte van dit account. 
+55
+ Uit het dossier blijkt dat [medeverdachte 1] in de ten laste gelegde periode een relatie had met een Marokkaanse vrouw genaamd [naam 11]  ZD1-8-3-014. 
+56
+ ZD1-2-1-033. 
+57
+ ZD1-2-1-034.
+58
+ ZD1-2-1-053.
+59
+ ZD1-2-1-035. 
+60
+ ZD1-2-1-035. 
+61
+ 6e aanvulling dossier ‘Zwaluw’ proces-verbaal van bevindingen ‘ [verdachte] is bezig in het buitenland’ d.d. 1 februari 2020 (documentcode: 14231603). 
+62
+ ZD1-2-1-036. 
+63
+ ZD1-2-1-037 en ZD1-2-4-258.
+64
+ ZD1-2-1-038.
+65
+ ZD1-2-2-009. 
+66
+ ZD1-2-1-039.
+67
+ ZD1-2-1-039.
+68
+ ZD1-2-1-039 en 040.
+69
+ ZD1-2-1-040-043. 
+70
+ ZD1-8-9-005.
+71
+ ZD1-2-1-043.
+72
+ ‘Bolle’ is één van de bijnamen van [medeverdachte 1] (ZD1-8-3-007).
+73
+ ZD1-2-1-045.
+74
+ ZD1-2-1-048.
+75
+ ZD1-2-1-049.
+76
+ ZD1-2-1-051.
+77
+ ZD1-2-1-052. 
+78
+ ZD1-2-4-024 en ZD1-2-1-053. 
+79
+ ZD1-2-4-089 en ZD1-2-4-177 en 178.
+80
+ ZD1-2-1-053.
+81
+ 6e aanvulling dossier ‘Zwaluw’ proces-verbaal van bevindingen ‘berichtenwisseling tussen [verdachte] en [naam 2] na Berlijn’ d.d. 1 februari 2021 (documentcode: 14231604). 
+82
+ 6e aanvulling dossier ‘Zwaluw’ proces-verbaal van bevindingen ‘berichtenwisseling tussen [verdachte] en [naam 2] na Berlijn’ d.d. 1 februari 2021 (documentcode: 14231604). 
+83
+ ZD1-2-1-052/053.
+84
+ ZD1-2-4-024 en ZD1-2-1-053. 
+85
+ De eigen waarneming van de rechtbank gedaan ter terechtzitting van 5 juli 2021. 
+86
+ Proces-verbaal van bevindingen ‘identificatie [e-mailadres 7] @ennetcom.com [tweelingbroer verdachte] ’ d.d. 16 december 2019 documentcode 11914215 doorgenummerde pagina’s ZD1-8-8-001 t/m ZD1-8-8-003. 
+87
+ ZD1-2-1-036 en 037.
+88
+ ZD1-2-1-037 en ZD1-2-4-258.
+89
+ Zie bijvoorbeeld de conclusie van E.J. Hofstee van 8 juni 2021 in het onderzoek ‘26Koper’ (ECLI:NL:PHR:2021:565) onder randnummer 27.
+90
+ Hoge Raad 14 maart 2017 ECLI:NL:HR:2017:416. 
+91
+ Zie onder meer: ECLI:NL:GHAMS:2019:801. 
+92
+ Hoge Raad 20 februari 2007 ECLI:NL:HR:2017:AZ0213.
+93
+ ZD1-2-1-015. 
+94
+ ZD1-2-1-036. 
+95
+ Proces-verbaal van verhoor getuige [medeverdachte 1] bij de rechter-commissaris op 20 november 2020.  
+96
+ ZD1-2-1-026. 
+97
+ ZD1-2-1-042/043.
+98
+ In het vonnis van 13 september 2021 in de strafzaak tegen medeverdachte [medeverdachte 2] heeft de rechtbank overwogen dat de bijnaam ‘sikje’ aan hem kan worden toegeschreven.
+99
+ In het vonnis van 13 september 2021 in de strafzaak tegen medeverdachte [medeverdachte 3] heeft de rechtbank overwogen dat de bijnaam ‘ita’ aan hem kan worden toegeschreven.
+100
+ ZD1-2-1-053.

@@ -1,0 +1,1198 @@
+
+
+
+
+
+
+
+
+
+
+
+
+vonnis
+RECHTBANK DEN HAAG
+
+Team handel
+ 
+
+zaaknummer / rolnummer: C/09/574293 / KG ZA 19-474
+ 
+
+
+Vonnis in kort geding van 5 juli 2019
+
+ 
+
+in de zaak van
+ 
+1. de rechtspersoon naar vreemd recht
+
+
+NOVARTIS PHARMA A.G.
+te Basel Zwitserland
+
+2. de rechtspersoon naar vreemd recht
+
+
+NOVARTIS INTERNATIONAL PHARMACEUTICAL AG
+te Basel Zwitserland
+
+3. de rechtspersoon naar vreemd recht
+
+
+NOVARTIS AG
+te Basel Zwitserland
+eiseressen
+advocaat mr. R.M. Kleemans te Amsterdam
+ 
+
+tegen
+ 
+
+
+TEVA NEDERLAND B.V.
+te Haarlem
+gedaagde
+advocaat mr. R. Dijkstra te Amsterdam.
+ 
+
+Partijen zullen hierna Novartis c.s. en Teva genoemd worden en eiseressen ook afzonderlijk Novartis Pharma Novartis International en Novartis AG.
+ 
+
+
+
+1 De procedure
+
+1.1.
+Het verloop van de procedure blijkt uit:
+
+-
+de dagvaarding van 27 mei 2019 met producties 1 tot en met 14;
+
+-
+de conclusie van antwoord ingekomen op de griffie op 4 juni 2019 met producties 1 tot en met 69;
+
+-
+een kostenspecificatie van de zijde van Teva ingekomen op de griffie op 4 juni 2019;
+
+-
+de akte houdende overlegging aanvullende producties van Novartis c.s. ingekomen op de griffie op 11 juni 2019 met productie 15;
+
+-
+de akte houdende overlegging aanvullende producties van Novartis c.s. ingekomen op de griffie op 12 juni 2019 met producties 16 tot en met 33;
+
+-
+een aanvullende kostenspecificatie van de zijde van Novartis c.s. ingekomen op de griffie op 12 juni 2019;
+
+-
+een aanvullende kostenspecificatie van de zijde van Teva ingekomen op de griffie op 13 juni 2019;
+
+-
+de mondelinge behandeling van 14 juni 2019 en de ter gelegenheid daarvan overgelegde pleitnotities van Novartis c.s. en Teva.
+
+
+
+
+1.2.
+Vonnis is bepaald op heden. 
+
+
+
+
+2 De feiten
+
+2.1.
+Novartis c.s. maakt onderdeel uit van het Zwitserse farmaceutische bedrijf Novartis dat gericht is op het onderzoek ontwikkelen en verhandelen van innovatieve geneesmiddelen. 
+
+
+2.2.
+Novartis AG en Novartis-Erfindungen Verwaltungsgesellschaft m.b.H. zijn houdster geweest van het stofoctrooi EP 0 663 916 B1 (hierna: EP 916) voor “O-alkylated rapamycinederivaat en het gebruik ervan als immunosuppressivum” welk octrooi ziet op de stof everolimus. Dit is de internationale generieke benaming voor de verbinding 40-O-(2-hydroxy)ethyl-rapamycine een hydroxyethylderivaat van rapamycine zoals dat in de natuur voorkomt. Everolimus remt de activatie van T-cellen en kan gebruikt worden als een immuunonderdrukkend geneesmiddel (“immunosuppressant”). Everolimus werd oorspronkelijk goedgekeurd voor gebruik bij nier- hart- en levertransplantatie. Na het aanvullend beschermingscertificaat en een pediatrische verlenging van zes maanden is de bescherming van EP 916/everolimus geëindigd op 18 januari 2019. 
+
+
+2.3.
+
+Novartis AG heeft op 18 februari 2002 een internationale PCT-aanvraag ingediend onder nummer WO 02/066019 (hierna: WO 019 of de aanvraag) voor “Cancer treatment”. De aanvraag is gepubliceerd op 29 augustus 2002 en doet een beroep op het prioriteitsdocumenten GB 0104072.4 gedateerd 19 februari 2001 en GB 0124957.2 (hierna: GB 572) gedateerd 17 oktober 2001. De aanvraag bevat onder meer de volgende passages:
+
+Cancer Treatment
+
+
+The present invention relates to a new use in particular a new use for a compound group comprising rapamycin and derivatives thereof. 
+
+Rapamycin is a known macrolide antibiotic produced by Streptomyces hygroscopicus. Suitable derivatives of rapamycin include e.g. compounds of formula I
+
+
+
+
+
+
+
+
+
+wherein 
+
+R is CH3 or C3-6alkynyl 
+
+R2 is H or -CH2-CH2-OH and 
+
+X is =O (H.H) or (HOH) 
+
+provided that R2 is other than H when X is =O and R1 is CH3. 
+
+ 
+
+
+Compounds of formula I are disclosed e.g. in WO 94/09010 WO 95/16691 or WO 96/41807 which are incorporated herein by reference. They may be prepared as diclosed or by analogy to the procedures described in these references 
+
+Preferred compounds are 32-deoxorapamycin 16-pent-2-ynyloxy-32-deoxorapamycin 16-pent-2-ynyloxy-32(S)-dihydro-rapamycin 16-pent-2-ynyloxy-32(S)-dihydro-40-O-(2-hydroxyethyl)-rapamycin and more preferably 40-0-(2-hydroxyethyl)-rapamycin (referred thereafter as Compound A) disclosed as Example 8 in WO 94/09010. 
+
+ 
+
+
+Compounds of formula I have on the basis of observed activity e.g. binding to 
+
+macrophilin-12 (also known as FK-506 binding protein or FKBP-12) e.g. as described in WO 94/09010 WO 95/16691 or WO 96/41807 been found to be useful e.g. as 
+
+immunosuppressant e.g. in the treatment of acute allograft rejection. It has now been found that Compounds of formula I have potent antiproliferative properties which make them useful for cancer chemotherapy particularly of solid tumors especially of advanced solid tumors. There is still the need to expand the armamentarium of cancer treatment of solid tumors especially in cases where treatment with anticancer compounds is not associated with disease regression or stabilization. 
+
+
+In accordance with the particular findings of the present invention there is provided:
+
+1.1 A method for treating solid tumors in a subject in need thereof comprising administering to said subject a therapeutically effective amount of a compound of formula I. 
+
+1.2 A method for inhibiting growth of solid tumors in a subject in need thereof comprising administering to said subject a therapeutically effective amount of a compound of formula I. 
+
+1.3 A method for inducing tumor regression e.g. tumor mass reduction in a subject in need thereof comprising administering to said subject a therapeutically effective amount of a compound of formula I. 
+
+1.4 A method for treating solid tumor invasiveness or symptoms associated with such tumor growth in a subject in need thereof comprising administering to said subject a therapeutically effective amount of a compound of formula I. 
+
+1.5 A method for preventing metastatic spread of tumours or for preventing or inhibiting growth of micrometastasis in a subject in need thereof comprising administering to said subject a therapeutically effective amount of a compound of formula I. 
+
+
+By "solid tumors" are meant tumors and/or metastasis (whereever
+1
+ located) other than lymphatic cancer e.g. brain and other central nervous system tumors (eg. tumors of the meninges brain spinal cord cranial nerves and other parts of central nervous system e.g. glioblastomas or medulla blastomas); head and/or neck cancer; 
+breast tumors
+2
+; circulatory system tumors (e.g. heart mediastinum and pleura and other intrathoracic organs vascular tumors and tumor-associated vascular tissue); excretory system tumors (e.g. kidney renal pelvis ureter bladder other and unspecified urinary organs); gastrointestinal tract tumors (e.g. oesophagus stomach small intestine colon colorectal rectosigmoid junction rectum anus and anal canal) tumors involving the liver and intrahepatic bile ducts gall bladder other and unspecified parts of biliary tract pancreas other and digestive organs); head and neck; oral cavity (lip tongue gum floor of mouth palate and other parts of mouth parotid gland and other parts of the salivary glands tonsil oropharynx nasopharynx pyriform sinus hypopharynx and other sites in the lip oral cavity and pharynx); reproductive system tumors (e.g. vulva vagina Cervix uteri Corpus uteri uterus ovary and other sites associated with female genital organs placenta penis prostate testis and other sites associated with male genital organs); respiratory tract tumors (e.g. nasal cavity and middle ear accessory sinuses larynx trachea bronchus and lung e.g. small cell lung cancer or non-small cell lung cancer); skeletal system tumors (e.g. bone and articular cartilage of limbs bone articular cartilage and other sites); skin tumors (e.g. malignant melanoma of the skin non-melanoma skin cancer basal cell carcinoma of skin squamous cell carcinoma of skin mesothelioma Kaposi's sarcoma); and tumors involving other tissues incluing
+3
+ peripheral nerves and autonomic nervous system connective and soft tissue retroperitoneum and peritoneum eye and adnexa thyroid adrenal gland and other endocrine glands and related structures secondary and unspecified malignant neoplasm of lymph nodes secondary malignant neoplasm of respiratory and digestive systems and secondary malignant neoplasm of other sites. 
+
+Where hereinbefore and subsequently a tumor a tumor disease a carcinoma or a cancer is mentioned also metastasis in the original organ or tissue and/or in any other location are implied alternatively or in addition whatever the location of the tumor and/or metastasis is.
+
+
+In a series of further specific or alternative embodiments the present invention also provides
+
+
+
+
+1.6
+
+A method for the treatment of a disease associated with deregulated angiogenesis in a subject in need thereof comprising administering to said subject a therapeutically effective amount of rapamycin or a derivative thereof e.g. CCI779
+4
+ ABT578
+5
+ or a compound of formula I. 
+
+1.7 A method for inhibiting or controlling deregulated angiogenesis in a subject in need thereof comprising administering to said subject a therapeutically effective amount of rapamycin or a derivative thereof e.g. CCI779 ABT578 or a compound of formula I.
+
+1.8 A method for enhancing the activity of a chemotherapeutic agent or for overcoming resistance to a chemotherapeutic agent in a subject in need thereof comprising administering to said subject a therapeutically effective amount of rapamycin or a derivative thereof e.g. CCI779 ABT578 or a compound of formula I either 
+
+concomitantly or sequentially with said chemotherapeutic agent. 
+
+1.9 A method according to 1.8 wherein the chemotherapeutic agent is an inhibitor of signal transduction pathways directed either against host cells or processes involved in tumor formation and/or metastases formation or utilised by tumour cells for proliferation survival differentiation or development of drug resistance.
+
+1.10 A method as indicated above wherein rapamycin or a derivative thereof e.g. CCI779 ABT578 or a compound of formula I is administered intermittently. 
+ 
+
+
+CCI779 is a rapamycin derivative i.e.40- [3-hydroxy-2-(hydroxymethyl)-2-methylpropa-noatej-rapamycin or a pharmaceutically acceptable salt thereof and is disclosed e.g. in USP 5362718. ABT578 is a 40-substituted rapamycin derivative further comprising a diene reduction. 
+
+ 
+
+
+Examples of diseases associated with deregulated angiogenesis include without limitation e.g. neoplastic diseases e.g. solid tumors. Angiogenesis is regarded as a prerequisite for those tumors which grow beyond a certain diameter e.g. about 1-2 mm. 
+
+ 
+
+
+In a series of further specific or alternative embodiments the present invention also provides: 
+
+2.1 A compound of formula I for use in any method as defined under 1.1 to 1.5 above.
+
+2.2 Rapamycin or a derivative thereof e.g. CCI779 ABT578 or a compound of formula I for use in any method as defined under 1.6 to 1.10 above or 7 below. 
+
+3.1 A compound of formula I for use in the preparation of a pharmaceutical composition for use in any method as defined under 1.1 to 1.5 above. 
+
+3.2 Rapamycin or a derivative thereof e.g. CCI779 ABT578 or a compound of formula I for use in the preparation of a pharmaceutical composition for use in any method as defined under 1.6 to 1.10 above or 7 below. 
+
+4.1 A pharmaceutical composition for use in any method as defined under 1.1 to 1.5 above comprising a compound of formula I together with one or more pharmaceutically acceptable diluents or carriers therefor. 
+
+4.2 A pharmaceutical composition for use in any method as defined under 1.6 to 1.10 above or 7 below comprising rapamycin or a derivative thereof e.g. CCI779 ABT578 or a compound of formula I e.g. Compound A together with one or more 
+
+pharmaceutically acceptable diluents or carriers therefor. 
+
+5.1 A pharmaceutical combination comprising a) a first agent which is rapamycin or a derivative thereof e.g. CCI779 ABT578 or a compound of formula I e.g. Compound A and b) a co-agent which is a chemotherapeutic agent e.g. as defined hereinafter.
+6
+
+5.2 A pharmaceutical combination comprising an amount of a) a first agent which is rapamycin or a derivative thereof e.g. CCI779 ABT578 or a compound of formula I e.g. Compound A and b) a co-agent which is a chemotherapeutic agent selected from the compounds defined under paragraph (iv) or (v) below to produce a synergistic therapeutic effect. 
+
+6. A method as defined above comprising co-administration e.g. concomitantly or in sequence of a therapeutically effective amount of rapamycin or a derivative thereof e.g. CCI779 ABT578 or a compound of formula I e.g. Compound A and a second drug substance said second drug substance being a chemotherapeutic agent e.g. as indicated hereinafter. 
+
+7. A method for treating post-transplant lymphoproliferative disorders or a lymphatic cancer e.g. for treating tumor invasiveness or symptoms associated with such tumor growth in a subject in need thereof comprising co-administering to said subject e.g. concomitantly or in sequence of rapamycin or a derivative thereof e.g. CCI779 ABT578 or a compound of formula I e.g. Compound A and a second drug substance said second drug substance being a chemotherapeutic agent e.g. as indicated hereinafter. 
+
+ 
+
+
+By "lymphatic cancer" are meant e.g. tumors of blood and lymphatic system (e.g. Hodgkin's disease Non-Hodgkin's lymphoma Burkitt's lymphoma AIDS-related lymphomas malignant immunoproliferative diseases multiple myeloma and malignant plasma cell neoplasms lymphoid leukemia myeloid leukemia acute or chronic lymphocytic leukemia monocytic leukemia other leukemias of specified cell type leukemia of unspecified cell type other and unspecified malignant neoplasms of lymphoid haematopoietic and related tissues for example diffuse large cell lymphoma T-cell lymphoma or cutaneous T-cell lymphoma). 
+
+ 
+
+
+By the term "chemotherapeutic agent" is meant especially any chemotherapeutic agent other than rapamycin or a derivative thereof. It includes but is not limited to 
+
+ 
+
+
+i. an aromatase inhibitor
+7
+
+ii. an antiestrogen an anti-androgen (especially in the case of prostate cancer) or a gonadorelin agonist 
+
+iii. a topoisomerase I inhibitor or a topoisomerase II inhibitor 
+
+iv. a microtubule active agent an alkylating agent an antineoplastic antimetabolite or a platin compound 
+
+v. a compound targeting/decreasing a protein or lipid kinase activity or a protein or lipid phosphatase activity a further anti-angiogenic compound or a compound which induces cell differentiation processes 
+
+vi. a bradykinin 1 receptor or an angiotensin II antagonist vii. a cyclooxygenase inhibitor a bisphosphonate a histone deacetylase inhibitor a heparanase inhibitor (prevents heparan sulphate degradation) e.g. PI-88 a biological response modifier preferably a lymphokine or interferons e.g. interferon γ an ubiquitination inhibitor or an inhibitor which blocks anti-apoptotic pathways viii. an inhibitor of Ras oncogenic isoforms e.g. H-Ras K-Ras or N-Ras or a farnesyl transferase inhibitor e.g. L-744832 or DK8G557 
+
+ix. a telomerase inhibitor e.g. telomestatin 
+
+x. a protease inhibitor a matrix metalloproteinase inhibitor a methionine aminopeptidase inhibitor e.g. bengamide or a derivative thereof or a proteosome inhibitor e.g. 
+
+PS-341. 
+
+ 
+
+
+The term "aromatase inhibitor" as used herein relates to a compound which inhibits the estrogen production i.e. the conversion of the substrates androstenedione and testosterone to estrone and estradiol respectively. The term includes but is not limited to steroids especially atamestane exemestane and formestane and in particular non-steroids especially aminoglutethimide roglethimide pyridoglutethimide trilostane testolactone ketokonazole vorozole fadrozole anastrozole and letrozole. Exemestane can be administered
+ e.g. in the form as it is marketed e.g. under the trademark AROMASIN™. Formestane can be administered e.g. in the form as it is marketed e.g. under the trademark LENTARON™. Fadrozole can be administered e.g. in the form as it is marketed e.g. under the trademark AFEMA™. Anastrozole can be administered e.g. in the form as it is marketed e.g. under the trademark ARI IDEX™. Letrozole can be administered e.g. in the form as it is marketed e.g. under the trademark FEMARA™ or FEMAR™ Aminoglutethimide can be administered e.g. in the form as it is marketed e.g. under the trademark ORI ETEN™. 
+A combination of the invention comprising a chemotherapeutic agent which is an aromatase inhibitor is particularly useful for the treatment of hormone receptor positive tumors e.g. breast tumors.
+8
+
+The term "antiestrogen" as used herein relates to a compound which antagonizes the effect of estrogens at the estrogen receptor level. The term includes but is not limited to tamoxifen fulvestrant raloxifene and raloxifene hydrochloride. Tamoxifen can be 
+
+administered e.g. in the form as it is marketed e.g. under the trademark NOLVADEX™. Raloxifene hydrochloride can be administered e.g. in the form as it is marketed e.g. under the trademark EVISTA™. Fulvestrant can be formulated as disclosed in US 4659516 or it can be administered e.g. in the form as it is marketed e.g. under the trademark FASLODEX™. A combination of the invention comprising a chemotherapeutic agent which is an antiestrogen is particularly useful for the treatment of estrogen receptor positive tumors e.g. breast tumors.
+
+
+(…)
+
+
+A.	In Vitro
+
+
+A.1 Antiproliferative activity in combination with other agents
+
+
+
+	A cell line e.g. the Compound A resistant A549 line (IC50 in low nM range) versus the comparative Compound A resistant KB-31 and HCT116 lines (IC50 in the µM range) is added to 96-well plates (1500 cells/well in 100 µI medium) and incubated for 24 hr. Subsequently a two-fold dilution series of each compound (Compound of formula I or a known chemotherapeutic agent) is made in separate tubes (starting at 8 x the IC50 of each compound) either alone or in paired combinations and the dilutions are added to the wells. The cells are then re-incubated for 3 days. Methylene blue staining is performed on day 4 and the amount of bound dye (proportional to the number of surviving cells that bind the dye) determined. IC50s are subsequently determined using the Calcusyn program which provides a measure of the interaction namely the so-called non-exclusive combination index (CI) where: CI ∼ 1 = the interaction is nearly additive; 0.85 - 0.9 = slight synergism; < 0.85 = synergy. In this assay the Compound A shows interesting antiproliferative activity in combination with another chemotherapeutic agent. For example the following CI values are obtained with a combination of Compound A and cisplatinum paclitaxel gemcitabine and doxorubicin showing synergistic effects.
+
+ 
+
+
+
+
+
+
+
+(…)
+
+
+B.4 Combination with doxorubicin 
+
+Mice transplanted with human KB-31 epidermoid tumors are treated for 21 days with doxorubicin at a dose of 5 mg/kg i.v. once per week a compound of formula I e.g. 
+
+Compound A at a dose of 2.5 mg/kg p.o once per day or a combination of both. Thereafter compound of formula I treatment alone is continued in the combination group in order to determine if the compound of formula I can suppress the outgrowth of tumors that respond to conventional agents. Antitumor activity is expressed as T/C% or % regressions as indicated above. For example the combination of Compound A and doxorubicin produces greater antitumor effect (74 % regressions) as compared to either agent alone (Compound A T/C 32 %; doxorubicin 44 % regressions). No exacerbation of the body weight losses caused by doxorubicin occurrs
+9
+ when Compound A treatment is added. Continuing 
+
+Compound A treatment in the combination group after ceasing doxorubicin inhibits tumor outgrowth such that the tumor volumes of the doxorubicin monotherapy group are 
+
+significantly larger than those of the combination group. Morever
+10
+ the combination appears to produce a greater cure rate (8/8 tumors) at 14 days post end of treatment than doxorubicin alone (3/8 tumors).
+
+(…)
+
+
+B.7 Combination with an antiangiogenic agent 
+
+B16/BL6 cells (5 X104) are injected intradermally into the ear of C57BIJ6 mice. Seven days later treatment with rapamycin or a derivative thereof e.g. Compound A a VEGF receptor tyrosine kinase inhibitor e.g. 1-(4-chloroanilino)-4-(4-pyridylmethyl)phthalazine or a salt thereof e.g. the succinate or a combination of both is initiated and effects on the growth and weight of the primary tumor and cervical lymph node metastases are monitored respectively. Daily administration of the antiangiogenic agent (100 mg/kg p.o.) or of rapamycin or a derivative thereof e.g. Compound A (1 mg/kg p.o.) alone reduces the size of the primary tumor (final T/C: 65 % and 74 % respectively) whereas the combination of these two agents is synergistic (T/C 12 %). Rapamycin or a derivative thereof e.g. 
+
+Compound A and the antiangiogenic agent treatment alone reduces cervical lymph node weights (related to regional metastases) (T/C: 75 % and 34 % respectively) and the combination further reduces lymph node weights (T/C 13 %). The treatments significantly promote body weight gains as compared to controls. For the primary tumors analysis of possible interaction shows synergy with Compound A and antiangiogenic agent as antiangiogenic agent /controls = 0.66; Compound A/controls = 0.77; Compound A and antiangiogenic agent /controls = 0.135. As Compound A and antiangiogenic agent /controls < Compound A/controls x antiangiogenic agent /controls (0.51) this is defined as synergy. For the metastases analysis also shows synergy with Compound A and the antiangiogenic agent as antiangiogenic agent /controls = 0.337; Compound A/controls = 0.75; Compound A and antiangiogenic agent /controls = 0.122. As Compound A and antiangiogenic agent /controls < Compound A controls x antiangiogenic agent /controls (0.252) this is also defined as synergy (Clark Breast Cancer Research Treatment 1997;46:255).
+
+C. Clinical Trial 
+
+(…)
+
+C.2 Combined Treatment 
+
+Suitable clinical studies are for example open label non-randomized dose escalation studies in patients with advanced solid tumors. Such studies prove in particular the synergism of the active ingredients of the combination of the invention. The beneficial effects on proliferative diseases can be determined directly through the results of these studies or by changes in the study design which are known as such to a person skilled in the art. Such studies are in particular suitable to compare the effects of a monotherapy using the active ingredients and a combination of the invention. Preferably the dose of agent (a) is escalated until the Maximum Tolerated Dosage is reached and the co-agent (b) is administered with a fixed dose. Alternatively the agent (a) is administered in a fixed dose and the dose of co-agent (b) is escalated. Each patient receives doses of the agent (a) either daily or intermittent. The efficacy of the treatment can be determined in such studies e.g. after 12 18 or 24 weeks by radiologic evaluation of the tumors every 6 weeks. 
+
+Alternatively a placebo-controlled double blind study can be used in order to prove the benefits of the combination of the invention mentioned herein. 
+
+Daily dosages required in practicing the method of the present invention when a compound of formula I alone is used will vary depending upon for example the compound used the host the mode of administration and the severity of the condition to be treated. A preferred daily dosage range is about from 0.1 to 25 mg as a single dose or in divided doses. Suitable daily dosages for patients are on the order of from e.g. 0.1 to 25 mg p.o. Compound A may be administered by any conventional route in particular enterally e.g. orally e.g. in the form of tablets capsules drink solutions nasally pulmonary (by inhalation) or parenterally e.g. in the form of injectable solutions or suspensions. Suitable unit dosage forms for oral administration comprise from ca. 0.05 to 12.5 mg usually 0.25 to 10 mg Compound A together with one or more pharmaceutically acceptable diluents or carriers therefor. 
+
+The combination of the invention can also be applied in combination with surgical intervention mild prolonged whole body hyperthermia and/or irradiation therapy. 
+
+The administration of a pharmaceutical combination of the invention results not only in a beneficial effect e.g. a synergistic therapeutic effect e.g. with regard to slowing down arresting or reversing the neoplasm formation or a longer duration of tumor response but also in further surprising beneficial effects e.g. less side-effects an improved quality of life or a decreased mortality and morbidity compared to a monotherapy applying only one of the pharmaceutically active ingredients used in the combination of the invention in particular in the treatment of a tumor that is refractory to other chemotherapeutics known as anti-cancer agents. In particular an increased up-take of the co-agent (b) in tumor tissue and tumor cells is observed when applied in combination with the first agent (a). 
+
+A further benefit is that lower doses of the active ingredients of the combination of the invention can be used for example that the dosages need not only often be smaller but are also applied less frequently or can be used in order to diminish the incidence of side-effects while controlling the growth of neoplasm formation. This is in accordance with the desires and requirements of the patients to be treated. 
+
+According to one embodiment of the invention a preferred pharmaceutical combination comprises 
+
+a) a compound of formula I e.g. Compound A and 
+
+b) as co-agent one or more compounds as indicated in paragraphs (ii) (iii) or (iv) above e.g. carboplatin cisplatinum paclitaxel docetaxel gemcitabine or doxorubicin. 
+
+A synergistic combination of a compound of formula I e.g. Compound A with carboplatin cisplatinum paclitaxel docetaxel gemcitabine or doxorubicin is particularly preferred. 
+
+A further preferred pharmaceutical combination is e.g. a combination comprising 
+
+a) rapamycin or a derivative thereof e.g. CCI-779 ABT578 or Compound A and 
+
+b) as co-agent one or more compounds as indicated under paragraphs (i)
+11
+ and (v) to (x) above preferably one or more compounds as specified in paragraph (v) above. 
+
+Preferred is e.g. a synergistic combination of rapamycin or a derivative thereof e.g. CCI-779 ABT578 or Compound A with a compound which target decrease or inhibit the activity of VEGFR EGFR family PDGFR c-ABI family members or protein kinase C e.g. as disclosed above. 
+
+
+One specific embodiment of the invention relates to the use of a combination of the invention for the prevention delay of progression or treatment of or for the preparation of a 
+
+medicament for the prevention delay of progression or treatment of breast cancer. 
+
+Preferably in such embodiment the combination comprises as co-agent b) an aromatase inhibitor e.g. the aromatase inhibitor letrozole an anti-estrogen e.g. tamoxifen a topoisomerase II inhibitor e.g. doxorubicin or a microtubule active agent e.g. paclitaxel.
+12
+
+
+Another embodiment of the invention relates to the use of a combination of the invention for the prevention delay of progression or treatment of or for the preparation of a medicament for the prevention delay of progression or treatment of lung cancer. Preferably in such embodiment the combination of the invention comprises as co-agent b) a platin compound e.g. carboplatin or a microtubule active agent e.g. paclitaxel. 
+
+Another embodiment of the invention relates to the use of a combination of the invention for the prevention delay of progression or treatment of or for the preparation of a medicament for the prevention delay of progression or treatment of pancreatic cancer. Preferably in such embodiment the combination of the invention comprises as co-agent b) an 
+
+antineoplastic antimetabolite e.g. gemcitabine. 
+
+Another embodiment of the invention relates to the use of a combination of the invention for the prevention delay of progression or treatment of or for the preparation of a medicament for the prevention delay of progression or treatment of glioblastomas. Preferably in such embodiment the combination of the invention comprises as co-agent b) an alkylating agent e.g. BCNU. 
+
+A further embodiment of the invention relates to the use of rapamycin or a derivative thereof in combination with a chemotherapeutic agent in the treatment of a lymphatic cancer (…) 
+
+
+
+
+2.4.
+WO 019 is voortgezet als Europese octrooiaanvraag onder publicatienummer EP 1 363 627 (hierna: EP 627). Na verschillende wijzigingen heeft Novartis AG EP 627 op 25 september 2015 ingetrokken.
+
+
+2.5.
+Door onderdelen van het Novartis concern zijn 10 van EP 627 afgesplitste octrooiaanvragen (divisionals) ingediend. De onderhavige procedure ziet op twee van deze divisionals waarvoor octrooi is verleend. 
+
+
+2.6.
+Novartis Pharma en Novartis AG zijn houdster van de eerste relevante divisional het Europees octrooi EP 2 269 603 (hierna: EP 603) voor “Treatment of breast tumors with a rapamycin derivative in combination with exemestane”. EP 603 is verleend op 20 mei 2015 onder inroeping van het prioriteitsdocument GB 572 van 17 oktober 200113. EP 603 is in Nederland van kracht tot 17 februari 2022.  
+
+
+2.7.
+De conclusies van EP 603 luiden in de authentieke Engelse versie als volgt: 
+
+
+“1    40-O-(2-hydroxyethyl)-rapamycin in combination with exemestane for use in the treatment of hormone receptor positive tumor wherein the hormone receptor positive tumor is a breast tumor.
+
+
+
+2. 40- 40-O-(2-hydroxyethyl)-rapamycin in combination with exemestane for use according to claim 1 wherein 40-O-(2-hydroxyethyl)-rapamycin is to be administered at a daily dose from 0.1 to 25 mg as a single dose or in divided doses.
+2. 40- 40-O-(2-hydroxyethyl)-rapamycin in combination with exemestane for use according to claim 1 wherein exemestane is to be administered orally to a human in a dose from 5 to 200 mg/day or parenterally from 50 to 500 mg/day.
+2. 40- 40-O-(2-hydroxyethyl)-rapamycin in combination with exemestane for use according to claim 1 wherein exemestane is to be administered orally to a human in a dose from 10 to 25 mg/day or parenterally from 100 to 250 mg/day.”
+ 
+
+
+2.8.
+Deze conclusies luiden in de onbestreden Nederlandse vertaling als volgt: 
+
+
+“1    40-O-(2-hydroxyethyl)-rapamycine in combinatie met exemestaan voor gebruik bij de behandeling van een hormoonreceptorpositieve tumor waarin de hormoonreceptorpositieve tumor een borsttumor is.
+
+
+
+2. 40- 40-O-(2-hydroxyethyl)-rapamycine in combinatie met exemestaan voor gebruik conform conclusie 1 waarin 40-O-(2-hydroxyethyl)-rapamycine dient te worden toegediend in een dagelijkse dosis van 01 tot 25 mg als enkele dosis of in verdeelde doses.
+2. 40- 40-O-(2-hydroxyethyl)-rapamycine in combinatie met exemestaan voor gebruik conform conclusie 1 waarin exemestaan oraal aan een mens dient te worden toegediend in een dosis van 5 tot 200 mg/dag of parenteraal van 50 tot 500 mg/dag.
+2. 40- 40-O-(2-hydroxyethyl)-rapamycine in combinatie met exemestaan voor gebruik conform conclusie 1 waarin exemestaan oraal aan een mens dient te worden toegediend in een dosis van 10 tot 25 mg/dag of parenteraal van 100 tot 250 mg/dag.”
+ 
+
+
+2.9.
+In de authentieke Engelse versie van de beschrijving van EP 603 is voorts - voor zover hier van belang - het volgende opgenomen: 
+
+
+“[0001]	
+The present invention relates to a new use in particular a new use for a 40-O-(2-hydroxyethyl)-rapamycin.
+
+
+[0002]	
+Rapamycin is a known macrolide antibiotic produced by Streptomyces hygroscopicus. Derivatives of rapamycin include e.g. compounds of formula I
+
+ 
+
+
+
+
+
+
+
+wherein
+
+ 
+
+
+R1 is CH3 or C3-6alkynyl
+
+R2 is H or -CH2-CH2-OH and
+
+X is =O (HH) or (HOH)
+
+provided that R2 is other than H when X is =O and R1 is CH3.
+
+ 
+
+
+[0003]	
+Compounds of formula I are disclosed e.g. in WO 94/09010 WO 95/16691 or WO 96/41807. They may be prepared as disclosed or by analogy to the procedures described in these references.
+
+
+[0004]	
+WO 97/47317 disclosed a pharmaceutical combination comprising a compound of the somatostatin class and a rapamycin macrolide for use in the prevention or treatment of cell hyperproliferation.
+
+
+[0005]	
+Naoko Tsuchiya et. al. (Int J Clin Oncol 2000 5: 183-187) disclosed the effects of the aromatase inhibitor fadrozole and the gonadotropin-releasing hormone (GnRH) agonist leuprorelin acetate on aromatase activity and cell proliferation in a human breast cancer cell line (SK-BR-3).
+
+
+[0006]	
+WO 97/06793 disclosed non-steroidal compounds useful as steroid sulfatase inhibitors in estrogen dependent illnesses.
+
+
+[0007]	
+40-O-(2-hydroxyethyl)-rapamycin (referred thereafter as Compound A) was disclosed as Example 8 in WO 94/09010.
+
+
+[0008]	
+Compounds of formula I have on the basis of observed activity e.g. binding to macrophilin-12 (also known as 40 FK-506 binding protein or FKBP-12) e.g. as described in WO 94/09010 WO 95/16691 or WO 96/41807 been found to be useful e.g. as immunosuppressant e.g. in the treatment of acute allograft rejection. It has now been found that Compounds of formula I have potent antiproliferative properties which make them useful for cancer chemotherapy particularly of solid tumors especially of advanced solid tumors. There is still the need to expand the armamentarium of cancer treatment of solid tumors especially in cases where treatment with anticancer compounds is not associated with disease regression or stabilization.
+
+
+[0009]	
+In accordance with the particular findings of the present invention there is provided: 40-O-(2-hydroxyethyl)-rapamycin in combination with exemestane for use in the treatment of hormone receptor positive tumor wherein the hormone receptor positive tumor is a breast tumor.
+
+
+(…)
+
+
+[0011]
+	Also disclosed are: 1.1 A method for treating solid tumors in a subject in need thereof comprising administering to said subject a therapeutically effective amount of a compound of formula I.
+
+
+
+
+1.2
+
+
+A method for inhibiting growth of solid tumors in a subject in need thereof comprising administering to said subject a therapeutically effective amount of a compound of formula I.
+
+1.3 A method for inducing tumor regression e.g. tumor mass reduction in a subject in need thereof comprising administering to said subject a therapeutically effective amount of a compound of formula I.
+
+1.4 A method for treating solid tumor invasiveness or symptoms associated with such tumor growth in a subject in need thereof comprising administering to said subject a therapeutically effective amount of a compound of formula I.
+
+1.5 A method for preventing metastatic spread of tumours or for preventing or inhibiting growth of micrometastasis in a subject in need thereof comprising administering to said subject a therapeutically effective amount of a compound of formula I.
+
+
+
+[0012]
+	By "solid tumors" are meant tumors and/or metastasis (whereever located) other than lymphatic cancer e.g. brain and other central nervous system tumors (eg. tumors of the meninges brain spinal cord cranial nerves and other parts of central nervous system e.g. glioblastomas or medulla blastomas); head and/or neck cancer; breast tumors; circulatory system tumors (e.g. heart mediastinum and pleura and other intrathoracic organs vascular tumors and tumor-associated vascular tissue); excretory system tumors (e.g. kidney renal pelvis ureter bladder other and unspecified urinary organs); gastrointestinal tract tumors (e.g. oesophagus stomach small intestine colon colorectal rectosigmoid junction rectum anus and anal canal) tumors involving the liver and intrahepatic bile ducts gall bladder other and unspecified parts of biliary tract pancreas other and digestive organs); head and neck; oral cavity (lip tongue gum floor of mouth palate and other parts of mouth parotid gland and other parts of the salivary glands tonsil oropharynx nasopharynx pyriform sinus hypopharynx and other sites in the lip oral cavity and pharynx); reproductive system tumors (e.g. vulva vagina Cervix uteri Corpus uteri uterus ovary and other sites associated with female genital organs placenta penis prostate testis and other sites associated with male genital organs); respiratory tract tumors (e.g. nasal cavity and middle ear accessory sinuses larynx trachea bronchus and lung e.g. small cell lung cancer or non-small cell lung cancer); skeletal system tumors (e.g. bone and articular cartilage of limbs bone articular cartilage and other sites); skin tumors (e.g. malignant melanoma of the skin non-melanoma skin cancer basal cell carcinoma of skin squamous cell carcinoma of skin mesothelioma Kaposi's sarcoma); and tumors involving other tissues including peripheral nerves and autonomic nervous system connective and soft tissue retroperitoneum and peritoneum eye and adnexa thyroid adrenal gland and other endocrine glands and related structures secondary and unspecified malignant neoplasm of lymph nodes secondary malignant neoplasm of respiratory and digestive systems and secondary malignant neoplasm of other sites.
+
+
+(…)
+
+
+[0016]
+	By the term "chemotherapeutic agent" is meant an aromatase inhibitor. 
+
+
+[0017]
+	The term "aromatase inhibitor" as disclosed herein relates to a compound which inhibits the estrogen production i.e. the conversion of the substrates androstenedione and testosterone to estrone and estradiol respectively. The term includes but is not limited to steroids especially atamestane exemestane and formestane and in particular non-steroids especially aminoglutethimide roglethimide pyridoglutethimide trilostane testolactone ketokonazole vorozole fadrozole anastrozole and letrozole. (…)
+
+
+(…)
+
+
+[0019]
+	Utility of the compound of Compound A in treating solid tumors as hereinabove specified may be demonstrated in animal test methods as well as in clinic for example in accordance with the methods hereinafter described.
+
+ 
+
+
+A. In Vitro
+
+ 
+
+
+A.1 Antiproliferative activity in combination with other agents
+
+ 
+
+
+[0020]
+	A cell line e.g. the Compound A resistant A549 line (IC50 in low nM range) versus the comparative Compound A resistant KB-31 and HCT116 lines (IC50 in the µM range) is added to 96-well plates (1500 cells/well in 100 µI medium) and incubated for 24 hr. Subsequently a two-fold dilution series of each compound (Compound of formula I or a known chemotherapeutic agent) is made in separate tubes (starting at 8 x the IC50 of each compound) either alone or in paired combinations and the dilutions are added to the wells. The cells are then re-incubated for 3 days. Methylene blue staining is performed on day 4 and the amount of bound dye (proportional to the number of surviving cells that bind the dye) determined. IC50s are subsequently determined using the Calcusyn program which provides a measure of the interaction namely the so-called non-exclusive combination index (CI) where: CI ∼ 1 = the interaction is nearly additive; 0.85 - 0.9 = slight synergism; < 0.85 = synergy. In this assay the Compound A shows interesting antiproliferative activity in combination with another chemotherapeutic agent. For example the following CI values are obtained with a combination of Compound A and cisplatinum paclitaxel gemcitabine and doxorubicin showing synergistic effects.
+
+ 
+
+
+
+
+
+
+
+(…)
+
+
+A.2 Antiangiogenic activity
+
+ 
+
+
+[0021]
+	In vitro assay of the antiproliferative activity of Compound A against human umbilical vein endothelial cells (HUVECs) demonstrates IC50 values of 120 ± 22 pM and 841 ± 396 and > 10 000 pM for VEGF- and bFGF- and FBS-stimulated proliferation respectively. Additionally no significant effects of Compound A on bFGF-stimulated normal human dermal fibroblast (NHDF) proliferation are observed over the same concentration range. These results indicate that Compound A inhibits the proliferation of HUVECs being particularly potent against the VEGF-induced proliferation VEGF being a key pro-angiogenic factor. 
+
+ 
+
+
+B. In Vivo
+
+ 
+
+
+[0022]
+	In the following assays antitumor activity is expressed as T/C% (mean increase in tumor volumes of treated animals divided by the mean increase of tumor volumes of control animals multiplied by 100) and % regressions (tumor volume minus initial tumor volume divided by the initial tumor volume and multiplied by 100). 
+
+ 
+
+
+(…)
+
+
+B.4 Combination with doxorubicin
+
+ 
+
+
+[0027]
+	Mice transplanted with human KB-31 epidermoid tumors are treated for 21 days with doxorubicin at a dose of 5 mg/kg i.v. once per week Compound A at a dose of 2.5 mg/kg p.o once per day or a combination of both. Thereafter Compound A treatment alone is continued in the combination group in order to determine if the Compound A can suppress the outgrowth of tumors that respond to conventional agents. Antitumor activity is expressed as T/C% or % regressions as indicated above. For example the combination of Compound A and doxorubicin produces greater antitumor effect (74 % regressions) as compared to either agent alone (Compound A T/C 32 %; doxorubicin 44 % regressions). No exacerbation of the body weight losses caused by doxorubicin occurs when Compound A treatment is added. Continuing Compound A treatment in the combination group after ceasing doxorubicin inhibits tumor outgrowth such that the tumor volumes of the doxorubicin monotherapy group are significantly larger than those of the combination group. Moreover the combination appears to produce a greater cure rate (8/8 tumors) at 14 days post end of treatment than doxorubicin alone (3/8 tumors). 
+
+ 
+
+
+(…)
+
+
+B.7 Combination with an antiangiogenic agent
+
+ 
+
+
+[0030]	
+B16/BL6 cells (5 X 104) are injected intradermally into the ear of C57BL/6 mice. Seven days later treatment with Compound A a VEGF receptor tyrosine kinase inhibitor e.g. 1-(4-chloroanilino)-4-(4-pyridylmethyl)phthalazine or a salt thereof e.g. the succinate or a combination of both is initiated and effects on the growth and weight of the primary tumor and cervical lymph node metastases are monitored respectively. Daily administration of the antiangiogenic agent (100 mg/kg p.o.) or of Compound A (1 mg/kg p.o.) alone reduces the size of the primary tumor (final T/C: 65 % and 74 % respectively) whereas the combination of these two agents is synergistic (T/C 12 %). Compound A and the antiangiogenic agent treatment alone reduces cervical lymph node weights (related to regional metastases) (T/C: 75 % and 34 % respectively) and the combination further reduces lymph node weights (T/C 13 %). The treatments significantly promote body weight gains as compared to controls. For the primary tumors analysis of possible interaction shows synergy with Compound A and antiangiogenic agent as antiangiogenic agent /controls = 0.66; Compound A/controls = 0.77; Compound A and antiangiogenic agent /controls = 0.135. As Compound A and antiangiogenic agent /controls < Compound A/controls x antiangiogenic agent /controls (0.51) this is defined as synergy. For the metastases analysis also shows synergy with Compound A and the antiangiogenic agent as antiangiogenic agent /controls = 0.337; Compound A/controls = 0.75; Compound A and antiangiogenic agent /controls = 0.122. As Compound A and antiangiogenic agent /controls < Compound A/controls x antiangiogenic agent /controls (0.252) this is also defined as synergy (Clark Breast Cancer Research Treatment 1997;46:255 ).
+
+ 
+
+
+C. Clinical Trial
+
+ 
+
+
+(…)
+
+
+C.2 Combined Treatment
+
+ 
+
+
+[0033]
+	Suitable clinical studies are for example open label non-randomized dose escalation studies in patients with advanced solid tumors. Such studies prove in particular the synergism of the active ingredients of the combination of the invention. The beneficial effects on proliferative diseases can be determined directly through the results of these studies or by changes in the study design which are known as such to a person skilled in the art. Such studies are in particular suitable to compare the effects of a monotherapy using the active ingredients and a combination of the invention. Preferably the dose of agent (a) is escalated until the Maximum Tolerated Dosage is reached and the co-agent (b) is administered with a fixed dose. Alternatively the agent (a) is administered in a fixed dose and the dose of co-agent (b) is escalated. Each patient receives doses of the agent (a) either daily or intermittent. The efficacy of the treatment can be determined in such studies e.g. after 12 18 or 24 weeks by radiologic evaluation of the tumors every 6 weeks.
+
+
+[0034]
+	Alternatively a placebo-controlled double blind study can be used in order to prove the benefits of the combination of the invention mentioned herein.
+
+
+(…)
+
+
+[0036]
+	The administration of a pharmaceutical combination of the invention results not only in a beneficial effect e.g. a synergistic therapeutic effect e.g. with regard to slowing down arresting or reversing the neoplasm formation or a longer duration of tumor response but also in further surprising beneficial effects e.g. less side-effects an improved quality of life or a decreased mortality and morbidity compared to a monotherapy applying only one of the pharmaceutically active ingredients used in the combination of the invention in particular in the treatment of a tumor that is refractory to other chemotherapeutics known as anti-cancer agents. In particular an increased up-take of the co-agent (b) in tumor tissue and tumor cells is observed when applied in combination with the first agent (a).
+
+
+(…)
+
+
+[0038]
+	One specific embodiment of the invention discloses the use of a combination of the invention for the prevention delay of progression or treatment of or for the preparation of a medicament for the prevention delay of progression or treatment of breast cancer. In such embodiment the combination comprises as co-agent b) an aromatase inhibitor.
+
+
+(…)”
+
+ 
+
+
+2.10.
+Door acht partijen is oppositie ingesteld tegen EP 603. Op 20 juni 2018 heeft de Oppositiedivisie van het Europees Octrooibureau (hierna: OD) mondeling ter zitting EP 603 nietig verklaard op grond van ongeoorloofde toegevoegde materie. De schriftelijke beslissing ter zake dateert van 5 september 2018. Novartis c.s. heeft beroep aangetekend bij de Technische Kamer van Beroep van het Europees Octrooibureau (hierna: TKB).  
+
+
+2.11.
+Novartis AG is houdster van een tweede relevante divisional het Europees octrooi EP 3 351 246 (hierna: EP 246) voor “Rapamycin derivative for the treatment of a solid tumor associated with deregulated angiogenesis”. EP 246 is verleend op 22 mei 2019 onder inroeping van het prioriteitsdocument GB 572 van 17 oktober 200114 en is in Nederland van kracht tot 17 februari 2022.   
+
+
+2.12.
+De conclusies van EP 246 luiden in de authentieke Engelse versie als volgt: 
+
+
+“1.   40-O-(2-hydroxyethyl)-rapamycin for use in combination with an aromatase inhibitor for the treatment of hormone receptor positive breast tumors.
+
+2. 40-O-(2-hydroxyethyl)-rapamycin for use according to claim 1 wherein the aromatase inhibitor is atamestane exemestane formestane aminoglutethimide roglethimide pyridoglutethimide trilostane testolactone ketokonazole vorozole fadrozole anastrozole or letrozole.”
+ 
+
+
+2.13.
+Deze conclusies luiden in de onbestreden Nederlandse vertaling als volgt:  
+
+
+“1.   40-O-(2-hydroxyethyl)-rapamycine voor toepassing in combinatie met een aromataseremmer voor de behandeling van hormoonreceptor-positieve borsttumoren.
+
+2. 40-O-(2-hydroxyethyl)-rapamycine voor toepassing volgens conclusie 1 waarbij de aromataseremmer atamestaan exemestaan formestaan aminoglutethimide roglethimide pyridoglutethimide trilostaan testolacton ketokonazol vorozol fadrozol anastrozol of letrozol is.”
+ 
+
+
+2.14.
+In de authentieke Engelse versie van de beschrijving van EP 246 is - voor zover hier van belang - onder nummers [0001] tot met [0009] en [0019] dezelfde beschrijving opgenomen als in EP 603 (vergelijk onder 2.9). Onder nummers [0034] [0035] respectievelijk [0038] van EP 246 is dezelfde beschrijving opgenomen als in EP 603 onder nummers [0033] [0034] respectievelijk [0036]. Het verschil tussen beide octrooien is - kort gezegd - dat EP 246 is gericht op de combinatie van everolimus met een aromatase remmer terwijl EP 603 de groep van aromatase remmers beperkt tot exemestaan. 
+
+
+2.15.
+De navolgende octrooischriften behoren - onder meer - voor EP 603 en EP 246 tot de stand van de techniek. 
+
+2.15.1.
+De internationale octrooiaanvraag WO 00/69467 (hierna: WO 467;  D2 in oppositie) gepubliceerd op 23 november 2000. WO 467 is getiteld “Combined method of treatment comprising an aromatase inhibitor and a further biologically active compound”. Als samenvatting is opgenomen: “A composition for use in breast cancer therapy in humans comprising in amounts effective to produce a superadditive antitumour effect: (a) an antineoplastic agent in a pharmaceutically acceptable carrier and/or diluent and (b) an aromatase inhibitor in a pharmaceutically acceptable carrier and/or diluent.” WO 467 omvat onder meer de volgende passages: 
+
+
+“(…)
+
+
+Chemotherapy is more toxic than hormonal therapy therefore is in general reserved for patients refractory to hormonal treatment or in patients with extensive visceral involvement or if the tumor is growing rapidly. Combination chemotherapy is generally more effective than single agent treatment. However only 15% of patients have a complete remission the duration of the response is limited all the tumors become resistant to chemotherapy and the patients die. 
+
+
+Therefore a major goal in breast cancer therapy is to develop new treatment modalities in order to increase tumor response and survival. 
+
+
+Accordingly it would be desirable to have a drug combination modality having improved action than currently used treatment modalities. Ideally such combination should have increased efficacy e.g. by providing both a better controlling of breast tumor growth and a longer duration of action while resulting in less toxic side-effects thus allowing administration of lower dosage levels of chemotherapeutic agent. 
+
+
+After an extensive study the present inventor has surprisingly found that the therapeutic effect of a chemotherapeutic cytotoxic (antineoplastic) agent is significantly improved and side-effects decreased by co-administering it with an aromatase inhibitor antitumor agent i.e. a compound which inhibits the formation of estrogens by inhibiting the enzyme aromatase.
+15
+
+ 
+
+
+Description of the invention
+
+
+In a first aspect the present invention provides the use of an antineoplastic agent in the manufacture of a pharmaceutical composition for treatment of breast cancer the treatment additionally comprising administration of at least one pharmaceutical composition comprising an aromatase inhibitor in amounts effective to produce a superadditive antitumor effect.
+16
+
+
+(…)
+
+
+According to the present invention as "superadditive effect" is meant an effect in controlling the growth of the neoplasm which is greater than the sum of the actions of the individual components. As used herein "controlling the growth" of the neoplasm refers to slowing interrupting arresting or stopping its growth and it does not necessarily indicate a total elimination of the neoplasm. 
+
+
+The term "antineoplastic agent" is meant to comprise both a single antineoplastic cytotoxic drug and "cocktails" i. e. mixtures of such drugs according to the clinical practice.
+17
+
+
+(…)
+
+
+The term "aromatase inhibitor" is meant to comprise both a single aromatase inhibitor agent and cocktails of such inhibitors. 
+
+
+In the combined preparations pharmaceutical compositions and methods of treating according to the present invention the aromatase inhibitor preferably comprises 1 or a mixture of 2 aromatase inhibitor agents in particular a single aromatase inhibitor agent.
+18
+
+
+(…)
+
+
+Preferably an aromatase inhibitor is a compound selected from exemestane formestane anastrozole fadrozole or letrozole in particular exemestane. 
+
+
+Particularly preferred preparations pharmaceutical compositions and methods of treating according to the present invention are those comprising a) 1 2 or 3 antineoplastic agents selected from epirubicin doxorubicin idarubicin paclitaxel docetaxel 5-fluorouracil cyclophosphamide and vinorelbine and b) one or two in particular one steroidal aromatase inhibitor selected from exemestane formestane anastrozole letrozole and fadrozole. 
+
+
+More preferably are those comprising a) one or two in particular one antineoplastic agent selected from epirubicin and docetaxel and b) exemestane.
+19
+
+ 
+
+
+Pharmacology
+
+
+(…)
+
+ 
+
+
+
+
+
+
+20
+
+
+
+(…)
+
+
+
+
+
+
+
+”
+21
+
+ 
+
+
+2.15.2.
+Het internationale octrooi WO 97/47317 (hierna: WO 317; D1 in oppositie) gepubliceerd op 11 december 1997. WO 317 is getiteld “Combination of a somatostatin analogue and a rapamycin”. Als samenvatting is opgenomen: “A combination of a compound of the somatostatin class and a rapamycin macrolide is useful for the prevention or treatment of cell hyperproliferation”. In de beschrijving van WO 317 is onder meer het volgende opgenomen: 
+
+
+“(…)
+
+
+The term "macrolide" as used herein refers to a macrocyclic lactone for example a compound having a 12-membered or larger lactone ring. Of particular interest are the "lactam macrolides" i.e. macrocyclic compounds having a lactam (amide) bond in the macrocycle in addition to a lactone (ester) bond for example rapamycin and its numerous derivatives and analogues. Rapamycin is an immunosuppressive lactam macrolide that is produced by 
+Streptomyces hvgroscopicus
+ (…)
+22
+
+ 
+
+
+(…)
+
+
+A preferred compound is e.g. 40-O-(2-hydroxy)ethyl-rapamycin (referred thereafter as
+
+
+Compound B).
+23
+
+ 
+
+
+(…)
+
+
+Rapamycin and above mentioned derivatives have been shown to have potent immunosuppressant properties. Rapamycin has also been shown to inhibit smooth muscle cell proliferation and to inhibit cancer growth. 
+
+ 
+
+
+Somatostatin analogues e.g. octreotide vapreotide and lanreotide have been disclosed i.a. to inhibit growth hormone secretion and to have an inhibiting effect on malignant tumor growth e.g. in breast cancer. Octreotide and lanreotide have also been disclosed to inhibit smooth muscle cell proliferation. 
+
+ 
+
+
+In accordance with the invention it has now surprisingly been found that a combination of 2 active ingredients believed to act on basically different mechanisms such as a somatostatin analogue and rapamycin or a derivative thereof can be combined and synergistically inhibit cell hyperproliferation.
+24
+
+ 
+
+
+(…)
+
+
+According to the invention the combination of a compound of the somatostatin class and a rapamycin macrolide is indicated for the prevention or treatment of malignant tumor growth e.g. breast (…).
+25
+
+ 
+
+
+(…)
+
+
+A. 
+In vitro Assav
+
+     AR42J cell cultures (…)
+26
+
+ 
+
+
+In this assay the following results are obtained with octreotide alone Compound B alone and a combination of octreotide and Compound B. The synergy according to the Webb Method is confirmed by using the Chou-Talalay Method.
+27
+
+
+
+
+
+
+
+
+
+B. 
+In Vivo Assay
+
+
+     The AR42J (AR4-2J) rat pancreatic tumor cell line is derived from an azaserine-induced exocrine pancreatic tumor (Jessop and Hay 1980). (…)
+28
+
+ 
+
+
+(…)
+
+
+Results
+
+After 4 weeks the following tumor size were determined. 
+
+(Please note that values in the control group correspond to 3 week values since animals were killed afterwards for tumors became excessively large.)
+
+ 
+
+
+
+
+
+
+29
+
+
+
+C. 
+Clinical trial
+
+
+     Patients are included who have breast cancer as evidenced by histological biopsy (…).
+30
+
+ 
+
+
+(…) The combination of the somatostatin analogue with rapamycin or its derivative allows to maximize the antiproliferative effect.”
+31
+
+ 
+
+
+
+2.16.
+Teva maakt deel uit van de Teva groep. Dit is een internationale farmaceutische onderneming met het hoofdkantoor in Israël. De Teva groep houdt zich bezig met vervaardiging distributie en verhandeling van generieke en innovatieve geneesmiddelen. 
+
+
+2.17.
+Teva is in Nederland houdster van marktvergunningen voor een generieke versie van everolimus Everolimus Teva ten aanzien van 10 mg tabletten 25 mg tabletten en 5 mg tabletten. De handelsvergunningen zijn afgegeven op 3 augustus 2017. In de SmPC32 en de bijsluiter voor de patiënt bij Everolimus Teva is opgenomen dat everolimus in combinatie met exemestaan geïndiceerd is voor de behandeling van hormoonreceptor-positieve gevorderde borstkanker (hierna: aBC). 
+
+
+2.18.
+Bij brief van 15 mei 2019 heeft Teva haar voornemen om Everolimus Teva per 1 juli 2019 op de markt te brengen aan (de advocaat van) Novartis c.s. kenbaar gemaakt. Teva zal daartoe Everolimus Teva in de juli-editie van de G-standaard doen opnemen. 
+
+
+
+
+3 Het geschil 
+
+3.1.
+Novartis c.s. vordert  samengevat - dat de voorzieningenrechter eerst bij provisioneel vonnis en vervolgens bij vonnis: 
+
+
+primair een (direct en indirect) inbreukverbod voor Nederland aan Teva zal opleggen onder meer ten aanzien van geneesmiddelen die everolimus omvatten en geïndiceerd zijn voor hormoonreceptor-positieve gevorderde borstkanker dan wel Teva zal verbieden onrechtmatig te handelen met rectificatie in de G-standaard door middel van een Taxe-brief onder verbeurte van een dwangsom en met een volledige proceskostenveroordeling en
+ 
+
+
+subsidiair Teva zal gebieden om de indicatie hormoonreceptor-positieve gevorderde borstkanker uit haar (Nederlandse) handelsvergunningen voor Everolimus Teva te laten verwijderen met rectificatie in de G-standaard door middel van een Taxe-brief; Teva zal gebieden relevante groothandelaren (ziekenhuis)apothekers relevante zorgverzekeraars het salesteam van Teva relevante aanbestedingsinstellingen (wanneer Teva deelneemt aan een tender voor everolimus) te informeren dat Everolimus Teva niet geïndiceerd is en niet gebruikt/vergoed/verkocht mag worden voor de behandeling van hormoonreceptor-positieve gevorderde borstkanker; Teva zal gebieden om de verkoop van Everolimus Teva bij te houden alles onder verbeurte van een dwangsom en met volledige proceskostenveroordeling.
+ 
+
+
+3.2.
+Ter onderbouwing van haar primaire en subsidiaire (neven)vorderingen stelt Novartis c.s. dat Everolimus Teva voldoet aan de kenmerken van alle vier de conclusies van EP 60333 nu de kenmerken van deze conclusies zijn overgenomen in de SmPC van Everolimus Teva. Door de aankondiging van het voornemen van Teva om Everolimus Teva per 1 juli 2019 in Nederland op de markt brengen (en de geplande opname in de juli-editie van de G-standaard) is er een concrete dreiging van directe inbreuk (dan wel van indirecte inbreuk op de octrooien dan wel handelt Teva onrechtmatig jegens Novartis c.s.) waarmee Novartis c.s. recht heeft op en belang bij de voorlopige maatregel. 
+
+
+3.3.
+Teva voert verweer onder meer dat de octrooien ongeldig is vanwege toegevoegde materie (tevens verwijzend naar de OD-uitspraak van r.o. 2.10 die volgens haar ook als bodemuitspraak moet gelden waarnaar in kort geding dient te worden gericht) alsmede gebrek aan nawerkbaarheid nieuwheid en inventiviteit. 
+
+
+3.4.
+Op de stellingen van partijen wordt hierna voor zover van belang nader ingegaan.  
+
+
+
+
+4 De beoordeling
+Bevoegdheid
+
+4.1.
+Aangezien Teva in Nederland is gevestigd is de voorzieningenrechter van deze rechtbank bevoegd van de vorderingen kennis te nemen op grond van het bepaalde in artikel 4 en 35 Brussel I bis-Vo34 en artikel 80 lid 2 onder a ROW35. 
+
+
+Spoedeisend belang
+
+ 
+
+
+4.2.
+Gezien de gestelde inbreuk op haar/hun octrooien hebben Novartis AG en Novartis Pharma een spoedeisend belang bij het gevorderde. Dit spoedeisende belang is ook niet bestreden. 
+
+
+Inventiviteit
+
+ 
+
+
+4.3.
+EP 603 is naar voorlopig oordeel niet inventief althans is er een serieuze niet te verwaarlozen kans dat het octrooi in een daartoe strekkende bodemprocedure op die grond voor nietig wordt gehouden. Daartoe is het volgende redengevend. 
+
+
+4.4.
+Voorop gesteld wordt dat inventiviteit ontbreekt als de gemiddelde vakman uitgaande van de meest nabij stand van de techniek het probleem zou (would) - en niet slechts kon (could) - hebben opgelost op de wijze geclaimd in het octrooi. Zo de uitvinding het resultaat is van nader onderzoek ligt de uitvinding niet alleen voor de hand als de vakman dat onderzoek zou hebben uitgevoerd en de resultaten duidelijk voorspelbaar zijn maar ook als er sprake is van een redelijke verwachting van succes (reasonable expectation of success) dat wil zeggen dat de vakman in staat is om redelijkerwijs een succesvol einde van een onderzoeksproject binnen acceptabele tijd te voorspellen. Onvoldoende is de enkele “hope to succeed”.36 
+
+
+4.5.
+Bij de beoordeling van de inventiviteit zal de voorzieningenrechter de PSA37 hanteren. Teva heeft aangevoerd dat de onderhavige zaak minder geschikt is voor toepassing van de PSA omdat het kiezen van de meest nabije stand van de techniek in enige mate het zicht ontneemt op het gehele veld van kankeronderzoek met name ook met betrekking tot combinaties van antikankermiddelen. Wat daar ook van zij nu de voorzieningenrechter ook met de toepassing van de PSA-methodiek tot het voorlopig oordeel komt dat geen sprake is van inventiviteit kan deze methodiek in de onderhavige procedure worden gevolgd. 
+
+
+4.6.
+De voorzieningenrechter is - met partijen - van oordeel dat de gemiddelde vakman een in borstkanker gespecialiseerde klinisch oncoloog is (hierna: de vakman).  
+
+
+4.7.
+Als meest nabije stand van de techniek dient te worden aangemerkt het document dat het geschiktste uitgangspunt vormt om tot de uitvinding te komen. Dat zal als regel het document zijn dat zich bezighoudt met hetzelfde probleem en de meeste met de uitvinding overeenstemmende kenmerken openbaart. Dat laat onverlet dat een octrooi(conclusie) (nieuw en) inventief behoort te zijn ten opzichte van elke openbaarmaking die onderdeel vormt van de stand van de techniek en als een reëel uitgangspunt voor de PSA kan dienen. 
+
+
+4.8.
+Naar voorlopig oordeel is WO 467 een reëel uitgangspunt als (meest nabije) stand van de techniek. Partijen hebben ook beide (subsidiair) de (niet-)inventiviteit van EP 603 (en EP 246) vanuit WO 467 beargumenteerd. 
+
+
+4.9.
+WO 467 ziet op een combinatietherapie voor de behandeling van borstkanker waarbij wordt ingezet op verschillende combinaties van aromataseremmers en antineoplastische middelen. Daarbij levert de combinatie van bij voorkeur exemestaan als aromataseremmer met met name de cytotoxische chemotherapeutica epirubicine of docetaxel (antineoplastische middelen) een “superadditive antitumor effect” op (vergelijk de beschrijving en de tabellen 1 en 2 onder 2.15.1). Daarnaast is een belangrijk voordeel van de combinatietherapie dat de toxiciteit van de behandeling significant wordt verlaagd ten opzichte van de monotherapie met enkel een chemotherapeuticum (vergelijk de eerste onder 2.15.1 geciteerde paragrafen).  
+
+
+4.10.
+De verschilmaatregel tussen conclusie 1 van EP 603 en WO 467 is de toepassing van everolimus in plaats van de specifiek genoemde antineoplastische middelen epirubicine of docetaxel. Het technisch effect van deze verschilmaatregel is het voorzien in een alternatief voor een antineoplastisch middel dat in combinatie met exemestaan op vergelijkbare wijze werkzaam is tegen borstkanker/aBC. Daarbij wordt de stelling van Novartis c.s. verworpen dat het technisch effect van de toepassing van everolimus in combinatie met exemestaan een verbeterde hormoon-gebaseerde therapie is voor borstkanker ten opzichte van de combinaties gesuggereerd in WO 467 of andere behandelingen die op de prioriteitsdatum bekend waren. Die verbeterde werking is immers niet in de oorspronkelijke aanvraag (WO 019 zie 2.3) terug te lezen en daarin ook niet plausibel gemaakt.  
+
+4.10.1.
+In de oorspronkelijke aanvraag is geen informatie opgenomen over de werking van everolimus (compound A) in combinatie met enige hormoonbehandeling laat staan met een hormoonbehandeling in de vorm van een aromataseremmer zoals exemestaan. In de aanvraag ontbreken data waaruit volgt dat de combinatie van everolimus en exemestaan (synergetisch) werkzaam is bij de behandeling van borstkanker. Er wordt in zijn algemeenheid verwezen naar vele soorten van vaste tumoren (zie onder 2.3 de paragraaf over “solid tumors” waarin “breast tumors” is onderstreept voetnoot 2).  
+
+
+4.10.2.
+De in vitro en in vivo experimenten in de aanvraag waarnaar Novartis c.s. verwijst ter onderbouwing van haar standpunt te weten A1 B4 en B7 (zie 2.3) verstrekken evenmin nadere informatie. A1 ziet op een in vitro experiment waarbij everolimus in combinatie met verschillende cytostatica (cisplatine doxorubicine gemcitabine en paclitaxel) is getest op cellijnen afkomstig van long- pancreas- en huidkanker. B4 en B7 beschrijven in vivo experimenten waarbij respectievelijk de combinatie van everolimus met het cytostaticum doxorubicine en de combinatie van everolimus met een VEGF receptor tyrosine kinaseremmer op huidkanker is getest. Enerzijds is in geen van de experimenten (in vitro of in vivo) everolimus (compound A) getest in combinatie met een hormoonbehandeling (in de vorm van een aromataseremmer zoals exemestaan) en anderzijds hebben de testen die wel zijn uitgevoerd geen betrekking op borstkanker.  
+
+
+4.10.3.
+De enkele opname in de aanvraag - zakelijk weergegeven - dat de uitvinding tevens het gebruik van een combinatie in de behandeling van borstkanker behelst waarbij een aromataseremmer onderdeel uitmaakt van deze combinatie (zie onder 2.3 einde voetnoot 12) maakt het niet anders. In de oorspronkelijke aanvraag is deze paragraaf opgenomen in een rij van suggesties van combinaties die de uitvinding belichaamt en wordt bovendien (anders dan in de beschrijving van EP 603) niet enkel een aromataseremmer genoemd maar eveneens vele andere antikankermiddelen.38 Voor zover de aanvraag de vakman al de combinatie van everolimus en exemestaan bij de behandeling van borstkanker/aBC zou openbaren39 volgt uit deze paragraaf niet dat de combinatietherapie een verbeterd of synergetisch effect sorteert.  
+
+
+4.10.4.
+In zoverre Novartis c.s. het standpunt inneemt dat het op grond van de gunstige onderzoeksresultaten van everolimus met enkele andere chemotherapeutische middelen als beschreven in de aanvrage aannemelijk is dat dit ook naar everolimus met exemestaan voor borstkanker kan worden geëxtrapoleerd faalt dit betoog. In de aanvraag noch in de algemene vakkennis destijds is een algemeen principe of een theorie opgenomen welke verbeterde werking van die combinatie aannemelijk maakt. Ook de deskundige van Novartis c.s. prof. dr. S.R.D. Johnston verklaart niet dat de aanvraag/het octrooi een verbeterde werking openbaart of aannemelijk maakt. Hij verklaart ten aanzien van plausibiliteit slechts dat de combinatie van everolimus met een aromataseremmer/exemestaan effectief zou kunnen zijn tegen aBC: 
+
+
+“
+Plausibility
+
+
+165. Having regard to the disclosure in the specification of EP ‘603 I consider that the skilled person at the Application Date would have thought it entirely plausible that the combination of everolimus and exemestane could be effective in the treatment of HR-positive breast tumours.
+
+
+166. I also consider that in light of the disclosure of EP ‘246 the skilled person at the Application Date would have thought it entirely plausible that the combination of everolimus and an aromatase inhibitor could be effective in the treatment of HR-positive breast tumours.
+
+ 
+
+Meer algemeen ten aanzien van combinatietherapieën verklaart Johnston voorts (enigszins geparafraseerd) dat het lastig te voorspellen is of er synergie of een verbetering optreedt:
+ 
+
+63. One of the key issues that must be addressed in the development of a combination therapy is whether and how the chosen combination agents interact both from an efficacy perspective as well as from a safety perspective.
+
+
+64. From an efficacy perspective the ideal is for the chosen compounds to have a synergistic effect when administered in combination - i.e. the therapeutic efficacy of the combination is greater than the sum of its parts. An additive effect wherein the combination is about as effective as the sum of its parts can also represent a useful clinical outcome. An antagonistic interaction wherein the combination treatment is less effective than the sum of its parts would generally be an unwelcome result and represent a failed combination. It is not uncommon for combinations to exhibit no additional benefit over monotherapy or even a reduced benefit compared to monotherapy. This is particularly the case in the oncology setting where the disease the skilled person is attempting to treat is highly complex heterogeneous in its manifestations and able to adapt in response to attempted treatment. In this respect even amongst cancers HR-positive advanced or metastatic breast cancer is considered to be a very adaptable tumour.
+
+
+65. From a safety perspective administering multiple treatments at the same time as combination partners may require careful management of respective side effects (which may compound one another) as well as consideration of the risk of an unwanted drug-drug interaction between the two compounds. Although the fact that chosen combination partners generally operate through different mechanisms of action (and thus aim to affect different signalling pathways in the body) theoretically reduces the chance of an unwanted interaction between the two compounds a development team cannot be sure of the precise effect of the combination in real life patients until it is tested in clinical trials.
+ 
+
+Volgens Johnston kan er derhalve ook geen combinatie-effect (i.e. niet meer dan de som van het effect van elk middel afzonderlijk) of zelfs een antagonistisch effect (i.e. de middelen werken elkaar tegen) optreden. Een wetenschappelijk verantwoorde voorspelling aan de hand van de gegevens in de oorspronkelijke aanvrage (of zelfs het verleende octrooi) dat everolimus met een aromatase remmer of specifiek exemestaan een verbeterd of synergetisch effect zal hebben tegen aBC is naar voorlopig oordeel niet aan de orde. 
+ 
+
+
+4.10.5.
+Voor zover Novartis c.s. met haar opmerking dat vaststaat dat de uitvinding werkt (met verwijzing naar het door haar op 26 september 2011 uitgegeven persbericht) tevens bedoeld heeft te onderbouwen dat de onderhavige combinatietherapie een verbeterd of synergetisch effect heeft kan haar dat niet baten met betrekking tot het technisch effect van de octrooien. Onderzoeksgegevens van na de prioriteitsdatum kunnen immers niet meetellen voor inventiviteit indien het geclaimde effect niet al aannemelijk is gemaakt in de oorspronkelijke aanvraag.40 Een dergelijk effect dan toch meewegen in het kader van de inventiviteitsbeoordeling zou niet corresponderen met de technische bijdrage van het octrooi en de octrooihouder zo een ongerechtvaardigd voordeel verschaffen. 
+
+
+
+4.11.
+Het voorgaande betekent dat het objectieve technische probleem dat de uitvinding volgens conclusie 1 van EP 603 oplost kan worden geformuleerd als “het kiezen voor een alternatief voor een antineoplastisch middel dat in combinatie met exemestaan op vergelijkbare wijze werkzaam is tegen borstkanker”. 
+
+
+4.12.
+De vraag is vervolgens of de vakman zonder inventieve denkarbeid (‘would’) op de prioriteitsdatum (17 oktober 2001) zou hebben gekozen voor everolimus in plaats van de in WO 467 genoemde antineoplastische middel met de redelijke verwachting dat dit in combinatie met exemestaan werkzaam zou zijn tegen borstkanker. De voorzieningenrechter beantwoordt die vraag bevestigend en overweegt daartoe als volgt. 
+
+
+4.13.
+Alle alternatieven voor de in WO 467 besproken combinatietherapieën moeten immers als een oplossing van het gestelde probleem worden gezien zolang van die alternatieven redelijkerwijs kan worden verwacht dat ze werkzaamheid behouden een gemiddelde vakman deze in overweging zou nemen en hij ze op conventionele wijze kan synthetiseren zonder “undue burden”. Dat betekent evenzeer dat alle alternatieven die aan die voorwaarden voldoen niet inventief zijn.41 
+
+
+4.14.
+Anders gezegd bij gebreke van een reden (zoals een onverwacht verbeterd effect hetgeen bij de combinatietherapie van het octrooi niet aan de orde is zoals hiervoor overwogen) is een keuze van één alternatief dat naar verwachting werkzaamheid zal hebben tegen aBC uit vele willekeurig en aldus niet inventief te achten.42 Novartis c.s. heeft die verwachting als zodanig ook niet (voldoende) betwist. Ofschoon volgens Johnston denkbaar is dat een combinatie van middelen antagonistisch werkt is door Novartis c.s. niet aangevoerd dat dit bij everolimus in combinatie met exemestaan aan de orde was of dat de gemiddelde vakman de verwachting zou hebben gehad dat er sprake zou zijn van antagonisme. 
+
+
+4.15.
+Partijen zijn het er bovendien over eens dat de vakman vanwege de veel voorkomende en (te) vaak fatale therapie resistentie steeds op zoek is naar nieuwe therapieën waaronder combinatietherapieën. Zoals hiervoor overwogen leert WO 467 de vakman dat aromataseremmers en specifiek exemestaan niet alleen gecombineerd kunnen worden met antineoplastische middelen maar dat de combinatie van exemestaan met epirubicine dan wel docetaxel zelfs super additieve resultaten geeft bij borstkanker. Daarnaast is er op de relevante prioriteitsdatum een aantal aanwijzingen dat everolimus in combinatie werkzaam zal zijn tegen borstkanker (hoewel er in dit geval geen pointer nodig is omdat voldoende is dat de vakman everolimus als alternatief zal overwegen). Uit de beschrijving van het stofoctrooi van everolimus (EP 916: zie onder 2.2) volgt dat van rapamycine waarvan everolimus een derivaat is bekend is dat het antitumorwerking heeft: “Rapamycin is an extremely potent immunosuppressant and has also been shown to have antitumor and antifungal activity.”43 Voorts is in de beschrijving opgenomen dat everolimus in het bijzonder bruikbaar is voor: “e) Treatment of proliferative disorders e.g. tumors hyperproliferative skin disorder and the like.”44 In de literatuur in 2001 is door Yu et al. gewezen op de synergetische effecten van de combinatie van het rapamycine derivaat temserolimus (dat in de oorspronkelijke aanvrage nog specifiek wordt genoemd naast everolimus) met anti-oestrogeentherapie tegen borstkanker.45 Dat artikel rapporteerde derhalve al synergetisch gebruik van een rapamycine derivaat in combinatie met hormoontherapie bij hormoonreceptor positieve borsttumor. Uit WO 317 leert de vakman voorts dat ook everolimus in combinatie met chemotherapeutica (somatostatine-analogen specifiek octreotide) synergetisch effect vertoonde (zie onder 2.15.2 met name de tabellen). In WO 317 wordt voorts klinisch onderzoek naar borstkanker gesuggereerd (zie onder 2.15.2 met name onder “Clinical trial”).  
+
+
+4.16.
+De voorzieningenrechter acht het voorshands voldoende aannemelijk dat de vakman op de prioriteitsdatum ertoe zou worden gebracht de combinatie van everolimus met exemestaan te proberen met de verwachting dat dit in de behandeling tegen borstkanker werkzaam zou blijken. Daarmee is EP 603 niet inventief te achten en EP 246 (dat uitgaat van de combinatie van everolimus met een aromataseremmer) evenmin. 
+
+
+4.17.
+Het voorgaande betekent dat in dit kort geding moet worden aangenomen dat er een gerede dat wil zeggen serieuze niet te verwaarlozen kans bestaat dat de octrooien EP 603 en EP 246 in een bodemprocedure (of bij het EOB in oppositie/beroep) ongeldig worden geacht zodat de vorderingen van Novartis c.s. voor afwijzing gereed liggen. De voorzieningenrechter zal de vragen daar laten of sprake is van toegevoegde materie en of nu de OD EP 603 op die grond ongeldig had bevonden hangende het beroep tegen die beslissing plaats is voor een voorlopige voorziening in deze zaak. Op de uitspraak van de OD was overigens al kritiek geleverd door Birss J van de Engelse High Court in een interim injunction beslissing van 15 januari 2019 tegen Dr Reddy’s ([2019] EWHC 92 (Pat). Birss J heeft in die uitspraak de inventiviteit niet beoordeeld (de voorzieningenrechter begrijpt uit r.o. 7 dat de inventiviteit in die procedure door Dr. Reddy’s niet is betwist). 
+
+
+Proceskosten
+
+ 
+
+
+4.18.
+Novartis c.s. zal als de in het ongelijk gestelde partij worden veroordeeld in de proceskosten. Teva maakt aanspraak op vergoeding van haar volledige proceskosten overeenkomstig artikel 1019h Rv. Haar proceskosten (met specificaties onderbouwd) sluiten op € 226.566- exclusief verschotten en exclusief BTW. Nu Novartis c.s. met betrekking tot de hoogte van de kosten geen bezwaar heeft gemaakt zullen deze kosten aan de zijde van Teva worden begroot op (€ 226.566- advocaatkosten + € 639- =) € 227.205- te vermeerderen met de gevorderde wettelijke rente. 
+
+
+
+
+5 De beslissing
+De voorzieningenrechter 
+
+5.1.
+wijst de vorderingen af; 
+
+
+5.2.
+veroordeelt Novartis c.s. in de proceskosten tot dusver aan de zijde van Teva begroot op € 227.205- één en ander te voldoen binnen vijf werkdagen na de datum van dit vonnis en - voor het geval voldoening van de kosten niet binnen de gestelde termijn plaatsvindt - te vermeerderen met de wettelijke rente over de kosten te rekenen vanaf bedoelde termijn voor voldoening tot aan de dag der algehele voldoening; 
+
+
+5.3.
+verklaart de proceskostenveroordeling onder 5.2 uitvoerbaar bij voorraad. 
+
+Dit vonnis is gewezen door mr. E.F. Brinkman en in het openbaar uitgesproken op 5 juli 2019.
+
+
+
+1
+ Bedoeld zal zijn wherever
+2
+ Onderstreping voorzieningenrechter
+3
+ Bedoeld zal zijn including
+4
+ Dit is tenserolimus
+5
+ Dit is zotarolimus
+6
+ Onderstreping voorzieningenrechter
+7
+ Onderstreping voorzieningenrechter
+8
+ Onderstrepingen voorzieningenrechter
+9
+ Bedoeld is occurs
+10
+ Bedoeld is moreover
+11
+ Onderstreping voorzieningenrechter
+12
+ Onderstreping voorzieningenrechter
+13
+ In het octrooischrift is tevens de prioriteitsdatum van 19 februari 2001 opgenomen maar partijen zijn het erover eens dat enkel de prioriteitsdatum van 17 oktober 2001 geldt.
+14
+ In het octrooischrift is tevens de prioriteitsdatum van 19 februari 2001 opgenomen maar partijen zijn het erover eens dat enkel de prioriteitsdatum van 17 oktober 2001 geldt.
+15
+ Pag. 4 regel 2 t/m 19
+16
+ Pag. 4 regel 21 t/m 26
+17
+ Pag. 5 regel 21 t/m 28
+18
+ Pag. 6 regel 1 t/m 6
+19
+ Pag. 7 regel 4 t/m 13
+20
+ Pag. 8 regel 11
+21
+ Pag. 9 regel 13
+22
+ Pag. 10 laatste alinea
+23
+ Pag. 12 3e alinea; dit is everolimus voorzieningenrechter
+24
+ Pag. 12 laatste alinea en pag. 13 1e en 2e alinea
+25
+ Pag. 14 2e alinea
+26
+ Pag. 14 laatste alinea
+27
+ Pag. 15 2e alinea; “Compound B” is everolimus voorzieningenrechter
+28
+ Pag. 15 laatste alinea
+29
+ Pag. 16 laatste 2 alinea’s
+30
+ Pag. 17 2e alinea
+31
+ Pag. 18 2e alinea laatste zin; er zijn geen resultaten van een klinisch onderzoek opgenomen
+32
+ Summary of Product Characteristics
+33
+ Welke conclusies van EP 246 relevant zouden zijn is door Novartis c.s. niet gesteld maar daartegen is geen bezwaar gemaakt door Teva. De voorzieningenrechter begrijpt (ten voordele van Novartis c.s.) dat ten aanzien van beide conclusies (indirecte) inbreuk wordt gesteld.
+34
+ Verordening (EU) 1215/2012 van het Europees Parlement en de Raad van 12 december 2012 betreffende de rechterlijke bevoegdheid de erkenning en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken
+35
+ Rijksoctrooiwet 1995
+36
+ Zie Rechtbank Den Haag 27 juli 2016 ECLI:NL:RBDHA:2016:8596 (http://www.legalintelligence.com/documents/21022455?srcfrm=basic+search&docindex=1&stext=ECLI%3ANL%3ARBDHA%3A2016%3A8596&rid=9786e92b-d4a7-47ad-8c21-c4ee1ecd62bb) (Accord Healthcare / Medac Gesellschaft für klinische spezialpräparate) r.o. 4.3
+37
+ Problem and Solution Approach
+38
+ Zie WO 019 pagina's 18 en 19.
+39
+ Dit is het argument aangaande toegevoegde materie waarbij (met name) de in r.o. Fout! Verwijzingsbron niet gevonden. onderstreepte passages een rol spelen.
+40
+ Rechtbank Den Haag 2 oktober 2013 ECLI:NL:RBDHA:2013:15067 (Irbesartan) r.o. 4.6
+41
+ Zie de volgende uitspraken van de Technische Kamers van beroep van het EOB: T0821/97 r.o. 6.4; T0852/91 r.o. 8.2; T0892/08 r.o. 1.7; T0964/92 r.o. 2.10 T0879/05 r.o. 5.3 T0631/06 r.o. 2.3.10.
+42
+ Zie de Irbesartan-uitspraak voetnoot 40 r.o. 4.16-4.17 en de daarin genoemde lange lijn van TKB uitspraken : T0892/08 r.o. 1.7; T0964/92 r.o. 2.10 T0879/05 r.o. 5.3 T0631/06 r.o. 2.3.10 T0345/07 r.o. 4.7.3 T0012/07 r.o. 416 T0423/08 r.o. 2.3.5 T0931/04 r.o. 4.11.1.
+43
+ EP 916 pagina 2 regels 38 en 39
+44
+ EP 916 pagina 4 regel 12
+45
+ Productie GP67 annex 12 pag. 256

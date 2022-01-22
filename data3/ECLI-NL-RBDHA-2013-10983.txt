@@ -1,0 +1,892 @@
+
+
+vonnis
+RECHTBANK DEN HAAG
+
+Team handel – voorzieningenrechter
+ 
+
+zaaknummer / rolnummer: C/09/447111 / KG ZA 13-854
+ 
+
+
+Vonnis in kort geding van 15 augustus 2013
+
+ 
+
+in de zaak van
+ 
+
+de vennootschap naar buitenlands recht
+
+ASTRAZENECA AB
+gevestigd te Södertälje Zweden
+eiseres
+advocaten: mr. W.A. Hoyng en mr. J.M.J.A. Krens te Amsterdam
+ 
+
+tegen
+ 
+
+de besloten vennootschap met beperkte aansprakelijkheid
+
+SANDOZ B.V.
+gevestigd te Weesp
+gedaagde
+advocaten: mr. P. Burgers en mr. N. Wiersma te Amsterdam.
+ 
+
+Partijen zullen hierna AstraZeneca en Sandoz genoemd worden. De raadslieden van AstraZeneca  zijn bijgestaan door dr. J.H.J. den Hartog octrooigemachtigde.
+ 
+
+
+
+1 De procedure
+
+1.1.
+Het verloop van de procedure blijkt uit:
+
+-
+de dagvaarding van 19 juli 2013 met 14 producties;
+
+-
+de bij brief van 25 juli 2013 op voorhand toegezonden conclusie van antwoord van Sandoz met 5 producties; 
+
+-
+de door Sandoz op 26 juli 2013 toegezonden aanvullende producties 6 tot en met 10; 
+
+-
+de van beide zijden op 26 juli 2013 ontvangen kostenspecificaties;
+
+-
+de mondelinge behandeling op 30 juli 2013 ter gelegenheid waarvan de raadslieden pleitaantekeningen hebben overgelegd.
+
+
+
+
+1.2.
+Ten slotte is vonnis bepaald op heden.  
+
+
+
+
+2 De feiten
+
+2.1.
+AstraZeneca is een in Zweden gevestigde onderneming behorend tot het AstraZeneca-concern dat zich bezighoudt met de ontwikkeling van innovatieve geneesmiddelen. Zij is houdster van het Europees octrooi EP 0 907 364 voor Sustained release pharmaceutical compositions comprising a dibenzothiazepine derivative (hierna: EP 364 of het octrooi). Het octrooi is onder meer van kracht in Nederland. EP 364 is verleend op 14 augustus 2002 op basis van een aanvrage van 27 mei 1997 en doet een beroep op prioriteit van de Engelse octrooiaanvrage GB 96 11328 van 31 mei 1996. Er is geen oppositie ingesteld tegen de verlening van EP 364.  
+
+
+2.2.
+De conclusies van EP 364 luiden in de authentieke (Engelse) taal als volgt.  
+
+1. A sustained release formulation comprising a gelling agent and 11-[4-[2-(2-hydroxyethoxy)ethyl]-1-piperazinyl]dibenzo-[bf][14]thiazepine or a pharmaceutically acceptable salt thereof together with one or more pharmaceutically acceptable excipients. 
+ 
+
+2. A sustained release formulation according to claim 1 such that 11-[4-[2-(2-hydroxyethoxy)ethyl]-1-piperazinyl]dibenzo-[bf][14]thiazepine or a pharmaceutically acceptable salt thereof is released from the formulation in a controlled fashion over a period of between 8 and 24 hours so that at least 60% of 11-[4-[2-(2-hydroxyethoxy) ethyl]-1-piperazinyl]dibenzo-[bf][14]thiazepine or a pharmaceutically acceptable salt thereof has been released at the end of this period. 
+ 
+
+3. A sustained release formulation according to claim 1 or claim 2 wherein the gelling agent is hydroxypropyl methylcellulose. 
+ 
+
+4. A sustained release formulation according to claim 3 comprising about 5 to 50% by weight of a hydroxypropyl methylcellulose selected from the group consisting of (a) a hydroxypropyl methylcellulose having a viscosity of about 40 to 60 cps a methoxy content of about 28 to 30% by weight and a hydroxypropoxy content of from about 7 to less than 9% by weight (b) a hydroxypropyl methylcellulose having a viscosity of about 3500 to 5600 cps a methoxy content of about 28 to 30% by weight and a hydroxypropoxy content of about 7 to 12% by weight (c) a hydroxypropyl methylcellulose having a viscosity of about 80 to 120 cps a methoxy content of about 19 to 24% by weight and a hydroxypropoxy content of from about 7 to less than 9% by weight and (d) a hydroxypropyl methylcellulose having a viscosity of about 3500 to 5600 cps a methoxy content of about 19 to 24% by weight and a hydroxypropoxy content of about 7 to 12% by weight or mixtures thereof. 
+ 
+
+5. A sustained release formulation according to claim 3 comprising about 5 to 50% by weight of a hydroxypropyl methylcellulose selected from the group consisting of (a) a hydroxypropyl methylcellulose having a viscosity of about 40 to 60 cps a methoxy content of about 28 to 30% by weight and a hydroxypropoxy content of from about 7 to less than 9% by weight (b) a hydroxypropyl methylcellulose having a viscosity of about 3500 to 5600 cps a methoxy content of about 28 to 30% by weight and a hydroxypropoxy content of about 7 to 12% by weight (c) a hydroxypropyl methylcellulose having a viscosity of about 80 to 120 cps a methoxy content of about 19 to 24% by weight and a hydroxypropoxy content of from about 7 to less than 9% by weight and (d) a hydroxypropyl methylcellulose having a viscosity of about 3500 to 5600 cps a methoxy content of about 19 to 24% by weight and a hydroxypropoxy content of about 7 to 12% by weight or mixtures thereof with the proviso that if the formulation contains a hydroxypropyl methylcellulose described under (d) above the total amount of hydroxypropyl methylcellulose present in the formulation must be greater than 25.8% by weight. 
+ 
+
+6. A sustained release formulation according to claim 4 or claim 5 comprising about 5 to 40% by weight of a hydroxypropyl methylcellulose selected from the group consisting of (a) - (d) or mixtures thereof. 
+ 
+
+7. A sustained release formulation according to claim 6 comprising about 8 to 35% by weight of a hydroxypropyl methylcellulose selected from the group consisting of (a) - (d) or mixtures thereof. 
+ 
+
+8. A formulation according to claim 7 comprising about 10 to 30% by weight of a hydroxypropyl methylcellulose selected from the groups (a) - (d) or mixtures thereof. 
+ 
+
+9. A formulation according to claim 8 comprising about 15 to 30% by weight of a hydroxypropyl methylcellulose selected from the groups (a) - (d) or mixtures thereof. 
+ 
+
+10. A formulation according to anyone of claims 1-9 wherein 11-[4-[2-(2-hydroxyethoxy)ethyl]-1-piperazinyl]dibenzo[bf][14]thiazepine or a pharmaceutically acceptable salt thereof is present in about 35 to 65% by weight. 
+ 
+
+11. A formulation according to claim 10 wherein the amount of hydroxypropyl methylcellulose is about 5 to 40%. 
+ 
+
+12. A formulation according to claims 1-11 wherein the one or more pharmaceutically acceptable excipients are selected from the group consisting of microcrystalline cellulose lactose magnesium stearate sodium citrate and povidone. 
+ 
+
+13. A formulation according to claim 12 wherein the one or more pharmaceutically acceptable excipients are selected from the group consisting of (a) about 4 to 20% by weight of microcrystalline cellulose (b) about 5 to 20% by weight of lactose (c) about 1 to 3% by weight of magnesium stearate (d) about 10 to 30% by weight of sodium citrate 15 and (e) about 1 to 15% by weight of povidone. 
+ 
+
+14. A formulation according to anyone of claims 1-13 wherein one of the one or more pharmaceutically acceptable excipients is a pH modifier. 
+ 
+
+15. A formulation according to claim 14 wherein the pH modifier is sodium citrate. 
+ 
+
+16. A formulation According to any of claims 1-15 wherein 11-[4-[2-(2-hydroxyethoxy)ethyl]-1-piperazinyl]dibenzo[bf] [14]thiazepine is in the form of a hemifumarate salt. 
+ 
+
+17. A formulation according to any one of claims 1-16 wherein the formulation is coated. 
+ 
+
+18. The use of a formulation according to any one of claims 1-17 in the manufacture of a medicament for treating psychotic states or hyperactivity in a warm-blooded animal. 
+ 
+
+19. A process for preparing a formulation according to any one of claims 1-17 which comprises mixing 11-[4-[2-(2-hydroxyethoxy) ethyl]-1-piperazinyl] - dibenzo[bf][l14]thiazepine or a pharmaceutically acceptable salt thereof a gelling agent and other excipients. 
+ 
+
+20. A process for preparing a formulation according to any one of claims 1-17 which comprises: 
+(a)	mixing 11-[4-[2-(2-hydroxyethoxy)ethyl]-1-piperazinyl]-dibenzo[bf][14]thiazepine or a pharmaceutically acceptable salt thereof a gelling agent and other excipients; 
+(b)	wet granulating the mixed components; 
+(c)	drying the mixture; 
+(d)	milling the dried mixture; 
+(e)	blending the mixture with a lubricant; and 
+(f)	compressing the blended mixture to form tablets and optionally coating said tablets. 
+ 
+
+
+3.5.
+De conclusies van EP 364 luiden in de Nederlandse vertaling als volgt.  
+
+1. Formulering voor gereguleerde afgifte omvattende een geleermiddel en 11-[4-][2-(2-hydroxyethoxy)ethyl]-1-piperazinyl] dibenzo[bf][14]-thiazepine of een farmaceutisch aanvaardbaar zout daarvan samen met één of meer farmaceutisch aanvaardbare excipiënten. 
+ 
+
+2. Formulering voor gereguleerde afgifte volgens conclusie 1 zodanig dat 11-[4-][2-(2-hydroxyethoxy)ethyl]-1 piperazynyl] dibenzo[bf][14]-thiazepine of een farmaceutisch aanvaardbaar zout daarvan uit de formulering wordt afgegeven op een geregelde wijze gedurende een periode tussen 8 en 24 uur zodanig dat ten minste 60% van 11-[4-][2-(2-hydroxyethoxy)ethyl]-1-piperazinyl]dibenzo[bf][14]-thiazepine of een farmaceutisch aanvaardbaar zout daarvan aan het einde van deze periode is afgegeven. 
+ 
+
+3. Formulering voor gereguleerde afgifte volgens conclusie 1 of conclusie 2 waarbij het geleermiddel hydroxypropylmethylcellulose is. 
+ 
+
+4. Formulering voor gereguleerde afgifte volgens conclusie 3 omvattende ongeveer 5 tot 50% gew.% van een hydroxypropylmethylcellulose gekozen uit de groep bestaande uit (a) een hydroxypropylmethylcellulose met een viscositeit van ongeveer 40 to 60 cps een methoxygehalte van ongeveer 28 to 30% gew.% en een hydroxypropoxygehalte van ongeveer 7 tot kleiner dan 9 gew.%; (b) een hydroxypropylmethylcellulose met een viscositeit van ongeveer 3500 tot 5600 cps een methoxygehalte van ongeveer 28 tot 30 gew.% en een hydroxypropoxygehalte van ongeveer 7 tot 12 gew.%; (c) een hydroxypropylmethylcellulose met een viscositeit van ongeveer 80 tot 120 cps een methoxygehalte van ongeveer 19 tot 24 gew.% en een hydroxypropoxy-gehalte van ongeveer 7 tot kleiner dan 9 gew.% en (d) een hydroxypropylmethylcellulose met een viscositeit van ongeveer 2500 tot 5600 cps een methoxygehalte van ongeveer 19 tot 24 gew.% en een hydroxypropoxygehalte van ongeveer 7 tot 12 gew.% of mengsels daarvan. 
+ 
+
+5. Formulering voor gereguleerde afgifte volgens conclusie 3 omvattende ongeveer 5 tot 50 gew.% van een hydroxypropylmethylcellulose gekozen uit de groep bestaande uit (a) een hydroxypropylmethylcellulose met een viscositeit van ongeveer 40 tot 60 cps een methoxygehalte van ongeveer 28 tot 30 gew.% en een hydroxypropoxygehalte van ongeveer 7 tot kleiner dan 9 gew.%; (b) een hydroxypropylmethylcellulose met een viscositeit van ongeveer 3500 tot 5600 cps een methoxygehalte van ongeveer 28 tot 30 gew.% en een hydroxypropoxygehalte van ongeveer 7 tot 12 gew.%; (c) een hydroxypropylmethylcellulose met een viscositeit van ongeveer 80 tot 120 cps een methoxygehalte van ongeveer 19 tot 24 gew.% en een hydroxypropoxygehalte van ongeveer 7 tot kleiner dan 9 gew.% en (d) een hydroxypropylmethylcellulose met een viscositeit van ongeveer 3500 tot 5600 cps een methoxygehalte van ongeveer 19 tot 24 gew.% en een hydroxypropoxygehalte van ongeveer 7 tot 12 gew.% of een mengsels daarvan met dien verstande dat als de formulering een hydroxypropylmethylcellulose beschreven onder (d) hierboven bevat de totale hoeveelheid hydroxypropylmethylcellulose aanwezig in de formulering groter dan 258 gew.% moet zijn. 
+ 
+
+6. Formulering voor gereguleerde afgifte volgens conclusie 4 of conclusie 5 omvattende ongeveer 5 tot 40 gew.% van een hydroxypropylmethylcellulose gekozen uit de groep bestaande uit (a) – (d) of mengsels daarvan. 
+ 
+
+7. Formulering voor gereguleerde afgifte volgens conclusie 6 omvattende ongeveer 8 tot 35 gew.% van een hydroxypropylmethylcellulose gekozen uit de groep bestaande uit (a) – (d) of mengsels daarvan. 
+ 
+
+8. Formulering voor gereguleerde afgifte volgens conclusie 7 omvattende ongeveer 10 tot 30 gew.% van een hydroxypropylmethylcellulose gekozen uit de groep bestaande uit (a) – (d) of mengsels daarvan. 
+ 
+
+9. Formulering voor gereguleerde afgifte volgens conclusie 8 omvattende ongeveer 15 tot 30 gew.% van een hydroxypropylmethylcellulose gekozen uit de groep bestaande uit (a) – (d) of mengsels daarvan. 
+ 
+
+10. Formulering volgens één der conclusies 1-9 waarbij 11-[4-][2-(2-hydroxyethoxy)ethyl]-1-piperazinyl]dibenzo[bf][14]-thiazepine of een farmaceutisch aanvaardbaar zout daarvan aanwezig is in ongeveer 35 tot 65 gew.%. 
+ 
+
+11. Formulering volgens conclusie 10 waarbij de hoeveelheid hydroxypropylmethylcellulose ongeveer 5 tot 40% is. 
+ 
+
+12. Formulering volgens één der conclusies 1-11 waarbij de één of meer farmaceutisch aanvaardbare excipiënten worden gekozen uit de groep bestaande uit microkristallijne cellulose lactose magnesiumstearaat natriumcitraat en Povidone. 
+ 
+
+13. Formulering volgens conclusie 12 waarbij de één of meer farmaceutisch aanvaardbare excipiënten worden gekozen uit de groep bestaande uit (a) ongeveer 4 tot 20 gew.% microkristallijne cellulose (b) ongeveer 5 tot 20 gew.% lactose (c) ongeveer 1 tot 3 gew.% magnesiumstearaat (d) ongeveer 10 tot 30 gew.% natriumcitraat en (e) ongeveer 1 tot 15 gew.% Povidone. 
+ 
+
+14. Formulering volgens één der conclusies 1-13 waarbij de één of meer farmaceutisch aanvaardbare excipiënten een pH-modificator is. 
+ 
+
+15. Formulering volgens conclusie 14 waarbij de pH-modificator natriumcitraat is. 
+ 
+
+16. Formulering volgens één der conclusies 1-15 waarbij 11-[4-][2-(2-hydroxyethoxy)ethyl]-1-piperazinyl]dibenzo[bf][14]-thiazepine in de vorm van een hemifumaraatzout is. 
+ 
+
+17. Formulering volgens één der conclusies 1-16 waarbij de formulering bekleed is. 
+ 
+
+18. Toepassing van een formulering volgens één der conclusies 1-17 bij de productie van een geneesmiddel voor het behandelen van psychotische toestanden of hyperactiviteit bij een warmbloeding dier. 
+ 
+
+19. Werkwijze voor het bereiden van een formulering volgens één der conclusies 1-17 welke omvat het mengen van 11-[4-][2-(2-hydroxyethoxy)ethyl]-1-piperazinyl]dibenzo[bf][14]-thiazepine of een farmaceutisch aanvaardbaar zout daarvan een geleermiddel en andere excipiënten. 
+ 
+
+20. Werkwijze voor het bereiden van een formulering volgens één der conclusies 1-17 welke omvat: 
+(a)	het mengen van 11-[4-][2-(2-hydroxyethoxy)ethyl]-1-piperazinyl]dibenzo[bf][14]-thiazepine of een farmaceutisch aanvaardbaar zout daarvan een geleermiddel en andere excipiënten; 
+(b)	het nat granuleren van de gemengde bestanddelen; 
+(c)	het drogen van het mengsel; 
+(d)	het malen van het gedroogde mengsel; 
+(e)	het mengen van het mengsel met een smeermiddel; en 
+(f)	het comprimeren van het gemengde mengsel om tabletten te vormen en eventueel het bekleden van genoemde tabletten. 
+ 
+
+
+2.3.
+De in EP 364 geoctrooieerde uitvinding ziet kort gezegd op een formulering voor gereguleerde afgifte omvattende een geleermiddel en de werkzame stof quetiapine of een farmaceutisch aanvaardbaar zout daarvan samen met één of meer farmaceutisch aanvaardbare excipiënten alsmede de toepassing van een dergelijke formulering bij de productie van een geneesmiddel en een werkwijze voor de bereiding ervan.  
+
+
+2.4.
+De beschrijving van EP 364 bevat onder meer de navolgende passages:  
+
+(…) 
+[0002] It is desirable in the treatment of a number of diseases both therapeutically and prophylactically to provide an active pharmaceutical ingredient in a sustained release form. Desirably the sustained release provides a generally uniform and constant rate of release over an extended period of time which achieves a stable and desired blood (plasma) level of the active ingredient without the need for frequent administration of the medicament. 
+[0003] While there are numerous sustained release formulations known in the art which utilize gelling agents such as hydroxypropyl methylcelluloses it has been found to be difficult to formulate sustained release formulations of soluble medicaments and gelling agents such as hydroxypropyl methylcellulose for several reasons. First of all active ingredients which are soluble in water tend to generate a sustained release product which is susceptible to a phenomenon known as dose dumping. That is release of the active ingredient is delayed for a time but once release begins to occur the rate of release is very high. Moreover fluctuations tend to occur in the plasma concentrations of the active ingredient which increases the likelihood of toxicity. Further some degree of diurnal variation in plasma concentration of the active ingredient has also been observed. Finally it has been found to be difficult to achieve the desired dissolution profiles or to control the rate of release of the soluble medicament. 
+[0004] Accordingly a need exists for sustained release formulations of soluble medicaments such as 11-[4-][2-(2-hydroxyethoxy)ethyl]-1-piperazinyl]-dibenzo[bf][14]thiazepine or a pharmaceutically acceptable salt which overcome or at least alleviate one or more of the above described difficulties and which further provide the advantageous property of allowing the active medicament to be administered less frequently e.g. once a day while achieving blood (plasma) levels similar to those attained by administering smaller doses of the medicament more frequently e.g. two or more times daily. (…) 
+[0007] The compound (…) and its pharmaceutically acceptable salts exhibit useful antidopaminergic activity and may be used for example as an antipsychotic agent (for example for the management of the manifestations of psychotic disorders) or as a treatment for hyperactivity. (…) 
+[0008] The preparation physical properties and beneficial pharmacological properties of 11-[4-][2-(2-hydroxyethoxy)ethyl]-1-piperazinyl]-dibenzo[bf][14]thiazepine are described in published European patents EP 240228 and 282236 as well as in U.S. Patent 4879288. 
+(…) 
+ 
+
+
+2.5.
+AstraZeneca brengt onder de naam Seroquel IR (formulering voor onmiddellijke afgifte) en Seroquel XR (formulering voor gereguleerde of vertraagde afgifte) een geneesmiddel met quetiapine op de markt dat wordt voorgeschreven voor de behandeling van onder meer schizofrenie. 
+
+
+2.6.
+Sandoz is een onderdeel van de Novartis-groep een groep van ondernemingen actief op het gebied van zowel innovatieve als generieke geneesmiddelen. Sandoz houdt zich bezig met de verkoop van generieke geneesmiddelen in Nederland.  
+
+
+2.7.
+Voor deze rechtbank is tussen AstraZeneca enerzijds en (onder meer) Sandoz anderzijds eerder een procedure gevoerd met betrekking tot de geldigheid van EP 364. De rechtbank oordeelde bij vonnis van 7 maart 2012 in die (bodem)procedure dat EP 364 geldig is. Dat vonnis omvat onder meer de volgende overwegingen. 
+
+
+recht op prioriteit 
+
+ 
+
+
+5.1.
+Sandoz c.s. heeft allereerst aangevoerd dat EP 364 met uitzondering van conclusie 3 en de daarvan afhankelijke conclusies 4-9 geen prioriteit op grond van GB 328 toekomt omdat het prioriteitsdocument niet direct en ondubbelzinnig een vertraagde afgifte formulering openbaart anders dan met HPMC als gelling agent. Voor de overige conclusies heeft daarom de indieningsdatum van 27 mei 1997 te gelden als relevante datum voor de beoordeling van de inventiviteit. AstraZeneca heeft dit bestreden maar overigens gesteld dat het gelet op de door Sandoz c.s. ingeroepen stand van de techniek niet uitmaakt of van de prioriteitsdatum dan wel de indieningsdatum wordt uitgegaan en heeft zelf laatstgenoemde datum gehanteerd. De rechtbank zal in navolging daarvan eveneens uitgaan van 27 mei 1997 als relevante datum voor de beoordeling van de inventiviteit van het octrooi.  
+
+
+gemiddelde vakman 
+
+ 
+
+
+5.2.
+Partijen zijn het erover eens dat de gemiddelde vakman een team is bestaande uit een clinicus op het gebied van psychische stoornissen (psychiater) en een formuleringsdeskundige. Sandoz c.s. stelt dat daarnaast ook een klinisch farmacoloog en marketing mensen van het team deel zouden uitmaken. Wat daarvan zij uit de stellingen van Sandoz c.s. noch de stukken blijkt dat dit voor de beoordeling van onderhavige zaak van enig belang zou zijn.  
+
+
+Uitgangspunt bij de beoordeling van de inventiviteit 
+
+ 
+
+
+5.3.
+Sandoz c.s. stelt zich op het standpunt dat de beoordeling van de inventiviteit plaats dient te vinden aan de hand van de problem-solution approach. Zij meent dat een (onmiddellijke afgifte) formulering van quetiapine of een farmaceutisch aanvaardbaar zout daarvan zoals bijvoorbeeld beschreven in voorbeeld A van EP 288 of in Gefvert als meest nabije stand van de techniek moet worden beschouwd. Het objectieve probleem formuleert zij dan als ‘het verkrijgen van een formulering die een stabiele en gewenste concentratie quetiapine tot stand brengt zonder de noodzaak van veelvuldige toediening van het geneesmiddel’.  
+
+
+5.4.
+Volgens Sandoz c.s. lag het uitgaande van die probleemstelling op de indieningsdatum voor de gemiddelde vakman voor de hand om voor een vertraagde afgifte matrixformulering van quetiapine met een geleermiddel te kiezen. Zij verwijst ter onderbouwing daarvan naar passages uit Remington1en passages uit Aulton2 alsmede naar productdocumentatie van Dow Chemicals3. De kennis uit die publicaties behoorde volgens Sandoz c.s. op de indieningsdatum tot de algemene vakkennis van de gemiddelde vakman.  
+
+
+5.5.
+
+Het betoog van Sandoz c.s. komt er kort gezegd op neer dat op de indieningsdatum de gemiddelde vakman wist: 
+- dat quetiapine een veelbelovend nieuw atypisch antipsychoticum was dat zowel werkzaam was tegen de positieve als ook de negatieve symptomen van schizofrenie waarbij de aan typische antipsychotica verbonden bijwerkingen zich niet of in veel mindere mate voordeden; 
+- dat vertraagde afgifte formuleringen diverse voordelen boden die therapietrouw vergroten in het bijzonder (i) dat de plasmaconcentratie langer binnen het therapeutisch bereik blijft waardoor minder frequent hoeft worden toegediend en (ii) dat vertraagde afgifte een lagere piek in het bloedplasma afgifte profiel geeft – wat de kans op bijwerkingen verkleint4; 
+- dat matrixformuleringen gemakkelijk te maken zijn en HPMC een zeer geschikt en veel gebruikt geleermiddel is om een hydrofiele matrix te vormen. 
+Die kennis zou de gemiddelde vakman ertoe aanzetten een vertraagde afgifte formulering van quetiapine te maken en hij zou dan zonder inventieve denkarbeid komen tot de formulering van conclusie 1 van het octrooi. 
+ 
+
+
+5.6.
+AstraZeneca heeft de juistheid van het door Sandoz c.s. gekozen uitgangspunt voor de beoordeling van de inventiviteit zoals hiervoor uiteengezet gemotiveerd bestreden. De rechtbank kan de juistheid daarvan in het midden laten omdat ook indien zou worden uitgegaan van het door Sandoz c.s. verdedigde uitgangspunt het standpunt van Sandoz c.s. dat het octrooi inventiviteit ontbeert moet worden verworpen. Naar het oordeel van de rechtbank was er op de indieningsdatum voor de gemiddelde vakman hooguit een beperkte motivatie om van quetiapine een andere formulering te ontwikkelen dan een onmiddellijke afgifte formulering. Tegelijkertijd bestond minst genomen veel onzekerheid of hij een klinisch voldoende werkzame vertraagde afgifte formulering van quetiapine zou kunnen verkrijgen. Daarom kan naar het oordeel van de rechtbank niet worden aangenomen dat de gemiddelde vakman de weg van het ontwikkelen van een vertraagde afgifte formulering van quetiapine in zou slaan. Dat wordt hierna toegelicht.  
+
+
+5.7.
+De rechtbank neemt tot uitgangspunt dat bij de beoordeling van de inventiviteit van het octrooi ook indien de problem-solution-appraoch wordt toegepast de vraag moet worden beantwoord of de gemiddelde vakman – uitgaande van alle kennis waarover hij op de indieningsdatum beschikte – gemotiveerd was een vertraagde afgifte formulering van quetiapine te ontwikkelen en of hij een redelijke verwachting van succes te weten dat dit tot de oplossing van het objectieve probleem zou leiden zou hebben. Daarbij geldt dat motivatie enerzijds en redelijke verwachting van succes anderzijds communicerende vaten zijn in die zin dat bij een sterke motivatie een minder hoge verwachting van succes voldoende zal zijn voor de vakman terwijl bij weinig motivatie een hoge verwachting van succes nodig zal zijn. Wat een ‘redelijke’ verwachting is hangt met andere woorden af van de mate van motivatie. Gegeven dit uitgangspunt kan niet als juist worden aanvaard de stelling van Sandoz c.s. dat vanwege het feit dat in onderhavige zaak maar één oplossing voorhanden is – welk standpunt zoals hierna wordt overwogen overigens wordt verworpen – verwachting van succes niet relevant zou zijn behoudens in het geval van het bestaan van een vooroordeel.  
+
+
+5.8.
+Sandoz c.s. kan evenmin worden gevolgd in haar standpunt dat de verwachting omtrent de klinische werkzaamheid van de beoogde formulering geen invloed heeft op de ‘verwachting van succes’. Sandoz c.s. interpreteert de verwachting van succes hier te beperkt als ‘de verwachting van de vakman in staat te zijn een formulering te maken die quetiapine trager afgeeft dan een IR formulering’. Uitgaande van het door haar geformuleerde objectieve probleem kan er alleen sprake zijn van succes als de formulering ook “de gewenste concentratie quetiapine tot stand brengt” (zie hierboven r.o. 5.2 [moet zijn: 5.3; vznr]).5Nu het gaat om de alternatieve formulering van een bestaand geneesmiddel dat vanzelfsprekend klinisch werking beoogt kan in zijn algemeenheid bezwaarlijk worden aangenomen dat de gemiddelde vakman meent succes te hebben indien hij een formulering heeft ontwikkeld die weliswaar een stabieler plasmaniveau oplevert en minder vaak hoeft te worden ingenomen dan de reeds bekende formulering maar geen klinisch relevante werkzaamheid heeft of een klinische werkzaamheid die substantieel lager is dan die van het bestaande geneesmiddel. De partijdeskundige aan de zijde van Sandoz c.s. Dr. P.J. Rue gaat daar overigens ook niet vanuit waar hij verklaart dat een reduction of dose frequency while retaining therapeutic activity and/or lowering side effects [onderstreping Rb] voordelen zijn die mogelijk met een vertraagde afgifte formulering kunnen worden bereikt.  
+
+
+Motivatie 
+
+ 
+
+
+5.9.
+AstraZeneca bestrijdt – naar het oordeel van de rechtbank terecht – niet dat de gemiddelde vakman wanneer een geneesmiddel in een onmiddellijke afgifte formulering zich in de klinische praktijk heeft bewezen als veilig en werkzaam in het algemeen gemotiveerd zal zijn te onderzoeken of voor dat geneesmiddel een vertraagde afgifte formulering kan worden ontwikkeld omdat daar de door Sandoz c.s. genoemde voordelen aan kunnen zijn verbonden. In die – algemene – zin moet ook paragraaf 2 van de beschrijving van het octrooi worden begrepen. Op de indieningsdatum was quetiapine echter niet een geneesmiddel dat zich in de klinische praktijk had bewezen. De resultaten van het Fase III klinisch onderzoek waren recent gepubliceerd. Een handelsvergunning voor quetiapine was echter nog niet verkregen en ervaringen met het geneesmiddel bij grootschalig en langdurig gebruik waren er dus nog niet. Astrazeneca heeft onweersproken aangevoerd dat de gemiddelde vakman dan weet dat het risico bestaat dat zich in de praktijk bij langdurig gebruik problemen kunnen gaan voordoen met het geneesmiddel doordat het onvoldoende werkzaam blijkt of zich ernstige bijwerkingen voordoen zoals bijvoorbeeld bij clozapine het geval was6. De gemiddelde vakman zal daarom terughoudend zijn met de ontwikkeling van een alternatieve formulering van zo’n geneesmiddel en alleen daartoe overgaan indien hij sterk gemotiveerd is een vertraagde afgifte formulering van quetiapine te gaan ontwikkelen of een hoge verwachting van succes daarvan heeft.  
+
+
+quetiapine veelbelovende stof 
+
+ 
+
+
+5.10.
+Volgens Sandoz c.s. lag het voor de hand dat de gemiddelde vakman juist voor quetiapine een vertraagde afgifte formulering wilde ontwikkelen omdat op de indieningsdatum quetiapine bekend stond als een veelbelovend antipsychoticum. Sandoz c.s. heeft daarbij onder meer verwezen naar het persbericht van AstraZeneca. Daarin wordt gesteld dat Seroquel should offer substantial benefits in the management of schizophrenia dat ‘Seroquel’ represents a potentially important part of Zeneca’s future product portfolio en verder dat results indicate that ‘Seroquel’ was effective and well tolerated with a convenient twice daily dosage. Daargelaten dat in het persbericht nog de nodige slagen om de arm worden gehouden (should offer potentially important en results indicate) is een persbericht geen wetenschappelijke publicatie en zou de gemiddelde vakman niet enkel daarop afgaan. Casey 1996 is naar aanleiding van de Safari-studie (Fase III klinische studie) voorzichtig positief maar stelt ook dat nader onderzoek nodig is: The profile for quetiapine that is emerging shows promise with respect to efficacy and side effects and thus may improve compliance reduce hospitalization and enhance quality of life. These findings need to be replicated and developed further with additional investigations. Issues of efficacy in treatment-resistent patients for relapse prevention and cost-effectiveness in terms of treatment outcome remain to be explored. Hoewel Casey 1996 suggereert dat de optimale dosering voor een onmiddellijke afgifte tablet van quetiapine 300 mg/dag bedraagt wist de gemiddelde vakman uit Wetzel7dat uit een (kleinschalig) klinisch onderzoek was gebleken dat voor de meerderheid van de patiënten een dosering van 750 mg/dag onvoldoende effectief was. Onbekend was nog of een hogere dosering tot aanvaardbare resultaten zou leiden in de zin van effectiviteit en bijwerkingen. Naar het oordeel van de rechtbank zouden die onzekerheden de gemiddelde vakman terughoudend maken om in zo’n vroeg stadium – nog voordat in de praktijk ervaring was opgedaan met de onmiddellijke afgifte formulering – aan de ontwikkeling van een vertraagde afgifte formulering van quetiapine te beginnen.  
+
+
+Eenmaal daagse toediening 
+
+ 
+
+
+5.11.
+Volgens Sandoz c.s. zou voor geneesmiddelen voor de behandeling van psychische stoornissen in het algemeen en schizofrenie in het bijzonder een eenmaal daagse toediening van belang zijn om de therapietrouw te vergroten. Op de indieningsdatum ging de gemiddelde vakman ervan uit dat een eenmaal daagse onmiddellijke afgifte formulering van quetiapine niet haalbaar zou zijn vanwege de korte halfwaardetijd van quetiapine van 3-5 uur waardoor toediening meerdere malen per dag nodig zou zijn om de voor een goede werkzaamheid toereikende plasmaconcentratie quetiapine te kunnen handhaven. Om toch een eenmaal daagse dosering mogelijk te maken zou de gemiddelde vakman daarom een vertraagde afgifte formulering met quetiapine willen ontwikkelen aldus Sandoz c.s.  
+
+
+5.12.
+De rechtbank is met AstraZeneca van oordeel dat in het licht van de stand van de techniek op de indieningsdatum niet als juist kan worden aanvaard dat de gemiddelde vakman een eenmaal daagse onmiddellijke afgifte formulering van quetiapine onmogelijk achtte. Gefvert meldt na onderzoek naar D2 en 5HT2 receptorbezetting en plasmaconcentratie bij gebruik van Seroquel dat een tweedaagse of zelfs eendaagse toediening mogelijk werd geacht: Once to twice daily dosing may therefore maintain sufficient 5HT2/D2 receptor occupancy for therapeutic benefit (…). Ook Fleischhacker8vermeldt bij zijn bespreking van de resultaten van het Fase III klinische onderzoek met quetiapine: Binding studies in man using PET indicate that ‘Seroquel’ should be active if given one to two times daily.  
+
+
+5.13.
+Sandoz c.s. heeft daarover opgemerkt dat de gemiddelde vakman sceptisch tegenover die conclusie zou staan omdat – naar hij weet – de plasma halfwaardetijd van quetiapine en de gerapporteerde afname in D2 receptorbezetting aangeven dat ten minste tweemaal daags moet worden toegediend. De rechtbank acht dat onjuist. Ten tijde van de indieningsdatum bestond onzekerheid over de plasma halfwaardetijd – de Practice Guideline9vermeldt 69 uur Casey 199610ca. 6 uur en Fabre11ca. 3 uur – en bovenal was er onduidelijkheid over het werkingsmechanisme van quetiapine. De gemiddelde vakman zou daarom de opmerking van Gefvert over de mogelijke doseringfrequentie niet zonder meer als onjuist terzijde schuiven vanwege de enkele reden dat hij die niet direct kan rijmen met de – nog niet zekere – plasma halfwaardetijd en de gerapporteerde D2 bezettingsgraad. Eerder zou de gemiddelde vakman uit de opmerking van Gefvert afleiden dat een eenmaal daagse onmiddellijke afgifte dosering minst genomen niet uitgesloten moet worden geacht. In Hirsch12 die een eenmaal daagse toediening van quetiapine in ratten beschrijft – waarvan de voorspellende waarde voor mensen door Sandoz c.s. niet gemotiveerd is bestreden – zou de gemiddelde vakman bovendien een aanwijzing vinden dat een eenmaal daagse toediening van quetiapine mogelijk kan zijn.  
+
+
+5.14.
+Reeds daarom al kan niet als juist worden aanvaard de stelling van Sandoz c.s. dat er maar één mogelijkheid is namelijk het toepassen van een vertraagde afgifte formulering om met een vaste orale dosering een stabiel gewenst plasmaniveau te krijgen zonder de noodzaak van veelvuldige toediening. Die stelling is bovendien ook onjuist omdat uit de door Sandoz c.s. geformuleerde probleemstelling geenszins volgt dat de oplossing gelegen zou moeten zijn in een orale formulering. Op de indieningsdatum was een depotdosering – injecties die slechts een- of tweemaal per maand toegediend hoeven te worden – juist voor antipsychotica een vaker toegepast alternatief voor een onmiddellijke afgifte formulering om het probleem van de therapietrouw het hoofd te bieden. In de literatuur van (kort) na de indieningsdatum is opgemerkt dat meer depotformuleringen gewenst zijn13. Niet valt in te zien – en Sandoz heeft niet gesteld – waarom de gemiddelde vakman de mogelijkheid van een depotformulering van quetiapine niet mede zou betrekking bij het zoeken naar een oplossing van het probleem waarvoor hij zich (volgens Sandoz c.s.) gesteld zag.  
+
+
+5.15.
+Naar het oordeel van de rechtbank is ook niet zonder meer gegeven dat de gemiddelde vakman met het oog op verbetering van therapietrouw een eenmaal daagse formulering van quetiapine zou nastreven. Uit Greenberg14was het de gemiddelde vakman bekend dat therapietrouw bij een vier- of driemaal daagse formulering (met therapietrouw van respectievelijk 42% en 52%) aanzienlijk lager is dan bij een tweemaal daagse formulering (therapietrouw 70%) maar dat slechts marginale vooruitgang in therapietrouw wordt geboekt bij een eenmaal daagse formulering (therapietrouw 73%). Tussen een- of tweemaal daagse toediening wordt door Greenberg dan ook geen onderscheid gemaakt: It appears that selection of pharmacological agents that can be prescribed once or twice a day will improve patient compliance. [onderstreping rb].  
+
+
+5.16.
+Dr. Montgomery die zal optreden als getuige-deskundige in de procedure in de Verenigde Staten heeft tijdens zijn ‘deposition’ door de advocaten van de generieke partijen eveneens in die zin verklaard: the Greenberg paper which was identified by Reist makes the same issue which is that there's a difference in compliance between three times daily and twice daily and once daily and once and twice were indistinguishable in his meta analysis and that three times or more was associated with poorer compliance en it's good to reduce it from a four times daily or three times daily. But once you reach twice daily there's no real advantage in terms of compliance. And that I think is a quite generally-held view.  
+
+
+5.17.
+Fenton15vermeldt dat de therapietrouw bij schizofreniepatiënten niet wezenlijk anders is dan bij andere patiënten met een chronisch ziektebeeld en voorts dat tussen een kwart en tweederde van de patiënten bijwerkingen noemt als reden om voorgeschreven medicatie niet in te nemen. Op de lijst van belangrijke oorzaken voor gebrekkige therapietrouw staat niet het doseringsregime genoemd en op de lijst met interventies die kunnen leiden tot een verbeterde therapietrouw staat evenmin het terugbrengen van een tweemaal daagse naar een eenmaal daagse dosering vermeld.  
+
+
+5.18.
+In het licht van die publicaties zou de gemiddelde vakman van een eenmaal daagse dosering niet veel verbetering in therapietrouw verwachten ten opzichte van de in de Fase III klinische onderzoeken geteste twee maal daagse dosering van quetiapine.  
+
+
+5.19.
+Daarnaast was het de gemiddelde vakman bekend dat het probleem van gebrekkige therapietrouw bij schizofreniepatiënten niet zozeer daarin is gelegen dat zij moeite hebben om zich aan het behandelschema te houden omdat zij vergeten medicatie in te nemen. Het probleem bij deze patiënten is vooral dat zij helemaal geen geneesmiddel willen innemen voornamelijk omdat een ziektebesef ontbreekt vanwege de onwenselijke bijwerkingen of een combinatie daarvan. In diverse tot de stand van de techniek behorende publicaties16wordt dit beschreven. In de Practice Guideline wordt dit als volgt omschreven: Frequent causes of non-compliance are denial of illness stigma associated with the illness cultural beliefs the need to take daily medication even in the stable phase and the patient's experience of unpleasant medication side effects especially akathisia.  
+
+
+5.20.
+Dat het aantal keren per dag dat een antipsychoticum diende te worden ingenomen niet het grootste probleem was bij de gebrekkige therapietrouw van schizofreniepatiënten zoals ook volgt uit Fenton vindt zijn bevestiging daarin dat het ten tijde van de indieningsdatum in de praktijk gebruikelijk was antipsychotica voor te schrijven in een drie tot viermaal daagse dosering ook bij antipsychotica waarbij een één- of tweemaal daagse dosering mogelijk was. Dat blijkt uit het Farmaceutisch Kompas 1996 en wordt onderkend door Professor H.M. van Praag partijdeskundige aan de zijde van Sandoz c.s. en bevestigd in het Oxford Textbook of Psychiatry17. Dat aan een- of tweemaal daagse toediening voordelen zijn verbonden zoals daarin opgemerkt doet aan het bestaan van de praktijk om frequenter toediening voor te schrijven niet af.  
+
+
+5.21.
+De slotsom is dat naar het oordeel van de rechtbank de wens om de therapietrouw van schizofreniepatiënten te verbeteren voor de gemiddelde vakman hooguit een zeer zwakke motivatie zou zijn om juist van quetiapine een andere formulering te ontwikkelen. Over de werkzaamheid van quetiapine bestond nog geen zekerheid en voor zover de doseringsfrequentie al relevantie zou hebben voor therapietrouw dan was een twee maal daagse toediening goed genoeg. Als de gemiddelde vakman met het oog op het objectieve probleem al een andere formulering van quetiapine zou willen ontwikkelen dan waren er verschillende mogelijkheden om te onderzoeken: een depotformulering een eenmaal daagse onmiddellijke afgifte formulering of een eenmaal daagse vertraagde afgifte formulering. Dat hij dan de keuze zou maken voor het ontwikkelen van een vertraagde afgifte formulering is naar het oordeel van de rechtbank niet gegeven. Nergens in de stand van techniek ten tijde van de indieningsdatum zoals partijen die aan de rechtbank hebben gepresenteerd is gesuggereerd dat een orale vertraagde afgifte formulering van een bestaand antipsychoticum de oplossing zou (kunnen) zijn voor gebrekkige therapietrouw bij schizofreniepatiënten. Het persbericht van Eurand maakt dat niet anders. Uit dat persbericht blijkt geenszins dat AstraZeneca (overigens niet gelijk te stellen aan een gemiddelde vakman) opdracht had gegeven een eenmaal daagse vertraagde afgifte formulering te ontwikkelen zoals Sandoz c.s. stelt. De enkele mededeling aan het slot van het persbericht Eurand is a drug delivery company that specializes in oral drug delivery technologies. Eurand’s Technologies include the ability to provide controlled release conversion of liquids to solids site specific delivery and taste masking of pharmaceuticals is – en zal opgevat worden als – niet meer dan een marketing gedreven mededeling over de kwaliteiten van Eurand in het algemeen.  
+
+
+minder bijwerkingen 
+
+ 
+
+
+5.22.
+De gemiddelde vakman zou daarnaast volgens Sandoz c.s. gemotiveerd zijn een vertraagde afgifte formulering van quetiapine te maken omdat het daardoor mogelijk is een kleinere hoeveelheid geneesmiddel toe te dienen dan wel een vlakkere en langgerektere plasmaconcentratie curve wordt verkregen waardoor er minder (kans op) bijwerkingen is.  
+
+
+5.23.
+Partijen zijn het erover eens dat de bijwerkingen van bestaande met name typische antipsychotica problematisch waren en een belangrijke oorzaak waren van gebrekkige therapietrouw. Dat gold in (veel) mindere mate voor de atypische antipsychotica waarbij EPS zich niet of in veel mindere mate voordeed. De mate waarin bijwerkingen van quetiapine als problematisch werden ervaren was nog geenszins duidelijk omdat daarmee nog geen ervaring was opgedaan in de klinische praktijk. Ten tijde van de indieningsdatum was de gemiddelde vakman wel bekend met de resultaten van de klinische studies beschreven in Casey 1996 waaruit naar voren kwam dat er op het gebied van bijwerkingen nauwelijks problemen waren. De enige bijwerking van belang die bij gebruik van quetiapine werd gerapporteerd was slaperigheid en sufheid een bijwerking die optreedt bij alle antipsychotica ook de atypische. De rechtbank is met AstraZeneca van oordeel dat de wens bijwerkingen te beperken daarom niet of nauwelijks motivatie voor de gemiddelde vakman opleverde om een vertraagde afgifte formulering van quetiapine te gaan ontwikkelen.  
+
+
+5.24.
+AstraZeneca heeft er bovendien op gewezen dat een vertraagde afgifte formulering bij dezelfde hoeveelheid actief ingrediënt alleen dan tot minder bijwerkingen zal leiden indien die bijwerkingen in een onmiddellijke afgifte formulering worden veroorzaakt door het (te hoog) piek-plasmaniveau. Sandoz c.s heeft niet bestreden dat het op de indieningsdatum niet bekend was en ook niet te voorspellen was of de bijwerkingen van quetiapine zich alleen boven een bepaald plasmaniveau voordeden of in het hele therapeutisch bereik. Volgens Sandoz c.s. zou de gemiddelde vakman er gewoon van uitgaan dat een lager piek-plasmaniveau altijd beter is. Naar het oordeel van de rechtbank kan dat in zijn algemeenheid niet als juist worden aanvaard. Een lager piek-plasmaniveau kan immers ook gevolgen hebben voor de biobeschikbaarheid en therapeutische werking zoals hierna aan de orde zal komen.  
+
+
+Slotsom Motivatie 
+
+ 
+
+
+5.25.
+Bij deze stand van zaken moet worden geconstateerd dat de gemiddelde vakman op de indieningsdatum niet werkelijk is gemotiveerd om een andere formulering van quetiapine te ontwikkelen. In dat licht kan worden betwijfeld of het door Sandoz c.s. gehanteerde uitgangspunt de keuze voor de meest nabije stand van de techniek en de daaruit voortvloeiende objectieve probleemstelling waarin de keuze voor quetiapine reeds besloten ligt inderdaad juist is en of niet de door AstraZeneca voorgestelde vraag wat zou de gemiddelde vakman op de indieningsdatum doen als hij de behandelingsmethode voor schizofrenie zou willen verbeteren in het onderhavige geval juister zou zijn. Nu er als gezegd geen noodzaak is die vraag te beantwoorden zal de rechtbank dat niet doen en – nog steeds uitgaand van het door Sandoz c.s. gekozen uitgangspunt – hierna beoordelen of de hooguit minimale motivatie van de gemiddelde vakman wellicht wordt gecompenseerd door een hoge verwachting van succes waardoor hij toch een vertraagde afgifte formulering van quetiapine zou gaan ontwikkelen.  
+
+
+Redelijke verwachting van succes / contra-indicaties 
+
+ 
+
+
+5.26.
+Zoals hiervoor reeds overwogen zal de gemiddelde vakman bij zijn verwachting van succes niet alleen betrekken of hij een formulering kan maken die een stabiele concentratie quetiapine tot stand brengt zonder de noodzaak van veelvuldige toediening maar ook of met die formulering klinische werkzaamheid wordt bereikt. AstraZeneca heeft aangevoerd dat de gemiddelde vakman mede vanwege een aantal farmaceutische farmacokinetische en chemische eigenschappen van quetiapine niet zou verwachten dat hij daarvan een werkzame vertraagde afgifte formulering zou kunnen maken zodat hij daaraan – mede in aanmerking genomen zijn beperkte motivatie – niet zou beginnen. Sandoz c.s. heeft dat bestreden. Volgens haar zou de gemiddelde vakman die problemen niet zien dan wel daarvoor een oplossing vinden die binnen zijn handbereik lag.  
+
+
+geschiktheid voor behandeling van een aanval 
+
+ 
+
+
+5.27.
+AstraZeneca heeft onweersproken aangevoerd dat de nadruk bij de behandeling van acute schizofrenie met name lag op het terugdringen van de positieve symptomen; het snel onder controle krijgen van een aanval. De rechtbank is met AstraZeneca van oordeel dat het ontwikkelen van een vertraagde afgifte formulering in dat licht niet direct voor de hand ligt. Een vertraagde afgifte formulering kan wel worden voorzien van een onmiddellijke afgifte component bijvoorbeeld in de coating zoals Sandoz c.s. terecht heeft aangevoerd. De gemiddelde vakman zal evenwel ook inzien dat bij dezelfde hoeveelheid actief ingrediënt geldt dat hoe groter de onmiddellijke afgifte component – benodigd voor de gewenste snelle behandeling van een aanval – zal zijn des te minder actief ingrediënt beschikbaar zal zijn voor de vertraagde afgifte component en daarmee des te kleiner het verwachte succes van de vertraagde afgifte formulering zal zijn. De gemiddelde vakman zal er immers niet zeker van zijn – en ook niet zonder meer verwachten – dat zo’n vertraagde afgifte component nog afdoende zal zijn voor de gewenste klinische werkzaamheid. Dat geldt temeer omdat naar AstraZeneca onweersproken heeft aangevoerd18de relatie tussen de concentratie quetiapine in het bloedplasma en de therapeutische effectiviteit ervan op de indieningsdatum niet bekend was.  
+
+
+D2 receptorbezetting – samenhang met piek-plasmaniveau 
+
+ 
+
+
+5.28.
+AstraZeneca heeft erop gewezen – en Sandoz c.s. heeft niet gemotiveerd bestreden – dat voor de gemiddelde vakman op de indieningsdatum bekend was dat er een directe relatie bestaat tussen de hoeveelheid actief ingrediënt dat in het bloedplasma beschikbaar is en de bezetting van de D2 receptoren. De maximale hoeveelheid actief ingrediënt dat in het bloedplasma beschikbaar is het piek-plasmaniveau ook aangeduid als Cmax wordt bij een onmiddellijke afgifte formulering kort na indiening bereikt. Bij een vertraagde afgifte formulering treedt die piek in het algemeen later op en is die minder hoog. Niet in geschil is dat ten tijde van de indieningsdatum verondersteld werd dat voor antipsychotische effectiviteit van een geneesmiddel een minimale dopamine D2 receptorbezetting noodzakelijk was. Voor de typische antipsychotica werd uitgegaan van een ondergrens van 60%. Bekend was ook dat clozapine een lagere D2 receptor bezetting had maar desalniettemin zeer effectief was. Van quetiapine was uit Gefvert eveneens bekend dat die een lage D2 receptor bezetting had – maximaal 44% met afname naar 27% na 12 uur – terwijl toch klinische werkzaamheid werd gerapporteerd. Ten tijde van de indieningsdatum was niet bekend welk mechanisme daarvoor zorgde. Er waren alleen theorieën om de werkzaamheid van atypische antipsychotica te verklaren in het bijzonder verband houdend met de 5HT2 receptorbezetting.  
+
+
+5.29.
+Het standpunt van Sandoz c.s. dat algemeen werd aangenomen dat voor de hele groep van a-typische antipsychotica en dus ook quetiapine de ondergrens van 60% niet gold volgt niet uit de stand van de techniek. In de door Sandoz c.s. aangehaalde publicatie van Meltzer19is beschreven dat de meeste atypische antipsychotica een in verhouding tot de 5HT2 receptorbezetting lagere D2 receptor bezetting hebben (bij lage dosering). Anderzijds wordt in Tamminga20van andere atypische antipsychotica dan clozapine juist vermeld dat deze een hoge(re) D2 receptorbezetting hebben. Het omgekeerde door AstraZeneca verdedigde standpunt dat de gemiddelde vakman ervan uitging dat die ondergrens van 60% ook voor atypische antipsychotica (behoudens clozapine) gold kan in het licht van de stand van de techniek op de indieningsdatum evenmin worden aanvaard. De enige publicatie waaruit dat blijkt dateert van na de indieningsdatum21.  
+
+
+5.30.
+Wat daarvan zij naar het oordeel van de rechtbank maakte de algemeen aanvaarde gedachte dat voor voldoende werkzaamheid in elk geval een minimale D2 receptorbezetting nodig was wél dat de gemiddelde vakman terughoudend zou zijn met het ontwikkelen van een formulering met quetiapine waarbij het maximale plasmaniveau lager zou uitkomen dan bij de onmiddellijke afgifte formulering die was gebruikt in de klinische studies. Bij gebreke van kennis van het werkingsmechanisme van quetiapine (en andere atypische antipsychotica) kon hij er immers niet zonder meer van uit gaan dat dit géén invloed zou hebben op de bezetting van de D2 receptoren en (daarmee) de werkzaamheid van quetiapine. Omdat niet bekend was welk niveau D2 receptorbezetting minimaal nodig was voor klinische werkzaamheid van quetiapine zou de gemiddelde vakman onderkennen dat een risico bestond dat de D2 receptorbezetting bij een vertraagde afgifte formulering van quetiapine met een toch al relatief lage bezettingsgraad van 44% onder de (onbekende) kritische grens zou zakken.  
+
+
+Lage biologische beschikbaarheid - first-pass metabolisme 
+
+ 
+
+
+5.31.
+Uit de literatuur ten tijde van de indieningsdatum was het de gemiddelde vakman bekend dat bij een sterke enzymatische afbraak van actief ingrediënt in de lever – ook wel aangeduid als ‘first-pass metabolisme’ – slechts een beperkte hoeveelheid stof de plaats van bestemming – in casu de hersenen – bereikt. Ook was hem bekend dat de werkzaamheid van stoffen met een hoog first-pass metabolisme veelal daardoor werd verklaard dat de enzymatische processen die het geneesmiddel afbreken verzadigbaar zijn. De werkzaamheid wordt dan ontleend aan de hoeveelheid stof die het verzadigingsniveau overschrijdt en daardoor ontsnapt aan de enzymatische afbraak en onveranderd de hersenen kan bereiken. Bij een vertraagde afgifte formulering wordt het actief ingrediënt over een langere tijd in lagere concentratie vrijgegeven waardoor het verzadigingsniveau van het enzymatische afbraakproces minder of niet meer wordt overschreden zodat minder of geen geneesmiddel beschikbaar komt in de hersenen met een verwachte lagere of uitblijvende therapeutische werkzaamheid tot gevolg. Een hoog first-pass metabolisme vormde daarom een contra-indicatie voor de ontwikkeling van een vertraagde afgifte formulering.  
+
+
+5.32.
+Dit wordt onder meer beschreven in Robinson22: In addition if there is a variable blood level of drug through either intestinal (or other tissue) metabolism or through a first-pass effect this also will make preparation of a sustained release product difficult. Since most of these processes can be saturable [3289] the fraction of drug lost would be dose-dependent and one would anticipate a significant reduction in bioavailability if the drug is slowly released over a period of time in Prescott23: If there is extensive first-pass loss a reduction in release rate leads to less drug being exposed to the liver enzymes in a finite time and variable plasma concentration with the possibility of therapeutic failure en in Banker24: On the other hand if concentration in the hepatic portal vein were low due either to administration of a low dose or to very slow absorption of the drug then the enzymes would not be saturated and most of the drug could be metabolized on passage through the liver (…).  
+
+
+5.33.
+In Casey 199625is vermeld: quetiapine is well absorbed in all species and (…) extensively metabolised before excretion with <5% of the dose excreted unchanged in urine and faeces. In Wetzel is gerapporteerd: With regard to pharmacokinetic parameters in animal studies seroquel had a low bioavailability of 5-15% with an elimination half-life of 1-3 h. Seroquel undergoes extensive first-pass metabolism via ring hydroxylation sulfoxidation N- and O-dealkylation and side chain oxidation. Volgens AstraZeneca zou de gemiddelde vakman op de indieningsdatum uit die publicaties afleiden dat bij quetiapine een sterk first-pass metabolisme optrad.  
+
+
+5.34.
+Sandoz c.s. bestrijdt dat en heeft er op gewezen dat Casey 1996 geen hoog first-pass metabolisme noemt en stelt dat de geciteerde passage kan betekenen dat een first-pass effect optreedt maar dat de extensieve metabolisatie ook het gevolg kan zijn van de tweede derde en volgende passages door de lever en niet alleen de eerste. Dat betekent dat de gemiddelde vakman er in ieder geval rekening mee moet houden dat bij quetiapine een hoog first-pass metabolisme optreedt. De rechtbank is bovendien met AstraZeneca van oordeel dat voor zover bedoelde onduidelijkheid al zou bestaan moet worden aangenomen dat de gemiddelde vakman die passage zal begrijpen als betrekking hebbend op first-pass metabolisme. Casey 1996 spreekt immers over extensieve metabolisatie following oral administration en bovendien vindt de gemiddelde vakman bevestiging voor die uitleg in Wetzel. Aan de stelling van Sandoz c.s. dat de gemiddelde vakman aan Wetzel geen conclusies zou verbinden omdat een preklinische dierproef ‘weinig voorspellende waarde heeft voor metabolisme in mensen’26wordt bij gebreke van enige onderbouwing van die stelling voorbij gegaan.  
+
+
+5.35.
+Sandoz c.s. heeft verder aangevoerd dat de gemiddelde vakman gegeven de vermelding in Casey 1996 dat er sprake is van lineaire farmacokinetiek er niet zonder meer vanuit zou gaan dat een vertraagde afgifte van quetiapine de biologische beschikbaarheid verlaagt. De rechtbank overweegt daaromtrent als volgt. Een lineaire farmacokinetiek duidt erop dat het verzadigingspunt van het enzymatisch afbraakproces is bereikt. Boven het verzadigingspunt zal een verlaagd piek-plasmaniveau leiden tot een evenredige verlaging van biobeschikbaarheid. Hoewel een vertraagde afgifte leidt tot een lager piek-plasmaniveau hoeft dat vanwege de vertraagde afgifte (waardoor de stof langer wordt afgegeven) inderdaad niet te leiden tot een lagere biobeschikbaarheid van het actief ingrediënt in de formulering zolang boven het verzadigingspunt wordt gebleven. Het probleem is evenwel dat de gemiddelde vakman niet wist waar het verzadigingspunt lag en hij dus rekening moest houden met de mogelijkheid dat met een vertraagde afgifteformulering onder het verzadigingspunt zou worden uitgekomen met een meer dan evenredige vermindering van de biobeschikbaarheid tot gevolg.  
+
+
+5.36.
+Sandoz c.s. heeft verder aangevoerd dat de verhouding tussen metabolisme en biologische beschikbaarheid te ingewikkeld is om te voorspellen dat voor de vakman helemaal niet zeker is of verlaagde biobeschikbaarheid wel invloed zou hebben op de klinische werkzaamheid en zo ja of die invloed van dien aard zou zijn dat het zou resulteren in onvoldoende klinische werkzaamheid. Aan het feit dat er geneesmiddelen met sterk first-pass metabolisme op de markt waren in vertraagde afgifte formulering zou de gemiddelde vakman bovendien vertrouwen ontlenen dat het met quetiapine ook zou lukken om een werkzame vertraagde afgifte formulering te ontwikkelen. Een hoog first-pass metabolisme zou quetiapine daarom niet op voorhand ongeschikt maken voor toepassing in een vertraagde afgifte formulering en zou de gemiddelde vakman er niet van weerhouden zo’n formulering te ontwikkelen aldus Sandoz c.s.  
+
+
+5.37.
+Met deze redenering legt Sandoz c.s. een onjuiste maatstaf aan. Niet bepalend is immers of de gemiddelde vakman een absolute belemmering zag voor de ontwikkeling van een vertraagde afgifte formulering. De vraag die ter beantwoording voorligt27is of de gemiddelde vakman ten tijde van de indieningsdatum in aanmerking genomen de mate waarin hij gemotiveerd was het probleem op te lossen een zodanig redelijke verwachting had dat hij erin zou slagen een klinisch werkzame formulering van quetiapine te ontwikkelen dat hij die weg zou inslaan. De stellingen van Sandoz c.s. bevestigen dat er op de indieningsdatum grote onzekerheid bestond wat de gevolgen zouden zijn van het bij quetiapine optredend first-pass metabolisme. Die onzekerheden verhinderden dat bij de gemiddelde vakman een redelijke verwachting ontstond dat hij succesvol zou zijn. Dat er wellicht formuleringen waren ontwikkeld van andere stoffen met een hoog first-pass metabolisme maakt dat niet anders. In het licht van zijn vakkennis zullen die door de gemiddelde vakman als uitzonderingen op de regel worden beschouwd waarop hij niet zijn verwachtingen zal baseren.  
+
+
+Hoge serumeiwitbinding 
+
+ 
+
+
+5.38.
+Op de indieningsdatum was uit Casey 1996 bekend dat quetiapine zich in hoge mate – 83% – bindt aan eiwitten in het bloedplasma. Het was de gemiddelde vakman ook bekend dat een geneesmiddel niet eiwit-gebonden dient te zijn om de bloed-hersenbarrière te passeren en de hersenen te kunnen bereiken waar quetiapine werkzaam is. Dat mechanisme is beschreven in Scheld28: Serum protein binding. Only the free (non-protein-bound) portion of drug can enter CSF [= Cerebrospinal fluid] readily under normal conditions. Bij een vertraagde afgifte formulering is de concentratie actief ingrediënt lager omdat het actief ingrediënt gedurende een langere periode gelijkmatiger wordt afgegeven. De hoeveelheid actief ingrediënt dat niet-gebonden is en de hersenen kan bereiken zal daarom eveneens lager zijn.  
+
+
+5.39.
+Sandoz c.s. heeft dit niet gemotiveerd bestreden maar aangevoerd dat dit niet relevant is omdat het erom gaat een vertraagde afgifte formulering te maken met voldoende klinische werking waarbij suboptimaal goed genoeg kan zijn. Dat verweer is niet steekhoudend. Het probleem is immers dat de gemiddelde vakman op de prioriteitsdatum niet wist waar de grens tussen voldoende en onvoldoende werkzaam lag en – bij gebreke van inzicht in het werkingsmechanisme van quetiapine – evenmin hoe hij die moest bepalen. Verminderde beschikbaarheid van actief ingrediënt om D2 receptorbinding tot stand te brengen ten gevolge van de vertraagde afgifte formulering hield dus een inherent risico in dat de klinische werkzaamheid onder een aanvaardbaar niveau kwam te liggen. Het bestaan van dat risico beïnvloedt de verwachting van de gemiddelde vakman of hij een succesvolle vertraagde afgifte forumlering kan ontwikkelen in negatieve zin.  
+
+
+5.40.
+Ook hier heeft Sandoz c.s. naar voren gebracht dat de gemiddelde vakman uit het bestaan van antipsychotica met sterke eiwitbinding in vertraagde afgifte formulering kan afleiden dat een sterke eiwitbinding niet het ontwikkelen van een vertraagde afgifte formulering van quetiapine in de weg staat. AstraZeneca heeft de maatgevendheid van die voorbeelden gemotiveerd bestreden. Bovendien geldt hier hetzelfde als hiervoor is overwogen ten aanzien van vertraagde afgifteformuleringen van stoffen met hoog first-pass metabolisme: de gemiddelde vakman ontleent zijn verwachtingen niet aan uitzonderingen maar aan de regel.  
+
+
+pH-afhankelijk oplosbaarheidsprofiel 
+
+ 
+
+
+5.41.
+Het doel van een vertraagde afgifte formulering is dat een zo constant mogelijke afgifte van het actief ingrediënt wordt verkregen. Een vertraagde afgifte formulering moet zowel door de maag met lage pH-waarde als door de darmen met hogere pH-waarde worden getransporteerd. Oplosbaarheid is een belangrijke factor voor de afgiftesnelheid. Een sterk pH-afhankelijke oplosbaarheid van een stof maakt het daarom lastig een vertraagde afgifte formulering te maken waarmee het doel van gelijkmatige afgifte wordt bereikt. Robinson merkt daarover op (p.79): Finally drugs exhibiting strong pH-dependent solubility characteristics particularly in the physiological pH range of interest would be poor candidates for oral sustained release products. Ook Remington beschrijft dat extremes in the aqueous solubility of a drug are undesirable for formulation into a sustained-release product. Volgens AstraZeneca zou het oplosbaarheidsprofiel van quetiapine de gemiddelde vakman in dat opzicht zorgen baren omdat de oplosbaarheid van de quetiapine base (004 mg/ml) 80 keer lager is dan dat van het geprotoneerde quetiapine quetiapine hemifumaraat (33 mg/ml). Sandoz c.s. heeft aanvankelijk aangevoerd dat alleen de oplosbaarheid van quetiapine hemifumaraat die varieert van 185mg/ml bij pH 1 tot 23 mg/ml bij pH 7 (een factor 8) relevant zou zijn en niet als ‘sterk pH-afhankelijk’ kan worden aangemerkt. Ter zitting heeft zij erkend dat de gemiddelde vakman er rekening mee houdt dat dit zout in de maag uit elkaar valt zodat ook de oplosbaarheid van de vrije base 80x lager relevant is.  
+
+
+5.42.
+Sandoz c.s. heeft bestreden dat de gemiddelde vakman het pH-afhankelijke oplosbaarheidsprofiel van quetiapine een probleem zou vinden omdat hij uit Dow weet dat HPMC een relatief pH-onafhankelijke vertraagde afgifte formulering oplevert. Die stelling wordt verworpen. Uit Dow zal de gemiddelde vakman begrijpen dat HPMC kan worden toegepast bij stoffen met onderling zeer uiteenlopende oplosbaarheid zoals ook wordt bevestigd door Rango Rao29. In Dow staat echter ook dat de afgifte wél wordt beïnvloed door sterke pH-afhankelijke oplosbaarheid van een stof: The viscosity of the gel which forms on the tablet surface and the rate of hydration are relatively independent of the pH environment. Release rates of drugs will not be affected by pH unless drug solubility varies greatly over the normal pH range. Stoffen met sterk pH-afhankelijke oplosbaarheid zijn door Rango Rao niet onderzocht.  
+
+
+5.43.
+Volgens Sandoz c.s. zou Dow een oplossing aanreiken voor het geval een pH-afhankelijke oplosbaarheidsvariatie een probleem zou vormen door het gebruik van een buffer of een organisch zuur voor te stellen: It has also been reported that adding organic acids or buffers to the matrix can control the tablet’s pH environment through the Gl tract. As a result drugs with poor solubility at certain pH ranges can be formulated to optimize bioavailability. Ook dat houdt geen stand. Uit die passage zal de gemiddelde vakman begrijpen dat een buffer of organisch zuur ervoor kan zorgen dat een zeer slecht oplosbare stof (naar hij begrijpt : in de darmen een basisch milieu) toch goed oplosbaar kan worden gemaakt. De zorg van de gemiddelde vakman is echter dat quetiapinezout zeer goed oplosbaar is in de maag met het risico van dose dumping als gevolg. Sandoz c.s. heeft niet voldoende gemotiveerd gesteld dat de gemiddelde vakman voor dát probleem in Dow een oplossing(srichting) zou vinden.  
+
+
+Andere onzekerheden 
+
+ 
+
+
+5.44.
+AstraZeneca heeft er daarnaast op gewezen dat de gemiddelde vakman niet bekend was met de relatie tussen de concentratie quetiapine in het bloedplasma en de therapeutische effectiviteit ervan. Zelfs als de optimale dosering van een onmiddellijke afgifte formulering bekend zou zijn geweest was voor de gemiddelde vakman dus niet mogelijk goed in te schatten met welke dosering quetiapine hij een werkzame vertraagde afgifte formulering zou kunnen verkrijgen. Sandoz c.s. heeft dit niet bestreden.  
+
+
+5.45.
+Verder probleem bij de ontwikkeling van een vertraagde afgifte formulering is volgens AstraZeneca – onder verwijzing naar Frijlink die zich op Robinson baseert – dat de onduidelijkheid omtrent de in de stand van de techniek gerapporteerde halfwaardetijd van quetiapine kan wijzen op een variabele kinetiek hetgeen leidt tot moeilijkheden bij het formuleren van een vertraagde samenstelling. Sandoz c.s. heeft dat niet gemotiveerd bestreden. De verwijzing door Rue naar Remington dat stoffen met een halfwaardetijd tussen de 2 tot 8 uur geschikt zijn voor een vertraagde afgifte formulering kan niet als voldoende weerlegging gelden omdat dit niet het door Frijlink genoemde (mogelijke) probleem van de variabele halfwaardetijd weerlegt.  
+
+
+Omvang van het tablet 
+
+ 
+
+
+5.46.
+Een laatste formuleringsprobleem waar AstraZeneca op heeft gewezen is dat uit de tot dan toe uitgevoerde onderzoeken zoals bijvoorbeeld Wetzel duidelijk was dat een hoge dosering nodig zou zijn hetgeen vanwege de omvang van het tablet een contra-indicatie zou zijn om een vertraagde afgifte formulering te ontwikkelen. De rechtbank is met Sandoz c.s. van oordeel dat daarin niet een werkelijke belemmering zou worden gevonden om een vertraagde afgifte formulering te ontwikkelen. Het probleem van een te volumineuze pil kan immers eenvoudig worden ondervangen door het formuleren van een kleine pil waarvan er bijvoorbeeld twee per keer ingenomen dienen te worden. Dat dit een wezenlijk probleem zou zijn in het licht van therapietrouw of anderszins is niet gesteld en blijkt ook niet uit de overgelegde publicaties.  
+
+
+Slotsom motivatie en redelijke verwachting van succes 
+
+ 
+
+
+5.47.
+Vorenstaande overwegingen leiden tot de navolgende slotsom. Quetiapine had zich op de indieningsdatum nog niet bewezen als voldoende werkzaam zonder ernstige bijwerkingen bij grootschalig en langdurig gebruik. De gemiddelde vakman had hooguit een zeer beperkte motivatie om juist van die stof een vertraagde afgifte formulering te maken. Therapietrouw verbetert niet wezenlijk door een tweemaal daagse dosering te vervangen door een eenmaal daagse. De op de indieningsdatum bekende bijwerkingen van quetiapine waren niet ernstig maar beperkt tot slaperigheid en sufheid bijwerkingen die zich bij alle antipsychotica voordoen. De optimale dosering van een onmiddellijke afgifte formulering was nog niet bekend en voor quetiapine was ook nog geen concentratie-effect relatie bekend zodat de gemiddelde vakman in het duister tastte omtrent de benodigde dosering in een vertraagde afgifte formulering. Daar tegenover staat dat naar het oordeel van de rechtbank de gemiddelde vakman geen hoge verwachting koesterde dat hij succesvol een voldoende werkzame vertraagde afgifte formulering van quetiapine zou kunnen ontwikkelen. De pH-afhankelijke oplosbaarheid van quetiapine en de mogelijk variabele kinetiek gelet op de verschillende halfwaardetijden die zijn gerapporteerd maken dat de gemiddelde vakman rekening houdt met problemen bij de formulering. De gemiddelde vakman is daarnaast onzeker of een vertraagde afgifte formulering voldoende therapeutisch werkzaam zal zijn omdat zo’n formulering de piek-plasma concentratie verlaagt ten opzichte van de piek die wordt bereikt bij een onmiddellijke afgifte formulering. Vanwege een combinatie van een hoog first pass metabolisme hoge serumeiwitbinding en lage D2 receptorbezetting zal de gemiddelde vakman inzien dat het risico bestaat dat de verlaagde biobeschikbaarheid onvoldoende therapeutische werkzaamheid van de formulering tot gevolg heeft in het bijzonder voor de behandeling van een aanval.  
+
+
+5.48.
+Ten aanzien van de risico’s van verminderde werkzaamheid van een vertraagde afgifte formulering van quetiapine heeft Sandoz c.s. aangevoerd dat de gemiddelde vakman zich daarover niet veel zorgen zou maken. Hij zou gewoon zo’n formulering maken en dan aan de hand van bio-equivalentiestudies kunnen bepalen of de formulering voldoende klinisch effect heeft. Als dat niet geval zou zijn dan zou hij er gewoon meer actief ingrediënt in doen aldus Sandoz c.s. Dat standpunt wordt verworpen. Het is niet goed te rijmen met de door Sandoz c.s. gestelde motivatie om een vertraagde afgifte formulering te gaan ontwikkelen. Voordeel daarvan zou immers zijn dat bijwerkingen kunnen worden verminderd. Dat effect gaat teniet indien meer actief ingrediënt moet worden gebruikt om dezelfde klinische werkzaamheid te verkrijgen.  
+
+
+5.49.
+De rechtbank is met AstraZeneca van oordeel dat bovendien niet alleen relevant is of de gemiddelde vakman bio-equivalentiestudies en ander onderzoek kon doen maar ook – en veeleer – of hij dat in aanmerking genomen alle andere omstandigheden ook zou doen. Naar het oordeel van de rechtbank moet die vraag ontkennend worden beantwoord. De gemiddelde vakman is nauwelijks gemotiveerd ziet veel onzekerheid op het gebied van formulering en werkzaamheid terwijl over quetiapine nog weinig bekend was en de stof zich in de klinische praktijk nog niet had bewezen. Onder die omstandigheden zou hij de benodigde bio-equivalentie- en andere studies ervaren als undue burden en zou hij niet de weg van het ontwikkelen van een vertraagde afgifte formulering van quetiapine inslaan.  
+
+
+5.50.
+Sandoz c.s. heeft er op gewezen dat de problemen en onzekerheden die de gemiddelde vakman zou zien bij het ontwikkelen van een vertraagde afgifte formulering van quetiapine geen van alle (duidelijk) in het octrooi staan vermeld. Dat is op zich juist. Het kan er evenwel niet toe leiden dat deze problemen bij de beoordeling van inventiviteit buiten beschouwing worden gelaten. Het gaat immers om een objectieve beantwoording van de vraag of hetgeen wordt geclaimd op de indieningsdatum voor de gemiddelde vakman voor de hand lag gegeven zijn algemene vakkennis en de stand van de techniek. Waarom hetgeen geclaimd wordt inventief is hoeft in de beschrijving niet geëxpliciteerd te worden. Dat een probleem niet expliciet in de beschrijving wordt genoemd betekent niet dat het voor de gemiddelde vakman op de indieningsdatum niet bestond en evenmin dat het bij de beoordeling van de inventiviteit buiten beschouwing zou moeten worden gelaten.  
+
+
+5.51.
+De slotsom is dat de vorderingen van Sandoz c.s. zullen worden afgewezen.  
+
+
+5.52.
+Sandoz c.s. zal als de in het ongelijk gestelde partij worden veroordeeld in de proceskosten van AstraZeneca. Partijen zijn overeengekomen dat de proceskosten in conventie in beide zaken gezamenlijk EUR 425.000- bedragen. De rechtbank zal daarom in beide zaken Sandoz en Hexal respectievelijk Accord c.s. als de in het ongelijk gestelde partij veroordelen in de proceskosten van AstraZeneca ter hoogte van EUR 212.500-.  
+
+
+2.8.
+AstraZeneca is van het vonnis van 7 maart 2012 in hoger beroep gegaan. Pleidooi is bepaald op 16 januari 2014. 
+
+
+2.9.
+De Engelse rechter heeft op 22 maart 2012 uitspraak30 gedaan in een nietigheidsprocedure tegen (het Engelse deel van) EP 364 geïnitieerd door onder meer een aantal tot hetzelfde concern als Sandoz behorende ondernemingen. Hij oordeelde – kort gezegd – dat de uitvinding van EP 364 in het licht van de op de prioriteitsdatum bestaande kennis op het gebied van (formuleringen voor) vertraagde afgifte voor de hand lag en dat het octrooi derhalve nietig is. In het Engelse vonnis werd uitdrukkelijk aandacht besteed aan het (andersluidende) oordeel van de Nederlandse rechter: 
+
+
+The Dutch judgment
+
+ 
+
+111. On 7 March 2012 the District Court of the Hague (Judges Kalden Blok and de Vries) gave judgment on a parallel claim by Sandoz BV and three other parties (“Sandoz”) to revoke the Dutch counterpart of the Patent (Case 397921/HA ZA 11-1977). In a careful and detailed judgment of 26 pages (in translation) the Dutch court rejected Sandoz’s argument that the Patent was obvious over Gefvert. It summarised its reasons at [5.47] as follows:
+ 
+
+“The aforementioned findings lead to the following conclusion. On the filing date quetiapine had not yet been proven to be sufficiently effective without having serious side effects in large-scale and extended use. The average person skilled in the art had at most a very limited motivation to choose that particular substance to create a sustained release formulation. Therapy compliance does not materially improve by substituting a twice daily dose with a once daily dose. The side effects of quetiapine known on the filing date were not serious but were limited to sleepiness and drowsiness side effects that occur in all anti-psychotics. The optimum dose of an immediate release formulation was not yet known just as the concentration effect for quetiapine was not known so that the average person skilled in the art was in the dark about the dose needed in a sustained release formulation. On the other hand in the District Court’s opinion the average person skilled in the art did not have high expectations about his chances of successfully developing a sufficiently effective sustained release formulation of quetiapine. The pH-dependent solubility of quetiapine and the possibly variable kinetics in view of the varying half-life values reported result in the average person skilled in the art taking problems in formulating into account. In addition the average person skilled in the art is unsure whether a sustained release formulation will have sufficient therapeutic efficacy because such a formulation lowers the peak plasma concentration when compared to the peak reached with an immediate release formulation. Due to a combination of a high first-pass metabolism high serum protein binding and a low D2 receptor level the average person skilled in the art will realise that there is a risk that the reduced bio-availability results in insufficient therapeutic efficacy of the formulation in particular for the treatment of an attack.”
+ 
+
+112. It is clearly a matter of regret that different European courts considering the validity of the same patent should reach opposite conclusions. Both for this reason and because of the respect that a judgment of the District Court of the Hague merits in any event I have carefully considered the Dutch court’s reasoning. It does not persuade me that the conclusion I have reached is incorrect however. My main reasons are as follows.
+ 
+
+113. First the evidence before the respective courts was different. In the Netherlands the witnesses were different to those before me (save that Dr Rue filed reply evidence in place of Sandoz’s first formulator Dr Rawlins). Furthermore the hearing before the Dutch court lasted one day and there was no cross-examination. I had the advantage of hearing all four experts cross-examined in the course of a hearing lasting about four days (though spread over parts of five).
+ 
+
+114. Secondly although a lot of the same articles and textbooks appear to have been placed before the Dutch court as before me there are certain differences. By way of example the Dutch court does not refer to Wong I. Either this was not placed before the Dutch court or the Dutch court did not appreciate its significance.
+ 
+
+115. Thirdly the Dutch court proceeded on the basis that the Patent was not entitled to priority (see [5.1]). As a result it relied upon a number of articles which were published after the priority date. In particular it referred no less than seven times to Casey (1996). By contrast there was no challenge to priority before me and it was common ground that Casey (1996) was post-published.
+ 
+
+116. Fourthly the arguments before me were different to those before the Dutch court. In particular in its closing submissions before me the only “lion in the path” relied upon by AstraZeneca was high first pass metabolism whereas before the Dutch court AstraZeneca also advanced a number of others. Some of these were accepted by the Dutch court notably high serum protein binding (see [5.38]-[5.40]) and pH-dependent solubility (see [5.41]-[5.43]).
+ 
+
+117. Fifthly in the light of the evidence and arguments before me I am unable to agree with the Dutch court’s conclusions with regard to either motivation or expectation of success. It would lengthen this judgment unduly to go through all of the Dutch court’s reasons explaining why I differ but I will give two examples. With regard to motivation the Dutch court found at [5.9] that the fact that the immediate release formulation of quetiapine had not yet proved itself in clinical practice meant that the skilled person would be reluctant to develop an alternative formulation and would only proceed if he was strongly motivated to start developing a sustained release formulation or had a high expectation of success. No such argument was advanced by AstraZeneca before me and the evidence before me does not support that conclusion.
+ 
+
+118. With regard to expectation of success the Dutch court concluded at [5.31]-[5.37] that a high first pass metabolism was a counter-indication for the development of a sustained release formulation. In this connection it found at [5.35] that “Linear pharmacokinetics indicate that saturation point of the enzymatic breakdown process has been reached”. On the evidence before me that is incorrect: linear pharmacokinetics indicates the exact opposite.
+ 
+
+119. Finally the Dutch court appears to have attached no weight to the facts that the problems described in the Patent are illusory and that the “lions in the path” relied upon by AstraZeneca are not mentioned in the Patent: see [5.50]. In my view these points are of significance albeit not conclusive.
+ 
+
+
+Conclusion
+
+ 
+
+120. I conclude that the Patent is invalid.
+ 
+
+
+2.10.
+Het vonnis is bij uitspraak van 30 april 201331 door de Engelse appelrechter bekrachtigd. 
+
+
+2.11.
+Het Duitse Bundespatentgericht heeft op 13 november 2012 eveneens geoordeeld dat (het Duitse deel van) EP 364 nietig is wegens het ontbreken van inventiviteit. Tegen dit oordeel is hoger beroep bij het Bundesgerichtshof ingesteld. 
+
+
+2.12.
+In procedures in eerste aanleg in Spanje en de Verenigde Staten zijn (het Spaanse deel van) EP 364 respectievelijk het parallelle Amerikaanse octrooi US 5948437 in stand gebleven. 
+
+
+2.13.
+Bij brief van 9 juli 2012 deed Sandoz bij monde van haar advocaat AstraZeneca een aanbod met – kort gezegd – de strekking dat zij zou afzien van de marktintroductie van een generieke variant van Seroquel XR op voorwaarde dat AstraZeneca zou toezeggen aansprakelijk te zijn voor de schade in het geval het octrooi in hoger beroep zou worden vernietigd. Het aanbod was als volgt geformuleerd. 
+
+
+This is to inform you that as your client AstraZeneca may know our client Sandoz has been ready to enter the Dutch market with a generic sustained release quetiapine composition since 23 March 2012 i.e. after expiry of your Dutch SPC 980022 based on the basic patent for quetiapine (EP 0 240 228).
+
+ 
+
+
+Sandoz requested the Hague District Court by writ of 31 May 2011 to nullify the Dutch part of EP 0 907 364 to prevent your client from relying on that patent against Sandoz in the Netherlands. By decision of 7 March 2012 the District Court however held EP (NL) 364 to be valid. By decision of 22 March 2012 the Patents Court of the UK High Court of Justice (Mr. Justice Arnold) reached the opposite conclusion explaining in some detail why the District Court was wrong.
+
+ 
+
+
+Obviously Sandoz disagrees with the Hague District Court’s decision and we have filed an appeal on Sandoz' behalf in the Netherlands (by writ of 11 May 2012). Sandoz is of the opinion that your client should not be entitled to enforce EP (NL) 364 in the meantime. However Sandoz also realizes that when your client would invoke EP (NL) 364 against Sandoz pending appeal the (PI Judge of the) Hague District Court will most likely grant an injunction because he/she will most likely have to defer to the 7 March 2012 decision. If the Court of Appeal invalidates (with retro-active effect) the relevant claims of EP (NL) 364 on appeal your client would then be liable for the damage Sandoz incurs resulting from keeping Sandoz off the Dutch market.
+
+ 
+
+
+To avoid having to go through PI proceedings in the Netherlands we ask that your client acknowledges by return mail to us undersigned by a duly authorized person that your client is liable for all damages arising from AstraZeneca's current and future imminent or actual enforcement of EP (NL) 364 in the Netherlands vis-à-vis Sandoz affiliated companies and/or its customers in connection with the above product in case the relevant claims of EP (NL) 364 are invalidated by a final judgment. This undertaking will be governed by the laws of The Netherlands and the courts of The Hague shall have exclusive jurisdiction.
+
+ 
+
+
+If you do not agree within 10 working days after receipt of this letter to provide us with the requested cross-undertaking Sandoz will ask for the listing of our product in the G-standaard as it is otherwise operationally ready to launch and has been so since at least 23 March 2012.
+
+ 
+
+
+2.14.
+Bij brief van 23 juli 2012 wees AstraZeneca het aanbod van de hand en wees zij Sandoz erop dat het octrooi naar het oordeel van de Spaanse rechter geldig is en dat in de Engelse procedure in het verweer tegen de nietigheidsvordering niet alle argumenten zijn gevoerd die door AstraZeneca voor de Haagse rechtbank naar voren zijn gebracht. 
+
+
+2.15.
+Bij brief van 8 juli 2013 kondigde Sandoz aan dat zij haar generieke quetiapineproducten met vertraagde afgifte in de G-standaard zou laten opnemen en herhaalde zij haar aanbod dat zij zou afzien van de marktintroductie van dat product in ruil voor de aanvaarding van aansprakelijkheid voor schade in het geval het octrooi zou worden vernietigd. Dit laatste aanbod werd als volgt geformuleerd: 
+
+
+For the avoidance of costs resulting from PI proceedings we offer to withdraw our product from the listing in exchange for an undertaking from your client which acknowledges that they are liable for all damages in the same manner as would be determined by a court in the Netherlands in such matters arising from AstraZeneca's enforcement of EP (NL) 364 in the Netherlands against Sandoz affiliated companies and/or its customers in connection with Sandoz' generic sustained release quetiapine product since at least July 23 2012. This undertaking will be governed by the laws of The Netherlands with exclusive jurisdiction in the Courts of The Hague undersigned by a duly authorized person for your client and returned to us no later than 12:00 on July 10 2013.
+
+ 
+
+
+If we do not receive this undertaking by the above date and time we will proceed with the publication of our listing on the G-Standaard. If your client chooses to request a PI and recover their legal costs in such an action we will present a copy of this letter to the court demonstrating that any costs are not "proportionate and reasonable" as they could have been easily avoided with the above-requested undertaking.
+
+ 
+
+
+2.16.
+Bij brief van 10 juli 2013 wees AstraZeneca ook dit aanbod van de hand en benadrukte zij dat opname in de G-standaard in de onderhavige omstandigheden een (strafrechtelijk verwijtbare) inbreuk inhoudt. 
+
+
+2.17.
+Op 16 juli 2013 heeft Sandoz generieke quetiapine met vertraagde afgifte laten opnemen in de G-standaard. 
+
+
+
+
+3 Het geschil 
+
+3.1.
+AstraZeneca vordert – samengevat – dat de voorzieningenrechter bij vonnis uitvoerbaar bij voorraad Sandoz verbiedt om in Nederland inbreuk te maken op EP 364 meer in het bijzonder het in het verkeer brengen verder verkopen afleveren of anderszins verhandelen van generieke quetiapine met vertraagde afgifte en haar gebiedt haar quetiapineproducten met vertraagde afgifte uit de G-standaard te laten verwijderen met nevenvorderingen waaronder een advertentie in het Pharmaceutisch Weekblad en een recall een en ander op straffe van een dwangsom en met veroordeling van Sandoz in de kosten van het geding overeenkomstig artikel 1019h van het Wetboek van Burgerlijke Rechtsvordering (hierna: Rv).  
+
+
+3.2.
+AstraZeneca heeft tevens een provisioneel verbod gevorderd met gelding voor de duur van het geding dat wil zeggen tot vonnis zal worden gewezen in het onderhavige kort geding eveneens met veroordeling van Sandoz in de proceskosten. Ter zitting heeft Sandoz evenwel toegezegd gedurende het onderhavige kort geding dat wil zeggen tot in deze zaak vonnis zal worden gewezen geen (verdere) handelingen te zullen verrichten ter introductie op de Nederlandse markt van haar quetiapineproduct. AstraZeneca heeft hierop haar vordering met betrekking tot een provisioneel verbod voor de duur van de onderhavige procedure ingetrokken. 
+
+
+3.3.
+Aan haar vorderingen legt AstraZeneca ten grondslag dat Sandoz een generiek quetiapineproduct met vertraagde afgifte dat valt onder de beschermingsomvang van EP 364 aanbiedt en verhandelt althans dreigt te verhandelen.  
+
+
+3.4.
+Sandoz voert gemotiveerd verweer. 
+
+
+3.5.
+Op de stellingen van partijen wordt hierna voor zover van belang nader ingegaan.  
+
+
+
+
+4 De beoordeling
+bevoegdheid
+
+4.1.
+De voorzieningenrechter van deze rechtbank is bevoegd op grond van het bepaalde in artikel 80 lid 2 onder a Rijksoctrooiwet 1995. De bevoegdheid is overigens niet bestreden. 
+
+
+spoedeisend belang
+
+ 
+
+
+4.2.
+AstraZeneca heeft volgens Sandoz geen (spoedeisend) belang bij haar vorderingen omdat zij hetzelfde resultaat – het generieke quetiapineproduct van Sandoz blijft van de markt maar AstraZeneca is aansprakelijk voor de schade mocht EP 364 in beroep nietig worden geacht – had kunnen bereiken door het accepteren van het aanbod van Sandoz. Nu zij dit aanbod zonder toelichting van de hand heeft gewezen zou haar een verbodsvordering in kort geding moeten worden ontzegd zo stelt Sandoz. Het belang van AstraZeneca bij haar vorderingen is in de onderhavige omstandigheden volgens Sandoz in ieder geval onvoldoende in de zin van artikel 3:303 van het Burgerlijk Wetboek. 
+
+
+4.3.
+AstraZeneca heeft hier – naar voorlopig oordeel terecht – tegen aangevoerd dat zij wel degelijk belang heeft bij haar vorderingen nu zij met de gevorderde voorlopige maatregelen beoogt een eind te maken aan een volgens haar onrechtmatige situatie. Dat zij reeds in een eerder stadium in de gelegenheid zou zijn geweest die situatie te beëindigen of te voorkomen namelijk door tijdig in te gaan op het aanbod van Sandoz zoals Sandoz stelt en AstraZeneca betwist doet aan het thans bij AstraZeneca aanwezige belang voorshands niet af.  
+
+
+4.4.
+Bovendien heeft Sandoz desgevraagd niet aangegeven dat als een verbod om deze reden zou worden geweigerd zij zich nochtans zal blijven onthouden van inbreuk (versterkt met een boetebeding). Dat betekent dat ervan uit moet worden gegaan dat Sandoz indien haar stelling zou worden gevolgd en geen verbod worden opgelegd met haar generieke quetiapine met vertraagde afgifte daadwerkelijk op de markt zal komen. Zo doende zou Sandoz – uitgaande van het oordeel van de rechtbank dat EP 364 geldig is waarover hierna – per saldo ongestraft octrooi-inbreuk kunnen maken. Zulks onderstreept dat AstraZeneca wel degelijk (spoedeisend) belang heeft bij de vordering. 
+
+
+geldigheid EP 364
+
+ 
+
+
+4.5.
+Tussen partijen is niet in geschil dat het generieke quetiapine met vertraagde afgifte van Sandoz dat op korte termijn op de markt kan worden gebracht ten behoeve van eindgebruikers onder de beschermingsomvang van EP 364 valt. Evenmin in geschil is dat opname in de G-standaard als een (inbreukmakende) handeling moet worden aangemerkt waartegen een octrooihouder in beginsel kan optreden. 
+
+
+4.6.
+In dit kort geding stelt Sandoz zich onder meer op het standpunt dat het vonnis van 7 maart 2012 waarin EP 364 geldig werd geacht kennelijke misslagen bevat. De rechtbank zou bij een correcte toepassing van het recht en uitgaande van de juiste feiten het octrooi hebben vernietigd zo betoogt Sandoz zodat voor het gevorderde verbod geen plaats is.  
+
+
+4.7.
+De voorzieningenrechter zal zijn oordeel moeten afstemmen op de beslissing van de rechtbank van 7 maart 2012 zoals ook Sandoz erkent. Er is in beginsel geen ruimte in kort geding (opnieuw) de geldigheid te onderzoeken van een octrooi dat door de bodemrechter reeds geldig is geacht dan wel om de kans van slagen van een hoger beroep van een dergelijk vonnis in te schatten. Dit is evenwel anders als de bodemrechter kennelijke misslagen heeft begaan of wanneer omstandigheden die zich hebben voorgedaan na het oordeel van de bodemrechter het oordeel ten gronde hadden beïnvloed als deze daar kennis van had genomen (vgl. HR 7 januari 2011 (Yukos / Rosneft c.s.) NJ 2011/304 ECLI:NL:HR:2011:BP0015). Deze uitzondering doet zich hier voor zo stelt Sandoz.  
+
+
+4.8.
+Sandoz stelt dat het vonnis van 7 maart 2012 een aantal kennelijke misslagen bevat. Ten eerste zou de rechtbank de problem-solution-approach niet correct hebben toegepast. Ten tweede zou de rechtbank hebben gedwaald over het first pass metabolisme en de pH-afhankelijke oplosbaarheid van quetiapine. 
+
+
+4.9.
+Het betoog van Sandoz met betrekking tot de problem-solution-approach komt er kort gezegd op neer dat de rechtbank is uitgegaan van een te ruim geformuleerd objectief probleem en dat zij (daardoor) te veel factoren een rol heeft laten spelen bij haar oordeel over de inventiviteit van de geoctrooieerde uitvinding. Als zij was uitgegaan van het probleem dat een formulering voor vertraagde afgifte werd gezocht voor quetiapine dan had zij geoordeeld dat de gemiddelde vakman zonder inventieve arbeid tot de uitvinding van EP 364 zou zijn gekomen zo stelt Sandoz. Er was in de stand van de techniek immers een pointer te vinden die de vakman zou doen onderzoeken of vertraagde afgifte door middel van een geleermiddel een oplossing zou bieden. Een vooroordeel dat de vakman zou weghouden van deze onderzoeksrichting bestond volgens Sandoz destijds niet. 
+
+
+4.10.
+De rechtbank heeft niet geoordeeld of er een dergelijke positieve pointer aanwezig was en vervolgens onderzocht of er een relevant vooroordeel bestond maar heeft – naar Sandoz meent ten onrechte – een afweging gemaakt van de door haar geconstateerde positieve en negatieve pointers in de stand van de techniek. Op grond van deze afweging oordeelde zij dat het destijds niet voor de hand zou liggen om te komen tot de in EP 364 geoctrooieerde vertraagde afgifte door toepassing van een geleermiddel. 
+
+
+4.11.
+Het is de voorzieningenrechter bekend dat verschillend wordt gedacht over de juiste aanpak ter beoordeling van de inventiviteit en of positieve en negatieve pointers tezamen moeten worden gewaardeerd zoals de rechtbank kennelijk heeft gedaan of dat tegenover een positieve pointer een vooroordeel moet worden gesteld om nog van inventiviteit te kunnen spreken. Mogelijk is dat het gerechtshof in de ingestelde beroepsprocedure de door Sandoz voorgestane beoordeling volgt maar dat is geenszins zeker. Dat de door de rechtbank gedane afweging als zodanig reeds zou moeten worden aangemerkt als kennelijke (juridische) misslag is voorshands zodoende niet aannemelijk geworden.  
+
+
+4.12.
+Ten aanzien van de gestelde feitelijke misslagen in het vonnis met betrekking tot het first pass metabolisme en de pH-afhankelijke oplosbaarheid van quetiapine geldt naar voorlopig oordeel dat er mede in het licht van de overwegingen die de Engelse rechter wijdde aan het vonnis van 7 maart 2012 twijfel mogelijk is omtrent de juistheid van het oordeel van de rechtbank. Zo is op de vaststelling in r.o. 5.35 dat “[e]en lineaire farmacokinetiek [erop duidt] dat het verzadigingspunt van het enzymatisch afbraakproces is bereikt” naar voorlopig oordeel steekhoudende kritiek leverbaar. Dit is door AstraZeneca ter zitting ook erkend. Wat daar echter ook van zij niet duidelijk is of een ander oordeel op het punt van het first pass metabolisme of op dat van de pH-afhankelijke oplosbaarheid van quetiapine zou hebben geleid tot een andere eindbeslissing met betrekking tot de geldigheid van EP 364 laat staan dat sprake is van kennelijk misslagen die maken dat in dit kort geding het vonnis van 7 maart 2013 niet zou moeten worden gevolgd. 
+
+
+misbruik van recht 
+
+ 
+
+
+4.13.
+Evenmin is voorshands oordelend sprake van misbruik van recht door AstraZeneca. Dat zij haar vorderingen slechts heeft ingesteld om Sandoz te schaden zoals Sandoz stelt is gelet op het belang dat AstraZeneca heeft bij het verdedigen van haar marktpositie naar voorlopig oordeel niet aannemelijk. De omstandigheid dat zij zulks doet door zich – ook in rechte – te beroepen op een octrooi waarvan de geldigheid nog onderwerp is van een juridische procedure is voorshands niet onrechtmatig ook niet als rekening wordt gehouden met de beslissingen van twee vooraanstaande buitenlandse rechters die dat octrooi ongeldig achtten. De beslissing van de Nederlandse rechtbank als bodemrechter is in dit opzicht voorshands van doorslaggevend belang. In deze omstandigheden hoefde AstraZeneca dan ook niet te concluderen dat de kans dat EP 364 in de Nederlandse appelprocedure alsnog zou sneuvelen dusdanig groot was dat zij niet tot handhaving had mogen overgaan. 
+
+
+4.14.
+Dat AstraZeneca naar redelijkheid niet tot de uitoefening van haar bevoegdheid tot handhaven van EP 364 had kunnen komen in aanmerking nemende de onevenredigheid tussen haar belang bij de uitoefening en het belang dat daardoor wordt geschaad is niet aannemelijk geworden. In deze omstandigheden gaat het te ver om een vordering in kort geding van een inbreukverbod op grond van een – door de Nederlandse bodemrechter in eerste aanleg geldig bevonden – octrooi als misbruik van recht aan te merken ook als de omstandigheid wordt meegewogen dat tegen dit octrooi een appelprocedure aanhangig is en twee – vooraanstaande – buitenlandse octrooirechters anders hebben geoordeeld. Hier kan nog aan worden toegevoegd dat AstraZeneca in beginsel door executie van dit kort geding vonnis aansprakelijk kan worden gehouden voor schade van Sandoz in het geval in de appelprocedure anders zou worden beslist. 
+
+
+slotsom
+
+ 
+
+
+4.15.
+Op grond van het voorgaande luidt het voorlopig oordeel dat geen sprake is van kennelijke misslagen in het vonnis van 7 maart 2012 die zouden maken dat voorshands niet kan worden uitgegaan van de door de bodemrechter in eerste aanleg vastgestelde geldigheid van EP 364 zodat voldoende grond bestaat voor toewijzing van de vorderingen. AstraZeneca heeft bovendien (voldoende) belang bij een inbreukverbod en kan haar bevoegdheid tot handhaving in redelijkheid uitoefenen. Het toe te wijzen inbreukverbod omvat de vermelding in de G-standaard met dien verstande dat de voorzieningenrechter Sandoz zal gebieden haar generieke quetiapineproducten uit de G-standaard te laten verwijderen op de kortst mogelijke termijn. De verbodsvordering zal dan ook worden toegewezen als in het dictum verwoord. 
+
+
+4.16.
+AstraZeneca heeft gesteld dat zij bij de overige nevenvorderingen het bevel een advertentie te plaatsen de opgave van afnemers en een recall (spoedeisend) belang heeft omdat daarmee de onduidelijkheid en verwarring die in de markt zou zijn ontstaan door de vermelding in de G-standaard van de generieke quetiapine (met vertraagde afgifte) van Sandoz kan worden weggenomen. Nu aan de mogelijk ontstane onduidelijkheid en verwarring reeds een einde wordt gemaakt door het toe te wijzen inbreukverbod en het bevel de opname in de G-standaard ongedaan te maken is er naar voorlopig oordeel geen aanleiding om verdergaande maatregelen te treffen. Daarbij speelt een rol dat Sandoz ter zitting te kennen heeft gegeven dat zij haar generieke quetiapine met vertraagde afgifte nog niet in Nederland in voorraad heeft of heeft uitgeleverd. Deze overige nevenvorderingen zullen dan ook worden afgewezen. 
+
+
+proceskosten
+
+ 
+
+
+4.17.
+Sandoz zal als de in het ongelijk gestelde partij in de proceskosten worden veroordeeld. De kosten (inclusief die van de provisie) aan de zijde van AstraZeneca bedragen volgens de door haar overgelegde specificatie en de daarop door AstraZeneca zelf toegepaste matiging € 25.000=. Daarvan kan volgens AstraZeneca € 1.250= worden toegerekend aan de (ingetrokken) provisionele vordering en € 23.750= aan de overige vorderingen. 
+
+
+4.18.
+De stelling van Sandoz dat de kosten onnodig zijn gemaakt als gevolg van de opstelling van AstraZeneca in de aanloop naar dit kort geding wordt als voorshands onjuist van de hand gewezen. Het niet accepteren van het aanbod van Sandoz staat aan een kostenveroordeling ten gunste van AstraZeneca niet in de weg omdat dat aanbod naar voorlopig oordeel niet is gelijk te stellen aan de (voor AstraZeneca gunstige) uitkomst van dit kort geding. Acceptatie van het aanbod zou met zich brengen dat AstraZeneca een ruimere toezegging zou doen met betrekking tot de omvang van haar aansprakelijkheid en de betrokken partijen dan mogelijk door een rechter in een procedure tot schadevergoeding zou worden vastgesteld als gevolg van (mogelijk) onrechtmatige executie van dit vonnis. AstraZeneca heeft daarbij terecht gewezen op onder meer een groter aantal partijen (waaronder afnemers van Sandoz en aan haar gelieerde ondernemingen) dan in deze procedure en voorts op een eerder liggende ingangsdatum voor aansprakelijkheid (23 juli 2012 zie r.o. 2.15). Dat AstraZeneca het aanbod niet (zonder meer) heeft willen aanvaarden acht de voorzieningenrechter dan ook niet onredelijk. Evenmin onredelijk is in deze omstandigheden dat zij haar belangen als octrooihouder in kort geding heeft willen veiligstellen. 
+
+
+4.19.
+Het bezwaar van Sandoz tegen de hoogte van de door AstraZeneca gevorderde (en op voorhand reeds door haar gematigde) kosten treft evenmin doel nu die kosten de voorzieningenrechter redelijk voorkomen gelet op de aard en complexiteit van de zaak. Dat AstraZeneca ook kosten heeft moeten maken ter onderbouwing van de inbreuk is niet onredelijk nu zij er rekening mee mocht houden dat Sandoz een niet-inbreukverweer zou voeren. Voor een (verdere) matiging op grond van de billijkheid ziet de voorzieningenrechter geen aanleiding. 
+
+
+4.20.
+De proceskosten aan de zijde van AstraZeneca zullen gelet op het voorgaande worden vastgesteld op € 23.750= aan salaris advocaat te vermeerderen met € 589= aan griffierecht en € 8171 aan explootkosten (welke kosten niet in de opgave waren opgenomen) in totaal derhalve op € 24.42071 te verhogen met wettelijke rente. 
+
+
+
+
+5 De beslissing
+De voorzieningenrechter 
+
+5.1.
+gebiedt Sandoz na betekening van dit vonnis op de kortst mogelijke termijn het nodige te doen om haar generieke quetiapineproducten met vertraagde afgifte uit de G-standaard te laten verwijderen en verbiedt Sandoz overigens met onmiddellijke ingang na betekening van dit vonnis in Nederland inbreuk te maken op het octrooi EP 364 onder meer door het in het verkeer brengen verder verkopen afleveren of anderszins verhandelen of voor dit een of ander (verder) aanbieden van generieke quetiapine met vertraagde afgifte; 
+
+
+5.2.
+veroordeelt Sandoz tot betaling aan Astrazeneca van een dwangsom van € 50.000= voor iedere dag dat in strijd met het onder 5.1. gegeven gebod en verbod wordt gehandeld of een dwangsom van € 5.000= per ieder individueel product met betrekking waarmee Sandoz in strijd handelt met het onder 5.1. gegeven verbod een en ander met een maximum van € 1.000.000=; 
+
+
+5.3.
+veroordeelt Sandoz in de proceskosten aan de zijde van AstraZeneca tot op heden begroot op € 24.42071 te verhogen met wettelijke rente met ingang van 14 dagen na betekening van dit vonnis; 
+
+
+5.4.
+bepaalt de termijn voor het instellen van een eis in de hoofdzaak als bedoeld in artikel 1019i Rv op zes maanden na dagtekening van dit vonnis; 
+
+
+5.5.
+verklaart dit vonnis uitvoerbaar bij voorraad; 
+
+
+5.6.
+wijst af het meer of anders gevorderde. 
+
+Dit vonnis is gewezen door mr. E.F. Brinkman en in het openbaar uitgesproken op 15 augustus 2013 in tegenwoordigheid van de griffier mr. R.P. Soullié.
+
+
+
+1
+J.P. Remington: The Science and Practice of Pharmacy (editie 1995) hoofdstuk 94 getiteld Sustained Release Drug Delivery Systems p. 1660-1675
+2
+M.E. Aulton: Pharmaceutics: The Science of Dosage Form Design 1988 hoofdstuk 18 getiteld Tablets p. 304-321
+3
+Formulating for Controlled Release with METHOCEL Premium cellulose ethers 1995 
+4
+Dit tweede voordeel wordt door Sandoz c.s. eerst bij pleidooi opgevoerd als (met name) bepalend voor de motivatie van de gemiddelde vakman om een vertraagde afgifte formulering van quetiapine te maken zoals door Astrazeneca terecht is opgemerkt zonder dat zij daartegen formeel bezwaar heeft gemaakt.
+5
+Uitgaande van de door Sandoz c.s. geformuleerde probleemstelling is het anders dan Sandoz c.s. stelt (pleitnota noot 7) dus wel relevant dat bij een vertraagde afgifte formulering vanwege de pH-afhankelijke oplosbaarheid van quetiapine het afgifteprofiel grillig kan worden of relatief veel wordt afgegeven in de maag (dose dumping) nu dit geen ‘stabiel gewenst plasmaniveau’ oplevert.
+6
+Professor Dr. R. Kahn partijdeskundige aan de zijde van AstraZeneca noemt (onweersproken) ook andere op het centrale zenuwstelsel werkende middelen die na markttoelating van de markt moesten worden gehaald wegens ernstige bijwerkingen: remoxipride (1993) sertindole (1998) en zimelidine (1983).
+7
+H. Wetzel A. Szegedi Ch. Hain J. Wiesner S. Schlegel O. Benkert: Seroquel (ICI 204 636) a putative "atypical" antipsychotic in schizophrenia with positive symptomatology: results of an open clinical trial and changes of neuroendocrinological and EEG parameters Psychopharmacology (1995) 119 p. 231-238.
+8
+W.W. Fleischhacker C.G.G. Linkz B.C. Hurst ICI 204636 ('SEROQUEL') - a putative new atypical antipsychotic: results from phase III trials.
+9
+Practice Guideline for the Treatment of Patients with Schizophrenia van de American Psychiatric Association (1994)
+10
+D.E. Casey 'Seroquel' (quetiapine): preclinical and clinical findings of a new atypical antipsychotic Exp. Opin. Invest. Drugs 5(8) (1996) p. 939-957
+11
+L.F. Fabre L.F. L. Arvantis J. Pultz V.M. Jones J.B. Malick V.B. Slotnick ICI 204636 a novel atypical antipsychotic: early indication of safety and efficacy in patients with chronic and subchronic schizophrenia Clinical Therapeutics (1995) 17:3 (1995) p. 366-378
+12
+S.R. Hirsch C.G.G. Link J.M. Goldstein L.A. Arvanitis: ICI 204636: A New Atypical Antipsychotic Drug British Journal of Psychiatry (1996) 168 (suppl 29) p. 45-56
+13
+W.W. Shen The need for depot atypical antipsychotics in the U.S. Psychiatr Serv (1998) 49 No. 6 p. 727
+14
+R.N. Greenberg Overview of Patient Compliance with Medication Dosing: A Literature Overview Clinical Therapeutics (1984) 6(5) p. 592-599
+15
+W.S. Fenton C.R. Blyler R.K. Heinssen Determinance of Medication Compliance in Schizophrenia: Empirical and Clinical Findings Schizophrenia Bulletin (1997) 23 p. 637-651
+16
+Casey 1996 D.E. Casey The Relationship of Pharmacology to Side Effects J.Clin Psychiatry 58 (1997) suppl. 10 p. 55-62 en J.A. Lieberman Atypical Antipsychotic Drugs as a First-Line Treatment of Schizophrenia: A Rationale and Hypothesis J Clin Psychiatry 57 (1996) suppl. 11 p. 68-71.
+17
+Textbook of Psychiatry M. Gelder D. Gath R. Mayou P. Cowen OxfordUniversity Press 1996.
+18
+eerste verklaring van Prof. Frijlink paragraaf 17
+19
+H.Y. Meltzer The Role of Serotonin in Schizophrenia and the Place of Serotonin-Dopamine Antagonist Antip-sychotic Journal of Clinical Psychopharmacology (1995) Vol. 15 No. 1 p. 2S-3S
+20
+C.A. Tamminga A.C. Lahti The new generation of antipsychotic drugs International Clinical Psychopharmacology Volume 11 suppl. 2 (1996) p. 73-76
+21
+P. Seeman T. Tallerico Rapid Release of Antipsychotic Drugs From Dopamine D2 Receptors: An Explanation for Low Receptor Occupancy and Early Clinical Relapse Upon Withdrawal of Clozapine or Quetiapine Am J Psychiatry 156:6 (1999) p. 876-884
+22
+J.R. Robinson Sustained and Controlled Release Drug Delivery Systems Marcel Dekker Inc. (1978) p. 92
+23
+L.F. Prescott and W.S. Nimmo Novel Drug Delivery and its Therapeutic Application John Wiley & Sons Inc. (1989) p. 179
+24
+G.S. Banker and C.T. Rhodes Modern Pharmaceutics Marcel Dekker Inc. (1979) p. 193
+25
+tabel 2 p. 941
+26
+In reactie op de verklaring van Frijlink dat als sprake is van een hoog first pass metabolisme in dieren het dan zeer reëel is om te veronderstellen dat dit ook bij mensen zo zal zijn.
+27
+Nog steeds uitgaande van het door Sandoz c.s. geformuleerde objectieve probleem
+28
+W.M. Scheld Drug Delivery to the Central Nervous System: General Principles and Relevance to Therapy for Infections of the Central Nervous System Reviews of Infectious Diseases Vol. 11 Suppl. 7 (1989) S1669-1690 
+29
+K.V. Ranga Rao c.s. “Influence of molecular size and water solubility of the solute on its release from swelling and erosion controlled polymeric matrices” Journal of Controlled Release (1990) p. 133-141 
+30
+ [2012] EWHC 655 (Pat)
+31
+ [2013] EWCA Civ 454

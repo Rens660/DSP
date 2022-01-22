@@ -1,0 +1,767 @@
+
+
+GERECHTSHOF DEN HAAG 
+Afdeling Civiel recht 
+
+Zaaknummer	: 200.244.921/01
+ 
+
+Zaaknummer rechtbank	: C/09/532013 / HA ZA 17-488 
+ 
+
+
+arrest van 27 augustus 2019 (bij vervroeging)
+
+ 
+
+inzake
+ 
+
+
+Icos Corporation
+gevestigd te Indianapolis Indiana Verenigde Staten
+appellante
+hierna te noemen: Icos
+advocaat: mr. J.A. Dullaart te Naaldwijk
+ 
+
+tegen
+ 
+
+
+Teva Pharmaceuticals Europe B.V.
+
+gevestigd te Amsterdam
+geïntimeerde
+hierna te noemen: Teva
+advocaat: mr. R. Dijkstra te Amsterdam.
+ 
+
+
+
+1 Het geding 
+
+1.1
+Bij exploot van 13 juni 2018 is Icos in hoger beroep gekomen van een door de rechtbank Den Haag tussen partijen gewezen vonnis van 14 maart 2018. Bij memorie van grieven met producties (MvG) heeft Icos tweeëntwintig grieven aangevoerd. Bij memorie van antwoord met producties (MvA) heeft Teva de grieven bestreden. Beide partijen hebben bij akte nadere producties in het geding gebracht.  
+
+
+1.2
+Partijen hebben op 11 juli 2019 de zaak doen bepleiten Icos door mrs. K.A.J. Bisschop en H. Zagers advocaten te Amsterdam en Teva door haar advocaat voornoemd en mrs. T.D. Stigterman en B.B. van der Wansem kantoorgenoten aan beide zijden aan de hand van overgelegde pleitnotities. Daarna hebben partijen arrest gevraagd. 
+
+
+
+
+2 De feiten 
+
+De door de rechtbank in het vonnis van 14 maart 2018 vastgestelde feiten zijn niet in geschil. Ook het hof zal daarvan uitgaan. Het gaat in deze zaak om het volgende:
+ 
+
+2.1
+Zowel Teva (onderdeel van de Teva groep) als Icos (een dochtermaatschappij van Eli Lilly and Company) houden zich bezig met de productie distributie en verhandeling van geneesmiddelen.  
+
+
+2.2
+Icos is houdster van Europees Octrooi 1 173 181 B3 (hierna: EP 181 of het octrooi) met de titel Compositions comprising phosphodiesterase inhibitors for the treatment of sexual disfunction. EP 181 is als PCT-aanvrage aangevraagd op 26 april 2000 en gepubliceerd als WO 2000/066099 en doet een beroep op prioriteit van de Amerikaanse octrooiaanvrage 132 036 P van 30 april 1999. EP 181 is in zijn oorspronkelijke vorm verleend op 15 oktober 2003. Op 25 maart 2015 is EP 181 in een procedure bij het Europees Octrooibureau (EOB) beperkt tot de navolgende conclusies:  
+1. A pharmaceutical unit dosage composition comprising 1 to 5 mg of a compound having the structural formula: 
+
+
+
+
+
+
+said unit dosage form suitable for oral administration up to a maximum total dose of 5 mg per day.
+ 
+2. The dosage form of claim 1 comprising 2.5 mg of the compound in unit dosage form. 
+3. The dosage form of claim 1 comprising 5 mg of the compound in unit dosage form. 
+4. The dosage form of any one of claims 1 through 3 wherein the unit dose is in a form selected from a liquid a tablet a capsule or a gelcap. 
+5. The dosage form of any one of claims 1 through 3 wherein the unit dose is in the form of a tablet. 
+6. The dosage form of any one of claims 1 through 3 for use in treating a condition where inhibition of PDE5 is desirable. 
+7. The dosage form of claim 6 wherein the condition is a sexual dysfunction. 
+8. The dosage form of claim 7 wherein the sexual dysfunction is male erectile dysfunction. 
+9. The dosage form of claim 7 wherein the sexual dysfunction is female arousal disorder. 
+10. Use of a unit dose containing 1 to 5 mg of a compound having the structure 
+
+
+
+
+
+
+for the manufacture of a medicament for administration up to a maximum total dose of 5 mg of said compound per day in a method of treating sexual dysfunction in a patient in need thereof.
+ 
+11. A use according to Claim 10 wherein the medicament is for administration with one or more unit doses containing 1 to 5 mg of said compound up to a maximum total dose of 5 mg of said compound per day. 
+12. The use of Claim 10 or 11 wherein the unit dose contains 2.5 mg of the compound. 
+13. The use of Claim 10 or 11 wherein the unit dose contains 5 mg of the compound. 
+14. The use of any one of Claims 10 to 13 wherein the unit dose is in a form selected from a liquid a tablet a capsule or a gelcap. 
+15. The use of any one of Claims 10 to 13 wherein the unit dose is in the form of a tablet. 
+16. A use according to any one of Claims 10 to 15 wherein the sexual dysfunction is male erectile dysfunction. 
+17. A use according to any one of Claims 10 to 15 wherein the sexual dysfunction is female arousal disorder. 
+
+
+2.3
+In de (onbestreden) Nederlandse vertaling luiden de conclusies als volgt: 
+1. Een farmaceutische eenheidsdoseringsamenstelling die 1-5 mg omvat van een verbinding met de structuurformule: 
+
+
+
+
+
+
+genoemde eenheidsdoseringsvorm is geschikt voor orale toediening tot een maximale totale dosis van 5 mg per dag.
+ 
+2. Doseringsvorm volgens conclusie 1 die 25 mg omvat van de verbinding in eenheidsdoseringsvorm. 
+3. Doseringsvorm volgens conclusie 1 die 5 mg omvat van de verbinding in eenheidsdoseringsvorm. 
+4. Doseringsvorm volgens willekeurig welke van een van de conclusies 1-3 waarbij de eenheidsdosis in een vorm is gekozen uit een vloeistof een tablet een capsule of gelcapsule. 
+5. Doseringsvorm volgens willekeurig welke van een van de conclusies 1-3 waarbij de eenheidsdosis in de vorm van een tablet is.
+6. Doseringsvorm volgens willekeurig welke van een van de conclusies 1-3 voor toepassing bij het behandelen van een aandoening waarbij remmen van PDE5 gewenst is. 
+7. Doseringsvorm volgens conclusie 6 waarbij de aandoening een seksuele disfunctie is. 
+8. Doseringsvorm volgens conclusie 7 waarbij de seksuele disfunctie een erectiele disfunctie is. 
+9. Doseringsvorm volgens conclusie 7 waarbij de seksuele disfunctie een opwindingsstoornis bij de vrouw is. 
+10. Toepassing van een eenheidsdosering die 1-5 mg omvat van een verbinding met de structuur: 
+
+
+
+
+
+
+voor de bereiding van een geneesmiddel voor toediening tot een maximale totale dosis van 5 mg van de verbinding per dag in een werkwijze voor het behandelen van seksuele disfunctie bij een patiënt die daaraan behoefte heeft.
+ 
+11. Toepassing volgens conclusie 10 waarbij het geneesmiddel voor toediening is met een of meer eenheidsdoses die 1-5 mg van de verbinding bevatten met een maximale totale dosis van 5 mg van de verbinding per dag. 
+12. Toepassing volgens conclusie 10 of 11 waarbij de eenheidsdosis 25 mg van de verbinding bevat.  
+13. Toepassing volgens conclusie 10 of 11 waarbij de eenheidsdosis 5 mg van de verbinding bevat. 
+14. Toepassing volgens willekeurig welke van een van de conclusies 10-13 waarbij de eenheidsdosis in een vorm is gekozen uit een vloeistof een tablet een capsule of een gelcapsule. 
+15. De toepassing volgens willekeurig welke van een van de conclusies 10-13 waarbij de eenheidsdosis in de vorm van een tablet is. 
+16. Toepassing volgens willekeurig welke van een van de conclusies 10-15 waarbij de seksuele disfunctie erectiele disfunctie is. 
+17. Toepassing volgens willekeurig welke van een van de conclusies 10-15 waarbij de seksuele disfunctie een opwindingsstoornis bij de vrouw is. 
+
+
+2.4
+In de beschrijving van EP 181 is onder meer het volgende opgenomen: 
+
+
+FIELD OF THE INVENTION
+
+ 
+
+[0002] The present invention relates to a highly selective phosphodiesterase (PDE) enzyme inhibitor and to its use in a pharmaceutical unit dosage form. In particular the present invention relates to a potent inhibitor of cyclic guanosine 3’5’-mono-phosphate specific phosphodiesterase type 5 (PDE5) that when incorporated into a pharmaceutical product is useful for the treatment of sexual dysfunction. The unit dosage form described herein is characterized by selective PDE5 inhibition and accordingly provides a benefit in therapeutic areas where inhibition of PDE5 is desired with minimization or elimination of adverse side effects resulting from inhibition of other phosphodiesterase enzymes.
+ 
+
+
+BACKGROUND OF THE INVENTION
+
+ 
+
+[0003] The biochemical physiological and clinical effects of cyclic guanosine 3’5’-mono-phosphate specific phosphodiesterase (cGMP-specific PDE) inhibitors suggest their utility in a variety of disease states in which modulation of smooth muscle renal hemostatic inflammatory and/or endocrine function is desired. Type 5 cGMP-specific phosphodiesterase (PDE5) is the major cGMP hydrolyzing enzyme in vascular smooth muscle and its expression in penile corpus cavernosum has been reported (Taher et al. J. Urol. 149 p. 285A (1993)). Thus PDE5 is an attractive target in the treatment of sexual dysfunction (Murray DN&P 6(3) pp. 150-56 (1993)).
+[0004] A pharmaceutical product which provides a PDE5 inhibitor is currently available and marketed under the trademark VIAGRA®. The active ingredient in VIAGRA® is sildenafil. The product is sold as an article of manufacture including 25 50 and 100 mg tablets of sildenafil and a package insert. The package insert provides that sildenafil is a more potent inhibitor of PDE5 than other known phosphodiesterases (greater than 80 fold for PDE1 inhibition greater than 1000 fold for PDE2 PDE3 and PDE4 inhibition). The IC50 for sildenafil against PDE5 has been reported as 3 nM (Drugs of the Future 22(2) pp. 138-143 (1997)) and as 3.9 nM (Boolel et al. Int. J. of Impotence 8 pp. 47-52 (1996)). Sildenafil is described as having a 4000-fold selectivity for PDE5 versus PDE3 and only a 10-fold selectivity for PDE5 versus PDE6. Its relative lack of selectivity for PDE6 is theorized to be the basis for abnormalities related to color vision.
+[0005] While sildenafil has obtained significant commercial success it has fallen short due to its significant adverse side effects including facial flushing (10% incidence rate). Adverse side effects limit the use of sildenafil in patients suffering from vison abnormalities hypertension and most significantly by individuals who use organic nitrates (…).
+[0006] The use of sildenafil in patients taking organic nitrates causes a clinically significant drop in blood pressure which could place the patient in danger. (…) Thus even with the availability of sildenafil there remains a need to identify improved pharmaceutical products that are useful in treating sexual dysfunction.
+[0007] Daugan U.S. Patent 5859006 discloses certain tetracyclic derivatives that are potent inhibitors of cGMP-specific PDE or PDE5. The IC50 of the compounds disclosed in U.S. Patent No. 5859006 is reported in the range of 1 nM to 10 µM. The oral dosage for such compounds is 0.58 mg daily for an average adult patient (70 kg). Thus unit dosage forms (tablets or capsules) are reported as 0.2 to 400 mg of active compound. Significant adverse side effects attributed to compounds disclosed in U.S. Patent No. 5859006 are not disclosed. WO 97/03675 discloses the use of tetracyclic derivatives of US Patent No 5859006 in the treatment of impotence.
+[0008] Applicants have discovered that one such tetracyclic derivative (…) referred to herein as Compound (I) can be administered in a unit dose that provides an effective treatment without the side effects associated with the presently marketed PDE5 inhibitor sildenafil. Prior to the present invention such side effects were considered inherent to the inhibition of PDE5.
+[0009] Significantly applicants’ clinical studies also reveal that an effective product having a reduced tendency to cause flushing in susceptible individuals can be provided. Most unexpectedly the product also can be administered with clinically insignificant side effects associated with the combined effects of a PDE5 inhibitor and an organic nitrate. Thus the contraindication once believed necessary for a product containing a PDE5 inhibitor is unnecessary when Compound (I) is administered as a unit dose of about 1 to about 20 mg as disclosed herein. Thus the present invention discloses an effective therapy for sexual dysfunction in individuals who previously were untreatable or suffered from unacceptable side effects including individuals having cardiovascular disease such as in individuals requiring nitrate therapy having suffered a myocardial infarction more than three months before the onset of sexual dysfunction therapy and suffering from class 1 congestive heart failure or individuals suffering from vision abnormalities.
+[0010] The present invention relates to Compound (I) in a unit dosage form. That is the present invention relates to a pharmaceutical unit dosage form suitable for oral administration comprising about 1 to about 5 mg Compound (I).
+(…)
+ 
+
+
+DETAILED DESCRIPTION
+
+ 
+
+(…)
+[0018] The term "IC50" is the measure of potency of a compound to inhibit a particular PDE enzyme (e.g. PDE1c PDE5 or PDE6). The IC50 is the concentration of a compound that results in 50% enzyme inhibition in a single dose-response experiment. Determining the IC50 value for a compound is readily carried out by a known in vitro methodology generally described in Y. Cheng et al. Biochem. Pharmacol. 22 pp. 3099-3108 (1973).
+(…)
+[0031] The present invention is based on detailed experiments and clinical trials and the unexpected observations that side effects previously believed to be indicative of PDE5 inhibition can be reduced to clinically insignificant levels by the selection of a compound and unit dose. This unexpected observation enabled the development of a unit dosage form that incorporates Compound (I) in about 1 to about 5 mg per unit dosage forms that when orally administered minimizes undesirable side effects previously believed unavoidable. These side effects include facial flushing vision abnormalities and a significant decrease in blood pressure when Compound (I) is administered alone or in combination with an organic nitrate. The minimal effect of Compound (I) administered in about 1 to about 5 mg unit dosage forms on PDE6 also allows the administration of a selective PDE5 inhibitor to patients suffering from a retinal disease like diabetic retinopathy or retinitis pigmentosa.
+(…)
+ 
+
+
+PREPARATIONS
+
+ 
+
+
+Example 6
+
+ 
+
+[0074]	In two randomized double-blinded placebo controlled studies Compound (I) was administered to patients in need thereof at a range of doses in both daily dosing and for on demand therapy for sexual encounters and intercourse in the home setting. Doses from 5 to 20 mg of Compound (I) were efficacious and demonstrated less than 1% flushing and no reports of vision abnormalities. It was found that a 10 mg dose of Compound (I) was fully efficacious and demonstrated minimal side effects. 
+[0075]	Enhanced erectile function was determined by the International Index of Erectile Function (IIEF) (Rosen et al. Urology 49 pp. 822-830 (1997)) diaries of sexual attempts and a global satisfaction question. Compound (I) significantly improved the percentage of successful intercourse attempts including the ability to attain and maintain an erection in both "on demand" and daily dosing regimens.
+ 
+
+
+Example 7
+
+ 
+
+[0076] A third clinical study was a randomized double-blind placebo-controlled study of Compound (I) administered "on demand" to patients with male erectile dysfunction. Compound (I) was administered over a period of eight weeks in the treatment of male erectile dysfunction (ED). (…) "On demand" dosing is defined as intermittent administration of Compound (I) prior to expected sexual activity.
+[0077] The study population consisted of 212 men at least 18 years of age with mild to severe erectile dysfunction. (…). Compound (I) was administered in 2 mg 5 mg 10 mg and 25 mg doses "on demand" and not more than once every 24 hours. (…)
+(…) 
+[0083] This study also included a safety evaluation. (…) The most commonly reported treatment-emergent adverse events were headache dyspepsia and back pain. The incidence of treatment-emergent adverse events appeared related to dose.
+[0084]	Overall this study demonstrated that all four doses of Compound (I) namely 2 mg 5 mg 10 mg and 25 mg taken "on demand" produced significant improvement relative to placebo in the sexual performance of men with erectile dysfunction as assessed by the IIEF by patient diaries assessing frequency of successful intercourse and intercourse satisfaction and by a global assessment.
+[0085] The combined results from clinical studies showed that administration of Compound (I) effectively treats male erectile dysfunction as illustrated in the following table.
+ 
+
+
+
+
+
+
+
+
+
+
+
+[0086] However it also was observed from the combined clinical studies that the percent of treatment-emergent adverse events increased with an increasing unit dose of Compound (I) as illustrated in the following table:
+ 
+
+
+
+
+
+
+The above table shows an increase in adverse events at 25 mg through 100 mg unit doses. Accordingly even though efficacy in the treatment of ED was observed at 25 mg to 100 mg doses the adverse events observed from 25 mg to 100 mg doses must be considered.
+ 
+
+[0087] In accordance with the present invention a unit dose of about 1 to about 5 mg of Compound (I) administered up to a maximum of 5 mg per 24-hour period both effectively treats ED and minimizes or eliminates the occurrence of adverse side effects. Importantly no vision abnormalities were reported and flushing was essentially eliminated. Surprisingly in addition to treating ED with at about 1 to about 5 mg unit dose Compound (I) with a minimum of adverse side effects individuals undergoing nitrate therapy also can be treated for ED by the method and composition of the present invention. 
+ 
+
+
+2.5
+De verbinding (compound) volgens de structuur van conclusie 1 van EP 181 is tadalafil. Tadalafil wordt onder de merknaam Cialis® (onder meer in Nederland) op de markt gebracht voor de behandeling van erectiestoornissen bij volwassen mannen. Tadalafil remt de werking van het eiwit PDE5 in het zwellichaam in de penis. Dat heeft tot gevolg dat de bloedvaten verwijden waardoor de patiënt bij seksuele stimulatie een erectie kan krijgen.   
+
+
+2.6
+Voordat Cialis® op de markt kwam was voor de behandeling van erectiestoornissen het op de werkzame stof sildenafil gebaseerde geneesmiddel Viagra® op de markt verkrijgbaar (vgl. par. [0004] van EP 181). In de Summary of Product Characteristics (SmPC) van dit middel is onder meer opgenomen: 
+
+
+The recommended dose is 50 mg taken as needed approximately one hour before sexual activity. Based on efficacy and tolerability the dose may be increased to 100 mg or decreased to 25 mg. The maximum recommended dose is 100 mg. The maximum recommended dosing frequency is once per day. (…).
+ 
+
+
+2.7
+De stof tadalafil is onder bescherming gesteld in het inmiddels verlopen Europees octrooi 0 740 668 B1 (getiteld: Tetracyclic derivatives process of preparation and use) waarvan ICOS eveneens houdster was. Het op basis van dit octrooi verleende aanvullende beschermingscertificaat voor tadalafil is verlopen op 14 november 2017. 
+
+
+2.8
+Icos was ook houdster van het inmiddels verlopen Europese octrooi 0 839 040 dat zag op het gebruik van tadalafil voor de behandeling van impotentie. Dit tweede medische indicatie octrooi is aangevraagd op basis van de op 11 juli 1996 ingediende internationale aanvrage gepubliceerd als WO 97/03675 – ook genoemd in par. [0007] van EP 181 – met de titel Use of CGMP-Phosphodiesterase inhibitors to treat impotence (hierna: Daugan).  
+
+2.8.1
+In Daugan is onder meer het volgende opgenomen waarbij ‘Compound A’ tadalafil betreft:  
+
+
+This invention relates to the use of tetracyclic derivatives which are potent and selective inhibitors of cyclic guanosine 3'5'-monophosphate specific phosphodiesterase (cGMP specific PDE) in the treatment of impotence. (pagina 1 r. 3-5)
+ 
+
+
+The specific compounds of the invention are: 
+
+ 
+
+
+(6R12aR)-23671212a-hexahydro-2-methy1-6-(34-methylenedioxyphenyl)- 
+
+
+pyrazino[2'1':61]pyrido[34-b]indole -14-dione (Compound A); and 
+
+
+(3S 6R 12aR)-23671212a-hexahydro-23-dimethy1-6-(34-methylenedioxypheny1)-pyrazino[211' : 61]pyrido[34-b]indole-14-dione (Compound B); 
+
+
+and physiologically acceptable salts and solvates (e.g. hydrates) thereof. 
+
+ 
+
+
+Unexpectedly it has now been found that compounds of formula (I) and in particular compounds A and B are useful in the treatment of erectile dysfunction. Furthermore the compounds may be administered orally thereby obviating the disadvantages associated with i.c. administration. Thus the present invention concerns the use of compounds of formula (I) and in particular compounds A and B or a pharmaceutically acceptable salt thereof or a pharmaceutical composition containing either entity for the manufacture of a medicament for the curative or prophylactic treatment of erectile dysfunction in a male animal including man. (pagina 3 r. 23 - pagina 4 r. 6)
+ 
+
+
+For administration to man in the curative or prophylactic treatment of the disorders identified above oral dosages of a compound of formula (I) and in particular compounds A and B will generally be in the range of from 0.5-800mg daily for an average adult patient (70kg). Thus for a typical adult patient individual tablets or capsules contain from 0.2-400mg of active compound in a suitable pharmaceutically acceptable vehicle or carrier for administration in single or multiple doses once or several times per day. Dosages for buccal or sublingual administration will typically be within the range of from 0.1-400 mg per single dose as required. In practice the physician will determine the actual dosing regimen which will be most suitable for an individual patient and it will vary with the age weight and response of the particular patient. The above dosages are exemplary of the average case but there can be individual instances in which higher or lower dosage ranges may be merited and such are within the scope of this invention. (pagina 5 r. 1-14)
+ 
+
+
+Compounds A and B have been included in pharmacy formulations and details of such formulations are given below 
+
+
+
+
+
+
+
+
+(pagina 12 regel 12 e.v.)
+ 
+
+
+
+
+
+
+(pagina 15 regel 9 e.v.)
+ 
+
+
+The IC50 values for the compounds examined were determined from
+
+
+concentration-response curves using typically concentrations ranging from 10 NM
+
+
+to 10 pM. Test against other PDE enzymes using standard methodology also showed that compounds of the invention are highly selective for the cGMP specific PDE enzyme. (pagina 16 r. 22 – pagina 17 r. 2)
+
+ 
+
+
+The compounds according to the present invention were typically found to exhibit an IC50 value of less than 500nM and an EC50 value of less than 5. In vitro test data for representative compounds of the invention is given in following Table 1:
+
+ 
+
+
+
+
+
+
+
+The above data demonstrates the ability of the subject compounds of the invention to inhibit cGMP PDE and hence their utility in the treatment of erectile dysfunction substantially as hereinbefore described (pagina 17 r. 17-27)
+ 
+
+
+
+2.9
+Tijdens de ontwikkeling van tadalafil als geneesmiddel zijn vier ‘fase 1’ klinische studies uitgevoerd aangeduid als LVBS LVBT LVBU en LVBH. In deze klinische studies zijn de volgende doseringen getest: enkelvoudige doseringen van 1 mg tot 500 mg (LVBS); enkelvoudige doseringen van 100 mg (LVBT); enkelvoudige en meervoudige doseringen van 50 mg (LVBU) en enkelvoudige en meervoudige doseringen van 10 mg 50 mg en 100 mg (LVBH).
+
+
+2.10
+Tijdens de ontwikkeling van tadalafil als geneesmiddel zijn voorts ‘fase 2’ klinische studies uitgevoerd. In het European Public Assessment Report (EPAR) van tadalafil staat (op p. 7 en p.10) hierover onder meer: 
+
+
+
+
+
+
+(…)
+ 
+
+
+
+
+
+
+(…)
+ 
+
+
+2.11
+In het Verenigd Koninkrijk is door onder anderen Teva UK Limited en Teva Pharmaceutical Industries Limited een procedure tot vernietiging van (het Britse) deel van EP 181 gestart. Bij uitspraak van 10 augustus 2016 heeft de High Court kort gezegd geoordeeld dat de vakman uitgaande van Daugan tadalafil als geneesmiddel verder zou ontwikkelen maar daarbij niet zonder inventieve arbeid op een dosering van 5 mg zou zijn uitgekomen. De High Court heeft conclusie 7 van EP 181 daarom geldig bevonden. Bij uitspraak van 1 november 2017 heeft de Court of Appeal echter unaniem geoordeeld dat deze conclusie alsmede conclusies 1 en 10 in het licht van Daugan ongeldig zijn wegens gebrek aan inventiviteit. Het tegen deze uitspraak ingestelde beroep bij de Supreme Court is op 27 maart 2019 unaniem verworpen.  
+
+2.11.1
+In de uitspraak van de High Court staat onder meer: 
+
+
+287. (…) I find it would be entirely obvious for a skilled team given Daugan to set out taking tadalafil forward into a routine pre-clinical and clinical trial programme as an oral treatment for male erectile dysfunction at the priority date. The statements in Daugan are quite sufficient to make it obvious to do this but the huge success of sildenafil an oral PDE5 inhibitor makes it very obvious. Tadalafil would be an attractive potential second in class medicine to develop. Daugan teaches that tadalafil has a promising IC50 vs PDE5. It is more potent than sildenafil (with an IC50 of about 3 or 3.9 nM). The skilled team would understand the limitation of in vitro IC50 data and would know that there could be all sorts of factors such as bioavailabilty and tissue compartmentalisation which might limit its clinical utility but that would not deter the team from embarking on such a programme. The fact that tadalafil is one of two compounds singled out in Daugan is not significant either. (…)
+
+
+290. After the phase I tests and based on their results the skilled team would design and undertake a “go no-go” phase IIa study of a single dose of tadalafil in a relatively small group of patients. The dose which would be selected by the team would be 50mg. That was common ground between Mr [deskundige 1] and Dr [deskundige 2] . (…)
+
+ 
+
+
+292. Given the positive pre-clinical and Phase I results and success of sildenafil as an oral PDE5 treatment for erectile dysfunction the skilled team would embark on this Phase IIa study with a reasonable expectation that the drug would be safe tolerable and effective at this dose. (…) 
+
+ 
+
+
+293. We know that such a Phase IIa study would produce favourable results for efficacy and safety given what we know now about tadalafil. The decision would be to “go”. The next step would be to conduct routine Phase IIb dose ranging studies in larger groups of patients. In order to do that a range of doses has to be selected in order to establish the dose response. It was common ground that doses in a first dose ranging study would include 25 mg 50 mg and 100mg. (…)
+
+ 
+
+
+306. I find that the tadalafil doses which would be tested in this first phase IIb dose ranging study would be and would only be 25mg 50mg and 100mg. The test would be of on demand dosing. (…)
+
+ 
+
+
+312. A significant point in the case arises at this stage because the results of this phase IIb study would not be what the skilled team expected. (…) The results were that there was no difference in efficacy end point between all four doses demonstrating an apparent therapeutic plateau. The most common side effects were headache back pain and myalgia and these side effects did show a dose response. 10 mg and 25 mg tadalafil were well tolerated and all doses up to 100mg were “generally” well tolerated. Although this is a daily dosing study and on demand will be different there was no suggestion that essentially the same sort of results would follow. 
+
+ 
+
+
+313. I find that the results for the 25 50 and 100mg on demand Phase IIb study would be essentially the same as the results described above for LVBG. (…)
+
+ 
+
+
+340. I accept Mr [deskundige 1] ’s evidence that the skilled team would investigate chronic daily dosing of tadalafil but they would not have a strong expectation that it would lead to a useful drug. It might or it might not. This decision would be made after the Phase I studies. It would lead to a Phase IIa Study with the same 50mg/day dose as I have discussed above. Despite the accumulation point the skilled team would not use a lower dose than 50 mg in that go no-go study for daily dosing. 
+
+ 
+
+
+341. The initial Phase IIb dose ranging study which was for daily dosing would probably include a 10 mg dose as an additional arm owing to the accumulation factor. It would not include a dose lower than 10mg/day. The team would expect to see a dose response but would see the same plateau in efficacy down to 10 mg and dose response for side effects as discussed already. All the reasoning I have considered above would be the same. Assuming the team decided to conduct an investigation into lower doses in a second daily dosed dose ranging study including a 5mg/ day dose of tadalafil they would not have a reasonable expectation that the drug at this dose would be a useful treatment for erectile dysfunction nor any expectation that the drug would produce a clinically relevant effect but with minimal side effects. They would find that it did. They would be surprised. (…)
+
+
+343. However in my judgment a 5mg daily dose of tadalafil as a treatment for erectile dysfunction is not obvious over Daugan. That is for the following reasons (…):
+
+ 
+i. i) In terms of motives to find a solution to the problem the patent addresses the skilled team would be highly motived by Daugan and the success of sildenafil to investigate tadalafil as a treatment for erectile dysfunction. 
+
+
+ii) As for possible avenues of research overall tadalafil would be obvious to investigate. In terms of doses however 5 mg/day is a significantly lower dose than the 50 mg dose exemplified in the Daugan prior art and the marketed doses of sildenafil. It is also significantly lower than the 50 mg dose which would be chosen for the first test of efficacy at Phase IIa. It would not be chosen in the routine first dose ranging study. The team would not have anticipated daily dosing as something to be studied from the outset but once the half-life was discovered it is likely that daily dosing would be included.
+
+ 
+
+
+iii) In terms of effort overall the programme would involve very substantial resources of time money and people but it would be pursued. However by the time the idea of investigating lower doses presents itself the team would have established safe tolerable and effective doses of tadalafil at 25mg on demand and 10 mg for daily dosing. At that stage the impetus to investigate lower doses would be reduced but not eliminated.
+
+ 
+
+
+iv) Expectations of success can be considered overall and in relation to particular studies. Overall the team would embark on the project with a reasonable expectation of success in establishing tadalafil as a safe tolerable and effective treatment for tadalafil. However the claimants failed to prove that efficacy at 5mg tadalafil was predictable or worth considering by the skilled team based on the properties of tadalafil as compared to sildenafil. The team would know that in principle there would be a minimum effective dose for tadalafil but would also know that its definition depends on a value judgment made by the team. In relation to the dose ranging studies the team would conduct them hoping for a dose response. Following discovery of a plateau starting at 25 mg or 10mg there would very likely be a subsequent dose ranging study which included 5 mg. The team would include a 5 mg dose in this study hoping to see a dose response but that does not mean they would have a reasonable expectation that 5mg would produce a clinically relevant effect at all nor one with minimal side effects. Assuming a 5 mg /day dose of tadalafil was tested it would not be tested with a reasonable expectation of success.
+
+ 
+
+v) Considering unexpected or surprising results the position is as follows. The path to a 5 mg dose requires the discovery of new information such as the half life and the IC50 vs PDE6. That information would inevitably be found in any clinical programme. The path includes an important result which is unexpected even if it is not actually surprising i.e. the plateau in the dose response from 10 to 100 mg. There is also a surprising result: the existence of a useful effect with reduced side effects. The claimed 5mg /day dose has that property.
+ 
+
+
+vi) A number of value judgments would be required of a skilled team in a programme which reaches the claimed invention. One is to define the level of clinical effect to be regarded as relevant. Another is to embark on investigating daily dosing. An important value judgment is what to do when an unexpected plateau in the dose response has been identified at the same time as a marketable dose.
+
+ 
+
+
+2.11.2
+In de uitspraak van de Court of Appeal staat onder meer het volgende (waarbij met ‘the judge’ wordt verwezen naar de uitspraak van de High Court): 
+
+
+140. I also recognise that in the present case the notional skilled team embarking on Phase II studies would be faced with a number of choices and in particular how to proceed with the dose ranging studies and whether to pursue on demand or daily dosing. But in assessing the relevance of these choices to the issue of obviousness it is important to have a number of matters well in mind. First the decision about daily and on demand dosing would be taken after Phase I and with the knowledge of the various matters I have set out at [113] above including half-life. The judge found that at this point the skilled team would decide to pursue both of them (see in particular the judge’s findings at [340]). Secondly although the judge found that the skilled team would not test the efficacy of a dose of 5mg tadalafil in the first or possibly even in the case of use on demand the second dose ranging study they would very likely investigate it thereafter (see in particular the judge’s findings at [327] and [343(iv)]). 
+
+ 
+
+
+141. These findings are not at all surprising. The purpose of the dose ranging studies relating to efficacy is to ascertain the dose response relationship of the drug under test. If the studies yield results for efficacy which are all on the upper plateau of the sigmoidal dose response curve then the dose response relationship has not been determined. Furthermore the judge’s finding that following the discovery of a plateau starting at 25mg or 10mg there would very likely be a subsequent dose ranging study which included 5mg is also entirely consistent with the evidence of both Mr [deskundige 1] and Dr [deskundige 3]  the experts in clinical pharmacology. Their evidence on this issue is particularly important in light of the judge’s finding that while the clinician’s view is important dose selection is an issue on which the clinical pharmacologist member of the team would take the lead. Mr [deskundige 1] ’s evidence was clear and unshaken in cross-examination. It was his opinion that the skilled team would test lower doses. Dr [deskundige 3] was asked in cross-examination about the LVBG study and the results of testing doses of 10 25 50 and 100mg of tadalafil per day. He agreed that the results showed that all of these doses were equally efficacious and that the skilled person would recognise that they were all on the upper plateau of the dose response curve. He was then asked whether the skilled team would investigate lower doses. This led to the following interchange (on day 5 page 662): 
+
+ 
+
+
+“Q: We know we are on the top plateau for efficacy and we know that going lower will reduce the side effects. It is really a no brainer is it not doctor? 
+
+
+A: To go to a lower dose? 
+
+
+Q: Yes. 
+
+
+A: Yes. In this patient population yes. 
+
+
+Q: Indeed what we see … in the discussion and overall conclusions: “This study confirms that [tadalafil] is safe well tolerated and effective when administered as once-daily therapy for the treatment of mild to moderate MED at doses of 10 to 100mg. The results support further investigation evaluating the safety and efficacy of doses < 10mg which may identify a broader dose range providing a high degree of efficacy with a minimum of undesirable side effects”. That is the conclusion that an ordinary skilled man would come to as well if he had done this study; agreed? 
+
+
+A: Yes agreed” 
+
+ 
+
+
+142. A little later Dr [deskundige 3] also gave this illuminating evidence concerning the invention of the patent (on day 5 page 685): 
+
+ 
+
+
+“Q: … As I understand your evidence you think Dr [X] [one of the two inventors] did something inventive. Yes? 
+
+
+A: Yes. 
+
+
+Q: Exactly what was that? 
+
+
+A: Thinking that a lower dose will need to be tested before the results came out -- before the results of the 10-100 came out. 
+
+
+Q: Oh so you mean thinking to test lower before you saw that LVBG study? 
+
+
+A: Yes. 
+
+
+Q: Right because I think you accept that once they came out you would have gone lower anyway. Yes? 
+
+
+A: Yes based on the report yes.” 
+
+ 
+
+
+143. Accordingly this is not a case in which the skilled team would be faced with a series of parallel avenues of study and would not have any expectation that any one of those avenues would prove fruitful or that would be more likely to prove fruitful than any other. Nor is it a case where most or even some of the avenues of investigation would not lead to the invention. It is instead a case where the two possibilities of on demand and daily dosing would both be addressed in light of the earlier routine work which would reveal tadalafil’s half-life and where each would be very likely to lead the skilled team to the invention. Rather than focussing on these important points as I believe he should have done the judge has instead attached weight to the fact that a dose of 5mg is considerably less than the 50mg dose which would be used in Phase IIa efficacy test and to the fact that a dose of 5mg would not be chosen for the routine first dose ranging study in Phase IIb. It is of course true that a dose of 5mg is considerably less than a dose of 50mg but it must also be borne in mind that the two parts of Phase II have different purposes. Phase IIa is designed to provide proof of concept and is generally carried out at one dose selected to be high enough to provide the best chance of showing a positive effect while not causing serious side effects. Phase IIb is carried out at different doses chosen to provide an understanding about the dose response relationship. It is also true that a dose of 5mg would not be chosen for the first study in Phase IIb. However as the judge himself found the skilled but uninventive team would very likely investigate it thereafter. 
+
+
+(…)
+
+ 
+
+
+147. (…) The fact that the skilled team could not make any prediction at the outset that a dose of 5mg of tadalafil per day would be safe and efficacious is of little weight because at least one of the purposes of carrying out the Phase IIb studies is better to understand the dose response relationship of the drug and so identify the appropriate dose range for the target population. Much the same point applies to the judge's assessment of the expectation of success were the team to assess a dose of 5mg per day. By this time the skilled team would know that the doses of 10 25 50 and 100mg of tadalafil per day (or doses of 25 50 and 100mg on demand) all yielded results for efficacy which lay along the top plateau of the dose response curve. The team would also know that as doses are reduced there will come a point at which the efficacy of the drug will start to fall as depicted in the sigmoidal dose response curves shown at [17] and [18] above. The team would not know in advance at which dose that point would be reached or how steep the curve would be but ascertaining that relationship is a purpose of the routine Phase IIb study. (…)
+
+ 
+
+
+2.11.3
+De Supreme Court heeft onder meer overwogen: 
+
+
+96.	I am not persuaded that the problem-and-solution approach would necessarily give a different answer from that of the Court of Appeal. The closest prior art is the Daugan patent and the well-established procedures of pre-clinical and clinical testing. The problem posed by Daugan was the identification of an appropriate dosage regime. The EPO approach to assessing the obviousness of the claimed invention would then be to apply the “could-would approach” which means asking not whether the skilled person could have carried out the invention but whether he would have done so in the hope of solving the underlying technical problem or in the expectation of some improvement or advantage: (…). The tangible evidence which reveals why the skilled team would have been prompted to come upon the asserted invention is that (a) the team would not have completed the dose-ranging studies which Phase IIb requires if it had stopped after the initial dose- ranging studies which revealed the therapeutic plateau and (b) Dr [deskundige 3] ’s evidence that it was a “no brainer” to go on with the tests. The judge’s finding that the skilled team would not have had an expectation of effectiveness at a 5mg dose does not militate against the conclusion that the team would have investigated that dose in the course of a sequence of tests which had as its purpose the solution of the underlying technical problem which the implementation of the Daugan patent entailed.
+
+ 
+
+
+
+2.12
+In Duitsland is eveneens een procedure tot vernietiging van EP 181 gestart. Bij uitspraak van 24 oktober 2017 heeft het Bundespatentgericht het Duitse deel van EP 181 vernietigd. In verschillende andere Europese landen zijn of worden procedures gevoerd over EP 181 met verschillende uitkomsten.   
+
+
+2.13
+In Nederland heeft Icos kort gedingen aanhangig gemaakt tegen onder meer Teva Nederland B.V. (een zustermaatschappij van Teva). Zij vorderde daarbij in hoofdzaak een inbreukverbod op EP 181 vanwege de omstandigheid dat door (onder meer) Teva Nederland B.V. vanaf 14 november 2017 generieke tadalafil 5 mg producten op de markt zijn geïntroduceerd. De voorzieningenrechter in de Rechtbank Den Haag heeft de provisionele vordering strekkende tot een inbreukverbod bij provisioneel vonnis van 5 december 2017 afgewezen en de beslissing op de inbreuk- en nevenvorderingen in de hoofdzaak in de kort gedingen aangehouden in afwachting van het vonnis van de rechtbank in de onderhavige bodemzaak. Nadat de rechtbank vonnis had gewezen in de onderhavige bodemzaak heeft de voorzieningenrechter de vorderingen in het kort geding afgewezen. Icos heeft hoger beroep ingesteld tegen het vonnis in kort geding. 
+
+
+
+
+3 Het geschil in eerste aanleg en in hoger beroep 
+
+3.1
+In eerste aanleg heeft Teva de vernietiging van (alle conclusies van) EP 181 gevorderd met veroordeling van Icos in de volledige proceskosten overeenkomstig artikel 1019h van het Wetboek van Burgerlijke Rechtsvordering (hierna: Rv) zulks uitvoerbaar bij voorraad. 
+
+
+3.2
+Teva heeft kort samengevat aan haar vordering ten grondslag gelegd dat de conclusies van EP 181 nietig zijn omdat deze toegevoegde materie bevatten Icos geen recht heeft op prioriteit en de uitvinding dan wordt geanticipeerd door tussenkomende stand van de techniek de conclusies ook overigens niet nieuw zijn de conclusies inventiviteit ontberen en een deel van de conclusies (6-9) is opgesteld in een op de verleningsdatum niet toegestaan format. 
+
+
+3.3
+De rechtbank heeft geoordeeld dat de conclusies inventiviteit ontberen kort gezegd omdat de vakman gezien de in Daugan geopenbaarde informatie over tadalafil en gegeven zijn kennis over sildenafil (Viagra®) zou overgaan tot verdere ontwikkeling van tadalafil voor de behandeling van seksuele disfuncties. Door middel van het doorlopen van verschillende fases van geneesmiddelontwikkeling waaronder ‘dose ranging studies’ zou de vakman zonder inventieve arbeid komen op een dosering binnen het door EP 181 geclaimde bereik van 1 tot maximaal 5 mg per dag.    
+
+
+3.4
+Met de door Icos aangevoerde grieven komt zij op tegen dit oordeel van de rechtbank. De grieven strekken ertoe dat het hof het geschil in volle omvang beoordeelt. In hoger beroep vordert Icos de vernietiging van het bestreden vonnis dat de vorderingen van Teva alsnog worden afgewezen met veroordeling van Teva in de op de voet van 1019h Rv te begroten kosten in beide instanties alsmede terugbetaling van hetgeen op grond van het vonnis reeds is voldaan vermeerderd met de wettelijke rente alles voor zover mogelijk uitvoerbaar bij voorraad.   
+
+
+
+
+4 Beoordeling 
+
+
+de gemiddelde vakman
+
+ 
+
+4.1
+Partijen zijn het erover eens dat de gemiddelde vakman een team betreft waarvan in elk geval een clinicus (een uroloog) en een klinisch farmacoloog met kennis en ervaring op het gebied van formuleringen toxicologie en farmacokinetiek deel uitmaken. Of een scheikundige ook deel uitmaakt van het vakteam zoals Icos met het oog op het debat over prioriteit heeft verdedigd kan gelet op hetgeen hierna wordt overwogen in het midden blijven. Dat de clinicus te allen tijde de leiding zou hebben zoals Icos stelt kan niet als juist worden aanvaard. Naar Teva terecht en onvoldoende weersproken heeft opgemerkt heeft in elk geval bij de uitvoering van het fase IIb onderzoek de farmacoloog de leiding en de clinicus een beperktere rol. Dat onderzoek is immers gerandomiseerd dubbelblind en placebo-gecontroleerd wat inhoudt dat urologen en patiënten niet weten of de patiënt tadalafil of placebo krijgt en zo ja welke dosis.  
+
+
+het octrooi
+
+ 
+
+
+4.2
+Teva heeft er onbestreden en terecht op gewezen dat de conclusies van EP 181 niet (uitsluitend) zien op een doseringsregime voor dagelijkse toediening. Onder de toediening van 1 tot 5 mg met een maximum van 5 mg per dag is ook (niet dagelijks) ‘on demand’ (bij gelegenheid) gebruik begrepen.  
+
+
+4.3
+Icos heeft de inventiviteit van EP 181 primair verdedigd aan de hand van conclusie 10. Ook in het navolgende zal van die conclusie worden uitgegaan.  
+
+
+meest nabije stand van de techniek
+
+ 
+
+
+4.4
+Partijen zijn het erover eens dat Daugan moet worden aangemerkt als de meest nabije stand van de techniek. Deze octrooipublicatie ziet op het gebruik van de reeds eerder geopenbaarde (en door het zogenaamde stofoctrooi US 5859006 / EP 0 740 668 onder bescherming gestelde) stof tadalafil (in Daugan aangeduid als Compound A) voor de behandeling van erectiele disfunctie. Daugan betreft derhalve een zogenaamd tweede medische indicatie octrooi. Gelet op de beschrijving van Daugan (zie 2.8.1 hiervoor) waarin onder meer tests worden beschreven waarmee de DPE5 remmende werking van tadalafil is vastgesteld en de algemene vakkennis omtrent de effecten van remming van het PDE5 enzym op de erectiefunctie moet het standpunt van Icos dat Daugan niet het gebruik of de geschiktheid van tadalafil als geneesmiddel openbaart (par. 56 MvG en bij pleidooi in appel) worden verworpen. Anders dan Icos veronderstelt is daarvoor niet vereist dat Daugan de werkzaamheid van tadalafil aantoont met klinische gegevens.  
+
+
+4.5
+Verder openbaart Daugan de dagelijkse orale toediening van tadalafil in een dosis in de range van 05-800 mg per dag voor een gemiddelde volwassen patiënt (van 70 kg) en eenheidsdoseringsvormen van 01-400 mg voor orale toediening bijvoorbeeld in de vorm van een capsule of tablet. In de formuleringsvoorbeelden van Daugan wordt gebruik gemaakt van formuleringen van 50 mg. Ook vermeldt Daugan de IC50 waarde (de hoeveelheid actieve stof die nodig is om de enzymen met de helft te remmen) van tadalafil van 2 nM.  
+
+
+objectief technisch probleem
+
+ 
+
+
+4.6
+Uitgaande van Daugan als meest nabije stand van de techniek is de verschilmaatregel met EP 181 de daarin geopenbaarde eenheidsdosering van 1-5 mg met een maximale dosis van 5 mg tadalafil per dag. Het technisch effect daarvan is dat een werkzame (lage) dosis tadalafil met minimale bijwerkingen voor de behandeling van erectiele dysfunctie wordt verkregen. Volgens Teva moet het objectieve technische probleem worden geformuleerd als “het selecteren van een optimale dosis van tadalafil voor patiënten die lijden aan seksuele disfunctie op een zodanige wijze dat de seksuele disfunctie wordt behandeld terwijl de mogelijke bijwerkingen minimaal zijn”. Icos meent dat deze probleemstelling geen rekening houdt met het technische effect (het behouden van de werkzaamheid met minimale bijwerkingen vooral die waarvan werd gedacht dat zij inherent zijn aan PDE5-remmers) en pointers naar de oplossing bevat door de vakman op zoek te laten gaan naar een optimale dosis waarbij de bijwerkingen minimaal zijn. Volgens Icos moet het probleem worden geformuleerd als “het voorzien in een (ten opzichte van de formulering met 50 mg) verbeterd doseringsregime voor tadalafil”.  
+
+
+4.7
+Bij het zoeken naar de juiste dosering van het werkzame bestanddeel in een geneesmiddel zal het streven er altijd op zijn gericht een dosis te vinden die enerzijds zo werkzaam mogelijk is en anderzijds zo weinig mogelijk bijwerkingen heeft. Aangezien in het algemeen bijwerkingen en werkzaamheid beide dosis-afhankelijk zijn in die zin dat deze toenemen naarmate de dosis hoger wordt zal een zekere balans tussen beide moeten worden gevonden. Daarbij geldt dat naarmate de te behandelen aandoening ernstiger (bijvoorbeeld levensbedreigend) is eerder en ernstiger bijwerkingen zullen worden getolereerd dan wanneer de aandoening minder ernstig (bijvoorbeeld alleen levenskwaliteit verhogend) is. In beide gevallen zal derhalve worden gezocht naar een – gegeven de omstandigheden van het geval – optimale dosis waarmee het gewenste evenwicht tussen werkzaamheid en bijwerkingen wordt bereikt.  
+
+
+4.8
+Aangezien de gemiddelde vakman die zich voor het probleem gesteld ziet te komen tot een bruikbare dosering van een actief bestanddeel in een geneesmiddel altijd zal streven naar een dosis die zo werkzaam mogelijk is en tegelijkertijd zo min mogelijk bijwerkingen oplevert dient dit streven – ook indien niet expliciet in de formulering daarvan opgenomen – in het objectieve technische probleem te worden meegelezen. De door Icos geuite bezwaren tegen de probleemstelling van Teva gaan daarom niet op. De door Teva en Icos geformuleerde probleemstellingen komen het hiervoor overwogene in aanmerking genomen in wezen op hetzelfde neer: het vaststellen van een geschikte / optimale dosering van tadalafil voor de behandeling van erectiele disfunctie. Het hof zal van deze probleemstelling uitgaan.  
+
+
+pointer / incentive
+
+ 
+
+
+4.9
+Icos heeft bestreden dat Daugan de gemiddelde vakman zou aanzetten tot het doen van nader (doserings)onderzoek stellende dat de gemiddelde vakman op de prioriteitsdatum geen redelijke verwachting had om uit te komen op een werkzame dosering van 1-5 mg waarvan de bijwerkingen gelijk te stellen zijn aan placebo. Daarmee miskent Icos echter dat de redelijke succesverwachting – die nodig is om aan te nemen dat de gemiddelde vakman het benodigde onderzoek zou doen – ziet op het oplossen van het objectieve technische probleem: het vinden van een geschikte / optimale dosering niet op de specifieke dosering van 1-5 mg waarvan na onderzoek uiteindelijk is vastgesteld dat dit de optimale dosering is.  
+
+
+4.10
+Naar het oordeel van het hof had de gemiddelde vakman uitgaand van Daugan op de prioriteitsdatum voldoende prikkel om op grond van hetgeen in dat document is geopenbaard op zoek te gaan naar de oplossing van het probleem waarvoor hij zich gesteld zag. De gemiddelde vakman wist dat remming van het PDE5-enzym de erectiele functie kan verbeteren en dat de aan PDE5-enzym remming verbonden bijwerkingen aanvaardbaar zijn. Daugan openbaart dat tadalafil een zeer krachtige en selectieve PDE5-remmer is en dat tadalafil geschikt is voor gebruik in een geneesmiddel voor de behandeling van erectiele disfunctie bij een mens (vgl. 2.8.1 hiervoor). De geopenbaarde IC50 waarde van 2 nM leert de gemiddelde vakman dat tadalafil (potentieel) een krachtiger DPE5-remmer is dan sildenafil (een PDE5-remmer met een IC50 waarde van 3 of 3.9 nM) wat het actief ingrediënt is van het reeds op de markt zijnde en commercieel zeer succesvolle Viagra ® geneesmiddel voor de behandeling van erectiele disfunctie. De gemiddelde vakman zou daarom gemotiveerd zijn onderzoek te doen naar een geschikte dosering voor tadalafil waarmee hij een veelbelovend alternatief zou kunnen ontwikkelen voor Viagra ®. Dat de uitkomst van een dergelijk onderzoek onzeker is en vooraf niet te voorspellen waarop Icos heeft gewezen moge zo zijn maar die onzekerheid is inherent aan geneesmiddelenonderzoek en het doet er niet aan af dat de gemiddelde vakman uitgaande van Daugan op de prioriteitsdatum een redelijke succesverwachting had om een geschikte dosering voor tadalafil te vinden. Dat zou slechts anders zijn indien er een duidelijke contra-indicatie was geweest die de gemiddelde vakman er desalniettemin van zou hebben weerhouden nader (doserings)onderzoek te starten. Dat zo’n contra-indicatie er in dit geval zou zijn is gesteld noch gebleken. Het – bij geneesmiddelenonderzoek altijd bestaande – risico dat zich onverwachte bijwerkingen voordoen die de stof toch ongeschikt maken als geneesmiddel of dat de werkzaamheid achterblijft bij de verwachtingen waarvoor op de prioriteitsdatum geen concrete aanwijzingen bestond kan niet als zo’n contra-indicatie worden aangemerkt.  
+
+
+4.11
+Dat sildenafil werd toegediend in hoge doseringen en nadelige bijwerkingen had (en bijvoorbeeld niet geschikt voor mensen met hart- en vaatziekten en mensen met afwijkingen aan het gezichtsvermogen) betekent niet dat de gemiddelde vakman niet gemotiveerd was naar een geschikte dosering voor tadalafil te zoeken. Tadalafil is een andere stof zodat vooraf niet voorspeld kon worden of deze wel dezelfde (mate van) bijwerkingen zou hebben. Dat geldt zeker voor bijwerkingen die het gezichtsvermogen beïnvloeden en cardiovasculaire bijwerkingen waarvan volgens de verklaring van de partij-deskundige van Icos werd aangenomen dat deze juist niet werden veroorzaakt door de remming van PDE5 maar de remming van PDE6 resp. PDE 1 en PDE3 door sildenafil. De lagere IC50waarde waarmee de gemiddelde vakman dus een potentieel krachtiger DPE5-remmer in handen had en de in de stand van de techniek gerapporteerde dosis-afhankelijkheid van de bekende aan PDE5 verbonden bijwerkingen (in een publicatie van Goldstein et al in The New Journal of Medicine van 14 mei 1998 getiteld ‘Oral sildenafil in the treatment of erectile dysfunction’ dat ook volgens Icos tot de algemene vakkennis hoorde) vormde bovendien juist een incentive om te onderzoeken of – en de gemiddelde vakman zou om die reden ook een redelijke verwachting hebben dat – tadalafil reeds bij lagere dosering en bijgevolg met minder bijwerkingen voldoende werkzaam zou zijn.  
+
+
+klinisch onderzoek
+
+ 
+
+
+4.12
+Teneinde tot een geschikte dosering voor tadalafil te komen zou de gemiddelde vakman de gebruikelijke – en voor het verkrijgen van een marktvergunning voorgeschreven – onderzoeken uitvoeren. Tussen partijen is niet in geschil dat onderzoek naar (de dosering van) een nieuw geneesmiddel in de praktijk langs de volgende lijnen verloopt: 
+
+Fase 0 preklinische studie: in vitro studies en dierproeven leidend tot gegevens met betrekking tot informatie omtrent werkzaamheid farmacokinetiek en bijwerkingen. 
+ 
+
+Fase 1 klinische studie op gezonde mensen met oplopende doses leidend tot gegevens met betrekking tot veiligheid en bijwerkingen waaronder informatie omtrent farmacokinetiek en farmacodynamiek waaronder de halfwaardetijd (de tijd waarin de concentratie actief ingrediënt in het bloedplasma daalt met 50%).
+ 
+
+Fase II klinische studie op patiënten gericht op het vinden van de optimale balans tussen werkzaamheid en bijwerkingen onderverdeeld in:
+Fase IIa (proof of concept study) een test met normaliter een enkele dosering waarvan verwacht wordt dat die hoog genoeg is om werkzaamheid aan te tonen maar laag genoeg om ernstige bijwerkingen te voorkomen;
+Fase IIb (dose ranging study) een doseringsonderzoek waarbij het gebruikelijk is de dosering uit Fase IIa als uitgangspunt te nemen en daarnaast een tweemaal hogere en een tweemaal lagere dosering alsmede placebo met het doel de relatie tussen de dosis enerzijds en werkzaamheid en bijwerkingen anderzijds vast te stellen. 
+ 
+
+Fase III klinische studie op grote(re) schaal ter bevestiging van de werkzaamheid en bijwerkingen / veiligheid
+ 
+
+Fase IV studies na verkregen marktautorisatie. 
+ 
+
+
+4.13
+Icos heeft aangevoerd dat naar vaste rechtspraak van het EOB ten aanzien van de ‘try and see’ doctrine klinische onderzoeken in mensen niet als routine onderzoeken kunnen worden aangemerkt indien er nog onbekende risico’s zijn dat wil zeggen als de stof nog niet eerder in mensen is onderzocht. Wat daarvan zij naar het oordeel van het hof kan niet in zijn algemeenheid als juist worden aanvaard dat klinisch onderzoek op mensen nimmer als routine-onderzoek kan worden aangemerkt – en de resultaten van dergelijk onderzoek derhalve altijd als inventief hebben te gelden zoals Icos kennelijk betoogt – indien de risico’s bijwerkingen en werkzaamheid van de te onderzoeken actieve stof nog niet eerder (door klinisch onderzoek) in kaart zijn gebracht. Wel juist is dat naarmate het door de gemiddelde vakman te verrichten onderzoek omvangrijker ingewikkelder tijdrovender en risicovoller is hogere eisen aan de redelijke verwachting moeten worden gesteld. Dat in aanmerking genomen is het hof van oordeel dat de gemiddelde vakman onder de gegeven omstandigheden – waarbij in de stand van de techniek reeds is geopenbaard dat tadalafil een krachtige en selectieve PDE5-remmer is met een lage IC50-waarde die geschikt is voor de behandeling van erectiele dysfunctie waarbij bekend is dat de aan PDE5-enzym remming verbonden bijwerkingen relatief mild zijn en er geen contra-indicaties zijn voor het doen van klinisch onderzoek – een zodanige verwachting van succes heeft om een geschikte formulering voor tadalafil te vinden dat hij die onderzoeken in gang zou zetten. Dat die onderzoeken vaardigheden zouden vergen die de gemiddelde vakman op de prioriteitsdatum niet zou hebben heeft Icos niet gesteld. Evenmin heeft Icos aangevoerd dat er voor het vinden van de optimale dosering en daarmee de door EP 181 onder bescherming gestelde werkzame dosering van 1-5 mg met een maximum van 5 mg tadalafil per dag enige andere keuzes moesten worden gemaakt dan keuzes die voor de gemiddelde vakman bij het doen van de gebruikelijke onderzoeken om tot een oplossing van het objectief technische probleem te komen (het vinden van een optimale dosering) voor de hand lagen. Icos heeft er wel op gewezen dat er bij het doen van geneesmiddelenonderzoek diverse ‘value judgements’ gedaan moeten worden maar heeft niet voldoende onderbouwd gesteld dat en op welke punten de gemiddelde vakman inventieve keuzes moest maken om tot de uitvinding volgens EP 181 te komen.  
+
+
+several steps benadering
+
+ 
+
+
+4.14
+Icos heeft zich verder op het standpunt gesteld dat bij de beoordeling van de inventiviteit geen rekening mag worden gehouden met de resultaten die eerst beschikbaar zijn gekomen uit de onderzoeken die de gemiddelde vakman na de prioriteitsdatum zou hebben uitgevoerd zoals bijvoorbeeld de uit de Fase I studie beschikbaar gekomen halfwaardetijd en het uit de eerste Fase IIb studies gevonden plateau van werkzaamheid bij doseringen van 25 50 en 100 mg tadalafil (zie 4.18 en 4.20 hierna). Door dat wel te doen zou er sprake zijn van hindsight. Icos kan daarin niet worden gevolgd.  
+
+
+4.15
+Volgens vaste rechtspraak van het EOB en dit Hof kan geen inventiviteit worden aangenomen in een geval waarin voor het oplossen van het objectieve technische probleem verschillende opeenvolgende stappen nodig zijn indien en voor zover het nemen van iedere stap op zichzelf voor de gemiddelde vakman voor de hand lag gelet op wat hij in de voorgaande stap had bereikt en wat hem verder te doen stond om uiteindelijk tot de oplossing te komen. Dat betekent dat de eerste stap op grond van de stand van techniek op de prioriteitsdatum voor de gemiddelde vakman voor de hand moest liggen en deze een redelijke succesverwachting moest hebben dat het hem (uiteindelijk) tot de oplossing van zijn probleem zou leiden. Daaraan is zoals hiervoor in 4.9 - 4.11 overwogen in dit geval voldaan; op de prioriteitsdatum had de gemiddelde vakman op grond van Daugan en zijn algemene vakkennis (onder meer met betrekking tot sildenafil) de redelijke succesverwachting dat het doen van het geneesmiddelenonderzoek in het bijzonder de Fase IIb studie hem tot de oplossing van zijn probleem zou leiden. De gemiddelde vakman zou daarom het in de praktijk gebruikelijke geneesmiddelenonderzoek gaan uitvoeren dat zoals hiervoor in 4.12 is omschreven uit verschillende stappen bestaat. De resultaten van die eerste stap dienen de vakman ertoe aan te zetten de volgende voor hem voor de hand liggende stap te zetten waarbij hij dan nog steeds de redelijke succesverwachting dient te hebben dat het hem (uiteindelijk) tot de oplossing van zijn probleem zal brengen. Hetzelfde geldt voor de daaropvolgende stappen. Zoals volgt uit hetgeen hierna wordt overwogen is ook daaraan in dit geval voldaan. 
+
+
+4.16
+Anders dan Icos ingang wil doen vinden maakt het feit dat de uit een voorgaande stap verkregen resultaten nog niet beschikbaar waren op de prioriteitsdatum niet dat deze bij de inventiviteitsbeoordeling niet in aanmerking mogen worden genomen. Zolang de vervolgstap die (mede) is gebaseerd op de resultaten die de gemiddelde vakman zou hebben verkregen uit een eerdere stap voor de hand lag en de gemiddelde vakman bij het nemen van die vervolgstap de redelijke succesverwachting bleef hebben dat hij het objectieve technische probleem zou oplossen – en dus een geschikte / optimale dosering voor tadalafil zou vinden – kan het feit dat die na de prioriteitsdatum door hem verkregen feiten die voortvloeiden uit door hem gedaan niet inventief onderzoek als uitgangspunt dienden voor verder niet-inventief onderzoek het eindresultaat van dat onderzoek niet alsnog inventief maken. Dat deze benadering tot gevolg zou hebben dat geen enkel doseringsregime ooit nog inventief zou zijn zoals door Icos gesteld is onjuist. Ook binnen het bij geneesmiddelenonderzoek gebruikelijke proces kunnen niet voor de hand liggende stappen worden gezet die het resultaat inventief maken. Dat daarvan in het onderhavige geval sprake is geweest heeft Icos onvoldoende gemotiveerd gesteld.  
+
+
+4.17
+Of de gemiddelde vakman op grond van Daugan zou aannemen dat al Fase 0 studies waren uitgevoerd zoals Teva stelt (en overigens aannemelijk is gelet op de openbaarmaking in Daugan dat gevonden is dat tadalafil “useful in the treatment of erectile dysfunction” is en de genoemde IC50 en EC50 waarden) maar door Icos is bestreden kan in het midden blijven. Naar het oordeel van het hof zou de gemiddelde vakman die – gebruikelijke – onderzoeken doen die in aanvulling op hetgeen reeds in Daugan is geopenbaard nodig waren om de gegevens te vergaren die nodig waren om zijn probleem op te lossen derhalve indien en voor zover nog nodig geacht Fase 0 en daarna Fase 1 Fase IIa Fase IIb en Fase III studies.   
+
+
+‘on demand’ dosering
+
+ 
+
+
+4.18
+Naar Teva – door Icos onvoldoende gemotiveerd bestreden – heeft aangevoerd zou de gemiddelde vakman in de Fase 1 studie onder meer de IC50 waarde van tadalafil vinden de halfwaardetijd (van 175 uur) alsook de Tmax en Cmax welke waarden allemaal zodanig waren dat de gemiddelde vakman nog steeds gemotiveerd was zijn onderzoek voort te zetten en zou toekomen aan het doen van een Fase II studie. Niet in geschil is dat de gemiddelde vakman in de Fase IIa studie een dosering van 50 g zou testen en dat de resultaten van die studie van dien aard zouden zijn dat de gemiddelde vakman zijn onderzoek zou vervolgen door het doen van een Fase IIb studie. Dat de gemiddelde vakman daarbij nog immer de redelijke succesverwachting had dat hij het doel van dat onderzoek – het vinden van de dose response relationship – en aan de hand daarvan de oplossing van het probleem waarvoor hij een oplossing zocht zou bereiken heeft Icos onvoldoende gemotiveerd bestreden.    
+
+
+4.19
+Icos stelt zich op het standpunt dat de gemiddelde vakman die naar de optimale dosering van tadalafil zoekt gelet op de formuleringsvoorbeelden in Daugan die alle een dosering van 50 mg openbaren en de wetenschap dat sildenafil op de markt werd gebracht in doseringen van 25 50 en 100 mg redelijkerwijs kon verwachten dat die doseringen effectief zouden zijn en dat de gemiddelde vakman die doseringen in Fase IIb studies zou gaan onderzoeken (par. 195 en 204 MvG). Ook haar partij- deskundigen dr. [deskundige 2]   prof. dr. [deskundige 4] en prof. dr. [deskundige 5]  als ook haar partij-deskundige in de Engelse procedure dr. [deskundige 3]  gaan er allemaal (om verschillende redenen) vanuit dat als uit de Fase IIa studie zou blijken dat een dosering van 50 mg tadalafil effectief zou blijken te zijn hetgeen niet in discussie is de gemiddelde vakman in een Fase IIb studie die doseringen voor ‘on demand’ gebruik zou testen.
+
+
+4.20
+Niet bestreden – en door de deskundige van Icos in de parallelle Engelse procedure expliciet erkend – is dat de resultaten van de Fase IIb onderzoeken met doseringen van 25 50 en 100 mg een plateau zouden laten zien; bij afnemende dosering nam de werkzaamheid niet af. De gemiddelde vakman zou op grond daarvan inzien dat hij het doel van de Fase IIb studie het vaststellen van de dose respons relationship de relatie tussen dosis enerzijds en werkzaamheid en bijwerkingen anderzijds bij toediening van tadalafil nog niet had bereikt. Ook omdat de bijwerkingen wel doseringsafhankelijk waren en hij op zoek was naar de optimale dosering een werkzame dosering met zo min mogelijk bijwerkingen zou de gemiddelde vakman gemotiveerd zijn lagere doseringen te gaan onderzoeken in de verwachting dat hij dan de dose response relationship zou vinden. Het ligt voor de hand dat de gemiddelde vakman alsdan (uiteindelijk) ook een dosis van 5 mg in zijn onderzoek zou betrekken in de verwachting dat hij dan de dose respons relationship kon vaststellen en gebaseerd daarop een optimale dosis voor tadalafil kon bepalen en daarmee het probleem waarvoor hij zich gesteld zag zou oplossen. Daaruit volgt dat het standpunt van Icos dat het objectieve technische probleem al werd opgelost door bijvoorbeeld doseringen van 10 en 20 mg tadalafil (par. 68 MvG) waarmee zij kennelijk wil betogen dat het zoeken naar lagere doseringen inventief zou zijn moet worden verworpen.  
+
+
+4.21
+De vraag of in de Fase IIb studie al meteen een dosering van 5 mg zou worden getest zoals Teva stelt en Icos bestrijdt behoeft gelet op het voorgaande geen beantwoording. Ook indien wordt uitgegaan van het door Icos gestelde vertrekpunt voor die studie zou de gemiddelde vakman in de Fase IIb studie (uiteindelijk) een dosering van 5 mg onderzoeken.  
+
+
+4.22
+Icos heeft nog gesteld dat de gemiddelde vakman geen incentive zou hebben om te zoeken naar lagere formuleringen omdat uit de stand van de techniek bekend zou zijn dat patiënten een voorkeur hebben voor een relatief hoge dosering (van 100 mg) sildenafil en artsen die met het oog op therapietrouw ook plegen voor te schrijven maar dat standpunt wordt verworpen. Ook als die voorkeur er zou zijn betekent dat nog niet dat de gemiddelde vakman ervan zou afzien te zoeken naar de optimale dosering van tadalafil (nog daargelaten dat dit veelal in het kader van het verkrijgen van een marktvergunning zal zijn voorgeschreven). Eerst als het doel van de dose ranging studie is bereikt en de optimale dosis (die voldoende werkzaamheid met zo weinig mogelijk bijwerkingen oplevert) bekend is kan immers een range van doseringen worden vastgesteld (zoals ook in de SmPC van sildenafil de range van 25-100 mg wordt genoemd waarvan 50 mg de voorkeursdosis is) waarbinnen rekening kan worden gehouden met de bijzondere omstandigheden en voorkeuren van de specifieke patiënt en waaruit dan desgewenst de relatief hoge dosering kan worden gekozen c.q. voorgeschreven.  
+
+
+4.23
+Icos heeft verder aangevoerd dat de gemiddelde vakman – uiteindelijk – niet een dosering van 5 mg zou testen omdat er blijkens de IIEF-gegevens in Example 7 van EP 181 geen plateau in werkzaamheid tussen de doseringen van 10 en 25 mg zou zijn en de vastgestelde dosisrespons bij deze doseringen geen incentive zou opleveren om nog lagere doseringen te gaan testen. Zoals hiervoor reeds overwogen ligt het voor de hand dat de gemiddelde vakman reeds in zijn tweede Fase IIb onderzoek naar aanleiding van de resultaten van het onderzoek met de doses van 25 50 en 100 mg ook een dosis van 5 mg in zijn onderzoek zou betrekken. Ook echter als dat niet het geval zou zijn en 10 mg de laagst geteste dosering zou zijn in het vervolgonderzoek moet dit – verder niet onderbouwde – standpunt van Icos worden verworpen omdat het tegenstrijdig is met de verklaring van de beide partij-deskundigen in de Engelse procedure ook die van Icos zelf dat de resultaten van onderzoeken met doses van 100 50 25 en 10 mg de gemiddelde vakman zonder meer aanleiding zouden geven lagere doses te onderzoeken (zie par. 141 van de UK Court of Appeal uitspraak in 2.11.2 hiervoor). Aldus moet worden aangenomen dat de gemiddelde vakman ook dan een dosis van 5 mg in verdere onderzoeken zou betrekken.    
+
+
+4.24
+Dat de gemiddelde vakman op de prioriteitsdatum (en zelfs voorafgaand aan de Fase IIb studies) niet zou hebben verwacht dat een dosering van 5 mg nog werkzaam zou zijn dat tadalafil in een werkzame dosering geen noemenswaardige bijwerkingen zou hebben en dat tadalafil geschikt zou zijn voor dagelijkse dosering waarop Icos heeft gewezen kan EP 181 geen inventiviteit verlenen ook niet indien die uitkomsten verrassend en voordelig waren. Al deze vindingen zijn immers het rechtstreekse resultaat van de niet inventieve stappen die de gemiddelde vakman vanaf de prioriteitsdatum uitgaande van Daugan zou zetten. Het is onmogelijk de resultaten van een doseringsonderzoek – de dose response relationship – met zekerheid te voorspellen zoals Icos stelt maar de enkele onvoorspelbaarheid van het te verkrijgen resultaat maakt een resultaat dat wordt verkregen door middel van een standaard onderzoek bij het uitvoeren waarvan geen enkele inventieve stap wordt gezet daarmee nog niet inventief. Octrooibescherming is alleen gerechtvaardigd indien voor het bereiken van het resultaat inventieve arbeid nodig was. Het feit dat de resultaten verrassend en voordelig waren is een ‘bonus’ direct voortvloeiend uit het niet-inventieve proces dat tot de geclaimde uitvinding heeft geleid en maakt het resultaat niet minder voor de hand liggend. Het feit dat geneesmiddelenonderzoek kostbaar risicovol en langdurig is zoals Icos verder heeft aangevoerd maakt op zichzelf genomen evenmin dat het resultaat ervan als inventief zou moeten worden aangemerkt.  
+
+
+dagelijkse dosering
+
+ 
+
+
+4.25
+Evenmin relevant is of en wanneer de gemiddelde vakman ertoe zou komen naast een ‘on demand’ dosering ook de mogelijkheid van een dagelijkse dosering te onderzoeken. Teva heeft er terecht en onweersproken op gewezen dat de conclusies van EP 181 niet zijn beperkt tot een dagelijkse dosering van tadalafil. Ook ‘on demand’ dosering (tot maximaal 5 mg per dag) valt onder de conclusies. Voor zover Icos zou willen betogen dat de inventiviteit van EP 181 gelegen zou zijn in de dagelijkse dosering van tadalafil moet dat derhalve worden verworpen. Een conclusie dient immers over het hele bereik ervan inventief te zijn.   
+
+
+4.26
+Daarnaast staat gelet op hetgeen hiervoor is overwogen vast dat de gemiddelde vakman indien hij naar een ‘on demand’ dosering zoekt – waarmee hij volgens Icos zou beginnen – uitkomt op een werkzame dosering van 5 mg waarbij de bijwerkingen minimaal zijn. Zoals Icos zelf ook heeft gesteld biedt een dagelijkse dosering voordelen boven ‘on demand’ dosering. Gegeven die lage dosering zonder noemenswaardige bijwerkingen en de lange halfwaardetijd zou de gemiddelde vakman een redelijke verwachting hebben dat een dagelijks doseringsregime van tadalafil mogelijk zou zijn (leidend tot een permanente benodigde concentratie tadalafil in het bloed) en het ligt zonder meer voor de hand dat de gemiddelde vakman die mogelijkheid zou onderzoeken teneinde de voordelen van een dagelijkse dosering te bereiken. Dat geldt temeer omdat daarmee bovendien een aantrekkelijk(er) alternatief voor het reeds op de markt zijnde en commercieel zeer succesvolle Viagra ® zou worden verkregen. Indien de gemiddelde vakman in de lange halfwaardetijd al niet direct aanleiding zou hebben gezien in zijn Fase IIb studie ook onderzoek naar een dagelijkse dosering te betrekken (zoals Teva heeft aangevoerd) dan zou hij dat in elk geval onderzoeken nadat hij tot de lage werkzame on demand dosering met minimale bijwerkingen van 5 mg zou zijn gekomen. Overigens merkt het hof op dat in de keuze om vanaf dat punt een dagelijkse dosering van 5 mg te onderzoeken (en niet een net iets andere dosering) geen inventiviteit kan zijn gelegen.   
+
+
+4.27
+Dat sildenafil alleen beschikbaar was voor ‘on demand’ gebruik en niet voor dagelijks gebruik zou de gemiddelde vakman er niet van weerhouden ook onderzoek te doen naar een dosering van tadalafil voor dagelijks gebruik. Hij zou immers inzien dat de reden dat sildenafil niet werd aangeboden voor dagelijkse dosering niet zozeer was ingegeven door het gebrek aan behoefte daaraan maar vanwege de omstandigheid dat deze stof een vrij lage halfwaardetijd heeft (van 3-4 uur) zodat meerdere malen per dag zou moeten worden ingenomen om de gewenste concentratie in het bloed te krijgen waarvoor sildenafil bovendien vanwege de nadelige bijwerkingen ongeschikt was. Gegeven de hoge halfwaardetijd van tadalafil (van 175 uur) de minimale bijwerkingen bij een werkzame dosis van 5 mg en de aan dagelijks gebruik verbonden voordelen had de gemiddelde vakman juist een incentive om voor tadalafil wél de mogelijkheid van een dagelijkse dosering te onderzoeken. Daarmee zou ook een voordeel ten opzichte van sildenafil kunnen worden verkregen dat voor in elk geval een deel van de patiënten zal opwegen tegen de hogere kosten van dagelijks gebruik. Dat de gemiddelde seksuele activiteit van patiënten met erectiestoornissen 4-5 maal per maand zou zijn maakt dat niet anders. De behoefte kan juist zijn getemperd door de erectiestoornis. Daarenboven kunnen mensen met een hogere seksuele activiteit met een dagelijkse dosering beter worden bediend en maakt dat spontane seksuele activiteit mogelijk. De enkele theoretische mogelijkheid – dat er reden zou zijn voor de gemiddelde vakman om dat daadwerkelijk te verwachten heeft Icos niet gesteld – van tachyfylaxie een afname van werkzaamheid bij continue toediening zou de gemiddelde vakman evenmin weerhouden onderzoek naar de mogelijkheid van dagelijkse dosering te doen.  
+
+
+slotsom
+
+ 
+
+
+4.28
+De slotsom van het voorgaande is dat conclusie 10 niet inventief kan worden geacht. De geldigheid van de overige conclusies is door Teva gemotiveerd bestreden en door Icos niet voldoende gemotiveerd zelfstandig (los van conclusie 10) verdedigd. Dat betekent dat deze het lot moeten delen van conclusie 10. De rechtbank is dus terecht tot het oordeel dat alle conclusies van het octrooi niet inventief zijn en dat het Nederlandse deel van EP 181 moet worden vernietigd. De grieven van Icos treffen dus geen doel. Het bestreden vonnis dient daarom te worden bekrachtigd. 
+
+
+4.29
+Gelet op het bovenstaande heeft Teva geen belang bij beoordeling van de door haar geuite bezwaren tegen (onderdelen van) de door Icos overgelegde verklaringen van [deskundige 4] en [deskundige 5] en van dr. [naam 4]  zodat daarop niet hoeft te worden beslist. Datzelfde geldt voor het bezwaar van Teva tegen de stelling van Icos dat uit onderzoek van na de prioriteitsdatum zou zijn gebleken dat de IC50-waarde van tadalafil niet 2 maar 5 nM zou zijn en dat als het hof een door [deskundige 2] voorgestelde simulatie zou volgen dus gerekend moet worden met die laatstgenoemde waarde. Het standpunt van Teva dat de bij pleidooi door Icos ingenomen standpunten terzake van de formulering van het objectieve technische probleem dat Daugan geen geneesmiddel met tadalafil voor de behandeling van erectiele disfunctie openbaart en dat in Daugan geen prikkel is te vinden voor de verdere ontwikkeling van tadalafil als geneesmiddel voor die aandoening allemaal nieuw zouden zijn en daarmee in strijd met de twee-conclusie regel wordt verworpen. Die standpunten zijn voldoende kenbaar ingenomen in de stukken in eerste aanleg en / of de MvG.  
+
+
+proceskosten
+
+ 
+
+
+4.29
+Icos zal als de in het ongelijk gestelde partij worden veroordeeld in de overeengekomen proceskosten van € 225.000-. De hof ziet geen aanleiding tot ambtshalve matiging daarvan. 
+
+
+
+
+5 Beslissing 
+
+Het hof:
+ 
+
+5.1
+bekrachtigt het vonnis waarvan beroep; 
+
+
+5.2
+veroordeelt Icos in de kosten van Teva in hoger beroep begroot op een bedrag van € 225.000-; 
+
+
+5.3
+verklaart de proceskostenveroordeling uitvoerbaar bij voorraad; 
+
+
+5.4
+wijst af het meer of anders gevorderde. 
+
+Dit arrest is gewezen door mrs. R. Kalden P.H. Blok en C.J.J.C. van Nispen en is uitgesproken ter openbare terechtzitting van 27 augustus 2019 in aanwezigheid van de griffier.
+
+
+

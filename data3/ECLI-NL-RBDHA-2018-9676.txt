@@ -1,0 +1,497 @@
+
+
+Rechtbank DEN HAAG
+
+Strafrecht
+ 
+
+Meervoudige strafkamer
+ 
+
+Parketnummer:	09/827054-17
+ 
+
+Datum uitspraak:	9 augustus 2018
+ 
+
+Tegenspraak
+ 
+
+
+(Promisvonnis)
+
+ 
+
+De rechtbank Den Haag heeft op de grondslag van de tenlastelegging en naar aanleiding van het onderzoek ter terechtzitting het navolgende vonnis gewezen in de zaak van de officier van justitie tegen de verdachte:
+ 
+
+
+
+          [verdachte]
+        
+geboren op [geboortedag] 1990 te [geboorteplaats] 
+BRP- en verblijfadres in Nederland: [adres 1]  
+verblijfadres in het buitenland: [adres 2] 
+ 
+
+
+
+1 Het onderzoek ter terechtzitting 
+
+Het onderzoek is gehouden op de terechtzittingen van 24 mei 2017 (niet inhoudelijk) en 26 juli 2018 (inhoudelijk).
+ 
+
+De rechtbank heeft kennis genomen van de vordering van de officier van justitie mr. J.E. Hartjes en van hetgeen door de verdachte en zijn raadsman mr. M. van Olffen naar voren is gebracht.
+ 
+
+
+
+2 De tenlastelegging 
+
+Aan de verdachte is ten laste gelegd dat:
+ 
+
+1.
+hij op of omstreeks 9 augustus 2016 te Leiden althans in Nederland met het oogmerk om zich en/of een ander wederrechtelijk te bevoordelen door het aannemen van een valse naam en/of een valse hoedanigheid en/of door listige kunstgrepen en/of door een samenweefsel van verdichtsels [bedrijfsnaam 1] en/of de [bedrijfsnaam 2] heeft bewogen tot de afgifte van enig goed het verlenen van een dienst het ter beschikking stellen van gegevens het aangaan van een schuld en/of het teniet doen van een inschuld te weten het verschuldigd worden van een bedrag van 233220 euro voor de levering van goederen ( [bedrijfsnaam 1] ) en/of het leveren van één of meer keukenmengkranen en boilers ( [bedrijfsnaam 2] ) door via het bestelaccount van [bedrijfsnaam 1] zonder diens/dier toestemming een bestelling van voornoemde goederen te doen bij [bedrijfsnaam 2] en de goederen door laatstgenoemde te laten afleveren aan hem verdachte of iemand namens hem zonder betaling zijnerzijds;
+ 
+
+2.
+hij op of omstreeks 9 augustus 2016 te Leiden althans in Nederland opzettelijk en wederrechtelijk in een (gedeelte van) een geautomatiseerd werk te weten het bestelaccount van [bedrijfsnaam 1] bij [bedrijfsnaam 2]  is binnengedrongen
+
+a. door het doorbreken van een beveiliging
+b. met behulp van valse signalen of een valse sleutel te weten de inlognaam en het wachtwoord van [bedrijfsnaam 1]  voor het gebruik waarvan hem geen toestemming was verleend door de rechthebbende
+c. door het aannemen van een valse hoedanigheid.  
+
+
+
+3 Bewijsoverwegingen 
+
+3.1
+
+Inleiding 
+De verdachte wordt verweten dat hij op 9 augustus 2016 [bedrijfsnaam 2] en/of [bedrijfsnaam 1] heeft opgelicht (feit 1) en dat hij zich op diezelfde datum schuldig heeft gemaakt aan computervredebreuk (feit 2). De verdachte heeft ontkend deze feiten te hebben gepleegd. 
+ 
+
+
+3.2
+Het standpunt van de officier van justitie 
+
+De officier van justitie heeft gerekwireerd tot bewezenverklaring van de onder 1 en 2 ten laste gelegde feiten. Ten aanzien van feit 1 heeft de officier van justitie zich op het standpunt gesteld dat zowel de oplichting jegens [bedrijfsnaam 2] als die jegens [bedrijfsnaam 1] kan worden bewezen. [bedrijfsnaam 2] is bewogen tot de afgifte van goederen en [bedrijfsnaam 1] is bewogen tot de afgifte van een geldbedrag aldus de officier van justitie. 
+ 
+
+
+3.3
+Het standpunt van de verdediging 
+
+De verdediging heeft integrale vrijspraak bepleit wegens gebrek aan wettig en overtuigend bewijs. Indien en voor zover relevant zal hieronder nader op het betoog van de verdediging worden ingegaan.
+ 
+
+
+3.4
+De beoordeling van de tenlastelegging1 
+
+
+Feiten 1 en 2
+
+ 
+
+De rechtbank gaat bij haar beoordeling uit van de navolgende redengevende feiten en omstandigheden. Deze feiten en omstandigheden vinden hun oorsprong in de bewijsmiddelen die in de voetnoten staan genoemd.  
+ 
+
+
+Verklaring aangever 
+
+
+          [aangever] (hierna ook: aangever) heeft aangifte gedaan van oplichting. Hij heeft verklaard dat hij eigenaar is van een eenmanszaak genaamd [bedrijfsnaam 1] en dat hij geregeld via internet installatiemateriaal bestelt bij [bedrijfsnaam 2] . Hij heeft een account bij [bedrijfsnaam 2] . Op 11 augustus 2016 zag hij in zijn [bedrijfsnaam 2] -account een factuur met een totaalbedrag van € 2.33220. Deze bestelling had hij niet geplaatst en ook de goederen had hij niet afgenomen. Op de factuur stond dat de bestelling via internet was geplaatst door [aangever]  terwijl normaliter slechts zijn achternaam op een dergelijke factuur wordt geplaatst. Volgens de factuur zouden de bestelde goederen zijn afgeleverd aan de [adres 3] op naam van de familie [naam] en betrof het een spoedlevering.2 Bij zijn aangifte heeft aangever de betreffende factuur3 en het bewijs van aflevering4 aan de politie overhandigd. Op de factuur staan twee keukenmengkranen en twee boilers.
+Aangever heeft aanvullend verklaard dat hij al zijn bestellingen bij [bedrijfsnaam 2] via zijn laptop thuis (de rechtbank begrijpt: [adres 4] ) doet. Zijn inloggegevens en wachtwoord staan automatisch ingelogd op het [bedrijfsnaam 2] -account. Hij heeft verder verklaard dat hij de factuur heeft betaald.5
+ 
+
+
+Bevindingen IP-adres bestelling
+
+
+          [bedrijfsnaam 2] heeft op 12 augustus 2016 aan aangever laten weten dat de betreffende bestelling is geplaatst door gebruikmaking van zijn inloggegevens. Deze gegevens hoort alleen een klant te kennen (internet overeenkomst). De order is op 9 augustus om 18:07 uur geplaatst vanaf het IP-adres [(--)] .6 De NAW-gegevens behorende bij dit IP-adres zijn: [naam vader van verdachte]  [adres 1] .7
+ 
+
+
+Verklaring [bewoonster adres 3]
+
+ heeft verklaard dat zij woonachtig is op het adres [adres 3] . De verdachte had de sleutels van haar woning en haar auto. Zij heeft van [getuige] gehoord dat de verdachte aan hem [getuige]  heeft toegegeven dat hij goederen heeft besteld. [getuige] vertelde dat de verdachte geld nodig had en dat de verdachte dingen heeft besteld via andere gegevens en dat die zijn afgeleverd op haar adres. De verdachte heeft die goederen weer doorverkocht. Van [getuige] heeft zij foto’s gekregen waarop een Facebookgesprek tussen [getuige] en de verdachte te zien is. [bewoonster adres 3] heeft deze foto’s aan de politie getoond.8 Deze zijn als bijlage bij het proces-verbaal gevoegd.9
+ 
+
+
+Facebookgesprekken
+
+Op deze foto’s10 is te zien dat “ [verdachte] ” een aantal berichten stuurt: 
+ 
+- “ Wil die ketel bij die knakker weg hebben straks jat hij mijn buit”; 
+- “ Vanavond weer bestellen voor morgen.
+
+Als je wat nodig hebt 
+Gereedschap zonnepanelen  
+Boilers 
+Zeg het maar (met daarachter een viertal smileys) 
+ 
+
+Op 9 augustus:
+
+- “ Hahahaha eerste ketel is binnen a 1500 euro 
+Snel verkopen op marktplaats”; 
+- “ Morgen als het goed is 3 multisplot airco”;  
+
+Op 11 augustus: 
+
+- “ Oeps die Joden weten het nu”;  
+- “ Die kneus bij [naam] heeft de voordeur op slot gedraaid en geen (…) achtergelaten    
+
+Word wat moeilijker 
+Ivm leveringen
+Maar goed dan maar in de auto of regen wachten 
+Zo kan je iedereen leegtrekken 
+Bouwbedrijf als bv
+Kredietlimiet van 10k bij 5 of 10 bedrijven
+En falliet
+Sorry mazzel”. 
+ 
+
+
+Verklaring [getuige]
+
+ heeft verklaard dat het in de periode van mei 2016 tot augustus 2016 financieel niet goed ging met het bedrijf dat hij samen met de verdachte had. In die periode had hij met de verdachte veel contact via Messenger (de rechtbank begrijpt: Facebook Messenger). De verdachte vertelde hem dat hij kranen en ketels had gekocht en weer had verkocht. De verdachte had de spullen gekocht op rekening (de rechtbank begrijpt: het account) van een bedrijf in Nederland. Hij heeft dat gedaan via zijn computer. De verdachte vertelde hierover voorts aan [getuige] dat hij de spullen had laten leveren op het adres van [bewoonster adres 3]  dat hij de spullen niet zelf in ontvangst had genomen en dat iemand anders dat had gedaan. Ook vertelde de verdachte dat hij de goederen had doorverkocht via Marktplaats als particulier. [getuige] heeft verklaard dat de verdachte tegen hem heeft gezegd dat hij via oplichting aan de spullen was gekomen en dat hij die op rekening van een ander bedrijf had besteld.11
+ 
+
+
+Onderzoek laptop verdachte 
+
+In de laptop van het merk Asus Atheros van de verdachte is gezocht naar termen die verband zouden kunnen hebben met de aangifte. Op verschillende plaatsen in de pagefile.sys en de unallocated clusters is de term ‘ [naam] ’ aangetroffen. 
+De pagefile.sys is een bestand waarin delen van het RAM-geheugen worden geplaatst. Het RAM-geheugen is het werkgeheugen van de computer. Om voldoende RAM-geheugen beschikbaar te houden worden delen van het geheugen die niet direct nodig zijn naar de pagefile geschreven. In de unallocated clusters staan (delen van) bestanden die voorheen op de harde schijf aanwezig waren maar zijn verwijderd. Door het verwijderen van bestanden worden verwijzingen naar het bestand verwijderd en wordt er toestemming aan de computer gegeven om hierover nieuwe data op te slaan. In zowel de pagefile.sys als de unallocated clusters is het vaak lastig om een context te verbinden aan de gevonden data. Dit omdat er vaak maar gedeeltes van de data worden teruggevonden. 
+ 
+
+Op meerdere locaties werden soortgelijke berichten gevonden waaruit een groot deel van een bericht kon worden geëxtraheerd: 
+ 
+
+‘Geachte Zojuist een spoedopdracht binnen gehad voor 3 woonhuizen (1 multisplit per woning). Men wil in principe de WDHX-DM40i ze was €985 toch? Indien dit correct is dan ga ik ook akkoord met betreffende (...) kunnen jullie (...) sturen. (...) a.s. Woensdag leveren bij mijn klant op het volgende adres: [adres 3] Factuur: [bedrijfsnaam 1] . (...) hoef niet helemaal naar Maastricht toe. Alvast bedankt voor de medewerking groeten (...) [telefoonnummer 1]’.
+ 
+
+De termen ‘ [bedrijfsnaam 2] ’ en ‘ [aangever] ’ zijn een aantal keer in de pagefile.sys en de unallocated clusters gevonden de laatste onder meer ook in combinatie met de term ‘ [naam] ’ in het hierboven genoemde bericht. 
+ 
+
+Daarnaast is in het bestand pagefile.sys ook de volgende tekst gevonden
+
+- Bedrijf: [bedrijfsnaam 1] KVK-numh : [(--)] .12 
+
+
+
+            [telefoonnummer 1]
+          
+
+Op het bewijs van aflevering van [bedrijfsnaam 2] staat het telefoonnummer [telefoonnummer 1]  vermeld.13
+Uit de factuurspecificatie van de werktelefoon van de chauffeur [naam]  in dienst van [bedrijfsnaam 2]  blijkt dat hij op 10 augustus 2016 om 09:58 uur naar dit 06-nummer heeft gebeld en dat dit gesprek 4:21 minuten heeft geduurd.14
+De verdachte heeft opgegeven dat het [telefoonnummer 2]  dat hoort bij de IMEI-nummers van de telefoon die onder hem in beslag is genomen bij hem in gebruik is.15 Uit de historische verkeersgegevens van dit telefoonnummer ( [telefoonnummer 2] ) blijkt dat op 5 augustus 2016 om 11:34 uur door dit nummer is ingebeld naar het nummer [telefoonnummer 1]  dat er 8 seconden is ingebeld en dat er geen gesprek heeft plaatsgevonden.16
+ 
+
+
+Daadwerkelijk afleveradres 
+
+Uit het Track en Trace systeem waarmee het voertuig van de chauffeur van [bedrijfsnaam 2] was uitgerust blijkt dat de goederen op 10 augustus 2016 om 10:20 uur zijn afgeleverd op de [adres 5] .17
+ 
+
+
+Zendmastgegevens
+
+De telefoon van de verdachte heeft op 9 augustus 2016 om 18:37 uur de zendmast aan de [straatnaam + plaats] aangestraald. Het dekkingsgebied van die zendmast omvat het adres [adres 1] Hemelsbreed staat die zendmast op ongeveer 470 meter afstand van het adres [adres 1] .18
+ 
+
+
+Verklaring van de verdachte 
+
+De verdachte heeft verklaard dat [naam vader van verdachte] zijn vader is en dat hij verdachte op het adres [adres 1] verblijft wanneer hij in Nederland is. De verdachte heeft ook verklaard dat hij in de periode van 9 augustus 2016 op dat adres was. Daarnaast heeft de verdachte verklaard dat hij de hiervoor weergegeven Facebookberichten heeft gestuurd.19 De verdachte heeft met betrekking tot deze berichten verklaard dat hij goederen op Marktplaats bestelde en deze zo snel mogelijk weer doorverkocht om winst te maken. Over de teksten en woorden aangetroffen in zijn laptop heeft de verdachte verklaard dat hij na het verhoor van zijn vader op 25 oktober 2016 op internet heeft gezocht op de naam [aangever] en dat hij op een open e-mailaccount van de e-maildienst Yopmail van [aangever] is terechtgekomen. Hij heeft de e-mails gelezen en zodoende zijn deze teksten in zijn laptop opgeslagen aldus de verdachte. Wat betreft het telefoonnummer [telefoonnummer 1] heeft hij verklaard dat het mogelijk is dat hij dat nummer heeft gebeld. Hij koopt veel spullen in via Marktplaats en dat nummer is mogelijk van een verkoper op Marktplaats. 
+ 
+
+
+De beoordeling en de conclusie van de rechtbank 
+
+Gelet op de hiervoor weergegeven bewijsmiddelen – in onderling verband en samenhang bezien – acht de rechtbank bewezen dat de verdachte [bedrijfsnaam 2] heeft opgelicht (feit 1) en dat hij zich heeft schuldig gemaakt aan computervredebreuk (feit 2). 
+ 
+
+De rechtbank overweegt hiertoe allereerst dat [bewoonster adres 3] en [getuige] beiden belastend jegens de verdachte hebben verklaard. De rechtbank ziet – nu deze verklaringen op veel punten steun vinden in de overige bewijsmiddelen – geen aanleiding aan de juistheid van deze verklaringen te twijfelen. De bestelling bij [bedrijfsnaam 2] is geplaatst via het IP-adres van de vader van de verdachte op wiens adres de verdachte op die dag ook aanwezig was. De goederen moesten bezorgd worden op het adres van [bewoonster adres 3]  een bekende van de verdachte. De verdachte had de sleutel van haar woning. Naar het telefoonnummer dat staat vermeld op het bewijs van aflevering – en dat dus kennelijk is opgegeven als contactnummer voor die aflevering – heeft ook de verdachte gebeld. 
+ 
+
+De inhoud van de hierboven weergegeven Facebookgesprekken gevoerd tussen de verdachte en [getuige]  sluit naadloos aan op de aangifte van aangever de goederen genoemd in de factuur van [bedrijfsnaam 2] en het fragment van het bericht aangetroffen op de laptop van de verdachte. Uit de factuur van [bedrijfsnaam 2] blijkt immers dat op 9 augustus 2016 keukenmengkranen en boilers bij [bedrijfsnaam 2] zijn besteld. Op diezelfde dag zegt de verdachte in het Facebookgesprek: “Hahahaha eerste ketel is binnen”. Aangever heeft op 11 augustus 2016 ontdekt dat er met zijn account was gefraudeerd en heeft aangifte gedaan. Op diezelfde dag zegt de verdachte in het Facebookgesprek: “Oeps die Joden weten het nu”. De verdachte heeft het voorts over “3 multisplot airco” hetgeen weer overeenkomt met het in de laptop van de verdachte teruggevonden fragment waarin “3 woonhuizen (1 multisplit per woning)” wordt genoemd. 
+ 
+
+De rechtbank volgt niet de verklaring die de verdachte voor het aantreffen van dit fragment heeft gegeven. Volgens de verdachte zou hij dit bericht in een open mailbox van de dienst Yopmail zijn tegengekomen toen hij eind oktober 2016 op internet zocht naar [aangever] naar aanleiding van het verhoor van zijn vader. De politie heeft gerelateerd dat berichten bij Yopmail slechts acht dagen worden bewaard. Dat zou betekenen dat het bericht waarvan het fragment op de laptop is aangetroffen nog in oktober 2016 is verstuurd. Dat acht de rechtbank echter hoogst onwaarschijnlijk gelet op de strekking van dit bericht het feit dat [aangever] reeds op 11 augustus 2016 aangifte heeft gedaan én het feit dat de verdachte – zoals hiervoor reeds is overwogen – op 11 augustus 2016 heeft gechat over “3 multisplot airco”. 
+ 
+
+De verdachte heeft voor het overige geen concrete verklaring gegeven. Het komt er – volgens de verdachte – in de kern op neer dat al hetgeen in zijn richting wijst op toeval berust. Dat evenwel gaat de goedgelovigheid van de rechtbank te boven.
+ 
+
+Gelet op al het voorgaande kan het niet anders dan dat de verdachte degene is geweest die de goederen via het account van aangever heeft besteld. Door zonder toestemming van aangever gebruik te maken van zijn [bedrijfsnaam 2] -account met de inloggegevens van de aangever heeft de verdachte zich schuldig gemaakt aan computervredebreuk.
+ 
+
+De goederen zijn op 9 augustus 2016 online besteld bij [bedrijfsnaam 2]  via het account - en dus uit naam - van [aangever] . Op deze wijze is [bedrijfsnaam 2] bewogen tot afgifte ervan uitgaande te zullen leveren aan een bona fide handelsrelatie terwijl het de verdachte is geweest die door de daadwerkelijke levering van de goederen is bevoordeeld. De rechtbank acht niet bewezen dat [bedrijfsnaam 1] is opgelicht omdat deze laatste niet is bewogen tot de afgifte van het geldbedrag. Wel heeft [bedrijfsnaam 1] ten gevolge van de oplichting jegens [bedrijfsnaam 2] schade geleden nu het bedrijf de factuur wel heeft betaald. 
+ 
+
+
+3.5
+De bewezenverklaring 
+
+De rechtbank verklaart bewezen dat de verdachte: 
+ 
+
+1.
+op 9 augustus 2016 in Nederland met het oogmerk om zich wederrechtelijk te bevoordelen door het aannemen van een valse naam en een valse hoedanigheid [bedrijfsnaam 2] heeft bewogen tot de afgifte van keukenmengkranen en boilers door via het bestelaccount van [bedrijfsnaam 1] zonder diens toestemming een bestelling van voornoemde goederen te doen bij [bedrijfsnaam 2] en de goederen door laatstgenoemde te laten afleveren aan hem verdachte of iemand namens hem zonder betaling zijnerzijds;
+ 
+
+2.
+op 9 augustus 2016 in Nederland opzettelijk en wederrechtelijk in een (gedeelte van) een geautomatiseerd werk te weten het bestelaccount van [bedrijfsnaam 1] bij [bedrijfsnaam 2]  is binnengedrongen
+
+b. met behulp van een valse sleutel te weten de inlognaam en het wachtwoord van [bedrijfsnaam 1]  voor het gebruik waarvan hem geen toestemming was verleend door de rechthebbende en
+c. door het aannemen van een valse hoedanigheid.  
+
+Voor zover in de tenlastelegging type- en taalfouten voorkomen zijn deze in de bewezenverklaring verbeterd. Blijkens het verhandelde ter terechtzitting is de verdachte daardoor niet in de verdediging geschaad. 
+
+
+4.	De strafbaarheid van het bewezen verklaarde
+ 
+
+Het bewezen verklaarde is volgens de wet strafbaar omdat er geen feiten of omstandigheden aannemelijk zijn geworden die de strafbaarheid van de feiten uitsluiten. 
+ 
+
+
+
+
+5 De strafbaarheid van de verdachte 
+
+De verdachte is eveneens strafbaar omdat er geen feiten of omstandigheden aannemelijk zijn geworden die zijn strafbaarheid uitsluiten.
+ 
+
+
+
+6 De strafoplegging 
+
+6.1
+De vordering van de officier van justitie 
+
+De officier van justitie heeft gevorderd dat de verdachte wordt veroordeeld tot een gevangenisstraf voor de duur van 90 dagen met aftrek van de tijd in voorarrest doorgebracht waarvan 57 dagen voorwaardelijk met een proeftijd van twee jaren en een taakstraf van 120 uren. 
+ 
+
+
+6.2
+Het standpunt van de verdediging 
+
+De verdediging heeft geen standpunt ingenomen over de strafmaat. 
+ 
+
+
+6.3
+Het oordeel van de rechtbank 
+
+Na te melden straf is in overeenstemming met de ernst van de gepleegde feiten de omstandigheden waaronder deze zijn begaan en gegrond op de persoon en de persoonlijke omstandigheden van de verdachte zoals daarvan tijdens het onderzoek ter terechtzitting is gebleken.
+ 
+
+De rechtbank neemt hierbij in het bijzonder het volgende in aanmerking.
+ 
+
+
+Ernst van de feiten 
+
+De verdachte heeft zich schuldig gemaakt aan computervredebreuk en oplichting van het bedrijf [bedrijfsnaam 2]  waardoor de aangever (die de rekening wel heeft moeten betalen) voor een bedrag van ruim € 2.000- is benadeeld. De verdachte heeft via het account en met de inloggegevens van de aangever goederen besteld bij [bedrijfsnaam 2] en de bestelde goederen laten afleveren kennelijk met de bedoeling deze door te verkopen. De verdachte heeft de aangever financieel benadeeld en het voor het handelsverkeer noodzakelijke vertrouwen geschaad. De verdachte heeft deze feiten op slinkse wijze gepleegd kennelijk slechts uit financieel gewin. Hij heeft geen enkel inzicht getoond in het laakbare van zijn handelen. Integendeel uit de hierboven geciteerde Facebookgesprekken blijkt dat de verdachte zich heel goed bewust is geweest van de schade die hij veroorzaakte. 
+ 
+
+
+Persoon van de verdachte 
+
+Blijkens het uittreksel uit de Justitiële Documentatie van 29 juni 2018 betreffende de verdachte is hij niet eerder veroordeeld. Uit een gespreksaantekening van de reclassering van 23 januari 2017 komt naar voren dat de verdachte naar eigen zeggen als ondernemer (eigenaar van meerdere nachtwinkels en een groothandel) woonachtig is in [buitenland]  dat hij geen financiële problemen heeft en dat hij geen drugs gebruikt. Volgens de reclassering kan niet gesproken worden van een delictpatroon. Omdat de verdachte geen hulpvragen heeft en hij in het buitenland woonachtig is zijn er geen aanknopingspunten voor reclasseringstoezicht. 
+ 
+
+De verdachte heeft ter terechtzitting van 26 juli 2018 verklaard dat hij zes maanden in Nederland verblijft en zes maanden in [buitenland] . Zijn bedrijf in [buitenland] is failliet gegaan maar hij heeft nu diverse webshops in medische producten. Hij heeft een maandelijkse omzet van € 30.000- tot € 40.000- en een schuld van € 25.000-. 
+ 
+
+
+Conclusie van de rechtbank 
+
+Met de officier van justitie is de rechtbank van oordeel dat een vrijheidsbenemende straf waarvan een deel voorwaardelijk geboden is vanwege de ernst van de feiten de houding van de verdachte en de gevolgen voor de aangever. Anders dan de officier van justitie acht de rechtbank het opleggen van een taakstraf niet opportuun omdat de verdachte de helft van het jaar in het buitenland verblijft. Wel acht de rechtbank een voorwaardelijk strafdeel van langere duur dan door de officier van justitie is gevorderd op zijn plaats om de verdachte ervan te weerhouden opnieuw strafbare feiten te plegen. In dat verband acht de rechtbank ter voorkoming van recidive bovendien een proeftijd van drie jaar geïndiceerd. Gelet op het voorgaande zal de rechtbank aan de verdachte een gevangenisstraf van 150 dagen waarvan 116 dagen voorwaardelijk opleggen. De verdachte heeft vierendertig dagen in voorarrest doorgebracht. 
+ 
+
+
+
+
+7 De vordering van de benadeelde partij en de schadevergoedingsmaatregel 
+
+7.1
+De vordering van de benadeelde partij  
+
+
+          [aangever] heeft zich als benadeelde partij gevoegd ter zake van de vordering tot schadevergoeding groot € 4.19028 inclusief btw ter zake van materiële schade en bestaande uit de posten: 
+
+a. Factuur [bedrijfsnaam 2] € 2.33220 inclusief btw (€ 1.92744 exclusief btw); 
+b. Factuur [bedrijfsnaam 3] € 1.45878 inclusief btw (€ 1.20560 exclusief btw); 
+c. Factuur [bedrijfsnaam 1] € 39930 inclusief btw (€ 330- exclusief btw).  
+
+De benadeelde partij heeft tevens verzocht voornoemd bedrag te vermeerderen met de wettelijke rente vanaf het moment dat de schade is ontstaan en aan de verdachte de schadevergoedingsmaatregel op te leggen. 
+ 
+
+
+7.2
+Het standpunt van de officier van justitie 
+
+De officier van justitie heeft geconcludeerd tot gedeeltelijke toewijzing van de vordering van de benadeelde partij aangaande de posten a en c tot een bedrag van € 2.73150 inclusief btw met oplegging van de schadevergoedingsmaatregel en tot niet-ontvankelijkverklaring van de benadeelde partij voor wat betreft post b omdat op dit punt geen sprake is van rechtstreekse schade.
+ 
+
+
+7.3
+Het standpunt van de verdediging 
+
+De verdediging heeft primair verzocht de benadeelde partij niet-ontvankelijk te verklaren in de vordering gelet op het betoog de verdachte vrij te spreken van het hem ten laste gelegde. Ook subsidiair bij bewezenverklaring van de feiten heeft de verdediging verzocht de benadeelde partij niet-ontvankelijk te verklaren in de vordering en daartoe het volgende naar voren gebracht. De benadeelde partij moet zich wenden tot [bedrijfsnaam 2]  omdat het systeem van [bedrijfsnaam 2] kennelijk niet naar behoren functioneert of niet goed is beveiligd. Daarnaast is sprake van eigen schuld van de benadeelde partij omdat hij zijn wachtwoorden niet goed heeft beheerd. De verdediging heeft verder naar voren gebracht dat de btw-bedragen niet voor vergoeding in aanmerking komen en dat de benadeelde partij in [adres 4] aangifte had kunnen doen zodat ook de reiskosten van [adres 4] naar Leiden niet voor vergoeding in aanmerking komen. Wellicht kan voor de tijd en moeite die de benadeelde partij heeft genomen naar schatting een bedrag van € 5000 worden toegewezen aldus de raadsman. 
+ 
+
+
+7.4
+Het oordeel van de rechtbank 
+
+Uit het onderzoek ter terechtzitting is komen vast te staan dat de benadeelde partij rechtstreeks schade heeft geleden als gevolg van het onder 1 bewezen verklaarde feit. Hoewel de ten laste gelegde oplichting jegens de benadeelde partij zelf niet is bewezen staat wel vast dat juist de benadeelde partij door dit feit is benadeeld. Hij heeft immers de factuur van [bedrijfsnaam 2] betaald (post a). Ook staat vast dat de benadeelde partij vanuit zijn woonplaats [adres 4] naar Leiden is gereden om daar onderzoek en aangifte te doen waardoor hij benzinekosten heeft gemaakt en een halve dag niet heeft kunnen werken (post c). De gevorderde schade aangaande de posten a en c is voldoende onderbouwd en komt voor vergoeding in aanmerking. De rechtbank zal daarom deze gevorderde schade toewijzen maar exclusief btw. Dit omdat de benadeelde partij deze als ondernemer terug kan krijgen van de belastingdienst. De vordering met betrekking tot de btw-bedragen zal dan ook worden afgewezen. 
+ 
+
+De rechtbank zal voor zover de vordering betrekking heeft op post b de benadeelde partij niet-ontvankelijk verklaren in de vordering omdat deze schade geen verband houdt met het bewezen verklaarde feit. 
+ 
+
+De rechtbank zal derhalve de vordering toewijzen tot een bedrag van € 2.25744 (€ 1.92744 en € 330-). 
+ 
+
+De rechtbank zal de gevorderde wettelijke rente over het bedrag van € 1.92744 vanaf 10 augustus 2016 toewijzen nu vast is komen te staan dat de schade met ingang van die datum is ontstaan. De factuur van [bedrijfsnaam 2] is gedateerd 10 augustus 2016 en de levering van de goederen heeft blijkens het bewijs van aflevering ook op die dag plaatsgevonden zodat ervan kan worden uitgegaan dat ook op die dag de betaling door de benadeelde partij is gedaan. Daarnaast zal de rechtbank de gevorderde wettelijke rente over het bedrag van € 330- vanaf 11 augustus 2016 toewijzen nu vast is komen te staan dat de schade met ingang van die datum is ontstaan. Op de factuur is de datum 10 augustus 2016 genoemd maar uit de aangifte van de benadeelde partij komt naar voren dat de benadeelde partij op 11 augustus 2016 van [adres 4] naar Leiden is gereden om daar onderzoek en aangifte te doen.
+ 
+
+
+Schadevergoedingsmaatregel
+
+Nu de verdachte voor het onder 1 bewezen verklaarde strafbare feit zal worden veroordeeld en hij jegens het slachtoffer naar burgerlijk recht aansprakelijk is voor de schade die door dit feit is toegebracht zal de rechtbank aan de verdachte de verplichting opleggen tot betaling aan de Staat van een bedrag van € 2.25744 vermeerderd met de wettelijke rente over een bedrag van € 1.92744 vanaf 10 augustus 2016 en over een bedrag van € 330- vanaf 11 augustus 2016 beide tot aan de dag van de algehele voldoening ten behoeve van [aangever] .
+ 
+
+
+
+
+8 De toepasselijke wetsartikelen 
+
+De op te leggen straf en maatregel zijn gegrond op de artikelen 14a 14b 14c 36f 57 138ab en 326 van het Wetboek van Strafrecht. 
+ 
+
+Deze voorschriften zijn toegepast zoals zij golden ten tijde van het bewezen verklaarde.
+ 
+
+
+
+9 De beslissing 
+
+De rechtbank:
+ 
+
+verklaart wettig en overtuigend bewezen dat de verdachte de onder 1 en 2 ten laste gelegde feiten heeft begaan zoals hierboven onder 3.5 bewezen is verklaard en dat het bewezen verklaarde uitmaakt:
+ 
+
+
+ten aanzien van feit 1:
+
+oplichting; 
+
+ 
+
+
+ten aanzien van feit 2:
+
+computervredebreuk; 
+
+ 
+
+verklaart het bewezen verklaarde en de verdachte deswege strafbaar;
+ 
+
+verklaart niet bewezen hetgeen aan de verdachte meer of anders is ten laste gelegd dan hierboven is bewezen verklaard en spreekt de verdachte daarvan vrij;
+ 
+
+veroordeelt de verdachte tot:
+ 
+
+	een gevangenisstraf voor de duur van 150 (honderdvijftig) dagen;
+ 
+
+bepaalt dat de tijd door de veroordeelde vóór de tenuitvoerlegging van deze uitspraak in verzekering en voorlopige hechtenis doorgebracht te weten in totaal 34 (vierendertig) dagen bij de tenuitvoerlegging van het onvoorwaardelijk gedeelte van de hem opgelegde gevangenisstraf geheel in mindering zal worden gebracht voor zover die tijd niet reeds op een andere straf in mindering is gebracht;
+ 
+
+bepaalt dat een gedeelte van die straf groot 116 (honderdzestien) dagen niet zal worden ten uitvoer gelegd onder de algemene voorwaarde dat de veroordeelde zich voor het einde van de hierbij op 3 (drie) jaren vastgestelde proeftijd niet schuldig maakt aan een strafbaar feit;
+ 
+
+
+vordering benadeelde partij 
+
+wijst de vordering tot schadevergoeding van de benadeelde partij gedeeltelijk toe en veroordeelt de verdachte om tegen behoorlijk bewijs van kwijting te betalen aan [aangever] een bedrag van € 2.25744 vermeerderd met de wettelijke rente over een bedrag van € 1.92744 vanaf 10 augustus 2016 en over een bedrag van € 330- vanaf 11 augustus 2016 beide tot aan de dag van de algehele voldoening; 
+ 
+
+wijst de vordering tot schadevergoeding van de benadeelde partij met betrekking tot de gevorderde btw-bedragen af;
+ 
+
+bepaalt dat de benadeelde partij voor het overige deel niet-ontvankelijk is in de vordering tot schadevergoeding;
+ 
+
+veroordeelt de verdachte in de proceskosten door de benadeelde partij gemaakt tot op heden begroot op nihil en ten behoeve van de tenuitvoerlegging nog te maken;
+ 
+
+
+schadevergoedingsmaatregel
+
+legt aan de verdachte op de verplichting tot betaling aan de Staat van een bedrag groot 
+€ 2.25744 vermeerderd met de wettelijke rente over een bedrag van € 1.92744 vanaf 10 augustus 2016 en over een bedrag van € 330- vanaf 11 augustus 2016 beide tot aan de dag van de algehele voldoening ten behoeve van [aangever] ;
+ 
+
+bepaalt dat in geval volledige betaling noch volledig verhaal van het verschuldigde bedrag volgt - onder handhaving van voormelde verplichting - vervangende hechtenis zal worden toegepast voor de duur van 35 dagen;
+ 
+
+bepaalt dat voldoening van de gehele of gedeeltelijke betalingsverplichting aan de benadeelde partij de betalingsverplichting aan de Staat in zoverre doet vervallen alsmede dat voldoening van de gehele of gedeeltelijke betalingsverplichting aan de Staat de betalingsverplichting aan de benadeelde partij in zoverre doet vervallen. 
+ 
+
+Dit vonnis is gewezen door
+mr. S.W.E. de Ruiter								voorzitter
+mr. M. Rootring								rechter
+mr. B.W. Mulder								rechter
+in tegenwoordigheid van mr. R. Moese						griffier
+en uitgesproken ter openbare terechtzitting van deze rechtbank van 9 augustus 2018.
+ 
+
+1
+ Wanneer hierna wordt verwezen naar een proces-verbaal wordt - tenzij anders vermeld - bedoeld een ambtsedig proces-verbaal opgemaakt in de wettelijke vorm door (een) daartoe bevoegde opsporingsambtena(a)r(en). Waar wordt verwezen naar dossierpagina’s betreft dit de pagina’s van het proces-verbaal met het nummer PL1500-2016223887 van de politie eenheid Den Haag district Leiden-Bollenstreek basisteam Noordwijk met bijlagen (doorgenummerde pagina’s 1 t/m 124).
+2
+ Proces-verbaal van aangifte van [aangever] d.d. 11 augustus 2016 p. 5 t/m 7
+3
+ Een geschrift te weten een factuur d.d. 10 augustus 2016 p. 8 als bijlage gevoegd bij het proces-verbaal van aangifte van [aangever]
+4
+ Een geschrift te weten een bewijs van aflevering d.d. 10 augustus 2016 p. 9 als bijlage gevoegd bij het proces-verbaal van aangifte van [aangever]
+5
+ Proces-verbaal van bevindingen d.d. 29 augustus 2017 inhoudende de verklaring van [aangever]  p. 122 t/m 124
+6
+ Proces-verbaal van bevindingen d.d. 15 augustus 2016 p. 12 t/m 13
+7
+ Proces-verbaal van bevindingen d.d. 1 oktober 2016 p. 19
+8
+ Proces-verbaal van verhoor verdachte [bewoonster adres 3] d.d. 25 oktober 2016 p. 22 t/m 24
+9
+ Geschriften te weten foto’s van facebookgesprekken p. 27 t/m 30
+10
+ Geschriften te weten foto’s van facebookgesprekken p. 27 t/m 30
+11
+ Proces-verbaal van bevindingen d.d. 18 februari 2017 inhoudende de verklaring van [getuige]  p. 83 t/m 85
+12
+ Proces-verbaal van bevindingen d.d. 22 februari 2017 p. 88 t/m 90
+13
+ Een geschrift te weten het bewijs van aflevering p. 8
+14
+ Proces-verbaal van bevindingen d.d. 23 augustus 2017 met als bijlage een geschrift te weten een factuurspecificatie p. 120 t/m 121
+15
+ De verklaring van de verdachte afgelegd ter terechtzitting van 26 juli 2018
+16
+ Proces-verbaal van bevindingen d.d. 23 augustus 2017 p. 120 t/m 121
+17
+ Proces-verbaal van bevindingen d.d. 19 juli 2017 met bijlagen p. 108 t/m 113
+18
+ Proces-verbaal zendmast d.d. 15 maart 2017 p. 99 t/m 101
+19
+ De verklaring van de verdachte afgelegd ter terechtzitting van 26 juli 2018

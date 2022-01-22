@@ -1,0 +1,843 @@
+
+
+
+
+
+
+
+
+
+
+
+
+vonnis
+RECHTBANK GELDERLAND
+
+Team kanton en handelsrecht
+ 
+
+Zittingsplaats Arnhem
+ 
+
+zaaknummer / rolnummer: C/05/313513 / KG ZA 16-600
+ 
+
+
+Vonnis in kort geding van 30 januari 2017
+
+ 
+
+in de zaak van
+ 
+
+de besloten vennootschap met beperkte aansprakelijkheid
+
+SECMATIX B.V.
+gevestigd en kantoorhoudende te Nijmegen
+eiseres
+advocaat mr. A.A.H.M. van der Wijst te Boxtel
+ 
+
+tegen
+ 
+
+de besloten vennootschap met beperkte aansprakelijkheid
+
+NOVIOTECH B.V.
+gevestigd en kantoorhoudende te Nijmegen
+gedaagde
+advocaat mr. M.R. Rijks te Eindhoven.
+ 
+
+Partijen zullen hierna Secmatix en NovioTech genoemd worden.
+ 
+
+
+
+1 De procedure
+
+1.1.
+Het verloop van de procedure blijkt uit:
+
+-
+de dagvaarding van 5 januari 2017 met de producties 1 t/m 42
+
+-
+de conclusie van antwoord van NovioTech met de producties 1 t/m 32
+
+-
+het faxbericht van 13 januari 2017 van Secmatix met productie 43
+
+-
+het faxbericht van 13 januari 2017 van NovioTech met productie 33
+
+-
+het faxbericht van 13 januari 2017 van NovioTech met de producties 34 en 35
+
+-
+het faxbericht van 13 januari 2017 van Secmatix met de producties 44 t/m 47
+
+-
+het faxbericht van 15 januari 2017 van Secmatix met productie 48
+
+-
+het faxbericht van 16 januari 2017 van NovioTech met productie 36
+
+-
+de mondelinge behandeling op 16 januari 2017
+
+-
+de pleitnota van Secmatix met daarin de aanvulling van eis
+
+-
+de pleitnota van NovioTech.
+
+
+
+
+1.2.
+Ten slotte is vonnis bepaald. 
+
+
+
+
+2 De feiten
+
+2.1.
+Secmatix is een onderneming die farmaceutische medische en andere producten voor geneesmiddelenonderzoek ontwikkelt produceert en verhandelt. Zij maakt onder meer gebruik van een nieuw molecuul genaamd polyisocyanopeptide (hierna: PIC) dat aan de Radboud Universiteit (RU) is ontwikkeld en onder andere wordt gebruikt in onderzoek naar medicatie voor kanker. Secmatix is in 2014 opgericht. 
+
+
+2.2.
+NovioTech houdt zich bezig met het op de markt brengen van nieuwe technologieën in diverse branches (zoals chemie agro-industrie pesticiden medische hulpmiddelen biotechnologie en wearables) waarbij zij de financiering voor innovatieve projecten onderzoeken of producten realiseert. Bestuurders van NovioTech zijn [bestuurder 2] (hierna: [bestuurder 2] ) en [bestuurder 1] . (hierna: [bestuurder 1] ). Aandeelhouders zijn [bestuurder 2] (3809%) [bestuurder 1] (3809%) de heer [bestuurder 3] 952%) de heer [bestuurder 4] (952%) en de heer [bestuurder 5] (476%). [bestuurder 3] en [bestuurder 4] waren tot 2016 verbonden aan de RU. 
+
+
+2.3.
+Op 16 juli 2009 heeft de RU tezamen met de Stichting Katholieke Universiteit (hierna: SKU) een octrooi aangevraagd voor “Method for the preparation of high molecular weight oligio(alkylene glycol) functionalized polisocyanopeptides” hetgeen is gepubliceerd op 12 maart 2012. Het octrooi is nog niet verleend. Op 24 augustus 2011 heeft SKU een octrooilicentie verstrekt aan NovioTech om de technologie te gebruiken voor het verrichten van research en development alsmede de vervaardiging en verkoop van producten onder gebruikmaking van de technologie.  
+
+
+2.4.
+Op 3 januari 2014 is Novioponics B.V. (hierna: Novioponics) opgericht een onderneming actief in de agro-industrie meer in het bijzonder op het gebied van gewasbescherming. Bestuurder en enig aandeelhouder was NovioCap B.V. (hierna: Noviocap). Met ingang van 1 januari 2016 zijn mevrouw [bestuurder 6] en Eagan N.V. bestuurders van Novioponics geworden. De bestuurders en aandeelhouders van NovioCap (welke vennootschap op 30 mei 2012 is opgericht) zijn [bestuurder 2] en [bestuurder 1] . 
+
+
+2.5.
+Op 15 september 2014 heeft Novioponics een octrooiaanvraag ingediend met als titel “Composition comprising a hydrogel and pesticides”. Deze aanvraag is op 24 maart 2016 gepubliceerd. 
+
+
+2.6.
+Novioponics werkt ook samen met Syncom B.V. (hierna: Syncom). Volgens NovioTech hebben zij een nieuwe werkwijze uitgevonden voor de productie van het PIC-molecuul en de opschaling daarvan naar grotere hoeveelheden. Hiervoor zou ook een octrooiaanvraag zijn ingediend maar deze is nog niet gepubliceerd. 
+
+
+2.7.
+Op enig moment is een dispuut ontstaan tussen SKU en NovioTech waarna UMC St. Radboud Holding B.V. SKU NovioTech Radboud University Holding B.V. en de heer [X] op 21 oktober 2014 een “non-binding termsheet for the incorporation of Segmatix B.V. and further collaboration” (hierna: NBT) hebben opgesteld. In de NBT is onder meer het volgende opgenomen: 
+
+
+TAKING INTO CONSIDERATION;
+
+ 
+
+A. SKU is sole owner of the patent applications listed in Exhibit A including the Helix Gel Patent (as defined) and the Cell Growth Patent (as defined);
+ 
+
+(…)
+ 
+
+E. Each of NovioTech and SKU have entered into one or more (research and/or subsidy) agreements relating to the subject matter of the Helix Gel Patent and/or Cell Growth Patent as further described in Exhibit C (the “Contracts”);
+ 
+
+F. SKU and NovioTech with the consent of the other Parties have decided to explore solving their dispute by incorporating a private company with limited liability Heli-X B.V (or whatever other name the Parties may decide on) hereinafter referred to as the ‘Company” to which RUNMC Holding SKU (SKU and RUNMC Holding to be joint shareholders or alternativety solely RUNMC Holding or any of its (indirect) subsidiaries to become shareholder in the Company) and NovioTech would become a shareholder and to which each of SKU and NovioTech will - in the form as arranged in this agreement - contribute their rights relating to the Helix Gel Patent the Cell Growth Patent the ‘Additional Patents” listed in Exhibit A the Know-How and their rights under the Contracts (to the extent such Party has such rights) under terms and conditions to be agreed in good faith but based on the principle terms set out in this Term Sheet;
+ 
+
+(…)
+ 
+
+K. This Term sheet is save for the Articles 12 and 13 hereof which are binding not binding to the Parties and only serves as basis for further discussions between the Parties on the principals set out in this Term sheet.
+ 
+
+(…)
+ 
+
+
+Exhibits to this Term Sheet:
+
+ 
+
+(…)
+
+Exhibit C Contracts
+
+ 
+
+
+(…)
+
+ 
+
+
+HAVE AGREED AS FOLLOWS:
+
+ 
+
+
+
+
+1 DEFINITIONS 
+
+(…)
+ 
+
+Affiliates 		means any person other than a Shareholder that directly or indirectly controls is  			controlled by or is under common control with such Party where “control’ means the 			direct or indirect ownership of over fifty percent (50%) of the capital stock (or other 			ownership interest if not a corporation) of any entity or the possession directly or 			indirectly of the power to direct the management and policies of such entity by ownership 
+		of voting securities by contract or otherwise.
+ 
+
+(…)
+ 
+
+Cell Growth Patent 	means (a) patent appilcation EP 13003621 titled Polymer suitable for use in ceIl culture’ 		with priority date 18 July 2013 (b) all patents issuing on this patent application and any 		divisionals continuations continuations-in-part reissues reexaminations extensions 			substitutions and renewals of such patents and patent application including any patents 			and patent 	applications that claim priority to a common priority document in the priority 		chain of any of the foregoing (c) any supplemental patent protection based on any of the 		foregoing and (d) foreign counterparts of any of the foregoing;
+ 
+
+(…)
+ 
+
+Helix Gel Patent 	means (a) patent application EP 09165705.6 titled Method for the preparation of high 			molecular weight oligo (alkylene glycol) functionalized polyisocyanopeptides” with 			priority date July 16 	2009 (b) all patents issuing on this patent application and any
+		divisionals continuations continuations-in-part reissues reexaminations extensions 			substitutions and renewals of such patents and patent application including any patents 			and patent 	applications that claim priority to a common priority document in the priority 		chain of any of the foregoing (c) any supplemental patent protection based on any of the 		foregoing and (d) foreign counterparts of any of the foregoing;
+ 
+
+(…)
+ 
+
+
+
+6 GRANT OF LICENSES 
+
+6.1
+As further to be specified in the Company License Agreement the Parties consider the below criteria. 
+
+
+6.2
+SKU will grant to the Company (on the Effective Date) subject to the obligation of the Company to grant a sublicense to NovioTech as set out in Article 7 and subject to agreement on all other terms and conditions to be set forth in the definitive license agreements between the SKU and the Company an exclusive worldwide right and license with the right to sub-license under the Helix Gel Patent the Cell Growth Patent and those Additional Patents that are elected by the Company to use develop manufacture and/or commercialize Products and Processes for all applications (the Company License Agreement). SKU retains the right to use the inventions claimed in the Patents tor research and educational purposes. Noviotech will pay royalties to SKU directly. The royalties will be paid quarterly. To this end SKU will receive a summary of the numbers of products sold. Subsequently SKU will issue an invoice to NovioTech which invoice will be paid by NovioTech within 14 days. 
+
+(…)
+ 
+
+
+6.4
+The Company is entitled to grant sublicenses within the Life Sciences Field provided however that each such sublicense will be entered into at market prevailing terms and furthermore provided that the Company will provide SKU with a copy of each executed sublicense agreement within 30 days after the signing thereof. 
+
+
+6.5
+The license granted by SKU will be royalty free for the Helix Gel Patent and the CeIl Growth Patent now that SKU will obtain Shares in the Company as consideration for such license. 
+
+(…)
+ 
+
+
+
+
+7 SUBLICENSING RIGHTS Of NOVIOTECH 
+
+7.1
+The licenses to be granted to the Company in accordance with Article 6 will inter alia be granted subject to the condition that the Company will grant to NovioTech an exclusive (even vis-à-vis the Company) worldwide royalty bearing sublicense under the Helix Gel Patent the Cell Growth Patent and the Additional Patents elected by NovioTech (as well as the Know-How relating thereto) for use outside the Life Sciences Field (the “NovioTech Sublicense Agreement”). NovioTech has the right to grant further sublicenses for use outside the Life Sciences Field provided however that it supplies the Company and SKU with a copy of each executed sub-sublicense agreement within 30 days of signing thereof. The NovioTech Sublicense Agreement shall not imply a (sub)license under the Helix Gel Patent the Cell Growth Patent and the Additional Patents (nor the Know-How relating thereto) for use in or for the purpose of the Life Sciences field. 
+
+(…)
+ 
+
+
+
+
+8 MANUFACIURING AND SUPPLY 
+
+8.1
+The license granted by SKU to the Company includes the right to manufacture or have manutactured Products and apply Processes for all applications (both within and outside the Life Sciences Field). 
+
+
+8.2
+Company will not sell Products and not render services regarding Processes outside the Life Sciences Field to any party other than NovioTech. 
+
+
+8.3
+Company will on an exclusive basis supply NovioTech with raw materials as basis for Products for use outside the Life Sciences Field. The terms and conditions of such supply agreement will be further agreed in good faith between the Company and NovioTech but the following principles will in any event be included in such supply agreement: 
+
+(…)
+
+( f) NovioTech will not use the name “Helix Gel”. NovioTech is however free to use the name “NovioHelix’ for the licensed product. “NovioHelix” is a registered trademark registered in the name of NovioTech.  
+( g) NovioTech will not use develop manufacture and/or commercialize the raw materials and/or Products and/or Process in or for the purpose of the Life Sciences Field; 
+( h) the supply agreement will be entered info for on initial period of five years. After said period the supply agreement will be extended tor consecutive periods of two years unless terminated by either party taking into account a notice period of two years (which two year period is set to allow NovioTech to arrange for alternative supply of materials); 
+( i) the specifications for the raw material supplied to Noviolech will not be developed particularly for use outside the Life Sciences Field: the Company will primarily focus on the development of raw material for use within the Life Sciences Field. To the extent that NovioTech would require additional or modified specifications for use outside the Life Sciences Field NovioTech will separately pay the Company for such development work and the Company is at all times entitled to refuse such additional development work; 
+( j) NovioTech will be entitled to manufacture or have manufactured Products using the raw materials. Company shall not be obliged to disclose the manufacturing know how relating to the raw materials and NovioTech shall not be entitled to manufacture or have manufactured the raw material ifself unless the Company is not willing or not able to supply raw material to NovioTech in quantities reasonable demanded by NovioTech. In such event Company and NovioTech shail jointly elect a Third Party manufacturer that will be entitled to manufacture raw material on behalf of Company (or if Company so elects on behalf of NovioTech) and Company shall in such event disclose to such Third Party the manutacturing know how relating to the raw materials to enable the Third Party to assume such manufacture of the raw materials. The Third Party manufacturer shall be kept to strict confidentiality and to the obligation to use such know how only for the manufacturing of the raw materials on behalf of the Company and/or NovioTech. 
+
+(…)
+ 
+
+
+
+
+12 CONFIDENTIALITY 
+
+12.1
+Each of the Parties hereto will consult and agree in advance with each other on the timing and tenor of any public announcement of this Term sheet and/or the incorporation of the Company and will not divulge the terms thereof to any Third Party all except as required by law in which case the party required to provide information will first consult with the other parties or with the consent of all parties hereto. 
+
+
+12.2
+Except as required by law each Party agrees that it will keep confidential and will not disclose or divulge any confidential proprietary or secret information which such Party may have obtained or obtain from the other Parties or from the Company pursuant to this Term sheet or otherwise. Information will no longer be deemed to be confidential information if and as soon as such information becomes known to the public through no fault of the receiving Party. A Party may disclose such information to its advisors to the extent necessary to render their services to such Party and to any prospective purchaser of any Shares from such Party in all events as long as such advisors and prospective purchaser agree in writing to be bound by the provisions of this Article 12. 
+
+
+12.3
+Furthermore the Parties will ensure that the Company and the Parties keep Know-How (and if applicable New Developments) confidential and that it may only disclose such Know-How and New Developments to its employees advisors and strategic partners under appropriate confidentiality obligations (subject to Article 8.3(j)). 
+
+
+
+
+13 MISCELLANEOUS 
+
+13.1
+This Term Sheet and any rights and obligations of the Parties hereto may not be assigned or transterred by any Party hereto to a Third Party without prior written consent of the other Parties. 
+
+
+13.2
+The costs of this Termsheet and the Transaction Documents shall be borne by the Company. Unfil the Effective Date the costs of Mrs. [advocaat] shall be advanced by RUNMC Holding for 50% and by RU/RU Holding for the other 50% . The costs of Mr. [advocaat] shall be borne by RU. The costs of Mrs. [advocaat] shail be borne by NovioTech. 
+
+
+13.3
+Each of the Parties sub 1 up to 4 at page 1 of this Term Sheet may without any party having any obligation to pay for any damages (schade) or any other form of compensation to the other party in relation to the termination terminate this Term Sheet and the negotiations at any moment with immediate effect before Completion by giving written notice to the other Parties. 
+
+
+13.4
+The laws of The Netherlands are applicable to this Term Sheet and to the Transaction Documents. 
+
+
+13.5
+Any dispute or claim arising out of or in connection with this Term Sheet or any agreement resulting there from or connected therewith or the breach termination or invalidity thereof will be exclusively submitted to the district court Gelderland the Netherlands subject to the right of appeal. 
+
+(…)
+ 
+
+
+Exhibit C Contracts (13 november 2014)
+
+ 
+
+
+A Contracten van NovioTech BV met derden op het terrein van Secmatix BV
+
+
+1. Licentieovereenkomst met Mosamedix BV over Annexine 5 (wound healing);
+2. Project agreement in the framework of the TA-Coast innovation program in relation to the project “localized spectroscopy of polymers by solid-state NMR” (053.21.101) as part of technology area “COAST”; Granting letter of NWO to this Project (dd. 19-12-2011 corr.nr. 2011/01233/ACTS):
+3. NovioTech is partner in the STW-OTP project proposal “Local Biomolecule Delivery for Periodontal Disease (BioPerio)” and has submitted a support letter (April 24 2014) including a financial contribution to the STW OTP proposal one approved. prof. [Y] /Dr. [Z]  RUMC. Bijdragen: € 10.000 in cash en 25.025 in materiaalkosten. Hier tegenover staat optierecht u.h.v. OTP programma.
+4. Merkrecht Benelux merkregistratie plus onderzoek (23-8-2013) m.b.t. NovioHelix® merknaam.
+5. Domain names.
+6. RU/Novioïech agreement for the costs of characterization equipment (eg NMR) 
+
+
+B. Afspraken omtrent de volgende activiteiten bij NovioTech 
+
+
+iTerm Marie Curie project
+
+
+1. iTerm CONSORTIUM AGREEMENT for the project Training scientists to develop and Image materials for Tissue Engineering and Regenerative Medicine Grant Agreement n°607868 Type of funding scheme Marie Curie Actions-Network for Initial Training (ITN) (nog niet ondertekend retour van RUMC Valorisatie; Grant
+Agreement PITN-GA-2013-607868-iTerm which was signed by the REA on 05/08/2013.
+2. Employment contract with [phD student] PhD student of iTerm project
+3. Employment contract with [bestuurder 5] for iTerm co-promotorship 2014-2016 
+
+
+NanoNext project “Drug Delivery (3-D) 
+
+NovioTech BV zal samen met FNWI gaan deelnemen aan het NanoNext project “Drug Delivery (3-D). NovioTech levert hierbij co-financiering. De afspraak is dat de resultaten ten goede komen aan Secmatix BV. (email correspondentie Gielen/Tweehuysen van 6 november 2014 09:57
+Afspraak is hierbij dat alle resultaten uit het Term en NanoNext project ten goede komen/worden overgedragen (om niet) aan Secmatix bv.
+De redenen om deze projecten bij NT te houden:
+
+1. Twee arbeidsovereenkomsten met NovioTech
+2. MKB toets van de EC voor Secmatix bv behoeft niet opnieuw te worden doorlopen
+3. Nog geen zekerheid w.b. continuïteit Secmatix bv. voor het personeel
+E.e.a. is overeengekomen tussen [A] (FNWI) en [bestuurder 2] (NovioTech BV) 
+
+
+C. Activiteiten van NovioTech die buiten de Life Sciences (volgens definitie en art. 7) 
+
+
+StartLife lening (Wageningen) aan NovioPonics bv voor agro toepassingen. Dit onderwerp valt buiten de Life Sciences definitie.
+ 
+
+
+D. Other documents:
+
+
+B1 NovioTech Research reports
+
+
+1. Regulatory Assessment of Polyisocyanopeptide Hydrogel for the Treatment of Varicose Veins INTER TOX INC. 600 Stewart St. Suite 1101 Seattie WA 98101 May 14 2013
+2. Report: PHot Study to test mucosal adhesion of novel thermogel (LifeTec Groep)
+3. Report: “Testing NovioTech gel on cytotoxicity dd 7januari 2014. Test systeem: xCELLigence systeem van Roche
+4. Rapport: “testen van barrièrefunctie gel voor bacteriecultuur”. Universiteit van Maastricht dd 2-12-2013
+5. Report “Report on influence of sterilization by means of supercritical carbon dioxide”
+6. Monomer Synthesis route developed by NovioTech: Report EXPERIMENTAL PROCEDURES Project number: CXP12O1O2 Project description: Custom synthesis of (S)-2-(2-(2-methoxyethoxy)eth
+7. Report: Preparation of polymer/sample NOV81
+8. Report: Gel preparation recipe 31 July 2013
+9. Report: Certificate of Analysis format/example
+10. Report: Safety Data Sheet
+11. Report: NovioHelix thermo reversible gel as slow release system for dry eye syndrome. Technical Feasibility study for Redwood Pharma September 18 2013
+12. Report: Industrial production and up-scaling of the NovioHelix polymer (“Ball parks” from Evonik DSM Chemconnection) 
+
+
+Deze documenten worden door NovioTech ingebracht in Secmatix bv
+
+ 
+
+
+B.2 Business related NovioTech reports:
+
+• Marktverkenning wondheling
+• Marktverkenning celgroei
+• Lijst contacten met industrie en onderzoekscentra
+• Business plan t.b.v. EFRO aanvraag Flowplast
+• Business plan NovioPlast
+• Business plan Secmatix
+• Aanvraag Redmedtech Ventures van NovioPlast BV (afgewezen)
+• NovioHelix® merkregistratie
+
+Deze documenten worden door NovioTech ingebracht in Secmatix bv
+
+ 
+
+
+2.8.
+Op 28 oktober 2014 is Secmatix opgericht. Tot 1 juni 2016 was [X] (directeur Valorisatie bij UMC St. Radboud) bestuurder van Secmatix. Vanaf 1 juni 2016 is de heer [bestuurder 7] bestuurder. Aandeelhouders van Secmatix zijn RUNMC Holding RU Holding en NovioTech.  
+
+
+2.9.
+Op 16 april 2015 heeft NovioTech een leningsovereenkomst conform de NBT ondertekend. 
+
+
+2.10.
+SKU en Secmatix hebben op 16 april 2015 een Sole License Agreement (SLA) gesloten.  
+
+
+2.11.
+Op 26 mei 2015 respectievelijk 29 mei 2016 hebben Secmatix en NovioTech een Company Sublicense Agreement (CSA) ondertekend. In die CSA is onder meer het volgende opgenomen: 
+
+
+Article 1 - Definitions
+
+ 
+
+Affiliates 		means any person other than a Shareholder that directly or indirectly controls is 			controlled by or is under common control with such Party where “control” means the 			direct or indirect ownership of over fifty percent (50%) of the capital stock (or other 			ownership interest if not a corporation) of any entity or the possession directly or 			indirectly of the power to direct the management and policies of such entity by ownership 		of voting securities by contract or otherwise;
+ 
+
+(…)
+ 
+
+Life Sciences Field 	means any application where the gel andfor the polymer as described in the 	
+(Field)		Licensed Products or Licensed Technology comes in contact with prokaryotic cells and/or 		eukaryotic cells not containing chloroplasts. This includes but is not limited to
+		all cosmetic therapeutic prognostic preventive and research applications in human 			animal and/or bacteria.
+(…)
+ 
+
+Mother Materials 	Polyisocyanopeptide polymer according to specifications for the production of hydrogels 		with the desired thermo reversible properties;
+ 
+
+(…)
+ 
+
+Processes		processes that fall within the scope of one or more Valid Claims
+ 
+
+Products		products that fall within the scope of one or more Valid Claims
+ 
+
+(…)
+ 
+
+
+LICENSE
+
+ 
+
+
+Article 2 — Grant of Sublicense
+
+ 
+
+
+2.1
+
+Subject to the terms and conditions of this agreement Company hereby grants to Sublicensee an exclusive worldwide royalty bearing license relating to the Licensed Patents and the Licensed Know-How (to the extent such Party has such rights) to use outside the Life Sciences Field hereinafter the “Company Sublicense
+Agreement”. Company grants the sublicense to Sublicensee (“Sublicensed Patents”) without any warranty regarding validity non-infringement fitness for use or suitability.
+ 
+
+
+2.2
+
+The license under clause 2.1 is sublicensable. Sublicensee has the right to grant further sublicenses for use outside the Life Sciences Field provided however that it supplies the Company and SKU with a copy of each executed sub-sublicense agreement within 30 days of signing thereof. The NovioTech Sublicense Agreement
+shall not imply a (sub)license under the Licensed Patents (nor the Know-How relating thereto) for use in or for the purpose of the Life Sciences field. Any such sublicense shall terminate automatically on the termination of the Company Sublicense Agreement for any reason. It is understood that Company may abandon or have
+abandoned patents or patent applications belonging to the patent rights as mentioned above at its sole discretion. In the event Company for whatever reason has no longer the right to grant this sublicense under the Company License Agreement Company shall inform Sublicensee in writing.
+ 
+
+
+2.3
+The license underclause 21 remains in effect until the end of the Licensed Period. 
+
+
+2.4
+Sublicensee will use and exploit the Licensed Technology and Licensed Patents outside the Life Sciences Field. In order to comply with this obligation the Company shall exert best efforts to supply Sublicensee with sufficient Mother Materials as per the binding forecasts. However the obligation of Sublicensee to exploit the Licensed Technology and Licensed Patents is suspended until the moment that the Company is able to produce and deliver sufficient amounts of the Mother Materials to Sublicensee. The minimum amount after which the suspension will be dropped of the production capacity of Mother Materials to be delivered to Sublicensee will be 100 grams per month (Production Quota) 
+
+2.4.a. As Sublicensee in non-life sciences may need to produce high quantities of the material (in the kg’s range per year) Sublicensee will have the right to invite Contract Manufacturing Organisations (CMO’s) to make competing quotations and deliver the material directly to Sublicensee following Company’s approval as meant in article 3.3(j).
+ 
+
+Notwithstanding the foregoing Sublicensee shall:
+ 
+
+o diligently conduct development activities with regards to the sublicensed Patents and Know How;
+o provide to Company an initial written development plan no later than six (6) months following the Effective Date; a rolling updated development plan no later than January 1st of each calendar year during the Company Sublicense Agreement commencing on the day that Company will supply Sublicensee with the Mother
+Materials as set out in the above provision; and written development progress reports commencing on July 1 2015 and every six (6) months thereafter during the Sublicensee License Agreement.
+o ensure that development activities prior to the date of First Commercial Sale are not suspended or interrupted for (a) a continuous period of greater than six (6) months; or (b) a cumulative period of greater than twelve (12) months;
+o following completion of development activities to the reasonable satisfaction of Sublicensee use commercially reasonable efforts to obtain regulatory approval where necessary for a licensed product outside the Life Sciences Field;
+o following receipt of regulatory approval use commercially reasonable efforts to commercialise and promote the licensed product outside the Life Sciences Field in that country;
+o generally exert such efforts and employ such resources as would normally be exerted or employed by a reasonable third party Sublicensee for a product or service of similar market potential at a similar stage of its product life using sound and reasonable scientific medical and business practice and judgment.
+(…)
+ 
+
+
+Article 3 — Manufacturing and supply
+
+ 
+
+
+3.1
+The Company Subilcense Agreement does not include the right to manufacture or have manufactured Products and apply Processes for any application (both within and outside the Life Sciences Field) except for an event as described in Article 3.3. (j) where Sublicensee conditionally upon approval of Company may use a third party manufacturer to manufacture on behalf of Sublicensee outside of the Life Sciences Held. 
+
+
+3.2
+Company will not sell Products and not render services regarding Processes outside the Life Sciences Field to any party other than Sublicensee. 
+
+
+3.3
+Company will on an exclusive basis supply Sublicensee with Mother Materials as basis for Products for use outside the Life Sciences Field. The terms and conditions of such supply agreement will be further agreed in good faith between the Company and Sublicensee but the following principles will in any event be included in such supply agreement: 
+a. a) Sublicensee acknowledges that the development of materials (nano-gel) is still very early stage and that the Company will still have to conduct substantial tests on the material inciuding but not limited to initial stability
+testing toxicity testing bio-compatibility upscaling possibilities degradability sterilization and barrier function against micro-organisms. Company cannot guarantee that it will be able to develop to have developed to supply and/or to have supplied Mother Materials that can be used as basis for Products outside the Life Sciences Field. 
+b) Sublicensee will pay the Company a transfer price that is not fixed yet but will be calculated on the basis of a calculation based on standard market procedures; 
+c) Sublicensee will provide the Company each calendar quartet with a 12 months rolling forecast. The first quartet of each rolling forecast will constitute a binding purchase offer. The rolling forecast for the other three quarters will be an estimate only; 
+d) Company will use its best efforts to meet Sublicensee’s demands for Mother Materials; 
+e) Sublicensee shall be obliged to buy the Mother Materials as produced by Company on Sublicensee’s demand. 
+f) Company will regularly provide Sublicensee with data relating to the Mother Materials to the extent required by Sublicensee for use outside the Life Sciences Field; 
+g) Sublicensee will not use the name “Helix Cel” . Sublicensee is however free to use the name “NovioHelix” for the licensed product. “NovioHelix” is a registered trademark registered in the name of Sublicensee. 
+h) Sublicensee will not use develop manufacture and/or commercialize the Mother Materials and/or Products and/or processes in or for the purpose of the Life Sciences Field; 
+i. i) the supply agreement will be entered into for an initial period of five years. After said period the supply agreement will be extended for consecutive periods of two years unless terminated by either party taking into account a notice period of two years (which two year period is set to allow Sublicensee to arrange for altemative supply of materials); 
+j) the specifications for the Mother Materials supplied to Sublicensee will not be developed particularty for use outside the Life Sciences Fields the Company will primarily focus on the development of the Mother Materials for use within the Life Sciences Field. To the extent that Sublicensee would require additional or modified specifications for use outside the Life Sciences Field Sublicensee will separately pay the Company for such development work. In case Company is not able to perform such work Parties will negotiate in good faith an extra temporary Iicense that will enable Sublicensee to do such development work for use outside the Life Sciences Field; 
+k) Sublicensee will be entitled to manufacture or have manufactured Products using the Mother Materials. Company shall not be obliged to disclose the manufacturing know how relating to the Mother Materials and Sublicensee shall not be entitled to manufacture or have manufactured the Mother Materials itself unless the Company is not willing or not able to supply Mother Materiats to Sublicensee in quantities reasonable demanded by Sublicensee. In such event Company and Sublicensee shall jointly elect a third party manufacturer that will be entitled to manufacture Mother Materials on behalf of Company (or if Company so elects on behalf of Sublicensee) and Company shall in such event disclose to such third party the manufacturing know how relating to the Mother Materials to enable the third party to assume such manufacture of the Mother Materials. Company shall not unreasonably refuse its collaboration in electing a third party as mentioned in the above. In
+
+case no election takes place within 6 months from Company’s evidenced unwillingness or inability and Sublicensee makes a reasonable proposal for such third party Company shall not unreasonably refuse such proposal. The third party manufacturer shall be kept to strict confidentiality and to the obligation to use such know how only for the manufacturing of the Mother Materials on behalf of the Company and/or Sublicensee. It is the intent of parties to enable Sublicensee to build its business while at the same time protect any intellectual property and know-how of Company including but not limited to the Mother Materials and the production thereof. Parties agree to resolve any disputes related to manufacturing of Mother Materials by means
+of joint conflict resolution / mediation as described in article 10.2.
+ 
+
+1) Liability of the Company towards Sublicensee for defect products (inciuding Products) is limited to the purchase price paid by Sublicensee to Company for the Company-supplied materials used in the defect Product save for gross negligence or wilful misconduct of the Company.
+ 
+
+
+Article 4 - Representations and warranties
+
+ 
+
+
+4.1
+
+Each Party represents and warrants that
+• it has the full legal right to enter into this Company Sublicense Agreement;
+and
+• it is not a party to or bound by any contract or any other obligation whatsoever that limits or impairs its ability to enter into this Company Sublicense Agreement or to perform its obligations under this Company Sublicense
+Agreement.
+ 
+
+
+4.2
+Company represents and warrants that it has the right to gtant the sublicense to Sublicensee and enter into the obligations of this Company Sublicense Agreement. 
+
+
+4.3
+Nothing in this Company Sublicense Agreement shall be construed as:
+a. a) A warranty or representation as to the validity enforceability or scope of the Sublicensed Patents;
+b) A warranty or representation that the practice of the Licensed Patents are or will be free from infringement of patents or other rights of third parties;
+c) An obligation to enforce Licensed Patents or bring or prosecute or continue actions or suits against third parties for infringement;
+d) A grant by implication estoppels or otherwise of any license option immunity covenant or right other than those which are expressly stated herein; or
+e) An obligation to furnish any technical information (e.g. know-how). 
+
+
+4.4
+Company shall not be liable to Sublicensee for any damage or loss of whatsoever nature sustained by Sublicensee and/or for third party’s claims against Sublicensee arising out of the practice of the Sublicensed Patents. 
+
+
+4.5
+Sublicensee will indemnify the Company and SKU for claims of third parties resulting from the use manufacture and/or sale of Products and/or Processes outside the Life Sciences Field save for claims of third parties that result from a defect in the materials provided by the Company to Sublicensee pursuant to the manufacturing and supply agreement referred to in Article 3 to the extent that such defect is caused by a fault by or on behalf of the Company. Same indemnification with same limitation is provided for claims of third parties resulting from the use by Sublicensee (which use also includes the development manufacture and/or commercialisation of Products and Processes) in or for the purpose of the Life Sciences Field. 
+
+(…)
+ 
+
+
+Article 6 — Confidentiality
+
+ 
+
+
+6.1 “
+Confidential Information” shall mean all information and materials received by either Party (as such a “Receiving Party”) from the other Party (as such a ‘Providing Party”) prior to the date hereof or pursuant to this Company Sublicense Agreement that are of a confidential nature whether in the form of tangible or electronic media oral disclosures or otherwise. Such information shall be deemed to be Confidential Information only if a) it is marked “Confidential” or b) it would be apparent to any reasonable third party that it is of a proprietary nature. For the avoidance of doubt: know-how shall be regarded as Confidential Information. 
+
+
+6.2
+
+During the term of this Company Sublicense Agreement and for a period of five (5) years after expiration or termination hereof the Receiving Party will treat all Confidential Information of the Providing Party as confidential and will not disclose any such Confidential Information to any third party or use any Confidential
+Information for any purpose except to practice the licenses granted hereunder and the performance of the or as expressly otherwise authorized by this Company Sublicense Agreement.
+ 
+
+(…)
+ 
+
+
+Article 7 — Riqht of first refusal
+
+ 
+
+
+7.1
+
+Company will be granted a first right to negotiate an exclusive license under inventions developments and know how generated by Sublicensee during the term of the Agreement and that constitute an improvement new use modification or adaption to the inventions claimed in the Patents or that would enhance the commercialization possibilities of the inventions claimed in the Patents such as but not limited to protocols for cell growth medium (“New Developments”). Sublicensee will notify Company at least twice per calendar year about any such New Developments. If the Company would elect to negotiate an exclusive license under such New Developments it will notify Sublicensee thereof within 2 months after it has been notified of
+such New Developments. The Company on the one hand and Sublicensee (whatever is the case) on the other hand will then enter into good faith negotiations. 1f despite such good faith negotiations no agreement is reached on the terms and conditions of such license Sublicensee will be free to grant a license to such
+New Developments to a Third Party provided however that it will not grant such license under terms that are less favourable than the terms offered by the Company.
+ 
+
+(…)
+ 
+
+
+Article 11 - Right to Audit.
+
+
+
+
+11.1
+
+Sublicensee shall establish and maintain a reasonable accounting system that enables Company to readily identify Sublicensee’s assets expenses costs of goods and use of funds. Company and its authorized representatives shall have the right to audit to examine and to make copies of or extracts from all financial
+and related records (in whatever form they may be kept whether written electronic or other) relating to or pertaining to this Agreement kept by or under the control of the Sublicensee including but not limited to those kept by the Sublicensee its employees agents assigns successors and subcontractors. Such records shall
+include but not be limited to accounting records written policies and procedures; subcontract files (including proposals of successful and unsuccessful bidders bid recaps etc.); all paid vouchers including those for out of pocket expenses; other reimbursement supported by invoices; ledgers; cancelled checks; deposit slips;
+bank statements; journals; original estimates; estimating work sheets; contract amendments and change order files; backcharge logs and supporting documentation; insurance documents; payroll documents; timesheets; memoranda; and correspondence.
+ 
+
+
+11.2
+
+Sublicensee shall at all times during the term of this Agreement and for a period of ten years after the completion of this Agreement maintain such records together with such supporting or underlying documents and materials. The Sublîcensee shall at any time requested by Company whether during or after completion of this Agreement and at Sublicensee’s own expense make such records available for inspection and audit (including copies and extracts of records as required) by Company. Such records shall be made available to Company during normal business hours at the Sublicensee’s office or place of business and without prior
+notice. In the event that no such location is available then the financial records together with the supporting or underlying documents and records shail be made available for audit at a time and location that is convenient for Company. 
+ 
+
+
+11.3
+Sublicensee shall ensure that Company has these rights with Sublicensee’s employees agents assigns successors and subcontractors and the obligations of these rights shali be explicitly included in any subcontracts or agreements formed between the Sublicensee and any subcontractors to the extent that those subcontracts or agreements relate to fulfillment of the Sublicensee’s obligations to Company. 
+
+
+11.4
+
+Costs of any audits conducted under the authority of this right to audit and not addressed elsewhere will be borne by Company unless certain exemption criteria are met. If the audit identifies underpayment of due royalties (of any nature) by the Sublicensee to Company in excess of one percent (1%) of the actual royalties due
+on an annual or annualized basis the Sublicensee shall reimburse Company for the total costs of the audit. If the audit discovers substantive findings related to fraud misrepresentation or non performance Company may recoup the costs of the audit work from the Sublicensee. Any adjustments and/or payments that must be made as a result of any such audit or inspection of the Sublicensee’s invoices and/or records shall be made within a reasonable amount of time (not to exceed 90 days) from presentation of Company’s findings to Sublicensee.
+ 
+
+
+Article 12 - Miscellaneous
+
+
+
+
+12.1
+
+This Company Sublicense Agreement supersedes all previous oral and written Company Sublicense Agreements between the Parties and constitutes the only and entire understanding that exists between the Parties with respect to the subject matter hereof. No amendment and/or modification shall be valid unless it is laid down
+in writing and signed by both Parties.
+ 
+
+
+12.2
+
+Should one or several provisions of this Company Sublicense Agreement be or become invalid then the Parties hereto shall substitute such invalid provisions by valid ones which in their economic effect come so close to the invalid provisions that it can be reasonably assumed that the Parties would also have concluded this
+agreement with these new provisions. In case such provisions cannot be found the invalidity of the Company Sublicense Agreement as a whole unless the invalid provisions are of such essential importance for this Company Sublicense Agreement that it is to be reasonably assumed that the Parties would not have concluded this Company Sublicense Agreement without the invalid provisions.
+ 
+
+(…)
+ 
+
+
+2.12.
+Bij brief van 27 mei 2015 heeft Secmatix NovioTech als volgt bericht: 
+
+Further to your request for clarification related tot he Company Sublicense Agreemeent between Secmatix B.V. and NovioTech B.V. (hereinafter “Agreement”) please find below statement with capitalized words referring to the Definitions as used in the Agremeent.
+ 
+
+Secmatix hereby acknowledges the rights of NovioTech und Agreement to develop Products outside of the Life Science Field. More specifically it is clarified that Products developed for horticultural applications (defined as any application with the goal of increasing or preservind plant viability) including but not limited to flower and crop protection applications will not be considered as part of the Life Sciences Field and hence NovioTech is allowed to research develop produce and commercialize such Products under the Agreement.
+ 
+
+For the avoidance of doubt application of a Product on vegetation meant to protect the plants against spider mites (in Dutch “spint”) is allowed where the same meant to exterminate ticks (in Dutch “teek”) is not allowed as in the former example the main aim is to protect plant viability and in the latter example the main aim is to not protect plants (but tot preserve human or animal health).
+ 
+
+We hope this clarification contributes to the positive development of NovioTech.
+ 
+
+
+2.13.
+Op 8 juli 2015 is de octrooilicentieovereenkomst van 24 augustus 2011 beëindigd hetgeen is vastgelegd in een beëindigingsovereenkomst genaamd “Termination of patent license agreement”.  
+
+
+2.14.
+Op 11 april 2016 heeft NovioTech Secmatix verzocht om een offerte voor de levering van een grote hoeveelheid PIC polymeer. In die brief is onder meer vermeld dat het PIC polymeer de basis vormt voor thermogel die NovioPonics toepast als additief voor de reductie van het gebruik van pesticiden in de horticultuur omgeving. 
+
+
+2.15.
+Secmatix heeft NovioTech bij brief van 26 april 2016 onder meer bericht dat NovioTech in strijd handelt met de artikelen 3 en 6 CSA indien zij met een derde partij (Syncom) PIC polymeer gaat produceren. Tevens heeft Secmatix NovioTech verzocht om de artikelen 2.2 2.4 7.1 en 3.3f CSA na te komen en om in overleg te treden over de productontwikkeling productieprocesontwikkeling en de productie zelf. 
+
+
+2.16.
+Bij brief van 13 mei 2016 heeft NovioTech Secmatix onder meer verzocht om op grond van artikel 3.3 CSA een supply agreement op te stellen en aan te geven wanneer Secmatix in staat is om de productie quota zoals genoemd in artikel 2.4 CSA te leveren. Verder heeft NovioTech zich op het standpunt gesteld dat zij de bepalingen in de CSA niet schendt dat zij geen vertrouwelijke informatie deelt en evenmin PIC polymeren produceert of laat produceren.   
+
+
+2.17.
+Secmatix heeft NovioTech bij brief van 14 juni 2016 opnieuw verzocht op grond van de artikelen 2.4 en 7.1 CSA gegevens te verstrekken. Ook heeft Secmatix aangegeven dat het vermoeden bestaat dat vertrouwelijke informatie inzake het PIC polymeer is gebruikt bij de productie van PIC hydrogel door Syncom en bij de octrooiaanvraag van Novioponics. Volgens Secmatix geeft de zakelijke relatie tussen NovioTech Syncom en Novioponics aanleiding om te concluderen dat de CSA op meerdere punten is geschonden. Secmatix heeft aangegeven dat NovioTech de gevraagde informatie en toelichting dient te geven zodat de relatie tussen Secmatix en NovioTech mogelijk kan worden hersteld zo niet dan kan/mag NovioTech niet langer gebruik maken van de intellectuele eigendomsrechten en know how van Secmatix. 
+
+
+2.18.
+Bij brief van 28 juli 2016 heeft NovioTech onder verwijzing naar artikel 9.2 CSA de CSA opgezegd tegen 29 januari 2017. 
+
+
+2.19.
+Bij brief van 5 september 2016 heeft Secmatix NovioTech te kennen gegeven dat zij gebruik wil maken van haar recht om een audit te laten uitvoeren op het kantoor van NovioTech zoals opgenomen in artikel 11.1 CSA. NovioTech heeft hierop bij e-mailbericht van 6 september 2016 gereageerd en aangegeven dat de audit niet al op 7 september 2016 kan plaatsvinden dat zij het belang van Secmatix bij een audit wil vernemen en dat zij afspraken wil maken over de vertrouwelijke informatie die Secmatix bij de audit onder ogen komt. De toenmalige advocaat van Secmatix heeft het verzoek bij brief van 7 september 2016 aan NovioTech herhaald.  
+
+
+2.20.
+Op 9 september 2016 heeft een audit bij NovioTech plaatsgevonden waarbij een deurwaarder aanwezig was die daarvan een proces-verbaal heeft opgemaakt. Partijen hebben vervolgens gecorrespondeerd over hetgeen was opgenomen in dat proces-verbaal.  
+
+
+2.21.
+De advocaat van Secmatix heeft NovioTech bij brieven van 23 september 2016 verzocht om uitvoering te geven aan de overdracht van de rechten uit de overeenkomsten die in Exhibit C (A1 t/m A6 en B) bij de NBT zijn opgenomen alsook om de artikelen 2.4 2.4a 3.3h en 6.1 CSA na te komen althans om een toelichting te geven en/of bewijs te leveren dat de bepalingen worden nagekomen. 
+
+
+2.22.
+Vervolgens hebben partijen (voornamelijk per e-mail) gecorrespondeerd over de overdracht van de in Exhibit C genoemde stukken en over de beweerdelijke schending van de bepalingen in de CSA en de NBT. 
+
+
+2.23.
+NovioTech heeft stukken zoals genoemd in Exhibit C via WeTransfer overgedragen aan Secmatix welke stukken Secmatix op 3 november 2016 heeft gedownload. 
+
+
+
+
+3 Het geschil 
+
+3.1.
+Secmatix vordert – na een aanvulling van eis – dat de voorzieningenrechter  
+
+I. NovioTech gelast haar verplichtingen uit CSA van 29 mei 2015 en de NBT van 21 oktober 2014 geheel en onvoorwaardelijk na te komen door onder meer:
+
+a. het aan Secmatix verstrekken van de in Exhibit C bij de termsheet genoemde originele documenten waaronder: 
+
+A1: bevestiging van Mosamedix dat de licentieovereenkomst is overgedragen
+A2: gehele projectdocumentatie (getekende overeenkomsten financiële informatie uitgevoerde activiteiten door het project/de projectorganisatie en door NovioTech progress reports resultaten verslagen van projectbijeenkomsten voorgestelde publicaties etc.)
+A3: gehele projectdocumentatie (getekende overeenkomsten financiële informatie uitgevoerde activiteiten door het project/de projectorganisatie en door NovioTech progress reports resultaten notulen c.q. gespreksverslagen van de gebruikerscommissie verslagen van projectbijeenkomsten voorgestelde publicaties etc.)
+A5: domeinnamen
+A6: getekende overeenkomst bevestiging van RU dat deze overgedragen is en activiteiten onder deze overeenkomst 
+B1: gehele projectdocumentatie (getekende overeenkomsten financiële informatie uitgevoerde activiteiten door het project/de projectorganisatie en door NovioTech progress reports resultaten werkrapportages van de activiteiten van de heer Palial voorgestelde publicaties etc.)
+B2: resultaten en voorgestelde publicaties
+B3: resultaten en voorgestelde publicaties
+B4: (Nanonext): gehele projectdocumentatie (getekende overeenkomsten financiële informatie uitgevoerde activiteiten door het project/de projectorganisatie en door NovioTech progress reports resultaten voorgestelde publicaties etc.)
+C: gehele projectdocumentatie m.b.t. activiteiten buiten de life science voorzover daar sprake van is (getekende overeenkomsten financiële informatie progress reports resultaten voorgestelde publicaties etc.)
+
+b. de rechten en resultaten uit de overeenkomst/projecten die in Exhibit C bij de termsheet zijn genoemd over te dragen aan Secmatix (waaronder de labjournals die de heer Padial heeft opgesteld inzake het produceren van PIC materiaal in het kader van de uitvoering van het project iTerm)
+c. het aan Secmatix verstrekken van de in de CSA genoemde documenten zoals development plans en written development progress report
+d. aan Secmatix kenbaar te maken welke informatie met betrekking tot PIC aan derden waaronder Novioponics en Syncom bekend is gemaakt
+e. NovioTech te verbieden om zelf of via derden waaronder Novioponics PIC althans mother material althans products te (laten) produceren
+f. NovioTech te verbieden om confidential information bekend te maken bij derden zoals Novioponics en Syncom
+g. NovioTech te gelasten om te bewerkstelligen dat Novioponics medewerking verleent aan de audit door aan Secmatix inzage te geven in alle documenten correspondentie die verband houdt met NovioHelix en/of het PIC materiaal dat onder dit merk is aangeboden
+h. NovioTech te gelasten om te bewerkstelligen dat Novioponics inzage geeft inzake haar correspondentie en contracten met Syncom met betrekking tot de productie van PIC
+i. NovioTech te gelasten om Secmatix inzage te geven in alle door haar of door haar aan haar gerelateerde partijen zoals Novioponics gedane innovaties ontwikkelingen en deze ter licentie aan te bieden conform artikel 7 van de CSA
+j. NovioTech te gelasten alle vertrouwelijke informatie patenten patentaanvragen en materialen gerelateerd aan PIC die zij of aan haar gerelateerde partijen als Novioponics bij de oprichting van Secmatix of daarna in haar bezit had of heeft gekregen aan Secmatix over te dragen 
+
+II. bepaalt dat NovioTech indien zij na het verstrijken van een termijn van drie dagen na betekening van dit vonnis nalatig blijft om aan het vonnis te voldoen een dwangsom verbeurt van € 5.00000 voor iedere dag dat zij nalatig is
+ 
+
+III. NovioTech veroordeelt in de na dit vonnis ontstane kosten begroot op € 13100 aan salaris advocaat en – indien betekening van het vonnis heeft plaatsgevonden en NovioTech niet binnen veertien dagen na betekening aan dit vonnis heeft voldaan – te vermeerderen met een bedrag van € 6800 aan salaris advocaat en de explootkosten van betekening van het vonnis alsmede te vermeerderen met de wettelijke rente over de nakosten van de vijftiende dag na betekening van dit vonnis tot de dag van volledige betaling met dien verstande dat de een voor de ander bevrijdend kan betalen
+ 
+
+IV. NovioTech veroordeelt in de kosten van deze procedure.
+ 
+
+
+3.2.
+NovioTech voert verweer.  
+
+
+3.3.
+Op de stellingen van partijen wordt hierna voor zover van belang nader ingegaan.  
+
+
+
+
+4 De beoordeling
+
+4.1.
+Het spoedeisende belang vloeit voldoende uit de stellingen van Secmatix voort. 
+
+
+4.2.
+Secmatix vordert in de eerste plaats de veroordeling van NovioTech om haar originele documenten te verstrekken zoals bedoeld in Exhibit C bij de NBT van 21 oktober 2014 (de vorderingen onder I a en b). Die vordering is uitsluitend gebaseerd op de NBT; niet op andere grondslagen zoals art. 843a Rv. Over eventuele andere grondslagen voor een dergelijke verplichting hebben de partijen geen debat gevoerd. De voorzieningenrechter zal deze vordering daarom uitsluitend op de grondslag van de NBT beoordelen. NovioTech heeft in de eerste plaats als verweer tegen de vordering aangevoerd dat de NBT zoals de naam al zegt (Non Binding Termsheet) de partijen niet bindt behoudens de artt. 12 en 13 daarvan en voorts dat Secmatix geen partij was bij de NBT en er daarom geen rechten aan kan ontlenen. Dat laatste standpunt vindt de voorzieningenrechter niet heel klemmend. De NBT voorziet in de oprichting van een nieuwe vennootschap met de bedoeling dat die nieuwe vennootschap een bepaalde rechtspositie zal krijgen ten opzichte van NovioTech dat op grond van diezelfde NBT dan bepaalde projecten c.a. in Secmatix zou inbrengen in het kader van de beoogde samenwerking en ter oplossing van het eerdere gerezen dispuut tussen de partijen bij de NBT. Die nieuwe vennootschap heeft gestalte gekregen in de vorm van Secmatix en het kost weinig moeite om aan te nemen dat voor zover uit de NBT afdwingbare rechten en verplichtingen voortvloeien Secmatix als een derde is te zien ten behoeve van wie die eventuele rechten zijn bedongen. Of voor de partijen gebondenheid voortvloeit uit de NBT en waartoe een eventuele gebondenheid precies strekt laat zich moeilijker vaststellen. Volgens onderdeel K van de considerans dient de NBT alleen als basis voor verdere besprekingen tussen de partijen over de uitgangspunten in de NBT. Onderdeel F van de considerans waarop Secmatix de verplichting van NovioTech tot het verschaffen van documenten volgens Exhibit C baseert is voorts niet ongeclausuleerd. Het behelst een bedoeling tot inbreng in Secmatix ‘under terms en conditions to be agreed in good faith’. Dat dergelijke afspraken zijn gemaakt is gesteld noch gebleken. Een feit is dat ter uitvoering van de NBT Secmatix vervolgens is opgericht Secmatix een licentie heeft gekregen voor productie en ontwikkeling van Polyisocyanopeptiden (PIC’s) en op haar beurt een onderlicentie aan NovioTech heeft verschaft de CSA. Art. 12.1 van de CSA biedt grond voor de veronderstelling dat de partijen hebben beoogd dat hun rechtsverhouding uitsluitend door de CSA wordt geregeerd. Het debat dat de partijen hebben gevoerd stelt de voorzieningenrechter niet in staat met voldoende mate van zekerheid vast te stellen dat de NBT rechtens afdwingbare verplichtingen behelst die een voldoende basis bieden voor toewijsbaarheid van de vordering op dit punt. 
+
+
+4.3.
+
+Daarbij komt dat de voorzieningenrechter op basis van het partijdebat daarover ook in het geheel niet kan vaststellen hoe ver de eventuele verplichting van NovioTech tot het verschaffen van documenten op de voet van Exhibit C rijkt over welke documenten het gaat en over welke documenten NovioTech wel of niet beschikt of kan beschikken. NovioTech heeft een heel aantal documenten -vrijwillig- aan Secmatix verschaft en in haar conclusie van antwoord een toelichting daarop gegeven. NovioTech heeft de stellingen van Secmatix zoals weergegeven in de dagvaarding daarmee gemotiveerd weersproken. Secmatix heeft daartegenover bij de mondelinge behandeling aangevoerd dat de documenten die betrekking hebben op de verschillende projecten zoals de labjournals verkregen onderzoeksresultaten presentaties enz. tientallen ordners zouden beslaan. Daartegenover heeft NovioTech gesteld dat het hier gaat om onderzoeken in het kader van grote internationale onderzoeksprojecten waarbij vele wetenschappers en (financierende) participanten zijn betrokken en dat zij niet over al deze onderzoeksinformatie beschikt en dat zij niet in staat is en het haar ook niet vrijstaat zonder de medewerking van al die betrokkenen informatie aan Secmatix over te dragen zoals het haar ook niet vrijstaat zonder medewerking van derden eventuele contracten over te dragen aan Secmatix. Dat zijn aannemelijke verweren van NovioTech waartegenover de stellingen van Secmatix ten aanzien van de beschikbaarheid voor NovioTech van door haar verlangde documentatie onvoldoende gespecificeerd en onderbouwd zijn om tot verantwoorde vaststellingen in dit opzicht te komen. Opheldering hieromtrent valt in het kader van dit kort geding niet te krijgen. Bij deze stand van zaken zouden ook de gevolgen van een te treffen voorziening voor wat betreft de mogelijkheid tot nakoming vertrouwelijkheid en bedrijfseconomische gevoeligheid niet goed zijn te overzien. De voorzieningenrechter zal de gevraagde voorzieningen op dit punt om al deze redenen dan ook afwijzen. Dat geldt overigens ook voor zover de hier bedoelde vordering 
+(I c) (mede) is gebaseerd op de CSA.
+ 
+
+
+4.4.
+Een ander belangrijk punt van debat tussen de partijen betreft de vraag in hoeverre NovioTech in strijd met haar verplichtingen uit de CSA zich buiten het terrein van de life sciences heeft begeven. Het criterium daarvoor is blijkens de definitie in de CSA of het PIC’s bevattende product in contact komt met prokariotische of eukariotische cellen niet bevattende chloroplast. Bij de agrotoepassing waarmee NovioTech/Novioponics bezig is komt de hydrogel in contact met de epidermis van het blad en met de wortels van een plant die eukariotische cellen bevatten zonder chloroplast en is daarom sprake van toepassing op het gebied van life sciences aldus Secmatix. Afgezien van andere verweren heeft NovioTech daartegenover gesteld dat zij bij brief van 24 juni 2015 toestemming heeft verkregen van Secmatix voor het gebruik van PIC’s voor elke agrotoepassing in afwijking van de definitie van life sciences in de CSA. De tekst van die brief lijkt daarop inderdaad te duiden: “More specifically it is clarified that Products developed for horticultural applications (…) including but not limited to flower and crop protection wil not be considered as part of the Life Sciences Field.” De partijen verschillen van mening over de context waarin die brief is geschreven maar vaststellingen daaromtrent kunnen in dit kort geding niet worden gedaan. Aangezien de toepassing binnen Novioponics een gel betreft die pesticiden bevat waarmee een coating op de bladeren van een plant wordt aangebracht kan gesproken worden van ‘crop protection’ in de zin van de brief. Het laat zich onder deze omstandigheden niet vast stellen of NovioTech/Novioponics buiten het terrein van life sciences is getreden zoals Secmatix en NovioTech dat hebben bepaald. Voor zover hierop vorderingen zijn gebaseerd moeten die daarom worden afgewezen. 
+
+
+4.5.
+Een punt van geschil samenhangend met het voorgaande is ook of NovioTech in strijd met de CSA ‘mother material’ (PIC’s) doet produceren door anderen dan Secmatix. Op zichzelf staat wel vast dat Novioponics PIC’s laat produceren door Syncom voor de hiervoor bedoelde agrotoepassing. Of NovioTech daarmee in strijd handelt met de CSA is de vraag. Op zichzelf is er reden om aan te nemen dat uit art. 3.3 CSA voortvloeit dat NovioTech uitsluitend ‘mother material’ mag betrekken van Secmatix. Anders dan Secmatix stelt kan uit de CSA niet worden afgeleid dat dit ook voor affiliates geldt. Afgezien hiervan is de vordering van Secmatix die erop neerkomt dat het NovioTech verboden moet worden PIC’s te produceren of te doen produceren door derden uitsluitend gebaseerd op de CSA niet op inbreuk op een Secmatix eventueel toekomend intellectueel eigendomsrecht. NovioTech heeft de CSA rechtmatig opgezegd tegen 29 januari 2017. Na die datum kan Secmatix op dit punt geen rechten meer aan de CSA ontlenen (wat natuurlijk onverlet laat dat Secmatix ter zake van eventuele niet nakoming van de CSA op dit punt gedurende de looptijd daarvan schadevergoeding van NovioTech zou kunnen vorderen). Maar voor een verbod voor de toekomst voor na 29 januari 2017 biedt de CSA geen grond meer. De vordering op dit punt moet dus worden afgewezen. 
+
+
+4.6.
+Secmatix heeft in dat verband ook gesteld dat NovioTech in strijd met de CSA vertrouwelijke informatie aan Novioponics en Syncom heeft verstrekt met het oog op de productie van PIC’s. NovioTech betwist dat. Zij stelt zich onder andere op het standpunt dat Syncom een eigen procedé heeft ontwikkeld voor de vervaardiging van PIC’s dat geheel afwijkt van het procedé waarvoor de octrooiaanvraag door SKU is gedaan en dat daarvoor geen vertrouwelijke informatie van Secmatix is verstrekt. Secmatix stelt zich op het standpunt dat onder de beschermingsomvang van een eventueel octrooi op basis van de aanvraag elke productie van PIC’s valt. Op basis van het debat dat de partijen hierover hebben gevoerd valt voor de voorzieningenrechter niet vast te stellen waarvoor Secmatix precies octrooi heeft aangevraagd en wat er onder de beschermingsomvang daarvan zou vallen. Het is goed mogelijk dat NovioTech in strijd met de CSA gebruik heeft gemaakt van informatie van Secmatix om Syncom en/of Novioponics in staat te stellen PIC’s te produceren. Maar het is ook denkbaar dat daarvoor inderdaad een ander procedé is ontwikkeld. Toewijzing van enig deel van het gevorderde op dit punt zou ertoe kunnen leiden dat NovioTech genoopt zou kunnen worden vertrouwelijke informatie over dat procedé prijs te geven aan Secmatix. De voorzieningenrechter kan dat niet overzien. Het is overigens ook mogelijk zoals NovioTech stelt dat informatie aan de hand waarvan PIC’s kunnen worden geproduceerd openbaar toegankelijk is via tijdschriftartikelen en de gepubliceerde octrooiaanvraag van Secmatix. Ook dat laat zich niet vast stellen. Voor het overige heeft Secmatix niet met stukken onderbouwd aannemelijk gemaakt dat en zo ja welke vertrouwelijke informatie NovioTech aan Syncom Novioponics of anderen in strijd met de CSA ter beschikking heeft gesteld. Vorderingen die hierop zijn gebaseerd komen onder deze omstandigheden niet voor toewijzing in aanmerking. 
+
+
+4.7.
+Wat de audit betreft geldt dat de voorzieningenrechter op grond van hetgeen de partijen hebben aangevoerd niet met voldoende mate van zekerheid kan vaststellen dat en zo ja in welk opzicht NovioTech in strijd met haar verplichtingen uit de CSA informatie heeft achtergehouden en dat en zo ja in welke omvang nadere informatie verschaft dient te worden zonder dat daarmee het risico bestaat dat Secmatix op haar beurt vertrouwelijke informatie van NovioTech zou verkrijgen waarop zij geen aanspraak kan maken. Ook overigens geldt dat de voorzieningenrechter op basis van de niet gespecificeerde en niet onderbouwde en door NovioTech weersproken stellingen niet op een verantwoorde manier kan vaststellen of en zo ja in welke omvang op NovioTech verplichtingen rusten die tot toewijzing van een van de (overige) vorderingen moeten leiden. Voor de hand ligt dat NovioTech na afloop van de CSA informatie als onder I j van de vordering bedoeld aan Secmatix zal moeten retourneren maar bij gebreke van voldoende specificatie is deze vordering te vaag om voor toewijzing in aanmerking te komen. 
+
+
+4.8.
+De conclusie is dat geen van de vorderingen van Secmatix in dit kort geding kan worden toegewezen. Als Secmatix een of meer van haar vorderingen toegewezen wil zien dan zal zij alsnog veel nauwkeuriger en onderbouwd met bewijsstukken uiteen moeten zetten waarop zij precies aanspraak maakt binnen welke feitelijke context en dat NovioTech (waarschijnlijk) beschikt over al datgene wat Secmatix van haar verlangt en in staat is en gehouden is om daaraan te voldoen. Daarvoor zal zij dan een bodemprocedure moeten voeren.  
+
+
+4.9.
+Secmatix zal als de in het ongelijk gestelde partij in de proceskosten worden veroordeeld. Omdat de vorderingen zijn gestoeld op niet nakoming van de NBT en de CSA bestaat er geen aanleiding om een proceskostenveroordeling ex artikel 1019h Rv uit te spreken. Ook overigens bestaat er onvoldoende aanleiding om Secmatix in de daadwerkelijk gemaakte kosten te veroordelen. De kosten aan de zijde van NovioTech worden begroot op:
+- griffierecht	€ 	61800
+- salaris advocaat		81600
+Totaal	€ 	1.43400 
+
+
+
+
+5 De beslissing
+De voorzieningenrechter 
+
+5.1.
+wijst de vorderingen af 
+
+
+5.2.
+veroordeelt Secmatix in de proceskosten aan de zijde van NovioTech tot op heden begroot op € 1.43400 te vermeerderen met de wettelijke rente als bedoeld in art. 6:119 BW over dit bedrag met ingang van de veertiende dag na betekening van dit vonnis tot de dag van volledige betaling 
+
+
+5.3.
+veroordeelt Secmatix in de na dit vonnis ontstane kosten begroot op € 13100 aan salaris advocaat te vermeerderen onder de voorwaarde dat Secmatix niet binnen veertien dagen na aanschrijving aan het vonnis heeft voldaan en er vervolgens betekening van de uitspraak heeft plaatsgevonden met een bedrag van € 6800 aan salaris advocaat en de explootkosten van betekening van de uitspraak te vermeerderen met de wettelijke rente als bedoeld in art. 6:119 BW over dit bedrag met ingang van de veertiende dag na betekening van dit vonnis tot de dag van volledige betaling 
+
+
+5.4.
+verklaart dit vonnis wat betreft de kostenveroordeling uitvoerbaar bij voorraad. 
+
+Dit vonnis is gewezen door mr. R.J.B. Boonekamp en in het openbaar uitgesproken in tegenwoordigheid van de griffier mr. B.J.M. Vermulst op 30 januari 2017.
+
+
+

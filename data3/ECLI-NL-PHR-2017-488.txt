@@ -1,0 +1,1147 @@
+
+
+Zaaknr:	 15/04934
+ mr. M.H. Wissink
+Zitting:	 9 juni 2017 
+	Conclusie in de zaak van: 
+
+
+Merck Sharp & Dohme Corp. 
+
+voorheen geheten: Schering Corporation
+(hierna: MSD)
+ 
+tegen 
+1. Teva Pharma B.V.
+2. Pharmachemie B.V.
+(hierna gezamenlijk: Teva) 
+
+
+
+1 Inleiding 
+
+1.1
+Deze zaak gaat over de beschermingsomvang van een tweede medische indicatie-octrooi in de vorm van een subgroep-octrooi met Swiss-type claims (doelgebonden werkwijzeconclusies) en de vraag wanneer daarop directe of indirecte inbreuk wordt gemaakt. Over de beschermingsomvang van en inbreuk op tweede medische indicatie-octrooien bestaat nog veel onduidelijkheid. Die ziet onder meer op de vraag welke betekenis moet worden toegekend aan het element ‘vervaardigen’ (de werkwijze) in Swiss-type claims op de vraag wanneer sprake is van een directe inbreuk en op de vraag – die door HR 14 april 2017 ECLI:NL:HR:2017:692 (Sun/Novartis) werd opengelaten – of een indirecte inbreuk op een dergelijk octrooi mogelijk is. 
+
+
+1.2
+In zijn bestreden arrest richt het Hof Den Haag zich (niet op het element ‘vervaardigen’ in Swiss-type claims maar) op de bestemming van het geneesmiddel voor de geoctrooieerde indicatie. Hij maakt daarbij een onderscheid tussen het klassieke tweede medische indicatie (2M-I) octrooi voor de uitvinding dat een reeds bekende stof ook geschikt is voor de behandeling van een andere aandoening dan de reeds bekende aandoening (zoals aan de orde was in Sun/Novartis) en een subgroep-indicatie (SG-I) octrooi voor een vernieuwende behandelwijze van een selectie van de patiënten uit de groep die reeds met de stof werd behandeld. Het onderhavige octrooi EP 861 is een subgroep-octrooi voor de behandeling met ribavirine voor een selectie van de patiënten met chronische hepatitis C die daarmee reeds werden behandeld. Het hof beoogt de beschermingsomvang van een SG-I octrooi aldus af te bakenen dat daaronder niet valt het reeds bestaande gebruik van de stof voor de behandeling van de groep maar alleen het gebruik ervan voor de in het SG-I octrooi gedefinieerde subgroep. Het hof beperkt daartoe de beschermingsomvang van een SG-I octrooi tot de situatie waarin door een derde specifiek wordt aangegeven dat de stof voor de subgroep is bestemd. Deze algemene beperking is naar mijn mening te restrictief. 
+
+
+1.3
+
+Hoewel daarmee de zaak zou kunnen worden afgedaan maak ik ten behoeve van de voortzetting van het debat na cassatie en verwijzing enige aanvullende opmerkingen. 
+Naar mijn mening biedt de rechtspraak van de Hoge Raad over de uitleg van octrooien ruimte voor de erkenning dat het element van ‘vervaardigen’ in Swiss type-claims op een fictie berust en daarom niet mag meebrengen dat de octrooihouder geen bescherming toekomt in situaties waarin die bescherming wel gerechtvaardigd is. Bescherming zou naar ik meen – via het leerstuk van de indirecte inbreuk of indien men betekenis toekent aan het element ‘vervaardigen’ via dat van de directe inbreuk - moeten worden geboden in de situatie waarin de producent/handelaar van een generiek geneesmiddel weet of met voldoende mate van zekerheid kan voorzien dat zijn geneesmiddel niettegenstaande een carve-out in de SmPC of bijsluiter door derden zal worden gebruikt voor de geoctrooieerde indicatie maar geen adequate voorzorgmaatregelen treft om dat gebruik tegen te gaan.
+Voorts meen ik dat anders dan het hof oordeelde uit HR 31 oktober 2003 ECLI:NL:HR:2003:AI0346 (Senseo) niet als algemene maatstaf volgt dat een ‘middel betreffende een wezenlijk onderdeel van de uitvinding’ als bedoeld in art. 73 lid 1 ROW (indirecte inbreuk) datgene vormt waarmee volgens het octrooischrift de leer van het octrooi zich onderscheidt van de stand van de techniek.
+ 
+
+
+2.	Feiten
+1
+
+ 
+
+
+2.1
+Chronische hepatitis C is een ernstige virale infectieziekte. De aandoening die sluipend en progressief verloopt kan resulteren in levercirrose gedecompenseerde lever en/of hepacellulair syndroom en dient te worden behandeld. Het Hepatitis C virus (HCV) komt in verschillende varianten voor aangeduid met genotypen 1 tot en met 6. 
+
+
+2.2
+In Europees octrooi EP 0 707 855 (hierna: Grint) gepubliceerd op 24 april 1996 is in de vorm van een Swiss-type claim geopenbaard de combinatie van ribavirine en interferon alfa voor de behandeling van onder meer naïeve chronische hepatitis C patiënten voor de duur van 6 tot 12 maanden zonder dat daarbij naar genotype van het hepatitis-virus wordt gedifferentieerd. Onder ‘naïeve patiënten’ wordt verstaan: niet eerder behandelde patiënten. 
+
+2.3.1
+MSD2 is houdster van Europees octrooi 0 956 861 (hierna: EP 861 of het octrooi) dat haar op 24 april 2002 voor onder meer Nederland is verleend op een aanvraag van 13 mei 1999 onder inroeping van prioriteit sinds 15 mei 1998 van US 79566.  In de beschrijving van EP 861 (hierna ook: de EP 861-Beschrijving) is onder meer het volgende vermeld in de niet bestreden Nederlandse vertaling: 
+
+‘Achtergrond van de uitvinding
+(…)
+De alfa-interferon monotherapie wordt algemeen toegepast voor de behandeling van chronische hepatitis C infecties. (…). Van deze monotherapeutische behandeling werd echter vastgesteld dat ze niet effectief is. Er werd een combinatie van alfa-interferon en ribavirine voorgesteld (…). Niemand heeft echter de methoden met alfa interferon en ribavirine beschreven die het HCV-RNA op de lange termijn vernietigen en die effectief zijn voor anti-viraal naïeve patiënten met een genotype specifieke HCV infectie. 
+(…)
+
+Samenvatting van de uitvinding 
+
+(…)
+Wij ontdekten dat indien de voor antivirale behandeling naïeve patiënt een HCV genotype 1 infectie heeft of indien de voor antivirale behandeling naïeve patiënt een HVC genotype 1 infectie heeft en een virale belasting heeft van meer dan 2 miljoen HCV-RNA per ml als bepaald met kwantitatieve PCR dat de toepassing van de combinatietherapie voor een tijdsduur van 40-50 weken wordt uitgevoerd bij voorkeur 48 weken.
+(…)’. 
+ 
+
+
+2.3.2
+Conclusie 1 van EP 861 zoals verleend luidt in de – voor zover relevant: onbestreden – Nederlandse vertaling als volgt: 
+
+‘Het gebruik van ribavirine voor de bereiding van een farmaceutische samenstelling voor de behandeling van een patiënt met chronische hepatitis C infectie voor het vernietigen van detecteerbaar HCV-RNA waarbij de farmaceutische samenstelling dient voor toediening van een werkzame hoeveelheid ribavirine samen met een werkzame hoeveelheid alfa-interferon dat daardoor wordt gekenmerkt dat de ribavirine samen met het alfa-interferon voor toediening is gedurende een tijdsduur van ongeveer 40-50 weken waarbij de patiënt een voor de anti-virale behandeling naïeve patiënt is met een HCV genotype 1 infectie en een virale belasting van meer dan 2 miljoen kopieën per ml serum als bepaald met HCV-RNA kwantitatieve PCR.’ 
+ 
+
+
+2.3.3
+In conclusie 2 wordt uitgegaan van het gebruik van interferon voor de bereiding van de in conclusie 1 genoemde farmaceutische samenstelling in conclusie 3 wordt daarvoor uitgegaan van ribavirine en interferon samen. De conclusies van EP 861 zijn evenals die van Grint Swiss-type claims. 
+
+
+2.4.1
+EP 861 is na oppositie bij oppositieafdeling van het Europees Octrooibureau (EOB) en (twee maal) beroep in oppositie bij de Technische Kamer van Beroep (TKvB) van het EOB ongewijzigd in stand gelaten.  
+
+
+2.4.2
+In punt 35 van zijn eerste beslissing die van 25 oktober 2006 (T 1399/04) is de TKvB ingegaan op het door de opposanten gedane beroep op Grint (= OD8). Eerst wordt daarin in verband met dit document het volgende overwogen:  
+
+
+‘Document (OD8) (…) discloses the usb of ribavirin interferon alpha or both on the manufacture of a pharmaceutical composition for treating chronic HCV infections (claim 1 to 3). The patients may be previously untreated thus antiviral treatment naïve (column 3 line 36) and the duration of the treatment is from 6 to 12 months (claim 11). 
+The document does not refer to a specific HCV genotype and does not mention the virus load of the patients.’ 
+ 
+
+Over EP 8613 wordt in punt 35 het volgende overwogen: 
+ 
+
+‘(…) The patent in suit does not refer to numerical values or ranges but to the treatment of a specific sub-group of human patients within all human beings suffering from HCV-infection’
+(…)
+If the use of a compound was known in the treatment or diagnosis of a disease of a particular group of subjects the treatment or diagnosis of the same disease with the same compound could nevertheless represent a novel therapeutic or diagnostic application provided that it is carried out on a new group of subjects which is distinguished from the former by its physiological or pathological status (cf. decisions T 19/86 (…) and (…) T 893/90). 
+The patient group according to present claims 1 to 3 is defined as being infected by a specific genotype of HCV genotype 1 which is a pathological characteristic allowing to differentiate members of this group from all other HCV patients and it is further defined by a viral load of greater than 2 million copies per ml of serium which is a physiologically characterising feature. Both features are not disclosed in document (OD8). 
+According to the established case law of the Boards of appeal cf decisions T 19/86 and T 893/90 (supra) the subject-matter of claims 1 to 3 represents a new therapeutic application as the patient group concerned is distinguishable from the patient group of document (OD8) by its physiological and pathological status.’ 
+ 
+
+
+
+2.5
+MSD brengt capsules en tabletten overeenkomstig EP 861 op de markt onder respectievelijk de merknamen ‘Rebetol’ en ‘Copegus’. 
+
+2.6.1
+
+Ingevolge Richtlijn 2001/83/EG van de Europees Parlement en de raad van 6 november 2001 tot vaststelling van een communautair wetboek betreffende geneesmiddelen voor menselijk gebruik (hierna: Rl 2001/83) is voor het in de lidstaten in het verkeer brengen van geneesmiddelen voor menselijk gebruik een vergunning vereist (artikel 6). Bij de aanvraag daarvoor moeten op grond van artikel 8 onder meer worden gevoegd de testresultaten van klinische en preklinische proeven (lid 3 onder i)) en een samenvatting van de kenmerken van het product (hierna SmPC afkorting van Summary of Product Characteristics). In artikel 10 is bepaald dat in afwijking van artikel 8 lid 3 onder i) de aanvrager niet gehouden is klinische en preklinische proeven over te leggen indien hij kan aantonen dat het geneesmiddel generiek is ten opzichte van een referentiegeneesmiddel waarvoor al een vergunning is verleend. Artikel 11 schrijft voor welke gegevens in de SmPC moeten worden opgenomen en in welke volgorde. In deze zaak zijn de volgende daarin genoemde rubrieken van belang:
+- 4.1 = Therapeutische indicaties; 
+- 4.2 = Dosering en wijze van toediening; 
+- 4.3 = Contra-indicaties;
+- 4.4 = Bijzondere waarschuwingen en voorzorgen bij gebruik; 
+- 5.1 = Farmacodynamische eigenschappen. 
+ 
+
+
+2.6.2
+Artikel 11 bevat verder de volgende passage:  
+
+‘Voor vergunningen krachtens artikel 10 behoeven de delen van de samenvatting van productkenmerken (de SmPC toevoeging A-G) van het referentiegeneesmiddel die verwijzen naar de indicaties of doseringsvormen die nog onder het octrooirecht vielen op het tijdstip waarop een generiek geneesmiddel op de markt werd gebracht niet te worden vermeld.’
+ 
+
+Wanneer op de voet hiervan delen van de SmPC van het referentiegeneesmiddel in de SmPC van een generiek geneesmiddel achterwege worden gelaten wordt gesproken van een carve-out. Een van carve-outs voorziene SmPC van een generiek middel wordt ook wel aangeduid als ‘skinny label’ (een SmPC in afgeslankte vorm).
+ 
+
+
+
+2.7
+
+Teva B.V. heeft – met Rebetol en Copegus als referentiegeneesmiddelen – in 2009 via de centrale Europese registratieprocedure twee marktvergunningen gekregen voor de verhandeling van generiek ribavirine namelijk:
+	- voor capsules op 31 maart 2009 (‘Ribavirin Teva’ handelsvergunning EU 1/09/509) aangepast op 16 november 2009 via een ‘Type II-variatie’; 
+	- voor tabletten op 19 oktober 2009 (‘Ribavirin Teva Pharma B.V.’ handelsvergunning EU 1/09/527) aangepast op 22 januari 2010 via een ‘Type II-variatie’. 
+ 
+
+
+2.8
+Pharmachemie is in de SmPC’s en de bijsluiters van de generieke ribavirine van Teva B.V. aangewezen als ‘Fabrikant’ en ‘Fabrikant verantwoordelijk voor vrijgifte’ van Ribavirin Teva en Ribavirin Teva Pharma B.V. in de Europese Unie. 
+
+2.9.1
+In de rubrieken 4.1 en 4.2 van de SmPC bij de aangepaste marktvergunningen voor de capsules van Teva staat het volgende vermeld: 
+
+‘4.1 Therapeutische indicaties
+(…)
+Niet eerder behandelde patiënten
+Volwassen patiënten: Ribavirine is geïndiceerd in combinatie met interferon-alfa-2b voor de behandeling van niet eerder behandelde volwassen patiënten met alle types chronische hepatitis C behalve genotype 1 (…) 
+Kinderen en adolescenten: Ribavirine is bedoeld voor gebruik in combinatie met interferon-alfa-2b voor de behandeling van niet eerder behandelde kinderen en adolescenten van 3 jaar en ouder met alle typen chronische hepatitis C behalve genotype 1 (…). 
+(…) 
+Patienten die niet reageerden op eerdere behandeling
+Volwassen patiënten: Ribavirine is geïndiceerd in combinatie met interferon-alfa-2b voor de behandeling van volwassen patiënten met chronische hepatitis die vroeger hebben gereageerd op monotherapie met interferon-alfa (…) maar die vervolgens een recidief doormaakten. 
+ 
+
+
+
+4.2
+
+
+Dosering en wijze van toediening 
+
+(…). 
+Ribavirine capsules in combinatie met interferon-alfa-2b:
+Op basis van de resultaten van klinische onderzoeken wordt het aangeraden om patiënten ten minste zes maanden te behandelen. 
+(…)
+Duur van de behandeling – niet eerder behandelende patiënten
+ Andere dan genotype 1: de beslissing om de behandeling tot één jaar voort te zetten bij patiënten met negatief HCV-RNA na zes maanden behandeling moet gebaseerd zijn op andere prognostische factoren (bv. Leeftijd › 40 jaar mannelijk geslacht septale fibrose) 
+Duur van de behandeling – herhaalde behandeling 
+ Genotype 1: de behandeling moet voortgezet worden gedurende een volgende periode van zes maanden (d.w.z. in totaal één jaar) bij patiënten die na zes maanden behandeling een negatieve HCV-RNA hebben vertoond. 
+ Andere dan genotype 1: De beslissing om de behandeling tot één jaar voort te zetten bij patiënten met negatief HCV-RNA na zes maanden behandeling moet gebaseerd zijn op andere prognostische factoren (…).’ 
+ 
+
+2.9.2
+De (door het hof) onderstreepte passages betreffen indicaties of doseringsvormen die als ‘gecarved out’ zijn aan te merken.  
+
+
+2.9.3
+In de rubrieken 4.3 en 4.4 van de hiervoor bedoelde SmPC wordt niet gewaarschuwd voor bijwerkingen en gemaand tot omzichtigheid bij het hanteren van de capsules voor de categorie naïeve patiënten met HCV4 genotype 1 die in de rubrieken 4.1 en 4.2 ‘ge-carved-out’ zijn. In rubriek 5.1 van die SmPC zijn onder meer drie klinische onderzoeken beschreven met betrekking tot combinaties van ribavirine en interferon-alfa-2b in naïeve patiënten besmet met alle soorten genotypen HCV. Over een van deze onderzoeken C/198-580 is in rubriek 5.1 het volgende vermeld:  
+
+‘In dit onderzoek was de combinatie van ribavirine en peginterferon-alfa-2b (…) significant effectiever dan de combinatie van ribavirine en interferon-alfa-2b met name bij patiënten met een infectie van genotype 1.’ 
+ 
+
+Hierbij is een tabel opgenomen waarin de resultaten bij genotype 1 onder meer zijn uitgesplitst naar virale belastingen van meer en minder dan 600.000 IE/ml.
+ 
+
+
+2.9.4
+De hiervoor weergegeven onderdelen/passages uit de SmPC voor Teva’s capsules zijn inhoudelijk gelijkluidend aan de overeenkomstige onderdelen/passages in de SmPC voor de Teva-tabletten. 
+
+
+
+2.10
+In paragraaf 1 van de bijsluiter bij Teva’s generieke ribavirinetabletten volgens de aangepaste marktvergunning staat vermeld: 
+
+’Ribavirine Teva Pharma B.V. wordt gebruikt bij volwassenen in combinatie met peginterferon alfa-2b of interferon alfa-2b voor de behandeling van patiënten met chronische hepatitis C. De situaties waarin Ribavirine Teva Pharma B.V. kan worden gebruikt bij volwassenen worden hieronder weergegeven:
+ In combinatie met interferon alfa-2b of peginterferon alfa-2b bij volwassenen die niet eerder zijn behandeld voor chronische hepatitis C (…).’ 
+ 
+
+De bijsluiter voor de generieke Teva-capsules verschilt niet wezenlijk van die voor de tabletten.
+ 
+
+
+2.11
+In juni of oktober 2011 heeft Teva haar generieke ribavirinetabletten op de Nederlandse markt geïntroduceerd. Zij verhandelt geen ribavirinecapsules in Nederland en heeft dat ook niet gedaan.  
+
+
+
+
+3 Procesverloop 
+
+3.1
+
+MSD heeft – voorafgaand aan de introductie van de generieke ribavirinetabletten op de Nederlandse markt – bij dagvaarding van 11 december 2009 in conventie gevorderd een verklaring voor recht dat de generieke producten van Teva onder de beschermingsomvang van EP 861 vallen met voor het grondgebied van Nederland een inbreukverbod en diverse nevenvorderingen alsmede een veroordeling tot bij staat op te maken schadevergoeding of winstafdracht kosten rechtens op de voet van art. 1019h Rv. 
+In reconventie heeft Teva gevorderd een verklaring voor recht van niet-inbreuk en onder de voorwaarde dat inbreuk wordt aangenomen vernietiging van EP 861 waartoe zij heeft gesteld dat het octrooi niet nawerkbaar niet nieuw en niet inventief is kosten rechtens op de voet van art. 1019h Rv.     
+ 
+
+
+3.2
+
+Bij vonnis van 10 november 2010 heeft de rechtbank ‘s-Gravenhage de vorderingen van MSD afgewezen en de in reconventie door Teva gevorderde verklaring van niet-inbreuk toegewezen.5 MSD is veroordeeld in de kosten van de procedure in conventie en reconventie aan de zijde van Teva begroot op in totaal € 160.000-. 
+De rechtbank stelt voorop dat MSD desgevraagd uitdrukkelijk niet bepleit dat Teva op dat moment voorbehouden handelingen zou verrichten en dat er geen rechtens steekhoudende aanwijzingen bestaan voor de door MSD wel ingenomen stelling dat Teva dreigt dat te doen (rov. 4.2). De rechtbank overweegt vervolgens dat MSD ten pleidooie heeft bevestigd dat de enige grond waarop zij haar stellingen baseert dat Teva onder de beschermingsomvang komt van EP 861 de marktvergunningen zijn (rov. 4.3). Volgens de rechtbank heeft Teva er middels een zogenoemde “carve-out” adequaat voor zorg gedragen dat zij buiten de beschermingsomvang van de Swiss-type use claims van het octrooi blijft en dient er naar de vigerende SmPC (met “carve-out”) te worden gekeken om de bestemming van het op zichzelf bekende ribavirine te achterhalen (rov. 4.4). De rechtbank overweegt dat Teva terecht heeft aangevoerd dat haar generieke ribavirine blijkens de indicaties en doseringsvoorschriften niet aan de technische kenmerken a.) naïeve patiënten en b.) bekend met HCV genotype 1 wordt voldaan en dat zij zodoende al buiten de beschermingsomvang van de Swiss-type claims van het octrooi valt die op een zeer specifiek omgeschreven patiëntengroep ziet die in de SmPC van Teva nu juist uitdrukkelijk is uitgesloten (rov. 4.6).  	
+ 
+
+
+3.3
+MSD is in hoger beroep gekomen van het vonnis van 10 november 2010 bij het Gerechtshof Den Haag. In hoger beroep heeft MSD tevens een beroep gedaan op indirecte octrooi-inbreuk en op onrechtmatige daad bestaande in het uitlokken bevorderen en profiteren van en aanzetten tot octrooi-inbreuk. MSD heeft bij de MvG haar vorderingen dienovereenkomstig aangepast. 
+
+
+3.4
+Bij arrest van 14 juli 20156 - op welk moment de generieke ribavirinetabletten inmiddels wel op de Nederlandse markt waren geïntroduceerd - heeft het Gerechtshof Den Haag het vonnis van de rechtbank bekrachtigd en de vorderingen van MSD in hoger beroep afgewezen met veroordeling van MSD in de kosten van de procedure in hoger beroep aan de zijde van Teva begroot op € 120.000-. Het hof heeft daartoe onder meer overwogen: 
+
+“3.2 De argumentatie van Schering in hoger beroep kan als volgt worden weergegeven. 
+A. Artsen – die op het tijdstip van de inbreuk kennis hebben van het behandelingsprotocol waarin de met EP 861 geoctrooieerde toepassing wordt beschreven – zullen uit (met name rubriek 5.1 van) Teva’s SmPC’s en bijsluiters begrijpen dat Teva’s generieke ribavirine voor die toepassing (dus voor de behandeling van naieve patienten met een genotype 1 infectie) kan worden gebruikt. Zij zullen dat generieke middel dan ook voor deze patiëntengroep voorschrijven althans dat is zeer waarschijnlijk (‘inherently probable’) terwijl ook sommige apothekers dat middel daarvoor zullen afleveren en sommige patiënten het daarvoor zullen gebruiken (o.m. punten 4.14 4.20 4.23-4.28 4.34 4.35 4.47 4.48 en 4.52 MvG; punten 13-16 PA). 
+B. Met het geheel aan informatie uit Teva’s SmPC’s en de bijsluiters worden alle geoctrooieerde kenmerken en daarmee de geoctrooieerde toepassing beschreven zodat Teva directe octrooi-inbreuk pleegt (punt 4.21 MvG). 
+C. In ieder geval is sprake van indirecte octrooi-inbreuk nu: 
+i) het aanbieden en leveren van generiek ribavirine op basis van de SmPC en bijsluiter kwalificeert als het aanbieden en leveren van middelen betreffende een wezenlijk bestanddeel van de uitvinding en 
+ii) Teva weet althans het haar gezien de omstandigheden duidelijk moet zijn dat de middelen (haar generieke Ribavirine) geschikt en bestemd zijn voor de in onder A beschreven toepassing van de uitvinding (punten 4.22 e.v. MvG; punten 18 en 19 PA) 
+waarbij in aanmerking moet worden genomen dat artsen apothekers en patiënten die handelen als onder A omschreven niet de stand van de techniek/Grint toepassen maar de geoctrooieerde uitvinding (punt 4.52 MvG). 
+D. Er is zelfs als de bijsluiter de stand van de techniek zou beschrijven sprake van uitlokking tot inbreuk omdat de beschrijving in de bijsluiter leidt tot of aanzet tot de geoctrooieerde toepassing. 
+(…)
+ 
+
+
+Beschermingsomvang; algemene opmerkingen
+
+ 
+
+
+4.1
+Teva heeft zich op het standpunt gesteld dat EP 861 een kleine groep patiënten selecteert uit een grote groep die in de stand van de techniek al behandeld werd met de combinatie van ribavirine en interferon alfa en dat EP 861 alleen maar berust op de vaststelling dat a) naïeve patiënten met b) genotype 1 infectie en c) een hoge virale belasting kunnen profiteren van d) een behandeling van 40-50 weken. Het hof volgt Teva in dit standpunt dat strookt met de octrooiconclusies de in rov. 1.3 weergegeven passages van de EP 861-Beschrijving en ook met de in rov. 1.4 weergegeven passages van de beslissing van de TKvB.  
+
+
+4.2
+
+De conclusies van EP 861 zijn vormgegeven als Swiss-type conclusies die onder het ‘oude’ Europees Octrooiverdrag (EOV) – in verband met artikel 53 onder c daarvan – noodzakelijk werden geacht om een nieuw therapeutisch gebruik van een stof waarvan al een therapeutisch gebruik bekend was te kunnen octrooieren. Van zo’n nieuw therapeutisch gebruik kan onder meer sprake zijn in de volgende gevallen:
+- de stof wordt toegepast bij een andere ziekte (de ‘nieuwe’ ziekte) dan de ziekte waarbij zij in de stand van de techniek werd toegepast de klassieke tweede medische indicatie (hierna: 2M-I); 
+- de stof wordt – zoals in EP 861 – toegepast op een subgroep van de groep waarop de bekende indicatie al werd toegepast hierna te noemen: de subgroep-indicatie (kortweg: SG-I). 
+Teva heeft terecht benadrukt (punten 30 en 74 MvA en punt 20 PA) dat tussen deze beide categorieën uitvindingen een wezenlijk verschil bestaat. Bij een 2M-I uitvinding wordt de stof gebruikt voor een indicatie waarvoor hij eerder niet werd gebruikt en is de uitvinding in dit nieuwe gebruik gelegen. Bij een SG-I uitvinding wordt de stof gebruikt voor een indicatie waarvoor de stof eerder al wel werd gebruikt en is de uitvinding gelegen in het identificeren van de subgroep in deze selectie. Dit verschil heeft consequenties voor de beschermingsomvang van het octrooi (waaronder hier mede zijn te begrijpen: de aan de octrooihouder voorbehouden handelingen) zie ook de passage in het protocol inzake de uitleg van artikel 69 van het EOV dat de uitleg van een octrooi mede wordt bepaald door de aan de octrooihouder toekomende ‘redelijke’ bescherming waarmee tot uitdrukking is gebracht dat de bescherming van de octrooihouder niet verder behoort te gaan dan door zijn uitvinding wordt gerechtvaardigd. 
+ 
+
+
+4.3
+Een 2M-I octrooi beschermt tegen het gebruik van de stof voor de behandeling van de ‘nieuwe’ ziekte. Wanneer een stof door een derde wordt verhandeld zonder dat daarbij specifiek dit ‘nieuwe’ gebruik wordt vermeld maar ook zonder dat een (serieuze) beperking ten aanzien van het gebruik wordt gesteld dan kan het zijn dat de door die derde verhandelde stof tevens voor de behandeling van de ‘nieuwe’ ziekte wordt gebruikt en dat dus door een ander dan de octrooihouder de voordelen van het octrooi worden gerealiseerd. Daarom kan de beschermingsomvang van een 2M-I octrooi zich uitstrekken tot verhandeling van de stof door een derde ook wanneer daarbij niet specifiek is vermeld dat deze voor het ‘nieuwe’ gebruik is bedoeld. Deze gedachte ligt ten grondslag aan het door dit hof op 27 januari 2015 gewezen arrest in de zaak ‘Novartis/Sun’ (zaaknr. 200.150.713/01; IEF 14599; BIE 2015 nr. 15 p. 79).  
+
+
+4.4
+Een SG-I octrooi beschermt tegen het gebruik van de stof voor de geselecteerde subgroep patiënten. Wanneer deze stof door een derde wordt verhandeld zonder dat daarbij specifiek dit ‘nieuwe’ gebruik wordt vermeld maar ook zonder dat daarbij enige beperking ten aanzien van het gebruik wordt gesteld dan kan het zijn dat die stof tevens voor de behandeling van de subgroep wordt gebruikt maar dit wil – anders dan bij een 2M-I octrooi – nog niet zeggen dat door een ander dan de octrooihouder de voordelen van het geoctrooieerde worden gerealiseerd. Het was immers al in de stand van de techniek bekend om de stof te gebruiken voor de groep patiënten waarvan de subgroep deel uitmaakt zodat die stof ook kon worden gebruikt voor de behandeling van die subgroep. Om de voordelen van een SG-I uitvinding te realiseren is het daarom nodig dat de stof specifiek voor de subgroep wordt gebruikt (en in casu bovendien voor een specifieke behandelingsduur). Dit brengt met zich dat – naar Teva heeft betoogd in onder meer punt 21 PA – de beschermingsomvang van een SG-I octrooi beperkt is tot de situatie waarin door de derde specifiek wordt aangegeven dat de stof voor de subgroep is bestemd (en in dit geval tevens voor de specifieke behandelingsduur).  
+
+
+4.5
+Uit het zojuist overwogene volgt dat de rechtspraak die is toegespitst op de karakteristieken van 2M-I octrooien in deze zaak relevantie mist. Aan de daarop door Schering gebaseerde argumentatie (zie onder meer de punten 9 19 en 20 PA) wordt dan ook voorbijgegaan.  
+
+
+Directe inbreuk
+
+ 
+
+
+5.1
+Het hof zal er nu eerst veronderstellenderwijs van uitgaan dat hier sprake is van een directe inbreuk-situatie bijvoorbeeld omdat de beschermingsomvang van een Swiss-type conclusie – die een werkwijze betreft – zich op grond van artikel 64 lid 2 EOV uitstrekt tot het rechtstreeks verkregen voortbrengsel (…).  
+
+
+5.2
+Ingevolge het in rov. 4.4 in fine overwogene is in dit geval voor directe inbreuk in ieder geval vereist dat de gemiddelde vakman op grond van de SmPC en/of de bijsluiter bij Teva’s generiek ribavirine zal menen dat deze specifiek bestemd is voor de in rov. 4.1 genoemde subgroep (kortweg: de Genotype 1 naïeven-subgroep afgekort: G1N-subgroep) zoals door Teva is betoogd in o.m. de punten 21 24 en 38 PA. (…) 
+
+
+5.5
+Het onder 5.3 en 5.4 overwogene brengt met zich dat niet is voldaan aan het in rov. 5.2 vermelde minimumvereiste voor directe inbreuk. Reeds hierom kan Scherings beroep daarop niet slagen.  
+
+
+Indirecte inbreuk 
+
+ 
+
+
+6.1
+Het hof zal er thans veronderstellenderwijs van uitgaan dat hier sprake is van een indirecte inbreuk-situatie.  
+
+
+6.2
+Indirecte inbreuk is geregeld in artikel 73 ROW dat – evenals bijvoorbeeld de Duitse en Engelse pendanten daarvan – is ontleend aan artikel 26 van het nimmer in werking getreden Gemeenschapsoctrooiverdrag 1989 (GOV) (…) 
+
+
+6.3
+Het begrip ‘essential element’/‘wezenlijk bestanddeel’/’wesentliches Element’ is niet beperkt tot een element dat op zichzelf nieuw en inventief is zie Benyamini blz. 199 en o.m. de uitspraak van het Bundesgerichtshof (BGH) van 4 mei 2004 X ZR 48/03 BGHZ 159 76 waarin onder 2.c) is overwogen: 
+
+‘Insbesondere ist es nicht möglich die wesentlichen Elemente einer Erfindung danach zu bestimmen ob sie den Gegenstand des Patentanspruchs vom Stand der Technik unterscheiden.’ 
+ 
+
+
+6.4
+Waar het echter om gaat is of ‘means’/’middelen’/’Mittel’ (‘relating to an essential element of that invention for putting it into effect therein’) door Teva worden aangeboden of geleverd. (…) 
+
+In zijn arrest van 31 oktober 2003 inzake de koffiepads (Sara Lee/Integro) ECLI: NL:HR:2003:AI0346 heeft de HR tot uitdrukking gebracht dat een middel betreffende een wezenlijk onderdeel van de uitvinding als bedoeld in artikel 73 lid 1 ROW datgene vormt waarmee volgens het octrooischrift de leer van het octrooi zich onderscheidt van de stand van de techniek. 
+ 
+
+
+6.5
+
+Uit het onder 4.4 in fine 5.3 en 5.4 overwogene vloeit voort dat het door Teva aangeboden en geleverde generieke ribavirine:
+(…) 
+- uitgaande van de koffiepads-uitspraak van de HR: niet datgene vormt waarmee volgens het octrooischrift (vgl. rov. 4.1) EP 861 zich onderscheidt van de stand van de techniek. 
+Met Teva (o.m. punten 89-90 MvA en punten 72-76 PA) moet dan ook worden geconcludeerd dat in de omstandigheden van dit geval generiek ribavirine niet een ‘middel’ in de zin van artikel 73 ROW is betreffende een wezenlijk bestanddeel van de uitvinding van EP 861. Het beroep van Schering op indirecte inbreuk stuit reeds hier op af. 
+ 
+
+
+Resume en slotsom
+
+ 
+
+
+7.1
+Het voorgaande resumerend is er – uitgaande van de in de rovv. 1.9 en 1.10 genoemde SmPC’s en bijsluiters – geen sprake van directe of indirecte octrooi-inbreuk door Teva ongeacht of Teva’s generieke ribavirine door artsen respectievelijk apothekers wordt voorgeschreven verkocht en geleverd voor de in EP 861 geoctrooieerde toepassing (behandeling van de G1N-subgroep) en ongeacht of dat middel door naïeve genotype 1-patiënten wordt gebruikt. De desbetreffende stellingen van Schering (zie rov. 3.2 bij A) missen dus relevantie.  
+
+
+7.2
+De in het kader van haar grief 6 door Schering betrokken stelling dat – anders dan de rechtbank heeft geoordeeld – de niet van carve-outs voorziene SmPC’s en bijsluiters van Teva uit de periode vóór de in rov. 1.7 genoemde aanpassingen van de marktvergunningen (dus uit de periode vóór 22 januari 2010) nog wel van belang zijn gaat niet op. In die periode bracht Teva haar generieke ribavirine nog niet in Nederland op de markt terwijl er geen enkele grond bestaat om aan te nemen dat Teva die ‘oude’ SmPC’s en bijsluiters weer zou gaan gebruiken. Omdat Teva’s ribavirine pas geruime tijd na 22 januari 2010 in Nederland op de markt is gekomen (namelijk in juni of oktober 2011) kan niet worden aangenomen dat zoals Schering in dit verband nog heeft aangevoerd de ‘oude’ SmPC’s en bijsluiters invloed hebben gehad op de kennis van het publiek en daarmee op het voorschrijfgedrag van artsen.  
+
+
+7.3
+Aan haar beroep op onrechtmatige daad sec heeft Schering geen andere feiten ten grondslag gelegd dan aan haar beroepen op directe en indirecte octrooi-inbreuk. In aanmerking ook nemende dat met name de figuur van indirecte octrooi-inbreuk in wezen een invulling vormt van het algemene leerstuk van de onrechtmatige daad in situaties als de onderhavige (‘Patentgefährdung’) is er geen ruimte om over de onrechtmatige daad-vordering anders te oordelen dan over de octrooi-inbreuk vorderingen.  
+
+
+7.4
+Het aanbod van Schering om te bewijzen dat artsen en apothekers door het voorschrijven van Teva’s ribavirine en/of patiënten door het gebruik daarvan de uitvinding van EP 861 toepassen (zie de punten 4.34 en 5.1 MvG) is in het licht van het onder 7.1 t/m 7.3 overwogene niet ter zake dienend en wordt op die grond gepasseerd.  
+
+
+7.5
+De slotsom luidt dat de vorderingen van Schering niet toewijsbaar zijn ook niet op de daarvoor in hoger beroep nieuw aangevoerde gronden en in de daaraan in hoger beroep gegeven vorm en dat de door Teva gevorderde verklaring van niet-inbreuk wel toewijsbaar is. De rechtbank heeft derhalve terecht in deze zin beslist. Haar in de rovv. 2.2 bij a) b) en d) weergegeven overwegingen zijn juist en toereikend voor haar beslissingen. De grieven van Schering falen. Als de in hoger beroep in het ongelijk gestelde partij zal zij worden veroordeeld in de daarop gevallen artikel 1019h Rv-kosten die worden begroot op het daarvoor door partijen overeengekomen bedrag van € 120.000-.” 
+
+
+3.5
+MSD heeft tijdig bij dagvaarding van 13 oktober 2015 cassatieberoep ingesteld tegen het arrest van 14 juli 2015. Teva heeft geconcludeerd tot verwerping van het cassatieberoep. Op 30 september 2016 heeft er op verzoek van MSD een pleidooi plaatsgehad op welke datum zijdens MSD naast haar pleitnotities (hierna: MSD pleitnotities) tevens een schriftelijke toelichting in het geding is gebracht (hierna: MSD s.t.). Teva heeft aangegeven dat haar de pleitnota tevens als schriftelijke toelichting dient (hierna: Teva pleitnota).7 Partijen hebben na het pleidooi waar zij gelegenheid hebben gehad tot mondelinge repliek en dupliek met toestemming van de voorzitter van de kamer vervolgens ook nog schriftelijk gerepliceerd (hierna: MSD repliek) en gedupliceerd (hierna: Teva dupliek).     
+
+
+
+
+4 Bespreking van het cassatiemiddel 
+
+4.1
+Het middel bestrijdt in de kern dat de beschermingsomvang van een subgroep-octrooi beperkt is tot de situatie waarin een derde specifiek aangeeft dat de stof voor de subgroep is bestemd (onderdelen 1.1-1.7) en de consequenties die het hof daaraan verbindt voor de beoordeling of sprake is van een directe inbreuk (onderdelen 2.1-2.6) en van een indirecte inbreuk dit laatste mede gezien de uitleg van het hof van art. 73 ROW 1995 (onderdelen 3.1-3.13). Voorts bevat het middel hierop voortbouwende klachten over het passeren van het bewijsaanbod van MSD (onderdelen 4.1-4.2) het verwerpen van de vordering uit onrechtmatige daad (onderdelen 5.1-5.3) en een algemene voortbouwende klacht (onderdeel 6.1). 
+
+
+4.2
+Alvorens de klachten van het middel te bespreken maak ik enige inleidende opmerkingen over tweede medische indicatie-octrooien in de vorm van Swiss-type claims en over de discussie over de beschermingsomvang van en inbreuk op dergelijk octrooien. Het bestreden arrest moet tegen deze achtergrond worden gelezen. 
+
+
+Tweede medische indicatie-octrooien
+
+ 
+
+4.3.1
+De uitvinding dat een (reeds bekende) stof een therapeutisch toepassing heeft kan in aanmerking komen voor een octrooi (een eerste medische indicatie-octrooi). De uitvinding dat deze stof ook geschikt is voor een andere (nieuwe) therapeutische toepassing dan de reeds bekende toepassing kan ook voor octrooibescherming in aanmerking komen.8 Men spreekt dan van een tweede medische indicatie-octrooi.9 
+
+
+4.3.2
+
+Binnen de groep tweede medische indicatie-octrooien kan weer nader worden onderscheiden tussen wat het hof noemt de klassieke tweede medische indicatie (2M-I) octrooien en subgroep-indicatie (SG-I) octrooien. Het klassieke tweede medische indicatie-octrooi betreft de uitvinding dat de stof ook geschikt is voor de behandeling van een andere (‘nieuwe’) aandoening.
+Bij de subgroep-indicatie wordt de stof weliswaar gebruikt voor de behandeling van een reeds bekende aandoening maar op een wijze die in één of meer opzichten vernieuwend is. De vernieuwing kan zitten in de identificatie van een subgroep van de patiëntenpopulatie en/of een doseringsregime een behandelduur een toedieningswijze van het geneesmiddel etc.10
+ 
+
+
+4.4.1
+MSD wijst op nut kosten en risico’s van ‘new use’ (dat wil zeggen 2M-I en SG-I) onderzoek en merkt op dat octrooiaanvragen vaak worden gedaan in een relatief vroeg stadium van medicijnontwikkeling zonder dat ook daadwerkelijk steeds een medicijn op de markt wordt gebracht (s.t. nrs. 2-8). Teva meent dat voor SG-I de term ‘specific use’ juister is wijst op het belang van beschikbaarheid van (goedkopere) generieke geneesmiddelen en vraagt aandacht voor het fenomeen van ‘evergreening’ dat wil zeggen het rekken van monopolies op medische stoffen door steeds maar octrooien te blijven aanvragen op allerlei aspecten waarbij sterk de vraag is of er nog enige bijdrage is aan de stand van de techniek (dupliek nrs. 2.1-2.5).  
+
+
+4.4.2
+In alle gevallen geldt dat een tweede medische indicatie-octrooi slechts wordt verleend indien (naar het oordeel van de verlenende instantie) de uitvinding voldoet aan onder meer de vereisten van nieuwheid en inventiviteit. Bij een SG-I octrooi zou de leek kunnen menen dat de nieuwheid en inventiviteit problematisch is omdat het middel al wordt gebruik voor de betreffende aandoening. De gemiddelde vakman zou echter kunnen oordelen dat de technische leer van het octrooi (belangrijke) kennis toevoegt over de gevallen waarin het geneesmiddel met meer succes kan worden ingezet. Omdat de therapeutische werking van het middel al bekend was voor de behandeling van de groep patiënten met de betreffende ziekte zal volgens de TKvB de aanduiding van de subgroep aan bepaalde eisen moeten voldoen wil zij in aanmerking kunnen komen voor een afzonderlijk octrooi. In het bijzonder wordt vereist dat de subgroep zich in pathologisch en fysiologisch opzicht onderscheidt van de patiëntengroep.11 
+
+
+4.4.3
+Ten aanzien van EP 861 is een ‘nieuwheids’-discussie gevoerd en heeft de TKvB geoordeeld dat de in EP 861 bedoelde subgroep zich in pathologisch en fysiologisch opzicht onderscheidt van de patiëntengroep als bedoeld in Grint (zie rov. 1.4 van het bestreden arrest). Ook in deze procedure debatteren partijen over de mate waarin EP 861 de stand van de techniek verder heeft gebracht (zie in cassatie MSD s.t. nrs. 41 en 56 en pleitnota hfdst. 3; Teva pleitnota nr. 2.11 en dupliek nrs. 2.11-2.12). Omdat de rechtbank en het hof niet zijn toegekomen aan de behandeling van de (voorwaardelijke reconventionele) nietigheidsvordering van Teva (zie rov. 3.3 van het arrest) dient in cassatie evenwel tot uitgangspunt dat EP 861 geldig is. Bij de beoordeling van het middel moet er dus van worden uitgegaan dat de identificatie van de subgroep (en behandelingsduur) 12 in EP 861 (onder meer) nieuw en inventief is. 
+
+
+Tweede medische indicatie-octrooien in de vorm van Swiss-type claims
+
+ 
+
+
+4.5.1
+Tweede medische indicatie-octrooien werden oorspronkelijk vormgegeven als doelgebonden werkwijzeconclusies13 (“het gebruik van stof X voor de vervaardiging van een geneesmiddel voor de behandeling van ziekte Z”) zogenaamde Swiss-type claims. De  Swiss-type claim is bedacht en in 1984 goedgekeurd door de Grote Kamer van Beroep van het Europees Octrooibureau (hierna: GKB)14 om het mogelijk te maken om tweede medische indicaties als octrooi te kunnen beschermen. Het beschermen van tweede medische indicaties stuitte namelijk op het nieuwheidsvereiste en het verbod op octrooieerbaarheid van therapeutische behandelwijzen. Om hieraan te ontkomen werd de hiervoor bedoelde formulering als werkwijzeconclusie bedacht.15 
+
+
+4.5.2
+Met de herziening van het Europees Octrooiverdrag (hierna: EOV) in 200016 is in art. 54 lid 5 EOV (en in art. 4 lid 6 ROW 1995)17 uitdrukkelijk opgenomen dat tweede medische indicatie-octrooien zijn toegestaan.18 De GKB overwoog vervolgens in een beslissing van 19 februari 2010 G2/08 dat hiermee de rechtvaardiging voor de (formulering van de) Swiss-type claim was komen te vervallen (“the loophole existing in the provisions of the EPC 1973 was closed”)19 en oordeelde dat het gebruik van Swiss-type claims voor Europese octrooiaanvragen van ná 29 januari 2011 niet langer meer was toegestaan. Vanaf die datum dienen tweede medische indicaties door middel van een doelgebonden productconclusie te worden geclaimd (hierna: EPC 2000 claim). Oude Swiss-type claims zoals in deze zaak aan de orde behouden volgens de beslissing van het GKB echter hun effect.20 
+
+
+Beschermingsomvang en inbreuk – algemeen
+
+ 
+
+
+
+4.6
+Door middel van uitleg van het octrooi moet de beschermingsomvang ervan worden vastgesteld. Over de uitleg en daarmee de bepaling van de beschermingsomvang van een octrooi overwoog laatstelijk21 HR 5 februari 2016 (Bayer/Sandoz):22 
+
+“3.3.4 Art. 69 lid 1 Europees Octrooi-verdrag (EOV) houdt in dat de beschermingsomvang van een octrooi wordt bepaald door de conclusies van het octrooischrift waarbij de beschrijving en de tekeningen dienen tot uitleg van die conclusies. Art. 1 en 2 van het bij art. 69 EOV behorende uitlegprotocol (hierna: het Protocol) luiden in Nederlandse vertaling: 
+ 
+
+“Artikel 1 – Algemene beginselen
+Artikel 69 mag niet worden uitgelegd in de zin als zou de beschermingsomvang van het Europees octrooi worden bepaald door de letterlijke tekst van de conclusies en als zouden de beschrijving en de tekeningen alleen maar mogen dienen om de onduidelijkheden welke in de conclusies zouden kunnen voorkomen op te heffen. Het mag evenmin worden uitgelegd in die zin als zouden de conclusies alleen als richtlijn dienen en als zou de bescherming zich ook uitstrekken tot datgene wat de octrooihouder naar het oordeel van de deskundige die beschrijving en de tekeningen bestudeert heeft willen beschermen. De uitleg moet daarentegen tussen deze twee uitersten het midden houden waarbij zowel een redelijke bescherming aan de aanvrager als een redelijke rechtszekerheid aan derden wordt geboden.
+ 
+
+Artikel 2 – Equivalenten
+Teneinde de omvang van de bescherming voortvloeiende uit een Europees octrooi te bepalen dient op passende wijze rekening te worden gehouden met elk element dat equivalent is aan een in de conclusies omschreven element.”
+ 
+
+3.3.5
+
+In overeenstemming met deze uitlegregel van het Protocol heeft de Hoge Raad de in zijn eerdere uitspraken gebezigde formuleringen “hetgeen voor de uitvinding waarvan de bescherming wordt ingeroepen wezenlijk is” onderscheidenlijk “de achter de woorden van die conclusies liggende uitvindingsgedachte” bestempeld als gezichtspunt tegenover de letterlijke tekst van de conclusies (de “uitersten” in de woorden van het Protocol) (vgl. HR 7 september 2007 ECLI:NL:HR:2007:BA3522 NJ 2007/466 en HR 25 mei 2012 ECLI:NL:HR:2012:BV3680 NJ 2013/68). Daarbij dient het achterhalen van de achter de woorden van de conclusies liggende uitvindingsgedachte ertoe een uitsluitend op de letterlijke betekenis van de bewoordingen gegronde en daarom voor een redelijke bescherming van de octrooihouder wellicht te beperkte of onnodig ruime uitleg te vermijden (vgl. HR 13 januari 1995 ECLI:NL:HR:1995:ZC1609 NJ 1995/391). De beschrijving en de tekeningen vormen in dat kader een belangrijke bron. Van de beschrijving maakt onderdeel uit een weergave van de stand van de techniek die de aanvrager als nuttig beschouwt voor het begrijpen van de uitvinding (regel 42 van het Uitvoeringsreglement bij het EOV). Ook niet in de beschrijving genoemde stand van de techniek kan van belang zijn. Bij de uitleg van een octrooi is immers leidend het perspectief van de gemiddelde vakman met zijn kennis van de stand van de techniek. (HR 4 april 2014 ECLI:HR:2014:816 NJ 2015/11 (Medinol/Abbott)).
+(…)
+ 
+
+
+3.3.8 (…)
+Voor het bepalen van de beschermingsomvang van een octrooi gaat het om de vaststelling van hetgeen het octrooi toevoegt aan de stand van de techniek. Alleen in het kader van de inbreukvraag kan mede betekenis worden gehecht aan de kennis van de gemiddelde vakman ten tijde van de beweerde inbreuk in het bijzonder waar het erom gaat of sprake is van equivalente elementen (HR 4 april 2014 ECLI:HR:2014:816 NJ 2015/11 (Medinol/Abbott) rov. 3.5.2).” 
+
+Hierbij geldt dat elk octrooi moet worden uitgelegd in het kader van de aan dat octrooi eigen omstandigheden.23
+ 
+
+
+
+4.7
+Indien een product of werkwijze van een derde onder de beschermingsomvang van een octrooi valt24 moet vervolgens nog worden bezien of door deze derde (directe of indirecte) inbreuk op het octrooi wordt gemaakt.25 
+
+4.8.1
+Van directe inbreuk is (behoudens uitzonderingen) sprake als een derde één van de in art. 53 lid 1 ROW 1995 voorbehouden handelingen verricht:26 
+
+“1. Een octrooi geeft de octrooihouder behoudens de bepalingen van de artikelen 53a tot en met 60 het uitsluitende recht:
+a.) het geoctrooieerde voortbrengsel in of voor zijn bedrijf te vervaardigen te gebruiken in het verkeer te brengen of verder te verkopen te verhuren af te leveren of anderszins te verhandelen dan wel voor een of ander aan te bieden in te voeren of in voorraad te hebben;
+b.) de geoctrooieerde werkwijze in of voor zijn bedrijf toe te passen of het voortbrengsel dat rechtstreeks verkregen is door toepassing van die werkwijze in of voor zijn bedrijf te gebruiken in het verkeer te brengen of verder te verkopen te verhuren af te leveren of anderszins te verhandelen dan wel voor een of ander aan te bieden in te voeren of in voorraad te hebben.”
+ 
+
+Art. 70 lid 1 ROW 1995 bepaalt verder dat de octrooihouder zijn octrooi kan handhaven jegens een ieder die zonder daartoe gerechtigd te zijn een der in artikel 53 eerste lid genoemde handelingen verricht.
+ 
+
+
+4.8.2
+Voor een directe inbreuk wordt vereist dat de derde zelf (actief) de aan de octrooihouder voorbehouden handelingen verricht. Een producent of handelaar die zijn product aanbiedt voor de geoctrooieerde indicatie maakt dus (in beginsel) een directe inbreuk.  
+
+
+
+4.9
+Ook indien een derde niet rechtstreeks (directe) inbreuk maakt is denkbaar dat hij ertoe bijdraagt dat anderen dat wel (zullen kunnen) doen en daarmee een indirecte inbreuk op het octrooi maakt.27 Een doelmatige handhaving van het octrooirecht brengt dan mee dat de octrooihouder de ‘bron’ kan aanpakken om verdere inbreuken te voorkomen. De indirecte inbreuk is geregeld in art. 73 lid 1 ROW 1995:28 
+
+“De octrooihouder kan de vorderingen die hem ten dienste staan bij de handhaving van zijn octrooi instellen tegen iedere persoon die in Nederland Curaçao of Sint Maarten in of voor zijn bedrijf middelen betreffende een wezenlijk bestanddeel van de uitvinding aan anderen dan hen die krachtens de artikelen 55 tot en met 60 tot toepassing van de geoctrooieerde uitvinding bevoegd zijn aanbiedt of levert voor de toepassing van de geoctrooieerde uitvinding in Nederland Curaçao of Sint Maarten een en ander mits die persoon weet dan wel het gezien de omstandigheden duidelijk is dat die middelen voor die toepassing geschikt en bestemd zijn.”
+ 
+
+	In HR 14 april 2017 (Sun /Novartis)29 oordeelde de Hoge Raad over het wetenschapsvereiste in art. 73 lid 1 ROW 1995. In de onderhavige zaak heeft het hof geoordeeld over de aanwezigheid van een middel betreffende een wezenlijk bestanddeel van de uitvinding.
+ 
+
+
+	Beschermingsomvang en inbreuk – tweede medische indicatie-octrooien
+
+ 
+
+
+schets van het probleem
+
+
+
+
+4.10
+Wanneer het octrooi voor de eerste medische indicatie is verlopen is het gebruik van de stof voor die medische toepassing vrij. Die vrijheid betreft een ieder die de stof voor de eerder geoctrooieerde toepassing gaat gebruiken. Dit omvat de hele keten inclusief producenten distributeurs en medische beroepsbeoefenaren. In de praktijk gaat het echter vooral om de vrijheid van de producent en handelaar omdat handhaving van octrooirechten zich (ook om praktische en commerciële redenen) in beginsel niet richt tegen medische beroepsbeoefenaren.30 De vrijheid om de stof te gebruiken voor de eerder geoctrooieerde toepassing betekent dat producenten en handelaren van generieke producten de markt kunnen gaan betreden en hun generieke geneesmiddel daartoe wat het octrooirecht betreft kunnen aanbieden. Indien er echter een tweede medische indicatie-octrooi is dient de ‘generiek’ deze te respecteren. Het produceren en verhandelen van zijn generieke geneesmiddel is dan octrooirechtelijk toegestaan behalve voor de beschermde tweede medische indicatie.  
+
+
+4.11
+In deze situatie moet dus enerzijds de productie en verhandeling van het generieke product vrijelijk kunnen plaatsvinden voor zover het betreft de inmiddels niet meer octrooirechtelijk beschermde medische toepassing van de stof en moet anderzijds de nog wel beschermde toepassing van de stof worden ontzien. Te veel bescherming bieden aan de houder van het tweede medische indicatie-octrooi belemmert ten onrechte de markt voor de vrije toepassingen van het product te weinig bescherming bieden onthoudt ten onrechte de octrooihouder de beloning voor zijn bijdrage aan de stand van de techniek. Het vinden van dit evenwicht wordt bemoeilijkt doordat op de markt voor geneesmiddelen de producent/handelaar niet volledig in de hand heeft voor welke toepassing zijn geneesmiddel wordt gebruikt en voorts door de vraag hoe de beschermingsomvang van en in het verlengde daarvan een inbreuk op een tweede medische indicatie-octrooi moet worden vastgesteld. 
+
+4.12.1
+Wat betreft de markt voor geneesmiddelen dient het volgende. Voor het in het verkeer brengen van een geneesmiddel is een vergunning vereist. Elk geneesmiddel heeft een Summary of Product Characteristics (hierna: SmPC) en bijsluiter. De producent/handelaar die in de SmPC/bijsluiter van zijn generieke geneesmiddel vermeldt dat dit (ook) gebruikt kan worden voor de geoctrooieerde tweede medische toepassing loopt het risico daarmee een directe inbreuk op het octrooi te maken.31 Om dit risico te proberen te vermijden kan de producent/handelaar aan het College ter Beoordeling van Geneesmiddelen (hierna: CBG) verzoeken om de geoctrooieerde indicatie uit de SmPC en de bijsluiter van het product te verwijderen.32 Zo’n verwijdering wordt een carve-out genoemd en de betreffende praktijk skinny labelling. Het beleid van het CBG is om de carve-out alleen door te voeren in de papieren bijsluiter en SmPC en om op de website van het CBG een full label versie (dus zonder carve-out) te publiceren.33 Daarom is de informatie die niet in de papieren versie is opgenomen nog wel publiekelijk beschikbaar op de website van het CBG.34 Dit beleid van het CBG staat overigens onder druk.35 
+
+
+4.12.2
+Verder houdt het voorschrijfbeleid van artsen in Nederland36 in dat in beginsel wordt voorgeschreven op stofnaam waarmee wordt gestimuleerd dat apothekers het goedkopere generieke product leveren.37 Daarnaast wordt op een recept van de arts - uit privacy-oogpunt - niet vermeld voor welke indicatie/aandoening de stof wordt voorgeschreven. De apotheker kan dus ook niet op basis van de indicatie alsnog besluiten het middel van de houder van het tweede medische indicatie-octrooi uit te leveren. Voor apothekers gelden ook richtlijnen die hen stimuleren om een generiek middel uit te leveren wanneer een merkproduct is voorgeschreven (het substitutiebeleid).38 Voorts kan de ziektekostenverzekeraar een (contracteer)beleid voeren om in beginsel alleen bepaalde generieke middelen te vergoeden.39 
+
+
+4.12.3
+Een en ander kan ertoe leiden dat wanneer de producent/handelaar van de stof een carve-out heeft opgenomen in zijn SmPC en bijsluiter ook indien die op zichzelf beschouwd in voldoende mate voorkómt dat wordt gerefereerd aan de toepassing van het middel voor de beschermde tweede medische indicatie desalniettemin verderop in de keten het generieke middel wordt gebruikt voor die indicatie. 
+
+
+volstaat een 
+carve-out
+?
+
+
+
+
+4.13.1
+Bij tweede medische indicatie-octrooien – althans volgens rov. 4.3-4.4 van het thans bestreden arrest bij 2M-I octrooien − rijst dan de vraag of de generieke producent/handelaar door een carve-out op te laten nemen in de SmPC/bijsluiter voldoende heeft gedaan met het oog op de belangen van de octrooihouder dan wel dat zijn verantwoordelijkheid verder reikt indien voldoende vast staat dat zijn generieke middel verderop in de keten wordt of dreigt te worden gebruikt voor de geoctrooieerde indicatie.40 
+
+
+4.13.2
+In zijn conclusie (sub 2.22-2.23) in de zaak Sun/Novartis verwees A-G Van Peursem naar de in AIPPI verband groeiende consensus dat een carve-out niet zonder meer volstaat. Een werkgroep van de Nederlandse groep van AIPPI concludeerde in 2014 dat een carve-out niet per definitie met zich brengt dat niet aan het wetenschapsvereiste is voldaan en er van (indirecte) inbreuk geen sprake kan zijn. Uit resolutie Q238 die AIPPI op 17 september 2014 tijdens het World Intellectual Property Congres in Toronto heeft aangenomen blijkt dat ook op mondiaal niveau wordt aangenomen dat skinny labelling niet per definitie met zich brengt dat er geen sprake kan zijn van (indirecte) inbreuk. De (indirecte) inbreukvraag moet volgens deze resolutie steeds worden beoordeeld aan de hand van de omstandigheden van het geval. Voor de citaten uit deze stukken verwijs ik naar de conclusie in de zaak Sun/Novartis.41 Ik merk nog op dat de genoemde resolutie weliswaar een wenselijk geachte richting aangeeft maar constateert dat er op dit punt verschillen tussen rechtsstelsels zijn.42 
+
+
+4.13.3
+Naar mijn mening wijst ook het oordeel van de Hoge Raad in Sun/Novartis erop dat een carve-out niet zonder meer volstaat. In de SmPC en bijsluiter van haar generieke zoledroninezuur had Sun een carve-out opgenomen voor de indicatie osteoporose die viel onder het tweede medische indicatie (2M-I)-octrooi van Novartis. HR 14 april 2017 ECLI:NL:HR:2017:692 overwoog: 
+
+“3.5.1 Onderdeel 2 keert zich met motiveringsklachten tegen rov. 4.33-4.35 (en 4.41 waarin daarop wordt teruggegrepen) voor zover het hof daarin heeft geoordeeld dat Sun gelet op het door VGZ gehanteerde preferentiebeleid gehouden is effectieve maatregelen te nemen om te voorkomen dat verderop in het distributiekanaal inbreuk wordt gemaakt op het octrooi alsmede dat zij is tekortgeschoten in haar verplichting al het mogelijke in het werk te stellen om te voorkomen dat haar product zou worden uitgeleverd voor de behandeling van osteoporose en zich ervan te vergewissen dat effectieve maatregelen daartoe zouden worden genomen. Geklaagd wordt dat het hof niet duidelijk maakt welke maatregelen het op het oog heeft noch hoe Sun bij gebreke daarvan zelf indirect inbreuk maakt op het octrooi. Voorts dat het hof zich van de door Sun genoemde onmogelijkheden geen rekenschap heeft gegeven terwijl niet valt in te zien dat zij kan worden aangesproken op gedrag van derden waarop zij geen invloed heeft.
+ 
+
+
+3.5.2
+
+
+Het hof heeft in cassatie onbestreden geoordeeld dat zo goed als uitgesloten is dat het product van Sun niet ook voor osteoporose uitgeleverd en gebruikt wordt en zij daarom moest weten dat haar product aan het einde van de verticale keten van verhandeling ook zal worden uitgeleverd voor de geoctrooieerde indicatie. Het hof heeft terecht geoordeeld dat – ervan uitgaande dat indirecte inbreuk op een [lees] ‘Swiss-type claim’ rechtens mogelijk is – onder die omstandigheden aan de vereisten van indirecte octrooi-inbreuk als bedoeld in art. 73 lid 1 ROW 1995 is voldaan. Het hof heeft niet geoordeeld dat Sun kan worden aangesproken op gedrag van derden waarop zij geen invloed heeft zodat het onderdeel in zoverre bij gebrek aan feitelijke grondslag niet tot cassatie kan leiden. Het verwijt dat Sun volgens het hof gemaakt kan worden is dat zij niets in het werk heeft gesteld – behoudens de hiervoor in 3.1 onder (viii) genoemde ‘carve-out’ en de verzending van de door het hof (alleszins begrijpelijk) als onvoldoende bestempelde e-mail aan groothandels en ziekenhuisapotheken vermeld in rov. 4.35 – om te voorkomen dat haar product zou worden uitgeleverd voor de behandeling van osteoporose (rov. 4.34). Het ligt niet op de weg van de rechter maatregelen aan te wijzen die een procespartij zoals Sun in een geval als het onderhavige had moeten nemen maar integendeel op die van de procespartij zelf om te laten zien wat zij in het werk heeft gesteld om inbreuk te voorkomen nog daargelaten dat het hof in dit geval (in rov. 4.35 en 4.36) voorbeelden heeft gegeven van denkbare maatregelen. De door Sun gestelde onmogelijkheden om het gebruik van haar product voor de behandeling van osteoporose te voorkomen zijn door het hof niet miskend. Het hof heeft Sun slechts aangerekend dat zij van de mogelijkheden die haar wel ter beschikking stonden onvoldoende gebruik heeft gemaakt.
+Het onderdeel mist dus doel.” (onderstreping toegevoegd; A-G)
+ 
+
+Daarbij zij opgemerkt (i) dat de Hoge Raad in dit arrest uitdrukkelijk geen antwoord heeft gegeven op de vraag of indirecte inbreuk op een Swiss-type claim wel of niet mogelijk is (rov. 3.3 onder a) en (ii) het oordeel ziet op het wetenschapsvereiste van art. 73 ROW 1995 en niet op het middel betreffende een wezenlijk bestanddeel-vereiste. Voorts zag deze zaak in cassatie niet op een mogelijke directe inbreuk.
+ 
+
+
+
+4.14
+Hoewel de vraag of een carve-out volstaat naar Nederlands recht dus nog niet eenduidig is beantwoord ligt naar mijn mening een ontkennend antwoord meer voor de hand dan een bevestigend antwoord. Iemand die profiteert van het als gevolg van zijn eigen handelen voorzienbare handelen van derden ten koste van de gerechtvaardigde belangen van een ander kan zich immers niet reeds aan elke verantwoordelijkheid jegens die ander onttrekken door zich erop te beroepen dat het gaat om handelen van derden en niet van hemzelf. Voor aansprakelijkheid is echter nodig dat de producent/handelaar van een generiek middel een directe of indirecte inbreuk maakt. Dit kan niet worden omzeild door zonder meer terug te vallen op de algemene regeling van de onrechtmatige daad van art. 6:162 BW. In gevallen als het onderhavige wordt de vraag wat in de verhouding tussen generiek producent/handelaar en octrooihouder wel of niet geoorloofd (markt)gedrag is immers primair bepaald door de grenzen die worden getrokken door het octrooirecht. Met andere woorden het is denkbaar dat in deze verhouding (ook al kan de onrechtmatige daad soms aanvullende bescherming bieden) bepaald handelen niet als onrechtmatig heeft te gelden omdat het octrooirechtelijk niet als een inbreuk kan worden aangemerkt. 
+
+
+4.15
+A-G Van Peursem merkte in dit verband op dat het octrooisysteem niet adequaat lijkt te zijn toegerust voor de bescherming van tweede medische indicaties.43 De belangrijkste complicaties lijken thans te zijn (i) welke betekenis moet worden toegekend aan het element ‘vervaardigen’44 (de werkwijze) in de Swiss-type claim en (ii) hoe moet worden beoordeeld of het geneesmiddel is bestemd voor de geoctrooieerde tweede medische indicatie (de doelgebondenheid). Ik schets hierna enige in de rechtspraak bereikte oplossingen. 
+
+
+afbakening van de beschermingsomvang aan de hand van vervaardigen en bestemmen
+
+
+
+
+4.16
+Instructief zijn de uitspraken in hoger beroep in de Engelse zaak Warner-Lambert v. Activis [2015] EWCA Civ 556 en [2016] EWCA Civ 1006 (Floyd LJ) mede omdat daaruit tevens blijkt van de andere opvatting van Arnold J in eerste aanleg.45 Deze zaak gaat over het tweede medische (2M-I) octrooi in de vorm van Swiss types claims van Warner-Lambert om de stof pregabaline te gebruiken voor de vervaardiging van een geneesmiddel voor de bestrijding van neuropathische pijn. De vrije toepassing van het middel ziet op de behandeling van ‘general anxiety disorder’ (GAD) en epilepsie.  
+
+
+4.17
+
+Door Floyd LJ is als volgt geoordeeld.46
+(i) Bij de bepaling van de beschermingsomvang komt aan het element ‘vervaardigen’ slechts de betekenis toe dat ‘any manufacturing step’ volstaat. Een arts die het middel voorschrijft vervaardigt niet ([2015] EWCA Civ 556 par. 119).47
+	(ii) Indien het element ‘voor’/’for’ in de conclusie zou worden uitgelegd als ‘geschikt voor’ (zoals bij werkwijzeconclusies gebruikelijk is) zou de octrooihouder te veel bescherming krijgen maar “the skilled person would understand that the claim so construed could not possibly distinguish over known uses of the known drug” (par. 113).48 Daarom betreft de beschermingsomvang het bewuste gebruik van het geneesmiddel voor de geoctrooieerde toepassing (par. 118 en):
+ 
+
+“121. Thus the skilled person would understand that the technical subject matter of the claim was concerned with the ultimate end use of the medicament from which it derived its novelty. The therapeutic treatment is of course new because and only because it is carried out with the intention of producing the new therapeutic effect. The prior use of the compound may have in fact produced the effect for example if a patient taking it for GAD or epilepsy was at the time experiencing pain as well. This demonstrates to my mind that it is the intention for which the compound is administered which is at the heart of the invention.”
+ 
+
+	(iii) Ook moet er een verband bestaan tussen het vervaardigen en het hiervoor genoemde bewuste gebruik van het middel voor de geoctrooieerde toepassing omdat de producent anders niet zou kunnen weten of hij inbreuk zou maken. Dit moet blijken uit de intentie van de vervaardiger (par. 122; zie ook [2016] EWCA Civ 1006 par. 191). In de procedure is aanvankelijk in eerste aanleg geoordeeld dat de producent de subjectieve intentie (het oogmerk) moet hebben om zijn generieke geneesmiddel te vervaardigen voor de geoctrooieerde toepassing.49 In hoger beroep is geoordeeld dat een objectieve intentie volstaat dat wil zeggen dat voor de producent redelijkerwijs voorzienbaar is dat zijn generieke geneesmiddel bewust voor de geoctrooieerde toepassing zal worden gebruikt. Is hieraan voldaan dan rust op de producent een inspanningsverplichting om redelijke maatregelen te treffen om dat gebruik te voorkomen50. Zie Floyd LJ [2015] EWCA Civ 556 par. 127 en nader uitgewerkt [2016] EWCA Civ 1006:51
+ 
+
+“208. (…) The intention will be negatived where the manufacturer has taken all reasonable steps within his power to prevent the consequences occurring. In such circumstances his true objective is a lawful one and one would be entitled to say that the foreseen consequences were not intended but were an unintended incident of his otherwise lawful activity. (…).”
+ 
+
+	(iv) Volgens [2015] EWCA Civ 556 par. 129 is van een directe inbreuk sprake wanneer de producent “manufactures pregabalin when he knows or foresees that users will intentionally administer it for pain.”52
+	(v) In zijn vervolguitspraak [2016] EWCA Civ 1006 verduidelijkt Floyd LJ dat het bij (ii) bedoelde bewuste gebruik niet ziet op het vaststellen van de intentie van de uiteindelijke gebruiker (arts apotheker patiënt) om het generieke middel te gebruiken voor de geoctrooieerde indicate53 maar op de vraag of voor de producent redelijkerwijs voorzienbaar is dat het generieke geneesmiddel ook zal worden gebruikt voor de geoctrooieerde indicatie:
+ 
+
+“216 (..) Because elements in this form rely for their novelty on the purpose of the use of the drug it is only essential that the manufacturer is able to foresee that there will be intentional use of the drug for the new medical indication. Intentional use is to be distinguished from use where the drug is prescribed for a different indication and without it in any sense being the intention of the treatment a pain condition is in fact treated.
+ 
+
+217. The issue which the judge was called upon to decide was whether Actavis [de producent van het generieke middel; A-G] knew or could foresee that at least some of the prescriptions written generically for pregabalin to treat pain [de geoctrooieerde tweede medische indicatie; A-G] would in fact be fulfilled with Leceant [het generieke middel; A-G]. (…) it would then have been necessary to decide whether at any of the various dates analysed by the judge that test of knowledge or foresight was satisfied. If so the judge should have go on to consider whether Actavis had taken all reasonable steps in their power to prevent Leceant from being used to treat pain.”
+ 
+
+	(vi) Daarbij wordt overigens erkend ([2015] EWCA Civ 556 par. 130-132) dat in bepaalde gevallen ook in de sfeer van de remedies maatwerk zal moeten worden geleverd zoals in het geval dat (i) het generieke geneesmiddel ook wordt geproduceerd en gebruikt voor de vrije indicatie of in het geval dat (ii) voor de producent ondanks diens adequate voorzorgsmaatregelen voorzienbaar is dat het middel bewust zal worden gebruikt voor de geoctrooieerde toepassing.
+ 
+
+
+4.18
+Deze voorzienbaarheid-benadering is aanvaard in Rb. Den Haag 5 april 2017 ECLI:NL:RBDHA:2017:3430 in het eindvonnis in de bodemprocedure in de zaak Sun/Novartis: 
+
+“3.17. Partijen lijken het in de Engelse rechtspraak ontwikkelde criterium voor wat betreft de uitleg van het begrip ‘voor (de behandeling van)’ te omarmen. Voor zover Novartis met haar stelling in de akte na tussenvonnis dat er in Nederland vanuit wordt gegaan dat geen ‘schuld of wetenschapsvereiste’ nodig is voor het plegen van (directe) octrooiinbreuk (primair) heeft bedoeld te stellen dat de wetenschap van de generieke fabrikant (toch) niet relevant is ziet zij er aan voorbij dat conclusie 7 van EP 689 B3 geen gewone werkwijze conclusie is maar een Swiss form second medical use claim waar het wetenschapselement wél relevant is.
+ 
+
+
+3.18.
+De rechtbank is met partijen en overeenkomstig voornoemde Engelse rechtspraak van oordeel dat het begrip ‘voor (de behandeling van)’ / ‘for (the treatment of)’ van een op Zwitserse wijze geformuleerde conclusie een zeker mentaal element omvat ziende op wetenschap of voorzienbaarheid omtrent het bewuste gebruik van het geneesmiddel voor de geoctrooieerde indicatie. Voornoemd criterium wordt dan ook in de verdere beoordeling tot uitgangspunt genomen.” 
+
+De rechtbank komt tot de slotsom dat sprake is van een inbreuk in de zin van art. 53 lid 1 onder b ROW 1995 omdat Sun wist althans voor haar voorzienbaar was dat haar generieke geneesmiddel bewust gebruikt zou worden voor de behandeling van osteoporose terwijl zij bepaald onvoldoende heeft gedaan om het gebruik voor die geoctrooieerde indicatie te voorkomen.
+ 
+
+
+4.19
+Kortom deze uitleg van een Swiss-type claim brengt mee dat de producent een  directe inbreuk maakt wanneer hij de generieke stof gebruikt om een geneesmiddel  te vervaardigen en voorzienbaar is dat dit geneesmiddel bewust zal worden gebruikt voor de geoctrooieerde indicatie. De toets of bij de producent wetenschap of voorzienbaarheid omtrent het bewuste gebruik van het geneesmiddel voor de geoctrooieerde indicatie aanwezig is komt volgens MSD (s.t. nrs. 122 en 109) overeen met het wetenschapsvereiste van art. 73 ROW 1995.  
+
+4.20.1
+Ik merk aanvullend nog op dat in de hierboven bij 4.17 onder (iii) geciteerde overweging Floyd LJ reageert op het tegenargument dat de voorzienbaarheids- benadering te ruim is omdat zij zou impliceren dat de gehele productie van het generieke geneesmiddel is te beschouwen als een rechtstreeks verkregen voortbrengsel in de zin van (het Engelse equivalent van) art. 53 lid 1 onder b ROW 1995 ook al zou slechts een deel ervan daadwerkelijk voor de geoctrooieerde toepassing worden gebruikt. Volgens Floyd LJ is dit niet het geval: indien de producent redelijke voorzorgsmaatregelen neemt dan maakt hij geen inbreuk in de zin van deze bepaling zodat zijn gehele productie geen inbreuk maakt ([2016] EWCA Civ 1006 par. 202 en 208).  
+
+
+4.20.2
+Dit biedt mogelijk geen oplossing in het geval waarin (i) de producent onvoldoende maatregelen treft om te voorkomen dat zijn generieke geneesmiddel zal worden gebruikt voor de geoctrooieerde indicatie terwijl (ii) vast staat dat slechts een deel van zijn productie voor de geoctrooieerde indicatie zal worden gebruikt (en het andere deel voor de vrije toepassing). De oplossing zal dan mogelijk kunnen worden gevonden in een beperking van het begrip ‘rechtstreeks verkregen voortbrengselen’ tot die hoeveelheid voortbrengselen waarvan voorzienbaar is dat zij zullen worden gebruikt voor de geoctrooieerde toepassing. Dat ligt ook voor de hand: de rechtstreeks verkregen voortbrengselen in de zin van art. 53 lid 1 onder b ROW 1995 kennen in deze redenering dezelfde beperking als de (werkwijze)conclusie zelf en kunnen dáárom worden beschouwd als daar rechtstreeks uit te zijn verkregen. Op deze manier wordt de productie van het generieke geneesmiddel voor de vrije toepassing ongemoeid gelaten ook als de producent met een deel van zijn productie in het vaarwater van de houder van het tweede medische indicatie-octrooi komt omdat hij in dat opzicht onvoldoende voorzorgsmaatregelen treft. Zo wordt voorkomen dat de octrooihouder te veel of te weinig bescherming zou krijgen (ook al kan het in de praktijk lastig zijn om aan de hand van deze maatstaf de hoeveelheid inbreukmakende voortbrengselen heel nauwkeurig te bepalen).54 
+
+
+
+4.21
+Betwist is of de producent een indirecte inbreuk op een Swiss-type claim kan maken. (i) In Warner-Lambert v. Actavis is in eerste aanleg geoordeeld door Arnold [2015] EWHC 72 (Pat) dat dit niet kan:  
+
+“113. In the alternative to its primary claim Warner-Lambert claims for infringement through the supply of essential means onder section 60(2) of the 1977 Act. Counsel for Warner-Lambert did not press this claim. He was right not to do so. There can be only be infringement under section 60(2) if there can be infringement by the person supplied or by a user further down the chain of supply (although it is not necessary for there actually to be an infringing act). This is not the case here since no wholesaler or pharmacist will use Lecaent to prepare a pharmaceutical composition.”
+ 
+
+	maar in hoger beroep sloot Floyd LJ de mogelijkheid van indirecte inbreuk niet uit mede omdat ([2015] EWCA Civ 556 par. 138:
+ 
+
+“(…) It may be that the invention is put into effect if pregabalin is manufactured by one person and supplied to another who intentionally uses it for the treatment of pain. In those circumstances a person who supplies pregabalin with the requisite knowledge (i.e. that prescribed in section 60(2) itself) does provide means suitable and intended to put the invention into effect albeit by the combination of manufacturer and user rather than by any one person alone. (…).” 
+ 
+
+	(ii) In de bodemprocedure van deze zaak oordeelde Arnold J vervolgens opnieuw dat indirecte inbreuk op een Swiss-type claim niet kan [2015] EWHC 2548 (Pat):
+ 
+
+“684. The fundamental difficulty with Pfizer's claim under section 60(2) remains as it has always done that claims 1 and 3 of the Patent are claims to processes of manufacture but there is no act of manufacture by any party downstream from Actavis nor even the prospect of such an act. This is so even if manufacturing (or "preparation" to use the word in the claims) for this purpose includes packaging with appropriate instructions. In particular there is no act of manufacture by pharmacists nor any prospect of such an act. It follows that although there is no difficulty in concluding that Lecaent's active ingredient is "means relating to an essential element of the invention for putting the invention into effect" Lecaent is not suitable for putting or intended to put the invention into effect: either the invention has already been put into effect by the time that Lecaent leaves Actavis' hands or it is not put into effect at all. Accordingly I conclude that Actavis have not infringed claims 1 and 3 of the Patent pursuant to section 60(2).”
+ 
+
+	(iii) In hoger beroep verwierp Floyd LJ [2016] EWCA Civ 1006 het argument dat alleen de producent zou ‘vervaardigen’ (behoudens het geval van etikettering voor de geoctrooieerde toepassing door de apotheker) want:
+ 
+
+“223. (…) I think there is a danger in translating section 60(2) into a requirement for a "downstream act of manufacture". What is required is that means are provided which are for putting the invention into effect. 
+ 
+
+224. The invention in the present case is the use of pregabalin in the preparation of a pharmaceutical composition for treating pain. As the example of labelling by a pharmacist shows that process is not completed when the pregabalin has been formulated into a pharmaceutical composition by a manufacturer. The process of preparing the composition can continue through any packaging step performed by the manufacturer and includes the labelling step performed by the pharmacist. (…)
+ 
+
+225. I have already concluded when considering direct infringement that the significance of a packaging step is only that it demonstrates the necessary intention. I am therefore unable to understand why other acts of the pharmacist in preparing the composition for delivery to the patient cannot also be regarded as relevant acts of preparation if done with the necessary intention. I cannot agree with the judge that there is no relevant act of preparation by pharmacists nor any prospect of such an act.”
+ 
+
+
+4.22
+De opvatting van Arnold J is aanvaard in Rb. Den Haag 25 november 2015 ECLI:NL:RBDHA:2015:14337 in het tussenvonnis in de bodemprocedure in de zaak Sun/Novartis: 
+
+“4.53. Novartis legt deze conclusies zo uit dat zij zijn gericht op de bereiding van een geneesmiddel die zijn nieuwheid niet aan de vervaardigingswijze (die was al bekend) maar aan zijn bestemming (de tweede medische indicatie) ontleent. Op die conclusies maakt Sun indirecte inbreuk aldus Novartis doordat alvorens het medicijn aan de patiënt wordt toegediend op meerdere momenten in de keten van afnemers aan haar zoledroninezuur 5 mg/100 ml (door de voorschrijver de apotheker de verpleegkundige die het toedient) de bestemming osteoporose wordt gegeven. Novartis meent dan ook dat op meerdere momenten in de keten van afnemers door het geven van de bestemming aan het geneesmiddel de uitvinding wordt toegepast. Sun wist althans behoorde te weten dat dit ging gebeuren en niettemin leverde zij het wezenlijk bestanddeel waarmee de inbreuk gepleegd ging worden. Daarom maakt zij indirecte inbreuk aldus nog steeds Novartis.
+ 
+
+
+4.54.
+De rechtbank is van oordeel dat deze redenering niet opgaat nu die op twee gedachten hinkt en daarmee innerlijk tegenstrijdig is. Uitgaande van een werkwijzeconclusie en aannemende dat het generieke zoledroninezuur aangemerkt dient te worden als een wezenlijk bestanddeel kan ‘voor toepassing van de geoctrooieerde uitvinding’ zoals artikel 73 ROW verwoordt wat conclusie 7 betreft niet anders worden begrepen dan het bereiden (‘the preparation’ zoals conclusie 7 het noemt) van het geneesmiddel zoledroninezuur voor de behandeling van osteoporose. Vast staat echter dat de werkwijze te weten het bereiden van het geneesmiddel nergens in de keten na levering door Sun van het geneesmiddel (meer) wordt toegepast. De andersluidende lezing van Novartis dat toepassing van de geoctrooieerde uitvinding ‘manufacturing’ gelijk moet worden gesteld aan het geven van een bestemming aan het geneesmiddel (product) kan enkel opgaan als een Swiss-type claim wordt aangemerkt als een ‘purpose limited product claim’ zoals de EPC 2000 claims dat zijn althans daarmee gelijkgesteld zou moeten worden. Terecht beroept Novartis zich daar nu juist niet op. Waar Novartis met een verwijzing naar artikel 64 lid 2 EOV betoogt dat ook bij een Swiss-type claim het direct verkregen resultaat van de werkwijze het geneesmiddel is meebeschermd verlaat zij de grondslag van de indirecte inbreuk en betreedt zij het terrein van de directe inbreuk (…).” 
+
+	In het kort geding in de zaak Sun/Novartis oordeelde Gerechtshof Den Haag 27 januari 2015 ECLI:NL:GHDHA:2015:1769 alleen over het in art. 73 ROW 1995 bedoelde wetenschapsvereiste en dat punt speelde ook in cassatie.55
+ 
+
+
+4.23
+Indien men dus bij de uitleg van het tweede medische indicatie-octrooi met Swiss type-claims (enige) betekenis toekent aan het element ‘vervaardigen’ zullen alleen degenen die ‘vervaardigen’ op grond van een directe inbreuk in de zin van art. 53 lid 1 onder b ROW 1995 kunnen worden aangesproken. Dat begrip biedt enige rek maar niet onbeperkt. De producent is de vervaardiger maar zijn aansprakelijkheid wordt gereguleerd door middel van wat in wezen een zorgvuldigheidsnorm is (was het betwiste gebruik van het generieke middel voor de geoctrooieerde indicatie voorzienbaar en zo ja zijn adequate voorzorgsmaatregelen genomen). Dat kan worden beoordeeld met inachtneming van de omstandigheden van het geval en biedt de mogelijkheid tot maatwerk. Of een indirecte inbreuk mogelijk is hangt af van de vraag wat nog onder ‘vervaardigen’ wordt verstaan. 
+
+
+afbakening van de beschermingsomvang aan de hand van bestemmen
+
+
+
+
+4.24
+Anders dan in de tot nu toe besproken benadering zou men bij de uitleg van een tweede medische indicatie-octrooi met Swiss type-claims ook kunnen oordelen dat de werkwijze er slechts voor de vorm in staat om de aandacht meteen te richten op de bestemming. Ook hier – vgl. Rb. Den Haag 5 april 2017 ECLI:NL:RBDHA:2017:3430 rov. 3.15 − is het argument dat de gemiddelde vakman weet dat deze woorden slechts een fictie van vervaardiging uitdrukken die onder EOV 1973 nodig was om tweede medische indicatie-octrooien mogelijk te maken. Aan dit argument wordt thans de consequentie verbonden dat de beschermingsomvang van Swiss type-claims en EPC 2000 claims dezelfde is. Met andere woorden in deze benadering zijn Swiss type-claims in feite als werkwijzeconclusie vermomde doelgebonden productconclusies. 
+
+4.25.1
+Een exponent van deze benadering is BGH 14 juni 2016 (Eli Lilly/Actavis):56 
+
+”a) Nach der Rechtsprechung des Senats ist Gegenstand eines auf die Verwendung eines Stoffs zur Behandlung einer Krankheit gerichteten Patentanspruchs die Eignung des Stoffes für einen bestimmten medizinischen Einsatzzweck und damit letztlich eine dem Stoff innewohnende Eigenschaft (…)
+Für Ansprüche die entsprechend der früheren Rechtspraxis des Europäischen Patentamts auf Verwendung des Stoffs zur Herstellung eines Medikaments gerichtet sind gilt nichts anderes. Diese besondere als Swiss type claim bezeichnete Anspruchsfassung trug dem Umstand Rechnung dass die Verwendung eines Stoffs zur Behandlung einer Krankheit nach Auffassung des Europäischen Patentamts der Patentierung nicht zugänglich war. Die stattdessen gewählte Lösung den Schutz auf die Verwendung zur Herstellung eines Medikaments zu richten ändert nichts daran dass der Sache nach eine besondere Eigenschaft des Stoffs geschützt ist die auch dem hergestellten Medikament innewohnt.
+Eine abweichende Beurteilung ergäbe sich selbst dann nicht wenn Swiss type claims entsprechend ihrem Wortlaut als Ansprüche verstanden würden die auf den Schutz eines Herstellungsverfahrens gerichtet sind. Ausgehend von einem solchen Verständnis wäre ein nach dem geschützten Verfahren hergestelltes Medikament als unmittelbares Verfahrenserzeugnis anzusehen das für den geschützten Verwendungszweck gemäß § 9 (http://lexetius.com/PatG/9) Nr. 3 PatG ebenfalls nur durch den Patentinhaber angeboten in den Verkehr gebracht und gebraucht werden darf. Dies führte im Ergebnis ebenfalls zu einem auf den Verwendungszweck beschränkten Stoffschutz.“
+ 
+
+	Bij deze benadering sluiten zich voor het Nederlandse recht aan Kleemans & Drok.57 Zij wijzen er op dat hoewel er in principe verschil bestaat tussen de  beschermingsomvang van een doelgebonden werkwijzeconclusie en een doelgebonden productconclusie daarover bij Swiss type-claims anders gedacht kan worden.58
+ 
+
+
+4.25.2
+Het BGH oordeelde in Eli Lily/Actavis verder dat het Berufungsgericht ten onrechte de gestelde indirecte inbreuk had afgewezen omdat een beroep werd gedaan op een doelgebonden werkwijzeconclusie. Volgens het BGH heeft het Berufungsgericht hiermee miskend dat de desbetreffende Swiss-type-conclusie een doelgebonden stofbescherming verleent:    
+
+“b) Die Entscheidung des Berufungsgerichts steht in Widerspruch zu diesen Grundsätzen. Das Berufungsgericht hat offengelassen ob das Arzneimittel das die Beklagte vertreiben will vor der Verabreichung in einer Kochsalzlösung aufgelöst werden soll und ob dabei ein Gemisch aus Pemetrexedionen und mindestens doppelt so vielen Natriumionen erzeugt wird. Es hat das diesbezügliche Vorbringen der Klägerin schon deshalb als unerheblich angesehen weil der Patentanspruch auf die Verwendung des Dinatriumsalzes zur Herstellung eines Arzneimittels gerichtet sei.
+Hierbei hat das Berufungsgericht unberücksichtigt gelassen dass auch eine solche Anspruchsfassung beschränkten Stoffschutz gewährt. Eine Verletzung des Klagepatents kann nicht allein wegen dieser Anspruchsfassung abgelehnt werden. Sofern ein Gemisch aus Pemetrexedionen und mindestens doppelt so vielen Natriumionen als Pemetrexeddinatrium im Sinne von Patentanspruch 1 anzusehen ist und ein solches Gemisch vor der bestimmungsgemäßen Verabreichung des Arzneimittels das die Beklagte vertreiben will hergestellt wird ist vielmehr – in Übereinstimmung mit der nach dem Berufungsurteil ergangenen Entscheidung des Court of Appeal for England and Wales (Floyd LJ [2015] EWCA Civ 555 Rn. 74–92) – eine mittelbare Patentverletzung zu bejahen.“
+ 
+
+
+
+4.26
+In Duitsland wordt aangenomen dat van directe inbreuk op een tweede medische indicatie-octrooi pas sprake kan zijn in het geval van “sinnfälige Herrichtung” (Engels: manifest preparation):59 
+
+“(…) It is the “manifest preparation” which makes the act an infringement. The use of a substance for the manufacture of the medicament for a therapeutic use is considered as the beginning of the use for this purpose if there is a manifest preparation. Nevertheless it remains to be determined in each case independently and taking into account all the circumstances what encompasses such manifest preparation. Regarding a medicament all acts and means which specifically relate to the relevant medical use or indication are usually considered preparation as such. That includes: preparation of the substance itself if this reveals the intended pupose; the formulation dosage and packaging; specific instructions for the therapy or dosage regimes; the patient information leaflet; the branding which indicates the specific use or the designation of the product in invoices or shipping documents. In any event it must be clear from those means that the intended use of the medicament is for the patented indication and must be made in direct connection with the product.
+Consequently mere general statements such as advertisement which only explain the general effect of a medicament and which do not relate specifically to the patented use are not considered as sufficient manifest preparation.”60
+ 
+
+Dit lijkt dus ruimer te zijn dan de ‘only packaging will do’-benadering die wel aan het Duitse recht wordt toegeschreven.61
+ 
+
+4.27.1
+Het Landgericht Hamburg heeft in kort geding-uitspraken van 2 april 2015 in de Lyrica-zaken indirecte inbreuk aangenomen omdat een producent deelnam aan een aanbesteding zonder erop te wijzen dat de producent het product niet mocht verhandelen voor de geoctrooieerde indicatie (een carve-out alleen was niet voldoende). Daarbij werd relevant geacht dat een en ander (bijna) automatisch met zich zou brengen dat een apotheker het product zou verstrekken voor de geoctrooieerde indicatie:62 
+
+“bb) Damit erfüllt der uneingeschränkte Beitritt der Antragsgegnerin zu der Rabattvereinbarung (…) ohne Weiteres die Voraussetzungen des objektiven Tatbestandes § 10 Abs. 1 PatG. Denn der Apotheker erhält unstreitig keine Information über den Grund der ärztlichen Verordnung d. h. er weiß nicht für welche Indikation der vor ihm stehende Patient das Präparat erhalten soll. Für die Substitutionsentscheidung des Apothekers ist dies (…) auch nicht von Nöten; denn die Übereinstimmung in einem einzigen Indikationsbereich soll genügen. (…) Apotheker sind damit aufgrund des bestehenden Rabattvertrages im Falle einer Wirkstoffverordnung (…) gehalten grundsätzlich nur das rabattierte Präparat - also hier das der Antragsgegnerin - an Patienten abzugeben (…). Es steht daher einer mittelbaren Patentverletzung nicht entgegen dass die Antragsgegnerin pflichtgemäß ein “skinny labeling“ vorgenommen hat. Denn die Patentverletzung ist eine sicher vorauszusehende Folge des einschränkungslosen Beitritts der Antragsgegnerin zum Rabattvertrag.”
+ 
+
+
+4.27.2
+Ik citeer nog enige overwegingen waarin de rechtbank reageert op eerdere Duitse rechtspraak. Indien in een geval als het onderhavige al de eis van “sinnfälige Herrichtung” gesteld kan worden is daaraan voldaan nu het generieke product gereed is om te worden gebruikt voor de geoctrooieerde indicatie: 
+
+“cc) Soweit die Antragsgegnerin darauf abstellt dass es erst noch eines weiteren Schrittes für ein sinnfälliges Herrichten bedarf kann sie mit diesem Argument gegenüber dem streitgegenständlichen Vorwurf der mittelbaren Patentverletzung nicht durchdringen.
+(1) Es ist bereits fraglich ob für den Tatbestand der mittelbaren Patentverletzung das Kriterium des sinnfälligen Herrichtens bei einem Verwendungspatent überhaupt von Nöten ist. (…)
+(2) Vorliegend ist das Arzneimittel jedenfalls bereits durch seine Herstellung als sinnfällig für die Anwendung im Sinne des vorliegenden Herstellungsverwendungspatents hergerichtet anzusehen als dass es ohne Weiteres zur Behandlung von (neuropathischen) Schmerzen verwendet werden kann. Es bedarf keiner weiteren körperlichen Schritte oder Hinzufügung körperlicher Mittel sondern lediglich einer Zweckbestimmung. Diese Zweck- oder Verwendungsbestimmung trifft vorliegend der substituierende Apotheker § 129 Abs. 1 S. 2 SGB V (…).”
+ 
+
+Het onderhavige geval moet worden onderscheiden van het geval waarin het alleen ging om advertenties (en zelfs van het geval waarin de bijsluiter wijst op gebruik voor de geoctrooieerde indicatie) nu de toepasselijke regelgeving de apotheker verplicht het generieke middel uit te leveren ook voor de geoctrooieerde indicatie:
+ 
+
+“(3) Die Entscheidung des OLG Düsseldorf vom 31.01.2013 Az. I-2 U 54/11 = BeckRS 2013 11782 zitiert nach juris wonach allgemeine Werbeankündigungen kein sinnfälliges Herrichten der in Verkehr gebrachten Sache darstellen - und damit keine unmittelbare Patentverletzung zu begründen vermögen - weil sie nicht den notwendigen unmittelbaren Zusammenhang mit dem Produkt selbst aufweisen der erst dessen Verwendung in der zweckgerichteten Weise gewährleiste steht dem nicht entgegen. In dem Verfahren hatte der Kläger „auf ausdrücklichen richterlichen Hinweis bewusst an seinen auf eine unmittelbare Patentverletzung zugeschnittenen Klageanträgen festgehalten und ausdrücklich erklärt […] Ansprüche wegen mittelbarer Patentverletzung nicht geltend zu machen“ und damit dem OLG Düsseldorf die Möglichkeit entzogen die Frage der mittelbaren Patentverletzung prüfen zu dürfen. Entscheidender Unterschied zu der vorliegenden Konstellation war zudem dass derartige allgemeine Werbeankündigungen naturgemäß keine regulatorischen Rechtsfolgen nach sich ziehen insbesondere nicht die des § 129 Abs. 1 Sätze 2 und 3 SGB V. Die jeden Apotheker bindenden regulatorischen Vorgaben dieser Normen des Sozialrechts entfalten hingegen eine völlig andere Lenkungswirkung als allgemeine Werbeankündigungen. Ihre Lenkungswirkung übertrifft im Grunde sogar die Lenkungswirkung der Indikationsangaben in der Gebrauchsinformation selbst weil die Übereinstimmung in einer Indikation bereits genügt und nach Auffassung des Gesetzgebers und maßgeblicher beteiligter Akteure (vgl. Anlage ASt 26) auch genügen soll und der Apotheker wie gesagt bei seiner Substitutionsentscheidung die Indikation nicht kennt.”
+ 
+
+Hieruit volgt ook dat het LG Hamburg een andere rechtsopvatting heeft dan het LG Düsseldorf:
+ 
+
+“(5) Das Landgericht Düsseldorf hatte in seiner Ribavirin-Entscheidung vom 24.02.2004 Az. 4a O 12/03 (= GRUR-RR 2004 193) die mittelbare Verletzung eines Verwendungspatentes verneint und u. a. das Folgende ausgeführt (Rn. 82 zitiert nach juris): 
+„Eine mittelbare Verletzung des Verwendungspatentes liegt - unter den sonstigen Voraussetzungen des § 10 PatG - vor wenn der nicht hergerichtete Stoff zum Zweck erfindungsgemäßer Anwendung angeboten oder geliefert wird. Nach den Regeln über den Verfahrensschutz würde dies nicht nur dann gelten wenn das Anbieten oder Liefern zum gebrauchsfertigen Herrichten sondern auch zur unmittelbaren Anwendung erfolgt. Jedoch muss bei einem Verwendungspatent die im Sinne eines zweckgebundenen Sachschutzes für das hergerichtete Erzeugnis verstanden werden allein den hierfür und nicht den für den Verfahrensschutz geltenden Grundsätzen gefolgt werden. Für die mittelbare Verletzung bedeutet dies dass sie nur in Betracht kommt wenn das Anbieten oder Liefern zum gebrauchsfertigen Herrichten nicht aber zur unmittelbaren Anwendung erfolgt. Gleiches ergibt sich wenn die Verwendungserfindung durch ein zweckgebundes Stoffpatent geschützt ist [...].“
+Dem schließt sich die erkennende Kammer nicht an. Das Präparat der Antragsgegnerin ist bereits mit der Herstellung sinnfällig hergerichtet jedenfalls vor dem Hintergrund der Vorgaben des § 129 SGB V. Genau mit dieser Problemstellung und den Rechtsfolgen des § 129 Abs. 1 Sätzen 2 und 3 SGB V hatte sich das LG Düsseldorf mangels Sachvortrag nicht auseinanderzusetzen.”
+ 
+
+Teva (pleitnota noot 45) merkt op dat tegen deze uitspraak hoger beroep loopt.
+ 
+
+
+
+4.28
+In de Duitse benadering lijkt dus de nadruk te liggen op de vraag of het geneesmiddel is bestemd voor de geoctrooieerde indicatie waarbij de eis van de “sinnfälige Herrichtung” lijkt te worden gebruikt om te toetsen of de omstandigheden die wijzen op een dergelijke bestemming gerelateerd kunnen worden aan het product van de verweerder. Voorts wordt een indirecte inbreuk mogelijk geacht. 
+
+
+4.29
+Tegen deze achtergrond bespreek ik het middel.63 
+
+
+Onderdeel 1 (beschermingsomvang)
+
+ 
+
+
+4.30
+
+Dit onderdeel ziet op rov. 4.2 4.4 en 4.5 en bestrijdt in de kern dat de beschermingsomvang van een SG-I octrooi beperkt is tot de situatie waarin een derde specifiek aangeeft dat de stof voor de subgroep is bestemd. De beschermingsomvang van uitvindingen is niet in abstracto vast te leggen ook niet per categorie althans niet op de wijze zoals het hof dat doet (onderdeel 1.1). Het hof had de beschermingsomvang aan de hand van een toets in concreto moeten vaststellen (onderdeel 1.2). De maatstaf van het hof biedt onvoldoende bescherming aan de houder van een SG-I octrooi (onderdeel 1.3) en maakt ten onrechte een onderscheid met 2M-I octrooien (onderdeel 1.6). Het hof heeft zijn oordeel over de beschermingsomvang onvoldoende gemotiveerd in het licht van de stellingen van MSD (onderdelen 1.2 en 1.3) en de toepasselijke maatstaf (onderdelen 1.4  1.5 en 1.6). Onderdeel 1.7 bevat geen zelfstandige klacht. 
+		Deze klachten kunnen tezamen worden besproken. 
+ 
+
+4.31.1
+Ik stel voorop dat het hof aan de hand van de octrooiconclusies en de beschrijving64 vaststelt waarop EP 861 berust (rov. 4.1) en constateert dat EP 861 een SG-I octrooi is (rov. 4.2). Verwijzend naar het Protocol overweegt het hof dat de bescherming van de octrooihouder niet verder behoort te gaan dan door zijn uitvinding wordt gerechtvaardigd (rov. 4.2).  
+
+
+4.31.2
+Zie ik het goed dan betrekt het hof vervolgens bij zijn uitleg van het octrooi de voorbehouden handelingen (rov. 4.2)65 als een hulpmiddel om te bepalen wat het octrooi toevoegt aan de stand van de techniek en dus om de beschermingsomvang van het octrooi daarop af te stemmen. Het hof vraagt zich immers af wanneer met het verhandelen van de stof de voordelen van het ‘nieuwe’ gebruik van de stof (rov. 4.3) respectievelijk het gebruik voor de subgroep (rov. 4.4) worden gerealiseerd. Deze aanpak is terug te voeren op Teva’s pleitnota in appel nr. 21 waarnaar het hof verwijst. Daar bepleit Teva dat voor een inbreuk is vereist dat Teva haar ribavirine verhandelt specifiek voor de geoctrooieerde selectie namelijk door de selectie in combinatie met de behandelduur na te streven. In andere gevallen zou volgens Teva slechts sprake zijn van verhandelen van ribavirine voor het reeds bekende vrije gebruik voor de ‘brede’ groep patiënten. Het hof aanvaardt deze gedachte en vertaalt die – zie ik het goed: met enige hierna te noemen nuances − naar de uitleg van het octrooi.  
+
+
+4.31.3
+Het hof overweegt in rov. 4.4 (vierde volzin): ”Om de voordelen van een SG-I uitvinding te realiseren is het daarom nodig dat de stof specifiek voor de subgroep wordt gebruikt (en in casu bovendien voor de specifieke behandelingsduur)”. Het hof komt dan in rov. 4.4 (vijfde volzin) tot de conclusie dat de beschermingsomvang van een SG-I octrooi en dus ook van EP 861 “beperkt is tot de situatie waarin door een derde specifiek wordt aangegeven dat de stof voor de subgroep is bestemd (en in dit geval tevens voor de specifieke behandelingsduur).”  
+
+
+
+4.32
+
+Rov. 4.4 (vierde volzin) sluit op zichzelf aan bij het gegeven dat EP 861 doelgebonden conclusies bevat die zien op het gebruik van ribavirine voor een bepaalde subgroep en behandelduur.66 Ik merk op dat het hof in rov. 4.4 zijn uitleg van het octrooi direct richt op de vraag wanneer het geneesmiddel is bestemd voor de geoctrooieerde tweede medische indicatie. Het hof gaat niet in op de in EP 861 verwoorde werkwijze (‘bereiden’).67 Het hof gaat evenmin in op een eventueel ‘mentaal element’ als ‘oogmerk’ of ‘redelijke voorzienbaarheid’ aan de zijde van de generieke producent of verhandelaar.68 Het hof neemt niet de terminologie ‘nastreven’ van Teva over en verwijst niet naar het vervolg van Teva’s stellingen (pleitnota in appel nr. 22) dat tevens is vereist dat Teva haar ribavirine ook doelbewust verhandelt specifiek voor de in EP 861 bedoelde selectie omdat dit wordt bedoeld met het woordje “for” in “treating for” in Swiss-type conclusies (met verwijzing naar de opvatting van Arnold J). Evenmin onderzoekt het hof of het woord ‘voor’ in dergelijke conclusies betrekking zou kunnen hebben op objectieve voorzienbaarheid van het geoctrooieerde gebruik van het middel (zoals door Floyd LJ was aangenomen en recent door Rb. Den Haag 5 april 2017 ECLI:NL:RBDHA:2017:3430 is overgenomen). 
+Nu het hof zich alleen richt op de vraag wanneer het geneesmiddel wordt gebruikt voor de geoctrooieerde tweede medische indicatie beperk ik mijn bespreking daartoe.
+ 
+
+
+4.33
+Het hof zoekt begrijpelijkerwijs naar een manier om te onderscheiden tussen gebruik van het generieke geneesmiddel voor de uit Grint reeds bekende indicatie en het gebruik ervan voor de in EP 861 bedoelde indicatie. Bij de bepaling van de beschermingsomvang van een SG-I octrooi moet immers iets worden gedaan met het gegeven dat de patiënten die thans vallen in de door het octrooi gedefinieerde subgroep reeds vóór de verlening van het SG-I octrooi werden of konden worden behandeld met het middel. Concreet: bij het gebruik van ribavirine voor de reeds bekende indicatie (Grint: patiënten met chronische hepatitis C) en behandelduur (Grint: 6 tot 12 maanden) kunnen er onder de behandelde patiënten immers ook patiënten zijn die (aangenomen dat de desbetreffende gegevens bekend zijn blijken te) voldoen aan de in EP 861 genoemde kenmerken (naïeve patiënt met een HCV genotype 1 infectie en een virale belasting van meer dan 2 miljoen kopieën per ml serum) en behandelduur (ongeveer 40-50 weken). Hoe moet nu worden onderscheiden tussen gebruik van ribavirine voor de groep en voor de subgroep? 
+
+
+4.34
+Op dit punt moet naar mijn mening een onderscheid worden gemaakt tussen de situatie vóórdat EP 861 werd verleend en de situatie na verlening. Vóórdat EP 861 werd verleend behoorden patiënten met de later in EP 861 geopenbaarde kenmerken tot de gehele groep – van een subgroep was toen nog geen sprake. Aangenomen dat EP 861 nieuw en inventief is kan worden gezegd dat voordat de subgroep werd gedefinieerd in EP 861 zij als zodanig niet bestond. De stelling dat de subgroep vóór de verlening van EP 861 ook al werd behandeld met ribavirine is strikt gesproken innerlijk tegenstrijdig omdat zij berust op kennis die eerst door EP 861 is geopenbaard.69 Pas na het verlenen van EP 861 kan een zinvol onderscheid worden gemaakt tussen de groep en de subgroep dat wil zeggen de vraag worden gesteld of het generieke geneesmiddel is bedoeld voor behandeling van een patiënt die behoort tot de groep dan wel tot de subgroep. 
+
+
+4.35
+Nu is een mogelijke opvatting dat na verlening van EP 861 patiënten met de in EP 861 geopenbaarde kenmerken niet meer behoren tot de groep maar alleen nog tot de subgroep. De subgroep is per definitie afgescheiden van de rest van de groep. In deze opvatting zou de beschermingsomvang van EP 861 zich uitstrekken tot elk gebruik van ribavirine voor behandeling van patiënten die behoren tot de subgroep. 
+
+
+4.36
+
+Het hof lijkt echter uit te gaan van een andere opvatting die erop neerkomt dat ook na verlening van EP 861 de groep en de subgroep niet per definitie van elkaar zijn afgescheiden. Indien sprake is van een patiënt met de in EP 861 bedoelde kenmerken die wordt behandeld met ribavirine zal moeten worden bezien of die behandeling berust op een toepassing van Grint dan wel op een toepassing van EP 861. Alleen het laatste geval valt volgens het hof binnen de beschermingsomvang van EP 861.
+	Het hof formuleert in de vierde volzin van rov. 4.4 de toets dat de stof specifiek voor de subgroep wordt gebruikt (en in casu voor de specifieke behandelingsduur). De reden hiervoor is dat volgens het hof alleen dan het gebruik van de stof berust op de nieuwe kennis en de voordelen van EP 861 worden gerealiseerd.70 Het woord ‘specifiek’ waarmee de beschermingsomvang van EP 861 wordt afgebakend betreft daarmee gebruik van de stof dat is gericht op de in EP 861 omschreven patiëntensubgroep en behandelduur.
+Het is in deze redenering dus ook mogelijk dat de stof (niet specifiek maar) ‘toevallig’ wordt gebruikt in een geval dat valt onder EP 861. Dan wordt zo begrijp ik het hof nog steeds Grint toegepast. Hierop doelt het hof naar mijn mening in rov. 4.4 derde volzin: “Het was immers al in de stand van de techniek bekend om de stof te gebruiken voor de groep patiënten waarvan de subgroep deel uitmaakt zodat die stof ook kon worden gebruikt voor de behandeling van die subgroep.” Het hof verwerpt daarmee de gedachte dat de beschermingsomvang van een SG-I octrooi zoals EP 861 zich uitstrekt tot het enkele feit dat een tot de subgroep behorende patiënt wordt behandeld met het middel. 
+ 
+
+
+4.37
+Indien mijn lezing van het arrest de juiste is dan vertoont het bij 4.36 bedoelde afbakeningsprobleem tussen de vrije indicatie en de tweede medische indicatie bij SG-I octrooien waarvoor het hof een oplossing zocht mogelijk toch verwantschap met het afbakeningsprobleem bij 2M-I octrooien. Ook bij 2M-I octrooien kan immers de vraag rijzen of een middel ‘toevallig’ dan wel ‘specifiek’ voor de tweede indicatie wordt gebruikt. Ik verwijs naar het voorbeeld van Floyd LJ over het gebruik van pregabaline voor de vrije indicatie waarbij ook pijnbestrijding (de tweede indicatie) optreedt echter zonder dat het geneesmiddel is voorgeschreven voor pijnbestrijding.71 
+
+
+4.38
+De vraag of de beschermingsomvang van een SG-I octrooi ziet op elk gebruik van de stof voor de subgroep dan wel alleen op ‘specifiek’ gebruik van de stof voor de subgroep kan naar mijn mening niet in abstracto worden beantwoord maar zal moeten worden bepaald door uitleg van het octrooi. In dit verband zou bijvoorbeeld relevant kunnen zijn in hoeverre het SG-I octrooi zich onderscheidt van de stand van de techniek. Indien bijvoorbeeld de bestaande kennis de toepassing van de stof voor de bekende therapeutische behandeling omvat maar de praktijk daarvan weinig gebruik maakt (bijvoorbeeld omdat deze toepassing voor de gehele patiëntengroep wisselende resultaten biedt en daarom niet zo succesvol is terwijl er meer succesrijke alternatieve middelen beschikbaar zijn en worden gebruikt) kan een SG-I octrooi wellicht veel toevoegen aan die kennis (bijvoorbeeld wanneer de stof speciaal bij een nader gedefinieerde subgroep wel goed blijkt te werken). Dan ligt wellicht meer voor de hand om te concluderen dat de beschermingsomvang van het SG-I octrooi zich uitstrekt tot elk gebruik van de stof voor de subgroep. 
+
+
+4.39
+In ieder geval lijkt het mij niet juist om de in rov. 4.4 (vierde volzin) aan de hand van ‘specifiek gebruik’ beschreven beschermingsomvang te beperken zoals het hof in rov. 4.4 (vijfde volzin) doet tot gevallen waarin een derde specifiek aangeeft dat de stof voor de subgroep is bestemd. Ik meen dat het middel daarover terecht klaagt.  
+
+4.40.1
+Indien met de derde wordt gedoeld op de producent/handelaar die op de SmPC en/of bijsluiter aangeeft dat het middel bestemd is voor de geoctrooieerde indicatie – de situatie waarop het hof blijkens rov. 5.2 lijkt te doelen – dan is inderdaad de beschermingsomvang van het octrooi in het geding. Maar uitgaande van de wijze waarop het hof de beschermingsomvang van het SG-I octrooi afbakent is ook buiten dat geval denkbaar dat de producent de voordelen van het octrooi realiseert of dat de generieke stof specifiek wordt gebruik voor de subgroep.  
+
+
+4.40.2
+Zo merkt Blomme in zijn noot onder het bestreden arrest op dat de voordelen van het geoctrooieerde bij SG-I octrooien (evenals bij 2M-I octrooien) ook kunnen worden gerealiseerd indien uit de concrete feiten en omstandigheden zou blijken dat de derde een preferentiële afspraak met een ziektekostenverzekeraar heeft gemaakt dat de specifieke subgroep met diens generieke geneesmiddel wordt behandeld. 72 De producent/handelaar realiseert dan de voordelen van het octrooi zonder aan te geven (op de SmPC en/of bijsluiter) dat zijn middel voor de subgroep is bestemd. 
+
+
+4.40.3
+Voorts is denkbaar dat de generieke stof specifiek wordt gebruik voor de subgroep zonder dat de producent/handelaar (op de SmPC en/of bijsluiter) aangeeft dat de stof daarvoor is bestemd. Zelfs ondanks een op zichzelf adequate carve-out in de SmPC en/of bijsluiter kan dat het geval zijn en kan de producent/handelaar dus de voordelen van het octrooi realiseren. Medische beroepsbeoefenaren zijn voor hun informatievergaring niet afhankelijk van de bij het middel zelf geleverde informatie en kunnen dat middel ook zonder die informatie (‘specifiek’) gebruiken voor de geoctrooieerde indicatie. Dan valt nog te bezien of de producent/verhandelaar onder die omstandigheden inbreuk op EP 861 maakt maar de beschermingsomvang van EP 861 is dan wel in het geding 
+
+
+
+4.41
+MSD (pleitnotities nr. 6) wijst erop dat de door het hof uiteindelijk in rov. 4.4 (vijfde volzin) omschreven beperkte beschermingsomvang zou “betekenen dat een generieke aanbieder door enkel een carve-out op te nemen in de SmPC aan inbreuk kan ontsnappen zelfs wanneer hij weet dat zijn product op grote schaal voor de geoctrooieerde uitvinding wordt toegepast en dus ook weet dat die carve-out niet effectief is. Van een redelijke bescherming van de octrooihouder van SG-I octrooien is dan eenvoudigweg geen sprake meer.” Ik ben geneigd deze kritiek te delen.  
+
+
+4.42
+Tot slot merk ik op dat de door het hof in rov. 4.4 (vijfde volzin) omschreven beschermingsomvang iedere discussie over de mogelijkheid van een indirecte inbreuk al lijkt af te snijden nu in die beschermingsomvang per saldo het bestaan van een directe inbreuk (te weten: specifiek aangeven dat de stof voor de subgroep is bestemd) is verwerkt. Dat maakt voor Swiss-type claims wellicht niet uit indien zou moeten worden aangenomen dat daarop geen indirecte inbreuk kan worden gemaakt maar legt in ieder geval een hypotheek op de uitleg van SG-I octrooien in de vorm van EPC 2000 claims. 
+
+4.43.1
+
+Ik kom tot de volgende slotsom. Voor zover het middel klachten richt tegen rov. 4.2 kan naar mijn mening niet gezegd worden dat het hof zoals onderdeel 1.1 aanvoert de beschermingsomvang van EP 861 abstract en niet aan de hand van een toets in concreto heeft vastgesteld (ook al wordt het onderscheid tussen SG-I octrooien en 2M-I octrooien m.i. uiteindelijk te zwaar aangezet). Het hof heeft in zijn oordeel naar mijn mening het perspectief van de gemiddelde vakman betrokken (vgl. rov. 5.2) anders dan de rechtsklacht van onderdeel 1.2 aanvoert.
+		Ik meen dat het onderdeel terecht klaagt over de wijze waarop het hof het onderscheid tussen 2M-I octrooien en SG-I octrooien heeft uitgewerkt in rov. 4.4. Naar mijn mening slagen de daarop gerichte klachten van de onderdelen 1.2 en 1.3. Eveneens slaagt de motiveringsklacht in onderdeel 1.2 (herhaald in onderdeel 1.3). Het middel klaagt daar terecht dat het oordeel van het hof over de beschermingsomvang van EP 861 onvoldoende (begrijpelijk) is gemotiveerd in het licht van de door MSD aangevoerde gezichtspunten dat (i) er op de prioriteitsdatum nog veel onduidelijkheden waren in verband met de combinatietherapie van interferon alfa en ribavirine (ii) de stand van de techniek juist duidelijk wegleidde van de leer van de uitvinding (iii) de uitvinding een verrassend succes vormde en (iv) de therapie volgens de uitvinding ook in de praktijk een groot succes is. Uit de motivering van het hof blijkt namelijk niet of en zo ja in hoeverre het hof deze stellingen in zijn oordeel heeft betrokken terwijl zij wel relevant kunnen zijn voor de afbakening van de beschermingsomvang (zie bij 4.38). De overweging in rov. 4.1 dat EP 861 “alleen maar berust” op de vaststelling etc. lijkt mij in ieder geval een onvoldoende respons op deze stellingen van MSD. In verband hiermee meen ik dat onderdeel 1.3 ook slaagt voor zover daarin de vierde volzin van rov. 4.4 op de korrel wordt genomen. Voor zover de motiveringsklacht van onderdeel 1.4 ook ziet op de in de onderdelen 1.2 en 1.3 bedoelde stellingen slaagt zij eveneens.
+ 
+
+
+4.43.2
+
+Onderdeel 1.5 wordt voorgesteld voor zover het hof slechts de bedoeling heeft gehad tot uitdrukking te brengen dat de categorie waartoe het octrooi behoort (mede) moet worden meegewogen bij de inbreukvraag en stelt dat zijn oordeel dan onvoldoende begrijpelijk is gemotiveerd. Deze klacht faalt bij gebrek aan feitelijke grondslag aangezien het hof blijkens rov. 4.1-4.5 en het kopje boven deze overwegingen de categorie van het octrooi juist van belang acht voor het bepalen van de beschermingsomvang.   
+
+
+4.43.3
+
+
+Onderdeel 1.6 richt nog een afzonderlijke klacht tegen rov. 4.5 die varieert op de reeds besproken klachten van onderdeel 1; onderdeel 1.6 behoeft daarom geen behandeling meer. Bovendien betoogt onderdeel 1.7 terecht dat het slagen van onderdeel 1 ook deze overweging aantast.
+Onderdeel 1.7 betoogt voorts terecht dat het slagen van onderdeel 1 meebrengt dat de oordelen in rov. 5.2-5-5 (rov. 5.1 bevat slechts een aanname van het hof) rov. 6.2-6.5 (rov. 6.1 bevat slechts een aanname van het hof) rov. 7.1 en rov. 7.3 tot en met 7.5 niet in stand kunnen blijven. 
+Hoewel het onderdeel 1.7 ook verwijst naar rov. 7.2 meen ik dat die overweging niet door het slagen van onderdeel 1 wordt aangetast. Hierin overweegt het hof gemotiveerd dat niet kan worden aangenomen dat de (niet van carve-outs voorziene) SmPC’s en bijsluiters van vóór 22 januari 2010 nog invloed hebben gehad op de kennis van het publiek en daarmee het voorschrijfgedrag van artsen nu Teva’s ribavirine geruime tijd daarna (in juni of oktober 2011) op de markt is gekomen. Tegen rov. 7.2 is verder geen klacht gericht.
+ 
+
+
+
+4.44
+Teva (pleitnota nr. 3.11) voert nog aan dat MSD geen belang heeft bij onderdeel 1 omdat – zo begrijp ik – zelfs als dit onderdeel zou slagen “er geen sprake is van inbreuk nu Teva immers een carve-out heeft toegepast waarbij zij die subgroep expliciet heeft uitgesloten”. Dit verweer faalt. Het oordeel van het hof over de directe inbreuk bouwt immers voort op het oordeel dat door onderdeel 1 met succes wordt bestreden. Voorts ziet het verweer eraan voorbij dat het oordeel dat door onderdeel 1 wordt bestreden ook ten grondslag ligt aan het oordeel van het hof over de indirecte inbreuk. 
+
+
+Onderdelen 2 tot en met 6
+
+ 
+
+4.45.1
+De onderdelen 2 t/m 6 die klachten richten tegen de oordelen over de directe inbreuk de indirecte inbreuk het bewijsaanbod en de vordering uit onrechtmatige en tegen de slotsom en het dictum behoeven geen bespreking meer. Na cassatie en verwijzing kunnen deze kwesties zo nodig opnieuw aan de orde komen. Ten overvloede merk ik op dat deze onderdelen naar mijn mening slagen.  
+
+
+4.45.2
+
+Onderdeel 2 klaagt terecht dat het oordeel van het hof in rov. 5.2-5.5 dat voor directe inbreuk in ieder geval is vereist dat de gemiddelde vakman op grond van de SmPC en/of de bijsluiter bij Teva’s generiek ribavirine zal menen dat deze specifiek bestemd is voor de in rov. 4.1 genoemde subgroep getuigt van een onjuiste rechtsopvatting. Dit oordeel bouwt blijkens rov. 5.2 voort op de onjuiste vaststelling van de beschermingsomvang in rov. 4.4. 
+
+
+4.45.3
+
+Onderdeel 3 klaagt terecht over het oordeel in rov. 6.2-6.5 over de indirecte inbreuk dat blijkens rov. 6.5 eveneens voortbouwt op de onjuiste vaststelling van de beschermingsomvang in rov. 4.4. Ook de klacht dat het hof een verkeerde uitleg heeft gegeven aan het wezenlijk bestanddeel-vereiste van art. 73 ROW 1995 slaagt volgens mij zoals hierna nog zal worden toegelicht. 
+
+
+4.45.4
+
+Onderdeel 4 klaagt terecht dat het hof het aanbod van MSD om te bewijzen dat artsen en apothekers door het voorschrijven van Teva’s ribavirine en/of patiënten door het gebruik daarvan de uitvinding van EP 861 toepassen heeft gepasseerd. Dergelijk bewijs is wel degelijk ter zake dienend aangezien daarmee mogelijk kan worden aangetoond of Teva’s product binnen de beschermingsomvang van het octrooi valt dat wil zeggen of Teva’s generieke ribavirine ook (doelgebonden) wordt gebruikt (of dreigt te worden gebruikt) voor de patiëntensubgroep en behandelingsduur zoals beschreven in EP 861. 
+
+
+4.45.5
+
+Onderdeel 5 is gericht tegen het oordeel in rov. 7.3 dat er geen ruimte is om over de vordering uit onrechtmatige daad anders te oordelen dan over de vorderingen uit octrooi-inbreuk nu MSD aan haar beroep op onrechtmatige daad sec geen andere feiten ten grondslag heeft gelegd dan aan haar beroepen op directe en indirecte octrooi-inbreuk. Nu het oordeel over de directe en indirecte inbreuk niet in stand kan blijven geldt dat ook voor dit oordeel.  
+
+
+4.45.6
+
+Onderdeel 6 bevat ten slotte een veegklacht die gelet op het voorgaande eveneens terecht is voorgesteld.  
+
+
+Aanvullende opmerkingen
+
+ 
+
+
+
+4.46
+Met het oog op het mogelijke debat na cassatie en verwijzing maak ik nog enige aanvullende opmerkingen over Swiss-type claims en over het Senseo-arrest. 
+
+
+4.47
+
+MSD (s.t. 89 en 122) bepleit aansluiting bij de ‘voorzienbaarheidsbenadering’ en Teva (pleitnota 3.8 3.14) bij de ‘oogmerkbenadering’ uit de Engelse zaak Warner-Lambert v. Actavis. Zoals ik hiervoor aangaf zien die benaderingen op aspecten van de uitleg van het octrooi waarover het hof zich in de onderhavige zaak nog in het geheel niet heeft uitgelaten. 
+Ook heeft het hof zich niet uitgelaten over de vraag of een indirecte inbreuk op een Swiss-type claim wel mogelijk is. Teva (pleitnota nr. 7.5 e.v.) werpt op dat dit niet mogelijk is zodat om die reden onderdeel 3 belang mist. MSD (dupliek nr. 8 e.v.) bestrijdt dat standpunt maar meent primair dat dit punt in deze cassatieprocedure niet aan de orde kan komen.
+Naar mijn mening kan het cassatiemiddel worden beoordeeld zonder op deze kwesties in te gaan. Voor het geval de Hoge Raad daaraan wel overwegingen (ten overvloede) zou wensen te wijden merk ik het volgende op. 
+ 
+
+
+4.48
+
+Bij al deze punten speelt de vraag welke betekenis moet worden toegekend aan de werkwijze die in een Swiss-type claim is opgenomen. Hier moet een keuze worden gemaakt. Naar mijn mening is duidelijk dat de achtergrond van dergelijke conclusies meebrengt dat het daarin opgenomen element van vervaardigen een fictie is.
+Het gezichtspunt dat bij de uitleg van een octrooi “de achter de woorden van de conclusies liggende uitvindingsgedachte” ertoe dient om “een uitsluitend op de letterlijke betekenis van de bewoordingen gegronde en daarom voor een redelijke bescherming van de octrooihouder wellicht te beperkte of onnodig ruime uitleg te vermijden” − zie laatstelijk HR 5 februari 2016 (Bayer/Sandoz) − biedt een aanknopingspunt om de fictieve vervaardigingsstap in een Swiss-type claim het juiste gewicht te geven. 
+Dat gewicht is mijns inziens dat gegeven deze fictie het element ‘vervaardigen’ een holle frase is: het staat er maar het ziet in werkelijkheid niet op de te beschermen uitvinding. Het element is daarmee naar mijn mening in beginsel inhoudelijk betekenisloos voor de bepaling van de beschermingsomvang van een Swiss type-claim. Ik voel mij in die gedachte gesteund door het gegeven dat bij de verlening ‘van de ene op de andere dag’ (29 januari 2011) Swiss type claims in de ban zijn gedaan en is overgestapt op EPC 2000 claims.73  Dan moet toch ook bij het bepalen van de beschermingsomvang worden gestreefd naar een convergentie van beide soorten conclusies.
+ 
+
+
+4.49
+Dit betekent volgens mij dat de vervaardigingsstap in een Swiss type conclusie niet mag meebrengen dat de octrooihouder geen bescherming toekomt in situaties waarin die bescherming wel gerechtvaardigd is. De situatie waarin de producent/handelaar van een generiek geneesmiddel weet of met voldoende mate van zekerheid kan voorzien dat zijn geneesmiddel niettegenstaande een carve-out in de SmPC of bijsluiter zal worden gebruikt voor de geoctrooieerde indicatie maar geen adequate maatregelen treft om dat gebruik tegen te gaan is naar mijn mening een dergelijke situatie. Dit is mijns inziens ook het normatieve uitgangspunt dat ten grondslag ligt aan het oordeel van het hof en de Hoge Raad in de zaak Sun/Novartis al werd dat oordeel gegeven in een ander juridisch kader (het wetenschapsvereiste van art. 73 lid 1 ROW 1995). Met A-G Van Peursem ben ik het eens dat daarbij voldoende is dat de maatregelen de inbreuk bemoeilijken en het gebruik van het middel voor de geoctrooieerde indicatie ernstig ontraden.74 Niet kan immers van de producent/verhandelaar van het generieke middel worden verwacht dat hij de inbreuk volledig voorkomt/wegneemt aangezien dit niet in zijn macht ligt.   
+
+
+4.50
+
+Naar mijn mening is het mogelijk hiertoe ruimte te vinden in de inbreukbepalingen van de ROW. Uitgaande van de werkwijze (waarmee lippendienst wordt bewezen aan de tekst van de conclusie) kan men zeggen dat de producent een directe inbreuk in de zin van art. 53 lid 1 onder b ROW 1995 maakt in de hiervoor bedoelde situatie. In die situatie vervaardigt de producent een middel dat voorzienbaar (ook) zal worden gebruikt voor de geoctrooieerde indicatie zodat dit bij gebreke van adequate voorzorgmaatregelen om dat gebruik te voorkomen geacht kan worden door hem (mede) daarvoor bestemd te zijn. Negeert men de werkwijze volledig dan komt toepassing van art 53 lid 1 onder a ROW 1995 in beeld. Nodig is dat mijns inziens niet nu ook de weg van art. 53 lid 1 onder b openstaat.
+	Zou men ervan uitgaande dat de werkwijze een fictie is de situatie door de bril van art. 73 lid 1 ROW 1995 bekijken dan komt het niet aan op de vraag of verderop in de keten door anderen de werkwijze wordt toegepast maar op de vraag of door deze anderen het middel wordt bestemd voor gebruik voor de geoctrooieerde indicatie. Deze bepaling voorziet al in een voorzienbaarheidstoets in de vorm van het wetenschapsvereiste waarop HR 14 april 2017 (Sun/Novartis) is ingegaan.
+		In ieder geval zal zoals reeds ter sprake kwam (bij 4.20.2) moeten worden onderscheiden tussen de productie van het generieke geneesmiddel voor de vrije indicatie en de productie voor de geoctrooieerde indicatie door te onderzoeken van welk deel van de productie voorzienbaar is dat het zal worden gebruikt voor de geoctrooieerde indicatie. Voor zover dat het geval is kan mijns inziens worden teruggevallen op een van de inbreukcategorieën. 
+ 
+
+
+4.51
+Het lijkt overigens (ook los van het voorgaande) in ieder geval wenselijk om in deze zaak iets te zeggen over het “middel betreffende een wezenlijk bestanddeel”-vereiste van art. 73 lid 1 ROW 1995. Het hof heeft immers geoordeeld dat generiek ribavirine niet een middel betreffende een wezenlijk bestanddeel van de uitvinding van EP 861 is. Daarmee wordt een afzonderlijke barrière opgeworpen voor een indirecte inbreuk op een SG-I octrooi. Ik beperk mijn bespreking tot de uitleg die het hof geeft aan het Senseo-arrest van de Hoge Raad. 75 
+
+
+4.52
+In HR 31 oktober 2003 (Senseo) is overwogen:76 
+
+“3.4.1 Onderdeel I van het middel keert zich met rechts- en motiveringsklachten tegen rov. 13–15 van het bestreden arrest. De klacht in onderdeel I(i) houdt in dat het hof ten onrechte althans ontoereikend gemotiveerd heeft geoordeeld dat het octrooi de nadelen van het Amerikaanse octrooi waarvan het in het octrooischrift is afgebakend opheft door wijziging van de houder van het samenstel en niet (ook) door aanpassing van de koffiebuil en daaruit heeft afgeleid dat de desbetreffende koffiebuil die in de stand van de techniek als zodanig dan wel als onderdeel van een ander samenstel bekend was niet als middel betreffende een wezenlijk bestanddeel van de uitvinding heeft aangemerkt.
+ 
+
+3.4.2
+Voor zover het onderdeel klaagt over de uitleg die het hof aldus aan het octrooi heeft gegeven stuit het af op hetgeen hiervoor onder 3.3.2 is overwogen.77 Ook overigens faalt het. De enkele omstandigheid dat een passende koffiebuil noodzakelijk is voor de toepassing van de geoctrooieerde inrichting brengt niet zonder meer mee dat deze buil een middel betreffende een wezenlijk bestanddeel van de uitvinding vormt. Kennelijk en in het licht van de uitleg die het hof aan het octrooi heeft gegeven niet onbegrijpelijk is het hof van oordeel geweest dat de bij de houder passende koffiebuil niet een element vormt van datgene waarmee volgens het octrooischrift de leer van het octrooi zich onderscheidt van de stand der techniek. Dat oordeel geeft niet blijk van onjuiste rechtsopvatting.”  
+
+
+
+4.53
+Op deze uitspraak is de kritiek gekomen dat het resultaat zou zijn dat art. 73 ROW 1995 eigenlijk geen effectieve bescherming meer zou bieden voor indirecte octrooiinbreuk omdat de bescherming feitelijk zou worden beperkt tot wat zelfstandig octrooieerbaar is.78 Ook wordt betwijfeld of “datgene waarmee volgens het octrooischrift de leer van het octrooi zich onderscheidt van de stand der techniek” een geschikt criterium biedt om aan te geven of sprake is van een middel betreffende een wezenlijk bestanddeel in de zin van art. 73 lid 1 ROW 199579 alhoewel daarvoor ook steun is te vinden.80 Het middel nodigt de Hoge Raad uit om de benadering van de Duitse rechtspraak te volgen (zie met name de onderdelen 3.2-3.3 en MSD s.t. nrs. 105 en 125-127). 
+
+
+4.54
+Volgens de lezing van het hof in rov. 6.4 en 6.5 van zijn thans bestreden arrest heeft de Hoge Raad in het Senseo-arrest tot uitdrukking gebracht dat een ‘middel betreffende een wezenlijk onderdeel van de uitvinding’ als bedoeld in art. 73 lid 1 ROW datgene vormt waarmee volgens het octrooischrift de leer van het octrooi zich onderscheidt van de stand van de techniek. Ik vraag mij af of dit in deze overwegingen van de Hoge Raad moet worden gelezen. 
+
+
+4.55
+In de door het hof in de Senseo-zaak aan het octrooi gegeven uitleg − die de Hoge Raad voor rekening van het hof laat: rov. 3.4.2 eerste zin − valt daaronder niet de koffiebuil zelf. Het octrooi zag op de wijziging van de houder van het samenstel in het bijzonder de plaatsing van de groeven in de houder. Het gebruik van een in de houder passende koffiebuil valt buiten de beschermingsomvang van het aldus uitgelegde octrooi. Het hof (rov. 13) stelt de koffiebuil op een lijn met het gebruik van water om koffie te maken. 81 Op basis van deze uitleg van het octrooi door het hof omschrijft de Hoge Raad de koffiebuil in rov. 3.4.2 daarom als iets dat noodzakelijk is voor de toepassing van de geoctrooieerde inrichting. Nu bestaat er verschil van mening of de koffiebuil in deze casus inderdaad slechts deze ‘ondergeschikte’ status heeft. Maar daarvan moet wel worden uitgegaan als de overwegingen van de Hoge Raad worden gelezen. 
+
+
+4.56
+In zijn conclusie sub 46 voor HR 13 januari 2006 ECLI:NL:HR:2006:AU3256 vatte A-G Huydecoper het Senseo-arrest op dit punt als volgt samen: 
+
+“In HR 31 oktober 2003 BIE 2004 47 rov. 3.4.2 werd aangenomen dat een voorziening die voor de toepassing van een octrooi wèl82 noodzakelijk is daarom nog niet noodzakelijkerwijs een middel betreffende een wezenlijk bestanddeel van de uitvinding vormt; en dat men daarover met name anders kan denken wanneer de betreffende voorziening niet een element vormt van datgene waarmee de leer van het octrooi zich van de stand van de techniek onderscheidt.”
+ 
+
+
+4.57
+De overweging van de Hoge Raad dat de enkele omstandigheid dat het gebruik van een koffiebuil (of water zo voeg ik toe) nodig is om de geoctrooieerde inrichting te kunnen toepassen niet zonder meer meebrengt dat deze buil een middel betreffende een wezenlijk bestanddeel van de uitvinding vormt is toegespitst op de omstandigheden van het geval en geeft geen informatie over wat meer in algemene zin moet worden verstaan onder een ‘middel betreffende een wezenlijk bestanddeel van de uitvinding’. Deze overweging geeft geen aanleiding voor de lezing van het hof in rov. 6.4-6.5 van het thans bestreden arrest. In het vervolg van rov. 3.4.2 van het Senseo-arrest overweegt de Hoge Raad dat een door hem aan het hof toegeschreven oordeel niet onjuist of onbegrijpelijk is. Ook die overweging kan mijns inziens niet worden veralgemeniseerd tot de toepasselijke maatstaf. 
+
+
+4.58
+Gelet op het voorgaande is het hof naar mijn mening uitgegaan van een te strikte uitleg van het Senseo-arrest. Hierover wordt terecht geklaagd in onderdeel 3 in het bijzonder in onderdeel 3.10. Ook wijst onderdeel 3.11 mijns inziens terecht op de spanning tussen rov. 6.3 (‘een wezenlijk bestanddeel van de uitvinding’ is niet beperkt tot een element dat op zichzelf nieuw of inventief is) en rov. 6.4-6.5 (een ‘middel betreffende een wezenlijk bestanddeel’ is datgene waarmee het octrooi zich blijkens het octrooischrift onderscheidt van de stand van de techniek). Na verwijzing zal het hof indien het toekomt aan de indirecte inbreukvraag naar ik meen opnieuw moeten toetsen of de stof ribavirine (welke stof - anders dan het koffiebuiltje in de Senseo-zaak - wel onder de beschermingsomvang van het octrooi valt) een middel betreffende een wezenlijk bestanddeel van de uitvinding vormt.83 
+
+
+Proceskosten
+
+ 
+
+
+4.59
+Partijen hebben overeenstemming bereikt over de hoogte van de proceskostenveroordeling in cassatie in de zin van art. 1019h Rv te weten een bedrag van EUR 100.000-.84 
+
+
+
+
+5 Conclusie 
+
+De conclusie strekt tot vernietiging van het bestreden arrest.
+ 
+
+De Procureur-Generaal bij de
+Hoge Raad der Nederlanden
+ 
+
+A-G
+
+
+1
+Rov. 1.1-1.11 van het bestreden arrest van het Gerechtshof Den Haag van 14 juli 2015 ECLI:NL:GHDHA:2015:1899 BIE 2015/53 m.nt. T.M. Blomme. 
+2
+ In het bestreden arrest wordt nog vermeld dat Schering Corporation houdster is van het octrooi. Schering Corporation heet inmiddels MSD. Zie MvG nr. 1.2.
+3
+ In het bestreden arrest staat hier abusievelijk EP 681. 
+4
+ In het bestreden arrest staat hier abusievelijk HVC.
+5
+ Rechtbank Den Haag 10 november 2010 IEPT20101110.
+6
+ Gerechtshof Den Haag 14 juli 2015 ECLI:NL:GHDHA:2015:1899 BIE 2015/53 m.nt. T.M. Blomme.   
+7
+ Zie Teva dupliek nr. 1.1.
+8
+ Zie bijvoorbeeld Huydecoper/Van der Kooij/Van Nispen/Cohen Jehoram Industriële eigendom 1 (2016) nr. 3.3.7.21 – 3.3.7.22; M-H.D.B. Schutjens Octrooirecht en geneesmiddelen (diss. 1993) p. 173 e.v.
+9
+ Hetzelfde geldt voor de vondst van derde en verdere medische indicaties maar dit kan nu verder buiten beschouwing blijven.  
+10
+ Zie Case Law of the Boards of Appeal of the European Patent Office (Eighth Edition July 2016) I.C.7.2.4 (Novelty of the therapeutic application).  
+11
+ Zie T 1399/04 hiervoor onder 2.4.2 deels geciteerd. Zie ook S. Dack Het claimen van medische indicaties BIE 2010 p. 90 en 91.
+12
+ Het hof spreekt in rov. 4.4 van een behandelingsduur. MSD (pleitnotities nr. 5) spreekt van een doseringsregime.
+13
+ Zie bijvoorbeeld A. Benyamini Patent Infringement in the European Community 1993 IIC Studies p. 94: “Altogether the second medical use claim approved by the EPO is a process claim for the manufacture of a known medicament for a specific novel application.”.
+14
+ GKB 5 december 1984 G 5/83.
+15
+ Zie meer uitgebreid: Dr. J. Meier European Patent Office in: J. Bühling e.a. Patent Protection for Second Medical Uses (AIPPI Law Series 2016) p. 5-13; Huydecoper/Van der Kooij/Van Nispen/Cohen Jehoram Industriële eigendom I (2016) nr. 3.3.3.22; R.M. Kleemans en J.D. Drok Interpretatie van Swiss-type claims en EPC 2000 claims IER 2017/3; S. Dack Het claimen van medische indicaties BIE 2010 p. 83-92.  
+16
+ Akte van herziening van het Verdrag inzake de verlening van Europese octrooien München 29 november 2000 Trb. 2002/9 en Trb. 2002/64 en 170 (vertaling). Inwerkingtreding: 13 december 2007 Trb 2007/233.
+17
+ Stb. 2006/22. Inwerkingtreding: 13 december 2007 Stb. 2007/342. 
+18
+ Art. 54 lid 4 EOV en art. 4 lid 5 ROW 1995 zien op eerste medische indicaties.
+19
+ GKB 19 februari 2010 G 2/08 7.1.2.
+20
+ GKB 19 februari 2010 G2/08 7.1.4.
+21
+ Er is op dit moment nog een andere zaak aanhangig bij de Hoge Raad over de beschermingsomvang van een octrooi. Het betreft de cassatie met nr. 16/02891 tegen het arrest van het Gerechtshof Den Haag van 16 februari 2016 ECLI:NL:GHDHA:2016:339 BIE 2016/23 (Astrazeneca c.s./Resolution).   
+22
+ HR 5 februari 2016 ECLI:NL:HR:2016:196 NJ 2016/496 m.nt. CH. Gielen; Ars Aequi AA20160650 m.nt. Th.C.J.A. van Engelen; BIE 2016/15 m.nt. J.H.J. den Hartog en T.M. Blomme (Bayer/Sandoz). Daarvoor HR 4 april 2014 ECLI:NL:HR:2014:816 NJ 2015/11 m.nt. Ch. Gielen; IER 2014/65 m.nt. T.H.B. Iserief en A.M.E. Verschuur; Ars Aequi AA 20140743 m.nt. Th. C.J.A. van Engelen rov. 3.4.2 en 3.5.2 (Medinol/Abbott).  
+23
+ A-G Van Peursem conclusie sub 2.8 voor Sun/Novartis verwijzend naar A-G Huydecoper conclusie sub 22-23 voor HR 25 mei 2012 ECLI:NL:HR:2012:BV3680 NJ 2013/68 (AGA/Occlutech).
+24
+ MSD (s.t. nr. 56) wijst erop dat zij heeft gesteld dat Teva’s generieke ribavirine onder EP 861 valt nu artsen en apothekers het product van Teva voorschrijven voor de geoctrooieerde indicatie. Teva (Teva pleitnota nr. 1.3; Teva dupliek nr. 2.9) heeft betwist dat haar generieke product voor de geoctrooieerde indicatie wordt gebruikt of dreigt te worden gebruikt. MSD wijst er op zichzelf terecht op dat er in cassatie veronderstellenderwijs vanuit kan worden gegaan dat Teva’s generieke ribavirine onder EP 861 valt nu dit door haar is gesteld en het hof daarover geen oordeel heeft gegeven. Zie in dit verband hierna nog de behandeling van onderdeel 4 (onder 4.45.4).
+25
+Huydecoper/Van der Kooij/Van Nispen/Cohen Jehoram Industriële eigendom I (2016) nr. 3.5.4.1.
+26
+ De voorbehouden handelingen zijn geregeld in het nationale recht. Zie art. 64 lid 1 EOV waarbij art. 64 lid 2 EOV wel voorschrijft dat bij een werkwijze octrooi de aan het octrooi ontleende bescherming zich uitstrekt tot het voortbrengsel dat rechtstreeks door die werkwijze is verkregen (vgl. art. 53 lid 1 sub b ROW 1995). 
+27
+Huydecoper/Van der Kooij/Van Nispen/Cohen Jehoram Industriële eigendom I (2016) nr. 3.5.5.12.
+28
+ Zie over achtergrond en functie van deze bepaling nader A-G Van Peursem conclusie sub 2.17 voor HR 14 april 2017 ECLI:NL:HR:2017:692 (Sun/Novartis).
+29
+HR 14 april 2017 ECLI:NL:HR:2017:692 (Sun/Novartis) rov. 3.5.2.
+30
+ S. Dack Het claimen van medische indicaties  BIE 2010 p. 83-84; MSD s.t. nr. 35.
+31
+ Waarbij nog relevant kan zijn of tevens wordt vermeld dat dit gebruik van het middel niet is toegestaan omdat daarmee inbreuk zou worden gemaakt op een (tweede medische indicatie) octrooi.
+32
+ Het verwijderen van de geoctrooieerde indicatie uit de SmPC is toegestaan op grond van art. 11 Richtlijn 2001/83/EG. 
+33
+ Zie rov. 1.6 van het bestreden arrest en vgl. HR 14 april 2017 ECLI:NL:HR:2017:692 (Sun/Novartis) rov. 3.1 sub (viii).
+34
+ Volgens MSD s.t. nr. 29 is uitgangspunt dat artsen hun voorschrijfbeleid op de full label versie (moeten) baseren.
+35
+ Volgens Vzr. Rb Den Haag 15 januari 2016 ECLI:NL:RBDHA:2016:334 JGR 2016/3 m.nt. Lisman (Warner-Lambert/CBG) handelt het CBG in strijd met de jegens de houder van het tweede medische indicatie-octrooi in acht te nemen maatschappelijke zorgvuldigheid door onverplicht en in weerwil van het verzoek van de aanvrager van de betreffende handelsvergunning melding te maken van de geoctrooieerde indicatie zonder daarbij te waarschuwen of zelfs maar aan te geven dat het een geoctrooieerde indicatie betreft. Bij tussenarrest van 14 maart 2017 heeft het hof Den Haag in dit kort geding geoordeeld te overwegen om prejudiciële vragen te stellen aan het Hof van Justitie zo blijkt uit Rb. Den Haag 5 april 2017 ECLI:NL:RBDHA:2017:3430 rov. 2.30.
+36
+ Het voorschrijfbeleid van artsen verschilt van land tot land. Zie voor een overzicht: Kleist et al. Second Medical use Patents for Medicinal Products in the EU: When is Being Skinny not enough? Parmaceut Reg Affairs 2016 5:2. Zie ook J. Bühling e.a. Patent Protection for Second Medical Uses (AIPPI Law Series 2016). 
+37
+ MSD s.t. nr. 32 wijst op de Leidraad doelmatig voorschrijven van geneesmiddelen voor medische specialisten (maart 2011) p. 8 en 11. Daarin is vermeld: “Om kosten te besparen wordt sinds ruim 15 jaar actief gestimuleerd dat huisartsen voorschrijven op stofnaam zodat apothekers generieke geneesmiddelen kunnen afleveren.” en “In principe wordt voorgeschreven op stofnaam. De bedoeling hiervan is dat de apotheker zonder problemen generieke varianten van het middel kan afleveren indien deze beschikbaar zijn. Hierbij dienen wel de adviezen gevolgd te worden zoals vastgelegd in de door de KNMP in januari 2010 opgestelde handleiding geneesmiddelensubstitutie (zie kader). Bij middelen met een geringe therapeutische breedte en bij aandoeningen waarbij zelfs geringe wisselingen in biologische beschikbaarheid of -equivalentie niet kunnen worden geaccepteerd kan op merknaam worden voorgeschreven. Een korte toelichting op het recept kan dan de bedoeling van de voorschrijvend arts laten zien.”
+38
+ MSD s.t. nr. 34 verwijst naar de KNMP handleiding geneesmiddelensubstitutie.
+39
+ Vgl. HR 14 april 2017 ECLI:NL:HR:2017:692 (Sun/Novartis) rov. 3.1 sub (x).
+40
+ In de onderhavige zaak was in de procedure bij de rechtbank (dreigend) gebruik niet aan de orde zie Rb. Den Haag 10 november 2010 IEPT20101110 rov. 2.13 en 4.11.
+41
+ Zie ook MSD s.t. nr. 11 en Teva dupliek nr. 2.1 noot 5.
+42
+ Zie voor een overzicht van de problematiek ook de Working Guidelines bij Q238 (Second medical use and other second indication claims) raadpleegbaar via http://aippi.org/wp-content/uploads/committees/238/WG238English.pdf. Zie ook MSD s.t. nr. 11 en Teva dupliek nr. 2.1 noot 5.
+43
+ Aldus A-G Van Peursem conclusie sub 2.16 voor Sun/Novartis.
+44
+ Of een equivalent als ‘bereiden’.
+45
+ Er zijn uitspraken in eerste en tweede aanleg. De UK Supreme Court heeft op 6 maart 2017 verlof verleend om de zaak aan hem voor te leggen.
+46
+ In [2016] EWCA Civ 1006 par. 184 e.v. wordt aangegeven dat de overwegingen obiter dicta zijn omdat de conclusies van het octrooi waarop Warner-Lambert zich beriep ‘invalid’ zijn.
+47
+ Zie over de apotheker de vervolguitspraak van Floyd LJ [2016] EWCA Civ 1006 par. 191 e.v. en voorts de bij 4.21 bedoelde discussie tussen Arnold J en Floyd LJ. Een Deense rechtbank oordeelde op 25 juni 2015 (A-6-15) dat apotheken directe inbreuk maakten op een second medical use-octrooi van Warner-Lambert/Pfizer omdat zij het generieke pregabilin van Krka van een etiket hadden voorzien waarop de geoctrooieerde tweede medische indicatie stond vermeld en daarmee de laatste vervaardigingsstap uitvoerden. Zie over deze uitspraak Floyd LJ [2016] EWCA Civ 1006 par. 196 en R.M. Kleemans & J.D. Drok Interpretatie van Swiss-type claims en EPC 2000 claims IER 2017/3 p. 20
+48
+ Vgl. MSD s.t. nrs. 14-16 en 73 alwaar ook wordt verwezen naar een uitspraak van deze strekking van het hof Barcelona van 5 juli 2016 
+49
+ Arnold J [2015] EWHC 223 (Pat) par. 8.  
+50
+ Vgl. het oordeel van de TGI Paris van 13 en 26 oktober 2015 (15/58725) in de zaak Warner-Lambert e.a/Sandoz e.a. dat er geen sprake was van inbreuk omdat – kort gezegd – Sandoz een skinny label gebruikte en voorafgaand aan de lancering van haar product een informatie e-mail had verstuurd aan dokters en apothekers dat het product niet was bedoeld voor de geoctrooieerde indicatie. Teva (pleitnota nr 7.8 en noot 44) wijst er terecht op dat de Franse rechter in de zaak het Franse equivalent van art. 73 lid 1 ROW 1995 niet toepasselijk achtte. De zaak werd beoordeeld op basis van het Franse equivalent van art. 73 lid 2 ROW 1995 de regel over algemeen in de handel verkrijgbare producten. Zie voor een Engelse vertaling www.frenchpatentcaselae.info) en over deze uitspraak voorts Floyd LJ [2016] EWCA Civ 1006 par. 193.  
+51
+ Zie ook R. Kleemans IEF 16315.
+52
+ Dit zit dicht aan tegen de vaststelling van de beschermingsomvang met kennelijk dit verschil [2015] EWCA Civ 556: “117. The distinction in the present case between the technical subject matter for which the patentee seeks protection in the claims and the legal rights which flow from it is perhaps obscured because the word "use" appears both in the claim and in section 60(1)(c). However in the claim ("use … in the manufacture") the use is a step in a process whereas in the statutory provision it is concerned with whether there is use by some person of the process as a whole.”
+53
+ Waarvan volgens Arnold J geen sprake was: de arts die de stof voorschrijft voor pijnbestrijding weet niet welk middel de apotheker zal uitleveren; de apotheker die een middel uitlevert weet niet voor welke indicatie dat gebeurt; en de patiënt heeft ter zake geen relevantie intentie. Zie [2016] EWCA Civ 1006 par. 213-215.
+54
+ Ook is denkbaar dat de remedie (verbod schadevergoeding) wordt afgestemd op de inbreukmakende hoeveelheid voortbrengselen.
+55
+ Het rechtbankvonnis in dat kort geding kwam niet toe aan de behandeling van indirecte inbreuk.
+56
+ Bundesgerichtshof 14 juni 2016 X ZR 29/15 (Eli Lilly/Actavis) ov. 83-85. Teva (pleitnota nr. 7.8 wijst op deze uitspraak onder de naam Pemetrexed.
+57
+R.M. Kleemans en J.D. Drok Interpretatie van Swiss-type claims en EPC 2000 claims IER 2017/3.
+58
+ Zie in het kader van de geldigheid echter TKvB 30 januari 2014 T 1780/12 en TKvB 20 oktober 2015 T 1673/11. Vgl. ook GKB 19 februari 2010 G2/08.
+59
+ Dr. J. Bühling Germany par. 2.1 in: J. Bühling e.a. Patent Protection for Second Medical Uses (AIPPI Law Series 2016).
+60
+ Vgl. een uitspraak van de Madrid Court of Appeal van 13 oktober 2016 case 539/07 (Wyeth v Arafarma and Qualtec) welke wordt genoemd en deels geciteerd in Floyd LJ [2016] EWCA Civ 1006 par. 192: “ (…) the Madrid Court of Appeal considered that it was necessary to show that: “… the defendants have marketed their [drug] by having applied for and received the administrative approval for the same for the new patented therapeutic indication or had perfomed another procedure directed at strengthening the use of the same for that new indication.” (emphasis supplied).”  
+61
+ Vgl. [2016] EWCA Civ 1006 par. 190-191.
+62
+ LG Hamburg Urt. v. 2.4.2015 – 327 O 67/15 GRURRS 2015 8240. Zie ook 327 O 143/15 315 O 24/15 327 O 132/15 en 327 O 140/15 (Warner-Lambert/Hexal 1 A Pharma e.a.).
+63
+ Voor meer achtergrondinformatie over de bescherming van en inbreuk op tweede medische indicatie-octrooien verwijs ik naar J. Bühling e.a. Patent Protection for Second Medical Uses (AIPPI Law Series 2016) in welk boek o.a. de situatie in Duitsland Zwitserland Frankrijk Nederland Italië Zweden Denemarken Polen Verenigd Koninkrijk Israël Verenigde Staten van Amerika Canada Australië Japan Korea China India Brazilië en Mexico wordt besproken.   
+64
+ EP 861 bevat geen tekeningen. 
+65
+ De vraag naar de beschermingsomvang en de voorbehouden handelingen dienen in beginsel los van elkaar te worden beoordeeld. Vgl. HR 5 februari 2016 ECLI:NL:HR:2016:196 rov. 3.38  (Bayer/Sandoz) en de conclusie van A-G Van Peursem sub 2.38 in deze zaak. 
+66
+ In het bijzonder in de hierna onderstreepte tekst in conclusie 1 van EP 861: “Het gebruik van ribavirine voor de bereiding van een farmaceutische samenstelling voor de behandeling van een patiënt met chronische hepatitis C infectie voor het vernietigen van detecteerbaar HCV-RNA waarbij de farmaceutische samenstelling dient voor toediening van een werkzame hoeveelheid ribavirine samen met een werkzame hoeveelheid alfa-interferon dat daardoor wordt gekenmerkt dat de ribavirine samen met het alfa-interferon voor toediening is gedurende een tijdsduur van ongeveer 40-50 weken waarbij de patiënt een voor de anti-virale behandeling naïeve patiënt is met een HCV genotype 1 infectie en een virale belasting van meer dan 2 miljoen kopieën per ml serum als bepaald met HCV-RNA kwantitatieve PCR.”
+67
+ Ik lees ook indirecte steun voor deze gedachte in rov. 5.1 waarin het hof  veronderstellenderwijs uitgaat van een geval van directe inbreuk. Daarin wordt weliswaar gewezen op een directe inbreuk op een werkwijzeconclusie in de vorm van het gebruik of de verhandeling van het met de werkwijze rechtstreeks verkregen voortbrengsel (art. 64 lid 2 EOV art. 53 lid 1 sub b ROW) maar bij wijze van voorbeeld.
+68
+ Ik lees ook indirecte steun voor deze gedachte in rov. 6.1 e.v. waarin het hof veronderstellenderwijs uitgaat van een geval van indirecte inbreuk. Het hof bespreekt niet het element wetenschap maar concludeert in rov. 6.5 dat generieke ribavirine geen middel betreffende een wezenlijk bestanddeel van de uitvinding van EP 861 is.
+69
+ Vgl. MSD s.t. nr. 80; T.M. Blomme noot onder het bestreden arrest BIE 2015/53 p. 254.
+70
+ Zie ook Teva dupliek nr. 2.17.
+71
+ Zie [2015] EWCA Civ 556 par. 121: “The prior use of the compound may have in fact produced the effect for example if a patient taking it for GAD or epilepsy was at the time experiencing pain as well. This demonstrates to my mind that it is the intention for which the compound is administered which is at the heart of the invention.” en par. 125: “the subject matter of the invention is concerned with the purpose of acts which are in themselves no different from those which were done before.” Zie voorts [2016] EWCA Cic 1006 par. 216: ”Intentional use is to be distinguished from use where the drug is prescribed for a different indication and without it in any sense being the intention of the treatment a pain condition is in fact treated.”
+72
+ BIE 2015/53 op p. 254. Zie ook R.M. Kleemans & J.D. Drok Interpretatie van Swiss-type claims en EPC 2000 claims IER 2017/3 voetnoot 16. 
+73
+ GKB 19 februari 2010 G 2/08.
+74
+ Zie de conclusie van A-G Van Peursem voor HR 14 april 2017 ECLI:NL:HR:2017:692 (Sun/Novartis) onder 2.25-2.26.
+75
+ Op de uitleg die het hof aan de jurisprudentie van het Bundesgerichtshof heeft gegeven ga ik hier niet verder in nu art. 79 lid 1 sub b RO duidelijk maakt dat de Hoge Raad geen uitspraken vernietigt wegens schending van het recht van vreemde staten. Voor zover het middel daarover klaagt behoeft het geen bespreking (zie met name onderdelen 3.6-3.9 en 3.11) Dat geldt ook voor de klachten over Benyamini (onderdelen 3.4-3.5).
+76
+ HR 31 oktober 2003 ECLI:NL:HR:2003:AI0346 NJ 2006/600 BIE 2004/47 m.nt. J. den Hartog.
+77
+ Te weten dat de uitleg die het hof aan het octrooi heeft gegeven van feitelijke aard is en in cassatie slechts in beperkte mate kan worden getoetst.
+78
+ Zie de noot van J. den Hartog bij dit arrest (BIE 2004/47) alsmede de noot van T.M. Blomme onder het in deze zaak bestreden arrest (BIE 2015/53 op p. 254). Zie ook kritisch W.A. Hoyng Contributory Infringement’ in: D. van Engelen (red.) On the Brink of European Patent Law 2011 p. 73.
+79
+ MSD s.t. nrs. 103-104 verwijst naar BGH4 mei 2004 X ZR 48/03 (Flügelradzähler) en High Court of Justice 22 april 2013 [2013] EWHC 923 (Pat) (Nestec/Dualit) par. 175.
+80
+ Ch. Heath ‘Contributory Patent Infringement – Cases of Repair and Refill‘ in: D. van Engelen (red.) On the Brink of European Patent Law 2011 p. 106-107 en 109 onderschrijft de benadering van het Senseo-arrest maar meent dat de koffiebuil wel “essential in the patent sense” is.
+81
+ Zie in dit verband Kamerstukken II 1984-1985 19 131 p. 34: “De middelen moeten een wezenlijk bestanddeel van de uitvinding betreffen. Niet voldoende is dat de middelen bij de toepassing van de uitvinding gebruikt kunnen worden zij moeten daarbij een essentieel element vormen. Anderzijds is niet nodig dat de middelen speciaal op de uitvinding afgestemd zijn.” Vgl. ook Hoyng Repareren in het octrooirecht (diss. KUB 1988) p. 199-200: “Van 'middelen betreffende een wezenlijk bestanddeel van de uitvinding' zal slechts sprake kunnen zijn als de onderdelen tot de geoctrooieerde combinatie behoren. Het woord 'betreffende' (en ook het Franse 'se rapportant à' en het Engelse 'relating to') laat door zijn vaagheid echter enige twijfel open.”
+82
+ HR 13 januari 2006 ECLI:NL:HR:2006:AU3256 betrof een geval waarin de beweerdelijk inbreukmakende belkaart slechts gebruik maakte van de stand van de techniek en dus los stond van de geoctrooieerde belkaart.
+83
+ Vgl. Arnold J [2015] EWHC 2548 (Pat) par. 684: “(…) there is no difficulty in concluding that Lecaent's active ingredient is "means relating to an essential element of the invention for putting the invention into effect” (…)”. Het Landgericht Hamburg (327 O 143/15 p. 11/22) overwoog: “Es bedarf keiner näheren Erläuterungen dass es sich bei der von der Antragsgegnerin hergestellten Zusammensetzung des Präparats der Antragsgegnerin um ein wesentliches Mittel der Erfindung handelt. Es ist zentraler Bestandteil des Patentanspruchs zu 1. Zu dieser Zusammensetzung muss für die Verwirklichung einer unmittelbaren Patentverletzung nur noch die Verwendung für die Indikation „Schmerzen“ hinzutreten”.
+84
+ Zie de s.t. zijdens MSD onder 151 en de Teva pleitnota onder 6.1. 

@@ -1,0 +1,1069 @@
+
+
+
+
+
+
+
+
+
+
+
+
+vonnis
+RECHTBANK DEN HAAG
+
+Team handel - voorzieningenrechter
+ 
+
+
+Vonnis in kort geding van 8 januari 2019
+
+ 
+
+in de zaak met zaaknummer / rolnummer: C/09/561999 / KG ZA 18-1112 van
+ 
+
+de rechtspersoon naar vreemd recht
+
+G.D. SEARLE LLC.
+te New York Verenigde Staten van Amerika
+eiseres
+advocaat: S.C. Dack barrister en geregistreerd EU-advocaat te Amsterdam
+ 
+
+tegen
+ 
+
+
+SANDOZ B.V.
+te Almere
+gedaagde
+advocaat: mr. D.F. de Lange te Amsterdam.
+ 
+
+Partijen zullen hierna Searle en Sandoz genoemd worden. De zaak is voor Searle inhoudelijk behandeld door de barrister voornoemd en mr. P. Van Schijndel advocaat te Amsterdam met bijstand van dr. J. den Hartog octrooigemachtigde en voor Sandoz door mr. De Lange voornoemd en mr. B.J.M. van der Maazen eveneens advocaat te Amsterdam.
+ 
+
+
+
+1 De procedure
+
+1.1.
+
+Het verloop van de procedure blijkt uit:
+- het vonnis in de provisionele voorziening van 1 november 2018 en de daarin genoemde gedingstukken.
+ 
+
+
+1.2.
+Vonnis is nader bepaald op heden. 
+
+
+
+
+2 De feiten
+
+2.1.
+Prezista® is een anti-retrovirus geneesmiddel voor de behandeling van humaan immunodeficiëntie virus (HIV). De werkzame stof in Prezista® is darunavir. Het is een protease remmer die gebruikt wordt in combinatie met een ander anti-retrovirus geneesmiddel te weten Retonavir®. In Nederland wordt Prezista® op de markt gebracht door Janssen-Cilag B.V. (hierna: Janssen) een zusteronderneming van Janssen Sciences Ierland UC welke laatste entiteit een licentie heeft verkregen van Searle. Janssen en Janssen Sciences Ierland UC behoren tot het Johnson & Johnson concern. De licentiegever Searle behoort tot het Pfizer concern. 
+
+
+2.2.
+Searle ontleende haar (exclusieve) rechten op darunavir aanvankelijk aan Europees octrooi EP 0 810 209 B1 (hierna: EP 209) getiteld ‘Alpha - and beta-amino acid hydroxyethylamino sulfonamides useful as retroviral protease inhibitors’ welk octrooi is verlopen op 23 augustus 2013. Aansluitend aan de looptijd van EP 209 - dat in dit kader als basisoctrooi heeft gediend - heeft Searle op basis van Verordening 469/20091 (hierna: ABC-Vo) voor Nederland  Aanvullend Beschermingscertificaat 300283 voor ‘Darunavir desgewenst in de vorm van een farmaceutisch aanvaardbaar zout of ester in het bijzonder darunavir ethanolaat’ (hierna: het ABC) verkregen. Searle heeft de maximale termijn van 5 jaar verkregen voor dit ABC en daarna nog een half jaar verlenging onder Verordening 1901/2006 voor pediatrische geneesmiddelen. Daarmee is het ABC van kracht tot met 23 februari 2019.  
+
+
+2.3.
+Onafhankelijke conclusies 1 en 5 en de afhankelijke conclusies 2 4 10 en 11 van EP 209 luiden in de authentieke Engelse versie als volgt: 
+1. A compound represented by the formula:
+
+
+
+
+
+
+wherein:
+ 
+
+P1 and P2 independently represent hydrogen alkoxycarbonyl aralkoxycarbonyl alkylcarbonyl cycloalkylcarbonyl cycloalkylalkoxycarbonyl cycloalkylalkanoyl alkanoyl aralkanoyl aroyl aryloxycarbonyl aryloxycarbonylalkyl aryloxyalkanoyl heterocyclylcarbonyl heterocyclyloxycarbonyl heterocyclylalkanoyl heterocyclylalkoxycarbonyl heteroaralkanoyl heteroaralkoxycarbonyl heteroaryloxycarbonyl heteroaroyl alkyl alkenyl cycloalkyl aryl aralkyl aryloxyalkyl heteroaryloxyalkyl hydroxyalkyl aminocarbonyl amino alkanoyl and mono- and disubstituted aminocarbonyl and mono- and disubstituted aminoalkanoyl radicals wherein the substituents are selected from alkyl aryl aralkyl cycloalkyl cycloalkylalkyl heteroaryl heteroaralkyl heterocycloalkyl heterocycloalkylalkyl radicals or where said aminoalkanoyl radical is disubstituted said substituents along with the nitrogen atom to which they are attached form a heterocycloalkyl or heteroaryl radical;
+ 
+
+R2 represents alkyl aryl cycloalkyl cycloalkylalkyl and aralkyl radicals which radicals are optionally substituted with a group selected from alkyl and halogen radicals -NO2 -C≡N CF3 -OR9 -SR9 wherein R9 represents hydrogen and alkyl radicals;
+ 
+
+R3 represents hydrogen alkyl haloalkyl alkenyl alkynyl hydroxyalkyl alkoxyalkyl cycloalkyl cycloalkylalkyl heterocycloalkyl heteroaryl heterocycloalkylalkyl aryl aralkyl heteroaralkyl aminoalkyl and mono- and disubstituted aminoalkyl radicals wherein said substituents are selected from alkyl aryl aralkyl cycloalkyl cycloalkylalkyl heteroaryl heteroaralkyl heterocycloalkyl and heterocycloalkylalkyl radicals or in the case of a disubstituted aminoalkyl radical said substituents along with the nitrogen atom to which they are attached form a heterocycloalkyl or a heteroaryl radical; and
+ 
+
+R4 represents radicals as defined by R3 except for hydrogen;wherein aryl wherever occuring may optionally carry one or more substituents selected from alkyl alkoxy halogen hydroxy amino nitro cyano haloalkyl;
+ 
+
+wherein heterocycle or heteroaryl may optionally be substituted on one or more carbon atoms by halogen alkyl alkoxy oxo and/or on a secondary nitrogen atom by alkyl aralkoxycrbonyl alkanoyl phenyl or phenylalkyl or on a tertiary nitrogen atom by oxido and which is attached via a carbon atom;
+ 
+
+and the pharmaceutically acceptable salt ester or prodrug thereof.
+ 
+2. Compound of claim 1 wherein:
+
+R2 represents cycloalkylalkyl aralkyl alkyl benzyl cyclohexylmethyl 2‑naphthylmethyl para-fluorobenzyl para-methoxybenzyl isobutyl or n-butyl; 
+
+R3 represents alkyl cycloalkyl cycloalkylalkyl isobutyl isoamyl cyclohexyl cyclohexylmethyl n-butyl or n-propyl; and
+ 
+
+R4 represents aryl alkyl aryl para-substituted aryl heteroaryl Phenyl para-methoxyphenyl para-cyanophenyl para-chlorophenyl para-hydroxyphenyl para-nitrophenyl para-fluorophenyl 2-naphthyl 3-pyridyl 3-pyridyl N-oxide 4‑pyridyl or 4-pyridyl N-oxide.
+(…)
+ 
+4. A compound of Claim 1 which is: 
+
+Phenylmethyl[2R-hydroxy-3-[(2-methylpropyl)(phenylsulfonyl)amino]-1S-(phenylmethyl)propyl]carbamate;
+ 
+
+Phenylmethyl[2R-hydroxy-3-[(2-methylpropyl)(4-methoxyphenylsulfonyl) amino]-1S-(phenylmethyl)propyl]carbamate;
+
+Phenylmethyl[2R-hydroxy-3-[(2-methylpropyl)(4-fluorophenylsulfonyl) amino]-1S-(phenylmethyl)propyl]carbamate;
+
+Phenylmethyl[2R-hydroxy-3-[(2-methylpropyl)(4-nitrophenylsulfonyl) amino]-1S-(phenylmethyl)propyl]carbamate;
+
+Phenylmethyl[2R-hydroxy-3-[(2-methylpropyl)(4-chlorophenylsulfonyl) amino]-1S-(phenylmethyl)propyl]carbamate;
+
+Phenylmethyl[2R-hydroxy-3-[(2-methylpropyl)(4-acetamidophenylsulfonyl)amino]-1S-(phenylmethyl)propyl]carbamate;
+
+Phenylmethyl[2R-hydroxy-3-[(2-methylpropyl)(4-aminophenylsulfonyl) amino]-1S-(phenylmethyl)propyl]carbamate;
+
+Phenylmethyl[2R-hydroxy-3-[(3-methylbutyl)(4-methoxyphenylsulfonyl)amino]-1S-(phenylmethyl)propyl]carbamate;Phenylmethyl[2R-hydroxy-3-[(3-methylbutyl) (4-fluorophenylsulfonyl) amino]-1S-(phenylmethyl)propyl]carbamate;
+
+Phenylmethyl[2R-hydroxy-3-[(3-methylbutyl) (4-nitrophenylsulfonyl) amino]-1S-(phenylmethyl)propyl] carbamate;
+
+Phenylmethyl[2R-hydroxy-3-[(3-methylbutyl) (4-chlorophenylsulfonyl) amino]-1S-(phenylmethyl)propyl]carbamate;
+
+Phenylmethyl[2R-hydroxy-3-[(2-methylpropyl) (4-methoxyphenylsulfonyl) amino]-1S-(4-fluorophenylmethyl)propyl]carbamate;
+
+Phenylmethyl[2R-hydroxy-3-[(2-methylpropyl) (4-fluorophenylsulfonyl  amino]-1S-(4-fluorophenylmethyl)propyl]carbamate;
+
+Phenylmethyl[2R-hydroxy-3-[(butyl)(phenylsulfonyl) amino]-1S-(phenylmethyl)propyl]carbamate;
+
+Phenylmethyl[2R-hydroxy-3-[(cyclohexylmethyl)(phenylsulfonyl)amino]-1S-(phenylmethyl)propyl]carbamate;
+
+Phenylmethyl[2R-hydroxy-3-[(cyclohexyl)(phenylsulfonyl)amino]-1S-(phenylmethyl)propyl]carbamate;
+
+Phenylmethyl[2R-hydroxy-3-[(propyl)(phenylsulfonyl)amino]-1S-(phenylmethyl)propyl]carbamate;
+
+Pentanamide 2S-[[(dimethylamino)acetyl]amino]-N-2R-hydroxy-3-[(3-methylpropyl)(4-methoxyphenylsulfonyl)amino]-1S-(phenylmethyl)propyl] -3S-methyl;
+
+Pentanamide 2S-[[(methylamino)acetyl]amino]-N-2R-hydroxy-3-[(4-methylbutyl)(phenylsulfonyl)amino]-1S-(phenylmethyl)propyl]-3S-methyl;
+
+Pentanamide 2S-[[(dimethylamino)acetyl]amino]-N-2R-hydroxy-3-[(4-methylbutyl)(phenylsulfonyl)amino]-1S-(phenylmethyl)propyl]-3S-methyl;
+
+[2R-hydroxy-3-[[(4-methoxyphenyl)sulfonyl](2-methylpropyl)amino]-1S-(phenylmethyl)propylamine;
+
+2R-hydroxy-3-[(2-methylpropyl)(4-hydroxypnenyl)sulfonyl]amino-1S-(phenylmethyl)propylamine;
+
+[2R-hydroxy-3-[(phenylsulfonyl)(3-methylbutyl) amino]-1S-(phenylmethyl) propylamine;
+
+[2R-hydroxy-3-[(phenylsulfonyl)(2-methylpropyl) amino]-1S-(phenylmethyl)propylamine;
+
+[2R-hydroxy-3-[(phenylsulfonyl)(cyclohexylmethyl)amino]-1S-(phenylmethyl)propylamine;
+
+[2R-hydroxy-3-[(phenylsulfonyl)(cyclohexyl)amino]-1S-(phenylmethyl)propylamine;4-PyridinecarboxamideN-[2R-hydroxy-3-[[(4-methoxyphenyl) sulfonyl](2-methylpropyl) amino] -1S-(phenylmethyl)propyl];
+
+BenzamideN-[2R-hydroxy-3-[[(4-methoxyphenyl)sulfonyl](2-methylpropyl)amino]-1S-(phenylmethyl)propyl]-26-dimethyl;
+
+BenzamideN-[2R-hydroxy-3-[[(4-methoxyphenyl)sulfonyl](2-methylpropyl)amino]-1S-(phenylmethyl)propyl]-2-methyl;
+
+BenzamideN-[2R-hydroxy-3-[[(4-methoxyphenyl)sulfonyl](2-methylpropyl)amino]-1S-(phenylmethyl)propyl]-2-ethyl;
+
+BenzamideN-[2R-hydroxy-3-[[(4-methoxyphenyl)sulfonyl](2-methylpropyl)amino]-1S-(phenylmethyl)propyl]-2-chloro;
+
+Carbamic acid [2R-hydroxy-3-[[(4-methoxyphenyl)sulfonyl](2-methylpropyl)amino]-1S-(phenylmethyl)propyl]- 3-pyridylmethyl ester;
+
+Carbamic acid [2R-hydroxy-3-[[(4-methoxyphenyl)sulfonyl](2-methylpropyl)amino]-1S-(phenylmethyl)propyl]- 3-pyridylmethyl ester N-oxide;
+
+Carbamic acid [2R-hydroxy-3-[[phenylsulfonyl](2-methylpropyl)amino]-1S-(phenylmethyl)propyl]- 3-pyridylmethyl ester;
+
+Carbamic acid [2R-hydroxy-3-[[(4-methoxyphenyl)sulfonyl](2-methylpropyl)amino]-1S-(phenylmethyl)propyl]- 4-pyridylmethyl ester;
+
+Carbamic acid [2R-hydroxy-3-[[(4-methoxyphenyl)sulfonyl](2 - methylpropyl)amino]-1S-(phenylmethyl)propyl]- 4-pyridylmethyl ester N-oxide;
+
+Carbamic acid [2R-hydroxy-3-[[(4-chlorophenyl)sulfonyl](2-methylpropyl)amino]-1S-(phenylmethyl)propyl]- 3-pyridylmethyl ester;
+
+Carbamic acid [2R-hydroxy-3-[[(4-nitrophenyl)sulfonyl](2-methylpropyl)amino]-1S-(phenylmethyl)propyl]- 3-pyridylmethyl ester;
+
+Carbamic acid [2R-hydroxy-3-[[(4-fluorophenyl)sulfonyl](2-methylpropyl)amino]-1S-(phenylmethyl)propyl]- 3-pyridylmethyl ester;
+
+Carbamic acid [2R-hydroxy-3-[[(4-hydroxyphenyl)sulfonyl](2-methylpropyl)amino]-1S-(phenylmethyl)propyl]- 3-pyridylmethyl ester; or
+
+Carbamic acid [2R-hydroxy-3-[[(4-methoxyphenyl)sulfonyl](2-methylpropyl)amino]-1S-(phenylmethyl)propyl]- 5-pyrimidylmethyl ester.
+
+5. A compound represented by the formula: 
+
+
+
+
+
+
+wherein
+
+P1 represents alkoxycarbonyl aralkoxycarbonyl alkanoyl cycloalkylcarbonyl cycloalkylalkoxycarbonyl cycloalkylalkanoyl aralkanoyl aroyl aryloxycarbonyl heterocyclylcarbonyl heterocyclyloxycarbonyl heterocyclylalkoxycarbonyl heteroaralkoxycarbonyl heteroaryloxycarbonyl or heteroaroyl radicals;P2 represents hydrogen;R2 represents alkyl aryl cycloalkyl cycloalkylalkyl or aralkyl radicals which radicals are optionally substituted with alkyl halogen -NO2 -CN CF3 -OR9 or SR9 radicals wherein R9 represents hydrogen or alkyl radicals;R3 represents alkyl alkenyl alkynyl hydroxyalkyl alkoxyalkyl cycloalkyl cycloalkylalkyl heterocyclyl heteroaryl heterocyclylalkyl aryl aralkyl or heteroaralkyl radicals; andR4 represents alkyl haloalkyl alkenyl alkynyl cycloalkyl heterocycloalkyl heteroaryl aryl or aralkyl radicals; and
+ 
+
+wherein alkyl alone or in combination is a straight-chain or branched-chain hydrocarbon radical having from 1 to 8 carbon atoms; alkenyl alone or in combination means a straight-chain or branched-chain hydrocarbon radical having one or more double bonds and from 2 to 8 carbon atoms; alkynyl alone or in combination means a straight -chain hydrocarbon radical having one or more triple bonds and from 2 to 10 carbon atoms; cycloalkyl alone or in combination is a hydrocarbon ring containing from 3 to 8 carbon atoms; aryl alone or in combination means a phenyl or naphthyl radical optionally substituted with alkyl alkoxy halogen hydroxy amino nitro cyano or haloalkyl radicals; heterocyclyl or heterocycloalkyl means a saturated or partially unsaturated monocyclic bicyclic or tricyclic heterocycle having one or more nitrogen oxygen or sulphur heteroatoms which is optionally substituted on one or more carbon atoms by halogen alkyl alkoxy or oxo radicals or on a secondary nitrogen atom by alkyl aralkoxycarbonyl alkanoyl phenyl or phenylalkyl radicals or on a tertiary nitrogen atom by oxido radical; and heteroaryl means an aromatic heterocyclyl radical which is optionally substituted as defined above with respect to the definition of heterocyclyl;wherein aryl wherever occuring may optionally carry one or more substituents selected from alkyl alkoxy halogen hydroxy amino nitro cyano haloalkyl;wherein heterocycle or heteroaryl may optionally be substituted on one or more carbon atoms by halogen alkyl alkoxy oxo and/or on a secondary nitrogen atom by alkyl aralkoxycrbonyl alkanoyl phenyl or phenylalkyl or on a tertiary nitrogen atom by oxido and which is attached via a carbon atom;and the pharmaceutically acceptable salt ester prodrug thereof.
+(…) 
+
+10. A retroviral protease inhibiting compound according to claim 1 having the formula
+wherein: 
+
+P1 represents alkoxycarbonyl aralkoxycarbonyl alkylcarbonyl cycloalkylcarbonyl cycloalkylalkoxycarbonyl cycloalkylalkanoyl alkanoyl aralkanoyl aroyl aryloxycarbonyl aryloxycarbonylalkyl aryloxyalkanoyl heterocyclylcarbonyl heterocyclyloxycarbonyl heterocyclylalkanoyl heterocyclylalkoxycarbonyl heteroaralkanoyl heteroaralkoxycarbonyl heteroaryloxycarbonyl heteroaroyl alkyl alkenyl cycloalkyl aryl aralkyl aryloxyalkyl heteroaryloxyalkyl hydroxyalkyl aminocarbonyl aminoalkanoyl and mono- and disubstituted aminocarbonyl and mono- and disubstituted aminoalkanoyl radicals wherein the substituents are selected from alkyl aryl aralkyl cycloalkyl cycloalkylalkyl heteroaryl heteroaralkyl heterocycloalkyl heterocycloalkyalkyl radicals or where said aminoalkanoyl radical is disubstituted said substituents along with the nitrogen atom to which they are attached form a heterocycloalkyl or heteroaryl radical;
+ 
+
+P2 represents hydrogen;
+ 
+
+R2 represents alkyl aryl cycloalkyl cycloalkylalkyl and aralkyl radicals which radicals are optionally substituted with a group selected from alkyl and halogen radicals -NO2 -C≡N CF3 -OR9 -SR9 wherein R9 represents hydrogen and alkyl radicals;
+ 
+
+R3 represents hydrogen alkyl haloalkyl alkenyl alkynyl hydroxyalkyl alkoxyalkyl cycloalkyl cycloalkylalkyl heterocycloalkyl heteroaryl heterocycloalkylalkyl aryl aralkyl heteroaralkyl aminoalkyl and mono- and disubstituted aminoalkyl radicals wherein said substituents are selected from alkyl aryl aralkyl cycloalkyl cycloalkylalkyl heteroaryl heteroaralkyl heterocycloalkyl and heterocycloalkylalkyl radicals or in the case of a disubstituted aminoalkyl radical said substituents along with the nitrogen atom to which they are attached form a heterocycloalkyl or a heteroaryl radical; andR4 represents radicals as defined by R3 except for hydrogen;
+ 
+
+wherein aryl wherever occurring may optionally carry one or more substituents selected from alkyl alkoxy halogen hydroxy amino nitro cyano haloalkyl;wherein heterocycle or heteroaryl may optionally be substituted on one or more carbon atoms by halogen alkyl alkoxy oxo and/or on a secondary nitrogen atom by alkyl aralkoxycrbonyl alkanoyl phenyl or phenylalkyl or on a tertiary nitrogen atom by oxido and which is attached via a carbon atom;and the pharmaceutically acceptable salt prodrug or ester thereof.
+ 
+11. Compound of Claim 10 wherein 
+
+R2 represents cycloalkylalkyl aralkyl alkyl benzyl cyclohexylmethyl 2‑naphthylmethyl para-fluorobenzyl para-methoxybenzyl isobutyl or n-butyl;
+ 
+
+R3 represents alkyl cycloalkyl cycloalkylalkyl isobmyl isoamyl cyclohexyl cyclohexylmethyl n-butyl or n-propyl; and
+ 
+
+R4 represents aryl alkyl aryl para-substituted aryl heteroaryl phenyl para-methoxyphenyl para-cyanophenyl para-chlorophenyl para-hydroxyphenyl para-nitrophenyl para-fluorophenyl 2-naphthyl 3-pyridyl 3-pyridyl N-oxide 4‑pyridyl or 4-pyridyl N-oxide.
+ 
+
+
+2.4.
+Deze conclusies van EP 209 luiden in de onbestreden Nederlandse vertaling als volgt: 
+1. Een verbinding voorgesteld door de formule: 
+
+
+
+
+
+
+waarbij:  
+ 
+
+P1 en P2 onafhankelijk waterstof alkoxycarbonyl aralkoxycarbonyl alkylcarbonyl cycloalkylcarbonyl cycloalkylalkoxycarbonyl cycloalkylalkanoyl alkanoyl aralkanoyl aroyl aryloxycarbonyl aryloxycarbonylalkyl aryloxyalkanoyl heterocyclylcarbonyl heterocyclyloxycarbonyl heterocyclylalkanoyl heterocyclylalkoxycarbonyl heteroaralkanoyl heteroaralkoxycarbonyl heteroaryloxycarbonyl heteroaroyl alkyl alkenyl cycloalkyl aryl aralkyl aryloxyalkyl heteroaryloxyalkyl hydroxyalkyl aminocarbonyl amino alkanoyl en mono- en di-gesubstitueerde aminocarbonyl- en mono- en di-gesubstitueerde aminoalkanoylgroepen voorstellen waarbij de substituenten zijn gekozen uit alkyl aryl aralkyl cycloalkyl cycloalkylalkyl heteroaryl heteroaralkyl heterocycloalkyl heterocycloalkylalkylgroepen of waar genoemd aminoalkanoylgroep di-gesubstitueerd is genoemde substituenten samen met het stikstofatoom waaraan ze zijn gehecht een heterocycloalkyl- of heteroarylgroep vormen; 
+ 
+
+R2 alkyl- aryl- cycloalkyl- cycloalkylalkyl- en aralkylgroepen voorstelt waarbij de groepen optioneel zijn gesubstitueerd met een groep gekozen uit alkyl- en halogeengroepen -NO2 -CN CF3 -OR9 of SR9 waarbij R9 waterstof en alkylgroepen voorstelt; 
+ 
+
+R3 waterstof alkyl haloalkyl alkenyl alkynyl hydroxyalkyl alkoxyalkyl cycloalkyl cycloalkylalkyl heterocycloalkyl heteroaryl heterocycloalkylalkyl aryl aralkyl heteroaralkyl aminoalkyl en mono- en di-gesubstitueerde aminoalkylgroepen voorstelt waarbij genoemde substituenten zijn gekozen uit alkyl aryl aralkyl cycloalkyl cycloalkylalkyl heteroaryl heteroaralkyl heterocycloalkyl en heterocycloalkylalkylgroepen of in het geval van een di-gesubstitueerde aminoalkylgroep vormen genoemde substituenten samen met het stikstofatoom waaraan ze zijn gehecht een heterocycloalkyl- of een heteroarylgroep; en 
+ 
+
+R4 groepen voorstelt zoals gedefinieerd door R3 met uitzondering van waterstof; 
+ 
+
+waarbij aryl wanneer het voorkomt optioneel één of meer substituenten kan dragen gekozen uit alkyl alkoxy halogeen hydroxy amino nitro cyano haloalkyl;
+ 
+
+waarbij heterocyclus of heteroaryl optioneel op één of meer koolstofatomen gesubstitueerd kan zijn door halogeen alkyl alkoxy oxo en/of op een secundair stikstofatoom door alkyl aralkoxycarbonyl alkanoyl fenyl of fenylalkyl of op een tertiair stikstofatoom door oxido en dat is gehecht via een koolstofatoom; 
+ 
+
+en het farmaceutisch aanvaardbare zout ester of prodrug daarvan. 
+ 
+2. Verbinding volgens conclusie 1 waarbij:  
+
+R2 cycloalkylalkyl aralkyl alkyl benzyl cyclohexylmethyl 2-naftylmethyl para-fluorobenzyl para-methoxybenzyl isobutyl of n-butyl voorstelt; 
+ 
+
+R3 alkyl cycloalkyl cycloalkylalkyl isobutyl isoamyl cyclohexyl cyclohexylmethyl n‑butyl of n-propyl voorstelt; en 
+ 
+
+R4 aryl alkyl aryl para-gesubstitueerd aryl heteroaryl fenyl para-methoxyfenyl para-cyanofenyl para-chlorofenyl para-hydroxyfenyl para-nitrofenyl para-fluorofenyl 2-naftyl 3-pyridyl 3-pyridyl N-oxide 4-pyridyl of 4-pyridyl N-oxide voorstelt. (…) 
+
+4. Verbinding volgens conclusie 1 die:  
+
+Fenylmethyl[2R-hydroxy-3-[(2-methylpropyl)(fenylsulfonyl)amino]-1S-(fenylmethyl)propyl]carbamaat;
+ 
+
+Fenylmethyl[2R-hydroxy-3-[(2-methylpropyl)(4-methoxyfenylsulfonyl) amino]-1S-(fenylmethyl)propyl]carbamaat;
+ 
+
+Fenylmethyl[2R-hydroxy-3-[(2-methylpropyl)(4-fluorofenylsulfonyl) amino]-1S-(fenylmethyl)propyl]carbamaat;
+ 
+
+Fenylmethyl[2R-hydroxy-3-[(2-methylpropyl)(4-nitrofenylsulfonyl) amino]-1S-(fenylmethyl)propyl]carbamaat;
+ 
+
+Fenylmethyl[2R-hydroxy-3-[(2-methylpropyl)(4-chlorofenylsulfonyl) amino]-1S-(fenylmethyl)propyl]carbamaat;
+ 
+
+Fenylmethyl[2R-hydroxy-3-[(2-methylpropyl)(4-acetamidofenylsulfonyl)amino]-1S-(fenylmethyl)propyl]carbamaat;
+ 
+
+Fenylmethyl[2R-hydroxy-3-[(2-methylpropyl)(4-aminofenylsulfonyl) amino]-1S-(fenylmethyl)propyl]carbamaat; 
+ 
+
+Fenylmethyl[2R-hydroxy-3-[(3-methylbutyl)(4-methoxyfenylsulfonyl) amino]-1S-(fenylmethyl)propyl]carbamaat; 
+ 
+
+Fenylmethyl[2R-hydroxy-3-[(3-methylbutyl) (4-fluorofenylsulfonyl) amino]-1S-(fenylmethyl)propyl]carbamaat;
+ 
+
+Fenylmethyl[2R-hydroxy-3-[(3-methylbutyl) (4-nitrofenylsulfonyl) amino]-1S-(fenylmethyl)propyl] carbamaat;Fenylmethyl[2R-hydroxy-3-[(3-methylbutyl) (4-chlorofenylsulfonyl) amino]-1S-(fenylmethyl)propyl]carbamaat;
+ 
+
+Fenylmethyl[2R-hydroxy-3-[(2-methylpropyl) (4-methoxyfenylsulfonyl) amino]-1S-(4-fluorofenylmethyl)propyl]carbamaat;
+ 
+
+Fenylmethyl[2R-hydroxy-3-[(2-methylpropyl) (4-fluorofenylsulfonyl) amino]-1S-(4-fluorofenylmethyl)propyl]carbamaat;
+ 
+
+Fenylmethyl[2R-hydroxy-3-[(butyl)(fenylsulfonyl) amino]-1S-(fenylmethyl)propyl]carbamaat;
+ 
+
+Fenylmethyl[2R-hydroxy-3-[(cyclohexylmethyl)(fenylsulfonyl)amino]-1S-(fenylmethyl)propyl]carbamaat;
+ 
+
+Fenylmethyl[2R-hydroxy-3-[(cyclohexyl)(fenylsulfonyl)amino]-1S-(fenylmethyl)propyl]carbamaat;
+ 
+
+Fenylmethyl[2R-hydroxy-3-[(propyl)(fenylsulfonyl)amino]-1S-(fenylmethyl)propyl]carbamaat;
+ 
+
+Pentanamide 2S-[[(dimethylamino)acetyl]amino]-N-2R-hydroxy-3-[(3-methylpropyl)(4-methoxyfenylsulfonyl)amino]-1S-(fenylmethyl)propyl] -3S-methyl;
+ 
+
+Pentanamide 2S-[[(methylamino)acetyl]amino]-N-2R-hydroxy-3-[(4-methylbutyl)(fenylsulfonyl)amino]-1S-(fenylmethyl)propyl]-3S-methyl;
+ 
+
+Pentanamide 2S-[[(dimethylamino)acetyl]amino]-N-2R-hydroxy-3-[(4-methylbutyl)(fenylsulfonyl)amino]-1S-(fenylmethyl)propyl]-3S-methyl;
+ 
+
+[2R-hydroxy-3-[[(4-methoxyfenyl)sulfonyl](2-methylpropyl)amino]-1S-(fenylmethyl)propylamine; 
+ 
+
+2R-hydroxy-3-[(2-methylpropyl)(4-hydroxypnenyl)sulfonyl]amino-1S-(fenylmethyl)propylamine;
+ 
+
+[2R-hydroxy-3-[(fenylsulfonyl)(3-methylbutyl) amino]-1S-(fenylmethyl) propylamine;
+ 
+
+[2R-hydroxy-3-[(fenylsulfonyl)(2-methylpropyl) amino]-1S-(fenylmethyl)propylamine;
+ 
+
+[2R-hydroxy-3-[(fenylsulfonyl)(cyclohexylmethyl)amino]-1S-(fenylmethyl)propylamine;
+ 
+
+[2R-hydroxy-3-[(fenylsulfonyl)(cyclohexyl)amino]-1S-(fenylmethyl)propylamine;
+ 
+
+4-Pyridinecarboxamide N-[2R-hydroxy-3-[[(4-methoxyfenyl) sulfonyl](2-methylpropyl) amino] -1S-(fenylmethyl)propyl];
+ 
+
+BenzamideN-[2R-hydroxy-3-[[(4-methoxyfenyl)sulfonyl](2-methylpropyl)amino]-1S-(fenylmethyl)propyl]-26-dimethyl; 
+ 
+
+BenzamideN-[2R-hydroxy-3-[[(4-methoxyfenyl)sulfonyl](2-methylpropyl)amino]-1S-(fenylmethyl)propyl]-2-methyl; 
+ 
+
+BenzamideN-[2R-hydroxy-3-[[(4-methoxyfenyl)sulfonyl](2-methylpropyl)amino]-1S-(fenylmethyl)propyl]-2-ethyl;
+ 
+
+BenzamideN-[2R-hydroxy-3-[[(4-methoxyfenyl)sulfonyl](2-methylpropyl)amino]-1S-(fenylmethyl)propyl]-2-chloro;
+ 
+
+Carbamidezuur [2R-hydroxy-3-[[(4-methoxyfenyl)sulfonyl](2-methylpropyl)amino]-1S-(fenylmethyl)propyl]- 3-pyridylmethyl ester;
+ 
+
+Carbamidezuur [2R-hydroxy-3-[[(4-methoxyfenyl)sulfonyl](2-methylpropyl)amino]-1S-(fenylmethyl)propyl]- 3-pyridylmethyl ester N-oxide;
+ 
+
+Carbamidezuur [2R-hydroxy-3-[[fenylsulfonyl](2-methylpropyl)amino]-1S-(fenylmethyl)propyl]- 3-pyridylmethyl ester;
+ 
+
+Carbamidezuur [2R-hydroxy-3-[[(4-methoxyfenyl)sulfonyl](2-methylpropyl)amino]-1S-(fenylmethyl)propyl]- 4-pyridylmethyl ester;
+ 
+
+Carbamidezuur [2R-hydroxy-3-[[(4-methoxyfenyl)sulfonyl](2 - methylpropyl)amino]-1S-(fenylmethyl)propyl]- 4-pyridylmethyl ester N-oxide;
+ 
+
+Carbamidezuur [2R-hydroxy-3-[[(4-chlorofenyl)sulfonyl](2-methylpropyl)amino]-1S-(fenylmethyl)propyl]- 3-pyridylmethyl ester;
+ 
+
+Carbamidezuur [2R-hydroxy-3-[[(4-nitrofenyl)sulfonyl](2-methylpropyl)amino]-1S-(fenylmethyl)propyl]- 3-pyridylmethyl ester;
+ 
+
+Carbamidezuur [2R-hydroxy-3-[[(4-fluorofenyl)sulfonyl](2-methylpropyl)amino]-1S-(fenylmethyl)propyl]- 3-pyridylmethyl ester;
+ 
+
+Carbamidezuur [2R-hydroxy-3-[[(4-hydroxyfenyl)sulfonyl](2-methylpropyl)amino]-1S-(fenylmethyl)propyl]- 3-pyridylmethyl ester; of
+ 
+
+Carbamidezuur [2R-hydroxy-3-[[(4-methoxyfenyl)sulfonyl](2-methylpropyl)amino]-1S-(fenylmethyl)propyl]- 5-pyrimidylmethyl esteris.
+ 
+5. Verbinding voorgesteld door de formule:
+
+
+
+
+
+
+waarbij 
+ 
+
+P1 alkoxycarbonyl aralkoxycarbonyl alkanoyl cycloalkylcarbonyl cycloalkylalkoxycarbonyl cycloalkylalkanoyl aralkanoyl aroyl aryloxycarbonyl heterocyclylcarbonyl heterocyclyloxycarbonyl heterocyclylalkoxycarbonyl heteroaralkoxycarbonyl heteroaryloxycarbonyl of heteroaroylgroepen voorstelt; P2 waterstof voorstelt; R2 alkyl aryl cycloalkyl cycloalkylalkyl of aralkylgroepen voorstelt waarbij de groepen optioneel zijn gesubstitueerd met alkyl halogeen -NO2 -CN CF3 -OR9 of SR9 groepen waarbij R9 waterstof of alkylgroepen voorstelt;  R3 alkyl alkenyl alkynyl hydroxyalkyl alkoxyalkyl cycloalkyl cycloalkylalkyl heterocyclyl heteroaryl heterocyclylalkyl aryl aralkyl of heteroaralkylgroepen voorstelt; en R4 alkyl haloalkyl alkenyl alkynyl cycloalkyl heterocycloalkyl heteroaryl aryl of aralkylgroepen voorstelt; en
+ 
+
+waarbij alkyl alleen of in combinatie een rechte-keten of vertakte-keten koolwaterstofgroep is met van 1 tot 8 koolstofatomen; alkenyl alleen of in combinatie een rechte-keten of vertakte-keten koolwaterstofgroep betekent met één of meer dubbele bindingen en van 2 tot 8 koolwaterstofatomen; alkynyl alleen of in combinatie een rechte-keten koolwaterstofgroep betekent met één of meer drievoudige bindingen en van 2 tot 10 koolwaterstofatomen; cycloalkyl alleen of in combinatie een koolwaterstofring is bevattende van 3 tot 8 koolwaterstofatomen; aryl alleen of in combinatie een fenyl- of naftylgroep betekent optioneel gesubstitueerd met alkyl alkoxy halogeen hydroxy amino nitro cyano of haloalkylgroepen; heterocyclyl of heterocycloalkyl een verzadigde of gedeeltelijk onverzadigde monocyclische bicyclische of tricyclische heterocyclus betekent met één of meer stikstof- zuurstof- of zwavelheteroatomen die op één of meer koolwaterstofatomen optioneel gesubstitueerd zijn door halogeen alkyl alkoxy of oxogroepen of een secundair stikstofatoom door alkyl aralkoxycarbonyl alkanoyl fenyl of fenylalkylgroepen of op een tertiair stikstofatoom door oxidogroep; en heteroaryl een aromatische heterocyclylgroep betekent die optioneel is gesubstitueerd zoals hierboven gedefinieerd met betrekking tot de definitie van heterocyclyl; waarbij aryl wanneer het voorkomt optioneel één of meer substituenten kan dragen gekozen uit alkyl alkoxy halogeen hydroxy amino nitro cyano haloalkyl; waarbij heterocyclus of heteroaryl optioneel op één of meer koolstofatomen gesubstitueerd kan zijn door halogeen alkyl alkoxy oxo en/of op een secundair stikstofatoom door alkyl aralkoxycarbonyl alkanoyl fenyl of fenylalkyl of op een tertiair stikstofatoom door oxido en dat is gehecht via een koolstofatoom; en het farmaceutisch aanvaardbare zout ester of prodrug daarvan. 
+(…) 
+
+10. Retrovirale protease-inhiberende verbinding volgens conclusie 1 met de formule 
+
+
+
+
+
+
+waarbij:
+ 
+
+P1 alkoxycarbonyl aralkoxycarbonyl alkylcarbonyl cycloalkylcarbonyl cycloalkylalkoxycarbonyl cycloalkylalkanoyl alkanoyl aralkanoyl aroyl aryloxycarbonyl aryloxycarbonylalkyl aryloxyalkanoyl heterocyclylcarbonyl heterocyclyloxycarbonyl heterocyclylalkanoyl heterocyclylalkoxycarbonyl heteroaralkanoyl heteroaralkoxycarbonyl heteroaryloxycarbonyl heteroaroyl alkyl alkenyl cycloalkyl aryl aralkyl aryloxyalkyl heteroaryloxyalkyl hydroxyalkyl aminocarbonyl aminoalkanoyl en mono- en di-gesubstitueerde aminocarbonyl- en mono- en di-gesubstitueerde aminoalkanoylgroepen voorstelt waarbij de substituenten zijn gekozen uit alkyl aryl aralkyl cycloalkyl cycloalkylalkyl heteroaryl heteroaralkyl heterocycloalkyl heterocycloalkyalkylgroepen of waar genoemde aminoalkanoylgroep di-gesubstitueerd is genoemde substituenten samen met het stikstofatoom waaraan ze zijn gehecht een heterocycloalkyl- of heteroarylgroep vormen; P2 waterstof voorstelt; 
+ 
+
+R2 alkyl aryl cycloalkyl cycloalkylalkyl en aralkylgroepen voorstelt waarbij de groepen optioneel gesubstitueerd zijn met een groep gekozen uit alkyl- en halogeengroepen -NO2 -C≡N CF3 -OR9 -SR9 waarbij R9 waterstof- en alkylgroepen voorstelt; 
+ 
+
+R3 waterstof alkyl haloalkyl alkenyl alkynyl hydroxyalkyl alkoxyalkyl cycloalkyl cycloalkylalkyl heterocycloalkyl heteroaryl heterocycloalkylalkyl aryl aralkyl heteroaralkyl aminoalkyl en mono- en di-gesubstitueerde aminoalkylgroepen voorstelt waarbij genoemde substituenten zijn gekozen uit alkyl aryl aralkyl cycloalkyl cycloalkylalkyl heteroaryl heteroaralkyl heterocycloalkyl en heterocycloalkylalkylgroepen of in het geval van een di-gesubstitueerde aminoalkylgroep vormen genoemde substituenten samen met het stikstofatoom waaraan ze zijn gehecht een heterocycloalkyl- of een heteroarylgroep; en 
+ 
+
+R4 groepen voorstelt zoals gedefinieerd door R3 met uitzondering van waterstof; 
+ 
+
+waarbij aryl wanneer het voorkomt optioneel één of meer substituenten kan dragen gekozen uit alkyl alkoxy halogeen hydroxy amino nitro cyano haloalkyl; waarbij heterocyclus of heteroaryl optioneel op één of meer koolstofatomen gesubstitueerd kan zijn door halogeen alkyl alkoxy oxo en/of op een secundair stikstofatoom door alkyl aralkoxycarbonyl alkanoyl fenyl of fenylalkyl of op een tertiair stikstofatoom door oxido en dat is gehecht via een koolstofatoom; en het farmaceutisch aanvaardbare zout prodrug of ester daarvan. 
+ 
+11. Verbinding volgens conclusie 10 waarbij  
+
+R2 cycloalkylalkyl aralkyl alkyl benzyl cyclohexylmethyl 2-naftylmethyl para-fluorobenzyl para-methoxybenzyl isobutyl of n-butyl voorstelt;
+ 
+
+R3 alkyl cycloalkyl cycloalkylalkyl isobutyl isoamyl cyclohexyl cyclohexylmethyl n-butyl of n-propyl voorstelt; en 
+ 
+
+R4 aryl alkyl aryl para-gesubstitueerd aryl heteroaryl fenyl para-methoxyfenyl para-cyanofenyl para-chlorofenyl para-hydroxyfenyl para-nitrofenyl para-fluorofenyl 2-naftyl 3-pyridyl 3-pyridyl N-oxide 4-pyridyl of 4-pyridyl N-oxide voorstelt.
+ 
+
+
+2.5.
+In de authentieke Engelse versie van de beschrijving van EP 209 is voorts - voor zover hier van belang - het volgende opgenomen: 
+
+(…)
+
+BRIEF DESCRIPTION OF THE INVENTION
+
+ 
+
+[0008] The present invention is directed to virus inhibiting compounds and compositions. More particularly the present invention is directed to retroviral protease inhibiting compounds and compositions to the use of such compounds for preparing medicaments for inhibiting proteases especially for inhibiting HIV protease and for treating a retroviral infection such as HIV infection and for treating AIDS to processes for preparing the compounds and to intermediates useful in such processes. The subject compounds are characterized as sulfonamide-containing hydroxyethylamine inhibitor compounds. 
+
+
+DETAILED DESCRIPTION OF THE INVENTION
+
+ 
+
+[0009] The present invention provides retroviral protease inhibitor compounds represented by the Formula I:
+ 
+
+
+
+
+
+
+wherein:
+
+(…)
+ 
+
+[0010] Preferred compounds thereof are those wherein P1 and P2 independently represent hydrogen alkoxycarbonyl aralkyloxycarbonyl heteroaralkoxycarbonyl aroyl heteroaroyl alkanoyl cycloalkanoyl 3-pyridylmethyloxycarbonyl 3-pyridylmethyloxycarbonyl N-oxide 4-pyridylmethyloxycarbonyl 4-pyridylmethyloxycarbonyl N-oxide 5-pyrimidylmethyloxycarbonyl tert-butyloxycarbonyl allyloxycarbonyl 2-propyloxycarbonyl benzyloxycarbonyl cycloheptylcarbonyl cyclohexylcarbonyl cyclopentylcarbonyl benzoyl 2-substituted benzoyl 4-pyridylcarbonyl 2-methylbenzoyl 3-methylbenzoyl 4-methylbenzoyl 2-chlorobenzoyl 2-ethylbenzoyl 26-dimethylbenzoyl 23-dimethylbenzoyl 24-dimethylbenzoyl or 25-dimethylbenzoyl;
+
+R2 represents cycloalkylalkyl aralkyl alkyl benzyl cyclohexylmethyl 2-naphthylmethyl para-flurobenzyl para-methoxybenzyl isobutyl or n-butyl;
+ 
+
+R3 represents alkyl cycloalkyl cycloalkylalkyl isobutyl isoamyl cyclohexyl cyclohexylmethyl n-butyl or n-propyl; and
+ 
+
+R4 represents aryl alkyl and heteroaryl aryl para-substituted aryl heteroaryl phenyl para-methoxyphenyl para-cyanophenyl para-chlorophenyl para-hydroxyphenyl para-nitrophenyl para-fluorophenyl 2-naphthyl 3-pyridyl 3-pyridyl N-oxide 4-pyridyl or 4-pyridyl N-oxide.
+ 
+
+[0011] Further preferred compounds are those of formula I wherein
+
+R2 represents cycloalkylalkyl aralkyl alkyl benzyl cyclohexylmethyl 2-naphthylmethyl para-fluorobenzyl para-methoxybenzyl isobutyl or n-butyl;
+ 
+
+R3 represents alkyl cycloalkyl cycloalkylalkyl isobutyl isoamyl cyclohexyl cyclohexylmethyl n-butyl or n-propyl; and
+ 
+
+R4 represents aryl alkyl aryl para-substituted aryl heteroaryl phenyl para-methoxyphenyl para-cyanophenyl para-chlorophenyl para-hydroxyphenyl para-nitrophenyl para-fluorophenyl 2-naphthyl 3-pyridyl 3-pyridyl-N-oxide 4-pyridyl or 4-pyridyl-N-oxide.
+ 
+
+[0012] Preferred compounds are the following ones: 
+Phenylmethyl[2R-hydroxy-3-[(2-methylpropyl)(phenylsulfonyl)amino]-1S-(phenylmethyl)propyl]carbamate;
+ 
+
+Phenylmethyl[2R-hydroxy-3-[(2-methylpropyl)(4-methoxyphenylsulfonyl) amino]-1S-(phenylmethyl)propyl]carbamate;
+ 
+
+Phenylmethyl[2R-hydroxy-3-[(2-methylpropyl)(4-fluorophenylsulfonyl) amino]-1S-(phenylmethyl)propyl]carbamate;
+ 
+
+Phenylmethyl[2R-hydroxy-3-[(2-methylpropyl)(4-nitrophenylsulfonyl) amino]-1S-(phenylmethyl)propyl]carbamate;
+ 
+
+Phenylmethyl[2R-hydroxy-3-[(2-methylpropyl) (4-chlorophenylsulfonyl) amino]-1S-(phenylmethyl)propyl]carbamate;
+ 
+
+Phenylmethyl[2R-hydroxy-3-[(2-methylpropyl) (4-acetamidophenylsulfonyl)amino]-1S-(phenylmethyl)propyl]carbamate;
+ 
+
+Phenylmethyl[2R-hydroxy-3-[(2-methylpropyl) (4-aminophenylsulfonyl) amino]-1S-(phenylmethyl)propyl]carbamate;
+ 
+
+Phenylmethyl[2R-hydroxy-3-[(3-methylbutyl) (4-methoxyphenylsulfonyl) amino]-1S-(phenylmethyl)propyl]carbamate;
+ 
+
+Phenylmethyl[2R-hydroxy-3-[(3-methylbutyl) (4-fluorophenylsulfonyl) amino]-1S-(phenylmethyl) propyl] carbamate;
+ 
+
+Phenylmethyl[2R-hydroxy-3-[(3-methylbutyl) (4-nitrophenylsulfonyl) amino]-1S-(phenylmethyl)propyl]carbamate;
+ 
+
+Phenylmethyl[2R-hydroxy-3-[(3-methylbutyl) (4-chlorophenylsulfonyl) amino]-1S-(phenylmethyl)propyl]carbamate;
+ 
+
+Phenylmethyl[2R-hydroxy-3-[(2-methylpropyl) (4-methoxyphenylsulfonyl) amino]-1S-(4-fluorophenylmethyl)propyl]carbamate;
+
+Phenylmethyl[2R-hydroxy-3-[(2-methylpropyl)(4-fluorophenylsulfonyl) amino]-1S-(4-fluorophenylmethyl)propyl]carbamate;
+ 
+
+Phenylmethyl[2R-hydroxy-3-[(butyl) (phenylsulfonyl) amino]-1S-(phenylmethyl)propyl]carbamate;
+ 
+
+Phenylmethyl[2R-hydroxy-3-[(cyclohexylmethyl) (phenylsulfonyl)amino]-1S-(phenylmethyl)propyl]carbamate;
+Phenylmethyl[2R-hydroxy-3-[(cyclohexyl) (phenylsulfonyl) amino]-1S-(phenylmethyl)propyl]carbamate;
+
+Phenylmethyl[2R-hydroxy-3-[(propyl) (phenylsulfonyl)amino]-1S-(phenylmethyl)propyl]carbamate;
+
+Pentanamide 2S-[[(dimethylamino)acetyl]amino]-N-2R-hydroxy-3-[(3-methylpropyl) (4-methoxyphenylsulfonyl)amino]-1S-(phenylmethyl)propyl]-3S-methyl; 
+Pentanamide 2S-[[(methylamino)acetyl]amino]-N-2R-hydroxy-3-[(4-methylbutyl)(phenylsulfonyl)amino]-1S-(phenylmethyl)propyl]-3S-methyl; 
+Pentanamide 2S-[[(dimethylamino)acetyl]amino]-N-2R-hydroxy-3-[(4-methylbutyl) (phenylsulfonyl)amino]-1S-(phenylmethyl)propyl]-3S-methyl; 
+[2R-hydroxy-3-[[(4-methoxyphenyl)sulfonyl](2-methylpropyl)amino]-1S-(phenylmethyl)propylamine; 
+2R-hydroxy-3-[(2-methylpropyl)(4-hydroxyphenyl)sulfonyl]amino-1S-(phenylmethyl)propylamine; 
+[2R-hydroxy-3-[(phenylsulfonyl) (3-methylbutyl)amino]-1S-(phenylmethyl)propylamine; 
+[2R-hydroxy-3-[(phenylsulfonyl) (2-methylpropyl) amino] -1S-(phenylmethyl)propylamine; 
+[2R-hydroxy-3-[(phenylsulfonyl) (cyclohexylmethyl)amino]-1S-(phenylmethyl)propylamine; 
+[2R-hydroxy-3-[(phenylsulfonyl)(cyclohexyl)amino]-1S-(phenylmethyl)propylamine; 
+4-Pyridinecarboxamide N-[2R-hydroxy-3-[[(4-methoxyphenyl) sulfonyl](2-methylpropyl)amino]-1S-(phenylmethyl)propyl]; 
+Benzamide N-[2R-hydroxy-3-[[(4-methoxyphenyl)sulfonyl](2-methylpropyl)amino]-1S-(phenylmethyl)propyl]-26-dimethyl; 
+Benzamide N-[2R-hydroxy-3-[[(4-methoxyphenyl)sulfonyl](2-methylpropyl)amino]-1S-(phenylmethyl)propyl]-2-methyl; 
+Benzamide N-[2R-hydroxy-3-[[(4-methoxyphenyl)sulfonyl](2-methylpropyl)amino]-1S-(phenylmethyl)propyl]-2-ethyl; 
+Benzamide N-[2R-hydroxy-3-[[(4-methoxyphenyl)sulfonyl](2-methylpropyl)amino]-1S-(phenylmethyl)propyl]-2-chloro; 
+Carbamic acid [2R-hydroxy-3-[[(4-methoxyphenyl)sulfonyl](2-methylpropyl)amino]-1S-(phenylmethyl)propyl]- 3-pyridylmethyl ester; 
+Carbamic acid [2R-hydroxy-3-[[(4-methoxyphenyl)sulfonyl](2-methylpropyl)amino]-1S-(phenylmethyl)propyl]- 3-pyridylmethyl ester N-oxide; 
+Carbamic acid [2R-hydroxy-3-[[phenylsulfonyl](2-methylpropyl)amino-]-1S-(phenylmethyl)propyl]- 3-pyridylmethyl ester; 
+Carbamic acid [2R-hydroxy-3-[[(4-methoxyphenyl)sulfonyl](2-methylpropyl)amino]-1S-(phenylmethyl)propyl]- 4-pyridylmethyl ester; 
+Carbamic acid [2R-hydroxy-3-[[(4-methoxyphenyl)sulfonyl](2-methylpropyl)amino]-1S-(phenylmethyl)propyl]- 4-pyridylmethyl ester N-oxide; 
+Carbamic acid [2R-hydroxy-3-[[(4-chlorophenyl)sulfonyl](2-methylpropyl)amino]-1S-(phenylmethyl)propyl]- 3-pyridylmethyl ester; 
+Carbamic acid [2R-hydroxy-3-[[(4-nitrophenyl)sulfonyl](2-methylpropyl)amino]-1S-(phenylmethyl)propyl]- 3-pyridylmethyl ester; 
+Carbamic acid [2R-hydroxy-3-[[(4-fluorophenyl)sulfonyl](2-methylpropyl)amino]-1S-(phenylmethyl)propyl]- 3-pyridylmethyl ester; 
+Carbamic acid [2R-hydroxy-3-[[(4-hydroxyphenyl)sulfonyl](2-methylpropyl)amino]-1S-(phenylmethyl)propyl]- 3-pyridylmethyl ester; or 
+Carbamic acid [2R-hydroxy-3-[[(4-methoxyphenyl)sulfonyl](2-methylpropyl)amino]-1S-(phenylmethyl)propyl]- 5-pyrimidylmethyl ester.
+ 
+
+[0013] Other compounds according to the present invention are those represented by the formula:
+ 
+
+
+
+
+
+
+
+
+
+wherein
+ 
+
+(…)
+ 
+
+[0014] Among these compounds are preferred wherein P1 represents alkoxycarbonyl aralkyloxycarbonyl heteroaralkoxycarbonyl aroyl heteroaroyl alkanoyl or cycloalkanoyl radicals;
+
+R2 represents alkyl cycloalkylalkyl or aralkyl radicals which radicals are optionally substituted with halogen -OR<9> or -SR<9> radicals wherein R<9> represents hydrogen or alkyl radicals;R3 represents alkyl cycloalkyl or cycloalkylalkyl radicals; andR4 represents alkyl aryl or heteroaryl radicals.
+ 
+
+[0015] Further preferred are compounds wherein P1 represents - 3-pyridylmethyloxycarbonyl 3-pyridylmethyloxycarbonyl N-oxide 4-pyridylmethyloxycarbonyl 4-pyridylmethyloxycarbonyl N-oxide 5-pyrimidylmethyloxycarbonyl tert-butyloxycarbonyl allyloxycarbonyl 2-propyloxycarbonyl benzyloxycarbonyl cycloheptylcarbonyl cyclohexylcarbonyl cyclopentylcarbonyl benzoyl 2-substituted benzoyl 4-pyridylcarbonyl 2-methylbenzoyl 3-methylbenzoyl 4-methylbenzoyl 2-chlorobenzoyl 2-ethylbenzoyl 26-dimethylbenzoyl 23-dimethylbenzoyl 24-dimethylbenzoyl or 25-dimethylbenzoyl radicals;
+ 
+
+R2 represents benzyl cyclohexylmethyl 2-naphthylmethyl para-fluorobenzyl paramethoxybenzyl isobutyl or n-butyl radicals;R3 represents isobutyl isoamyl cyclohexyl cyclohexylmethyl n-butyl or n-propyl radicals; and R4 represents phenyl para-methoxyphenyl para-cyanophenyl para-chlorophenyl para-hydroxyphenyl para-nitrophenyl para-fluorophenyl 2-naphthyl 3-pyridyl 3-pyridyl N-oxide 4-pyridyl or 4-pyridyl N-oxide radicals.
+ 
+
+[0016] Also preferred are compounds of the above formula II wherein P1 represents heterocyclylcarbonyl heterocyclyloxycarbonyl heterocyclylalkoxycarbonyl heteroaralkoxycarbonyl heteroaryloxycarbonyl or heteroaroyl radicals; 
+R2 represents alkyl cycloalkylalkyl or aralkyl radicals which radicals are optionally substituted with halogen -OR<9> or -SR<9> radicals wherein R<9> represents hydrogen or alkyl radicals;R3 represents alkyl cycloalkyl or cycloalkylalkyl radicals; andR4 represents alkyl aryl or heteroaryl radicals; and
+ 
+
+wherein heterocyclyl or heterocycloalkyl means a 5-6 ring membered heterocycle or a benzfused 5-6 ring membered heterocycle having one or two nitrogen oxygen or sulphur heteroatoms; and heteroaryl means an aromatic 5-6 ring membered heterocycle or an aromatic benzfused 5-6 ring membered heterocycle having one or two nitrogen oxygen or sulphur heteroatoms.
+ 
+
+[0017] Also preferred are those compounds wherein
+
+P1 represents heterocyclylcarbonyl heterocyclyloxycarbonyl heterocyclylalkoxycarbonyl heteroaralkoxycarbonyl heteroaryloxycarbonyl or heteroaroyl radicals;R2 represents benzyl cyclohexylmethyl 2-naphthylmethyl para-fluorobenzyl paramethoxybenzyl isobutyl or n-butyl radicals;R3 represents isobutyl isoamyl cyclohexyl cyclohexylmethyl n-butyl or n-propyl radicals; andwherein heterocyclyl or heterocycloalkyl means a 5-6 ring membered heterocyle having one or two nitrogen oxygen or sulphur heteroatoms; and heteroaryl means an aromatic 5-6 ring membered heterocycle having one or two nitrogen oxygen or sulphur heteroatoms. 
+ 
+
+[0018] Another group of compounds according to the invention comprises a retroviral protease inhibiting compound according to claim 1 having the formula
+ 
+
+
+
+
+
+
+
+
+
+wherein:
+ 
+
+(…)
+ 
+
+[0019] Among these are those preferred wherein
+
+R2 represents cycloalkylalkyl aralkyl alkyl benzyl cyclohexylmethyl 2-naphthylmethyl para-fluorobenzyl para-methoxybenzyl isobutyl or n-butyl;
+ 
+
+R3 represents alkyl cycloalkyl cycloalkylalkyl isobmyl isoamyl cyclohexyl cyclohexylmethyl n-butyl or n-propyl; andR4 represents aryl alkyl aryl para-substituted aryl heteroaryl phenyl para-methoxyphenyl para-cyanophenyl para-chlorophenyl para-hydroxyphenyl para-nitrophenyl para-fluorophenyl 2-naphthyl 3-pyridyl 3-pyridyl N-oxide 4-pyridyl or 4-pyridyl N-oxide.
+ 
+
+
+2.6.
+De structuurformule van darunavir ziet er als volgt uit: 
+
+
+
+
+
+
+
+2.7.
+De structuurformule van darunavir valt zowel onder de Markush-formule in conclusie 1 (hierna: Formule I) als onder de Markush-formule in conclusie 5 (hierna: Formule II) van EP 209 (de formules I en II zijn weergegeven in 2.4.). Daarbij is op de volgende wijze invulling gegeven aan de functionele groepen P1 P2 R2 R3 en R4: 
+
+
+
+
+
+
+
+2.8.
+Darunavir wordt als zodanig niet in EP 209 geopenbaard. De stof die het meest in de buurt komt van darunavir wordt geopenbaard in de beschrijving in paragraaf [0012] als zevende verbinding (regels 32-33) in structuurformule weergegeven op pagina 37 van de beschrijving en geclaimd in conclusie 4. De structuurformule van deze verbinding ziet er als volgt uit: 
+
+
+
+
+
+
+Het verschil tussen verbinding 7 en darunavir bestaat in de aan de linkerzijde gesitueerde P1 substituent groep. In verbinding 7 is die groep een aralkoxycarbonyl meer precies een benzyloxycarbonyl die de volgende structuur kent:
+ 
+
+
+
+
+
+
+In darunavir is de P1 substituent groep een heterocyclyloxycarbonyl. De specifieke P1 groep omvat een gefuseerde bis-tetrahydrofuran gebonden aan een zuurstof atoom en een carbonyl groep en heeft de volgende structuur:
+ 
+
+
+
+
+
+
+
+2.9.
+Darunavir is in 1998 door professor [A] (hierna: [A] ) uitgevonden ontwikkeld en gesynthetiseerd. Dit gebeurde los van Searle. Darunavir is daarna commercieel ontwikkeld door het bedrijf Tibotec dat nu onderdeel uitmaakt van Johnson & Johnson. 
+
+
+2.10.
+Sandoz is in Nederland houdster van de marktvergunning voor een generieke versie van Prezista® (hierna: Darunavir Sandoz) welk geneesmiddel binnen de beschermingsomvang van het ABC valt. Sandoz heeft Darunavir Sandoz laten opnemen in de G-standaard van november 2018 die op 18 oktober 2018 is gepubliceerd. Daarnaast heeft zij Darunavir Sandoz aangeboden aan groothandels. 
+
+
+2.11.
+Searle heeft Sandoz bij brief van 19 oktober 2018 gesommeerd de inbreuk op het ABC te staken. Bij brief van 21 oktober 2018 heeft Sandoz gereageerd dat zij bereid is om verdere verhandeling van Darunavir Sandoz te staken tot een vonnis in kort geding is gewezen mits zij daarvoor in ruil een cross-undertaking ten aanzien van de schade zou krijgen en het pleidooi in kort geding binnen ongeveer vier weken zou plaatsvinden. Searle is hiermee niet akkoord gegaan en heeft vervolgens onderhavig kort geding aanhangig gemaakt. 
+
+
+2.12.
+Op 12 december 2013 heeft het HvJ EU2 arrest gewezen in de zaak tussen Eli Lilly Company Ltd en Human Genome Sciences Inc.3 inzake de uitleg van artikel 3 sub a ABC- Vo (hierna: Eli Lilly arrest). In het arrest (weergegeven in de Engelse procestaal) is - onder meer - het volgende overwogen: 
+
+(…)
+ 
+
+19. On the other hand in HGS’s patent at issue in the main proceedings the antibody is defined functionally but not structurally the definition thus covering an unknown number of otherwise unspecified antibodies. This is the broadest way of claiming an antibody. Furthermore the specification for that patent does not contain any example of an antibody having been made or tested. Finally nor does that patent contain any structural description of antibodies which might function as therapeutic antibodies.
+ 
+
+(…)
+ 
+
+24. By its three questions which it is appropriate to consider together the referring court asks in essence whether Article 3(a) of Regulation No 469/2009 must be interpreted as meaning that in order for an active ingredient to be regarded as ‘protected by a basic patent in force’ within the meaning of that provision the active ingredient must be identified in the claims of the patent by a structural formula or whether the active ingredient may also be considered to be protected where it is covered by a functional formula in the patent claims. 
+(…)
+ 
+
+33. On the other hand as is apparent from the response given by the Court to questions 1 to 5 in the case which gave rise to the judgment in Medeva for the purpose of determining whether a product is ‘protected by a basic patent in force’ within the meaning of Article 3(a) of Regulation No 469/2009 recourse may not be had to the rules governing infringement proceedings such as in the main proceedings those laid down in section 60 of the UK Patents Act 1977.
+ 
+
+34. By finding that Article 3(a) of Regulation No 469/2009 precludes the grant of an SPC relating to active ingredients which are not specified in the claims of a basic patent (see Medeva paragraph 25 and the orders in Case C-630/10 University of Queensland and CSL [2011] ECR I‑12231 paragraph 31 and Case C-6/11 Daiichi Sankyo [2011] ECR I‑12255 paragraph 30) the Court emphasised the key role played by the claims for the purpose of determining whether a product is protected by a basic patent within the meaning of that provision.
+ 
+
+(…)
+ 
+
+36.  In the main proceedings it is common ground that the active ingredient tabalumab namely LY2127399 is not expressly named in the claims of HGS’s patent. Moreover it would appear that it is not otherwise specified in the descriptions or specifications of that patent and cannot therefore be identified as such.
+ 
+
+(…)
+39. With regard to the question whether the use of a functional definition may alone be sufficient it should be noted that Article 3(a) of Regulation No 469/2009 does not in principle preclude an active ingredient which is given a functional definition in the claims of a patent issued by the EPO being regarded as protected by the patent on condition that it is possible to reach the conclusion on the basis of those claims interpreted inter alia in the light of the description of the invention as required by Article 69 of the EPC and Protocol on the interpretation of that provision that the claims relate implicitly but necessarily and specifically to the active ingredient in question.
+(…)
+ 
+
+41. Moreover it should be recalled that the SPC is designed simply to re‑establish a sufficient period of effective protection of the basic patent by permitting the holder to enjoy an additional period of exclusivity on the expiry of that patent which is intended to compensate at least in part for the delay to the commercial exploitation of his invention by reason of the time which has elapsed between the date on which the application for the patent was filed and the date on which the first MA in the European Union was granted (…).
+ 
+
+42. As stated in recital 4 in the preamble to Regulation No 469/2009 the purpose of that additional period of exclusivity is to encourage research and to that end it is designed to ensure that the investments put into such research are covered.
+ 
+
+43. In the light of the objective of Regulation No 469/2009 the refusal of an SPC application for an active ingredient which is not specifically referred to by a patent issued by the EPO relied on in support of such an application may be justified – in circumstances such as those in the main proceedings and as observed by Eli Lilly – where the holder of the patent in question has failed to take any steps to carry out more in-depth research and identify his invention specifically making it possible to ascertain clearly the active ingredient which may be commercially exploited in a medicinal product corresponding to the needs of certain patients. In such a situation if an SPC were granted to the patent holder even though – since he was not the holder of the MA granted for the medicinal product developed from the specifications of the source patent – that patent holder had not made any investment in research relating to that aspect of his original invention that would undermine the objective of Regulation No 469/2009 as referred to in recital 4 in the preamble thereto.
+ 
+
+44. In the light of the foregoing considerations the answer to the questions referred is that Article 3(a) of Regulation No 469/2009 must be interpreted as meaning that in order for an active ingredient to be regarded as ‘protected by a basic patent in force’ within the meaning of that provision it is not necessary for the active ingredient to be identified in the claims of the patent by a structural formula. Where the active ingredient is covered by a functional formula in the claims of a patent issued by the EPO Article 3(a) of that regulation does not in principle preclude the grant of an SPC for that active ingredient on condition that it is possible to reach the conclusion on the basis of those claims interpreted inter alia in the light of the description of the invention as required by Article 69 of the EPC and the Protocol on the interpretation of that provision that the claims relate implicitly but necessarily and specifically to the active ingredient in question which is a matter to be determined by the referring court.
+ 
+
+(…)
+ 
+
+
+2.13.
+
+In een beslissing van 17 oktober 2017 (hierna: de Sitagliptine zaak) heeft het Bundespatentgericht (hierna: BPatG) prejudiciële vragen gesteld aan het HvJ EU. In de beslissing is - onder meer - opgenomen:
+(…)
+ 
+
+1. Die Beschwerdeführerin ist Inhaberin des am 24. April 1987 angemeldeten und am 25. Juni 2014 erteilten europäischen Patents  EP 1 084 705 (DE 597 13 097) das inzwischen durch Zeitablauf erloschen ist. Das Patent betrifft ein Verfahren zur Senkung des Blutglukosespiegels bei Säugern durch die Verabreichung sogenannter DP IV-Inhibitoren. Der Einsatz dieser Wirkstoffgruppe ist auf die Hemmung des Enzyms Dipeptidyl-Peptidase IV gerichtet wodurch eine Regulation des Blutzuckerspiegels bei Diabetes mellitus-Patienten erreicht wird. Der zu dieser Wirkstoffklasse zählende Wirkstoff Sitagliptin wurde nach dem Anmeldetag des Grundpatents von einer Lizenznehmerin entwickelt die hierfür ein Patent erhalten hat auf dessen Basis ihr ein ergänzendes Schutzzertifikat erteilt wurde (...).
+ 
+
+Am 17. Dezember 2014 beantragte die Beschwerdeführerin beim Deutschen Patent- und Markenamt (DPMA) auf Grundlage des Deutschen Teils des Europäischen Patents die Erteilung eines ergänzenden Schutzzertifikats für das Erzeugnis “Sitagliptin in allen dem Schutz des Grundpatents unterliegenden Formen” hilfsweise für “Sitagliptin insbesondere Sitagliptin Phosphatmonohydrat”. Hinsichtlich der erforderlichen arzneimittelrechtlichen Genehmigung für das Inverkehrbringen stütze sie sich dabei auf die Zulassungen des Arzneimittels Januvia (EU/1/07/383/001-018) vom 21. März 2007 durch die Europäische Arzneimittel-Agentur (EMA).
+ 
+
+Mit Beschluss vom 12. April 2017 hat die Patentabteilung 44 des DPMA den Antrag zurückgewiesen da die Erteilungsvoraussetzung gemäß Art. 3 (a) der Verordnung (EG) Nr. 469/20009 des Europäischen Parlaments und des Rates vom 6. Mai 2009 über das ergänzende Schutzzertifikat für Arzneimittel (im Folgenden: AMVO) nicht erfüllt sei. Zur Begründung hat die Patentabteilung insbesondere ausgeführt in den Ansprüchen des Grundpatents werde das verfahrensgegenständliche Erzeugnis ausschließlich funktionell definiert. Zwar erfülle das Erzeugnis als ein DP IV-Inhibitor die funktionelle Definition des Grundpatents jedoch fehle es im Grundpatent an jeglicher spezifischen Offenbarung von Sitagliptin so dass der konkrete Wirkstoff dem Fachmann nicht zur Verfügung gestellt werde. Von den zahlreichen unter die funktionelle Definition “DP IV-Inhibitoren” fallenden Wirkstoffen würden im Grundpatent lediglich Alanyl-Pyrrolidid Isoleucyl-Thiazolidid N-Valyl-Prolyl und O-Benzoyl Hydroxylamin konkret genannt. Der Hinweis der Antragstellerin es handle sich vorliegend um eine Grundlagenerfindung welche die neue Wirkstoffklasse der DP IV-Inhibitoren zur Behandlung des Diabetes-mellitus erstmals zur Verfügung gestellt und damit die spätere Entwicklung des Wirkstoffs Sitagliptin erst möglich gemacht habe könne die Erteilung des beantragten Schutzzertifikats nicht rechtfertigen. Maßgeblich sei vielmehr dass der Schutzgegenstand des Grundpatents gerade nicht dem später entwickelten Arzneimittel entspreche das die Genehmigung zum Inverkehrbringen erhalten habe auf den sich der vorliegende Erteilungsantrag stütze. Es würde den Zielen der AMVO widersprechen ein Schutzzertifikat für ein Erzeugnis zu erteilen das vom Grundpatent nicht zur Verfügung gestellt werde.
+ 
+
+Gegen diesen Beschluss richtet sich die Beschwerde der Antragstellerin mit der sie ihr Begehren auf Erteilung eines ergänzenden Schutzzertifikats weiterverfolgt zuletzt für das Erzeugnis “Sitagliptin”.
+ 
+
+(...)
+ 
+
+6. Vor dem Hintergrund dass sich die Möglichkeit einer Schutzzertifikatserteilung nach den Zielen der AMVO nur auf Grundpatente für neue Arzneimittel bzw. Wirkstoffe und Wirkstoffkombinationen bezieht und nicht auf Stoffgruppen die erst den Ausgangspunkt für die spätere Entwicklung eines spezifischen Wirkstoffs schaffen sind diese vom Gerichtshof formulierten Anforderungen nach Ansicht des Senats nur dann erfüllt wenn der fragliche Wirkstoff (oder die Wirkstoffkombination) in den Patentansprüchen. so spezifiziert ist dass er als solcher identifizierbar ist und dem Fachmann dadurch tatsächlich zur Verfügung gestellt wird.
+ 
+
+7. lm vorliegenden Fall besteht der Schutzgegenstand des Grundpatents aber ausschließlich in der Lehre über eine Beeinflussung der Dipeptidyl-Peptidase zur Senkung des krankhaft überhöhten Blutzuckerspiegels - verallgemeinernd - Inhibitoren der Dipeptidyl-Peptidase einzusetzen sowie darin zu diesem Zweck die in der Beschreibung des Patents konkret benannten Stoffe - zu denen Sitagliptin nicht gehört - heranzuziehen (vgl. hierzu die zur Prioritätsanmeldung des Grundpatents ergangene Entscheidung des Bundesgerichtshofs GRUR 2013 1210 Rdn. 28 - Dipeptidyl-Peptidase-Inhibitoren). Der hier verfahrensgegenständliche Wirkstoff Sitagliptin gehört somit nicht zum Schutzgegenstand des Grundpatents. Er fällt zwar in dessen Schutzbereich - der bloße Umstand dass der zum Prioritätstag des Grundpatents noch nicht entwickelte Wirkstoff Sitagliptin - ebenso wie
+eine Vielzahl weiterer Wirkstoffe - unter die funktionelle Definition der Wirkstoffklasse in Anspruch 2 des Grundpatents fällt mag somit in Verletzungsklagen relevant werden erfüllt aber nach Auffassung des Senats nicht die Vorgaben des EuGH zum Erfordernis einer spezifischen Identifizierbarkeit des Erzeugnisses in den Ansprüchen des Grundpatents gemäß Art. 3 (a) AMVO. Denn das Grundpatent stellt dem Fachmann neben den explizit genannten Verbindungen - wie bspw. dem DP IV-Inhibitor Isoleucyl-Thiazolidid - nur eine Zielstruktur (DP IV) zur Verfügung nicht jedoch den Wirkstoff Sitagliptin. Dieser wurde erst später von einer Lizenznehmerin durch entsprechende Forschungsleistungen entwickelt durch ein eigenes Grundpatent geschützt und hat erst dann eine Genehmigung zum Inverkehrbringen als Arzneimittel erhalten. 
+8. Wenn die Beschwerdeführerin vorträgt mit seinen in “Eli Lilly” formulierten Grundsätzen habe der Gerichtshof lediglich klarstellen wollen dass sich der fragliche Wirkstoff als eine Verkörperung des Kerns des erfinderischen Beitrags des Grundpatents darstellen müsse wie er durch die funktionelle Charakterisierung des Patentanspruchs ausgedrückt werde teilt der Senat diese Interpretation nicht. Vor dem Hintergrund seiner auch in “Eli Lilly” zitierten Entscheidung “Medeva” (vgl. EuGH GRUR 2014 163 Rdn. 34 f. - Eli Lilly) hat der Gerichtshof nach Auffassung des Senats vielmehr deutlich gemacht dass der fragliche Wirkstoff als zum Schutzgegenstand des Grundpatents gehörend spezifisch identifizierbar sein muss (vgl. EuGH GRUR 2014 163 Rdn. 35 - Eli Lilly). Dementsprechend hat der EuGH auch das ihm vom britischen High Court of Justice als Prüfungskriterium für die Anwendung des Art. 3 (a) AMVO vorgeschlagene Konzept des sogenannten “inventive advance” (High Court [2012] EWHC 2545 (Pat) Rdn. 75 ff. - Actavis/
+Sanofi) bei der Auslegung dieser Vorschrift nicht aufgegriffen sondern stattdessen im Rahmen der Auslegung des Art. 3 (c) AMVO berücksichtigt (vgl. EuGH GRUR Int. 2014 153 Rdn. 41 f. -Actavis/Sanofi).
+ 
+
+(…)
+ 
+
+
+2.14.
+Sandoz Ltd en Hexal AG (hierna: Sandoz c.s. enkelvoud) die beiden tot hetzelfde concern behoren als Sandoz zijn in Engeland een procedure gestart waarin zij zich op het standpunt hebben gesteld dat de Engelse versie van het ABC voor darunavir nietig is omdat het niet voldoet aan het vereiste van artikel 3 sub a ABC-Vo. In zijn beslissing van 3 mei 2017 heeft Justice Arnold (hierna: beslissing Arnold J) - kort gezegd - geoordeeld dat het ABC geldig is en de verhandeling van Darunavir Sandoz verboden. In de beslissing Arnold J is - onder meer - opgenomen: 
+
+	(…)
+44.	Thirdly Prof [X] gives some evidence about the relationship between darunavir and the Patent. In summary he says that darunavir is covered by claims 1 2 5 10 and 11 but is not disclosed in the Patent. The closest compound to darunavir that is disclosed in the Patent is a compound which is disclosed in [0012] at lines 32-33 and also included in claim 4 as the seventh compound listed (“Compound 7”). Darunavir itself does not fall within the scope of claim 4. There are no biological data on Compound 7 in the Patent. 
+ 
+
+45.	The difference between Compound 7 and darunavir is the P1 substituent group. In Compound 7 it is an aralkoxycarbonyl specifically benzyloxycarbonyl which has the following structure:
+ 
+
+
+
+
+
+
+46.    By contrast in darunavir the P1 substituent group is a heterocyclyloxycarbonyl. Even assuming the skilled reader opts for the heterocyclyloxycarbonyl substituent group over the other groups for P1 listed in the claims Prof [X] 's evidence is that he is then faced with a choice of at least 8 x 1036 possibilities for that group alone. The specific P1 group in darunavir comprises a fused bis-tetrahydrofuran joined to an oxygen atom and a carbonyl group. It is represented by the following structure:
+ 
+
+
+
+
+
+
+47.	None of the compounds individually disclosed in the Patent contain this specific heterocyclyloxycarbonyl substituent or indeed anything similar to it. Prof [X] ’s evidence is that it is an unusual substituent and one which he had not previously encountered.
+ 
+
+(…)
+ 
+
+
+2.15.
+Sandoz c.s. is in appel gegaan. In hoger beroep heeft de Court of Appeal bij uitspraak van 25 januari 2018 van Lord Justice Floyd met instemming van Lewison LJ en Kitchin LJ (hierna: uitspraak Floyd LJ4) prejudiciële vragen gesteld aan het HvJ EU.5In de uitspraak is - onder meer - opgenomen: 
+
+(…)
+ 
+
+98.	An important point of detail is the time at which and the circumstances in which the national authority has to determine whether a product is protected by a basic patent. The appellants do not suggest that the exercise for the skilled person of determining whether a product is protected by a basic patent should be performed in ignorance of the product in question. The judge accepted the respondents’ submission that the question whether a product is protected by claims in a basic patent falls to be judged when the product is known and when it has been authorised to be placed on the market as a medicinal product. I did not understand Ms […] to challenge that proposition. I consider it to be correct. That conclusion still leaves open the question of what is the necessary exercise for determining whether the product is protected by the patent. The two candidates which remain are (a) asking whether it is clear that the product is claimed as such; and (b) asking whether the product is one which is sufficiently identified. A test which goes further and asks whether the active ingredient is specifically disclosed is not advanced by the appellants. 
+ 
+
+(…)
+ 
+
+100.	The Lilly requirement stems from the CJEU's decision in Medeva that all members of a combination of active ingredients which is the subject of a SPC must be specified in the wording of the claims. The requirement follows at least according to the Advocate General's reasoning from the fact that the product the subject of the SPC is to be protected "as such" by the basic patent. Medeva was not a case about how closely each component of the combination needs to be specified in the claims. Rather it was a case which ruled out a SPC where some of the products were not specified in the claims at all. It was a case in which one had a plain mis-match between the basic patent and the SPC. If there is a mis-match between the product the subject of the SPC and that protected as such by the patent one can see how infringement rules could lead to an incorrect result. That is because the infringement rules do not require matching in this way. A claim to a single active ingredient is infringed by a combination of that product and another active: but the patent does not protect the combination product as such.
+ 
+
+101.	In the case of a SPC with a single active ingredient the reasoning in Medeva requires that the basic patent protect that active ingredient as such. The reasoning is not informative as to how specifically the claims must focus on the active ingredient or what underlies the requirement that they should do so. 
+ 
+
+102.	It is not clear to me that the CJEU's judgment in Eli Lilly takes the matter much further. Eli Lilly was specifically concerned with functional claims. Functional claims and structural claims are fundamentally different in terms of what they require the skilled person to do in order to determine whether a particular product is specified by a claim. A structural claim simply requires one to read the claim and the specification look at the structure of the product and decide whether it is a product specified in the claims. Functional claims by contrast require one to perform a functional test on the product. For example a claim to an antibody by reference to a binding ability normally requires one to perform a practical test to determine whether the antibody actually binds to something else.
+ 
+
+103.	Medeva therefore left a substantial unanswered question as to whether a product could be specified by a functional claim at all. It might be thought that it was simply too difficult for a patent office operating the simple transparent and objective system set up by the SPC Regulation to work out whether a particular antibody was one specified in the claim. Problems of that nature do not arise in the case of Markush claims.(…) 
+105.	Such help as the judgment in Eli Lilly gives as to what underlies the specificity requirement is to be found not in its core reasoning but in paragraph [43] of the judgment. That paragraph appears to be one designed to give the national court assistance in arriving at its judgment in the main proceedings. It is true that that paragraph is in the context additionally of an application for a SPC based on a third party’s marketing authorisation. But the first part of the paragraph seems to me to indicate albeit without great clarity that the court considers that at least one way of preventing or hindering the marketing authorisations of third parties from being used as the basis for SPCs is to insist on a high degree of specificity in the basic patent. That might help to prevent a patentee spreading the net in his patent claims widely and unspecifically and subsequently fastening on a competitor’s successfully marketed drug to obtain an extended term which he has not earned. That is a consideration which does not only arise in the context of functional claims and lends force to the suggestion that the requirement for a high degree of specificity is a general one. 
+ 
+
+106.	If it is right that there is a general requirement that the active ingredient which is the subject of the SPC must be identified the question arises of how specific the claims must be. I agree with Mr [Q] that there is a spectrum of specificity indicated by the factual scenarios in the various decided cases and references. I would regard it as plain that a Markush claim can in some circumstances amount to a sufficiently precise claim for the purposes of Article 3(a) for example where individual substituents are identified in the specification or where classes of such substituents are set out and the skilled person would be able to determine the extent of those classes. However I do not think one can extract from the reasoning in Eli Lilly the proposition that an active ingredient is adequately identified by a Markush formula however broadly that formula is framed and however obscure the particular substituent required to form the active ingredient the subject of the SPC. I think it is at least arguable that that substituent must be amongst those which the skilled person would be able to identify based on his common general knowledge at the priority date. I say so for two reasons.
+ 
+
+107.	My first reason for considering that proposition to be arguable is the insight which paragraph [43] of Eli Lilly gives into the CJEU’s thinking concerning the purpose of the requirement for the active ingredient to be identified. If the objective is to ensure that the patent proprietor has come close to an actual realisation of the product then the fact that the relevant substituents cannot be arrived at from a reading of the specification and the common general knowledge may be highly relevant.
+ 
+
+108.	My second reason for considering that proposition to be arguable is the view expressed by the BPatG in the Sitagliptin reference that the functional formula in that case and the Markush formula in the present case are factually indistinguishable for the purposes of Article 3(a). Whilst I consider that there are significant points of distinction relevant to Article 3(a) between the two classes of case the BPatG does not agree. It would therefore appear likely that a German court would take the view that a Markush formula may at least in a case like the present fail to provide protection within the meaning of Article 3(a). A decision by this court that a Markush formula will always be adequate for that purpose would therefore lead to conflicting decisions at least in these two member states.
+ 
+
+109.	Like the judge however I am concerned with what I see as a fundamental defect with the “identification” test. The CJEU jurisprudence to date seems to take it as read that a claim can identify active ingredients with specificity. However that is not the function of claims in patents. Instead claims are concerned with setting the limits to the monopoly. A further defect of the focus on the claim is that claims can be manipulated by skilful drafting to protect combinations without distinguishing between genuine combinations of products which work together in a new and advantageous way so as to constitute an inventive advance and mere collocations of products giving rise to their separate individual effects. I agree with the judge that a far better test would be to ask whether the product the subject of the SPC embodies the core inventive advance of the basic patent.
+
+(…)
+ 
+
+114.	In case it would assist the Court of Justice I will express my provisional conclusion. Left to myself I would have concluded that darunavir was a product protected by the claims of the patent. In the case of a product with a single active ingredient and a patent with a claim which identifies a number of compounds by means of a Markush formula all of which compounds embody the core inventive technical advance of the patent the test should be whether the skilled person considering the claims of the patent on the one hand and the structure of the product in question on the other would immediately recognise that the active ingredient in question is one of those specified by the formula. On the facts of the present case as found by the judge that test is satisfied. However for the reasons I have given it is not clear that this is the correct approach in EU law.
+ 
+
+115.	I would therefore propose that this court should stay the present appeal proceedings and refer the following question to the CJEU:  
+“Where the sole active ingredient the subject of a supplementary protection certificate issued under [the SPC Regulation] is a member of a class of compounds which fall within a Markush definition in a claim of the patent all of which class members embody the core inventive technical advance of the patent is it sufficient for the purposes of Article 3(a) of the SPC Regulation that the compound would upon examination of its structure immediately be recognised as one which falls within the class (and therefore would be protected by the patent as a matter of national patent law) or must the specific substituents necessary to form the active ingredient be amongst those which the skilled person could derive based on their common general knowledge from a reading of the patent claims?” 
+(…)
+ 
+
+
+2.16.
+Het HvJ EU heeft op 25 juli 2018 arrest gewezen in de zaak tussen Teva UK Ltd c.s. en Gilead Sciences Inc.6 (hierna: Teva-Gilead arrest) inzake de uitleg van artikel 3 sub a ABC-Vo. In het arrest (weergegeven in de Engelse procestaal) heeft het HvJ EU - onder meer - overwogen: 
+
+(…)
+ 
+
+46. It follows from the above that the subject matter of the protection conferred by an SPC must be restricted to the technical specifications of the invention covered by the basic patent such as claimed in that patent.
+46. With regard to the implementation of that rule it must in the first place be stated that in accordance with a principle shared by the patent laws of the Member States and reflected in Article 1 of the Protocol on the Interpretation of Article 69 of the EPC the claims of a patent are to be interpreted from the perspective of a person skilled in the art and therefore the issue whether the product which is the subject of the SPC necessarily falls under the invention covered by that patent must be assessed from that perspective.
+46. To that end it is necessary to ascertain whether a person skilled in the art can understand without any doubt on the basis of their general knowledge and in the light of the description and drawings of the invention in the basic patent that the product to which the claims of the basic patent relate is a specification required for the solution of the technical problem disclosed by that patent.
+46. In the second place having regard to the objective of Regulation No 469/2009 recalled in paragraph 39 above for the purposes of assessing whether a product falls under the invention covered by a basic patent account must be taken exclusively of the prior art at the filing date or priority date of that patent such that the product must be specifically identifiable by a person skilled in the art in the light of all the information disclosed by that patent.
+46. Were it to be accepted that such an assessment could be made taking into account results from research which took place after the filing date or priority date of the basic patent an SPC could enable its holder unduly to enjoy protection for those results even though they were not yet known at the priority date or filing date of that patent what is more outside any procedure for the grant of a new patent. That would as pointed out in paragraphs 40 and 41 above run counter to the objective of Regulation No 469/2009.
+46. Therefore for the purposes of determining whether a product which is the subject of an SPC is protected by a basic patent within the meaning of Article 3(a) of that regulation that product must be identifiable specifically by a person skilled in the art in the light of all the information disclosed by the basic patent and of the prior art at the filing date or priority date of that patent.
+46. Having regard to all the foregoing considerations a product is ‘protected by a basic patent in force’ within the meaning of Article 3(a) of Regulation No 469/2009 in so far as if that product is not expressly mentioned in the claims of the basic patent one of those claims relates to it necessarily and specifically. For that purpose that product must from the point of view of a person skilled in the art and in the light of the description and drawings of the basic patent necessarily fall under the invention covered by that patent. The person skilled in the art must be able identify that product specifically in the light of all the information disclosed by that patent on the basis of the prior art at the filing date or priority date of the patent concerned.
+46. Such an interpretation of Article 3(a) of Regulation No 469/2009 must also be upheld in a situation such as that at issue in the case in the main proceedings where the products which are the subject of a SCP [bedoeld zal zijn: SPC voorzieningenrechter] are composed of several active ingredients which have a combined effect.
+46. Thus as regards the issue whether a claim such as claim 27 of the basic patent in fact covers a combination such as the TD/emtricitabine combination which is the subject of the SPC at issue it falls to the referring court to determine whether the general expression ‘other therapeutic ingredients’ associated with the term ‘optionally’ satisfies the requirement that the claims of the basic patent must relate necessarily and specifically to the product.
+46. In particular it is for the referring court to ascertain in accordance with the considerations in paragraphs 47 to 51 above whether from the point of view of a person skilled in the art the combination of active ingredients of which the product which is the subject of the SPC at issue consists necessarily falls under the invention covered by that patent and whether each of those active ingredients is specifically identifiable on the basis of the prior art at the filing date or priority date of that patent.
+46. In the present case it is apparent first from the information in the order for reference that the description of the basic patent at issue contains no information as to the possibility that the invention covered by that patent could relate specifically to a combined effect of TD and emtricitabine for the purposes of the treatment of HIV. Consequently it does not seem possible that a person skilled in the art on the basis of the prior art at the filing date or priority date of that patent would be able to understand how emtricitabine in combination with TD necessarily falls under the invention covered by that patent. The onus is nevertheless on the referring court to check whether such is indeed the case. Secondly it is also for that court to establish whether emtricitabine is specifically identifiable by that person skilled in the art in the light of all the information contained in that patent on the basis of the prior art at the filing date or priority date of the patent in question.
+ 
+
+(…)
+ 
+
+
+2.17.
+Op 26 juli 2018 heeft het HvJ EU aan de Engelse Court of Appeal daarbij attenderend op het Teva-Gilead arrest een zogenaamde ‘Notification of a judgment having a similar effect’ gestuurd en gevraagd of hij zijn verzoek in de onder 2.15. genoemde zaak handhaafde. Bij brief van 3 oktober 2018 heeft de Court of Appeal gemeld dat hij zijn verwijzing handhaaft. Daarbij heeft de griffier het HvJ EU laten weten: 
+
+The answer given by the Court in Case C-121/17 is specific to combination products. This Court’s question in the present case relates to a basic patent which protects products consisting of a single active ingredient by means of a class formula where all members of the class embody the core inventive concept of the patent. The court considers that the reference remains necessary to resolve the dispute in the main proceedings.
+ 
+
+Eenzelfde verzoek heeft het HvJ EU ook gedaan aan het BPatG in de Sitagliptine zaak (zie onder 2.13). Ook het BPatG heeft aangegeven zijn verwijzing te handhaven.
+ 
+
+
+
+
+3 Het geschil
+
+3.1.
+Voor de leesbaarheid worden hieronder nogmaals de in 2.1. van het provisionele vonnis van 1 november 2018 weergegeven vorderingen in de hoofdzaak van deze kortgedingprocedure van Searle opgenomen. Searle vordert - deels samengevat - dat de voorzieningenrechter: 
+1. Sandoz zal verbieden om in Nederland op enigerlei wijze betrokken te zijn bij (directe en/of indirecte) inbreuk op het ABC onder meer door het betrokken zijn bij het vervaardigen in het verkeer brengen verder verkopen afleveren of anderszins verhandelen of voor dit een en ander (verder) aanbieden van het generieke geneesmiddel ‘Darunavir Sandoz’ (of enig ander generiek geneesmiddel van het Sandoz concern dat darunavir bevat);  
+2. Sandoz zal bevelen haar aanbieding van ‘Darunavir Sandoz’ in de G-standaard te rectificeren met een zogeheten Taxe-brief en dit product per de eerstvolgende keer dat dit redelijkerwijze mogelijk is uit de gepubliceerde G-standaard prijslijst te (laten) verwijderen voor zover een en ander niet reeds in het kader van een provisionele voorziening heeft plaatsgevonden;  
+3. Sandoz zal bevelen in de eerstvolgende uitgave van het Pharmaceutisch Weekblad een advertentie te plaatsen welke voldoet aan wat in paragraaf 42 van de dagvaarding is gesteld;  
+4. Sandoz zal bevelen een overzicht te geven van de vervaardigings- en distributieketen van ‘Darunavir Sandoz’; 
+5. Sandoz zal bevelen aan Searle schriftelijke opgave te verstrekken van alle afnemers aan wie Sandoz producten heeft verkocht afgeleverd en/of heeft aangeboden die vallen onder de beschermingsomvang van het ABC;  
+6. Sandoz zal bevelen aan ieder van de onder 5 bedoelde afnemers een aangetekende brief te zenden met uitsluitend de in het petitum onder 6 opgenomen inhoud en zonder bijschrift onder de verplichting om gelijktijdige kopieën van alle te verzenden brieven te verschaffen aan Searle;   
+7. Sandoz zal bevelen om per overtreding van het onder 1 bedoelde verbod en voor iedere niet (gehele c.q. deugdelijke) nakoming van de onder 2 3 4 5 en/of 6 bedoelde bevelen aan Searle een dwangsom te betalen van € 50.000- dan wel ter keuze van Searle aan Searle een dwangsom te betalen van € 25.000- per betrokken product of per dag een gedeelte van een dag voor een gehele gerekend dat de betrokkenheid van Sandoz bij directe of indirecte inbreuk op het ABC zal voortduren of de onder 2 3 4 en/of 5 bedoelde bevelen niet geheel en deugdelijk worden nagekomen waarbij de dwangsommen verschuldigd zijn per niet (geheel en deugdelijk) nagekomen verbod of bevel; 
+8. Sandoz zal veroordelen in de proceskosten ex artikel 1019h Rv.  
+
+
+3.2.
+Ter onderbouwing van haar verbodsvordering en nevenvorderingen stelt Searle mede naar aanleiding van vragen van de voorzieningenrechter ter zitting dat - kort samengevat - Sandoz directe inbreuk maakt op het ABC door de opname van Darunavir Sandoz in de G-standaard en door het aanbieden van Darunavir Sandoz aan groothandels nu Darunavir Sandoz onder de beschermingsomvang van het ABC valt. 
+
+
+3.3.
+Sandoz betoogt ten verwere dat de door Searle gevraagde voorzieningen moeten worden geweigerd omdat een serieuze niet te verwaarlozen kans bestaat dat het ABC in een bodemprocedure zal worden vernietigd wegens strijd met artikel 3 sub a ABC-Vo. Daartoe voert Sandoz aan dat het HvJ EU in het Teva-Gilead arrest een rechtsregel heeft geformuleerd in de zin van de toepassing van een ‘tweetrapstest’ om te beoordelen of een product is beschermd door een van kracht zijnd basisoctrooi in de zin van artikel 3 sub a ABC-Vo. Volgens Sandoz is onmiskenbaar dat deze rechtsregel niet enkel toegepast moet worden ingeval van combinatieproducten (zoals in de Teva-Gilead zaak) maar ook wanneer het basisoctrooi een Markush-formule betreft (zoals in de onderhavige procedure) omdat het Teva-Gilead arrest gewezen is door de Grote Kamer van het HvJ EU die een antwoord in bredere zin op rechtsvragen heeft gegeven. Indien de tweetrapstest wordt toegepast leidt dat tot de conclusie dat darunavir niet wordt beschermd door EP 209 als basisoctrooi. Sandoz onderbouwt dit standpunt als volgt. 
+
+3.3.1.
+De door het HvJ EU genoemde twee stappen om te beoordelen of een product is beschermd door een van kracht zijnd basisoctrooi zijn de volgende. 
+
+Stap 1: valt het product noodzakelijkerwijs onder de uitvinding volgens de vakman op de relevante datum in het licht van de tekeningen en de beschrijving en de algemene vakkennis?
+Stap 2: kan het product specifiek worden geïdentificeerd door de vakman op de relevante datum in het licht van de tekeningen en de beschrijving en de algemene vakkennis?
+ 
+
+
+3.3.2.
+Voor een positief antwoord op de vraag onder stap 1 is volgens Sandoz gezien  het Teva-Gilead arrest  méér  vereist dan dat het product onder de conclusies van het basisoctrooi valt. ABC’s worden enkel verleend voor producten die op de aanvraag- of prioriteitsdatum daadwerkelijk waren uitgevonden. Daarvan is in dit geval geen sprake. Darunavir is pas zes jaar na de prioriteitsdatum uitgevonden door  [A] . 
+
+
+3.3.3.
+Stap 2 vereist dat darunavir specifiek kon worden geïdentificeerd door de vakman in het basisoctrooi. Daarvan is  evenmin sprake. In de beslissing van Arnold J is door een deskundige van Sandoz c.s. professor [X]  geschat dat er tussen de 7 x 10135 en 1 x 10377 stoffen vallen onder Formule I en Formule II van EP 209. Noch in de conclusies noch in de beschrijving van EP 209 worden moleculen geopenbaard die lijken op of in de buurt komen van darunavir. De P1 substituent van darunavir wordt in het geheel niet geopenbaard en is een ongebruikelijke verbinding die geen algemene vakkennis van de vakman was die zich bezighoudt met HIV-medicatie. Evenmin zou de vakman met gebruikmaking van zijn algemene vakkennis uitkomen op darunavir. 
+
+
+3.3.4.
+Het Teva-Gilead arrest is gewezen na de beslissing van de Court of Appeal van 25 januari 2018 (vergelijk onder 2.15.). Uit het feit dat het HvJ EU de dag erna aan de Court of Appeal heeft gevraagd of hij zijn verwijzing handhaaft volgt dat ook het HvJ EU vindt dat de door de Court of Appeal gestelde prejudiciële vragen al zijn beantwoord. Dat het ABC nietig is volgens de rechtsregels van het Teva-Gilead arrest is daarmee een acte clair dan wel acte éclairé waarvoor een beslissing van het HvJ EU op de door de Court of Appeal gestelde prejudiciële vragen niet hoeft te worden afgewacht. 
+
+
+
+3.4.
+Op de stellingen van partijen wordt hierna voor zover van belang nader ingegaan.  
+
+
+
+
+4 De beoordeling in de hoofdzaak in kort geding
+Bevoegdheid en spoedeisend belang
+
+4.1.
+Over de bevoegdheid van deze rechtbank is reeds geoordeeld in r.o. 3.1. van het provisionele vonnis waar impliciet ook spoedeisend belang is aangenomen nu een provisionele maatregel is opgelegd. Het spoedeisend belang is ook niet bestreden. 
+
+
+Gerede kans dat ABC wordt vernietigd?
+
+ 
+
+
+4.2.
+Een ABC kan worden afgegeven indien wordt voldaan aan de cumulatieve eisen van artikel 3 ABC-Vo. Artikel 3 sub a ABC-Vo stelt de eis dat het product wordt beschermd door een van kracht zijnd basisoctrooi. Onder ‘product’ moet volgens de definitie van artikel 1 sub b ABC-Vo worden verstaan: “de werkzame stof of de samenstelling van werkzame stoffen van een geneesmiddel”. 
+
+
+4.3.
+De te beantwoorden vraag in het onderhavige kort geding is of darunavir voldoet aan het vereiste van artikel 3 sub a ABC-Vo te weten of het wordt beschermd door een van kracht zijnd basisoctrooi (EP 209). Naar voorlopig oordeel is dat niet het geval en daarvoor is het volgende redengevend. 
+
+
+4.4.
+Vooropgesteld wordt dat om te bepalen wat door het basisoctrooi wordt beschermd in de zin van artikel 3 sub a ABC-Vo de regels moeten worden gebruikt inzake de beschermingsomvang van de uitvinding waarvoor een dergelijk octrooi geldt zoals de bepalingen van artikel 69 EOV en artikel 1 van het protocol inzake de uitleg ervan en niet de regels inzake vorderingen wegens inbreuk.7 Bij die beoordeling spelen de conclusies van het octrooi een wezenlijke rol8 waarbij het oogpunt van de gemiddelde vakman op basis van zijn algemene vakkennis op de prioriteits- of aanvraagdatum het referentiepunt vormt aan de hand waarvan die conclusies in het licht van de beschrijving en de tekeningen dienen te worden uitgelegd.9 
+
+
+4.5.
+
+Zoals Searle terecht opmerkt volgt daarnaast uit het Eli Lilly arrest dat artikel 3 sub a ABC-Vo er in beginsel niet aan in de weg staat dat een werkzame stof die onder een functionele formule valt die is vermeld in de conclusies van een Europees octrooi kan worden beschouwd als beschermd door dit octrooi evenwel op voorwaarde dat 
+op basis van dergelijke conclusies uitgelegd met name in het licht van de beschrijving van de uitvinding zoals vereist in artikel 69 EOV en het protocol inzake de uitleg ervan kan worden geconcludeerd dat deze conclusies impliciet maar noodzakelijkerwijs en specifiek betrekking hadden op de betrokken werkzame stof (onderstreping toegevoegd voorzieningenrechter) (vergelijk onder 2.12.). Het HvJ EU heeft in deze uitspraak onderkend dat bij een functionele formule in een uitvinding sprake kan zijn van een onbekend (groot) aantal stoffen die door het basisoctrooi wordt bestreken (zie onder 2.12. r.o. 19).
+ 
+
+
+4.6.
+Zo beschouwd is op voorhand niet onaannemelijk dat hetzelfde heeft te gelden voor een werkzame stof die onder een structurele formule valt vermeld in de conclusies van het basisoctrooi zoals de onderhavige Markush-formule in EP 209 die een onnoemelijk groot aantal stoffen bestrijkt. Ook in die situatie behoeft de breedte of reikwijdte van de geclaimde formule geen beletsel te vormen een daaronder vallende werkzame stof door het octrooi beschermd te achten in de zin van artikel 3 sub a ABC-Vo. Echter gezien de lijn van de jurisprudentie in het bijzonder het Eli Lilly arrest en het Teva-Gilead arrest valt te verwachten dat het HvJ EU in de aanhangige referrals van de Engelse en de Duitse rechters zal oordelen dat dit alleen maar mogelijk zal zijn wanneer aan de voornoemde in r.o. 4.5. geformuleerde voorwaarde is voldaan en de werkzame stof daardoor feitelijk aan de vakman ter beschikking wordt gesteld. 
+
+
+4.7.
+
+De wijze waarop aan deze voorwaarde invulling moet worden gegeven is door het HvJ EU in het Teva-Gilead arrest uitgewerkt. Om te beoordelen of een werkzame stof voor afgifte van een ABC in aanmerking komt moet de volgende twee stappentoets - geparafraseerd weergegeven - worden doorlopen:
+1) Belichaamt het product (waarvoor ABC-bescherming wordt gevraagd) de uitvinding (vergelijk onder 2.16. r.o. 47-48 en 52)?
+2) Is dit product voor de vakman ‘specifically identifiable’ in het licht van alle door dat octrooi bekendgemaakte gegevens en op basis van zijn algemene vakkennis10 op de datum van indiening / prioriteitsdatum van het basisoctrooi (vergelijk onder 2.16. r.o. 49 en 52)?
+ 
+
+Toepassing van de twee stappentoets in de onderhavige zaak brengt de voorzieningenrechter tot het volgende voorshandse oordeel.
+ 
+
+
+4.8.
+Darunavir voldoet aan het vereiste van de eerste toets aangezien in dat geval de vraag is of het product de uitvinding belichaamt of in de woorden van het arrest of de gemiddelde vakman op basis van zijn algemene vakkennis en in het licht van de beschrijving en de tekeningen van het octrooi ondubbelzinnig kan begrijpen dat het in de conclusies van het basisoctrooi bedoelde product een kenmerk is dat noodzakelijk is voor de door dat octrooi bekendgemaakte oplossing van het technische probleem. Daarbij dient het product dat voorwerp is van de ABC-aanvrage veronderstellenderwijs tot uitgangspunt genomen te worden en is nog niet van belang of het product specifiek identificeerbaar was (dit is pas bij stap 2 aan de orde). Darunavir belichaamt de uitvinding nu als onweersproken vaststaat dat de structuurformule van darunavir onder de Markush-formule van conclusie 1 en conclusie 5 valt (zie onder 2.7.) en de verbinding HIV-remmende werking heeft. 
+
+
+4.9.
+Het doek valt echter bij toetsing aan het tweede vereiste. Hier is relevant of de werkzame stof (hier: darunavir) op de prioriteitsdatum voor de gemiddelde vakman gebruikmakend van zijn algemene vakkennis ‘specifically identifiable’ was in het licht van alle door het octrooi geopenbaarde informatie. Anders dan Searle onder verwijzing naar de uitspraak van Warren J in de Eli Lilly zaak (na beantwoording van de door hem gestelde vragen aan het HvJ EU) van 18 juli 201411 en Floyd LJ (zie 2.15.)12aanvoert kan de door het HvJ EU genoemde peildatum in het kader van de vraag of een werkzame stof door het basisoctrooi wordt beschermd naar voorlopig oordeel niet anders worden begrepen dan dat dát de relevante datum voor de beoordeling is. Daarvan uitgaande geldt dat als onweersproken vast staat dat onder de geclaimde Markush-formules van het basisoctrooi een onvoorstelbaar groot aantal stoffen valt welke hoeveelheid in de Engelse procedure (zie onder 2.14.) voor wat betreft de formule onder conclusie 1 van EP 209 is geschat op een aantal tussen 7 x 10135 en 1 x 10377. Daarnaast staat vast dat darunavir anders dan de naar schatting van Searle circa honderd daarin wel beschreven ‘preferred compounds’ noch in de conclusies noch in de beschrijving wordt geopenbaard (vergelijk onder 2.8.). Bovendien volgt uit r.o. 47 van de beslissing van Arnold J (zie onder 2.14.) zoals Sandoz heeft aangevoerd dat de P1 substituent van darunavir (een heterocyclyloxycarbonyl) een ongebruikelijke verbinding was die op de prioriteitsdatum geen algemene vakkennis was voor de vakman die werkzaam is op het terrein van HIV-medicatie.13 Dat is door Searle niet betwist. Tussen partijen staat verder vast dat darunavir op de eerste datum nog niet bestond en dat de stof pas zes jaar later in 1998 is ontwikkeld en gesynthetiseerd door [A] (vergelijk onder 2.9.). Daarmee was darunavir voor de vakman op de prioriteitsdatum niet ‘specifically identifiable’ in het licht van alle door het basisoctrooi bekendgemaakte gegevens. 
+
+
+4.10.
+Voor zover Searle nog bedoeld heeft te betogen dat het Teva-Gilead arrest alleen relevantie heeft voor combinatieproducten en niet zoals in deze zaak voor mono-producten wordt zij daarin niet gevolgd. Het Teva-Gilead arrest is (in tegenstelling tot het Eli Lilly arrest) gewezen door de Grote Kamer van het HvJ EU welke slechts zaken behandelt wanneer daarin belangrijke rechtsvragen aan de orde zijn die een bredere beantwoording behoeven zo heeft Sandoz onbestreden aangevoerd. Dat het HvJ EU heeft beoogd algemene regels te formuleren wordt ondersteund door de bewoordingen van het arrest. In r.o. 46 tot en met 52 (zie onder 2.16.) schetst het HvJ EU het algemene kader zonder referenties naar combinatie- dan wel monoproducten. Pas in r.o. 53 (‘must also be upheld’) keert het HvJ EU terug naar de feitelijke situatie van het hoofdgeding en wordt specifieker uitgelegd welke vragen de verwijzende rechter dient te beantwoorden om te komen tot de uiteindelijke beslissing. Een verdere aanwijzing hiervoor is mogelijk te vinden in het feit dat het HvJ EU de dag na het wijzen van het Teva-Gilead arrest een brief heeft gestuurd aan de Court of Appeal met de vraag of hij de gestelde prejudiciële vragen wenste te handhaven (zie onder 2.17.) terwijl onweersproken is dat het HvJ EU een dergelijke brief slechts stuurt wanneer hij meent dat de gestelde prejudiciële vragen identiek of analoog zijn aan vragen die al zijn beantwoord in een eerdere procedure. Dat het HvJ EU de referrals van de Engelse en Duitse rechters af zal doen in een verkorte procedure is dan ook niet ondenkbaar. 
+
+
+4.11.
+Gelet op het voorgaande kan niet worden geconcludeerd dat conclusie 1 van EP 209 impliciet maar noodzakelijkerwijs en specifiek betrekking heeft op darunavir. Bij die stand van zaken kan het verweer van Sandoz dat daranuvir niet door Searle maar door [A] is uitgevonden zodat Searle ook om die reden volgens haar geen recht op een ABC toekomt14 in dit geding onbesproken blijven. 
+
+
+4.12.
+Er zijn op dit moment (specifiek ook naar aanleiding van de aanvraag om een ABC voor darunavir) nog prejudiciële vragen aanhangig omtrent de uitleg van de relevante jurisprudentie van het HvJ EU aangaande artikel 3 sub a ABC-Vo (zie de eerder aangehaalde referrals uit Engeland en Duitsland). Al omdat de verwijzende rechters die wat betreft die uitleg minst genomen niet op dezelfde lijn zitten hun vragen niet hebben ingetrokken na het Teva-Gilead arrest kan - anders dan Sandoz meent - niet van een acte clair of acte éclairé worden gesproken in die zin dat de uitleg die het HvJ EU in het Teva-Gilead arrest heeft gegeven allesomvattende duidelijkheid heeft gebracht. Reden ook waarom de provisionele vorderingen niet eenvoudigweg konden worden afgewezen nu de zaak niet zo ‘klip en klaar’ is als Sandoz heeft aangevoerd (zij sprak van een ‘gamechanger’ die een launch at risk rechtvaardigde). Desalniettemin wordt in dit kort geding in de hoofdzaak voorshands aangenomen dat er een serieuze niet te verwaarlozen kans bestaat dat het ABC dat is verleend voor darunavir in een bodemprocedure nietig wordt bevonden vanwege strijd met genoemde bepaling. 
+
+
+4.13.
+De vorderingen van Searle liggen daarmee voor afwijzing gereed. 
+
+
+Proceskosten in de provisionele voorziening en in de hoofdzaak
+
+ 
+
+
+4.14.
+In de hoofdzaak zal Searle als de in het ongelijk gestelde partij worden veroordeeld in de daarop betrekking hebbende proceskosten aan de zijde van Sandoz. Met de beoordeling in de hoofdzaak is duidelijk geworden dat een verbod op inhoudelijke gronden niet aan de orde kan zijn. De voorzieningenrechter ziet daarin aanleiding Searle eveneens in de kosten van de provisionele voorziening te veroordelen. De specificaties (voor zowel het verweer tegen de provisionele voorziening als de verweren in de hoofdzaak) die Sandoz heeft ingediend sluiten op € 28.32020 exclusief BTW. Tegen de hoogte van de door Sandoz opgevoerde kosten is door Searle geen bezwaar gemaakt. Dit bedrag zal worden toegewezen. 
+
+
+
+
+5 De beslissing
+De voorzieningenrechter 
+
+5.1.
+wijst de vorderingen in de hoofdzaak af 
+
+
+5.2.
+veroordeelt Searle in de kosten van het geding in de provisionele voorziening en in de hoofdzaak tot op heden aan de zijde van Sandoz begroot op € 28.32020 
+
+
+5.3.
+verklaart de proceskostenveroordeling onder 5.2. uitvoerbaar bij voorraad. 
+
+Dit vonnis is gewezen door mr. J.Th. van Walderveen en bij zijn ontstentenis in het openbaar uitgesproken door mr. C.T. Aalbers op 8 januari 2019.
+
+
+
+1
+Verordening (EG) nr. 469/2009 van het Europees Parlement en de Raad van 6 mei 2009 betreffende het aanvullende beschermingscertificaat voor geneesmiddelen
+2
+ Hof van Justitie van de Europese Unie
+3
+ C-493/12 EU:C:2013:835
+4
+ [2018] EWCA Civ 49
+5
+ De zaak is bij het HvJ EU is geregistreerd onder nummer C-114/18
+6
+ C-121/17 ECLI:EU:C:2018:585
+7
+Eli Lilly arrest r.o. 33 en 37; Teva-Gilead arrest r.o. 25 32 en 33.
+8
+Teva-Gilead arrest r.o. 34 met verwijzing naar het Eli Lilly arrest r.o. 34 en de daar aangehaalde rechtspraak (i.e. Medeva (C-322/10) University of Queensland and CSL (C-630/10) en Daiichi Sankyo (C-6/11))
+9
+Teva-Gilead arrest r.o. 47-49
+10
+ In de Engelse procestaal wordt in r.o. 49 van het Teva-Gilead arrest (net als in de Nederlandse vertaling) gesproken over ‘prior art (at the filing date or priority date)’. Met Arnold J (zie r.o. 17 van zijn uitspraak na verwijzing in de Teva-Gilead zaak van 18 september 2018 [2018] EWHC 2416 (Pat) raadpleegbaar op http://www.bailii.org/ew/cases/EWHC/Patents/2018/2416.html) wordt voorshands aangenomen dat dit een fout betreft en in plaats daarvan in de betreffende overweging bedoeld is te zeggen ‘op basis van de common general knowledge van de gemiddelde vakman op de aanvraag- of prioriteitsdatum’. Een lezing in de letterlijke zin zou aanzienlijke consequenties hebben omdat er meer producten in aanmerking komen voor een ABC als de gemiddelde vakman bij het lezen van het octrooi prior art in aanmerking mag nemen en niet alleen zijn algemene vakkennis.
+11
+ EWHC 2404 (Pat) raadpleegbaar op http://www.bailii.org/ew/cases/EWHC/Patents/2014/2404.html
+12
+ Beide Engelse uitspraken dateren van voor het Teva-Gilead arrest
+13
+ Pleitnota Sandoz randnummer 8
+14
+Pleitnota Sandoz randnummer 9 en 10

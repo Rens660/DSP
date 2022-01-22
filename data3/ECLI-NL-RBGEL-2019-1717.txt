@@ -1,0 +1,412 @@
+
+
+
+
+RECHTBANK GELDERLAND
+
+ 
+
+Team strafrecht
+ 
+
+Zittingsplaats Arnhem
+ 
+
+Parketnummer	: 05/720364-18
+Datum uitspraak	: 16 april 2019
+ 
+
+Tegenspraak
+ 
+
+
+vonnis van de meervoudige kamer
+
+ 
+
+in de zaak van
+ 
+
+
+de officier van justitie bij het arrondissementsparket Oost-Nederland
+
+ 
+
+tegen	
+ 
+
+
+
+          [verdachte] 
+
+geboren op [geboortedag] 1993 te [geboorteplaats] (Albanië)
+zonder vaste woon- of verblijfplaats in Nederland.
+ 
+
+Raadsman: mr. H. Raza advocaat te Rotterdam.
+ 
+
+Dit vonnis is gewezen naar aanleiding van het onderzoek op de terechtzittingen van 8 januari 2019 en 2 april 2019.
+ 
+
+
+
+1 De inhoud van de tenlastelegging 
+
+Aan verdachte is ten laste gelegd dat:
+ 
+
+hij in of omstreeks de periode van 6 oktober 2018 tot en met 7 oktober 2018 te Ochten gemeente Neder-Betuwe en/of te Kesteren gemeente Neder-Betuwe in ieder geval in Nederland tezamen en in vereniging met een of meer anderen althans alleen opzettelijk binnen en/of buiten het grondgebied van Nederland heeft gebracht en/of heeft afgeleverd en/of verstrekt en/of vervoerd in elk geval opzettelijk aanwezig heeft gehad ongeveer 6000 (zesduizend) gram in elk geval een hoeveelheid van een materiaal bevattende cocaïne  zijnde cocaïne een middel als bedoeld in de bij de Opiumwet behorende lijst I dan wel aangewezen krachtens het vijfde lid van artikel 3a van die wet. 
+ 
+
+
+
+2 Overwegingen ten aanzien van onderzoek [naam 1] 
+
+
+Onderzoek [naam 1]
+
+De rechtbank ziet aanleiding om eerst in te gaan op hetgeen de raadsman naar voren heeft gebracht ten aanzien van onderzoek [naam 1] . 
+ 
+
+Uit het procesdossier van de onderhavige zaak (onderzoek [naam 3] ) en de door de officier van justitie verstrekte stukken uit onderzoek [naam 1] leidt de rechtbank het volgende af.
+Onderzoek [naam 1] heeft betrekking op criminele gebruikers van zogenaamde ‘encrypted’ telefoons. Onder andere is onderzoek gedaan naar de chatapplicatie ‘ [naam 2] ’. 
+ 
+
+Deze applicatie is van het Nederlandse bedrijf [naam 4] . Dit bedrijf maakt voor levering ondersteuning en instandhouding van encrypted communicatie gebruik van een server in het Verenigd Koninkrijk die zij huurt van het Britse telecombedrijf [naam 5] . 
+ 
+
+In het onderhavige geval is [naam 5] een in Groot-Brittannië gevestigde aanbieder van een communicatiedienst (verhuurder van een server) als bedoeld in artikel 126t Sv jo artikel 126la van het Wetboek van Strafvordering (Sv). [naam 4] heeft een server gehuurd van [naam 5] voor de door haar aangeboden applicatie [naam 2] . [naam 4] is gebruiker van de diensten van [naam 5]  maar tevens aanbieder van de communicatiedienst [naam 2] aan haar gebruikers. 
+ 
+
+Bij de rechter-commissaris zijn vorderingen ingediend om machtiging voor het opnemen van telecommunicatie die plaatsvindt via een specifiek vermeld IP-adres van [naam 4] op de server van [naam 5] (artikel 126t eerste lid Sv) en om machtiging medewerking te verlenen aan het ontsleutelen van gegevens (artikel 126t zesde lid Sv). Deze beide machtigingen zijn afgegeven (en vervolgens twee maal verlengd).
+ 
+
+Vervolgens is door een Engelse politiedienst met medeweten van [naam 5] een door de Nederlandse politie vervaardigde “plug in” op de server van [naam 4] geplaatst waardoor de communicatie via [naam 2] werd omgeleid naar een server die de Nederlandse politie bij [naam 5] heeft gehuurd.  
+ 
+
+Daardoor kon binnen het onderzoek overgegaan worden tot het live intercepteren van berichten tussen gebruikers van [naam 2] . Door op de server die [naam 4] van [naam 5] huurt de berichten te onderscheppen was het mogelijk om de berichten die verstuurd worden tussen de gebruikers van [naam 2] leesbaar te maken. Interceptie op die server maakte de inhoud van het berichtenverkeer zichtbaar. 
+ 
+
+Verdachte zou gebruik hebben gemaakt van [naam 2] .
+ 
+
+
+Het standpunt van de verdediging
+
+De raadsman heeft zich primair op het standpunt gesteld dat de behandeling van de zaak moet worden aangehouden omdat essentiële stukken ontbreken in het bijzonder rechtshulpverzoeken en informatie over afspraken die met de Engelsen zijn gemaakt en de grondslag van die afspraken. Ook is de rechter-commissaris onvolledig geïnformeerd.
+Subsidiair heeft de raadsman bepleit dat het Openbaar Ministerie niet-ontvankelijk moet worden verklaard in de vervolging omdat sprake is van strijd met de artikelen 1 en 126t zesde lid Sv. De vorderingen zijn ten onrechte gedaan aan [naam 5] en de opsporing had ook geen wettelijke grondslag. Verder is gehandeld in strijd met het hackverbod. 
+Meer subsidiair heeft de raadsman aangevoerd dat alle [naam 2] -berichten moeten worden uitgesloten van het bewijs. 
+Ten slotte heeft de raadsman zich uiterst subsidiair op het standpunt gesteld dat aanleiding bestaat voor strafvermindering.
+ 
+
+
+Het standpunt van de officier van justitie
+
+De officier van justitie heeft het standpunt ingenomen dat het bewijs is verzameld binnen de kaders van de wet en met toestemming van de rechter-commissaris. De rechter-commissaris heeft ook de beschikking gehad over een technische uitleg van het ingezette middel.
+Van hacken is volgens de officier van justitie geen sprake geweest omdat er met medeweten van telecomaanbieder [naam 5] een plug-in is geplaatst waardoor de data van de [naam 2] server zijn omgeleid naar de server van de politie. Op de server van [naam 2] is niet gemanipuleerd met de inhoud van de berichten noch met de ontsleuteling. De ontsleuteling vond plaats op de server van de politie. 
+ 
+
+
+Beoordeling door de rechtbank
+
+Onder verwijzing naar het arrest van de Hoge Raad van 5 oktober 2010 (ECLI:NL:HR:2010:BL5629) hanteert de rechtbank het volgende uitgangspunt. Ten aanzien van onderzoekshandelingen in het buitenland waarvan de uitvoering plaatsvindt onder verantwoordelijkheid van de Nederlandse autoriteiten dient de Nederlandse strafrechter te onderzoeken of de Nederlandse rechtsregels die dat optreden normeren zijn nageleefd. Daarbij is van belang dat Nederlandse opsporingsambtenaren ingevolge artikel 539a eerste lid Sv de hen bij de wet toegekende opsporingsbevoegdheden ook in het buitenland kunnen uitoefenen. 
+Opmerking verdient hierbij dat de vraag of door de Nederlandse opsporingsambtenaren het volkenrecht is nageleefd in die zin dat geen inbreuk is gemaakt op de soevereiniteit van de staat binnen de grenzen waarvan is opgetreden in beginsel in het kader van de strafzaak tegen de verdachte niet relevant is omdat de belangen die het volkenrecht in zoverre beoogt te beschermen geen belangen zijn van de verdachte maar van de staat op het grondgebied waarvan buitenlandse opsporingsambtenaren optreden. 
+ 
+
+De rechtbank overweegt ten aanzien van het verzoek tot aanhouding als volgt.
+De raadsman heeft in dat verband betoogd dat het dossier onvolledig is omdat onder andere de stukken betreffende het rechtshulpverzoek in het onderzoek [naam 1] ontbreken. Naar het oordeel van de rechtbank behoeft het dossier geen aanvulling waarbij zij het volgende van belang acht. Tijdens de zitting van 8 januari 2019 is het verzoek van de verdediging tot voeging van alle stukken uit het [naam 1] onderzoek afgewezen. De officier van justitie is alleen opgedragen een proces-verbaal te verstrekken met betrekking tot twee specifieke vragen. De officier van justitie heeft besloten toch enkele stukken uit onderzoek [naam 1] te verspreiden waaronder stukken over de door de rechter-commissaris verstrekte machtigingen ten aanzien van het Nederlandse opsporingstraject. Daarmee is controleerbaar op basis waarvan de Nederlandse opsporingsinstanties hebben gehandeld. Dat vindt de rechtbank afdoende. Gelet op de Schutznorm hoeft de rechtbank de stukken betreffende een rechtshulpverzoek in een andere strafzaak niet te controleren. Dit zou enkel het geval zijn als aannemelijk is dat sprake is van zodanige fundamentele inbreuken op de beginselen van een behoorlijke procesorde dat die op zichzelf al niet-ontvankelijkheid kunnen opleveren (het zgn. “Karmancriterium” Hoge Raad1 juni 1999 NJ 1999 567). Dit is gesteld noch overigens aannemelijk geworden.
+ 
+
+Voorts overweegt de rechtbank dat op 11 juli 2018 tegelijk met de bij de rechter-commissaris ingediende vorderingen een Proces-verbaal Gebruikers [naam 2] is ingebracht waarbij is gevorderd voeging van dit proces-verbaal bij de processtukken achterwege te laten. De rechter-commissaris heeft deze machtiging afgegeven en daarbij overwogen dat voeging van dat proces-verbaal en het daarmee prijsgeven van de inhoud daarvan zou betekenen dat zwaarwegende opsporingsbelangen zouden worden geschaad. In de op 12 juli 2018 door de rechter-commissaris afgegeven machtiging ex artikel 126t Sv staat ook vermeld dat de rechter-commissaris de inhoud van dit proces-verbaal bij zijn oordeel heeft betrokken. Dat de rechter-commissaris onvolledig is geïnformeerd volgt de rechtbank dan ook niet. 
+ 
+
+Daarom ziet rechtbank geen aanleiding om het onderzoek met het oog op aanvulling van het dossier te heropenen. Aan het daarop gerichte verzoek van de raadsman wordt voorbijgegaan.
+ 
+
+Ten aanzien van het verweer dat het Openbaar Ministerie niet-ontvankelijk moet worden verklaard overweegt de rechtbank het volgende. 
+De Britse telecomaanbieder [naam 5] is na machtiging door de rechter-commissaris door tussenkomst van de Britse autoriteiten gevorderd medewerking te verlenen aan het ontsleutelen van gegevens als bedoeld in artikel 126t zesde lid Sv. Zoals de raadsman terecht heeft opgemerkt kan een dergelijke vordering volgens de letterlijke tekst van deze bepaling worden gericht tot degene van wie redelijkerwijs kan worden vermoed dat hij kennis draagt van de wijze van versleuteling van de communicatie waarbij de medewerking bestaat uit het ter beschikking stellen van deze kennis of het ongedaan maken van de versleuteling. De rechtbank overweegt dat in het onderhavige geval niet [naam 5]  maar de Nederlandse politie zelf beschikte over de kennis om de [naam 2] -berichten te ontsleutelen. Omdat voor het ontsleutelen (kennelijk) wel de medewerking van [naam 5] nodig was te weten medewerking bij het omleiden van de berichten naar de server van de Nederlandse politie is de rechtbank van oordeel dat de Nederlandse opsporingsinstanties gebruik hebben kunnen maken van de bevoegdheid van artikel 126t zesde lid Sv.    
+Nog afgezien van de vraag of [naam 4]  de aanbieder van [naam 2]  de benodigde medewerking zou kunnen verlenen - kenmerkend voor [naam 2] is immers dat het “peer to peer” encryptie betreft en [naam 4] zelf de berichten dus niet kan ontsleutelen -  overweegt de rechtbank dat het (ook) richten van een vordering tot medewerking aan [naam 4] gelet op de aard van het onderzoek geen reële mogelijkheid was. 
+ 
+
+Naar het oordeel van de rechtbank is gelet op het bovenstaande geen sprake van opsporing zonder wettelijke grondslag zoals de verdediging heeft gesteld. In dit verweer ziet de rechtbank daarom geen grond voor niet-ontvankelijk verklaring van het Openbaar Ministerie. Omdat niet buiten medeweten van [naam 5] is gehandeld is de rechtbank van oordeel dat evenmin sprake is van ‘hacken’ (en daarmee onrechtmatig handelen) door de Nederlandse opsporingsinstanties. Dat betekent dat het Openbaar Ministerie ontvankelijk is in de vervolging. Voor bewijsuitsluiting of vermindering van straf indien het tot een bewezenverklaring komt ziet de rechtbank evenmin grond.
+ 
+
+
+3.	Overwegingen ten aanzien van het bewijs
+1
+
+ 
+
+
+De feiten
+
+Op grond van de bewijsmiddelen wordt het volgende dat verder ook niet ter discussie staat vastgesteld.
+ 
+
+Verdachte is de bestuurder van een [auto] met Belgisch kenteken die op 6 oktober 2018 omstreeks 23:25 uur aan komt rijden op een parkeerplaats langs de A15 bij Kesteren. Hij is de auto ook uit geweest.2
+ 
+
+Er staat op dat moment op diezelfde parkeerplaats een vrachtwagen (een groenkleurige trekker met oplegger grijs/beige dekzeil met opschrift ‘ [naam 6] ’ met het Litouwse kenteken [kenteken] ). In de cabine van deze vrachtwagen wordt in de vroege ochtend van 7 oktober 2018 een pakket aangetroffen.3 Op 11 oktober 2018 worden in de cabine van dezelfde vrachtwagen nog vijf pakketten gevonden.4 Er is vastgesteld dat de pakketten cocaïne bevatten in totaal ongeveer zes kilogram.5
+ 
+
+
+Het standpunt van de officier van justitie 
+
+De officier van justitie heeft zich op het standpunt gesteld dat wettig en overtuigend bewezen kan worden dat verdachte zich schuldig heeft gemaakt aan het medeplegen van het vervoeren aanwezig hebben en buiten Nederland brengen van zes kilo cocaïne. 
+ 
+
+
+Het standpunt van de verdediging
+
+De raadsman heeft aangevoerd dat de verklaringen van de medeverdachte onbetrouwbaar zijn. Verder is van belang dat de aanwezige politieagenten niet hebben gezien dat verdachte iets heeft afgegeven terwijl het om een pakket met zes kilo cocaïne zou gaan. Er zijn ook geen sporen van verdachte aangetroffen op de pakketten.
+In het geval verdachte een pakket zou hebben afgegeven is er geen bewijs dat hij er wetenschap van had dat er een lijst I middel in het pakket zat. Tot slot heeft de raadsman aangevoerd dat verdachte geen wetenschap had van de uitvoer van het pakket. Daarom kan niet bewezen worden dat verdachte drugs buiten Nederland heeft gebracht. Gelet hierop moet verdachte worden vrijgesproken. 
+ 
+
+
+Beoordeling door de rechtbank 
+
+In de [auto] is een telefoon van het merk [naam 7] gevonden.6 Uit onderzoek is gebleken dat het nummer van de simkaart die is aangetroffen in deze telefoon gekoppeld is aan [naam 2] -account [naam 9] .7
+ 
+
+In het dossier bevinden zich enkele chatberichten tussen ‘ [naam 8] ’ en ‘ [naam 9] ’.
+Op 6 oktober 2018 zijn enkele berichten in het Albanees8 verstuurd die in vertaling luiden:
+“ [naam 8] om 22:01:42 uur: ‘over 40’ ; ‘min stuur je adres beest’
+
+        [naam 8] stuurt dan om 22:03:18 uur afbeelding Google Maps + ‘A15 richting E1 NZ AS Kesteren Shell Petrol’ ‘over 30’; ‘min zal hij komen beest’; ‘daar’; hij zal daar op je wachten’ 
+
+        [naam 9] : ‘ok’; ‘hoeveel stuk’
+
+        [naam 8] : ‘7’
+
+        [naam 9] : ‘ok’
+ 
+
+
+        [naam 8] om 22:09:44 uur: ‘green truck grey trailer [kenteken] plates lt ‘ [naam 6] ’ company text on th inside’; ‘ [naam 10] ’
+
+        [naam 9] : ‘ok’
+
+        [naam 8] : ‘hoe laat kun je gaan’; ‘daar beest’
+
+        [naam 9] : ’11:30’
+ 
+
+
+        [naam 9] om 23:01:26 uur: ’30 min beest’
+
+        [naam 8] om 23:30:59 uur: ‘Heb je ontmoet’.”9
+ 
+
+De rechtbank stelt vast dat gelet op de omschrijving en het kenteken in deze berichten heel specifiek wordt gesproken over de vrachtwagen waarin op 7 oktober 2018 de pakketten met cocaïne zijn aangetroffen en over de parkeerplaats waar deze stond geparkeerd. Agenten die op de parkeerplaats staan zien omstreeks 23:25 uur dat de bestuurder van de [auto] richting de vrachtwagen met opschrift ‘ [naam 6] ’ loopt.10 Gelet hierop stelt de rechtbank vast dat verdachte die de Albanese taal beheerst omstreeks het afgesproken tijdstip bij de parkeerplaats aankomt en richting de genoemde vrachtwagen loopt. 
+ 
+
+De rechtbank gaat er dan ook van uit dat het verdachte is geweest die gebruik heeft gemaakt van het account [naam 9] en dat hij doelbewust naar de vrachtwagen is gelopen. Hierbij betrekt de rechtbank ook dat in één van de berichten aan verdachte het wachtwoord ‘ [naam 11] ’ wordt genoemd en dit wachtwoord overeenkomt met het wachtwoord dat de medeverdachte (de chauffeur van de vrachtwagen) per sms heeft doorgekregen.11 Dat verdachte alleen is uitgestapt om te plassen zoals hij heeft verklaard vindt de rechtbank dan ook niet geloofwaardig.
+ 
+
+De medeverdachte heeft verklaard dat hij op 6 oktober 2018 rond 23:00 uur op de parkeerplaats aankwam en dat de enige persoon die hij daar heeft gezien de persoon is geweest die het pakketje heeft gebracht.12 De rechtbank overweegt dat de medeverdachte ten aanzien van dit onderdeel van zijn verklaring consistent heeft verklaard. Ook komt deze verklaring overeen met de constatering van de agenten die de vrachtwagen tussen 6 oktober 2018 om 23:25 uur en 7 oktober 2018 om 6:11 uur (het moment waarop de chauffeur is aangesproken) hebben geobserveerd13 dat zij geen beweging van andere personen hebben gezien in de buurt van de vrachtwagen.14
+ 
+
+Naar het oordeel van de rechtbank is gelet op het bovenstaande wettig en overtuigend bewezen dat verdachte de persoon is geweest die de pakketten heeft afgeleverd bij de chauffeur van de vrachtwagen. 
+ 
+
+De pakketten waren gewikkeld in doorzichtig plastic en zilverkleurig folie.15 Per stuk wogen de pakketten ongeveer 1 kilo en waren ze ongeveer 25x12x4 cm groot.16 Gelet op deze combinatie van omvang gewicht en wijze van verpakken en gezien het late tijdstip en de afgesproken rustige plek alwaar verdachte zich bij een vrachtwagen diende te melden door middel van een wachtwoord is de rechtbank van oordeel dat verdachte ten minste de aanmerkelijke kans heeft aanvaard dat hij harddrugs vervoerde en afleverde en daarop dan ook ten minste voorwaardelijk opzet heeft gehad.
+ 
+
+De rechtbank is verder van oordeel dat verdachte eveneens voorwaardelijk opzet heeft gehad op het buiten Nederland brengen van de harddrugs. Hierbij is van belang dat hij de pakketten heeft afgegeven op een parkeerplaats langs de snelweg aan een buitenlandse chauffeur die reed in een vrachtwagen en een oplegger met buitenlands kenteken. Onder deze omstandigheden is de kans aanmerkelijk dat de pakketten buiten Nederland zouden worden gebracht en verdachte heeft die kans welbewust aanvaard. Hierbij betrekt de rechtbank dat op grond van artikel 1 vijfde lid van de Opiumwet onder ‘buiten het grondgebied van Nederland brengen’ ook moet worden begrepen het ten vervoer naar het buitenland aanbieden van drugs.
+ 
+
+De rechtbank is van oordeel dat ook is bewezen dat verdachte dit samen met anderen heeft gedaan gelet op het chatgesprek dat hierboven is weergegeven en op het chatgesprek tussen [naam 8] en [naam 12] op 6 oktober 2018:
+ 
+
+
+        [naam 12] om 22:09:20 uur: ‘green truck grey trailer [kenteken] plates lt “ [naam 6] ” company text on the side’ en ‘Password hello [naam 11] ’
+
+        [naam 12] : ‘Let me know what time he will be there please’
+
+        [naam 8] om 22:11:53 uur: ’11:30’.17
+ 
+
+Uit deze berichten volgt dat naast verdachte minimaal twee anderen bij het afleveren van de drugs betrokken zijn geweest namelijk de gebruikers van de accounts ‘ [naam 12] ’ en ‘ [naam 8] ’. Deze laatste persoon communiceerde rechtstreeks met verdachte. Dat de identiteit van deze personen niet bekend is doet er niet aan af dat nauw en bewust met anderen is samengewerkt. 
+ 
+
+
+
+4 Bewezenverklaring 
+
+Naar het oordeel van de rechtbank is wettig en overtuigend bewezen dat verdachte het  tenlastegelegde heeft begaan te weten dat: 
+ 
+
+hij in of omstreeks de periode van 6 oktober 2018 tot en met 7 oktober 2018 te Ochten gemeente Neder-Betuwe en/of te Kesteren gemeente Neder-Betuwe in ieder geval in Nederland tezamen en in vereniging met een of meer anderen althans alleen opzettelijk binnen en/of buiten het grondgebied van Nederland heeft gebracht en/of heeft afgeleverd en/of verstrekt en/of vervoerd in elk geval opzettelijk aanwezig heeft gehad ongeveer 6000 (zesduizend) gram in elk geval een hoeveelheid van een materiaal bevattende cocaïne  zijnde cocaïne een middel als bedoeld in de bij de Opiumwet behorende lijst I dan wel aangewezen krachtens het vijfde lid van artikel 3a van die wet. 
+ 
+
+Voor zover er in de tenlastelegging kennelijke taal- en/of schrijffouten voorkomen zijn die fouten in de bewezenverklaring verbeterd. Verdachte is daardoor niet in zijn verdediging geschaad.
+ 
+
+Wat meer of anders is ten laste gelegd dan hiervoor bewezen is verklaard is niet bewezen. 
+Verdachte moet daarvan worden vrijgesproken.
+ 
+
+
+
+5 De kwalificatie van het bewezenverklaarde 
+
+Het bewezenverklaarde levert op:
+ 
+
+
+medeplegen van het opzettelijk handelen in strijd met een in artikel 2 onder A van de Opiumwet gegeven verbod 
+
+ 
+
+
+en
+
+ 
+
+
+medeplegen van het opzettelijk handelen in strijd met een in artikel 2 onder B van de Opiumwet gegeven verbod.
+
+ 
+
+
+
+6 De strafbaarheid van het feit 
+
+Het feit is strafbaar.
+ 
+
+
+
+7 De strafbaarheid van verdachte 
+
+Verdachte is strafbaar nu geen omstandigheid is gebleken of aannemelijk geworden die de strafbaarheid van verdachte uitsluit.
+ 
+
+
+
+8 Overwegingen ten aanzien van straf  
+
+
+Het standpunt van de officier van justitie 
+
+De officier van justitie heeft geëist dat verdachte zal worden veroordeeld tot een gevangenisstraf voor de duur van veertig maanden. 
+ 
+
+
+Het standpunt van de verdediging
+
+De raadsman heeft naar voren gebracht dat bij het enkel aanwezig hebben van harddrugs uit de LOVS-oriëntatiepunten een veel lagere straf volgt dan de officier van justitie heeft geëist.  
+ 
+
+
+Beoordeling door de rechtbank
+
+De rechtbank heeft bij de bepaling van de op te leggen straf gelet op de aard en de ernst van hetgeen bewezen is verklaard de omstandigheden waaronder dit is begaan mede gelet op de persoon en de omstandigheden van verdachte zoals van een en ander bij het onderzoek ter terechtzitting is gebleken.
+ 
+
+Uit het uittreksel uit de justitiële documentatie volgt dat verdachte in Nederland niet eerder is veroordeeld. De reclassering is niet verzocht een advies over verdachte uit te brengen.
+ 
+
+Verdachte heeft pakketten harddrugs in totaal ongeveer zes kilo vervoerd en afgeleverd bij een andere chauffeur die de pakketten buiten Nederland zou gaan brengen. Dat rechtvaardigt een forse gevangenisstraf. De rechtbank komt wel tot een lagere straf dan door de officier van justitie is geëist. Daarbij is van belang dat hoewel sprake lijkt te zijn van een behoorlijk georganiseerd verband de rechtbank niet de indruk heeft dat verdachte bij het onderhavige feit een leidende of initiërende rol heeft gehad met als gevolg dat verdachte en niet diegene(n) die verdachte heeft/hebben aangestuurd het risico droeg om in het bezit van de harddrugs te worden aangetroffen. Hij lijkt te zijn aangestuurd door anderen. Alles afwegende komt de rechtbank tot oplegging van een gevangenisstraf van dertig maanden met aftrek van de tijd die verdachte al in verzekering en voorlopige hechtenis heeft doorgebracht. 
+ 
+
+
+
+9 De voorlopige hechtenis 
+De rechtbank zal de schorsing van de voorlopige hechtenis opheffen omdat de zij tot het oordeel is gekomen dat verdachte zich schuldig heeft gemaakt aan de uitvoer van zes kilo cocaïne een ernstig strafbaar feit. Opheffing van de schorsing is te meer op zijn plaats  nu ook de medeverdachte zich in voorlopige hechtenis bevindt en er geen reden is voor het maken van onderscheid tussen beiden. Als verdachte zich daadwerkelijk weer in voorlopige hechtenis bevindt dient de zekerheidstelling aan verdachte dan wel de derde die het geldbedrag heeft betaald te worden teruggestort.  
+
+
+
+10 De toegepaste wettelijke bepalingen 
+
+De beslissing is gegrond op artikel 47 van het Wetboek van Strafrecht en de artikelen 2 en 10 van de Opiumwet.
+ 
+
+
+
+11 De beslissing 
+
+De rechtbank:
+ 
+ verklaart bewezen dat verdachte het tenlastegelegde zoals vermeld onder punt 4 heeft begaan; 
+ verklaart niet bewezen hetgeen verdachte meer of anders is ten laste gelegd dan hierboven bewezen is verklaard en spreekt verdachte daarvan vrij; 
+ verstaat dat het aldus bewezenverklaarde oplevert het strafbare feit zoals vermeld onder punt 5; 
+ verklaart verdachte hiervoor strafbaar; 
+ veroordeelt verdachte wegens het bewezenverklaarde tot een gevangenisstraf voor de duur van 30 (dertig) maanden; 
+ beveelt dat de tijd door verdachte vóór de tenuitvoerlegging van deze uitspraak in
+
+		verzekering en voorlopige hechtenis doorgebracht bij de uitvoering van de opgelegde
+		gevangenisstraf in mindering zal worden gebracht; 
+ 
+ heft op de schorsing van het bevel tot voorlopige hechtenis; 
+ bepaalt dat het bedrag groot € 10.000- (zegge tienduizend euro) dat tot zekerheidstelling voor de nakoming van de voorwaarde verbonden aan de schorsing van de voorlopige hechtenis is gesteld aan verdachte dan wel de derde die het bedrag heeft betaald moet worden teruggestort indien verdachte zich weer daadwerkelijk in voorlopige hechtenis bevindt.   
+
+
+
+Dit vonnis is gewezen door mr. K.A.M. van Hoof (voorzitter) mr. J.J.H. van Laethem en 
+mr. G.J.H. Boerhof rechters in tegenwoordigheid van mr. M.C. Korevaar griffier en uitgesproken ter openbare terechtzitting van deze rechtbank op 16 april 2019.
+
+
+
+ 
+
+ 
+
+ 
+
+
+
+
+Mr. Van Laethem en mr. Korevaar zijn buiten staat dit vonnis mede te ondertekenen.
+
+
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+
+
+
+1
+ Het bewijs is terug te vinden in het in de wettelijke vorm door [verbalisant]  brigadier en senior tactisch rechercheur van de Dienst Regionale Recherche Oost-Nederland opgemaakte proces-verbaal dossier onderzoek [naam 3] (ONRAD18040) gesloten op 13 februari 2019 en in de bijbehorende in wettelijke vorm opgemaakte processen-verbaal en overige schriftelijke bescheiden tenzij anders vermeld. De vindplaatsvermeldingen verwijzen naar de pagina’s van het doorgenummerde dossier tenzij anders vermeld.
+2
+ Proces-verbaal van bevindingen p. 10054-10055 en Proces-verbaal van verhoor verdachte p. 1044.
+3
+ Proces-verbaal van bevindingen (AH010) p. 10073-10074.
+4
+ Proces-verbaal van doorzoeking ter inbeslagneming p. 10267-10268.
+5
+ Proces-verbaal van onderzoek verdovende middelen p. 10097-10099; Rapport NFI p. 10102; Rapporten NFI p. 1213-1217 bijlagen bij het stand van zaken proces-verbaal van 11 december 2018.
+6
+ Proces-verbaal van bevindingen (AH065) p. 10072 en Kennisgeving van inbeslagneming p. 10293-10294.
+7
+ Proces-verbaal van bevindingen (AH055) p. 10313-10314.
+8
+ Proces-verbaal onderzoek [naam 3]  p. 10002.
+9
+ Chatrapport (AH054-002) p. 10035-10042 met vertaling p. 10043-10046.
+10
+ Proces-verbaal van bevindingen (AH001) p. 10054-10055.
+11
+ Proces-verbaal van verhoor [medeverdachte]  p. 10361.
+12
+ Proces-verbaal van verhoor [medeverdachte]  p. 10348.
+13
+ Proces-verbaal van bevindingen (AH043) p. 10056.
+14
+ PV bevindingen (AH077) p. 10057-10058 PV bevindingen (AH078) p. 10060-10061 en 
+PV bevindingen (AH079) p. 10062. 
+15
+ Relaas proces-verbaal p. 10016 en 10017 en Proces-verbaal van bevindingen (AH010) p. 10074.
+16
+ Relaas proces-verbaal p. 10016 en 10017 en Proces-verbaal van bevindingen (AH010) p. 10074.
+17
+ Chatgesprek p. 10033-10034.

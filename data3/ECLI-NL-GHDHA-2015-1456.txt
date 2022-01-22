@@ -1,0 +1,486 @@
+
+
+GERECHTSHOF DEN HAAG 
+Afdeling Civiel Recht 
+Zaaknummer			: 200.168.079/01
+Zaak-/rolnummer rechtbank	: C/09/480757/ KG ZA 15-24 
+
+
+Arrest d.d. 9 juni 2015
+
+ 
+
+inzake
+ 
+
+
+HOLOGIC NETHERLANDS B.V.
+gevestigd te Almere
+appellante  
+hierna te noemen: Hologic 
+advocaat: mr. S.M. Peek te Amsterdam            
+ 
+
+tegen 
+ 
+
+
+DE STAAT DER NEDERLANDEN (Ministerie van Volksgezondheid Welzijn en Sport)  
+zetelend in Den Haag 
+geïntimeerde  
+hierna te noemen: de Staat 
+advocaat: mr. H.M. Fahner te Den Haag.        
+ 
+
+
+Het verloop van het geding 
+
+ 
+
+Bij (spoed-)appeldagvaarding (AD) van 15 april 2015 is Hologic in hoger beroep gekomen van het tussen partijen in kort geding gewezen vonnis van de voorzieningenrechter in de rechtbank Den Haag van 25 maart 2015 dat is gebaseerd op de volgende stukken:
+
+- de inleidende dagvaarding van Hologic (hierna: ID);
+- de conclusie van antwoord van de Staat (hierna: CvA);
+- de pleitnotities van beide partijen (hierna: PE = Pleitnota in Eerste aanleg). 
+In de AD zijn vijftien grieven tegen dat vonnis opgenomen die door de Staat zijn bestreden bij memorie van antwoord (MvA).   
+
+Partijen hebben hun standpunten doen bepleiten ter zitting van dit hof van 1 mei 2015 Hologic door haar advocaat en mr. L. Buiter kantoorgenoot en de Staat door zijn advocaat.  De raadslieden hebben zich hierbij bediend van pleitnota’s (hierna: PA = Pleitnota in Appel). 
+ 
+
+Met het oog op het pleidooi heeft Hologic nog de aanvullende producties 21 t/m 27 naar het hof en de wederpartij gestuurd. Hiertegen is – terecht – geen bezwaar gemaakt zodat deze producties deel uitmaken van de gedingstukken. Na afloop van de pleidooien is arrest gevraagd. 
+ 
+
+
+De beoordeling van het hoger beroep
+
+ 
+
+
+
+1 De feitelijke uitgangspunten 
+
+1.0
+Het hof neemt de volgende feiten tot uitgangspunt.  
+
+
+De achtergronden
+
+ 
+
+
+1.1
+Baarmoederhalskanker wordt in nagenoeg alle gevallen veroorzaakt door een infectie met een hoogrisico (hr)type van het Humaan Papillomavirus (HPV). Circa 80% van de mannen en vrouwen krijgt een keer een hrHPV-infectie maar meestal wordt het virus binnen twee jaar door het lichaam opgeruimd. Wanneer dit niet gebeurt is sprake van een aanhoudende infectie en een kans op baarmoederhalskanker. Het proces van het ontstaan van baarmoederhalskanker duurt meer dan 10 jaar en leent zich daarom goed voor screening door middel van bevolkingsonderzoek. In 1996 is in Nederland een bevolkingsonderzoek naar baarmoederhalskanker door middel van cytologische screening ingevoerd: na een afname door een medicus (klinische afname het uitstrijkje) vindt microscopisch weefselonderzoek plaats naar afwijkende cellen.   
+
+
+1.2
+Tegenover ‘klinische afname’ staat ‘zelfafname’ waarbij de vrouw zelf het monster afneemt en voor onderzoek opstuurt.  
+
+
+1.3
+
+De voorstadia van baarmoederhalskanker worden aangeduid op basis van de graad van de afwijking uitgedrukt in zogenoemde CIN-klassen. Hierbij wordt onderscheid gemaakt tussen: 
+	- CIN 1; histologisch lichte afwijkingen die bijna altijd weer zonder behandeling verdwijnen;
+	- CIN 2; histologisch licht tot matige afwijkingen die in de helft van de gevallen binnen 2 jaar verdwijnen; bij deze uitslag is soms behandeling nodig;
+	- CIN 3: histologisch matige tot ernstige afwijkingen; er is sprake van een voorstadium van kanker en er is behandeling nodig.
+	Afwijkingen van CIN2 en hoger (kortweg: CIN2+) worden gezien als klinisch relevante afwijkingen.  
+ 
+
+
+1.4
+Inmiddels is een aantal tests ontwikkeld waarmee de aanwezigheid van van hrHPV afkomstig genetisch materiaal (een nucleinezuur als DNA of (m)RNA) kan worden vastgesteld. Deze tests kunnen onder meer verschillen wat betreft sensitiviteit en specificiteit. Tests op genetisch materiaal van het virus zullen hierna – ter onderscheiding van op cytologie gebaseerde tests – kortweg worden aangeduid als: hrHPV-tests.  
+
+
+1.5
+Bij de hrHPV-tests kunnen diverse methoden worden gebruikt om de aanwezigheid van genetisch materiaal van hrHPV in lichaamscellen vast te stellen waaronder  targetamplificatiemethoden en signaalamplificatiemethoden. Bij de zogenoemde PCR-methode wordt gebruik gemaakt van targetamplificatie.  
+
+
+1.6
+Twee hrHPV-testen te weten de hc2 en de GP5+/6+ PCR zijn onderworpen geweest aan grote longitudinale wetenschappelijke studies (onderzoek dat over een langere periode herhaald is). Deze testen zijn de basis geweest voor een artikel dat in 2009 door Meijer et al. is gepubliceerd onder de naam: ‘Guidelines for human papillomavirus DNA test requirements for primary cervical cancer screening in women of 30 years and older’. In deze publicatie (hierna: Meijer I) zijn de zogenoemde Meijer-criteria geformuleerd. Deze criteria liggen ten grondslag aan de richtlijnen die de Nederlandse Vereniging van Pathologie (NVvP) in juni 2010 heeft uitgevaardigd (hierna: de NVvP-richtlijnen).  
+
+
+Het advies van de Gezondheidsraad en de Uitvoeringstoets
+
+ 
+
+
+1.7
+
+Op verzoek van de minister van Volksgezondheid Welzijn en Sport (VWS) hierna ‘de minister’ heeft de Gezondheidsraad een advies uitgebracht met betrekking tot de mogelijkheden om de preventie van baarmoederhalskanker te verbeteren. In het advies ‘Screening op baarmoederhalskanker’ van 24 mei 2011 heeft de Gezondheidsraad een nieuw bevolkingsonderzoek (BVO) voorgesteld en aanbevolen om:
+- 	over te stappen van cytologie op een hrHPV-test als primaire screening; 
+-	vijf primaire screeningsronden te organiseren (bij 30 35 40 50 en 60 jaar) in plaats van zeven (bij 30 35 40 45 50 55 en 60 jaar) zoals in het bestaande bevolkingsonderzoek; 
+- 	na een positieve hrHPV-test een tweede analyse te verrichten (triage het vervolgonderzoek) bestaande uit een cytologische beoordeling; 
+In het advies van de Gezondheidsraad is verder onder meer het volgende vermeld:
+
+“(…)Het is dan ook belangrijk om richtlijnen te hebben waaraan hrHPV-tests moeten voldoen voor dat doel. De NVVP-werkgroep Moleculaire Diagnostiek in de Pathologie heeft hiertoe in juni 2010 gedetailleerde richtlijnen opgesteld (www.pathology.nl). Deze richtlijnen zijn gebaseerd op die van een internationaal consortium (dat zijn de in rov. 1.6 genoemde Meijer-richtlijnen het hof). Verder zijn de minimale eisen omschreven waaraan een laboratorium moet voldoen om de kwaliteit van de gebruikte hrHPV-test te blijven waarborgen. Door toepassing van deze richtlijnen kunnen kandidaattests worden goedgekeurd voor screening indien goed gevalideerd en betrouwbaar zonder noodzaak van grote longitudinale studies’.
+Bij brief van 27 oktober 2011 aan de Voorzitter van de Tweede Kamer heeft de minister het advies van de Gezondheidsraad overgenomen. 
+ 
+
+
+De aanbesteding
+
+ 
+
+
+1.8
+De minister heeft het Rijksinstituut voor Volksgezondheid en Milieu (RIVM) als onderdeel van de Staat opdracht gegeven de voorgestelde wijzigingen in het bevolkingsonderzoek voor te bereiden en in te voeren. Op 5 november 2014 heeft het RIVM een openbare Europese aanbestedingsprocedure uitgeschreven voor de ‘huur van geautomatiseerde en klinisch gevalideerde PCR-totaalsystemen voor het aantonen van DNA van hoogrisico genotypen van Humaan Papillomavirus (hrHPV) op klinisch en zelfafgenomen materiaal alsmede de koop en levering van bijbehorende verbruiksmaterialen alsmede onderhoud alsmede aanvullende diensten ten behoeve van bevolkingsonderzoek naar baarmoederhalskanker’ hierna ‘de Opdracht’. De zelfafnametest bij primaire screening valt buiten de reikwijdte van de Opdracht. Na afronding van het zogenoemde ‘Improve-onderzoek’ naar verwachting in 2018 zal de minister een besluit nemen over de inzet van de zelfafnameset bij primaire screening waarna een nadere aanbestedingsprocedure zal volgen.  
+
+
+1.9
+De aanbestedingsprocedure en de Opdracht zijn nader omschreven in het beschrijvend document van 5 november 2014 hierna ‘het Beschrijvend Document’ en in het Programma van eisen en wensen. Voorts is in een als een geheel overgelegde Nota van Inlichtingen (NvI) op verschillende tijdstippen antwoord gegeven op vragen van potentiële inschrijvers. 
+
+
+1.10
+In het Beschrijvend Document is – voor zover hier van belang – het volgende vermeld:
+
+
+1.2
+
+
+Onderwerp en doel van de aanbesteding
+
+
+De Aanbestedende dienst is voornemens een Overeenkomst te sluiten voor de hrHPV-test voor het bevolkingsonderzoek naar baarmoederhalskanker. Het gaat hierbij om een totaaloplossing van geautomatiseerde en klinisch gevalideerde systemen bestaande uit alle benodigde apparatuur en bijbehorende hardware en software (inclusief koppelingen) en verbruiksmaterialen (testkits reagentia disposables controlematerialen en (eventuele) kalibratiematerialen) voor de uitvoering van de screening op hrHPV vanaf het opwerken van de monsters tot en met de detectie van het virus en het uitlezen van de uitslag verder te noemen: 
+hrHPV-test
+. Met de totaaloplossing kan DNA van hoog-risico genotypen van het Humaan Papillomavirus in vaginaal/cervicaal lichaamsmateriaal op zowel klinisch afgenomen materiaal (uitstrijkjes) én zelfafgenomen materiaal kwalitatief worden aangetoond met een PCR.
+
+
+De keuze van de gevraagde totaaloplossing is mede ingegeven door de programmatische aanpak van screening in Nederland. Hierbij is hoge kwaliteit door landelijke uniformiteit tegen zo laag mogelijke kosten een belangrijk uitgangspunt. Dit betekent een geautomatiseerd systeem waarbij het aantal menselijke handelingen minimaal is. De Gezondheidsraad heeft in het advies dat is overgenomen door VWS aangegeven dat er gebruik gemaakt moet worden van een klinisch gevalideerde test die gericht is op het aantonen van DNA van hoog-risico HPV genotypen. Omdat de zelfafnametest in de screening wordt ingezet is de gevraagde totaaloplossing verder aangescherpt door een PCR-test in de omschrijving op te nemen.
+
+In § 3.3 1e alinea van het Beschrijvend Document is te lezen dat in het vernieuwde bevolkingsonderzoek vrouwen in ieder geval een uitnodiging krijgen op 30 35 40 50 en 60 jaar. 
+ 
+
+
+1.11
+
+In het Programma van eisen en wensen is – voor zover hier van belang – het volgende opgenomen:
+
+Procesbeschrijving
+
+3.1.1.
+
+KO 
+
+
+Q: 3.1.1. De hrHPV-test zal in productielijn worden uitgevoerd waarbij de volgende processtappen worden onderscheiden:
+
+ Monsteropwerking: de processtap startend met het decappen van de monsterpotjes waarbij een deel van het afgenomen materiaal wordt verwerkt zodanig dat het geschikt is voor hrHPV-analyse.
+ Amplificatie: de processtap waarbij sequenties (delen) van het hrHPV DNA door middel van PCR vermeerderd worden.
+ Detectie: de processtap waarbij geamplificeerde hrHPV DNA sequenties in het DNA-monster worden aangetoond.
+ Uitlezen van de uitslag: de processtap waarbij de PCR-data worden omgezet naar een uitslag.
+
+(…)
+
+
+Validatie hrHPV-test
+
+3.1.4.
+
+KO 
+
+
+Q: 3.1.4. Voor het vaststellen van de klinische validiteit of “non-inferieuriteit” van een hrHPV-test voor primaire screeningsdoeleinden zijn door Meijer et. al. internationale criteria opgesteld (…). Door toepassing van deze criteria kunnen hrHPV-testen worden toegepast voor screening indien goed gevalideerd en betrouwbaar zonder de noodzaak van grote longitudinale studies.
+
+
+Inschrijver biedt een hrHPV-test aan die aantoonbaar volgens bovengenoemde criteria is gevalideerd. (…)’.
+
+ 
+
+
+A.1 Toepasbaarheid
+
+3.2.2.
+
+KO 
+
+
+Q: 3.2.2. 
+A.1.2
+
+
+Met de hrHPV-test kunnen geautomatiseerd de hoog-risico genotypen van het Humaan Papillomavirus in vaginaal/cervicaal lichaamsmateriaal kwalitatief worden aangetoond met een PCR.
+
+
+(…)
+
+3.2.3.
+
+KO 
+
+
+Q: 3.2.3. 
+A.1.3
+
+
+De hrHPV-test is gericht op het aantonen van DNA van hoog-risico genotypen van het Humaan Papillomavirus’.
+
+ 
+
+
+1.12
+In de overgelegde Inleiding van de aanbestedingsdocumentatie hierna ‘de Inleiding’ is – voor zover hier van belang – vermeld: “De Aanbestedende dienst heeft geen voorkeur voor een bepaalde leverancier dienstverlener of aannemer noch voor bepaalde merken types fabricaten herkomst e.d. Mocht in het Beschrijvend document een eis of wens betrekking (lijken te) hebben op een bepaald fabricaat een bepaalde herkomst of een bijzondere werkwijze een merk een octrooi of een type een bepaalde oorsprong of een bepaalde productie waardoor bepaalde ondernemingen of bepaalde producten worden bevoordeeld of geëlimineerd dan dient hierbij gelezen te worden ‘of gelijkwaardig’.  
+
+
+1.13
+Naar aanleiding van een gestelde vraag is op 24 november 2014 als antwoord (op vraag 94) in de Nota van Inlichtingen vermeld dat bij de aanbesteding is gekozen voor PCR-apparatuur en dat een alternatief niet is toegestaan.   
+
+
+De test van Hologic 
+
+ 
+
+
+1.14
+
+Hologic heeft een hrHPV-test de Aptiva HPV test die: 
+i) 	gebruik maakt van een targetamplificatiemethode echter niet de in KO-eis 3.2.2 voorgeschreven PCR-targetamplificatiemethode maar de targetamplificatiemethode Transcription Mediated Amplification (TMA) en 
+ii) 	als detectietarget mRNA heeft en niet DNA zoals is voorgeschreven in KO-eis 3.2.3.   
+ 
+
+
+
+
+2 De vorderingen van Hologic en het vonnis van de voorzieningenrechter  
+
+2.1
+Hologic heeft gevorderd – zakelijk weergegeven – primair de Staat (het RIVM) te bevelen de aanbestedingsprocedure met onmiddellijke ingang te schorsen en geschorst te houden gedurende de tijd die is gemoeid met het laten vervallen van PCR als vereiste amplificatiemethode en DNA als vereist detectiepunt en in plaats daarvan te vragen om target-amplificatiemethode en nucleïnezuurdetectie; subsidiair de Staat te bevelen de aanbestedingsprocedure te staken en gestaakt te houden en om een nieuwe aanbestedingsprocedure te organiseren die niet in strijd is met de Aanbestedingswet (hierna: AW) en de beginselen van aanbestedingsrecht met inachtneming van de bezwaren van Hologic; meer subsidiair indien de primaire en subsidiaire vorderingen worden afgewezen de Staat te bevelen de aanbestedingsprocedure te staken en gestaakt te houden totdat in hoger beroep een eindarrest is gewezen en uiterst subsidiair een in goede justitie te bepalen voorziening die recht doet aan de belangen van Hologic te treffen een en ander op straffe van een dwangsom en met veroordeling van de Staat in de proceskosten en de nakosten te vermeerderen met de wettelijke rente. 
+
+
+2.2
+De voorzieningenrechter heeft in zijn vonnis van 25 maart 2015 de vorderingen van Hologic afgewezen onder veroordeling van haar in de proceskosten.  
+
+
+
+
+3 Het hoger beroep; inleidende opmerkingen 
+
+3.1
+Met de door Hologic tegen dat vonnis aangevoerde grieven is het geschil in volle omvang aan het hof voorgelegd.  
+
+
+3.2
+In hoger beroep heeft Hologic nog een incidentele vordering ‘ex artikel 223 Rv jo. artikel 353 RV’ ingesteld tot opschorting van de aanbesteding tijdens dit hoger beroep. 
+
+
+3.3
+
+Hologic’s vorderingen zijn gebaseerd op de stelling dat de in de aanbesteding gestelde KO-eisen dat in de te leveren hrHPV-test: 
+(i) 	de PCR-methode voor amplificatie moet worden gebruikt en 
+(ii) 	DNA moet worden gedetecteerd 
+in strijd zijn met verkort weergegeven:
+- 	het gelijkheidsbeginsel zoals (ook) neergelegd in artikel 1.8 AW; 	
+- 	artikel 2.75 tweede lid AW nu die eisen belemmeringen opleveren die niet gerechtvaardigd zijn; 
+- 	het proportionaliteitsbeginsel van artikel 1.10 AW nu die eisen ongeschikt zijn om het beoogde doel te bereiken; 
+- 	artikel 2.76 vijfde lid AW nu het bij deze eisen gaat om technische specificaties die naar een bijzondere werkwijze verwijzen en dit niet door het voorwerp van de overheidsopdracht wordt gerechtvaardigd; 
+- 	artikel 2.76 eerste tweede vijfde en zesde lid AW nu de in de Aptiva-test van Hologic gebruikte TMA-amplificatiemethode en RNA-detectiepunt gelijkwaardig zijn aan de geëiste PCR-amplificatiemethode en het geëiste DNA-detectiepunt. 
+ 
+
+
+3.4
+Met de door Hologic aangevallen KO-eisen wordt verwezen naar bijzondere werkwijzen als bedoeld in lid 5 van artikel 2.76 AW waarvoor ingevolge artikel 2.76 zesde lid onder b AW de eis geldt dat zij vergezeld gaan van de woorden ‘of gelijkwaardig’. De stelling van Hologic dat aan deze eis niet is voldaan mist feitelijke grondslag gezien de in rov. 1.12 weergegeven passage uit de van de aanbestedingsstukken deel uitmakende Inleiding. Waar in de NvI is aangegeven dat een alternatief niet is toegestaan (zie rov. 1.13) moet dat niet zo worden begrepen dat gelijkwaardige alternatieven zijn uitgesloten maar aldus dat het gepresenteerde alternatief niet gelijkwaardig is bevonden.       
+
+
+
+
+4 Enkele algemene beschouwingen  
+
+4.1
+Om te beginnen zal het hof enige algemene beschouwingen wijden aan de trits sensitiviteit/specificiteit/voorspellende waarde (vgl. rov. 1.4) het voorwerp van de Opdracht (zie de rovv. 1.7 t/m 1.11) en de Meijer-criteria (zie de rovv. 1.6 en 1.7).   
+
+
+4.2
+Uit de punten 2 10 3.8 4.6 4.8. 4.9 4.19 4.31 CvA is het volgende af te leiden. Onder de klinische specificiteit van een test wordt verstaan de kans dat de test een positieve uitslag geeft bij mensen die de ziekte hebben. Bij een hoog specifieke test zijn er veel terecht positieve uitslagen en weinig onterecht negatieve uitslagen (fout-negatieven). Een lage sensitiviteit leidt tot verminderde opsporing en daarmee tot schijnzekerheid en verlies aan gezondheidswinst. Met sensitiviteit wordt dus de mate van gevoeligheid van een test voor (opsporing van) de onderzochte ziekte tot uitdrukking gebracht. Het kan echter ook zijn dat een test een positieve uitslag geeft terwijl de onderzochte persoon de ziekte niet heeft (fout-positieven). Dit is een kwestie van specificiteit. Bij een hoog-specifieke test zijn er weinig fout-positieve uitslagen en veel terecht negatieve uitslagen. Een laag-specifieke test geeft vaak loos alarm en leidt tot ten onrechte uitgevoerd vervolgonderzoek en tot overdiagnose en/of overbehandeling. Vaak geldt dat naarmate een test sensitiever is deze minder specifiek is en vice versa. Sensitiviteit en specificiteit zijn kenmerken van de test. Een andere grootheid is de negatief voorspellende waarde. Uit de punten 4.9 4.18 en 4.19 CvA en punt 3.8 van de PA van Hologic is af te leiden dat hiermee wordt bedoeld: de kans dat wanneer de testuitslag negatief is de persoon de ziekte niet heeft. De negatief voorspellende waarde moet worden vastgesteld aan de hand van longitudinale studies vgl. de in de rov. 5.10 te citeren passage van het op 28 augustus 2013 in de Journal of Clinical Microbiology gepubliceerde artikel van Heideman et al. ‘The Aptima HPV Assay (…) ’ (hierna: Heideman).  
+
+
+4.3
+
+In de onder 1.7 t/m 1.11 vermelde feiten ligt besloten dat voor zover hier van belang het voorwerp van de Opdracht bestaat in het verschaffen van een hrHPV-test voor het onderzoeken van: 
+- 	klinisch materiaal dat is afgenomen bij de (op 30 35 40 50 en 60 jaar te verrichten) primaire screenings en bij de vervolgscreenings die plaatsvinden na een positieve uitslag van een primaire screening;   
+	-	zelfafgenomen materiaal bij de vervolgscreenings.  
+	Het testen van zelfafgenomen materiaal bij primaire screening maakt dus geen deel uit van de Opdracht. 
+ 
+
+
+4.4
+
+In Meijer-I is onder meer het volgende te lezen (de hoofdletters tussen haakjes zijn door het hof aangebracht):
+‘(A) The key issue for hrHPV DNA testing in cervical screening is to detect hrHPV infections that are associated with or develop into ≥CIN 2 and to differentiate them from transient hrHPV infections. This implies that there should be a balance between clinical sensitivity and specificity of ≥CIN 2. Currently two tests i.e the US Food and Drug Administration-approved Hybrid Capture 2 (hc2;  …) and GP5+/6+-PCR enzyme immunoessay (GP5+/6+ PCR EIA) have repeatedly demonstrated clinical sensitivity of about 90-95% for the detection of ≥CIN 2 in large prospective cohorts or randomized controlled trials.   
+
+		(…)
+
+(B) Since in large prospective screening trials both hc2 and GP5+/6+-PCR have been shown to be superior to cytology the hrHPV test requirements are deduced from data obtained with these assays.  
+(C) In a primary cervical screening setting a HPV detection assay should fullfill the following requirements: 
+
+1. 	The candidate test should have a clinical sensitivity for ≥CIN 2 not less than 90% of the hc2 in women of at least 30 years. (…). This high sensitivity translates into a very high negative predictive value (reassurance) of the HPV detection assay allowing for extending screening intervals for test negative women who are typically the majority of participants in a screening programme. 
+
+
+(…)
+
+
+2.	The specificity of the candidate test for ≥CIN 2 should be at least 98% of the specificity of hc2’.  
+De bij (C) onder 1 en 2 weergegeven criteria zijn de al eerder genoemde Meijer-criteria. In de aan de Meijer-criteria ontleende NVvP-richtlijnen is criterium 1 als volgt geformuleerd:
+‘de klinische sensitiviteit voor ≥CIN 2 bij vrouwen van 30 jaar of ouder is niet lager dan 90% van de klinische sensitiviteit van de hoog risico HPV HC2 methode. Dit garandeert een hoge negatief voorspellende waarde van de HPV test waardoor verlenging van het screeningsinterval van testnegatieve vrouwen mogelijk is’.
+ 
+
+
+4.5
+De Meijer-criteria zijn opgesteld op basis van onderzoek naar tests met DNA als detectiepunt. Dit blijkt niet alleen uit de in rov. 1.6 geciteerde titel van Meijer I en de in rov. 4.4 daaruit weergegeven passages maar ook uit onder meer punt 5.14 ID en punt 4.72 AD waar Hologic dit heeft bevestigd.  
+
+
+4.6
+In de Journal of Clinical Virology 2009 is nog een andere publicatie van Meijer et al. verschenen: ‘Validation of high risk HPV-tests for primary cervical screening’ (hierna: Meijer II).  
+
+
+4.7
+In het advies van de Gezondheidsraad en in de aanbesteding – die op dat advies voortbouwt – zijn de Meijer-criteria overgenomen. Om in aanmerking te komen voor gunning moet de aangeboden hrHPV-test aan de Meijer-criteria voldoen (zie KO-eis 3.1.4 weergegeven in rov. 1.11) anders gezegd: de test moet volgens deze criteria gevalideerd zijn.  
+
+
+
+
+5 De DNA-eis  
+
+
+Inleiding en de wederzijdse standpunten
+
+ 
+
+5.1
+Het hof zal nu eerst ingaan op de eis dat specifiek DNA en niet een ander nucleïnezuur zoals het door Hologic gebruikte mRNA moet worden gedetecteerd.     
+
+
+5.2
+
+Deze eis is gebaseerd op het advies van de Gezondheidsraad (zie rov. 1.7) meer in het bijzonder de volgende passage op blz. 69 daarvan:
+‘HrHPV-tests die niet gericht zijn op het aantonen van DNA (maar bijvoorbeeld op mRNA) voldoen niet aan de richtlijnen omdat de negatief voorspellende waarde daarvan niet bekend is en dus ook het optimale screeningsinterval niet. In dat geval zijn wel grote longitudinale studies nodig.’
+ Dit is nader toegelicht in de volgende passage uit het antwoord in de NvI op vraag 144:  
+‘De keuze voor een hrHPV DNA hangt direct samen met de opzet van het vernieuwde bevolkingsonderzoek: een verlengd screeningsinterval van 5 naar 10 jaar bij vrouwen van 40 en 50 jaar die een negatieve hrHPV-test hebben. Voor de RNA-test is het in tegenstelling tot een DNA-test niet aangetoond dat het veilig is om een interval van 10 jaar te hanteren. Hiermee is onvoldoende uit te sluiten dat een RNA-test niet resulteert in een toename van intervalkankers.
+De keuze voor DNA als detectiepunt berust dus op de opvatting dat (tot nu toe) alleen daarvoor en niet ook voor RNA-detectie is aangetoond aan de hand van de negatief voorspellende waarde dat het interval veilig kan worden verlengd tot tien jaar tussen twee primaire screenings zonder toename van de kans op intervalkanker.    	
+
+
+
+5.3
+
+Hologic heeft deze opvatting bestreden. Volgens haar:
+A. 	is er geen wetenschappelijk bewijs dat een screeningsinterval van tien jaar veilig is; dat is alleen aangetoond voor een interval van vijf jaar (punt 4.66 AD; blz. 3 PA; punt 4.2 PA);
+B. 	is haar Aptiva-test met RNA-detectie waarvoor inmiddels goedkeuring van de NVvP is verkregen en die aan de Meijer-criteria voldoet gelijkwaardig aan een test met DNA-detectie en is het andersluidende advies van de Gezondheidsraad op dit punt onjuist althans achterhaald (punten 2.7 en 4.83 AD/blz. 3 en punt 3.1 PA). 
+Deze argumenten van Hologic zullen hierna worden aangeduid als de argumenten A en B. Daarnaast heeft Hologic aangevoerd dat de keuze voor de DNA-test niet gerechtvaardigd/disproportioneel is (zie rov. 3.3). 
+
+De status van het advies van de Gezondheidsraad 
+
+ 
+
+
+5.4
+Het hof stelt voorop dat gelet op het in punt 3.3 CvA gestelde de Gezondheidsraad is te beschouwen als een adviseur als bedoeld in artikel 3:5 van de Algemene wet bestuursrecht (Awb) zodat – ingevolge artikel 3:14 van het Burgerlijk Wetboek (BW) en artikel 3:1 lid 2 Awb – de bepalingen van afdeling 3.3 van de Awb van overeenkomstige toepassing zijn. Dat betekent dat de Staat zich ervan dient te vergewissen dat het onderzoek door de Gezondheidsraad op zorgvuldige wijze heeft plaatsgevonden (artikel 3:9 Awb). Daarnaast kan van de Staat worden verwacht dat hij controleert of het advies inhoudelijk concludent is en mogen aanbestedingseisen niet zijn gebaseerd op een (kenbaar) achterhaald advies.     
+
+
+Argument A van Hologic/gerechtvaardigdheid 
+
+ 
+
+
+5.5
+
+Bij de beoordeling van Hologic’s argument A is van belang hetgeen op blz. 65 van het advies van de Gezondheidsraad staat vermeld:
+‘De commissie stelt vast dat na een negatieve hrHPV-test (waarmee blijkens punt 3.19 MvA en rov. 4.5 is bedoeld: een DNA-test het hof) de kans op CIN3+ ten minste zes tot tien jaar onder het risiconiveau van het huidige screeningsinterval van het bevolkingsonderzoek blijft (08 % vijf jaar na negatieve cytologie) 
+
+Zij concludeert dat wanneer besloten wordt tot hrHPV-screening het screeningsinterval veilig verlengd kan worden tot acht á tien jaar zonder toename van de kans op intervalkanker.’
+	De Staat mag in beginsel afgaan op het op het specifieke terrein van diens deskundigheid gelegen en op wetenschappelijk onderzoek en mondiale studies gebaseerde advies van de Gezondheidsraad dat een intervaltermijn van tien jaar veilig is. Het onder 5.4 overwogene staat hieraan niet in de weg. In dit geval bestaat geen aanleiding om een uitzondering op genoemd beginsel aan te nemen zeker niet nu voor bedoeld advies steun is te vinden in de in rov. 4.4 met (A) en (B) aangeduide passages uit Meijer I die inhouden dat met betrekking tot DNA-testen longitudinale studies zijn verricht. Hierbij wordt er aan herinnerd dat zulke studies nodig zijn voor de vaststelling van de negatieve voorspellende waarde/‘negative predictive value’ (hierna kortweg: NPV) die weer bepalend is voor de mate van veiligheid van de test. Argument A van Hologic stuit hierop af. 
+ 
+
+
+5.6
+De verlenging van het screeningsinterval van vijf naar tien jaar is voor vrouwen van 40 jaar en ouder gunstig want minder belastend. Dat zoals Hologic nog heeft aangevoerd in punt 4.64 AD de Gezondheidsraad zes screeningsrondes het meest effectief achtte en dat bij de aanbesteding dus mede uit overwegingen van kosteneffectiviteit voor vijf rondes is gekozen laat onverlet dat voor deze keuze en daarmee voor de keuze om een 10-jaars interval te hanteren een objectieve rechtvaardiging bestaat; zij is gunstig voor de betrokken vrouwen onder behoud van veiligheid en met inachtneming van het publieke belang van kostenefficiëntie.  
+
+
+Argument B van Hologic/gerechtvaardigdheid 
+
+ 
+
+
+5.7
+Aan het feit dat in 2013 voor de Aptima-test goedkeuring is verkregen van de NVvP kan – voor zover Hologic dat al wil betogen; blz. 2 2e alinea PA zou daarop kunnen duiden – niet de gevolgtrekking worden verbonden dat RNA-tests de voor het 10-jaars screeningsinterval benodigde hoge NPV hebben. Die goedkeuring is naar blijkt uit productie 15 van Hologic en punt 2.7 AD immers alleen gegeven voor triage (vervolgonderzoek) en daarbij is een vooropgezet 10-jaars interval niet aan de orde (vgl. punt 2.54 MvA). Het is niet duidelijk welke betekenis moet worden gehecht aan het door Hologic in dit verband nog benadrukte feit dat de door de NVvP tot dusverre afgegeven goedkeuringen alle zijn verleend voor triage. De Staat heeft hier – onweersproken – tegenover gesteld dat maar een beperkt aantal van de thans beschikbare hrHPV-tests in aanmerking komt voor primaire screening op basis van de Meijer-criteria.    
+
+
+5.8
+Hologic’s argument B is door de Staat in zoverre onderschreven dat hij inmiddels in punt 3.25 MvA heeft erkend dat de Aptiva-test van Hologic – waarin gebruik wordt gemaakt van RNA in plaats van het bij de aanbesteding voorgeschreven DNA – wat de klinische sensitiviteit en specificiteit betreft aan de Meijer-criteria voldoet. Hologic meent dat bij deze stand van zaken er van uit moet worden gegaan dat haar RNA-test ook een hoge NPV heeft (punt 4.74 MvG; punt 3.8 PA) waarbij zij zich beroept op het onderdeel van criterium 1 van de NVvP-richtlijnen dat luidt dat kort gezegd een hoge klinische sensitiviteit voor ≥CIN 2 een hoge NPV van de test ‘garandeert’ (zie rov. 4.4 in fine) en op het daarmee corresponderende onderdeel van Meijer-criterium 1. Door de Staat is hier tegen ingebracht dat de Meijer-criteria (het hof begrijpt: ten gevolge van daaraan ten grondslag liggende onderzoeken) alleen van toepassing zijn op DNA-testen en dat een hoge sensitiviteit van de Aptiva-test de noodzaak van een met longitudinale studies bewezen voldoende lange termijn-NPV voor deze op RNA-detectie gebaseerde test niet wegneemt (punt 3.32 MvA; punt 6 PA). Hiermee heeft de Staat tot uitdrukking gebracht dat zijns inziens de NPV bij een DNA-test en die bij een (verder vergelijkbare) RNA-test niet noodzakelijkerwijs identiek zijn.  
+
+
+5.9
+Bij een (zeer) hoge klinische sensitiviteit is de kans klein dat bij een negatieve uitslag de onderzochte persoon de ziekte toch heeft zodat ook de NPV dan hoog is zie de in rov. 5.8 genoemde onderdelen van de Meijer-criteria en de NVvR-richtlijnen punt 4.30 AD en punt 3.19 MvA. Daarbij maakt het uit de aard der zaak wel verschil of de ziekte in de onderzochte populatie (dat wil zeggen: de specifiek afgebakende onderzoeksgroep) veel of weinig voorkomt. Komt de ziekte veel voor dan is ondanks de hoge sensitiviteit van de test de kans dat bij een negatieve uitslag de onderzochte persoon de ziekte toch heeft groter dan wanneer de ziekte (in de genoemde specifieke onderzoeksgroep) zeer zeldzaam is. In het laatste geval is de NPV (de kans dat de uitslag negatief is als de onderzochte persoon de ziekte niet heeft) groter dan in het eerste geval. Vastgesteld moet dus worden dat de NPV ook bij een gelijke klinische sensitiviteit kan variëren naargelang de omstandigheden waaronder de test plaatsvindt.  
+
+
+5.10
+
+De Staat heeft onweersproken gesteld (punten 4.18 t/m 4.24 CvA en de punten 2.43-2.48 en 3.32 MvA) dat tijdens de ontwikkeling van de voorstadia van baarmoederhalskanker de hoeveelheid virusDNA afneemt en de hoeveelheid RNA toeneemt en dat derhalve een RNA-test een besmetting pas in een later stadium opspoort dan een DNA-test. Hierbij heeft de Staat – in o.m. de punten 4.15 en 4.17 CvA en de punten 2.42 2.46 en 2.47 MvA – gewezen op de volgende passage uit Meijer II (zie rov. 4.6):
+‘It is noteworthy that the test requirements montioned above (de Meijer-criteria het hof) are not meant for clinical validation of other non HPV DNA-based methods for primary screening purposes. In that case longitudinal randomized-controlled trials are necessary since the long-term negative predictive value of such methods is unknown. Since in the carcinogenic process viral DNA presence precedes events detected by non-HPV DNA based markers it is likely that the long-term negative predictive value of most non-HPV DNA-based methods is lower than the HPV DNA tests’ 
+en op Heideman (zie rov. 4.2 in fine) waarin aldus de Staat wordt bevestigd dat voor de Aptiva-test nog longitudinale studies nodig zijn. In Heideman is meer in het bijzonder het volgende vermeld:
+‘(…) like HC2 the GP5+/GP6+ PCR can be used for cross-sectional clinical validation of candidate HPV test (…). Collectively our data indicate that the Aptima HPV assay meets the clinical and reprodibility criteria for HPV test requirements for primary cervical screening. It should be noted however that it has been stated that the clinical equivalence criteria based on relative cross-sectional accuracy are for HPV DNA tests and may not necessarily be valid for other molecular markers such as overexpressed proteins or RNA. 
+
+		(…).
+
+
+	In conclusion our data indicate that the Aptima HPV assay in a cross sectional setting performs clinically comparably to GP5+/GP6+ PCR and meets the cross-sectional criteria for clinical sensitivity for CIN2+ (…) interlaboratory reproducibility over time and interlaboratory agreement of international guidelines for HPV test requirements for primary cervical screening (7). Longitudinal data are needed to ensure long-term negative predictive values similar to those for the validated HPV DNA test GP5+/GP6+ PCR en HC2’.  
+	De juistheid van de weergegeven onderzoeksresultaten en de daarop gebaseerde conclusies in Meijer II en Heideman is door Hologic niet althans niet gemotiveerd betwist ook niet in punt 4.77 MvG waar zij alleen maar heeft opgemerkt dat de verwijzing naar enkel Meijer II niet toereikend is.  
+ 
+
+
+5.11
+Gezien het onder 5.10 overwogene is naar het voorlopig oordeel van het hof door de Staat voldoende aannemelijk gemaakt dat het voor de (voor de vaststelling van de NPV van belang zijnde) omstandigheden waaronder een test plaatsvindt een relevant verschil maakt of DNA dan wel RNA als detectiepunt wordt gebruikt en dat derhalve een voor een test op basis van DNA aan de hand van longitudinale studies vastgestelde NPV niet één op één toepasselijk kan worden geacht in een vergelijkbare maar op RNA-detectie gebaseerde test. Hoewel naar uit het onder 5.8 overwogene blijkt een RNA-test wat sensitiviteit en specificiteit betreft conform de (op DNA-onderzoek gebaseerde) Meijer-criteria kan worden gevalideerd heeft de Staat met zijn opmerking dat de Meijer-criteria niet van toepassing zijn op RNA-tests dus in zoverre gelijk dat onzeker is of de in de Meijer-criteria voor DNA-tests aangenomen hoge NPV ook in gelijke mate geldt voor RNA-tests. Het is met andere woorden niet zo dat – zoals Hologic meent zie rov. 5.8 – de in NVvP-/Meijer-criterium 1 genoemde ‘garantie’ voor alle tests met een hoge sensitiviteit geldt. Dit is alleen het geval voor tests op basis van DNA waarvoor immers de daarvoor benodigde longitudinale studies zijn verricht zie rov. 5.5. 
+
+
+5.12
+Al in de eerste aanleg (o.m. punt 3.3 PE) heeft de Staat onweersproken gesteld dat voor hrHPV-tests met RNA-detectie enkel nog studies met een screeningsinterval van vier jaar zijn verricht. Gelet hierop en op het onder 5.11 overwogene moet worden geconstateerd dat voor screeningsintervallen van meer dan vier jaar bij RNA-testen de NPV nog onzeker is. Derhalve kon redelijkerwijs de opvatting worden gehuldigd dat het – objectief gerechtvaardigde zie rov. 5.6 – uitgangspunt van de aanbesteding dat er een veilig screeningsinterval van tien jaar moet zijn alleen met voldoende zekerheid kon worden bereikt door tests op basis van DNA-detectie en niet door tests op basis van RNA-detectie. Gezien het belang van zekerheid in dit verband – namelijk het voorkomen van intervalkanker – volgt hieruit dat de KO-eis dat DNA moet worden gedetecteerd eveneens objectief gerechtvaardigd is zodat deze eis naar voorlopig oordeel van het hof niet strijdig is met de in artikel 1.10 AW opgenomen eis van proportionaliteit geen ongerechtvaardigde belemmering voor inschrijving oplevert zoals bedoeld in artikel 2.75 tweede lid AW en de in het Programma van eisen en wensen opgenomen technische specificatie door het voorwerp van de opdracht wordt gerechtvaardigd zoals bedoeld in artikel 2.76 vijfde lid AW. In het oordeel dat de keuze voor een test uitsluitend op basis van DNA objectief gerechtvaardigd is ligt besloten dat een test op basis van RNA daaraan niet gelijkwaardig is waardoor Hologic’s beroep op het in artikel 1.8 AW neergelegde gelijkheidsbeginsel en de bepalingen inzake gelijkwaardigheid neergelegd in artikel 2.76 eerste tweede vijfde en zesde lid AW faalt evenals haar argument B: uit het onder 5.7 en 5.10/5.11 overwogene vloeit voort dat de feiten die Hologic heeft aangevoerd ter onderbouwing van haar stelling dat het in rov. 5.2 vermelde advies van de Gezondheidsraad onjuist/achterhaald is die conclusie niet kunnen dragen. De Staat heeft zich derhalve op dat advies mogen baseren. 
+
+
+Specificiteit
+
+ 
+
+
+5.14
+Omdat de DNA-eis samenhangt met de NPV en niet met de specificiteit mist de stelling van Hologic dat RNA-tests als haar Aptiva-test ten opzichte van DNA-tests het voordeel hebben dat zij specifieker zijn (zie o.m. punt 4.92 AD en punt 3.5 PA) in de hier aan de orde zijnde context relevantie. Opgemerkt zij nog dat in het in punt 3.7 PA door Hologic genoemde artikel van Arbyn et al. juist wordt uitgegaan van een verband tussen specificiteit en de ‘PPV’ waarmee kennelijk is bedoeld: ‘positive predictive value’ de tegenhanger van de NPV: ‘(…) a more specific test (…) at a higher viral load cut-off increases specificity and PPV (...)’.     
+
+
+Conclusie 
+
+ 
+
+
+5.15
+Het voorgaande voert het hof tot het oordeel dat de vorderingen van Hologic voor zover gericht tegen de in de aanbesteding gestelde DNA-eis niet toewijsbaar zijn.  
+
+
+
+
+6 Slotbeschouwingen  
+
+6.1
+In de Aptiva-test van Hologic wordt noch aan de KO-eis betreffende DNA noch aan de KO-eis betreffende de PCR-methode voldaan. De primaire vordering van Hologic moet in dit licht zo worden verstaan dat Hologic wenst dat de Staat beide eisen laat vallen en vervangt door ruimer geformuleerde eisen en dat het woord ‘en’ tussen enerzijds ‘(target-)amplificatiemthode’ en anderzijds ‘DNA’/’nucleïnezuurdetectie’ in die vordering (zie rov. 2.1) niet kan worden gelezen als: ‘en/althans’ of ‘en/of’. Hierbij zou Hologic ook geen belang hebben omdat wanneer slechts een van beide eisen in de door haar gewenste zin zou worden geherformuleerd haar test dan nog steeds niet aan de andere eis voldoet waardoor gunning aan haar uitgesloten blijft. Er is geen reden om aan te nemen dat dit voor de overige door Hologic ingestelde vorderingen anders zou liggen. Het oordeel dat Hologic’s vorderingen betreffende de DNA-eis niet toewijsbaar zijn brengt derhalve met zich dat al haar vorderingen moeten worden afgewezen ook die betreffende de PCR-eis.  
+
+
+6.2
+Wat de incidentele vordering betreft wordt hier nog aan toegevoegd dat de Staat bij pleidooi in hoger beroep heeft toegezegd de aanbesteding uit te stellen tot uiterlijk 9 juni 2015 de dag van dit arrest zodat Hologic bij deze vordering geen belang meer heeft.   
+
+
+6.3
+Voor bewijslevering als door Hologic aangeboden is in dit spoedappel in een kort geding geen plaats.   
+
+
+6.4
+Het bestreden vonnis zal worden bekrachtigd. Als de in hoger beroep in het ongelijk gestelde partij zal Hologic worden veroordeeld in de daarop gevallen kosten. Tot die kosten behoren de (nog te maken) nakosten (waarvoor onderstaande veroordeling een executoriale titel geeft – ECLI:NL:HR:2010:BL1116). Ingevolge artikel 237 derde lid Rv blijft de vaststelling van de proceskosten door het hof in dit arrest beperkt tot de vóór de uitspraak gemaakte kosten.   
+
+
+Beslissing
+
+ 
+
+Het gerechtshof: 
+ 
+- bekrachtigt het tussen partijen gewezen vonnis van de voorzieningenrechter in de rechtbank Den Haag van 25 maart 2015;  
+- veroordeelt Hologic in de kosten van de procedure in hoger beroep tot op heden aan de zijde van de Staat begroot op € € 711- voor verschotten en € 2.682- voor salaris en bepaalt dat deze bedragen binnen veertien dagen na de uitspraak moeten zijn voldaan bij gebreke van betaling te vermeerderen met de wettelijke rente als bedoeld in artikel 6:119 BW vanaf het einde van voormelde termijn tot aan de dag der algehele voldoening;   
+- verklaart dit arrest ten aanzien van de proceskostenveroordeling uitvoerbaar bij voorraad.  
+
+Dit arrest is gewezen door mrs. A.V. van den Berg M.Y. Bonneur en A.E.A.M. van Waesberghe; het is uitgesproken ter openbare terechtzitting van 9 juni 2015 in aanwezigheid van de griffier.
+
+
+

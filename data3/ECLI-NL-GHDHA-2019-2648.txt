@@ -1,0 +1,1025 @@
+
+
+GERECHTSHOF DEN HAAG 
+Afdeling Civiel recht 
+
+Zaaknummer	: 200.262.547/01
+ 
+
+Zaaknummer rechtbank	: C/09/574293 / KG ZA 19-474 
+ 
+
+
+arrest van 17 september 2019
+
+ 
+
+inzake
+ 
+
+
+
+1 Novartis Pharma AG
+gevestigd te Bazel Zwitserland
+2. Novartis International Pharmaceutical AG
+gevestigd te Bazel Zwitserland
+3. Novartis AG
+
+gevestigd te Bazel Zwitserland
+appellanten 
+hierna te noemen: Novartis
+advocaat: mr. R.M. Kleemans te Amsterdam
+ 
+
+tegen
+ 
+
+
+Teva Nederland B.V.
+
+gevestigd te Haarlem
+geïntimeerde
+hierna te noemen: Teva
+advocaat: mr. R. Dijkstra te Amsterdam.
+ 
+
+
+
+1 Het geding 
+
+1.1
+Bij exploot van 12 juli 2019 is Novartis in hoger beroep gekomen van een door de voorzieningenrechter in de Rechtbank Den Haag tussen partijen gewezen vonnis van 5 juli 2019. In de appeldagvaarding (met producties) heeft Novartis dertien grieven aangevoerd. Bij memorie van antwoord (met producties) (MvA) heeft Teva de grieven bestreden. Daarna heeft Novartis bij akte houdende overlegging aanvullende producties van appellanten nadere stukken ingediend.  
+
+
+1.2
+Vervolgens hebben partijen op 29 augustus 2019 de zaak doen bepleiten Novartis door haar advocaat voornoemd en mrs. M.G.A. Egeler en M.C. Salomons kantoorgenoten en Teva door haar advocaat voornoemd en mrs. A.A.A.C.M. van Oorschot en T.D. Stigterman kantoorgenoten allen aan de hand van overgelegde pleitnotities.  
+
+
+1.3
+Bij pleidooi heeft Teva bezwaar gemaakt tegen overlegging van de stukken die betrekking hebben op de verleningsgeschiedenis van andere divisionals van het moederoctrooi van de in het geding zijnde octrooien (zie hierna r.o. 2.5 e.v.). Dat bezwaar wordt niet gehonoreerd. Teva heeft die divisionals zelf naar voren gebracht in de discussie. Novartis heeft de stukken overgelegd in reactie op de stellingen van Teva dat Novartis met de divisionals ‘een zee van terugvalopties’ heeft gecreëerd en de suggestie van Teva dat Novartis daaruit een specifieke combinatie voor de behandeling van een specifiek soort kanker heeft ‘gevist’ naar aanleiding van nieuwheids- en inventiviteitsbezwaren en dat Novartis geacht moet worden voor de bescherming van everolimus als monotherapie afstand te hebben gedaan (zie r.o. 4.14 hierna). Teva heeft zelf ook uitvoerig een beroep gedaan op de verleningsgeschiedenis van de octrooien en het moederoctrooi de desbetreffende stukken zijn tijdig overgelegd en voorts van zodanig beperkte aard en omvang dat Teva geacht moet worden voldoende gelegenheid te hebben gehad deze te bestuderen en daarop te reageren.   
+
+
+1.4
+Ten slotte hebben partijen arrest gevraagd. 
+
+
+
+
+2 De feiten 
+
+Het gaat in deze zaak om het volgende:
+ 
+
+2.1
+Novartis maakt onderdeel uit van het Zwitserse farmaceutische bedrijf Novartis dat gericht is op het onderzoek ontwikkelen en verhandelen van innovatieve geneesmiddelen. 
+
+
+2.2
+Novartis AG en Novartis-Erfindungen Verwaltungsgesellschaft m.b.H. zijn houdster geweest van het stofoctrooi EP 0 663 916 (hierna: EP 916) voor “O-alkylated rapamycinederivaat en het gebruik ervan als immunosuppressivum” welk octrooi ziet op de stof everolimus. Dit is de internationale generieke benaming voor de verbinding 40-O-(2-hydroxy)ethyl-rapamycine een hydroxyethylderivaat van rapamycine zoals dat in de natuur voorkomt. Everolimus remt de activatie van T-cellen en kan gebruikt worden als een immuunonderdrukkend geneesmiddel (“immunosuppressant”). Everolimus werd oorspronkelijk goedgekeurd voor gebruik bij nier- hart- en levertransplantatie. Na het aanvullend beschermingscertificaat en een pediatrische verlenging van zes maanden is de bescherming van EP 916 geëindigd op 18 januari 2019. 
+
+
+2.3
+Novartis AG heeft op 18 februari 2002 een internationale PCT-aanvraag ingediend onder nummer WO 02/066019 (hierna: WO 019 of de aanvraag) voor “Cancer treatment”. De aanvraag is gepubliceerd op 29 augustus 2002 en doet een beroep op de prioriteitsdocumenten GB 0104072.4 gedateerd 19 februari 2001 en GB 0124957.2 (hierna: GB 572) gedateerd 17 oktober 2001. De aanvraag bevat onder meer de volgende passages: 
+
+
+Cancer Treatment
+
+ 
+
+
+The present invention relates to a new use in particular a new use for a compound group comprising rapamycin and derivatives thereof. 
+
+
+Rapamycin is a known macrolide antibiotic produced by Streptomyces hygroscopicus. Suitable derivatives of rapamycin include e.g. compounds of formula I 
+
+ 
+
+
+
+
+
+
+
+wherein 
+
+
+R is CH3 or C3-6alkynyl 
+
+
+R2 is H or -CH2-CH2-OH and 
+
+
+X is =O (H.H) or (HOH) 
+
+
+provided that R2 is other than H when X is =O and R1 is CH3. 
+
+ 
+
+
+Compounds of formula I are disclosed e.g. in WO 94/09010 WO 95/16691 or WO 96/41807 which are incorporated herein by reference. They may be prepared as disclosed or by analogy to the procedures described in these references. 
+
+
+Preferred compounds are 32-deoxorapamycin 16-pent-2-ynyloxy-32-deoxorapamycin 16-pent-2-ynyloxy-32(S)-dihydro-rapamycin 16-pent-2-ynyloxy-32(S)-dihydro-40-O-(2-hydroxyethyl)-rapamycin and more preferably 40-0-(2-hydroxyethyl)-rapamycin (referred thereafter as Compound A) disclosed as Example 8 in WO 94/09010. 
+
+ 
+
+
+2.4
+WO 019 is voortgezet als Europese octrooiaanvraag onder publicatienummer EP 1 363 627 (hierna EP 627 of de moederaanvrage). Na verschillende wijzigingen heeft Novartis AG EP 627 op 25 september 2015 ingetrokken. 
+
+
+2.5
+Door onderdelen van het Novartis concern zijn tien van EP 627 afgesplitste octrooiaanvragen (divisionals) ingediend die inmiddels hebben geleid tot 6 verleende octrooien. De onderhavige procedure ziet op twee van deze divisionals waarvoor octrooi is verleend. 
+
+
+2.6
+Novartis Pharma en Novartis AG zijn houdster van het Europees octrooi EP 2 269 603 (hierna: EP 603) voor “Treatment of breast tumors with a rapamycin derivative in combination with exemestane”. EP 603 is verleend op 20 mei 2015 onder inroeping van de prioriteit van GB 572 van 17 oktober 2001. EP 603 is in Nederland van kracht tot 17 februari 2022.  
+
+
+2.7
+De conclusies van EP 603 luiden in de authentieke Engelse versie als volgt: 
+
+
+
+40-O-(2-hydroxyethyl)-rapamycin in combination with exemestane for use in the treatment of hormone receptor positive tumor wherein the hormone receptor positive tumor is a breast tumor.
+
+
+
+
+40-40-O-(2-hydroxyethyl)-rapamycin in combination with exemestane for use according to claim 1 wherein 40-O-(2-hydroxyethyl)-rapamycin is to be administered at a daily dose from 0.1 to 25 mg as a single dose or in divided doses.
+
+
+
+
+3. 40-40- 40-40-O-(2-hydroxyethyl)-rapamycin in combination with exemestane for use according to claim 1 wherein exemestane is to be administered orally to a human in a dose from 5 to 200 mg/day or parenterally from 50 to 500 mg/day.
+3. 40-40- 40-40-O-(2-hydroxyethyl)-rapamycin in combination with exemestane for use according to claim 1 wherein exemestane is to be administered orally to a human in a dose from 10 to 25 mg/day or parenterally from 100 to 250 mg/day.
+ 
+
+
+2.8
+Deze conclusies luiden in de onbestreden Nederlandse vertaling als volgt: 
+
+
+
+40-O-(2-hydroxyethyl)-rapamycine in combinatie met exemestaan voor gebruik bij de behandeling van een hormoonreceptorpositieve tumor waarin de hormoonreceptorpositieve tumor een borsttumor is.
+
+
+
+
+40-40-O-(2-hydroxyethyl)-rapamycine in combinatie met exemestaan voor gebruik conform conclusie 1 waarin 40-O-(2-hydroxyethyl)-rapamycine dient te worden toegediend in een dagelijkse dosis van 01 tot 25 mg als enkele dosis of in verdeelde doses.
+
+
+
+
+40-40-O-(2-hydroxyethyl)-rapamycine in combinatie met exemestaan voor gebruik conform conclusie 1 waarin exemestaan oraal aan een mens dient te worden toegediend in een dosis van 5 tot 200 mg/dag of parenteraal van 50 tot 500 mg/dag.
+
+
+
+
+40-40-O-(2-hydroxyethyl)-rapamycine in combinatie met exemestaan voor gebruik conform conclusie 1 waarin exemestaan oraal aan een mens dient te worden toegediend in een dosis van 10 tot 25 mg/dag of parenteraal van 100 tot 250 mg/dag.
+
+
+
+
+
+2.9
+In de authentieke Engelse versie van de beschrijving van EP 603 is voorts - voor zover hier van belang - het volgende opgenomen: 
+
+
+[0001] The present invention relates to a new use in particular a new use for a 40-O-(2-hydroxyethyl)-rapamycin.
+
+
+[0002] Rapamycin is a known macrolide antibiotic produced by Streptomyces hygroscopicus. Derivatives of rapamycin include e.g. compounds of formula I
+
+ 
+
+
+
+
+
+
+
+
+
+
+wherein
+
+ 
+
+
+R1 is CH3 or C3-6alkynyl
+
+
+R2 is H or -CH2-CH2-OH and
+
+
+X is =O (HH) or (HOH)
+
+
+provided that R2 is other than H when X is =O and R1 is CH3.
+
+
+[0003] Compounds of formula I are disclosed e.g. in WO 94/09010 WO 95/16691 or WO 96/41807. They may be prepared as disclosed or by analogy to the procedures described in these references.
+
+
+[0004] WO 97/47317 disclosed a pharmaceutical combination comprising a compound of the somatostatin class and a rapamycin macrolide for use in the prevention or treatment of cell hyperproliferation.
+
+
+[0005] Naoko Tsuchiya et. al. (Int J Clin Oncol 2000 5: 183-187) disclosed the effects of the aromatase inhibitor fadrozole and the gonadotropin-releasing hormone (GnRH) agonist leuprorelin acetate on aromatase activity and cell proliferation in a human breast cancer cell line (SK-BR-3).
+
+
+[0006] WO 97/06793 disclosed non-steroidal compounds useful as steroid sulfatase inhibitors in estrogen dependent illnesses.
+
+
+[0007] 40-O-(2-hydroxyethyl)-rapamycin (referred thereafter as Compound A) was disclosed as Example 8 in WO 94/09010.
+
+
+[0008] Compounds of formula I have on the basis of observed activity e.g. binding to macrophilin-12 (also known as 40 FK-506 binding protein or FKBP-12) e.g. as described in WO 94/09010 WO 95/16691 or WO 96/41807 been found to be useful e.g. as immunosuppressant e.g. in the treatment of acute allograft rejection. It has now been found that Compounds of formula I have potent antiproliferative properties which make them useful for cancer chemotherapy particularly of solid tumors especially of advanced solid tumors. There is still the need to expand the armamentarium of cancer treatment of solid tumors especially in cases where treatment with anticancer compounds is not associated with disease regression or stabilization.
+
+
+[0009] In accordance with the particular findings of the present invention there is provided: 40-O-(2-hydroxyethyl)-rapamycin in combination with exemestane for use in the treatment of hormone receptor positive tumor wherein the hormone receptor positive tumor is a breast tumor. 
+
+
+(…)
+
+
+[0011]	Also disclosed are: 1.1 A method for treating solid tumors in a subject in need thereof comprising administering to said subject a therapeutically effective amount of a compound of formula I.
+
+ 
+
+
+1.2
+
+A method for inhibiting growth of solid tumors in a subject in need thereof comprising administering to said subject a therapeutically effective amount of a compound of formula I.
+
+
+
+1.3
+
+A method for inducing tumor regression e.g. tumor mass reduction in a subject in need thereof comprising administering to said subject a therapeutically effective amount of a compound of formula I.
+
+
+
+1.4
+
+A method for treating solid tumor invasiveness or symptoms associated with such tumor growth in a subject in need thereof comprising administering to said subject a therapeutically effective amount of a compound of formula I.
+
+
+
+1.5
+
+A method for preventing metastatic spread of tumours or for preventing or inhibiting growth of micrometastasis in a subject in need thereof comprising administering to said subject a therapeutically effective amount of a compound of formula I.
+ 
+
+
+[0012]	By "solid tumors" are meant tumors and/or metastasis (whereever located) other than lymphatic cancer e.g. brain and other central nervous system tumors (eg. tumors of the meninges brain spinal cord cranial nerves and other parts of central nervous system e.g. glioblastomas or medulla blastomas); head and/or neck cancer; breast tumors; circulatory system tumors (e.g. heart mediastinum and pleura and other intrathoracic organs vascular tumors and tumor-associated vascular tissue); excretory system tumors (e.g. kidney renal pelvis ureter bladder other and unspecified urinary organs); gastrointestinal tract tumors (e.g. oesophagus stomach small intestine colon colorectal rectosigmoid junction rectum anus and anal canal) tumors involving the liver and intrahepatic bile ducts gall bladder other and unspecified parts of biliary tract pancreas other and digestive organs); head and neck; oral cavity (lip tongue gum floor of mouth palate and other parts of mouth parotid gland and other parts of the salivary glands tonsil oropharynx nasopharynx pyriform sinus hypopharynx and other sites in the lip oral cavity and pharynx); reproductive system tumors (e.g. vulva vagina Cervix uteri Corpus uteri uterus ovary and other sites associated with female genital organs placenta penis prostate testis and other sites associated with male genital organs); respiratory tract tumors (e.g. nasal cavity and middle ear accessory sinuses larynx trachea bronchus and lung e.g. small cell lung cancer or non-small cell lung cancer); skeletal system tumors (e.g. bone and articular cartilage of limbs bone articular cartilage and other sites); skin tumors (e.g. malignant melanoma of the skin non-melanoma skin cancer basal cell carcinoma of skin squamous cell carcinoma of skin mesothelioma Kaposi's sarcoma); and tumors involving other tissues including peripheral nerves and autonomic nervous system connective and soft tissue retroperitoneum and peritoneum eye and adnexa thyroid adrenal gland and other endocrine glands and related structures secondary and unspecified malignant neoplasm of lymph nodes secondary malignant neoplasm of respiratory and digestive systems and secondary malignant neoplasm of other sites.
+
+
+(…)
+
+
+[0016]	By the term "chemotherapeutic agent" is meant an aromatase inhibitor. 
+
+
+[0017]	The term "aromatase inhibitor" as disclosed herein relates to a compound which inhibits the estrogen production i.e. the conversion of the substrates androstenedione and testosterone to estrone and estradiol respectively. The term includes but is not limited to steroids especially atamestane exemestane and formestane and in particular non-steroids especially aminoglutethimide roglethimide pyridoglutethimide trilostane testolactone ketokonazole vorozole fadrozole anastrozole and letrozole. (…)
+
+
+(…)
+
+
+[0019]	Utility of the compound of Compound A in treating solid tumors as hereinabove specified may be demonstrated in animal test methods as well as in clinic for example in accordance with the methods hereinafter described.
+
+ 
+
+Onder A. In Vitro zijn de volgende in vitro onderzoeken beschreven:
+ 
+
+
+A.1 Antiproliferative activity in combination with other agents
+
+
+A.2 Antiangiogenic activity
+
+ 
+
+Onder B. In Vivo zijn de volgende in vivo onderzoeken beschreven:
+ 
+
+
+B. 1 Activity in A549 human lung tumor xenografts
+
+
+B.2 Activity in human epidermoid tumor xenografts
+
+
+B.3 Activity in CA20948 rat pancreatic tumors
+
+
+B.4 Combination with doxorubicin
+
+
+B.5 Combination with cisplatinum
+
+
+B.6 Antiangiogenetic activity
+
+
+B.7 Combination with an antiangiogenetic agent
+
+ 
+
+Onder C.2 Combined Treatment is onder meer vermeld:
+ 
+
+
+[0038]	One specific embodiment of the invention discloses the use of a combination of the invention for the prevention delay of progression or treatment of or for the preparation of a medicament for the prevention delay of progression or treatment of breast cancer. In such embodiment the combination comprises as co-agent b) an aromatase inhibitor.
+
+ 
+
+
+2.10
+Door acht partijen is oppositie ingesteld tegen EP 603. Op 20 juni 2018 heeft de Oppositiedivisie van het Europees Octrooibureau (hierna: OD) mondeling ter zitting EP 603 nietig verklaard op grond van ongeoorloofde toegevoegde materie. De schriftelijke beslissing ter zake dateert van 5 september 2018. Novartis c.s. heeft beroep aangetekend bij de Technische Kamer van Beroep van het Europees Octrooibureau (hierna: TKB). De zitting voor (en beslissing van) de TKB vindt plaats op 30 oktober 2019.  
+
+
+2.11
+Novartis AG is houdster van het Europees octrooi EP 3 351 246 (hierna: EP 246) voor “Rapamycin derivative for the treatment of a solid tumor associated with deregulated angiogenesis”. EP 246 is verleend op 22 mei 2019 onder inroeping van de prioriteit van GB 572 van 17 oktober 2001 en is in Nederland van kracht tot 17 februari 2022.  
+
+
+2.12
+De conclusies van EP 246 luiden in de authentieke Engelse versie als volgt: 
+
+
+
+40-O-(2-hydroxyethyl)-rapamycin for use in combination with an aromatase inhibitor for the treatment of hormone receptor positive breast tumors.
+
+
+
+
+40-O-(2-hydroxyethyl)-rapamycin for use according to claim 1 wherein the aromatase inhibitor is atamestane exemestane formestane aminoglutethimide roglethimide pyridoglutethimide trilostane testolactone ketokonazole vorozole fadrozole anastrozole or letrozole.
+
+
+
+
+
+2.13
+Deze conclusies luiden in de onbestreden Nederlandse vertaling als volgt:  
+
+
+
+40-O-(2-hydroxyethyl)-rapamycine voor toepassing in combinatie met een aromataseremmer voor de behandeling van hormoonreceptorpositieve borsttumoren.
+
+
+
+
+40-O-(2-hydroxyethyl)-rapamycine voor toepassing volgens conclusie 1 waarbij de aromataseremmer atamestaan exemestaan formestaan aminoglutethimide roglethimide pyridoglutethimide trilostaan testolacton ketokonazol vorozol fadrozol anastrozol of letrozol is.
+
+
+
+
+
+2.14
+In de authentieke Engelse versie van de beschrijving van EP 246 is - voor zover hier van belang - onder nummers [0001] tot met [0009] en [0019] dezelfde beschrijving opgenomen als in EP 603. Ook zijn dezelfde in vitro en in vivo onderzoeken beschreven  (vergelijk onder 2.9).  Het verschil tussen beide octrooien is - kort gezegd - dat EP 246 is gericht op de combinatie van everolimus met een aromatase remmer terwijl EP 603 de combinatie met specifiek exemestaan onder bescherming stelt. 
+
+
+2.15
+Op de prioriteitsdatum van EP 603 en EP 246 behoorden de navolgende publicaties tot de stand van de techniek.  
+
+2.15.1
+De internationale octrooiaanvrage WO 00/69467 (hierna: WO 467; D2 in oppositie) gepubliceerd op 23 november 2000. WO 467 is getiteld “Combined method of treatment comprising an aromatase inhibitor and a further biologically active compound”. Als samenvatting is opgenomen: “A composition for use in breast cancer therapy in humans comprising in amounts effective to produce a superadditive antitumour effect: (a) an antineoplastic agent in a pharmaceutically acceptable carrier and/or diluent and (b) an aromatase inhibitor in a pharmaceutically acceptable carrier and/or diluent.” WO 467 bevat onder meer de volgende passages: 
+
+
+Chemotherapy is more toxic than hormonal therapy therefore is in general reserved for patients refractory to hormonal treatment or in patients with extensive visceral involvement or if the tumor is growing rapidly. Combination chemotherapy is generally more effective than single agent treatment. However only 15% of patients have a complete remission the duration of the response is limited all the tumors become resistant to chemotherapy and the patients die. 
+
+
+Therefore a major goal in breast cancer therapy is to develop new treatment modalities in order to increase tumor response and survival. 
+
+
+Accordingly it would be desirable to have a drug combination modality having improved action than currently used treatment modalities. Ideally such combination should have increased efficacy e.g. by providing both a better controlling of breast tumor growth and a longer duration of action while resulting in less toxic side-effects thus allowing administration of lower dosage levels of chemotherapeutic agent. 
+
+
+After an extensive study the present inventor has surprisingly found that the therapeutic effect of a chemotherapeutic cytotoxic (antineoplastic) agent is significantly improved and side-effects decreased by co-administering it with an aromatase inhibitor antitumor agent i.e. a compound which inhibits the formation of estrogens by inhibiting the enzyme aromatase. (pag. 4 r. 2-19)
+ 
+
+
+Description of the invention
+
+
+In a first aspect the present invention provides the use of an antineoplastic agent in the manufacture of a pharmaceutical composition for treatment of breast cancer the treatment additionally comprising administration of at least one pharmaceutical composition comprising an aromatase inhibitor in amounts effective to produce a superadditive antitumor effect. (pag. 4 r. 21-26)
+ 
+
+
+According to the present invention as "superadditive effect" is meant an effect in controlling the growth of the neoplasm which is greater than the sum of the actions of the individual components. As used herein "controlling the growth" of the neoplasm refers to slowing interrupting arresting or stopping its growth and it does not necessarily indicate a total elimination of the neoplasm. 
+
+
+The term "antineoplastic agent" is meant to comprise both a single antineoplastic cytotoxic drug and "cocktails" i. e. mixtures of such drugs according to the clinical practice. (pag. 5 r. 21-18)
+ 
+
+
+The term "aromatase inhibitor" is meant to comprise both a single aromatase inhibitor agent and cocktails of such inhibitors. 
+
+
+In the combined preparations pharmaceutical compositions and methods of treating according to the present invention the aromatase inhibitor preferably comprises 1 or a mixture of 2 aromatase inhibitor agents in particular a single aromatase inhibitor agent.
+
+(pag. 6 r. 1-6)
+ 
+
+
+Preferably an aromatase inhibitor is a compound selected from exemestane formestane anastrozole fadrozole or letrozole in particular exemestane. 
+
+
+Particularly preferred preparations pharmaceutical compositions and methods of treating according to the present invention are those comprising a) 1 2 or 3 antineoplastic agents selected from epirubicin doxorubicin idarubicin paclitaxel docetaxel 5-fluorouracil cyclophosphamide and vinorelbine and b) one or two in particular one steroidal aromatase inhibitor selected from exemestane formestane anastrozole letrozole and fadrozole. 
+
+
+More preferably are those comprising a) one or two in particular one antineoplastic agent selected from epirubicin and docetaxel and b) exemestane. (pag. 7 r. 4-13)
+ 
+
+In WO 467 zijn de volgende tabellen opgenomen:
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+2.15.2
+De internationale octrooiaanvrage WO 97/47317 (hierna: WO 317; D1 in oppositie) gepubliceerd op 11 december 1997. WO 317 is getiteld “Combination of a somatostatin analogue and a rapamycin”. Als samenvatting is opgenomen: “A combination of a compound of the somatostatin class and a rapamycin macrolide is useful for the prevention or treatment of cell hyperproliferation”. In de beschrijving van WO 317 is onder meer het volgende opgenomen: 
+
+
+The term "macrolide" as used herein refers to a macrocyclic lactone for example a compound having a 12-membered or larger lactone ring. Of particular interest are the "lactam macrolides" i.e. macrocyclic compounds having a lactam (amide) bond in the macrocycle in addition to a lactone (ester) bond for example rapamycin and its numerous derivatives and analogues. Rapamycin is an immunosuppressive lactam macrolide that is produced by Streptomyces hvgroscopicus (…) (pag. 10 laatste alinea)
+ 
+
+
+A preferred compound is e.g. 40-O-(2-hydroxy)ethyl-rapamycin (referred thereafter as
+
+
+Compound B – everolimus toevoeging hof). (pag. 12 3e alinea)
+
+Rapamycin and above mentioned derivatives have been shown to have potent immunosuppressant properties. Rapamycin has also been shown to inhibit smooth muscle cell proliferation and to inhibit cancer growth. 
+
+ 
+
+
+Somatostatin analogues e.g. octreotide vapreotide and lanreotide have been disclosed i.a. to inhibit growth hormone secretion and to have an inhibiting effect on malignant tumor growth e.g. in breast cancer. Octreotide and lanreotide have also been disclosed to inhibit smooth muscle cell proliferation. 
+
+ 
+
+
+In accordance with the invention it has now surprisingly been found that a combination of 2 active ingredients believed to act on basically different mechanisms such as a somatostatin analogue and rapamycin or a derivative thereof can be combined and synergistically inhibit cell hyperproliferation. (pag. 12 laatste alinea – pag. 13 2e alinea)
+ 
+
+
+According to the invention the combination of a compound of the somatostatin class and a rapamycin macrolide is indicated for the prevention or treatment of malignant tumor growth e.g. breast (…) (pag. 14 2e alinea)
+ 
+
+
+A. In vitro Assav
+
+
+(…) 
+
+
+In this assay the following results are obtained with octreotide alone Compound B alone and a combination of octreotide and Compound B. The synergy according to the Webb Method is confirmed by using the Chou-Talalay Method. (pag. 2e alinea)
+ 
+
+
+
+
+
+
+
+B. In Vivo Assay
+
+ 
+
+
+The AR42J (AR4-2J) rat pancreatic tumor cell line is derived from an azaserine-induced exocrine pancreatic tumor (Jessop and Hay 1980). (…) (pag. 15. laatste alinea)
+ 
+
+
+Results
+
+
+After 4 weeks the following tumor size were determined. 
+
+
+(Please note that values in the control group correspond to 3 week values since animals were killed afterwards for tumors became excessively large.)
+
+ 
+
+
+
+
+
+
+(pag. 16 laatste 2 alinea’s)
+ 
+
+
+C. Clinical trial
+
+
+Patients are included who have breast cancer as evidenced by histological biopsy (…) (pag. 17 2e alinea)
+ 
+
+
+2.15.3
+In Proceedings of the American Association for Cancer Research Volume 42 March 2001 is het abstract van I. Beuvink et al. opgenomen. Dat luidt als volgt: 
+
+
+“RAD001 is a hydroxy-ethyl ether derivative of rapamycin that is orally bioavailable. RAD001 has demonstrated in vitro anti-proliferative activity against a number of human tumor cell lines. Concentration response curves with IC10s. IC50s and IC90s differing by several orders of magnitude suggest potent inhibition of cell proliferation but less potency in killing tumor cells. IC50 values ranged from fM to µM. Indicating that although some tumor cell lines are very sensitive to RAD001 treatment others are intrinsically more resistant. Despite these differences in growth response down regulation of p70S6 kinase activity and reductions in 4E-BPI phosphorylation (downstream effectors of the mTOR “Target Of Rapamycin” kinase pathway) were observed in both sensitive (…) and resistant (…) cell-lines. Washout experiments further demonstrated (…) sustained downregulation of mTOR targets for up to 2-3 days after a single 30 min RAD001 pulse-treatment. These data indicate that RAD001 has a similar mechanism of prolonged action  reported for rapamycin; however resistant lines do exist which are able to compensate for RAD001-induced loss of mTOR function. In vivo RAD001 was orally active inhibiting the growth of human tumor xenografts in nude mice at doses ranging from 05-5.0mg/kg. At these doses RAD001 was well tolerated.”
+
+ 
+
+
+2.15.4
+In K. Yu et al “mTOR a novel target in breast cancer: the effect of CCI-779 an mTOR inhibitor in preclinical models of breast cancer” gepubliceerd in Endocrine-Related Cancer (2001) 8 249-258 is geopenbaard (p. 254-256): 
+
+“We have studied the effect of the mTOR inhibitor CCI-779 on cell growth and cell signal transduction in a panel of human breast cancer cell lines. We found that most breast cancer lines were responsive to CCI-779. While the molecular basis of responsiveness to mTOR inhibition is not known some observations from the literature regarding the responsive cells may be pertinent. (…) We chose one sensitive (MDA-MB-468) and one resistant (MDA-MB-435) line to study in vivo in nu/nu mouse xenografts and for further biochemical characterization of mTOR inhibition. (…) Although CCI-779 inhibited mTOR function in both sensitive and resistant cells downstream of mTOR the response to CCI-779 was different in MDA-468 compared with MDA-435 cells (Fig. 3). Inhibition of mTOR by CCI-779 in MDA-468 cells resulted in decreased cyclin D3 and c-myc levels and an increase in p27kip -1 levels. These effects were not seen in the resistant MDA-435 cells. (…) Inasmuch as anti-estrogens inhibit D-type cyclin production at the transcriptional level and mTOR inhibition decreases D-type cyclins at the translational and/or protein stability level there is a strong rationale for combining CCI-779 with anti-estrogen therapy.”
+ 
+
+
+
+2.16
+Tot de fictieve stand van de techniek (in de zin van artikel 54 lid 3 Europees Octrooiverdrag) behoort WO 2002/080975 (WO 975). Deze octrooiaanvrage is gepubliceerd op 17 oktober 2002 en draagt de titel “Antineoplastic combinations such as rapamycin together with gemcitabine or fluorouracil.” Blijkens de ‘abstract’ voorziet de uitvinding in “the use of a combination of an mTOR inhibitor such as a rapamycin and an antimetabolite antineoplastic agent such as gemsitabine or fluorouracil in the treatment of neoplasms.”  
+
+De uitvinding volgens WO 975 wordt als volgt beschreven (pag. 2 r. 30 – pag. 3 r. 7):
+ 
+
+
+This invention provides the use of combinations of an mTOR inhibitor and an antimetabolite antineoplastic agent as antineoplastic combination chemotherapy. In particular these combinations are useful in the treatment of renal cancer soft tissue cancer breast cancer neuroendocrine tumor of the lung cervical cancer uterine cancer head and neck cancer glioma non-small lung cell cancer prostate cancer pancreatic cancer lymphoma melanoma small cell lung cancer ovarian cancer colon cancer esophageal cancer gastric cancer leukemia colorectal cancer and unknown primary cancer. This invention also provides combinations of an mTOR inhibitor and an antimetabolite antineoplastic agent for use as antineoplastic combination chemotherapy in which the dosage of either the mTOR inhibitor or the antimetabolite antineoplastic agent or both are used in subtherapeutically effective dosages.
+
+ 
+
+Op pag. 13 r. 10-18 wordt opgesomd voor welke tumoren de uitvinding kan worden toegepast:
+ 
+
+
+Based on the results of these standard pharmacological test procedures combinations of an mTOR inhibitor plus an antimetabolite chemotherapeutic agent are useful as antineoplastic therapy. More particularly these combinations useful in treating treatment of renal carcinoma soft tissue sarcoma breast cancer neuroendocrine tumor of the lung cervical cancer uterine cancer head and neck cancer glioma non-small cell lung cancer prostate cancer pancreatic cancer lymphoma melanoma small cell lung cancer ovarian cancer colon cancer esophageal cancer gastric cancer leukemia colorectal cancer and unknown primary cancer.
+
+ 
+
+Op pag. 3 r. 34 – pag. 4 r. is ‘mTOR inhibitor’ gedefinieerd: 
+ 
+
+
+a compound or ligand which inhibits cell replication by blocking progression of the cell cycle from G1 to S by inhibiting the phosphorylation of serine 389 of p70s6 kinase by mTOR.”. 
+ 
+
+Op pag. 7 r. 18-21 is vermeld: 
+ 
+
+
+Particularly preferred rapamycins include rapamycin [U.S. Patent 3929992] CCI-779 [rapamycin 42-ester with 3-hydroxy-2-(hydroxymethyl)-2-methylpropionic acid; U.S. Patent 5362718] and 42-O-(2-hydroxy)ethyl rapamycin [U.S. Patent 5665772]. 
+ 
+
+De laatst genoemde stof is everolimus. In het document wordt everolimus verder niet meer genoemd (behalve in onderconclusie 14). De beschreven geprefereerde combinaties betreffen steeds combinaties met CCI-779 (temsirolimus) en ook alle beschreven onderzoeken hebben betrekking op die stof. 
+ 
+
+De term ‘antimetabolite’ is als volgt gedefinieerd (p. 8 r. 15-28): 
+ 
+
+
+a substance which is structurally similar to a critical natural intermediate (metabolite) in a biochemical pathway leading to DNA or RNA synthesis which is used by the host in that pathway but acts to inhibit the completion of that pathway (i.e. synthesis of DNA or RNA). More specifically antimetabolites typically function by (1) competing with metabolites for the catalytic or regulatory site of a key enzyme in DNA or RNA synthesis or (2) substitute for a metabolite that is normally incorporated into DNA or RNA and thereby producing a DNA or RNA that cannot support replication. Major categories of antimetabolites include (1) folic acid analogs which are inhibitors of dihydrofolate reductase (DHFR); (2) purine analogs which mimic the natural purines (adenine or guanine) but are structurally different so they competitively or irreversibly inhibit nuclear processing of DNA or RNA; and (3) pyrimidine analogs which mimic the natural pyrimidines (cytosine thymidine and uracil) but are structurally different so they competitively or irreversibly inhibit nuclear processing of DNA or RNA. 
+ 
+
+Dan volgt een opsomming van “representative examples of antimetabolites of this invention” (p. 8 r. 29 tot p. 9 r. 31). Een aromataseremmer wordt daarbij niet genoemd.
+ 
+
+Op pag. 13 is vermeld dat is voorzien dat de combinatie volgens WO 975 wordt gecombineerd met nóg een andere stof: 
+ 
+
+
+It is anticipated that the combinations of this invention will be used as part of a chemotherapy cocktail that may contain one or more additional antineoplastic agents depending on the nature of the neoplasia to be treated. For example this invention also covers the use of the mTOR inhibitor/antimetabolite combination used in conjunction with other chemotherapeutic agents such as alkylating agents (i.e. cisplatin carboplatm streptazoin melphalan chlorambucil carmustine methclorethamine lomustme bisulfan thiotepa ifofamide or cyclophosphamide); hormonal agents (i.e. estramustine tamoxifen toremifene anastrozole or letrozole); antibiotics (i.e. plicamycin bleomycin mitoxantrone idarubicin dactinomycin mitomycin doxorubicin or daunorubicin); immunomodulators (i.e. interferons IL-2 or BCG); antimitotic agents (i.e.p vinblastine vincristine teniposide or vinorelbine); topoisomerase inhibitors (i.e. topotecan irinotecan or etoposide); and other agents (i.e. hydroxyurea trastuzumab altretamine retuximab paclitaxel docetaxel L-asparaginase or gemtuzumab ozogamicin).
+
+ 
+
+Van de opgesomde stoffen zijn de ‘hormonal agents’ anastrazol en letrozol voorbeelden van niet-steroide aromataseremmers.  
+ 
+
+
+2.17
+Op pagina 3 r. 46 – pagina 4 regel 12 van EP 916 (het stofoctrooi voor everolimus) is vermeld:  
+
+
+The Novel Compound [everolimus – toevoeging hof] is particularly useful for the following conditions: 
+
+
+a. a) (…)
+
+e) Treatment of proliferative disorders e.g. tumors hyperproliferation skin disorder and the like.
+
+
+f) (…) 
+ 
+
+en conclusie 5 luidt als volgt:
+ 
+
+
+Use of 40-O-(2-hydroxy)ethyl-rapamycin in the manufacture of a medicament for treating or preventing any of the following conditions:
+
+
+(i) autoimmune disease
+
+
+(ii) graft vs. host disease
+
+
+(iii) asthma
+
+
+(iv) multidrug resistance
+
+
+(v) tumors or hyperproliferative disorders or
+
+
+(vi) fungal infections
+
+
+(vii) inflammation
+
+
+(viii) infection by pathogens having Mip or Mip-like factors or
+
+
+(ix) overdose of macrophilin-binding immunosuppressants.
+ 
+
+Op pagina 6 onder het kopje “8. Antitumor and MDR activity” is het volgende opgenomen:
+ 
+
+
+The antitumor activity of the Novel Compound and its ability to enhance the performance of antitumor agents by alleviating multidrug resistance is demonstrated e.g. by administration of an anticancer agent e.g. colchicine or etoposide to multidrug resistant cells and drug sensitive cells in vitro or to animals having multidrug resistant or drug sensitive tumors or infections with and without co-administration of the Novel Compound to be tested and by administration of the Novel Compound alone.
+
+
+Such in vitro testing is performed employing any appropriate drug resistant cell line and control (parental) cell line generated e.g. as described by Ling et al. J. Cell. Physiol. 83103-116 (1974) and Bech-Hansen et al. J. Cell. Physiol. 88. 23-32 (1976). Particular clones chosen are the multi-drug resistant (e.g. colchicine resistant) line CHR (subclone C5S3.2) and the parental sensitive line AUX Bl (subclone ABI S11). 
+
+
+In vivo anti-tumor and anti-MDR activity is shown e.g. in mice injected with multidrug resistant and drug sensitive cancer cells. Ehrlich ascites carcinoma (EA) sub-lines resistant to drug substance DR VC AM ET TE or CC are developed by sequential transfer of EA cells to subsequent generations of BALB/c host mice in accordance with the methods described by Slater et al. J Clin. Invest 70 1131 (1982).
+
+
+Equivalent results may be obtained employing the Novel Compound test models of comparable design e g. in vitro or employing test animals infected with drug -resistant and drug sensitive viral strains antibiotic (e.g. penicillin) resistant and sensitive bacterial strains anti-mycotic resistant and sensitive fungal strains as well as drug resistant protozoal strains e.g. plasmodial strains for example naturally occurring sub-strains of Plasmodium falciparum exhibiting acquired chemotherapeutic anti-malarial drug resistance.
+
+ 
+
+
+2.18
+Novartis is in Nederland sinds 2012 op de markt met Afinitor de merknaam voor everolimus voor gebruik tegen tumoren. Afinitor wordt voor verschillende indicaties voorgeschreven (waaronder longkanker en nierkanker); in verreweg de meeste gevallen (70%) wordt Afinitor in combinatie met exemestaan voorgeschreven voor de behandeling van (uitgezaaide) hormoonreceptor-positieve (hierna ook: HR+) borstkanker.  
+
+
+2.19
+Teva maakt deel uit van de Teva groep. Dit is een internationale farmaceutische onderneming met het hoofdkantoor in Israël. De Teva groep houdt zich bezig met vervaardiging distributie en verhandeling van generieke en innovatieve geneesmiddelen. 
+
+
+2.20
+Teva is in Nederland houdster van marktvergunningen voor een generieke versie van everolimus Everolimus Teva ten aanzien van 10 mg tabletten 25 mg tabletten en 5 mg tabletten. De handelsvergunningen zijn afgegeven op 3 augustus 2017. In de SmPC en de bijsluiter voor de patiënt bij Everolimus Teva is opgenomen dat everolimus in combinatie met exemestaan geïndiceerd is voor de behandeling van hormoonreceptorpositieve gevorderde borstkanker. Voor de (door andere octrooien van Novartis onder bescherming gestelde) indicaties longkanker en nierkanker heeft Teva in haar SmPC een carve-out opgenomen.  
+
+
+2.21
+Novartis heeft Teva sinds 4 september 2017 diverse malen aangeschreven daarbij gewezen op (onder meer) EP 603 en de aanvrage voor EP 246 en Teva gesommeerd daarop geen inbreuk te maken. Zij heeft Teva verzocht haar twee maanden voorafgaand aan een marktintroductie over zo’n voornemen te infomeren.  
+
+
+2.22
+Bij brief van 15 mei 2019 heeft Teva haar voornemen om Everolimus Teva per 1 juli 2019 op de markt te brengen onder meer voor de behandeling van HR+ borstkanker aan (de advocaat van) Novartis c.s. kenbaar gemaakt. Teva heeft daartoe Everolimus Teva in de juli-editie van de G-standaard laten opnemen. Na het bestreden vonnis is Teva met dit product daadwerkelijk op de markt gekomen.  
+
+
+
+
+3 Het geschil in eerste aanleg en in hoger beroep 
+
+3.1
+In eerste aanleg vorderde Novartis - samengevat - primair een aan Teva op te leggen (direct en indirect) inbreukverbod voor Nederland onder meer ten aanzien van geneesmiddelen die everolimus omvatten en geïndiceerd zijn voor hormoonreceptor-positieve gevorderde borstkanker dan wel een aan Teva op te leggen verbod om onrechtmatig te handelen met rectificatie in de G-standaard door middel van een Taxe-brief onder verbeurte van een dwangsom en met een volledige proceskostenveroordeling. Subsidiair vorderde Novartis een aan Teva op te leggen gebod om de indicatie hormoonreceptorpositieve gevorderde borstkanker uit haar (Nederlandse) handelsvergunningen voor Everolimus Teva te laten verwijderen met rectificatie in de G-standaard door middel van een Taxe-brief; een aan Teva op te leggen gebod om relevante groothandelaren (ziekenhuis)apothekers relevante zorgverzekeraars het salesteam van Teva relevante aanbestedingsinstellingen (wanneer Teva deelneemt aan een tender voor everolimus) te informeren dat Everolimus Teva niet geïndiceerd is en niet gebruikt/vergoed/verkocht mag worden voor de behandeling van hormoonreceptorpositieve gevorderde borstkanker; en een gebod aan Teva om de verkoop van Everolimus Teva bij te houden alles onder verbeurte van een dwangsom en met volledige proceskostenveroordeling. 
+
+
+3.2
+Novartis stelde daartoe dat Everolimus Teva voldoet aan de kenmerken van alle conclusies van EP 603 en EP 246 nu de kenmerken van deze conclusies zijn overgenomen in de SmPC van Everolimus Teva.  
+
+
+3.3
+Teva heeft ten verweer aangevoerd onder meer dat de octrooien ongeldig zijn vanwege toegevoegde materie (tevens verwijzend naar de OD-uitspraak genoemd in r.o. 2.10 die volgens haar ook als bodemuitspraak moet gelden waarnaar in kort geding dient te worden gericht) alsmede gebrek aan nawerkbaarheid nieuwheid en inventiviteit. 
+
+
+3.4
+De voorzieningenrechter heeft de vorderingen van Novartis afgewezen omdat hij een serieuze niet te verwaarlozen kans aanwezig achtte dat de octrooien in een bodemprocedure niet inventief worden geacht. De grieven van Novartis richten zich tegen dit oordeel en beogen het geschil in volle omvang aan het hof voor te leggen.  
+
+
+
+
+4 De beoordeling  
+
+
+Nawerkbaarheid 
+
+ 
+
+4.1
+Teva heeft (in haar Conclusie van Antwoord (CvA)) bestreden dat de octrooien over de volle breedte van de conclusies nawerkbaar zijn omdat deze geen onderscheid maken tussen patiënten met HR+ borstkanker terwijl het algemene vakkennis is dat aromataseremmers (waaronder exemestaan) alleen werken in postmenopauzale patiënten en de octrooien geen informatie bieden over werkzaamheid bij premenopauzale patiënten. Hormoonreceptorgevoelig betekent dat de pathway in de cel die leidt tot vorming van tumorcellen geactiveerd wordt door hormonen in het geval van borstkanker doorgaans oestrogeen.  
+
+
+4.2
+Novartis heeft – in kennelijke reactie op dat verweer – in haar akte voorafgaand aan de pleidooien in eerste aanleg opgemerkt dat het op de prioriteitsdatum algemene vakkennis was dat aromataseremmers (zoals exemestaan) ook kunnen worden toegepast in premenopauzale vrouwen door het onderdrukken van de activiteit van de eierstokken bijvoorbeeld met radiotherapie chirurgie of een LHRH analoog en ter onderbouwing daarvan producties overgelegd. Het standpunt van Teva bij pleidooi in appel dat Novartis haar niet-nawerkbaarheidsverweer onweersproken heeft gelaten wordt derhalve verworpen. Teva heeft Novartis’ reactie op haar verweer niet weersproken in haar MvA en evenmin bij pleidooi in appel. Derhalve dient met Novartis te worden aangenomen dat de gemiddelde vakman op de prioriteitsdatum op basis van de informatie in de beschrijving van de octrooien en zijn algemene vakkennis de uitvinding(en) over de volle breedte ervan kon toepassen. Het niet-nawerkbaarheidsverweer van Teva slaagt dus niet.  
+
+
+Plausibiliteit
+
+ 
+
+
+4.3
+Teva heeft verder bestreden dat de octrooien nawerkbaar zijn omdat in de oorspronkelijke aanvrage niet voldoende aannemelijk is gemaakt dat de combinatie van everolimus met exemestaan of een aromataseremmer een effectieve behandeling van borstkanker oplevert. Ook dat verweer wordt verworpen.   
+
+
+4.4
+In de aanvrage zijn de resultaten van diverse uitgevoerde in vitro en in vivo onderzoeken weergegeven. Deze onderzoeken betroffen de behandeling van onder meer longkanker huidkanker en alvleesklierkanker met everolimus al dan niet gecombineerd met andere anti-kankermiddelen (doxurubicine cisplatinum). Naar Teva terecht heeft opgemerkt hadden de onderzoeken geen betrekking op de behandeling van HR+ borstkanker en evenmin op de behandeling met een combinatie van everolimus met exemestaan of een aromataseremmer. Naar het oordeel van het hof staat dat er evenwel niet aan in de weg dat de gemiddelde vakman op basis van de wel in de octrooien opgenomen onderzoeksresultaten voldoende aanwijzing vindt om plausibel te achten dat everolimus in combinatie met exemestaan werkzaam zal zijn bij de behandeling van HR+ borstkanker.  
+
+
+4.5
+
+Tumoren hebben zuurstof en voedingstoffen nodig om te groeien. Zodra een tumor groeit moet de bloedtoevoer dus toenemen waarvoor nieuwe bloedvaten nodig zijn. Angiogenese is het vermogen om nieuwe bloedvaten te maken uit bestaande bloedvaten. De
+kankercel doet dat door afscheiding van groeifactoren (die dus de groei van nieuwe
+bloedvaten stimuleren) zogenaamde angiogene factoren. De belangrijkste pro-angiogene
+groeifactor die op de prioriteitsdatum bekend was is VEGF (Vascular Endothelial
+Growth Factor).
+ 
+
+
+4.6
+De kankers die zijn onderzocht in de experimenten die zijn beschreven in de aanvrage betreffen alle vaste tumoren. In de oorspronkelijke aanvrage is geopenbaard dat everolimus anti-tumorwerking heeft zowel door anti-angiogenese (experimenten A2 en B6) als ook door antiproliferatie (celgroeiremming). Uit de beschreven resultaten van de uitgevoerde experimenten volgt dat er groeiremmende werking is indien everolimus wordt toegediend (experimenten B1 B2 en B3) dat die werking synergetisch is indien toegediend in combinatie met verschillende andere anti-kankermiddelen (experimenten A1 en B4 B5 en B7) en dat toediening van everolimus als effect – en indien toegediend in combinatie met andere angiogenese remmers als synergetische effect – heeft dat de omvang van de behandelde primaire tumor afneemt en (bij uitgezaaide tumor) dat ook het gewicht van tumoren in de lymfeklier afneemt (experimenten B6 en B7).  
+
+
+4.7
+Naar Novartis onvoldoende gemotiveerd weersproken heeft gesteld was het voor de gemiddelde vakman op de prioriteitsdatum algemene vakkennis dat het onderdrukken van angiogenese van groot belang was bij de behandeling van borstkanker alsmede dat lymfeklierstatus de belangrijkste prognostische factor is voor de overlevingskans bij borstkanker.  
+
+
+4.8
+Voorts was op de prioriteitsdatum bij de gemiddelde vakman de toepassing van aromataseremmers waaronder exemestaan als anti-kankermiddel algemeen bekend in het bijzonder ook voor de behandeling van HR+ borstkanker.  
+
+
+4.9
+Die kennis over de voor de behandeling van HR+ borstkanker relevante factoren hetgeen in de aanvrage over het werkingsmechanisme van everolimus is geopenbaard en de resultaten die blijkens de experimenten zijn behaald bij de behandeling van andere vaste tumoren samen genomen maakt dat voorshands oordelend de gemiddelde vakman het in de beschrijving vermelde effect namelijk dat everolimus ook werkzaam is indien toegepast bij de behandeling van HR+ borstkanker (zeker) ook indien toegediend in combinatie met een aromataseremmer waaronder exemestaan plausibel acht. 
+
+
+4.10
+Bevestiging voor dat voorlopig oordeel vindt het hof in de ‘preliminary opinion’ van de OD in de verleningsprocedure voor een andere divisional die heeft geleid tot EP 2 762 140 (EP 140) met conclusies gericht op het gebruik van everolimus voor de behandeling van hersentumor: “Further and in the absence of any evidence to the contrary the OD is inclined at this point to consider that the results provided in the contested patent – showing that everolimus has an antiangiogenetic activity and has anti-tumor activity in various solid tumor models – support utility of everolimus in the treatment of solid tumors in general and make credible that an effective treatment against solid brain tumors might also be obtained.”. De toepassing van everolimus voor de effectieve behandeling van nierkanker onder bescherming gesteld door weer een andere divisional die heeft geleid tot EP 2 269 604 (EP 604) is door de OD op basis van dezelfde aanvrage evenzeer plausibel geacht.   
+
+
+4.11
+Teva heeft daartegenover onvoldoende aangevoerd op grond waarvan voorshands zou moeten worden aangenomen dat en waarom de gemiddelde vakman de werkzaamheid van die combinatie voor de behandeling van HR+ borstkanker desalniettemin speculatief zou vinden. Dat die werkzaamheid er ook daadwerkelijk is heeft Teva niet bestreden en blijkt ook uit post-filed data (de Bolero II studie).  
+
+
+Nieuwheid
+
+ 
+
+
+4.12
+Teva heeft aangevoerd dat WO 975 nieuwheidsschadelijk is voor conclusies 1 en 2 van EP 246. Dat wordt verworpen. WO 975 bevat geen directe en ondubbelzinnige openbaarmaking van everolimus in combinatie met een aromataseremmer voor de behandeling van HR+ borstkanker. Om daartoe te komen moet de gemiddelde vakman een keuze maken uit drie lijsten (tumoren mTOR-remmers en chemotherapeutica) zonder dat er een duidelijke aanwijzing is voor precies de in EP 246 onder bescherming gestelde combinatie. In tegendeel: hoewel everolimus wordt aangemerkt als een van de drie bijzonder geprefereerde rapamycines bespreekt het document uitsluitend combinaties met en onderzoeken met CCI-779 (temsirolimus). Twee specifieke (niet steroide) aromataseremmers worden alleen genoemd als voorbeelden van ‘hormonal agents’ waar de combinatie waarop EP 975 betrekking heeft nog verder mee kan worden gecombineerd tot een chemotherapeutische cocktail (waarvan dus in elk geval ook nog een antimetaboliet antineoplastisch middel onderdeel uitmaakt). Borstkanker wordt genoemd in een lijst met welhaast iedere denkbare vorm van kanker. Er is geen enkel onderzoek specifiek naar de behandeling van borstkanker genoemd. HR+ borstkanker wordt helemaal niet genoemd. Dat vanwege de enkele vermelding van anastrozole en letrozole de gemiddelde vakman de link legt met de toepassing van aromataseremmers en op basis daarvan het gebruik van aromataseremmers voor de behandeling van HR+ borstkanker zal inlezen wordt voorshands als onvoldoende onderbouwd verworpen nog daargelaten dat daarmee de combinatie met everolimus nog niet is gelegd. Onder die omstandigheden is naar voorlopig oordeel van een directe en ondubbelzinnige openbaarmaking van conclusies 1 en 2 van EP 246 geen sprake.   
+
+
+Inventiviteit
+
+ 
+
+
+4.13
+Het standpunt van Teva dat de problem solution approach (PSA) in dit geval niet geschikt zou zijn om de inventiviteit te beoordelen omdat daarmee het zicht op het gehele veld van kankeronderzoek zou worden ontnomen wordt verworpen. Teva wenst alle documenten die everolimus openbaren en alle documenten die zien op exemestaan of aromataseremmers al dan niet in combinatie met andere middelen tezamen te nemen en aan de hand daarvan de inventiviteit te beoordelen (par. 175 CvA). Daarmee gaat Teva eraan voorbij dat die documenten niet (allemaal) tot de algemene vakkennis behoren zodat het uitgaan van een combinatie van al die documenten tot een niet realistische beoordeling beïnvloed door hindsight leidt. Juist door de PSA te hanteren wordt een ‘ex post analysis’ benadering voorkomen. Het hof zal daarom de inventiviteit beoordelen aan de hand van de PSA.   
+
+
+4.14
+De stellingname van Teva voorts dat de werkzaamheid van everolimus voor de behandeling van vaste tumoren als zodanig (dus als monotherapie) niet in de inventiviteitsbeoordeling mag worden betrokken omdat dit tijdens de verleningsgeschiedenis als reeds bekend en niet inventief zou zijn geoordeeld en heeft geleid tot intrekking van de moederaanvrage zodat Novartis geacht moet worden voor de bescherming van everolimus als monotherapie afstand te hebben gedaan wordt verworpen. Zoals hiervoor reeds overwogen heeft Novartis de moederaanvrage inderdaad ingetrokken maar niet dan nadat zij tien divisionals heeft ingediend waaronder ook die voor gebruik van everolimus als monotherapie voor diverse vaste tumoren. Dat Novartis niet langer verdedigt dat in de behandeling van een vaste tumor met everolimus inventiviteit is gelegen kan uit enkel de intrekking van de moederaanvrage dus niet worden afgeleid. De omstandigheid dat Novartis specifiek voor borstkanker alleen octrooien heeft aangevraagd voor combinatietherapieën maakt dat niet anders. Zoals de gemiddelde vakman op de prioriteitsdatum bekend was werd voor de behandeling van diverse soorten kanker vaak gebruik gemaakt van combinatietherapieën. Dat geldt zeker ook voor HR+ borstkanker waarbij in de regel op enig moment resistentie optreedt tegen een bepaalde hormoonbehandeling (zie ook par. 186 CvA). In aanmerking genomen dat de gemiddelde vakman die zich in de verleningsgeschiedenis van EP 603 en EP 246 verdiept zal zien dat Novartis voor onder meer hersen- nier- long- en alvleesklierkanker wel bescherming heeft gevraagd (en inmiddels heeft verkregen) voor het gebruik van everolimus als monotherapie zal de gemiddelde vakman aan het verleningsdossier niet het vertrouwen (mogen) ontlenen dat Novartis zich niet zou beroepen op de inventiviteit van de werkzaamheid van everolimus als monotherapie voor de behandeling van vaste tumoren waaronder (HR+) borstkanker. Daarbij verdient voorts opmerking dat – de door Teva aangehaalde bezwaren tijdens de verleningsprocedure ten spijt – EP 603 en EP 246 zijn verleend en dat EP 603 enkel vanwege toegevoegde materie is herroepen.  
+
+
+4.15
+Dat de antitumorwerking van everolimus (toegepast als monotherapie) al in het stofoctrooi EP 916 (en/of de internationale aanvrage WO 010) op nawerkbare wijze aan de gemiddelde vakman zou zijn geopenbaard zoals Teva heeft aangevoerd acht het hof voorshands onjuist. De gemiddelde vakman die van deze publicatie kennis neemt zal inzien dat everolimus daarin in het bijzonder wordt geopenbaard als middel dat kan worden gebruikt als immunosuppressant zoals de titel van EP 916 al aangeeft. Dat daarnaast een enorme hoeveelheid aan andere aandoeningen waarvoor everolimus gebruikt zou kunnen worden waaronder het behandelen en voorkomen van tumoren wordt opgesomd in de beschrijving en laatste conclusie maakt dat niet anders. Voor werkzaamheid bij gebruik voor tumoren (en vele andere aandoeningen) bevat EP 916 geen enkele aanwijzing. Er zijn geen daarop betrekking hebbende experimenten beschreven geen data opgenomen en evenmin is een werkingsmechanisme van everolimus beschreven op grond waarvan de gemiddelde vakman op basis van zijn algemene vakkennis dergelijke werkzaamheid zou veronderstellen. Hetgeen onder het kopje “Antitumor and MDR activity” is beschreven maakt dat niet anders. De gemiddelde vakman zal die passage begrijpen als een onderzoeksvoorstel getuige de vele alternatieve onderzoeksmogelijkheden die worden genoemd en het gebrek aan data die de gemiddelde vakman verwacht zou hebben indien dit onderzoek reeds zou zijn uitgevoerd. Dat everolimus daadwerkelijk antitumorwerking zou hebben wordt in EP 916 niet plausibel gemaakt. Antitumorwerking van everolimus is voorshands oordelend derhalve niet in EP 916 op nawerkbare wijze aan de gemiddelde vakman geopenbaard.  
+
+
+4.16
+Partijen zijn het erover eens dat als de PSA wordt toegepast WO 467 dan heeft te gelden als meest nabije stand van de techniek zodat het hof daar eveneens van zal uitgaan. WO 467 ziet op de behandeling van borstkanker met een combinatie van een antineoplastisch middel waaronder te begrijpen is een cytotoxische chemotherapeuticum of een cocktail van zulke middelen en een aromataseremmer. Over de verschilmaatregel bestaat evenmin verschil van mening: de uitvinding volgens de octrooien combineert everolimus in plaats van een cytotoxische stof met een aromataseremmer (in het geval van EP 603 specifiek exemestaan) voor de behandeling van borstkanker.  
+
+
+4.17
+Wel bestaat er verschil van inzicht over het technisch effect van de verschilmaatregel. Volgens Novartis wordt (in de aanvrage voldoende plausibel gemaakt dat) door toepassing van everolimus een onverwacht verbeterde therapie voor de behandeling van HR+ borstkanker (wordt) verkregen vanwege de duale werking van everolimus – namelijk zowel antiproliferatie als anti-angiogenese – en vermindering van bijwerkingen. Een synergetisch effect van de combinatie van everolimus en exemestaan (of een andere aromataseremmer) wordt door Novartis niet gesteld (par. 26 PA). Volgens Teva leidt de verschilmaatregel enkel tot een alternatieve behandelmethode.  
+
+
+4.18
+Dientengevolge gaan partijen ook uit van een ander objectief technisch probleem te weten het voorzien in een verbeterde (Novartis) dan wel alternatieve (Teva) behandeling van HR+ borstkanker in combinatie met exemestaan c.q. een aromataseremmer.  
+
+
+4.19
+Het hof kan dit in het midden laten. Ook uitgaande van het door Teva verdedigde (beperktere) technische effect en daaruit voortvloeiende minder ambitieuze probleemstelling is de uitvinding naar voorlopig oordeel inventief te achten. 
+
+
+4.20
+Om aan te kunnen nemen dat het voor de gemiddelde vakman op de prioriteitsdatum voor de hand lag om uitgaande van EP 467 in plaats van cytotoxische middelen everolimus te gebruiken in combinatie met exemestaan of een andere aromataseremmer moet er een aanwijzing (pointer) zijn op grond waarvan de gemiddelde vakman tot de toepassing van everolimus zou komen en moest hij daarbij voorts een redelijke verwachting hebben dat everolimus in combinatie met exemestaan of een aromataseremmer veilig en effectief zou kunnen worden toegepast bij de behandeling van HR+ borstkanker. Dat het objectieve probleem ziet op het verschaffen van een alternatief maakt niet dat er geen redelijke succesverwachting aanwezig hoeft te zijn. Ook dan zoekt de gemiddelde vakman immers naar een effectieve werkzame behandelmethode. Naar voorlopig oordeel kan niet worden aangenomen dat de gemiddelde vakman met een redelijke succesverwachting zou kiezen voor de toepassing van everolimus in combinatie met exemestaan of een aromataseremmer.  
+
+
+4.21
+Novartis heeft betoogd ook bij monde van haar partij-deskundige [Deskundige] dat de gemiddelde vakman in deze zaak volgens beide partijen een klinisch oncoloog gespecialiseerd in de behandeling van borstkanker geen kennis zou nemen van vakliteratuur betreffende onderzoek naar potentieel werkzame stoffen. Volgens Novartis zou de clinicus alleen geïnteresseerd zijn in en kennis nemen van publicaties die de klinische toepassing van een bepaalde stof betreffen dus klinisch onderzoek vanaf Fase III. Naar het oordeel van het hof is dat een te beperkte opvatting van de kennis en interesse van de gemiddelde vakman in deze zaak. Naar voorlopig oordeel zal de gemiddelde vakman wel kennis nemen van nieuwe ontwikkelingen en (preklinisch en klinisch) onderzoek op zijn vakgebied. Anderzijds acht het hof voorshands wel juist het standpunt van Novartis dat de gemiddelde vakman die uitgaat van EP 467 zal zoeken naar stoffen waarvan de effectiviteit voor de behandeling van HR+ borstkanker reeds is aangetoond of ten minste voldoende aannemelijk is. Hij zoekt immers naar een alternatief waarvan hij een redelijke verwachting heeft dat het effectief is.   
+
+
+4.22
+Gesteld noch gebleken is dat EP 467 een pointer naar everolimus bevat. Integendeel Novartis heeft er terecht op gewezen dat EP 467 verwijst naar zeer veel (combinaties van) stoffen maar dat everolimus niet wordt genoemd en dat EP 467 leert dat exemestaan de werking kan verbeteren van stoffen behorende tot de klasse van traditionele cytotoxische chemotherapie waartoe everolimus niet behoort. Het hof is met Novartis voorshands van oordeel dat het niet voor de hand ligt dat hij dan op de toepassing van everolimus zou uitkomen.  
+
+
+4.23
+Everolimus was op de prioriteitsdatum toegelaten en werd toegepast als immuunsysteemonderdrukker bij transplantaties. Niet ter discussie staat dat everolimus op de prioriteitsdatum niet klinisch werd toegepast voor de behandeling van enige vorm van kanker en ook nog niet was getest op veiligheid en effectiviteit bij de behandeling van HR+ borstkanker. Dat everolimus (mogelijk) antitumor werking zou hebben (door welk mechanisme dan ook) was op de prioriteitsdatum geen algemene vakkennis. Het – ook door Teva aangehaalde – handboek van V.T. DeVita et al. “Cancer The principles & practice of oncology” juli 2001 (DeVita) vermeldt everolimus helemaal niet ook niet in het hoofdstuk over emerging therapies. Tijdens de verleningsprocedure van EP 246 oordeelde de Examining Division van het Europees Octrooibureau (ED) (Communication van 18 januari 2019): “The prior art provides no indication that everolimus might be effective in the treatment of solid tumors in particular hormone receptor positive breast tumors.”. 
+
+
+4.24
+Het standpunt van Teva dat de gemiddelde vakman niettemin bij everolimus zou uitkomen en dat ook zou toepassen omdat hij bij de zoektocht naar de oplossing van zijn probleem op WO 317 zou stuiten wordt verworpen. WO 317 gaat over de behandeling van tumoren met een somatostatine in combinatie met een rapamycine macrolide waarvan wordt geopenbaard dat daarmee een synergetische effect op de vermindering van celgroei wordt bereikt. Hoewel van de somatostatine analogen zoals octreotide wordt vermeld dat deze een ‘inhibiting effect on malignant tumor growth e.g. in breast cancer’ hebben zien de voorbeelden – een in vitro assay en een in vivo assay – allebei op de behandeling van alvleesklierkanker. Data met betrekking tot de effectiviteit bij de behandeling van (hormoongevoelige) borstkanker ontbreken en Teva heeft niet voldoende steekhoudend onderbouwd op grond waarvan de gemiddelde vakman dergelijke effectiviteit toch aannemelijk zou achten. Als de gemiddelde vakman al op EP 317 zou stuiten – terecht is niet aangevoerd dat het tot de algemene vakkennis zou horen en de gemiddelde vakman zal zich richten op publicaties die betrekking hebben op de behandeling van borstkanker – dan zal hij naar voorlopig oordeel die publicatie terzijde leggen omdat hij geen reden heeft dat document te raadplegen; indachtig dat de gemiddelde vakman zoekt naar een oplossing waarvan hij een redelijke verwachting heeft dat die effectief is in de behandeling van borstkanker (zie 4.21 hiervoor) zal hij niet de verwachting hebben dat hetgeen in WO 317 is geopenbaard hem tot de oplossing van zijn probleem zal leiden.   
+
+
+4.25
+Ook indien hij WO 317 wel zou raadplegen dan zou hij op basis WO 317 geen redelijk verwachting hebben dat everolimus effectief is bij de behandeling van borstkanker. Dat in WO 317 een (naar de vakman zal begrijpen: mogelijk uit te voeren) clinical trial wordt beschreven waarbij een somatostatine bijvoorbeeld octreotide in combinatie met een rapamycine macrolide bijvoorbeeld rapamycine of everolimus wordt toegediend aan borstkankerpatiënten maakt dat niet anders. WO 317 bevat (vanzelfsprekend) geen resultaten van dit nog niet uitgevoerde onderzoek terwijl die publicatie evenmin enige aanwijzing bevat waaraan hij de verwachting kan ontlenen dat everolimus werkzaam zou kunnen zijn bij de behandeling van borstkanker.   
+
+
+4.26
+In WO 317 wordt vermeld dat van rapamycine en de genoemde derivaten (waaronder everolimus) is aangetoond dat deze ‘potent immunosuppressant properties’ hebben. Van (alleen) rapamycine wordt vermeld dat deze ‘has also been shown to inhibit smooth muscle cell proliferation and to inhibit cancer growth’. De resultaten van de op de behandeling van alvleesklierkanker gerichte onderzoeken tonen aan dat de als monotherapie toegediende middelen celgroei (bij de onderzochte alvleesklierkankercellijn) remmen en dat daarbij everolimus het minst effectief is – in vivo is slechts een marginale verbetering ten opzichte van de placebogroep waargenomen ook in aanmerking genomen dat de waarden daarvan op een kortere periode betrekking hebben –  dat rapamycine effectiever is en dat octreotide het meest effectief is. Een combinatie van octreotide en everolimus is effectiever dan ieder van die middelen afzonderlijk; de combinatie van octreotide en rapamycine is nog effectiever.  
+
+
+4.27
+Indien de gemiddelde vakman EP 467 al zou combineren met WO 317 dan valt voorshands niet in te zien – en Teva heeft niet steekhoudend onderbouwd – waarom hij voor de behandeling van HR+ borstkanker juist zou kiezen voor de alleen op alvleesklierkanker geteste en daarbij minst effectieve stof everolimus niet in combinatie met octreotide waarmee het juist veel effectiever is maar in combinatie met een aromataseremmer waarvan EP 467 alleen openbaart dat die de effectiviteit vergroot van een cytotoxisch chemotherapeuticum (wat everolimus niet is). Novartis heeft er terecht op gewezen dat het uitgaande van EP 467 en gecombineerd met WO 317 voor de gemiddelde vakman veeleer voor de hand zou liggen in elk geval octreotide toe te passen of in elk geval eerder te kiezen voor rapamycine dan everolimus. In aanmerking genomen dat de gemiddelde vakman bij een keuze uit verschillende ongelijkwaardige mogelijkheden zou kiezen voor de oplossing waarvan hij het beste resultaat verwacht heeft Teva onvoldoende onderbouwd waarom de gemiddelde vakman juist voor de combinatie van everolimus met een aromataseremmer zou kiezen als oplossing voor zijn probleem.    
+
+
+4.28
+Teva heeft zich daarnaast beroepen op het abstract van Beuvink. Daaruit blijkt dat er met everolimus (daarin aangeduid met de codenaam RAD001) in vitro is getest in (long)klier- en darmkankercellijnen waarbij de eerste gevoelig bleek voor everolimus en de tweede resistent. Om dezelfde redenen als hiervoor ten aanzien van WO 317 overwogen kan voorshands niet worden aangenomen dat de gemiddelde vakman op Beuvink zou stuiten en zo hij die publicatie wel zou vinden daarvan kennis zou nemen. Beuvink gaat immers niet over de behandeling van borstkanker. Voorts geldt ook ten aanzien van deze publicatie dat als de gemiddelde vakman er al kennis van zou nemen hij op basis daarvan geen redelijke verwachting zou hebben dat everolimus werkzaam is bij de behandeling van borstkanker. De algemene vermelding in de laatste zin dat RAD001 in vivo werkzaam was en goed werd verdragen is te algemeen om conclusies aan te verbinden; op welk type kanker dat betrekking heeft is niet vermeld. Gegeven de vermelding dat er ook resistente cellijnen waren zou de gemiddelde vakman bij gebreke van enige verdere informatie over everolimus in aanmerking genomen hetgeen in 4.21 is overwogen aan Beuvink niet een zodanige redelijke succesverwachting ontlenen dat everolimus in combinatie met exemestaan werkzaam zou zijn bij de behandeling van HR+ borstkanker.  
+
+
+4.29
+Bij MvA heeft Teva nog gesteld dat uit een publicatie van M. Majewski et al. (“The immunosuppressive macrolide RAD inhibits growth of human Epstein–Barr virus-transformed B lymphocytes in vitro and in vivo: A potential approach to prevention and treatment of posttransplant lymphoproliferative disorders” PNAS April 11 2000 vol. 97 no. 8 4285–4290) zou volgen dat everolimus antitumorwerking heeft. Die publicatie heeft betrekking op het gebruik van everolimus met betrekking tot lymfocyten. Dat deze publicatie  algemene vakkennis zou zijn heeft Teva niet gesteld. Ook daarvoor geldt derhalve dat voorshands niet kan worden aangenomen dat de gemiddelde vakman op Majewski zou stuiten en zo hij die publicatie wel zou vinden daarvan kennis zou nemen. Majewski gaat immers niet over de behandeling van borstkanker. Voorts geldt ook ten aanzien van deze publicatie dat als de gemiddelde vakman er al kennis van zou nemen Teva niet heeft onderbouwd en ook niet aanstonds is in te zien dat de gemiddelde vakman op basis daarvan geen redelijke verwachting zou hebben dat everolimus effectief is bij de behandeling van borstkanker. Overigens heeft Teva op deze publicatie geen inventiviteitsaanval gebaseerd.  
+
+
+4.30
+Dat er bij de keuze voor everolimus sprake zou zijn van een arbitraire keuze uit verschillende voor de hand liggende alternatieven waarin geen inventiviteit kan zijn gelegen – waarvan de voorzieningenrechter is uitgegaan – is naar voorlopig oordeel niet juist. Naar Novartis terecht heeft aangevoerd brengt het enkele feit dat de objectieve probleemstelling is beperkt tot het vinden van een alternatieve behandelmethode niet met zich dat de aan rechtspraak van de TKB ontleende ‘arbitraire alternatieven’ doctrine toepassing vindt. Daarvoor is vereist dat sprake is van meerdere bekende stoffen met bekende (wezenlijk) gelijkwaardige eigenschappen / werkzaamheid. Pas dan kan immers gezegd worden dat een keuze daaruit werkelijk arbitrair is en dat de keuze voor het ene of andere alternatief ook zonder pointer niet inventief kan zijn. Bij een keuze tussen verschillende ongelijkwaardige mogelijkheden zou de gemiddelde vakman kiezen voor de oplossing waarvan hij het beste resultaat verwacht.  
+
+
+4.31
+Zoals volgt uit hetgeen hiervoor is overwogen was everolimus op de prioriteitsdatum niet bekend als antitumormiddel en al helemaal niet voor de behandeling van HR+ borstkanker en kon everolimus op de prioriteitsdatum evenmin worden aangemerkt als een aan rapamycine gelijkwaardig alternatief (waarbij het hof nog daarlaat of de keuze voor rapamycine wel voor de hand liggend zou zijn). Uit WO 317 blijkt immers dat everolimus aanmerkelijk minder werkzaam is dan rapamycine. De vermelding in een publicatie van Schuler et al “SDZ RAD a new rapamycin derivative” (in Transplantation 15 juli 1997) dat everolimus dezelfde werkzaamheid zou hebben als rapamycine waarop Teva zich heeft beroepen ziet uitsluitend op de immunosuppressieve werking niet op de anti-tumorwerking van rapamycine. Datzelfde geldt voor de publicatie van Sedrani et al (“Chemical Modification of Rapamycin: The Discovery of SDZ RAD [everolimus – toevoeging hof] in Transplantation Proceedings 30 2192–2194 (1998)). Naar Novartis onweersproken heeft aangevoerd is everolimus ontwikkeld als (alternatieve) immunosuppressant vanwege de ongunstige farmacokinetische eigenschappen (met name de slechte oplosbaarheid) van rapamycine en in die publicaties ging het dan ook om het behoud van die specifieke werkzaamheid van rapamycine. Deze publicaties kunnen overigens ook niet geacht worden bekend te zijn bij de gemiddelde vakman noch zal hij daarop stuiten bij zijn zoektocht naar een oplossing van zijn probleem.  
+
+
+4.32
+Dat niet alleen van rapamycine maar ook een ander rapamycine derivaat te weten temsirolimus was aangetoond (in de publicatie van Yu) dat deze antitumorwerking zou hebben maakt dat niet anders. Daargelaten de vraag of (de werkzaamheid van) temsirolimus voor de gemiddelde vakman op de prioriteitsdatum algemene vakkennis zou zijn (het is niet vermeld in DeVita) zou dat de gemiddelde vakman naar voorlopig oordeel niet op het spoor van everolimus zetten. Temsirolimus is ook ontwikkeld als alternatief voor rapamycine maar dan met het oog op de antitumorwerking daarvan. Temsirolimus is een esterderivaat van rapamycine en een prodrug; het wordt in het lichaam omgezet in rapamycine. Dat het in vivo dezelfde eigenschappen heeft als rapamycine ligt dan in de lijn der verwachting. Everolimus is echter een etherderivaat van rapamycine en geen prodrug. Het was de gemiddelde vakman – naar Novartis onderbouwd heeft gesteld en door Teva onvoldoende is weersproken – op grond van zijn algemene vakkennis bekend dat derivaten een andere chemische structuur hebben met dientengevolge doorgaans een ander metabolisme en andere eigenschappen. Het valt vooraf niet te voorspellen welke eigenschappen derivaten (gemeen) hebben. Temeer omdat in Yu geen verwijzing naar everolimus of zelfs maar een suggestie voor gebruik van andere rapamycine-derivaten voor de behandeling van borstkanker is opgenomen valt niet in te zien – en Teva heeft naar voorlopig oordeel niet steekhoudend onderbouwd – hoe de gemiddelde vakman vanuit EP 467 en kennis nemend van Yu met een redelijke succesverwachting zou uitkomen op de combinatie van (het niet tot de algemene vakkennis behorende) everolimus en exemestaan of een aromataseremmer.  
+
+
+4.33
+
+Het standpunt dat de gelijkwaardigheid van everolimus aan rapamycine door de gemiddelde vakman zou worden afgeleid uit de ‘mTOR pathway’ waarop beide stoffen zouden inwerken wordt verworpen. Teva heeft onvoldoende aannemelijk gemaakt dat de gemiddelde vakman op de prioriteitsdatum het gestelde verband daadwerkelijk zou leggen. Uit zowel Yu als Beuvink blijkt dat temsirolimus respectievelijk everolimus steeds de mTOR functie remmen maar dat desalniettemin bepaalde cellijnen resistent bleken en er dus (niettemin) geen remming van tumorcelgroei optrad. De gemiddelde vakman zou daaruit afleiden dat inwerking op de mTOR pathway alleen kennelijk onvoldoende is voor het bereiken van antitumorwerking. Aan Teva kan worden nagegeven dat uit publicaties van rond de prioriteitsdatum (zoals die van A.U. Buzdar et al. “Proceedings of the First International Conference on Recent Advances and Future Directions in Endocrine Therapy
+
+for Breast Cancer: Summary Consensus Statement” in Clinical Cancer Research Vol. 7 4335s-4337s December 2001 (suppl.)) blijkt dat onderzoek werd gedaan naar de relevantie van mTOR-remming voor het tegengaan van tumorgroei. Dat er toen reeds een (op mTOR remming gebaseerde) algemene leer zou zijn op grond waarvan de gemiddelde vakman de resultaten van de toepassing van rapamycine en temsirolius bij de behandeling van (borst)kanker enkel op grond daarvan zou extrapoleren naar everolimus kan voorshands bij gebreke van voldoende onderbouwing daarvoor echter niet worden aangenomen. Een dergelijke algemene leer is ook niet beschreven in DeVita. 
+ 
+
+
+4.34
+Om dezelfde redenen – en in het bijzonder ook de omstandigheid dat uit Yu en Beuvink volgt dat mTOR remming alleen niet voldoende is voor effectieve antitumorwerking – zou de gemiddelde vakman de volgens Teva op de prioriteitsdatum bekende anti-angiogenese werking van rapamycine niet enkel vanwege het feit dat everolimus net als rapamycine ook een mTOR-remmer is extrapoleren naar everolimus zoals Teva verder heeft aangevoerd.  
+
+
+4.35
+Precies dezelfde argumenten zijn gevoerd in de oppositieprocedure tegen EP 140 en zijn ook door de OD afgewezen (pag. 21-22 van de ‘Grounds for decision’ waarbij de oppositie is afgewezen):  
+
+
+The opponents' attack is based on the assumption that m-TOR inhibition is responsible of the anti-tumor effect disclosed in the prior art for rapamycin and temsirolimus and that as everolimus is also a m-TOR inhibitor as reported in D1 (page 24) D13 (page 38) and D46 (abstract) the solution proposed in the contested patent would inevitably be obvious. The OD however considers that the skilled person would not take the one-to-one relationship of m-TOR inhibition to anti-solid tumor activity for everolimus from the prior art. In particular the skilled person knows from D4 that for rapamycin the mechanism of action associated with this property involves not only the inhibition of m-TOR but other additional properties associated with a direct influence in the inhibition of the cell cycle traverse at the Gi /S phase transition and cell growth. These properties are not disclosed for the other derivatives but for rapamycin only. (…)
+
+
+This teaching is in line with that of D8 where in the same paragraph of page 12 the activity as immunosuppressants of rapamycin and derivatives is clearly separated from the property of inhibiting cancer growth attributed only to rapamycin. This conclusion can also be derived from D46 because m-TOR inhibition was observed in both sensitive and resistant cell lines.
+
+
+Furthermore the prior art is silent about any anti-angiogenic activity of everolimus and this gap cannot be filled from the prior art disclosures describing either the m-TOR inhibition contribution or the VEGF inhibition route for rapamycin. The conclusion that the skilled person can derive from D46 (and from D8) is that m-TOR inhibition in the case of everolimus might not be enough for an effective anti-solid tumor cell treatment and therefore any reference to the mechanism of action of rapamycin or other rapamycin derivatives from the disclosures of D3 D4 D6 D14 or D45 cannot be extrapolated to everolimus.(…).
+ 
+
+
+4.36
+De slotsom is dat naar voorlopig oordeel de gemiddelde vakman op de prioriteitsdatum everolimus en rapamycine respectievelijke temsirolimus niet zou beschouwen als gelijkwaardige alternatieven. Hij zou niet overwegen everolimus toe te passen om zijn probleem op te lossen. Hij zou de stof niet kennen en als hij er al op zou stuiten zou hij daarvan niet de redelijke verwachting hebben gehad dat die in combinatie met exemestaan of een aromatasremmer effectief zou zijn bij de behandeling van HR+ borstkanker.  
+
+
+4.37
+Overigens was ook de ED in de verleningsprocedure van EP 246 (Communication van 18 januari 2019) van oordeel dat: “The prior art provides no indication that everolimus might be effective in the treatment of solid tumors in particular home receptor positive breast tumors. The skilled person looking for an alternative (combination) treatment would therefore have no incentive to combine the aromatase inhibitor with everolimus.”  
+
+
+4.38
+
+Om dezelfde redenen als hiervoor in r.o. 4.24 en 4.25 uiteengezet is WO 317 voorshands evenmin aan te merken als (alternatieve) meest nabije stand van de techniek omdat dit niet als een reëel vertrekpunt is aan te merken. Daarenboven geldt dat als WO 317 al als vertrekpunt zou worden genomen het veeleer voor de hand ligt dat de gemiddelde vakman die een oplossing zoekt voor zijn probleem zou kiezen voor de toepassing van het als meest effectief geopenbaarde octreotide (of een andere somatostatine) en juist niet voor de toepassing van het minst effectieve everolimus temeer omdat in (de conclusies van) WO 317 het gebruik van een somatostatine voorop wordt gesteld en voorts in de beschrijving is vermeld dat van octreotide (en ook rapamycine) bekend is dat het antitumor werking heeft terwijl dat over everolimus niet is opgemerkt. 
+
+Toegevoegde materie 
+
+ 
+
+
+4.39
+Teva heeft verder aangevoerd dat de octrooien nietig zijn wegens ongeoorloofde toegevoegde materie.  
+
+
+4.40
+In oppositie is EP 603 vernietigd wegens toegevoegde materie. In de Engelse procedure (waarin de door Novartis verzochte interim injunction is toegewezen) heeft de High Court (Birss J.) over dat oordeel van de OD onder meer het volgende overwogen:  
+
+44. It seems to me that again at the risk of repetition the person skilled in the art reading this document would see Compound A as one of the compounds to take forward. They might then choose if they are interested in combinations to select a combination. That could be said to involve a selection but the idea of selecting a combination with exemestane in particular for the breast cancer indication is clearly and unambiguously contemplated and disclosed in this document. 
+ 
+
+45. Looking at the document as a whole it comes down to this. First the document teaches the idea of combining R&D compounds with aromatase inhibitors to treat the breast cancer indication. It discloses exemestane as one of the aromatase inhibitors you might select to be in that combination for that indication. Second of all it teaches Compound A (that is everolimus) as the paradigm rapamycin derivative to choose from the R&D compounds in general. It is not a question of selecting Compound A from a list or a lack of an individualised disclosure of Compound A. Therefore it seems to me that there is disclosure of everolimus combined with exemestane to treat breast cancer. That is not new information. It is something that is disclosed in the document. It is not at all the only thing disclosed but it is one of the things which is individualised by this document. It would be no undue advantage in my judgment to claim that combination.
+ 
+
+46. For this reason I disagree with the decision of the Opposition Division. Their
+
+
+decision appears to take an unduly technical approach which has lost sight of the disclosure of the document as a whole and has also lost sight of the prominence of Compound A in it. 
+
+
+4.41
+Novartis heeft tegen de beslissing van de OD beroep ingesteld bij de TKB dat zal worden behandeld (en beslist) ter zitting van 30 oktober 2019. Hoewel het hof niet uitsluit dat het – indien daartoe geroepen – tot hetzelfde oordeel zou komen als de Engelse rechter behoeft op dit verweer van Teva niet vooruitlopend op de beslissing van de TKB te worden beslist terwijl die beslissing evenmin behoeft te worden afgewacht. 
+
+
+4.42
+EP 246 is – niettegenstaande de toegevoegde materie bezwaren van de OD tegen EP 603 – inmiddels verleend. De beschermingsomvang van dat octrooi omvat die van EP 603 omdat daarin de toepassing van everolimus in combinatie met een aromataseremmer (waaronder te begrijpen exemestaan) voor de behandeling van HR+ borstkanker onder bescherming wordt gesteld.  
+
+
+4.43
+Naar het oordeel van het hof is de uitvinding volgens EP 246 op de prioriteitsdatum direct en ondubbelzinnig uit de aanvrage in zijn geheel bezien door de gemiddelde vakman in aanmerking genomen zijn algemene vakkennis af te leiden.  
+
+
+4.44
+Naar voorlopig oordeel zal de gemiddelde vakman die EP 246 in zijn geheel leest begrijpen dat Compound A (everolimus) de meest geprefereerde verbinding is. Niet alleen wordt dat expliciet vermeld (pag. 1 r. 16-17) ook worden alle experimenten (alleen) uitgevoerd met Compound A. Andere specifieke rapamycine derivaten worden niet gedefinieerd (als Compound B C of anderszins). In dezelfde zin heeft de OD geoordeeld in de procedures die hebben geleid tot de verlening van EP 604 en EP 140.    
+
+
+4.45
+In de aanvrage wordt een combinatie met aromataseremmers nadrukkelijk genoemd als nuttig voor de behandeling van HR+ borstkanker: “A combination of the invention comprising a chemotherapeutic agent which is an aromatase inhibitor is particularly useful for the treatment of hormone receptor positive tumors e.g. breast tumors.” (pag. 6 r. 24-26). Aangezien de gemiddelde vakman zal begrijpen dat met ‘the invention’ bij voorkeur everolimus is bedoeld is voorshands oordelend daarmee de combinatie van everolimus met een aromataseremmer voor de behandeling van HR+ borstkanker direct en ondubbelzinnig geopenbaard. Anders dan bij EP 603 hoeft daarbij geen keuze voor een specifieke aromataseremmer te worden gemaakt. Van een selectie uit meerdere lijsten zoals Teva stelt is geen sprake. Dat er in de aanvrage ook andere combinaties met everolimus (die derhalve zijn te beschouwen als alternatieve uitvoeringsvoorbeelden) zijn geopenbaard doet daaraan niet af. Aldus slaagt het door Teva opgeworpen toegevoegde materie bezwaar in elk geval niet ten aanzien van conclusie 1 van EP 246.   
+
+
+4.46
+Naar voorlopig oordeel van het hof is in elk geval EP 246 geldig te achten. Aangezien niet is bestreden dat het door Teva aangeboden generieke Everolimus Teva product onder de beschermingsomvang van dat octrooi valt en de door Novartis verzochte maatregelen reeds op grond daarvan toewijsbaar zijn kan de vraag of er in het licht van de beslissing van de OD dat EP 603 niet geldig is wegens toegevoegde materie een serieuze niet te verwaarlozen kans bestaat dat EP 603 de oppositieprocedure of een bodemprocedure niet zal overleven geen beoordeling.  
+
+
+Belangenafweging 
+
+ 
+
+
+4.47
+Een afweging van de wederzijdse belangen leidt er niet toe dat niettegenstaande de inbreuk op het octrooi van Novartis aan Teva toch geen verbod opgelegd zou moeten worden. Weliswaar heeft Teva met haar generieke product reeds de markt betreden maar naar Novartis onweersproken heeft verklaard heeft dit nog niet tot een prijsaanpassing voor haar product geleid omdat de prijsstelling eerst in oktober opnieuw wordt beoordeeld. Het is de verwachting dat het al dan niet op de markt zijn van Teva met haar generieke product voor de door EP 246 onder bescherming gestelde indicatie daarop van invloed zal zijn. Door een verbod op te leggen wordt derhalve zoveel mogelijk (alsnog) de status quo gehandhaafd. Aan Novartis kan ter zake van de handhaving van haar octrooien geen verwijt worden gemaakt zij heeft Teva reeds vanaf 2017 op de hoogte gesteld van het bestaan ervan en steeds duidelijk gemaakt dat zij deze zou handhaven hetgeen zij ook zonder enige nodeloze vertraging heeft gedaan. Dat Teva weer van de markt moet met haar product voor de door EP 246 beschermde indicatie kort nadat zij deze heeft betreden is een risico dat Teva heeft genomen. Novartis kan daaromtrent geen verwijt worden gemaakt.     
+
+
+Vorderingen
+
+
+
+
+4.48
+Uit het voorgaande volgt dat het gevorderde inbreukverbod als hierna te vermelden toewijsbaar is. Aangezien aanbieding door vermelding van Teva Everolimus voor de indicatie HR+ borstkanker in de G-standaard als inbreuk heeft te gelden ziet het hof geen aanleiding Teva afzonderlijk te bevelen die aanbieding te rectificeren. In het licht van de toezegging van Teva dat zij bij toewijzing van een algemeen verbod een carve-out zal doorvoeren en de nodige maatregelen zal nemen om misbruik verderop in het kanaal te voorkomen (par 42 CvA) ziet het hof geen aanleiding naast het algemene inbreukverbod aan Teva een verbod tot onrechtmatig handelen op te leggen. Een dreiging van onrechtmatig handelen is door Novartis niet voldoende onderbouwd gesteld. Voor matiging van de gevorderde dwangsommen ziet het hof geen aanleiding wel zullen de dwangsommen worden gemaximeerd op € 5.000.000-.   
+
+
+Proceskosten
+
+ 
+
+
+4.49
+Nu het bestreden vonnis niet in stand kan blijven en Teva als de in het ongelijk gestelde partij moet worden aangemerkt zal zij worden veroordeeld in de redelijke en evenredige proceskosten aan de zijde van Novartis. Partijen zijn voor de procedure in hoger beroep overeengekomen dat de proceskosten € 200.000-bedragen. In eerste aanleg heeft Novartis haar kosten begroot op € 166.71280 welke door Teva niet zijn bestreden. Het hof ziet geen aanleiding voor ambtshalve matiging. In het feit dat niet alle appellanten (mede-)eigenaar zijn van de octrooien waarop Teva heeft gewezen (par. 235 CvA) wordt geen aanleiding gezien ten aanzien van de proceskosten tot een andere beslissing te komen. Niet gesteld en ook niet in te zien is dat daardoor meer kosten gemaakt moesten worden.   
+
+
+
+
+5 De beslissing 
+
+Het hof:
+ 
+
+5.1
+vernietigt het bestreden vonnis van de voorzieningenrechter in de Rechtbank Den Haag van 5 juli 2019; 
+
+
+5.2
+verbiedt Teva met onmiddellijke ingang na betekening van dit arrest directe en/of indirecte inbreuk te maken op het Nederlandse deel van EP 3 351 246 onder meer door geneesmiddelen die everolimus omvatten en geïndiceerd zijn voor hormoonreceptor-positieve gevorderde borstkanker te gebruiken in het verkeer te brengen of verder te verkopen af te leveren of anderszins te verhandelen dan wel voor een of ander aan te bieden in te voeren of in voorraad te hebben; 
+
+
+5.3
+
+gebiedt Teva aan Novartis een onmiddellijk opeisbare dwangsom te betalen van
+€100.000- (honderdduizend euro) per dag of gedeelte daarvan zulks ter keuze van
+Novartis dat het aan Teva kan worden toegerekend dat het hiervoor opgenomen
+verbod niet geheel of niet deugdelijk wordt nageleefd dan wel ter keuze van Novartis
+een dwangsom van €25.000- (vijfentwintigduizend euro) voor ieder product waarmee
+dit verbod wordt overtreden zulks tot een maximum van € 5.000.000-;
+ 
+
+
+5.4
+veroordeelt Teva in de redelijke en evenredige proceskosten van Novartis op de voet van art. 1019h Rv in eerste aanleg en in hoger beroep in totaal te begroten op een bedrag van € 366.71280; 
+
+
+5.5
+verklaart dit arrest voor zover mogelijk uitvoerbaar bij voorraad; 
+
+
+5.6
+wijst af het meer of anders gevorderde.	 
+
+Dit arrest is gewezen door mrs. R. Kalden P.H. Blok en C.J.J.C. van Nispen en is uitgesproken ter openbare terechtzitting van 17 september 2019 in aanwezigheid van de griffier.
+
+
+

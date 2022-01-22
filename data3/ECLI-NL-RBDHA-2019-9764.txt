@@ -1,0 +1,1382 @@
+
+
+
+
+
+
+
+
+
+
+
+
+vonnis
+RECHTBANK DEN HAAG
+
+Team handel
+ 
+
+zaaknummer / rolnummer: C/09/576374 / KG ZA 19-621
+ 
+
+
+Vonnis in kort geding van 17 september 2019
+
+ 
+
+in de zaak van
+ 
+1. de vennootschap naar Duits recht
+
+
+BAYER INTELLECTUAL PROPERTY GMBH
+te Monheim Duitsland
+
+2. de vennootschap naar Duits recht
+
+
+BAYER ANIMAL HEALTH GMBH
+te Leverkusen Duitsland
+eiseressen
+advocaat mr. F.W. Gerritzen te Amsterdam
+ 
+
+tegen
+ 
+1. de vennootschap naar Frans recht
+
+
+CEVA SANTÉ ANIMALE SA.
+te Libourne Frankrijk
+
+2.	CEVA SANTÉ ANIMALE B.V.
+
+te Naaldwijk
+gedaagden
+advocaat mr. S. Dack te Amsterdam.
+ 
+
+Partijen zullen hierna Bayer c.s. (enkelvoud) en Ceva c.s. (enkelvoud) genoemd worden. Eiseressen zullen hierna ieder afzonderlijk BIP en BAH genoemd worden en gedaagden ieder afzonderlijk Ceva Frankrijk en Ceva Nederland. De zaak is voor Bayer c.s. inhoudelijk behandeld door van mr. Gerritzen voornoemd en mr. A.F.R. Kiers advocaat te Amsterdam en voor Ceva c.s. door mr. Dack voornoemd mr. P. van Schijndel en mr. A.S. Friedmann allen advocaat te Amsterdam.
+ 
+
+
+
+1 De procedure
+
+1.1.
+Het verloop van de procedure blijkt uit:
+
+-
+de dagvaarding van 10 juli 2019 met producties 1 tot en met 12 en 14 tot en met 30;
+
+-
+productie 13 van de zijde van Bayer c.s. ingekomen op de griffie op 17 juli 2019;
+
+-
+de Engelse vertaling van productie 13 van de zijde van Bayer c.s. ingekomen op de griffie op 19 juli 2019;
+
+-
+de conclusie van antwoord ingekomen op de griffie op 7 augustus 2019 met producties 1 tot en met 29;
+
+-
+de akte overlegging reactieve producties van de zijde van Bayer c.s. ingekomen op de griffie op 13 augustus 2019 met producties 31 tot en met 50;
+
+-
+de akte overlegging reactieve producties van de zijde van Ceva c.s. ingekomen op de griffie op 21 augustus 2019 met producties 30 en 31;
+
+-
+een aanvullende kostenspecificatie van de zijde van Ceva c.s. ingekomen op de griffie op 26 augustus 2019 genummerd productie 32;
+
+-
+de mondelinge behandeling van 27 augustus 2019 en de ter gelegenheid daarvan overgelegde pleitnotities van Bayer c.s. en Ceva c.s. en de aanvullende kostenspecificatie van de zijde van Bayer c.s. die Ceva c.s. al op 26 augustus 2019 had ontvangen.
+
+
+
+
+1.2.
+Vonnis is bepaald op heden. 
+
+
+
+
+2 De feiten
+
+2.1.
+Bayer c.s. maakt onderdeel uit van het internationale Duitse concern Bayer AG dat onder meer gericht is op onderzoek naar en ontwikkeling van farmaceutische producten en diergeneesmiddelen. 
+
+
+2.2.
+Ceva c.s. maakt onderdeel uit van de Ceva groep een in 1999 opgericht Frans farmaceutisch concern dat is gespecialiseerd in de ontwikkeling van medicijnen en andere farmaceutische producten voor dieren. Ceva Frankrijk is de moedervennootschap van de Ceva groep. Ceva Nederland is een dochtervennootschap van Ceva Frankrijk. 
+
+
+2.3.
+BIP is houdster van het octrooi EP 2 164 496 B1 (hierna: EP 496 of het octrooi) voor “Formulierungen enthaltend Triazinone und Eisen”. EP 496 is verleend op 12 april 2017 op een aanvraag van 21 mei 2008 en doet een beroep op het Duitse prioriteitsdocument 102007025908 gedateerd 1 juni 2007. EP 496 is onder andere voor Nederland gedesigneerd. Het octrooi ziet op een samenstelling bestaande uit triazinonen en ijzer(III)-complexverbindingen voor het gelijktijdig behandelen van ijzertekorten en coccidia-infecties bij dieren. BAH heeft een licentie van BIP voor het gebruik van EP 496.  
+
+
+2.4.
+De conclusies van EP 496 luiden in de authentieke Duitse versie als volgt: 
+
+
+“1. Formulierung enthaltend Triazinone der Formeln (I) oder (II)
+
+ 
+
+
+
+
+
+
+
+
+Oder
+
+ 
+
+
+
+
+
+
+
+worin
+
+ 
+
+
+	R1 für R3-SO2- oder R3-S- steht
+
+	R2 für Alkyl Alkoxy Halogen or SO2N(CH3)2 steht und
+
+	R3 für Halogenalkyl steht
+
+	R4 und R5 unabhängig voneinander für Wasserstoff oder Chlor stehen and
+
+	R6 für Fluor oder Chlor steht
+
+ 
+
+
+oder ihre physiologisch verträglichen Salze
+
+
+und
+
+
+polynuklearen Eisen(III)-polysaccharid-Komplexverbindungen.
+
+ 
+2. Formulierung gemäß Anspruch 1 enthaltend 1 bis 30% (m/V) bevorzugt 3-7 % (m/V) an Triazinon. 
+3. Formulierung gemäß einem der vorstehenden Ansprüche wobei das dispergierte Triazinon eine Partikelgröße von d(v90) kleiner oder gleich 30μm bevorzugt d(v90) kleiner oder gleich 20μm und besonders bevorzugt d(v90) kleiner oder gleich 10μm aufweist. 
+4. Formulierung gemäß einem der vorstehenden Ansprüche mit Konzentration an Eisenverbindung von 10% (m/V) bis 30% (m/V) an aktivem Eisen bevorzugt 114 % (m/V) bis 25% m/V) besonders bevorzugt jedoch 20% m/V bis 25% (m/V). 
+5. Formulierung gemäß einem der vorstehenden Ansprüche mit einer Viskosität -gemessen durch Mittelwertbildung aus den bei Scherraten 128 s-1 und 256 s-1 mit einer Kegel/Platte Anordnung eines Rheometers gemessenen Werten-in einem Bereich von 10 bis 2500 mPas bevorzugt in einem Bereich von 20 bis 1500 mPas liegt. 
+6. Formulierung gemäß Anspruch 1 auf Wasserbasis. 
+7. Formulierung gemäß Anspruch 1 enthaltend mindestens einen mehrwertigen aliphatischen Alkohol. 
+8. Formulierung gemäß einem der vorstehenden Ansprüche enthaltend eine polynukleare Eisen(III)-polysaccharid-Komplexverbindung deren polynuklearer Eisenkern aus ß-FeO(OH)-Einheiten besteht und welche Polysaccharidmoleküle in der weiteren Koordinationsphäre enthält. 
+9. Formulierung gemäß Anspruch 8 enthaltend eine polynukleare Eisen(III)-polysaccharid-Komplexverbindung ausgewählt aus: Eisen(III)-Dextran Eisen(III)-hydroxy-polymaltose / Eisen(III)-Dextrin und einer nicht-stöchiometrischen Verbindung aus polynuklearem ß-FeO(OH) und Saccharose und Oligosacchariden. 
+10. Formulierung gemäß einem der vorstehenden Ansprüche enthaltend als Triazinon ein Triazintrion. 
+11. Formulierung gemäß einem der vorstehenden Ansprüche worin das Triazinon Toltrazuril und die polynukleare Eisen(III)-polysaccharid-Komplexverbindung Eisen(III)-Dextran ist. 
+12. Formulierungen gemäß einem der Ansprüche 1 bis 11 enthaltend einen oder mehrere Aufbaustoffe. 
+13. Verwendung der Formulierungen gemäß einem der vorstehenden Ansprüche zur Herstellung von Arzneimitteln. 
+
+14. Verwendung gemäß Anspruch 13 zur Herstellung von Arzneimitteln zur gleichzeitigen Behandlung von Coccidien-Infektionen und Eisenmangelzuständen. 
+14. Verwendung gemäß Anspruch 13 oder 14 zur Herstellung von Arzneimitteln zur oralen Behandlung. 
+14. Verwendung gemäß Anspruch 15 zur Herstellung von Arzneimitteln zur oralen Behandlung von Saugferkeln. 
+14. Verwendung gemäß einem Anspruch 15 zur Herstellung von Arzneimitteln zur oralen Behandlung von Ferkeln in dem Zeitraum von der Geburt bis 10 Tage nach der Geburt bevorzugt in einem Zeitraum von der Geburt bis 3 Tage nach der Geburt.”
+ 
+
+
+2.5.
+Deze conclusies luiden in de onbestreden Nederlandse vertaling als volgt: 
+
+
+“1.  Formulering die triazinonen met de formules (I) of (II)
+
+ 
+
+
+
+
+
+
+
+of 
+
+
+
+
+
+
+
+
+
+
+waarbij
+
+ 
+
+
+R1 R3-SO2- of R3-S- is
+
+
+R2 alkyl alkoxy halogeen of SO2N(CH3)2 is en
+
+
+R3 halogeenalkyl is
+
+
+R4 en R5 onafhankelijk van elkaar waterstof of chloor zijn en
+
+
+R6 fluor of chloor is
+
+
+of de fysiologisch verenigbare zouten daarvan
+
+en
+
+meerkernige ijzer(III)-polysaccharide-complexverbindingen bevat.
+
+ 
+2. Formulering volgens conclusie 1 die 1 tot 30% (m/v) bij voorkeur 3-7% (m/V) triazinon bevat. 
+3. Formulering volgens een der voorgaande conclusies waarbij het gedispergeerde triazinon een deeltjesgrootte van d(v 90) kleiner dan of gelijk aan 30 μm bij voorkeur d(v 90) kleiner dan of gelijk aan 20 μm en met bijzondere voorkeur d(v 90) kleiner dan of gelijk aan 10 μm heeft. 
+4. Formulering volgens een der voorgaande conclusies met een concentratie aan ijzerverbinding van 10% (m/V) tot 30% (m/V) actief ijzer bij voorkeur 114% (m/V) tot 25% (m/V) met bijzondere voorkeur echter 20% m/V tot 25% (m/V). 
+5. Formulering volgens een der voorgaande conclusies met een viscositeit - gemeten door het vormen van de gemiddelde waarden van de bij afschuifsnelheden van 128 s-1 en 256 s-1 met een kegel/plaat-opstelling van een rheometer gemeten waarden - die in een traject van 10 tot 2500 mPas bij voorkeur in een traject van 20 tot 1500 mPas ligt. 
+6. Formulering volgens conclusie 1 op waterbasis. 
+7. Formulering volgens conclusie 1 die ten minste een meerwaardige alifatische alcohol bevat. 
+8. Formulering volgens een der voorgaande conclusies die een meerkernige ijzer(III)-polysaccharide-complexverbinding bevat wiens meerkernige ijzerkern uit ß-FeO(OH)-eenheden bestaat en die polysaccharidemoleculen in de verdere coördineringssfeer bevat. 
+9. Formulering volgens conclusie 8 die een meerkernige ijzer(III)-polysaccharide-complexverbinding bevat die wordt gekozen uit: ijzer(III)-dextran ijzer(III)-hydroxy-polymaltose / ijzer(III)-dextrien en een niet-stoichiometrische verbinding van meerkernig ß-FeO(OH) en saccharose en oligosacchariden. 
+10. Formulering volgens een der voorgaande conclusies die als triazinon een triazinetrion bevat. 
+11. Formulering volgens een der voorgaande conclusies waarbij de triazinon toltrazuril en de meerkernige ijzer(III)-polysaccharide-complexverbinding ijzer(III)-dextran is. 
+12. Formuleringen volgens een der conclusies 1 tot en met 11 die een of meer bouwstoffen bevatten. 
+
+13. Toepassing van de formuleringen volgens een der voorgaande conclusies voor de bereiding van medicamenten. 
+13. Toepassing volgens conclusie 13 voor de bereiding van medicamenten voor de gelijktijdige behandeling van coccidia-infecties en ijzertekorttoestanden.
+ 
+15. Toepassing volgens conclusie 13 of 14 voor de bereiding van medicamenten voor orale behandeling. 
+16. Toepassing volgens conclusie 15 voor de bereiding van medicamenten voor de orale behandeling van speenvarkens. 
+17. Toepassing volgens conclusie 15 voor de bereiding van medicamenten voor de orale behandeling van biggen in de periode van de geboorte tot 10 dagen na de geboorte bij voorkeur in een periode van de geboorte tot 3 dagen na de geboorte.” 
+
+
+2.6.
+In de onbestreden Engelse vertaling van de beschrijving van EP 496 is voorts - voor zover hier van belang - het volgende opgenomen: 
+
+
+“
+[0001] 
+The invention relates to formulations containing triazinones and iron compounds (salts and complex compounds of iron) which are suitable for the simultaneous control of coccidioses and anaemic states in animals.
+
+
+[0002]	
+Economically successful meat production operations are currently distinguished by
+
+
+highly intensive farming that is to say by the keeping of a large number of animals which are specifically selected in order to optimize the breeding aim. These farms are characterized for example by the use of a great deal of machinery the additional feeding of food supplements and the involvement of as little staff as possible. In the case of piglet rearing farms this means that a large number of sows which are bred for a high number of piglets per litter are kept in suitably large pig houses. The optimization of the feed and suitable selection in the breeding process make it possible for the piglets to grow rapidly.
+
+
+[0003]
+	This type of animal keeping is frequently the cause for an increasing number of certain typical diseases and deficiencies. Besides stress to which in particular intensively kept pigs are very susceptible such phenomena are in young pigs protozoal infections (coccidioses) and anaemic states inter alia both of which already have to be kept under control by the prophylactic use of medicaments.
+
+
+[0004]
+	Coccidioses are frequently occurring parasitic infectious diseases in animals. (…)
+
+
+[0005]
+	An example of a deficiency is iron deficiency in newly-bom piglets. Owing to the rapid growth in the first days after birth the body’s iron reserves are rapidly depleted and must be compensated for by external sources. Because of the large number of suckling pigs this substitution by taking up the sow’s milk cannot take place in a sufficient degree. If moreover the animals are kept on concrete or plastic the piglets cannot take up iron compounds by rooting in the ground either. The piglets become anaemic. A clinically significant anaemic state exists when the haemoglobin content of the blood has dropped to less than 80 g/l. The NRC recommendation (National Research Council Nutrient Requirements of Domestic Animals No. 2 Nutrient Requirements of Swine National Academy of Sciences Washington DC 1973) specifies 90 g/l as the minimum haemoglobin value at which the piglets grow healthily and show no signs of anaemia. (…)
+
+
+[0006]
+	Preparations are already available for controlling the abovementioned diseases and deficiencies.
+
+
+[0007]
+	Coccidiosis can be controlled successfully by administering active ingredients from the triazinone group. To this end one distinguishes between the triazinediones - with examples of representatives being the active ingredients clazuril diclazuril letrazuril - and the triazinetriones with the active ingredients toltrazuril toltrazuril sulphoxide and ponazuril. (…)
+
+
+(…)
+
+
+[0011]
+	(…) Toltrazuril is available on the market for example as a drinking water formulation for poultry and as an oral suspension formulation for inter alia the treatment of suckling pigs. It is recommended to administer to the piglet a dose of 20 mg/kg bodyweight on day 3-5 after birth.
+
+
+(…)
+
+
+[0013]
+	A series of quite different iron preparations which differ both in the type of compound and in the mode of application and bioavailability are available for preventing iron deficiency anaemia. One distinguishes between (I) simple inorganic Fe(2+) salts (IIa) complex compounds of Fe(2+) with organic ligands for example with lactic acid or (IIb) of Fe(3+) for example with citric acid and (III) polymer-type complex compounds of an Fe(3+) oxo-hydroxo complex β-FeO(OH) of the akaganeite type with carbohydrates/polysaccharides specifically with oligomeric or polymeric carbohydrate compounds such as for example with dextran or with dextrin/polymaltose. (…)
+
+
+(…)
+
+
+[0019]
+	These considerations have given rise to the doctrine that Fe(3+) compounds in general and in particular polynuclear compounds such as iron(III) dextran are not suitable for oral application (…).
+
+
+[0020]
+	A further reason for being reluctant to use polynuclear Fe(3+) complexes in particular iron(III) dextran orally is the specific uptake pathway of B-FeO(OH) complexes in the intestinal tract. (…) However it is also known that this transit of high-molecular-weight compounds from the cells of the mucosa into the lymphatic system and bloodstream of the piglets is only possible without hindrance immediately after birth. This mechanism ensures that the piglets can be supplied with immunoglobulins and antibodies immediately after birth by taking up the sow’s colostrum. As soon as this supply is ensured the transport mechanism becomes defunct. This “intestinal closure” during the further course of growth is biologically meaningful in order to avoid infections with microorganisms and toxins (…) Since however current keeping conditions at the breeders’ naturally allow suckling it is current knowledge and generally medically acknowledged that a sufficient supply of piglets with high-molecular-weight iron complexes via the oral route is only possible in a meaningful manner in the first hours after birth if multiple applications are to be avoided. Those few authors who have systematically studied the efficacy of iron(III) dextran as a function of the timing of the oral application report on a substantially reduced activity when the iron(III) dextran is administered 24-72 h after birth (…) Depending on the keeping and feeding conditions however an administration on day 2 of life will still give sufficiently good results (…) In contrast when administering the iron dextran 72-96 h after birth the efficacy is already greatly reduced (…) Even with these preparations however the manufacturer recommends that they be used up to no more than 8-10 h after birth in order to achieve an optimal effect. This in turn requires the continuous monitoring of the breeding sows which means a great deal of labour.
+
+
+(…)
+
+
+[0022]
+	To circumvent the above-described imponderabilities in the case of oral application it is more conventional in pig rearing to administer polynuclear iron(III) complexes intramuscularly by means of an injection. (…)”
+
+ 
+
+
+2.7.
+Binnen Europa lopen verschillende procedures tussen enerzijds vennootschappen van de Bayer groep en anderzijds vennootschappen van de Ceva groep wegens (niet)inbreuk op buitenlandse delen van EP 496.  
+
+2.7.1.
+BIP heeft op 26 december 2017 bij de rechtbank Parijs (Frankrijk) een inbreuk kort geding procedure aanhangig gemaakt jegens Ceva Frankrijk. De president van de rechtbank Parijs heeft op 5 april 2018 de vorderingen van BIP tot het treffen van voorlopige voorzieningen afgewezen daar hij niet bewezen achtte dat er een dreiging van inbreuk bestond. In die beslissing is overwogen dat de afwezigheid van het vereiste van orale toediening als beperkend kenmerk in conclusie 1 vragen opwierp over de geldigheid van het octrooi en daarmee over de inbreuk.  
+
+
+2.7.2.
+Ceva Frankrijk heeft op 31 januari 2018 een niet-inbreukprocedure aanhangig gemaakt jegens BIP voor de Tribunal de Grande Instance de Paris (Frankrijk). Deze zaak is thans in behandeling. 
+
+
+2.7.3.
+BIP heeft op 20 mei 2019 onder Ceva Frankrijk beslag laten leggen op bewijsmateriaal. Het verzoek van Ceva Frankrijk aan de Franse rechter om het in beslag genomen bewijs vertrouwelijk te behandelen is door de Franse rechter op 7 juni 2019 afgewezen waarna de deurwaarder bevolen is om vrijwel alle in beslag genomen stukken vrij te geven. Naar aanleiding van het verkregen bewijsmateriaal heeft Bayer c.s. opnieuw een voorlopige voorziening gevorderd bij de president van de rechtbank van Parijs. De zitting in deze zaak heeft plaatsgevonden op 10 juli 2019. 
+
+
+2.7.4.
+In Italië heeft Bayer c.s. een kort geding procedure aanhangig gemaakt jegens de Ceva groep. De zitting in deze zaak heeft eveneens plaatsgevonden op 10 juli 2019. 
+
+
+2.7.5.
+In Duitsland heeft de rechtbank van Hamburg op 5 juli 2019 het door (onderdelen van) de Bayer groep op 3 juli 2019 ingediende verzoek tot een ex-parte verbod jegens Ceva Tiergesundheit GmbH toegewezen. Het door Ceva Tiergesundheit GmbH ingediende verzoek tot schorsing van de executie is bij beslissing van de rechtbank Hamburg van 2 augustus 2019 afgewezen. 
+
+
+2.7.6.
+Daarnaast zijn (kort geding) inbreukprocedures door (onderdelen van) de Bayer groep jegens (onderdelen van) de Ceva groep aangebracht in Spanje Denemarken Oostenrijk Hongarije en Griekenland. 
+
+
+
+2.8.
+Na de verlening van EP 496 is door Ceva Frankrijk oppositie ingesteld bij het EOB1. De oppositieafdeling van het EOB (hierna: OD) heeft tijdens de mondelinge behandeling op 16 mei 2019 de oppositie afgewezen en het octrooi in stand gelaten zoals verleend. In de schriftelijke beslissing van de OD ter zake van 16 juli 2019 is (in de Engelse vertaling) - voor zover in de onderhavige procedure relevant - opgenomen:  
+
+
+“(…)
+
+
+6	
+Ground for opposition
+: inventive step Art. 100(a) Art. 56 EPC
+
+ 
+
+
+6.1
+
+OD came to the conclusion that an inventive step exists for the subject matter of the granted patent based on either A1/A1 [bedoeld zal zijn: A2 vzr.] or A6 as closest prior art. OD considered the common presence of the two active substance components “triazinone” and ”Fe(III) polysaccharide complexes” in one formulation as the distinguishing feature. OD came to the conclusion that the claimed formulation is inventive if no technical effect other than the simplification of the treatment regimen is taken as the basis for the difference and the problem to be solved is to provide a formulation that simplifies the administration of both active substances.  
+
+
+OD also came to the conclusion however that the technical effect of an improved iron supply in piglets is proven to be a technical effect even when the common active substance formulation is administered orally or once at a later time point and found the formulation claimed to be inventive even in view of the problem of providing a formulation which improves the iron supply in piglets even when both active substances are administered in a single administration at a later date in one formulation.
+
+ 
+
+
+6.2
+
+Definition: In the following discussion on inventive step the following terms should stand for the following content:
+ 
+
+
+Co-formulation
+: Combination of two active ingredients into one formulation. Thus for example combining toltrazuril with a polynuclear Fe(III) polysaccharide complex; the term is thus used synonymous with joint administration in one formulation - on the same administration route.
+
+ 
+
+
+Co-administration
+: administration of two or more active substances more or less simultaneously including the possibility that these active substances may be administered by different routes. For example the administration of toltrazuril orally and Fe-dextran intramuscularly on the 2nd day of life of the piglets.
+
+ 
+
+
+6.3
+
+
+Closest prior art:
+
+
+O's
+ opposition to lack of inventive step is based on the following combination of documents each of which has been individually cited as the closest prior art to the opposed patent.
+
+
+A1/A2 combined with general common knowledge in particular A46 
+
+A3 combined with one document each from A6-A15
+
+A6 combined with any document that teaches the treatment of coccidiosis by triazinone especially toltrazuril such as A1 A2 or A3.
+
+ 
+
+6.3.1
+
+A1/A2 as closest prior art:
+ 
+
+
+O argues that A1 or A2 are suitable closest prior art because both documents solve one of the two underlying problems of the patent namely the treatment of coccidiosis in piglets. In detail these documents disclose:
+
+ 
+
+
+A1
+: A1 is a prospectus of Baycox 5%®. The brochure discloses the treatment of porcine coccidiosis with toltrazuril (see in particular pages 16-17). A1 discloses the treatment in 3-5 day old pigs (see A1 page 16) and mentions the treatment as compatible with iron-dextran injections (A1 page 24).
+
+ 
+
+
+A2
+: A2 is a poster from a veterinary conference. The poster discloses a formulation for the treatment of porcine coccidiosis with toltrazuril (see in particular the section
+
+
+"Material and Methods"). A2 discloses the treatment of piglets in the 1st week of life especially in 3-5 day old pigs (see A2 paragraph "Discussion" 1st sentence) and mentions the treatment as compatible with iron supplements (A2 paragraph
+
+
+"Tolerability").
+
+ 
+
+
+6.3.2
+
+O defined the difference between claim 1 and A1/A2 as the simultaneous presence of triazinones/toltrazuril and iron preparations in one formulation.
+ 
+
+
+6.3.3
+
+A3 as closest prior art:
+ 
+
+
+According to O A3 discloses the co-administration of piglets with toltrazuril and iron preparations within the first 4 days of life (see A3 page 20 paragraph "Routine treatments" 1st and 2nd paragraph). A3 describes the oral administration of toltrazuril as BayCox and the administration of iron preparations by the parenteral route.
+
+ 
+
+
+6.3.4
+
+
+O defined the difference between claim 1 and A3 as the simultaneous presence of
+
+
+triazinones/toltrazuril and iron preparations in one formulation.
+
+ 
+
+
+6.3.5
+
+
+A6 as closest prior art:
+
+
+A6 is a scientific article from a journal for agricultural research and discloses the treatment of piglet anemia by injection or oral administration of iron dextran preparations. O emphasizes that A6 in particular discloses that the oral administration of Fe dextran on the second day of life is as effective as immediately after birth (A6 page 374 column "Oral iron administration on the second day effective 1st sentence and last sentence of summary)
+
+ 
+
+
+6.3.6
+
+O defines the difference between claim 1 and A6 as the simultaneous presence of triazinones/toltrazuril and iron preparations in one formulation.
+ 
+
+
+6.3.7
+
+OD came to the conclusion that A1 and A2 are so equivalent in their disclosure that they are also discussed below as a single prior art (with reference A1/A2). OD was of the opinion that A3 was to fall behind A1/A2 as closest prior art as the relevant information is listed in two paragraphs on page 20 but the information is diluted over 26 pages.
+
+Furthermore the document deals mainly with antibiotic treatments and less with coccidiosis treatments.
+
+OD came to the conclusion that with A6 another closest prior art exists namely because this disclosure is equally far removed from the patented subject matter but complementary in content to A1/A2 (see Guidelines G-Vll 5.1). OD was therefore of the opinion that A1/A2 and A6 were equivalent closest prior art.
+ 
+
+
+(…)
+
+
+
+
+6.3.9	(…)
+
+
+Accordingly O formulated the problem to be solved as providing a formulation for the treatment of piglets that simplifies the administration of both active ingredients.
+ 
+
+
+(…)
+
+
+
+
+6.3.11
+
+Problem-solution approach insofar as the technical effect only considers the simplified administration:
+ 
+
+
+(…)
+
+
+
+
+
+6.4
+
+OD could not follow O's reasoning because the prior art does not allow OD to derive a reasonable expectation of success for the combination or a suitable treatment window.
+
+This conclusion was reached on the basis of the following considerations:
+ 
+
+6.4.1
+
+OD first of all came to the conclusion that standard documents established in veterinary medicine could better reflect the technical opinion as to which treatment windows and forms of administration exist for the administration of the respective active substances than individual disclosures. OD does not doubt that in veterinary research in the field of treatments of piglets with toltrazuril and Fe preparations there are all kinds of experiments on treatment windows and applications with these two active substances so important for the industrial meat production of pigs which then lead to a multitude of separate publications. For OD however it is not important to make a combination obvious by combining marginal opinions or extreme values but to answer the question of obviousness on 
+the basis of the general doctrine of the skilled person
+ because the skilled person for development would 
+simply not
+ proceed from isolated marginal opinions that teach against the general doctrine in order to generate a technical development based on it.
+ 
+
+
+6.4.2
+
+
+A standard document on the treatment of piglet anemia is certainly A60 ("Textbook of swine diseases"). 
+A60
+ discloses on page 190 left column penultimate paragraph: 
+
+
+"The oral application remains behind the parenteral application if it is not repeated. With the twofold peroral administration ...in the 8th-12th hours of life...and on the 12th-21st day of life the suckling pig anemia can be successfully combated". 
+
+ 
+
+
+Another standard work on swine diseases is 
+A61
+. A61 discloses on page 53 right
+
+
+column concerning suckling pig anemia:
+
+
+"With two oral doses of emulsified iron in the 8th-12th hour of life around the 12th day of life the serum iron level could be maintained until the 21st day of life”.
+
+ 
+
+
+A59
+ is another standard work on swine diseases and discloses on page 190 left column center:
+
+
+"Oral application would eliminate the risks associated with iron injection but would have to take place within 6 hours after birth to be safe".
+
+ 
+
+
+A14
+ with the title "Factsheet - Baby Pig Anemia" seems to be a general reference book and reports on page 4 5th paragraph:
+
+
+"A single oral dose of Fe-Dextran is nearly as effective as an iron injection if dosage occurs within the first 6 h of life"
+
+ 
+
+
+A22
+ is a review paper entitled "Applications of iron compounds in pigs" and discloses in the summary and on page 366 left column:
+
+
+"Oral administration of Fe-dextran ...from the 3rd-8th hour after birth covering the Fe-requirement until the 11th day after birth. i.m. Administration of Fe-dextran. The Hb content remains normal until the 24th day after birth”.
+
+ 
+
+
+A6
+ quotes the doctrine and contrasts it with his own experiments. On page 373 right column stands:
+
+
+"Oral administration of iron supplements: These must be administered within the first few hours of life because the intestinal mucosa < becomes tight > after colostrum uptake and absorbs only a small part of the Fe." 
+
+A6 compares this doctrine with its own experiments (page 374: Fe administration on the second day of life is just as effective as administration shortly after birth) but then comes to the following conclusion (page 375 section "Conclusions for practice"):
+
+
+"Orally administered Fe-preparations ...can also be administered after the first 12 hours of life. That'll do for the first two weeks. But after the third week at the latest Fe must be offered in addition...".
+
+ 
+
+
+OD concludes that A6 does simply not teach that a 
+single
+ oral treatment with Fe is
+
+
+successful even after 12 hours.
+
+ 
+
+
+6.4.3
+
+With regard to the treatment of piglet anemia with injectable Fe preparations OD found that there is a larger time window for administration (…)
+ 
+
+
+	(…)
+
+O himself states in his own experimental report A38 that i.m. administration of Fe preparations within the first 3 days is standard (A38 page 3 1st paragraph last sentence).
+
+ 
+
+
+6.4.4	(…)
+
+
+In a nutshell: For OD the prior art teaches the administration of toltrazuril between the 3rd -5th day of piglet life.
+ 
+
+
+(…)
+
+
+
+
+6.4.5
+
+
+In summary the following picture therefore emerged for OD for the administration
+
+
+schemes of triazinones and Fe-polysaccharide complexes in particular toltrazuril and Fe-dextran:
+
+
+a) Toltrazuril can be administered orally from the 3rd-5th day of life while iron polysaccharide complexes are administered 
+orally
+ within 3-8 hours and 
+then again
+ later from the 2nd week of life;
+
+
+or
+
+
+(b) Toltrazuril may be administered orally from the 3rd-5th day of life and
+
+
+injectable
+ iron polysaccharide complexes may be administered 
+once
+ in the same period;
+
+ 
+
+
+6.4.6
+
+Based on the problem-solution approach formulated by O in point 6.3.9 either based on A1/A2 or A6 OD therefore does not consider the solution of the problem of “providing a formulation for the treatment of piglets which simplifies the aministration [sic] of active substances”' according to the opposed patent the formulation of claim 1 to be obvious because according to the summary the combination is not obvious because according to point 6.4.5 a) the common oral route of administration argues in favor of combining these active substances in one formulation but the time window for the administration of the two active substances in accordance with general teaching does not overlap and no simplification of administration is achieved because the iron preparation still has to be administered 
+twice
+.
+ 
+
+
+according to point 6.4.5 b) the time window for the administration of the two active substances following the general doctrine overlaps and both active substances have to be administered only 
+once
+ but the different routes of administration of the two active substances (oral on the one hand and parenteral on the other) argues against combining them in a single formulation.
+
+
+OD sees this as the reason why despite the simplification pressure cited by O the patented formulation was not implemented earlier in pig breeding for decades despite the fact that both active substance classes existed-side by side. (…)
+
+ 
+
+
+(…)
+
+
+Last but not least OD also sees that O never conclusively argued why exactly these two active substances should be combined in one formulation when there are other active substances that piglets receive in the first days of life such as antibiotics (see A3 full document). A simplification of the treatment regimen for piglets could also have been achieved for example by joint administration of toltrazuril with antibiotics or Fe-dextran with antibiotics. In this respect the limitation of the discussion to Triazinone with Fepolysaccharide-complexes in a formulation confers to a preselection in which a certain retrospective look at the claimed formulation cannot be argued against.
+
+ 
+
+
+6.4.7
+
+OD therefore came to the conclusion that the formulation of claim 1 is inventive and thus also the dependent claims or the independent use claim 13 which refers to the formulation regarded as inventive. The dependent usage claims 14-17 are then also inventive.
+ 
+
+
+(…)”
+
+ 
+
+
+
+2.9.
+Ceva Frankrijk heeft tegen de beslissing van de OD beroep aangetekend bij de Technische Kamer van Beroep (hierna: TKB). 
+
+
+2.10.
+De navolgende publicaties behoren voor het octrooi tot de stand van de techniek2.  
+
+2.10.1.
+Ueda et al. (A403) “Prevention of Piglet Anemia by Oral Administration of Iron Dextran” (1985) 872-877 (hierna: Ueda). Daarin is - onder meer - opgenomen: 
+
+
+“				ABSTRACT
+
+ 
+
+
+Ion-deficiency anemia of piglets is usually prevented or treated with intramuscular injection of iron dextran. In the present study iron dextran was orally administered to neonatal piglets immediately after birth while absorption through pinocytosis observed in intestines of the neonatal piglets taken into account and a preventive effect of the iron dextran on anemia was investigated. As a result of oral administration of 1 ml iron dextran (as 100 mg iron) to piglets 3-8 hours after birth the amount of hemoglobin and hematocrit significantly increased as compared to an untreated group and were maintained at a sufficient amount until the age of 4 weeks. Red blood cell count also significantly increased in a treated group with iron dextran. The difference in mean red blood cell constant between the treated group and the untreated group showed that a red blood cell image of anemia piglets of the untreated group is microcytic hypochromic. Also when an administration timing of iron dextran was delayed that is the iron dextran was administered 24-36 hours after birth similar results were obtained. However in a case where iron dextran was administered 72 or more hours after birth the effect of the iron dextran on the amount of hemoglobin and hematocrit was transient and poor in sustainability and was significantly less than in a case where the iron dextran was administered immediately after birth. The above-described results show that iron dextran is available as an iron drug to be orally administered to neonatal piglets.
+
+ 
+
+
+(…)
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+(…)”
+
+ 
+
+
+2.10.2.
+T.J. Taylor “Pig diseases” 6th edition (1995) 274-277 (hierna: Taylor).4 In dit handboek is - onder meer - opgenomen: 
+
+
+“(…)
+
+
+Treatment and control
+
+ 
+
+
+Supplementation of the sow's diet cannot raise piglets' liver iron levels at birth or increase the amount of iron in the milk so piglets must be provided with 15 mg of iron per day to prevent the occurrence of anaemia. This may be provided in the following ways:
+
+ 
+
+
+	(…)
+
+
+	(ii)	
+Oral iron supplements
+
+ 
+
+
+	(…)
+
+
+Granules containing iron dextran may also be given under lamps in the creep feed and pastes containing iron dextrans are also available for oral therapy. (…)”
+
+ 
+
+
+2.10.3.
+A. Gutzwiller (A65) “Eisenversorgung des neugeborenen Ferkels” AgrarForschung (1999) 6 (10) 373-375 (hierna: Gutzwiller). In dit artikel is - onder meer - opgenomen: 
+
+
+“(…)
+
+
+Eine Alternative zur Injektion ist die orale Verabreichung von Eisenpräparaten. Nach Lehrmeinung müssen diese Präparate innerhalb der ersten Lebensstunden verabreicht werden weil die Darmschleimhaut nach der Kolostrumaufnahme «dicht macht» und nur noch einen kleinen Anteil des verabreichten Eisens absorbiert. (…)
+
+ 
+
+
+(…)
+
+
+Orale Eisengabe am zweiten Tag wirksam
+
+
+Der statistische Vergleich zwischen allen in den ersten zwölf Lebensstunden (= Verfahren
+
+
+FeM1 und FeD1) und allen am zweiten Lebenstag oral behandelten Tieren (= FeM2 und FeD2) zeigt dass die Verabreichung von rund 300 mg Eisen in Form von Eisendextran oder Eisenmethionin am zweiten Lebenstag ebenso wirksam ist wie die Verabreichung kurz nach der Geburt. (…) Unsere Untersuchungen mit einem wässrigen Eisendextranpräparat lassen den Schluss zu dass Eisendextran generell auch nach den ersten 12 Lebensstunden oral gut verfügbar ist. Diese Befunde stehen allerdings im Gegensatz zu älteren Untersuchungen wo Eisendextran in den ersten Lebensstunden besser verwertet wurde als einen bis drei Tage nach der Geburt (Blomgren und Lannek 1971).
+
+ 
+
+
+(…)
+
+
+Folgerungen für die Praxis
+
+
+Oral verabreichte Eisenpräparate welche Eisendextran oder Eisenmethionin enthalten können in einer Dosierung von rund 300 mg auch nach den ersten 12 Lebensstunden verabreicht werden. Unter der Voraussetzung dass der grösste Teil des verabreichten Präparates geschluckt wird reicht die absorbierte Eisenmenge aus um die Ferkel während den ersten zwei Lebenswochen vor einer Eisenmangelanämie zu schützen. Spätestens in der dritten Woche sollte jedoch zusätzlich Eisen am besten in Form von Wühlerde angeboten werden.
+
+
+(…)”
+
+ 
+
+
+2.10.4.
+H.C. Mundt (A26) “Baycox 5%: an anticoccidial for the treatment of isospora suis coccidiose in piglets” 16th Congress of the International Pig Verterinary Society Melbourne Australia (2000) (hierna: Mundt). In dit artikel is - onder meer - opgenomen (de arcering is aangebracht door de advocaat van Bayer c.s. voorzieningenrechter): 
+
+
+“(…)
+
+ 
+
+
+
+
+
+
+
+(…)”
+
+ 
+
+
+2.10.5.
+A. John (A237) “Neue Möglichkeiten der Eisenversorgung Neugeborener Ferkel unter Beachtung biochemischer Aspekte” 8e Bernburger Biotechnik-Workshop (2002) pag. 89-94 (hierna: John). Daarin is - onder meer - opgenomen: 
+
+
+“(…)
+
+
+Biochemie im Organismus
+
+
+Die Notwendigkeit einer Eisensubstitution in der Zeit bis zur Aufnahme von erstem Beifutter ist weithin bekannt. In der Praxis werden derzeit zwei Möglichkeiten genutzt:
+
+
+
+1. die intramuskuläre Injektion frühestens ab dem 3. Lebenstag
+
+
+2. die orale Gabe in den ersten Lebensstunden.
+
+
+(…)”
+ 
+
+
+2.10.6.
+Technical information sheet (A18) “Baycox - Toltrazuril Coccidiocide for piglets” (2003) pag. 1-31 (hierna: Brochure technische informatie). Daarin is - onder meer - opgenomen: 
+
+
+“(…)
+
+pagina 16:
+
+
+
+
+
+
+
+
+(…)
+
+ 
+
+pagina 23:
+ 
+
+
+
+
+
+
+pagina 24:
+
+
+
+
+
+
+
+
+(…)”
+
+ 
+
+
+2.10.7.
+De (Nederlandse versie van) de folder van Bayer c.s. “Stop coccidiose bij biggen! Baycox 5% Oral Suspension” (2003) (hierna: de Folder).9 Daarin is - onder meer - opgenomen: 
+
+
+“(…)
+
+Pagina 6-7
+
+
+
+
+
+
+
+Pagina 8-9
+ 
+
+
+
+
+
+
+(…)”
+Een deel van de tekst van de hierboven weergegeven rechterpagina 7 is hieronder apart (in een leesbare versie) nogmaals opgenomen:
+ 
+
+
+
+
+
+
+De tekst van de hierboven weergegeven linker- en rechterpagina 8 en 9 is hieronder apart (in een leesbare versie) nogmaals opgenomen:
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+2.10.8.
+K. Waldmann et al. (A5910) “Lehrbuch der Schweinekrankheiten” (2004) pag. 188-196 (hierna: Waldmann). In dit handboek is - onder meer - opgenomen: 
+
+
+“(…)
+
+
+Therapie und Prophylaxe
+
+
+Komplexverbindungen von Eisen mit verschiedenen hochmolekularen Polysacchariden vor allem Eisendextran die intramuskulär oder subkutan injiziert werden haben sich durch gute Verträglichkeit und ausreichende Depotwirkung in Therapie und Prophylaxe bewährt. Prophylaktische Behandlungen sollen spätestens am 3. Lebenstag durchgeführt werden. (…)
+
+
+	(…)
+
+
+	Neugeborene Ferkel können in den ersten 30 Stunden groβe Moleküle organischer Verbindungen resorbieren. Diese Resorption ist nicht selektiv und ermöglicht somit die Aufnahme von an Eisen gebundenen Molekülen. Die orale Applikation würde die mit der Eiseninjektion verbundenen Gefahren ausschlieβen müβte aber binnen 6 Stunden nach der Geburt erfolgen um sicher zu wirken. Fe2+ ist im Dünndarm wesentlich besser löslich als Fe3+ und wird dementsprechend besser resorbiert. In den Mukosazellen erfolgt über das mukosale Transferrin ein schneller Transport in das Plasma während das mukosale Ferritin eine Speicherform darstellt aus der Eisen langsam an das Blut abgegeben wird. Die orale Applikation bleibt in ihrer Wirksamkeit hinter der der parenteralen Anwendung zurück wenn sie nicht wiederholt wird. Mit einer zweimaligen peroralen Gabe von je 230 mg emulgierter Eisenlösung in der 8. bis 12. Lebensstunde und am 12. Lebenstag kann bis zum 21. Lebenstag der Saugferkelanämie erfolgreich vorgebeugt werden. Im Sinne einer tiergerechten Haltung ist das ständige Angebot eisenhaltiger (parasitenfreier!) Erde anzustreben soweit die Haltungsform dies zuläβt.
+
+ 
+
+
+(…)”
+
+ 
+
+
+2.10.9.
+Kolb et al. (A2211) “Bedeutung Stoffwechsel und Anwendung von Eisenverbindungen beim Schwein (Übersichtsreferat)” Tierärztl. nr. 60 (2005) p. 365-371 (hierna: Kolb). Hierin is - onder meer - opgenomen: 
+
+
+“(…)
+
+
+Zur Sicherung der Fe-Versorgung der Ferkel während der Säugeperiode können folgende Verfahren verwendet werden:
+
+
+
+-
+
+Die Zufütterung von 20 g Eisensulfat technischer Qualität je Sau im Zeitraum von 3 Tagen vor dem Abferkeltermin bis zum Absetzen der Ferkel. In 20 g FeS04 x 7 H2O sind 4 g Fe enthalten. Diese Methode ist sehr preisgünstig (…). Infolge der Fe-Zulage steigt der Fe-Gehalt der Fäzes auf 7 bis 9 mg je g TS an; ohne eine solche beträgt er etwa 1 bis 2 mg/g TS.
+
+
+-
+
+Die orale Verabreichung eines Präparates von Fe-Dextran in einer Menge von 150 mg Fe von der 3. bis zur 8. Stunde nach der Geburt. Dadurch wird der Fe-Bedarf etwa bis zum 11. Tag nach der Geburt gedeckt (…). Die Moleküle des Fe-Dextrans werden in den ersten Stunden in gleicher Weise wie Immunglobuline in die Epithelzellen des Dünndarms aufgenommen (…).
+
+
+-
+
+Die i.m. Verabreichung von einem Fe-Dextranpräparat mit einem Fe-Gehalt von 200 mg dessen Moleküle vom Injektionsort schnell über die Lymphe abtransportiert werden und zur Bildung von Fe-Speichern verwendet werden (…). Der Hb-Gehalt des Blutes bleibt bis zum 24. Tag nach der Geburt im Normalbereich.
+
+
+-
+
+Die orale Verabreichung von Fe-Lactat. (…)
+
+
+
+
+(…)”
+ 
+
+
+2.10.10.
+Heinritzi et al. (A6112) “Schweinekrankheiten” (2006) pag. 52-54 (hierna: Heinritzi). In dit handboek is - onder meer - opgenomen: 
+
+
+“(…)
+
+
+Therapie und Prophylaxe
+
+
+Komplexverbindungen von Eisen mit verschiedenen hochmolekularen Polysacchariden vor allem Eisen-Dextran die intramuskulär oder subkutan injiziert werden haben sich durch gute Verträglichkeit und ausreichende Depotwirkung in Therapie und Prophylaxe bewährt.
+
+
+Prophylaktische Behandlungen sollen spätestens am 3. Lebenstag durchgeführt werden. (…)
+
+
+	(…)
+
+
+	Neugeborene Ferkel können in den ersten 30 Stunden groβe Moleküle organischer Verbindungen resorbieren. Diese Resorption ist nicht selektiv und ermöglicht somit die Aufnahme von an Eisen gebundenen Molekülen. Die orale Applikation würde die mit der Eiseninjektion verbundenen Gefahren ausschlieβen. Fe2+ ist im Dünndarm wesentlich besser löslich als Fe3+ und wird dementsprechend besser resorbiert. In den Mukosazellen erfolgt über das mukosale Transferrin ein schneller Transport in das Plasma während das mukosale Ferritin eine Speicherform darstellt aus der Eisen langsam an das Blut abgegeben wird. Mit per oral zu verabreichenden Eisenemulsionen kann der Saugferkelanämie ebenfalls vorgebeugt werden. Bei zweimaliger per oraler Gabe von je 230 mg emulgiertem Eisen in der 8. bis 12. Lebensstunde und am 12. Lebenstag konnte der Serumeisenspiegel bis zum 21. Lebenstag im physiologischen Bereich gehalten werden.
+
+ 
+
+
+
+2.11.
+Bayer c.s. heeft onder andere in Mexico en Brazilië proeven gedaan met een oraal toegediend combinatieproduct van toltrazuril en gleptoferron. Bayer c.s. heeft in deze landen op drie boerderijen onderzoek laten verrichten naar de werking van dit combinatiepreparaat voor orale toediening. In 2015 zijn de resultaten van dit onderzoek gepubliceerd in Parasitol Res 2015 114: Streyl et al. “Field Evaluation of the Effectiveness of an Oral Toltrazuril and Iron Combination (Baycox® Iron) in Maintaining Weaning Weight by Preventing Coccidiosis and Anaemia in Neonatal Piglets” (hierna: Streyl). In deze publicatie is - onder meer - opgenomen: 
+
+
+“(…)
+
+
+Results
+
+ 
+
+
+(…)
+
+
+
+
+
+
+
+
+
+(…)
+
+
+Discussion
+
+ 
+
+
+(…)
+
+
+The mean TG haemoglobin levels on SD 3 were slightly although not significantly less than those of the CG. There was no evidence that the lower haemoglobin levels in the TG compared to the CG on SD 21 resulted in clinical signs of anaemia or greater morbidity or mortality than that of CG piglets. Thus the convenience and reduced stress benefits of toltrazuril combined with iron in an oral formulation did not result in inferior performance and provide an excellent alternative to conventional treatment with oral toltrazuril and iron administered by intramuscular injection.
+
+ 
+
+
+(…)”
+
+ 
+
+
+2.12.
+BAH brengt onder de licentie voor EP 496 sinds 23 juni 2019 een injecteerbaar product op de Nederlandse markt genaamd BAYCOX IRON (hierna: Baycox Iron) met als actieve stoffen toltrazuril en gleptoferron voor de behandeling van coccidiose en anemie (bloedarmoede).  
+
+
+2.13.
+De advocaat van Ceva c.s. heeft op 1 juli 2019 aan Bayer c.s. te kennen gegeven dat Ceva c.s. van plan is om in september 2019 haar product met de merknaam FORCERIS (hierna: Forceris) in Nederland te lanceren. Forceris is een injecteerbare diergeneeskundige samenstelling bestaande uit een combinatie van toltrazuril en gleptoferron als werkzame bestanddelen.  
+
+
+
+
+3 Technische achtergrond
+
+3.1.
+De deskundige van Ceva c.s. prof. L.A. van Leengoed heeft in zijn eerste deskundigenraport van 6 augustus 2019 (hierna: Van Leengoed I) een overzicht gegeven over de varkenshouderij en de behandeling van biggen op de prioriteitsdatum waarvan de hierna volgende onderdelen door Bayer c.s. niet zijn bestreden. 
+
+23. By 2007 modern breeds of pig were producing on average 12.8 live piglets per litter with 10.9 piglets being weaned per litter. Each sow would have had about 2.37 farrowings per year. A large Dutch pig farm with 1000 sows would therefore have produced in 2007 about 25800 piglets per year. “Weaning” is when the piglets are separated from the sow.
+
+
+24. On commercial pig farms sows are artificially inseminated and the time at which gilts i.e. ‘virgin’ sows come onto heat is often controlled by means of hormones. As sows have a lactation anoestrus weaning of piglets will induce oestrus after 5 days.
+
+
+25. The average gestation period in swine is 114 days. Management of the date of insemination allows planning of piglet production throughout the year. 
+
+
+26. Synchronizing the day of insemination of production groups of sows will allow the pig farmer to plan with a fair degree of accuracy how many piglets are produced and when they are produced. This also results in an efficient streamlined work program for the farm workers. On a set day every week sows are inseminated new-born piglets are treated (see par. 29 below) litters which are three to four weeks old are weaned farrowing pens are cleaned and disinfected and other sows will farrow. This allows the treatments all piglets receive in early life to be streamlined. 
+
+
+(…)
+
+
+31. A number of treatments are required in the first week of life and these are commonly given in a single treatment session on Day 3 or Day 4. Well before June 2007 such treatments included: 
+
+
+- Application of ear tags for identification purposes; 
+
+
+- Administration of iron mostly iron dextran mainly by intramuscular injection in order to combat the effects of new-born piglet anaemia. The iron injection is performed in the neck area by the pig farmer; 
+
+
+- Administration of antibiotics and vaccines. (In recent years the administration of antibiotics is strongly reduced but certainly in the 1990’s and early 2000’s it was still common to administer antibiotics as a prophylactic treatment to prevent infections like joint ill or neonatal diarrhoea); 
+
+
+- Administration of an anti-coccidiosis agent where appropriate in order to prevent and treat coccidiosis. Toltrazuril which I discuss in more detail below was (and still is) the most effective medicine available for this purpose and the only drug registered for use in combatting Cystoisospora suis; 
+
+
+- Toltrazuril was squirted into the mouth of the piglet using a dosage pistol. In the Netherlands I estimate that up to 50% of all piglets would be treated with toltrazuril. This is a very rough estimate and the percentage may well have been higher in 2007. In the 1990s for example toltrazuril was used in a very significant number of production facilities. Cocciodosis can easily be recognised and a farmer with an infected herd will treat all of the litters. Once the oocytes have been eliminated from the litter pens a process which may take a considerable period of time measured in years rather than weeks or months the farmer is able to stop the treatment at least until the next outbreak; 
+
+
+- Tail docking in order to avoid tail biting. (…); 
+
+
+- Tooth grinding of the sharp corner teeth to prevent biting injuries to other piglets and to the teats of the sow. (…); 
+
+
+- The castration of male piglets (in Dutch: “beren”) in order to prevent boar taint. 
+
+
+(…)
+
+
+36. The first three to four weeks after farrowing form the “pre-weaning phase”. In this phase the piglets are with a sow and allowed to drink sow’s milk. During the pre-weaning phase after about seven to ten days the piglets are provided with so-called “creep feed” (in Dutch: biggenkorrel). Creep feed is a supplemental food in the form of pellets supplied to animals which are still suckling. It allows for a more rapid weight gain and the proper development of the intestines the villi and the intestinal wall. Commercial creep feed pellets are nutritionally balanced and contain vitamins minerals and trace elements including iron. After about ten days this solid feed constitutes a small but essential part of the piglet’s feed intake. 
+ 
+
+
+3.2.
+
+Bayer c.s. heeft onweersproken gesteld dat ijzersupplementen voor biggen kunnen worden ingedeeld in drie groepen:
+i) anorganische ijzer(II)-zouten (Categorie i);
+ii) IJzer(II)-complexverbindingen met organisch materiaal (bijvoorbeeld met
+melkzuur) of ijzer(III)-complexverbindingen met organisch materiaal
+(bijvoorbeeld met citroenzuur) (Categorie ii); of
+iii) Meerkernige ijzer(III)-complexverbindingen (oxy-hydroxy P-FeO(OH)) van de
+akaganéiet soort in combinatie met koolhydraten/polysacchariden zoals dextrans
+of polymaltose (Categorie iii). Deze laatste categorie in het octrooi aangeduid als meerkernige ijzer(III)-polysaccharide-complexverbindingen wordt door de voorzieningenrechter in navolging van partijen hierna kortweg aangeduid als ijzerdextraan13.
+ 
+
+
+
+
+4 Het geschil 
+
+4.1.
+Bayer c.s. vordert  samengevat - een verbod inbreuk te maken op EP 496 in Nederland met nevenvorderingen (opgave en vernietiging voorraad) alles versterkt met een dwangsom en een volledige proceskostenveroordeling op de voet van artikel 1019h van het Wetboek van burgerlijke rechtsvordering (Rv). 
+
+
+4.2.
+Ter onderbouwing van haar (neven)vorderingen stelt Bayer c.s. - verkort weergegeven - dat Ceva c.s. met haar voornemen Forceris in september 2019 op de Nederlandse markt te brengen inbreuk maakt c.q. dreigt inbreuk te maken op EP 496. Forceris voldoet aan alle kenmerken van conclusie 1. Uit de SmPC14 van Forceris volgt dat Forceris toltrazuril bevat wat is aan te merken als een triazinon conform formule I van de conclusie. Daarnaast bevat Forceris gleptoferron een meerkernige ijzer(III)-polysacharide-complexverbinding zoals opgenomen in conclusie 1. Dat Forceris een injecteerbare formulering betreft in plaats van een product dat oraal dient te worden toegediend is niet relevant nu de toedieningsvorm niet in de conclusies van EP 496 is opgenomen waarmee Forceris onder de beschermingsomvang van EP 496 valt. Bayer c.s. heeft een spoedeisend belang bij haar verbods- en nevenvorderingen. 
+
+
+4.3.
+Ceva c.s. voert verweer onder meer door te stellen dat het technisch effect dat het combinatiepreparaat een synergetische werking heeft en dus beter werkt dan de stand van de techniek afzonderlijke toediening van toltrazuril en ijzerdextraan onvoldoende plausibel is gemaakt al niet voor orale toediening en al helemaal niet voor parenterale toediening. Voor zover het technisch effect wel plausibel is te weten ten aanzien van het relatieve toedieningsgemak lag het zo voor de hand dat het niet inventief is. Om deze redenen zal het octrooi worden herroepen of nietig worden verklaard. Als er al sprake is van een geldig octrooi dient dat aldus te worden uitgelegd dat de beschermingsomvang beperkt is tot orale toediening van de geclaimde formulering zodat Ceva c.s. geen inbreuk daarop maakt. 
+
+
+4.4.
+Op de stellingen van partijen wordt hierna voor zover van belang nader ingegaan.  
+
+
+
+
+5 De beoordeling
+Bevoegdheid
+
+5.1.
+Ten aanzien van Ceva Nederland komt de rechtbank op grond van het bepaalde in artikel 4 lid 1 jo. 24 lid 4 Brussel I bis-Vo15 internationale (bodem)bevoegdheid toe om van de vorderingen van Bayer c.s. en het beroep van Ceva c.s. op nietigheid van het octrooi kennis te nemen. Met betrekking tot Ceva Frankrijk volgt de internationale (bodem)bevoegdheid uit artikel 24 lid 4 en nu Ceva Frankrijk is verschenen zonder de bevoegdheid te bestrijden artikel 26 lid 1 Brussel I bis-Vo. Gelet op deze bevoegdheidsgrondslagen is de voorzieningenrechter ook bevoegd voorlopige maatregelen te treffen. De relatieve bevoegdheid is gegrond op artikel 80 lid 2 onder a ROW16.  
+
+
+Spoedeisend belang
+
+ 
+
+
+5.2.
+Gezien de gestelde dreigende inbreuk op EP 496 heeft Bayer c.s. een spoedeisend belang bij het gevorderde. Dit spoedeisende belang is ook niet bestreden. 
+
+
+Toetsingskader
+
+ 
+
+
+5.3.
+De voorzieningenrechter dient gelet op het nietigheidsverweer te beoordelen of er een gerede (dat is een serieuze niet te verwaarlozen) kans aanwezig is dat EP 496 in oppositie wordt herroepen of het Nederlandse deel van EP 496 in een bodemprocedure nietig wordt bevonden. Bij deze beoordeling is van belang dat de OD bij mondelinge beslissing van 16 mei 2019 (en schriftelijke beslissing van 16 juli 2019 vergelijk r.o. 2.8) het octrooi in stand heeft gelaten. Dat betekent dat een inbreukverbod alleen dan in verband met de kans op herroeping in oppositie of nietigverklaring in een bodemprocedure achterwege behoort te blijven als een gerede kans bestaat dat de TKB het octrooi in hoger beroep zal herroepen of de rechter het octrooi in een bodemprocedure nietig zal verklaren. Enerzijds is het enkele herhalen van al door de OD beoordeelde en verworpen argumenten en de enkele mogelijkheid van een andere beoordeling van die argumenten door de TKB of de rechter onvoldoende. Het zal ten minste aannemelijk moeten zijn dat de TKB of de rechter anders zal oordelen dan de OD.17 Anderzijds is voor het oordeel dat een gerede kans bestaat dat de TKB het octrooi zal herroepen of de rechter het zal vernietigen niet slechts plaats in het geval dat Ceva c.s. aannemelijk maakt dat de OD zodanige fouten heeft gemaakt dan wel op zulk belangrijk materiaal geen acht heeft geslagen (of heeft kunnen slaan) dat te verwachten is dat waren die fouten niet gemaakt of het materiaal wel in de beschouwingen betrokken het octrooi niet in stand was gebleven.18 Een kennelijke misslag of novum is niet vereist.19 
+
+
+5.4.
+Bij de beoordeling in kort geding van een (dreigende) octrooiinbreuk door deze rechtbank20 wordt in de regel ook meegewogen of de gedaagde partij al enige tijd op de markt is of nog niet vanuit de gedachte dat de octrooihouder een zeer aanzienlijk belang heeft bij handhaving van de status quo als nog geen marktintroductie heeft plaatsgevonden omdat een marktintroductie door de gedaagde tot prijsbederf zal leiden. Uit hetgeen partijen ter zitting hebben verklaard maakt de voorzieningenrechter echter op dat in de onderhavige zaak geen grond is prijsbederf te vrezen omdat Forceris in het buitenland voor een hogere prijs dan Baycox Iron verhandeld wordt. Dat marktintroductie nog niet heeft plaatsgevonden is derhalve geen omstandigheid die tot een lagere drempel voor toewijzing van de vordering leidt. 
+
+
+Geldigheid octrooi: inventiviteit
+
+ 
+
+
+5.5.
+Naar voorlopig oordeel is EP 496 niet inventief en is er een gerede kans dat de TKB anders dan de OD het octrooi zal herroepen of dat het octrooi in een bodemprocedure nietig zal worden verklaard. Daartoe is het volgende redengevend. 
+
+
+5.6.
+Vooropgesteld wordt dat inventiviteit ontbreekt als de gemiddelde vakman uitgaande van de meest nabije stand van de techniek het probleem zou (would) - en niet slechts kon (could) - hebben opgelost op de wijze geclaimd in het octrooi. Of dat in dit geval zo is zal worden onderzocht aan de hand van de PSA21 welk hulpmiddel partijen eveneens in hun argumentatie hanteren. 
+
+
+5.7.
+De gemiddelde vakman kan worden omschreven als een ervaren dierenarts met kennis en kunde van medicijnen die gebruikt worden voor de behandeling van varkens dan wel een (universitair) docent op het gebied van diergeneeskunde met interesse in en praktijkervaring met farmaceutische preparaten voor gebruik in varkenshouderijen.  
+
+
+5.8.
+Als meest nabije stand van de techniek dient te worden aangemerkt het document dat het geschiktste uitgangspunt vormt om tot de uitvinding te komen. Dat zal als regel het document zijn dat zich bezighoudt met hetzelfde probleem en de meeste met de uitvinding overeenstemmende kenmerken openbaart. Dat laat onverlet dat een octrooi(conclusie) (nieuw en) inventief behoort te zijn ten opzichte van elke openbaarmaking die onderdeel vormt van de stand van de techniek en als een reëel uitgangspunt voor de PSA kan dienen.  
+
+
+5.9.
+Naar voorlopig oordeel kan de hiervoor onder 2.10.7 genoemde Folder in het kader van de inventiviteitsvraag worden aangemerkt als de meest nabije stand van de techniek. In de Folder wordt (door een onderdeel van de Bayer groep) promotie gemaakt voor de gelijktijdige toediening van de twee monocomponenten toltrazuril (Baycox 5% oraal toegediend in verband met de bestrijding van coccidiose) en een injecteerbaar ijzerpreparaat (in verband met de bestrijding van anemie) op dag drie tot en met vijf in de eerste levensweek van de biggen. In confesso is dat ijzerdextraan op de prioriteitsdatum het enige ijzerpreparaat was dat parenteraal door middel van een injectie werd toegediend. De Folder openbaart voor de vakman dus de gelijktijdige toediening van toltrazuril en ijzerdextraan met de vermelding dat dat grote voordelen heeft. Ceva c.s. heeft onder verwijzing naar Van Leengoed I onweersproken gesteld dat de behandeling zoals beschreven in de Folder op de prioriteitsdatum gebruikelijk was geworden in varkenshouderijen. 
+
+
+5.10.
+De verschilmaatregel tussen conclusie 1 van EP 496 en de in de Folder gepromote praktijk is dat de twee monocomponenten in één formulering zijn samengebracht. Het technisch effect van deze verschilmaatregel is een eenvoudiger behandeling die minder arbeidsintensief is.  
+
+
+5.11.
+Bayer c.s. heeft nog een tweede technisch effect genoemd dat volgens haar in de probleemstelling zijn weerslag zou moeten vinden te weten ‘een verbeterde formulering die ijzersupplementatie bij biggen met een enkele latere orale toediening in één formulering mogelijk maakt effectief tot het spenen’. Ter zitting heeft Bayer c.s. verduidelijkt dat dit tweede technische effect ziet op de mogelijkheid van orale toediening van ijzerdextraan op dag drie in plaats van in de eerste 12 levensuren van de big. De meest nabije stand van de techniek ziet echter op gelijktijdige toediening op de derde tot vijfde levensdag waarbij toltrazuril oraal werd toegediend en ijzerdextraan parenteraal. Bayer c.s. zoekt in het door haar gestelde tweede technische effect aansluiting bij andere stand van de techniek waarbij ijzerdextraan oraal werd toegediend op de eerste dag (vergelijk Waldmann onder 2.10.8 en Heinritzi onder 2.10.10). Nu dit gestelde technische effect niet is gebaseerd op een verschilmaatregel ten opzichte van de meest nabije stand van de techniek wordt hieraan voorbijgegaan. Daar komt overigens nog bij dat de conclusies niet zijn beperkt tot orale toediening zodat ook om die reden dit betoog van Bayer c.s. niet opgaat. 
+
+
+5.12.
+Tussen partijen is discussie over de vraag of een formulering volgens het octrooi net zo effectief is voor de behandeling van anemie als de behandeling volgens de dichtstbijzijnde stand van de techniek. Ceva c.s. heeft er op gewezen dat uit Streyl blijkt dat de effectiviteit van een formulering volgens het octrooi bij orale toediening minder effectief is dan gelijktijdige maar gescheiden toediening van toltrazuril oraal en ijzerdextraan parenteraal. Ter zitting heeft Bayer c.s. zich niet langer op het standpunt gesteld dat het octrooi over de hele breedte van de conclusies dezelfde effectiviteit heeft als gelijktijdige maar gescheiden toediening van toltrazuril oraal en ijzerdextraan parenteraal. Daarmee is in confesso dat met het octrooi een ‘voldoende’ maar – ten opzichte van de stand van de techniek – een minder effectieve behandeling van anemie wordt bereikt. In de ogen van Bayer c.s. is sprake van voldoende effectiviteit als de biggen gemiddeld op dag 22 nog hemoglobinewaarden van boven de 9g/100 ml hebben (de in Streyl gemeten resultaten). 
+
+
+5.13.
+Uitgaande van de in r.o. 5.10 opgenomen verschilmaatregel met het technische effect van een eenvoudiger behandeling dient naar voorlopig oordeel het (objectieve) probleem als volgt te worden geformuleerd: “Hoe te komen tot een eenvoudiger en voldoende effectieve behandeling van coccidiose en anemie bij biggen.” Volgens Bayer c.s. zou de probleemstelling als volgt moeten worden geformuleerd: “Het voorzien in een formulering voor de behandeling van biggen die de toediening van actieve stoffen eenvoudiger maakt” omdat een verwijzing naar de relevante aandoeningen hindsight in de hand zou werken. De voorzieningenrechter passeert dit betoog omdat in de meest nabije stand van de techniek een aparte pagina wordt gewijd aan de gelijktijdige bestrijding van de specifieke aandoeningen coccidiose en anemie (en de werkzame stoffen daartegen te weten toltrazuril en een injecteerbaar ijzerpreparaat vergelijk onder 2.10.7). Van een onjuiste pointer naar de oplossing is dan ook geen sprake.  
+
+
+5.14.
+Naar voorlopig oordeel zou de vakman die zich gesteld ziet voor het zojuist geformuleerde probleem op de prioriteitsdatum (1 juni 2007) zonder inventieve denkarbeid (‘would’ ) komen tot de formulering zoals geclaimd in het octrooi. Dat wordt als volgt toegelicht. 
+
+
+5.15.
+De vakman wordt door de Folder op het spoor gezet van gelijktijdige toediening van de stoffen toltrazuril en ijzerdextraan. Niet alleen wordt daarin geopenbaard dat ijzerdextraan en toltrazuril gelijktijdig kunnen worden toegediend met behoud van effectiviteit maar daaraan worden ook “grote voordelen” toegeschreven. Daarnaast heeft Ceva c.s. onbetwist aangevoerd dat de vakman op basis van de algemene veterinaire richtlijnen wordt aangemoedigd om combinatiepreparaten te gebruiken zodat hij steeds op zoek zal zijn naar combinatieformuleringen. Met de Folder als vertrekpunt zal de vakman zonder inventieve arbeid op zoek gaan naar een mogelijkheid om toltrazuril en ijzerdextraan in één formulering te combineren om het probleem op te lossen. De vakman zal inzien dat de toedieningsvorm van één van beide bestanddelen moet worden gewijzigd; ofwel beide oraal ofwel beide middels een injectie.  
+
+
+5.16.
+Vanuit zijn algemene vakkennis weet de vakman dat ijzerdextraan naast parenteraal ook oraal op de markt beschikbaar is maar dan wordt toegediend op dag 1 (vergelijk John onder 2.10.5). Bayer c.s. wijst er op dat in een aantal handboeken is vermeld dat toediening van oraal ijzerdextraan na dag 1 onvoldoende effectief is tegen anemie om met eenmalige dosering te kunnen volstaan omdat het maagdarmstelsel van een big alleen in de eerste 30 uur directe opname in het bloed van grote moleculen zoals ijzerdextraan toelaat (zie Waldmann Kolb en (met exact dezelfde tekst als Waldmann) Heinritzi 2.10.8 2.10.9 en 2.10.10). De vraag is of die kennis de vakman er a priori van zal weerhouden om te onderzoeken of orale toediening van ijzerdextraan op (op zijn vroegst) dag 3 mogelijk is. Dat is naar voorlopig oordeel niet het geval. In de handboeken is ook opgenomen dat ijzerdextraan toegevoegd kan worden aan het creep feed (zie Taylor onder 2.10.2 en de technische achtergrond onder 3.1) van biggen. Daaruit volgt dat orale toediening van ijzerdextraan na dag 1 toch leidt tot een zekere mate van absorptie van ijzerdextraan in het bloed en de vakman daarmee ook bekend is. Dat er gegeven de stand van de techniek sprake zou zijn van een vooroordeel tegen het oraal toedienen van ijzer later dan in de eerste levensuren van de biggen is dan ook onvoldoende aannemelijk. Voor de oplossing van het probleem zal de vakman daarom de literatuur over orale opname van ijzerdextraan bestuderen. Onderdeel van deze literatuur zijn de publicaties van Ueda (vergelijk onder 2.10.1) en Gutzwiller (zie onder 2.10.3). 
+
+
+5.17.
+De publicatie van Ueda gaat over de effectiviteit van toediening van ijzerdextraan na dag 1. De vakman leest in Ueda dat orale toediening van ijzerdextraan 36 uur na de geboorte net zo effectief is als toediening op dag 1. Toediening op dag 4 leidt na 4 weken tot minder goede bloedwaarden bij de biggen in vergelijking met de controlegroep biggen die ijzerdextraan oraal op dag 1 toegediend kregen. Uit tabel 4 blijkt dat zij na 4 weken een gemiddelde hemoglobinewaarde hebben van 8.6g/100ml. Dat leidt echter niet tot minder gewichtstoename. Dat dat een ‘voldoende’ resultaat zal zijn voor de vakman wordt door Ceva c.s. bepleit aan de hand van Streyl (het door Bayer c.s. zelf na de prioriteitsdatum uitgevoerde onderzoek vergelijk onder 2.11) en het aanvullende expert report van haar deskundige (Van Leengoed II). Van Leengoed II wijst er onweersproken op dat de resultaten beschreven in Ueda grote gelijkenis vertonen met die uit Streyl waarvan Bayer c.s. betoogt dat die voldoende effectiviteit aantonen. Hij verklaart dat de vakman er van uit zal gaan dat toediening op dag 3 betere resultaten zal geven dan toediening op dag 4 zoals in Ueda nu toediening op dag 2 (na 36 uur) net zo goed werkt als toediening op dag 1. Van Leengoed II onderkent dat de gemiddelde hemoglobinewaarde in Ueda wat lager is dan in Streyl (8.6g/100ml versus 9.87/100ml) maar wijst er op dat die waarde is gemeten na 4 weken waar de resultaten uit Streyl zijn gemeten na 3 weken. Daarmee valt dit verschil volgens Van Leengoed II te verklaren en zou volgens de eigen lezing van Bayer c.s. de in Ueda gemeten waarden voor de vakman duiden op voldoende werkzaamheid.  
+
+
+5.18.
+Ueda vormt weliswaar een oudere publicatie (1985) maar dat neemt niet weg dat de vakman Ueda bij de probleemoplossing zal betrekken. Ueda wordt bevestigd door de publicatie van Gutzwiller. Daaruit leert de vakman eveneens dat toediening van oraal ijzerdextraan op dag 2 goede resultaten geeft. Het op te lossen probleem bestaat bovendien niet sinds 1985 nu dat probleem samenhangt met de recentere behandeling van coccidiose met toltrazuril. 
+
+
+5.19.
+Volgens Bayer c.s. zou de vakman die deze publicaties leest toch niet tot de uitvinding komen omdat daaruit zou volgen dat bij toediening van ijzerdextraan op dag 2-4 in de tweede of derde week na geboorte een tweede orale toediening van ijzerdextraan benodigd was (in tegenstelling tot de uitvinding waarbij een eenmalige toediening voldoet). De voorzieningenrechter constateert dat Ueda en Gutzwiller de suggestie doen om nog een tweede dosis ijzer te geven na 2 weken. Echter die suggestie doet niet af aan de hiervoor besproken resultaten volgens deze publicaties bij eenmalige orale toediening van ijzerdextraan op dag 2 of 4. Bovendien adviseert Gutzwiller slechts dat een aanvullende ijzerbron in ‘Wühlerde’ (woelaarde) aangeboden wordt. Dat lijkt op de praktijk zoals die in Van Leengoed I is beschreven te weten dat er een ijzersupplement in het creep feed vanaf de tweede levensweek aan de biggen wordt aangeboden. In Ueda gaat het advies gepaard met de opmerking dat een tweede orale toediening van ijzerdextraan met name van belang is als ‘weaning is retarded’ dus voor biggen die niet tijdig kunnen worden gespeend. Deze resultaten zullen de vakman er dan ook niet van weerhouden om op basis van de Folder in combinatie met Ueda te testen of orale toediening van ijzerdextraan in een combinatieformulering met toltrazuril op dag 3 voldoende effectief is voor de behandeling van coccidiose en anemie bij biggen met een redelijke verwachting van succes. Tussen partijen is niet in geschil dat dergelijke testen routinematig zijn zodat de vakman tot de geclaimde oplossing zou komen. 
+
+
+5.20.
+De voorzieningenrechter constateert dat de OD tot een andere conclusie is gekomen (vergelijk onder 2.8). Met verwijzing naar r.o. 5.3 zal de voorzieningenrechter derhalve moeten onderzoeken of die beslissing is genomen op basis van dezelfde argumenten als hiervoor weergegeven en zo ja of desalniettemin een gerede kans bestaat dat die beslissing door de TKB wordt vernietigd. 
+
+
+5.21.
+De OD is als meest nabije stand van de techniek uitgegaan van A1/A222 (de Brochure technische informatie zie onder 2.10.6 respectievelijk Mundt zie onder 2.10.4) dan wel A6 (Gutzwiller zie onder 2.10.3). De Folder (vergelijk onder 2.10.7) was geen onderdeel van het dossier in de oppositieprocedure en vormt naar voorlopig oordeel dichterbijstaande stand van de techniek. In Gutzwiller wordt enkel de orale en parenterale toediening van ijzerdextraan geopenbaard maar in dat document wordt geen melding gemaakt van toltrazuril. De Brochure technische informatie betreft toltrazuril. Daarin wordt ook geopenbaard dat een ijzerdextraan injectie geen negatieve werking heeft op de werking van toltrazuril maar daarin wordt niet de gelijktijdige toediening van ijzerdextraan en toltrazuril geopenbaard. In Mundt wordt in een publicatie over toltrazuril de gelijktijdige toediening van ijzersupplementen (oraal of parenteraal) en ‘antimicrobial substances’ geopenbaard. Omdat de vakman weet dat parenterale toediening van een ijzersupplement ijzerdextraan betreft vertoont Mundt meer overeenkomstige kenmerken met het octrooi dan de andere twee documenten die de OD bij haar beoordeling betrok. 
+
+
+5.22.
+De Folder betreft een publicatie over toltrazuril maar bevat ook twee pagina’s gericht op de bestrijding van coccidiose en anemie door (min of meer) gelijktijdige toediening van orale toltrazuril (Baycox 5% Oral suspension) en een injecteerbaar ijzerpreparaat wat de vakman zoals hiervoor overwogen opvat als ijzerdextraan. Daarmee wordt in de Folder gelijktijdige toediening van deze specifieke combinatie geopenbaard zonder daarbij andere geneesmiddelen te noemen. Dat betekent dat de Folder naar voorlopig oordeel vanuit de stand van de techniek dichterbij het octrooi komt dan Mundt waarin ook de combinatie met ‘antimicrobial substances’ wordt genoemd. Het verschil tussen de Folder en Mundt lijkt relevant omdat de OD in haar beslissing belang hecht aan die andere geneesmiddelen. In 6.4.6. (zie wederom onder 2.8) overweegt de OD immers dat ook andere combinaties dan toltrazuril en ijzerdextraan in een formulering een optie voor de vakman waren. Uitgaande van de Folder is dat niet meer het geval omdat daarin de gelijktijdige toediening van alleen deze twee stoffen wordt genoemd (en waaraan bovendien “grote voordelen” worden toegedicht). Daarmee is de inventieve stap kleiner dan uitgaande van de meest nabije stand van de techniek die de OD heeft gehanteerd. 
+
+
+5.23.
+Daarnaast valt naar voorlopig oordeel wel wat af te dingen op de beoordeling onder 6.4.1. van de OD (vergelijk wederom onder 2.8). Bij een analyse volgens de PSA zullen ook andere zo men wil meer experimentele publicaties dan handboeken op het betreffende vakgebied betrokken moeten worden zolang de inhoud daarvan voor de vakman plausibel is. De vakman die zich gesteld ziet voor het geformuleerde probleem zal daarbij immers niet enkel te rade gaan bij zijn algemene vakkennis zoals verwoord in de handboeken maar ook andere publicaties raadplegen. In dit geval zullen dat publicaties zijn die gaan over toedieningsvormen en de daarbij behorende doseringsregimes van toltrazuril en ijzerdextraan. Om die reden meent de voorzieningenrechter dat de TKB niet op voorhand voorbij zal gaan aan Ueda en Gutzwiller maar die bij een inhoudelijk beoordeling volgens de PSA zal betrekken.  
+
+
+5.24.
+Gezien de voorgaande overwegingen en het hiervoor in r.o. 5.15 gegeven voorlopig oordeel over inventiviteit moet worden aangenomen dat er een gerede dat wil zeggen een serieuze niet te verwaarlozen kans bestaat dat EP 496 bij de TKB in beroep zal worden herroepen of (voor het Nederlandse deel) in een bodemprocedure nietig wordt verklaard zodat de vorderingen van Bayer c.s. voor afwijzing gereed liggen. 
+
+
+Proceskosten
+
+ 
+
+
+5.25.
+Bayer c.s. zal als de in het ongelijk gestelde partij worden veroordeeld in de proceskosten. Ceva c.s. maakt aanspraak op vergoeding van haar volledige proceskosten overeenkomstig artikel 1019h Rv. Haar proceskosten sluiten op € 306.506- exclusief verschotten en exclusief BTW (en exclusief € 8.000- aan expertisekosten voor haar deskundige). Ter zitting heeft Bayer c.s. met betrekking tot de hoogte van de kosten bezwaar gemaakt waarbij zij er op heeft gewezen dat haar eigen kosten bij een derde deel lager waren. Daarnaast heeft zij opgemerkt dat de uurtarieven die voor advocaat mr. Van Schijndel zijn berekend variëren zodat onduidelijk is wat zijn tarief is. Daardoor voldoet het proceskostenoverzicht niet aan de daaraan te stellen eisen aldus Bayer c.s. 
+
+
+5.26.
+Aan het bezwaar tegen de onduidelijkheid van de uurtarieven van mr. Van Schijndel gaat de voorzieningenrechter voorbij. De opgave die Bayer c.s. drie weken voor de zitting heeft ontvangen bevatte (evenals de laatste opgave) een uitgebreide specificatie telkens met het daarbij in rekening te brengen bedrag voor de bestede tijd. Aan de hand daarvan had Bayer c.s. zonder veel moeite kunnen zien wat gemiddeld het tarief van mr. Van Schijndel was en of de verschillende gehanteerde tarieven allemaal redelijk en evenredig waren. Dat overzicht was daarmee voldoende om inhoudelijk verweer te kunnen voeren tegen die tarieven. Met Bayer c.s. acht de voorzieningenrechter de door Ceva c.s. opgegeven totale kosten echter wel onevenredig hoog voor de voorbereiding van dit kort geding gelet op de complexiteit van de zaak het aantal verweren en de samenhang met buitenlandse procedures waardoor enerzijds meer afstemming nodig zal zijn maar anderzijds vergelijkbaar verweer ook al voorbereid was voor andere jurisdicties. Dat vormt aanleiding om de opgegeven advocaatkosten te matigen tot € 200.000-. 
+
+
+5.27.
+Dat betekent dat deze kosten aan de zijde van Ceva c.s. zullen worden begroot op (€ 200.000- advocaatkosten + € 8.000- kosten deskundige + € 639- griffierecht =) € 208.639-. Deze proceskostenveroordeling zal niet uitvoerbaar bij voorraad worden verklaard aangezien Ceva c.s. dit niet heeft gevorderd en de voorzieningenrechter geen aanleiding ziet zulks op de voet van artikel 258 Rv ambtshalve te bepalen. 
+
+
+
+
+6 De beslissing
+De voorzieningenrechter 
+
+6.1.
+wijst de vorderingen af 
+
+
+6.2.
+veroordeelt Bayer c.s. in de kosten van het geding tot op heden aan de zijde van Ceva c.s. begroot op € 208.639-. 
+
+Dit vonnis is gewezen door mr. F.M. Bus en in het openbaar uitgesproken op 17 september 2019.
+ 
+
+
+1
+Europees Octrooibureau
+2
+Bij de in de procedure bij het EOB gebruikte documenten is de daar gehanteerde A-nummering vermeld.
+3
+In de onderhavige procedure productie GP17A (dit is de Engelse vertaling).
+4
+Productie GP30 bijlage 12.
+5
+In de onderhavige procedure productie GP16.
+6
+In de onderhavige procedure productie EP31.
+7
+In de onderhavige procedure productie EP38.
+8
+In de onderhavige procedure productie GP03E.
+9
+Productie GP03A (Nederlands) GP03B (Engels) GP03C (Grieks).
+10
+In de onderhavige procedure productie EP35.
+11
+In de onderhavige procedure productie EP37.
+12
+In de onderhavige procedure productie EP34.
+13
+ De groep meerkernige ijzer(III)-polysaccharide-complexverbindingen bestaat niet alleen uit dextranen zodat deze benaming scheikundig niet geheel juist is.
+14
+Samenvatting van de Productkenmerken
+15
+Verordening (EU) 1215/2012 van het Europees Parlement en de Raad van 12 december 2012 betreffende de rechterlijke bevoegdheid de erkenning en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken
+16
+Rijksoctrooiwet 1995
+17
+HR 21 april 1995 NJ 1995 437 ECLI:NL:HR:1995:ZC1705 (Boehringer / Kirin Amgen) r.o. 3.4
+18
+HR 26 oktober 2001 ECLI:NL HR:2001:AB2774 (Tetra Laval / Meyn) r.o. 3.4.2
+19
+Vergelijk Gerechtshof Den Haag 7 november 2017 ECLI:NL:GHDHA:2017:4029 (Leo Pharma / Sandoz) r.o. 4.37
+20
+Vergelijk bijvoorbeeld Vzr. Rechtbank Den Haag 1 maart 2017 ECLI:NL:RBDHA:2017:1907 r.o. 4.5.
+21
+Problem and Solution Approach
+22
+ In 6.1 van de beslissing van de OD staat ‘A1/A1’ maar uit 6.3.1. volgt dat bedoeld is A1/A2.

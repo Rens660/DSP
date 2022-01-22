@@ -1,0 +1,809 @@
+
+15/01813	
+					mr. G.R.B. van Peursem
+30 september 2016	 
+							Conclusie in de zaak van:
+
+
+
+
+Sun Pharmaceutical Industries (Europe) B.V.
+(hierna: Sun)
+eiseres tot cassatie 
+advocaat: mr. J.P. Heering 
+
+
+tegen 
+
+
+
+Novartis AG
+(hierna: Novartis)
+verweerster in cassatie
+advocaat: mr. A.M. van Aerde. 
+
+
+In dit kort geding gaat het om een octrooi voor een tweede medische indicatie (second medical use) voor zoledroninezuur. Dat was al bekend voor de behandeling van de ziekte van Paget een zeer zeldzame botziekte. Novartis ontdekte dat zoledroninezuur ook werkte tegen osteoporose een veel voorkomende botziekte. Novartis’ octrooi beschermt deze tweede medische indicatie middels zogenoemde Swiss-type claims1. 
+Aanleiding van dit kort geding was dat Sun een generiek zoledroninezuur 5 mg/100 ml (hierna ook: het Generieke Product) op de Nederlandse markt bracht en een tenderprocedure van zorgverzekeraar VGZ won wat tot gevolg had dat VGZ behoudens medische noodzaak alleen nog de zoledroninezuur van Sun vergoedde. 
+Hoewel Sun door middel van een zogenoemde carve-out de indicatie osteoporose uit de Summary of Product Characterisitics (hierna: SmPC2) en de papieren bijsluiter van haar Generieke Product had laten verwijderen werd in de tenderprocedure geen onderscheid gemaakt naar indicatie (ziekte van Paget of osteoporose). Dat leidde er toe dat het Generieke Product van Sun niet alleen werd gehanteerd voor de behandeling van de zeldzame ziekte van Paget (27% van de gevallen waarin zoledroninezuur werd voorgeschreven) maar ook en eigenlijk juist en ondanks de carve-out voor de geoctrooieerde tweede medische indicatie de behandeling van osteoporose (973% van de gevallen waarin zoledroninezuur werd voorgeschreven). 
+In kort geding strijden partijen voor zover in cassatie nog van belang over de prioriteitstest en of sprake is van indirecte octrooi-inbreuk. Omdat de voorzieningenrechter – net als de Engelse High Court3 en Court of Appeal4 – oordeelt dat de ingeroepen prioriteit niet houdt waardoor geen sprake is van nieuwheid (een van de vereisten voor een geldig octrooi) komt hij aan de indirecte inbreukvraag niet toe. Bij het hof houdt de prioriteit wel wordt het octrooi voorshands geldig geacht en voorlopig geoordeeld dat sprake is van indirecte octrooi-inbreuk door Sun. Ik meen dat de prioriteitstest en het inbreukoordeel de toets in deze cassatie kunnen doorstaan. De – interessante – vraag of indirecte inbreuk op een Swiss-type claim juridisch wel mogelijk is is in deze procedure (anders dan in de bodemzaak) als zodanig niet aan de orde gesteld zodat ervan moet worden uitgegaan in dit kort geding dat dat type inbreuk octrooirechtelijk voorhanden is.
+
+
+1.	Feiten
+5
+ en procesverloop
+
+
+1.1 Novartis is een wereldwijd opererend farmaceutisch bedrijf. 
+
+
+1.2 In de jaren ’80 heeft een rechtsvoorganger van Novartis het bisfosfonaat zoledroninezuur (ook wel aangeduid als zoledronaat) ontdekt. Novartis heeft met zoledroninezuur als werkzame stof een geneesmiddel ontwikkeld dat wordt gebruikt op oncologisch gebied vooral bij de behandeling van tumor-gerelateerde hypercalcemia en de preventie van bot-gerelateerde complicaties bij patiënten met vergevorderde naar de botten uitgezaaide tumoraandoeningen. Voor deze indicatie heeft Novartis het farmaceutisch product Zometa® op de markt gebracht als een 4 mg/5 ml concentraat voor het bereiden van een infuusoplossing.
+
+
+1.3 Zoledroninezuur was tot 16 mei 2013 als werkzame stof beschermd door het Europese octrooi EP 275 821 en het corresponderende aanvullende beschermingscertificaat 300058 voor het product Zometa®.
+
+
+1.4 Novartis brengt thans het geneesmiddel Aclasta® op de markt dat net als Zometa® zoledroninezuur als werkzame stof bevat. Aclasta® is een 5 mg/100 ml oplossing voor intraveneuze infusie die eenmaal per jaar wordt toegediend ter behandeling van osteoporose. Aclasta® is tevens goedgekeurd als geneesmiddel voor de behandeling van de ziekte van Paget (een zeldzame chronische botafwijking die kan leiden tot vergrote of misvormde botten). 
+
+
+1.5 Novartis is houdster van het Europese octrooi EP 1 296 689 (hierna ook: EP 689 of het octrooi) voor een “Method of administering bisphosphonates”. EP 689 is verleend op een aanvrage van 18 juni 2001 met een beroep op de prioriteitsdocumenten US 597135 van 20 juni 2000 (hierna: US 135) en US 267689 van 9 februari 2001 (hierna: US 689). De verlening van het octrooi voor onder meer Nederland is op 21 september 2005 gepubliceerd.
+
+
+1.6 Na toepassing van de centrale beperkingsprocedure bedoeld in artikel 105a e.v. van het Verdrag inzake de verlening van Europese octrooien (hierna: EOV) luidt de (authentieke) Engelse tekst van de conclusies van EP 689 als volgt:
+
+
+1. Use of 1-hydroxy-2-(imidazol-1-yl)ethane-1 1-diphosphonic acid or a pharmaceutically acceptable salt thereof or any hydrate thereof in the preparation of a medicament for the treatment of osteoporosis in which the 1-hydroxy-2-(imidazol-1-yl)ethane-1 1-diphosphonic acid or a pharmaceutically acceptable salt thereof or any hydrate thereof is administered intravenously and intermittently and in which the period between administrations is at least about 6 months.
+2. Use according to claim 1 wherein the period between administrations is at least about once a year.
+3. Use according to claim 1 for the prophylactic treatment of osteoporosis wherein the period between administrations is about once per year or less frequent.
+4. Use according to claim 1 for the prophylactic treatment of osteoporosis wherein the period between administrations is about once every 18 months about once every two years or less frequent.
+5. Use of 1-hydroxy-2-(imidazol-1-yl)ethane-1 1-diphosphonic acid or a pharmaceutically acceptable salt thereof or any hydrate thereof for the preparation of a medicament for the treatment of osteoporosis wherein said medicament is adapted for intravenous administration in a unit dosage form which comprises from about 1 up to about 10 mg of 1-hydroxy-2-(imidazol-1-yl)ethane-1 1-diphosphonic acid or a pharmaceutically acceptable salt thereof or any hydrate thereof wherein the period between administrations of bisphosphonate is at least about 6 months.
+6. Use according to claim 5 wherein the unit dosage farm [bedoeld moet zijn: form A-G] comprises from about 1 up to about 5 mg and the period between administrations is about once every 6 months.
+7. Use according to claim 5 wherein the unit dosage farm [idem A-G] comprises from about 2 up to about 10 mg and the period between administrations is about once a year.
+
+
+1.7 De (onbestreden) Nederlandse vertaling van deze conclusies luidt:
+
+
+1. Toepassing van 1-hydroxy-2-(imidazool-1-yl)ethaan-11-difosfonzuur of een farmaceutisch aanvaardbaar zout daarvan of ieder hydraat daarvan voor de bereiding van een geneesmiddel voor de behandeling van osteoporose waarbij het 1-hydroxy-2-(imidazool-1-yl)ethaan-11-difosfonzuur of een farmaceutisch aanvaardbaar zout daarvan of ieder hydraat daarvan intraveneus en periodiek wordt toegediend en waarbij de periode tussen toedieningen ten minste ongeveer 6 maanden bedraagt.
+2. Toepassing volgens conclusie 1 waarbij de periode tussen toedieningen ten minste ongeveer één keer per jaar is.
+3. Toepassing volgens conclusie 1 voor de profylactische behandeling van osteoporose waarbij de periode tussen toedieningen ongeveer één keer per jaar of minder frequent is.
+4. Toepassing volgens conclusie 1 voor de profylactische behandeling van osteoporose waarbij de periode tussen toedieningen ongeveer één keer iedere 18 maanden ongeveer één keer iedere twee jaar of minder vaak is.
+5. Toepassing van 1-hydroxy-2-(imidazool-1-yl)-ethaan-11-difosfonzuur of een farmaceutisch aanvaardbaar zout daarvan of ieder hydraat daarvan voor de bereiding van een geneesmiddel voor de behandeling van osteoporose waarbij het geneesmiddel is aangepast voor intraveneuze toediening in een eenheidsdoseringsvorm welke ongeveer 1 tot ongeveer 10 mg 1-hydroxy-2-(imidazool-1-yl)-ethaan-11-difosfonzuur of een farmaceutisch aanvaardbaar zout daarvan of ieder hydraat daarvan omvat waarbij de periode tussen toedieningen van bisfosfonaat ten minste ongeveer 6 maanden is.
+6. Toepassing volgens conclusie 5 waarbij de eenheidsdoseringsvorm ongeveer 1 tot ongeveer 5 mg omvat en de periode tussen toedieningen ongeveer één keer iedere 6 maanden is.
+7. Toepassing volgens conclusie 5 waarbij de eenheidsdoseringsvorm ongeveer 2 tot ongeveer 10 mg omvat en de periode tussen toedieningen ongeveer één keer per jaar is.
+
+
+1.8 Op 29 juli 2013 heeft Sun van het College ter Beoordeling van Geneesmiddelen (hierna: CBG) een marktvergunning verkregen voor Nederland met betrekking tot generiek zoledroninezuur 5 mg/100 ml (RVG 111818). In het kader van de aanvraag van die marktvergunning heeft Sun verwezen naar Aclasta® als referentieproduct. De marktvergunning omvat goedkeuring van het product voor de behandeling van zowel osteoporose als de ziekte van Paget.
+
+
+1.9 Op 26 augustus 2013 heeft Sun het CBG verzocht om de indicatie osteoporose door middel van een zogeheten “carve-out” te verwijderen uit de SmPC en de bijsluiter van haar product. Het CBG heeft Sun op 27 augustus 2013 laten weten dat het verzoek is verwerkt. Het beleid van het CBG zorgt er echter voor dat de carve-out niet wordt doorgevoerd in de digitale versie van de bijsluiter en SmPC die het CBG op haar website publiceert.
+
+
+1.10 Sun heeft haar generieke zoledroninezuur 5 mg/100 ml doen opnemen in de G-standaard van het bedrijf Z-index. Het product is inmiddels in Nederland op de markt.
+
+
+1.11 In oktober 2013 heeft Sun ingeschreven op een zogeheten tender van zorgverzekeraar VGZ. Door middel van deze tenderprocedure heeft VGZ een aantal preferente producten geselecteerd waaronder een zoledroninezuur 5 mg/100 ml product voor patiënten bij wie het infuus thuis wordt toegediend. Sun heeft de tender gewonnen. Dat houdt in dat haar Generieke Product het enige zoledroninezuur 5 mg/100 ml product is dat door VGZ wordt vergoed behoudens medische noodzaak. De tender van VGZ maakte het niet mogelijk dat werd ingeschreven voor het product zoledroninezuur 5 mg/100 ml voor zover bestemd voor een bepaalde indicatie. Het door VGZ gehanteerde preferentiebeleid houdt in dat één product wordt aangewezen voor alle bij VGZ verzekerde patiënten die met zoledroninezuur in een dosering van 5mg/100ml thuis behandeld worden zonder onderscheid naar de indicatie waarvoor het is voorgeschreven. 
+
+
+1.12 In een door derden tegen Novartis aangespannen nietigheidsprocedure heeft de Engelse High Court bij vonnis van 15 maart 2013 ([2013] EWHC 516 (Pat)) geoordeeld dat het Britse deel van EP 689 geen aanspraak kan maken op de prioriteit van US 135 en US 689 en dat dat deel daarom nietig is vanwege een gebrek aan nieuwheid ten opzichte van een ná de prioriteitsdata maar vóór de aanvraagdatum van het octrooi gepubliceerd artikel van Reid (‘A single annual injection of the bisphosphonate zoledronic acid stably reduces bone turnover and increases bone density in postmenopausal osteoporosis’ Bone 28(5) S89 (2001) hierna: Reid). Bij arrest van 19 december 2013 heeft het Engelse Court of Appeal dit oordeel bekrachtigd ([2013] EWCA Civ 1663).
+
+
+
+Technische achtergrond
+6
+
+
+
+1.13 Menselijke botten bestaan uit levend weefsel dat voortdurend wordt geregenereerd tijdens het leven van een individu. Botmodellering (bone modelling) speelt een belangrijke rol in de groeifase van jonge mensen. Bij volgroeide volwassenen wordt botremodellering (bone remodelling) belangrijker. Dankzij dit mechanisme dat over een periode van zeven tot tien jaar resulteert in een kwantitatieve regeneratie van de complete menselijke botmassa blijft het skelet stabiel en functioneel. Vooral drie typen cellen zijn betrokken bij het botremodelleringsproces namelijk osteoclasten osteoblasten and osteocyten. Samen worden zij botremodellerende units (bone remodelling units ‘BMUs’) genoemd.
+
+
+1.14 Botweefsel remodellering begint met osteoclasten die botweefsel resorberen. Om dit te kunnen doen ‘graven’ zij in de botmatrix met behulp van verschillende enzymen om zogenaamde resorptieputjes te vormen die samen ‘geulen’ van geresorbeerd botmateriaal vormen. Dergelijke resorptie vindt tamelijk snel plaats vooral omdat de osteoclasten een korte levenscyclus hebben van slechts twee tot drie weken. De beduidend kleinere osteoblasten laten vervolgens nieuw collageen botmateriaal (osteoide) in resorptieputjes achter dat langzamerhand calcificeert om nieuw bot te vormen. Gedurende dit proces worden sommige osteoblasten door de gemineraliseerde botmatrix omsloten om later in
+osteocyten te differentiëren. De heersende opvatting op de prioriteitsdatum was dat de botremodelleringscyclus (bone remodelling cycle) na ongeveer drie tot vier maanden goeddeels afgerond was (zie ‘Primer on the Metabolic Bone Diseases and Disorders of Mineral Metabolism’ An Official Publication of the American Society of Bone and Mineral Research 4th Edition 1999 p. 30). 
+
+
+1.15  Op de prioriteitsdatum was bekend dat bisfosfonaten botresorptie kunnen remme omdat ze de activiteit van osteoclasten direct of indirect negatief beïnvloeden.
+
+
+1.16 Osteoporose is een veel voorkomende vaak leeftijdgebonden systematische botziekte waarbij het remodelleren van het botweefsel verstoord is. Bij patiënten die aan osteoporose lijden vindt er meer botresorptie plaats dan botregeneratie. De meest voorkomende vorm van osteoporose is postmenopauzaal maar osteoporose komt ook voor bij mannen. Alle typen osteoporose leiden tot broze botten die gevoeliger zijn voor breuk.
+
+
+1.17  De ziekte van Paget (osteitis deformans) is een lokale chronische aandoening die bi de getroffen botten tot vergrotingen misvormingen en afwijkingen leidt die het bot ondermijnen. De ziekte van Paget wordt veroorzaakt door abnormale modellering en remodellering op specifieke plaatsen aan het skelet.
+
+
+1.18 Op de prioriteitsdatum waren in Nederland twee bisfosfonaten goedgekeurd voor de behandeling van osteoporose namelijk Didronel® (etidronaat) en Fosamax® (alendronaat). Deze preparaten waren in orale toedieningsvorm en moesten dagelijks worden ingenomen.
+
+
+
+Procesverloop
+
+
+
+1.19 Op 24 februari 2014 heeft Novartis jegens Sun een kort geding procedure aanhangig gemaakt en onder meer een (indirect) inbreukverbod gevorderd op EP 689. Novartis voerde hiertoe aan dat het generiek zoledroninezuur 5 mg/100 ml product waarvoor Sun een marktvergunning heeft verkregen en dat Sun heeft doen opnemen in de G-standaard geschikt en bestemd is voor de in conclusie 7 van EP 689 geclaimde toepassing zodat Sun door het aanbieden en leveren van dit middel indirect inbreuk maakt op dat octrooi. Sun heeft als verweer aangevoerd dat conclusie 7 van EP 689 niet nieuw is in het licht van Reid en tevens de inbreuk bestreden.
+
+
+1.20 De voorzieningenrechter wees bij vonnis van 12 mei 2014 de vorderingen van Novartis af. De voorzieningenrechter oordeelde dat er een serieuze kans bestaat dat een bodemrechter conclusie 7 van het Nederlandse deel van het octrooi nietig zal verklaren vanwege gebrek aan nieuwheid ten opzichte van Reid (rov. 4.2). Het (in het kader van de niet-nieuwheid van conclusie 7 enige) verweer van Novartis dat Reid is gepubliceerd na de prioriteitsdatum wordt verworpen nu Novartis volgens de voorzieningrechter geen beroep kan doen op de prioriteit van US 689 omdat de in conclusie 7 van het octrooi geclaimde uitvinding niet direct en ondubbelzinnig wordt geopenbaard in US 689 (rov. 4.3 t/m 4.9). Dat er een serieuze kans bestaat dat een bodemrechter conclusie 7 van het Nederlandse deel van het octrooi nietig zal verklaren wordt volgens de voorzieningenrechter onderstreept door het feit dat de Britse bodemrechter in twee instanties heeft geoordeeld dat de gelijkluidende conclusie 7 van het Britse deel nietig is (rov. 4.10). 
+
+
+1.21 Novartis heeft hoger beroep ingesteld tegen het vonnis van de voorzieningenrechter.
+Bij arrest van 27 januari 2015 heeft het Haagse hof vervolgens het vonnis van de voorzieningenrechter vernietigd en kort gezegd een indirect inbreukverbod met nevenvorderingen toegewezen. Het Haagse hof heeft daartoe overwogen dat Novartis wel een beroep toekomt op de prioriteit van US 689 (rov. 4.1 t/m rov. 4.12) de inventiviteitsaanval van Sun niet slaagt (rov. 4.13 t/m rov. 4.27) en Sun indirecte inbreuk maakt op het octrooi van Novartis in de zin van art. 73 jo. 70 ROW 1995 (rov. 4.28 t/m 4.37). De betreffende rechtsoverwegingen luiden – voor zover in cassatie nog van belang (en met weglating van voetnoten) – als volgt:
+
+
+
+“Beroep op prioriteit van US 689 – nieuwheid
+
+
+
+4.1 De maatstaf voor de beoordeling of Novartis een beroep toekomt op de prioriteit van US 689 is of in dat document in zijn geheel beschouwd de in conclusie 7 van het octrooi geclaimde uitvinding direct en ondubbelzinnig aan de gemiddelde vakman gebruikmakend van zijn algemene vakkennis wordt geopenbaard. De geclaimde uitvinding dient in het prioriteitsdocument nawerkbaar te zijn geopenbaard in die zin dat aannemelijk dient te zijn dat de geclaimde uitvinding werkt of in andere woorden: het probleem oplost. 
+
+
+4.2 Niet in geschil is dat de gemiddelde vakman een fictieve maatman is die bestaat uit een team van vaklieden in elk geval bestaande uit een arts die gespecialiseerd is op het gebied van de behandeling van botaandoeningen en een farmacoloog die ervaring heeft met de ontwikkeling van farmaceutische producten voor de behandeling van botaandoeningen. 
+
+
+4.3 Uitgaande van voornoemde maatstaf is het hof anders dan de voorzieningenrechter en de Engelse Hight Court en Court of Appeal deels door andere inzichten (in het bijzonder de lezing van het prioriteitsdocument) en deels door andere stellingen van partijen (waaronder ten aanzien van de algemene vakkennis van de gemiddelde vakman op de prioriteitsdatum) voorshands van oordeel dat Novartis een beroep op de prioriteit van US 689 toekomt. 
+
+
+4.4 De gemiddelde vakman die US 689 leest zal bijzondere aandacht hebben voor het daarin beschreven voorbeeld 5 ‘Treatment of Patients’ omdat dit de resultaten van een klinische studie betreft. Uit dat voorbeeld 5 zal de gemiddelde vakman begrijpen dat valt aan te nemen dat (ook) de eenmalige intraveneuze toediening van 4 mg zoledroninezuur gedurende een periode van 12 maanden werkzaam is bij de behandeling van postmenopauzale osteoporose (zie ook hierna r.o. 4.9). De gemiddelde vakman zal verwachten dat ook een zekere range daar omheen als jaardosering werkzaam zal zijn.
+
+
+4.5 In de laatste paragraaf van pagina 8 overlopend op pagina 9 van US 689 wordt voor zoledroninezuur een doseringsbereik genoemd voor (onder meer) een eenmaal per jaar dosering van about 2 up to about 10 mg. Deze paragraaf luidt als volgt:
+
+
+“For example for more potent recent bisphosphonates such as zoledronic acid a unit dose of from about 1 up to about 10 mg may be used. For example also for such recent more potent bisphosphonates a unit dose of from about 1 to about 5 mg may be used for dosing once every 6 months; whereas a dose of from about 2 up to about 10 mg may be used for once a year dosing.”
+
+
+Zoals de voorzieningenrechter heeft opgemerkt wordt in deze paragraaf zelf niet uitdrukkelijk een verband gelegd tussen dat doseringsbereik en intraveneuze toediening. Anders dan de voorzieningenrechter is het hof echter van oordeel dat de gemiddelde vakman die het document in zijn geheel beschouwt met gebruikmaking van zijn algemene vakkennis daarin een zekere mate van extrapolatie zal zien van de in het voorbeeld 5 geopenbaarde intraveneus toegediende dosis van 4 mg eens per jaar. Daarbij neemt het hof in aanmerking dat tussen partijen niet in geschil is dat het op de prioriteitsdatum tot de algemene vakkennis van de gemiddelde vakman behoorde dat zoledroninezuur alleen intraveneus wordt toegediend. Eveneens tot de algemene vakkennis van de gemiddelde vakman op de prioriteitsdatum behoorde dat de absorptie bij orale toediening van bisfosfonaten als zoledroninezuur zeer laag was (1%) tegenover volledige (100%) absorptie bij intraveneuze toediening zodat bij orale toediening veel meer (100x zoveel) toegediend moet worden om dezelfde werkzaamheid te verkrijgen. Gegeven de in het voorbeeld 5 geopenbaarde intraveneus toegediende dosis van 4 mg eens per jaar is het op pagina 8/9 van US 689 genoemde doseringsbereik van 2-10 mg eens per jaar daarom redelijkerwijs niet anders te begrijpen dan dat dit ziet op intraveneuze toediening. Bij orale toediening zou de gemiddelde vakman gelet op het verschil in absorptie ten opzichte van intraveneuze toediening immers een dosering in de buurt van 400 mg verwachten. 
+
+
+4.6 De visie van Sun dat het doseringsbereik van 2-10 mg eens per jaar bij gebreke van expliciete vermelding van de toedieningsvorm ook zou kunnen zien op orale toediening is naar voorlopig oordeel van het hof gelet op het voorgaande geen zinvolle lezing van het prioriteitsdocument. De gemiddelde vakman zal de mogelijkheid van orale toediening als niet reëel van de hand wijzen omdat zoledroninezuur nooit oraal maar juist altijd intraveneus wordt toegediend en hij bovendien niet zou verwachten dat orale toediening van slechts 2-10 mg zoledroninezuur eens per jaar werkzaam zou kunnen zijn gelet op het 100-voudige verschil in absorptie en werkzaamheid. 
+
+
+4.7 De omstandigheid dat in US 689 (p. 7 laatste alinea) de intra-arteriële toedieningsvorm wordt genoemd als de meest geprefereerde toedieningsvorm kan aan het voorgaande niet afdoen. Zoals ter zitting door de deskundigen aan beide zijden is verklaard zal de gemiddelde vakman onderkennen dat tussen intra-arteriële toediening en intraveneuze toediening geen verschil is te verwachten wat betreft klinische werkzaamheid van de toegediende stof (en dus ook geen verschil uitmaakt wat betreft doseringsbereik). Dat toch de – risicovoller – intra-arteriële toedieningsvorm wordt genoemd als most preferred zal de gemiddelde vakman niet kunnen duiden maar het zal hem gegeven zijn algemene vakkennis dat zoledroninezuur intraveneus werd toegediend niet op andere gedachten (dan de gedachte dat het doseringbereik van 2-10 mg ziet op intraveneuze toediening) brengen. 
+
+
+4.8 Al het voorgaande leidt tot de slotsom dat naar het voorlopig oordeel van het hof de gemiddelde vakman gebruikmakend van zijn algemene vakkennis die het prioriteitsdocument US 689 is zijn geheel beschouwt met een mind willing to understand de in conclusie 7 van het octrooi geclaimde uitvinding uit US 689 direct en ondubbelzinnig kan afleiden. 
+
+
+(…)
+
+
+
+Inbreuk
+
+
+
+4.28 Nu voorshands is uit te gaan van zowel de nieuwheid als de inventiviteit van het octrooi komt het hof toe aan de vraag of Sun (indirecte) inbreuk maakt op het octrooi. 
+
+
+4.29 De ziekte van Paget is een zeer zeldzame aandoening terwijl osteoporose een veel voorkomende ziekte is vooral bij vrouwen boven de 50 jaar. Daarenboven is voor de behandeling van de ziekte van Paget doorgaans slechts een enkele toediening nodig terwijl voor de behandeling van osteoporose een toedieningsinterval van een jaar geldt. Volgens een - door Sun als zodanig niet voldoende gemotiveerd bestreden - onderbouwde inschatting van Novartis op basis van de afzet van Aclasta in de jaren 2011-2013 (voordat een generiek product op de markt kwam) is te verwachten dat 973% van het geneesmiddel zoledroninezuur 5mg/100ml gebruikt zal worden voor de behandeling van osteoporose de resterende 27% voor de behandeling van de ziekte van Paget of wel 135 eenheden op basis van een verwachte totale afzet van 5000 eenheden per jaar. De berekening van Sun dat 17.500 mensen voor de behandeling voor de ziekte van Paget in aanmerking komen kan hieraan niet afdoen nu dit een totaal aantal mensen betreft op de totale bevolking die aan de ziekte lijden maar die allemaal doorgaans slechts eenmaal behandeld worden en waarvan een groot deel dus al behandeld zal zijn. Het door Novartis berekende aantal van 135 eenheden ziet op de verwachte hoeveelheid patiënten die jaarlijks nog behandeld moet worden. Wat er overigens ook zij van de door partijen gemaakte verschillende berekeningen en precieze uitkomsten van de grootte van de patiëntenpopulaties aannemelijk is dat de ziekte van Paget aanzienlijk minder frequent voorkomt en behandeld hoeft te worden dan osteoporose.
+
+
+4.30 Op grond van het gehanteerde preferentiebeleid zal aan álle patiënten die bij VGZ verzekerd zijn en die zoledroninezuur 5mg/100ml voorgeschreven krijgen voor behandeling aan huis ongeacht de indicatie uitsluitend het Generieke Product (mogen) worden afgeleverd. Aangezien aangenomen moet worden dat de groep mensen die bij VGZ verzekerd is een representatieve afspiegeling is van de Nederlandse bevolking is de conclusie onontkoombaar dat het Generiek Product ook en zelfs in overgrote meerderheid zal worden voorgeschreven en afgeleverd voor de door conclusie 7 van het octrooi onder bescherming gestelde behandeling van osteoporose. 
+
+
+4.31 Niet in geschil is dat het door Sun aan groothandels (ter doorlevering aan apothekers) aangeboden en geleverde generiek 5mg/100 ml zoledroninezuur een wezenlijk bestanddeel is van de uitvinding volgens conclusie 7 van het octrooi. 
+
+
+4.32 Sun heeft onvoorwaardelijk ingeschreven op de tender van VGZ voor de levering van het Generieke Product ongeacht de indicatie waarvoor het zou worden gebruikt en zich verbonden ongelimiteerde hoeveelheden Generiek Product te leveren. Aldus was haar aanbod niet beperkt tot levering van het Generieke Product voor toepassing bij de ziekte van Paget maar strekte deze zich ook uit tot gebruik voor de behandeling van osteoporose. De e-mail die Sun nadien aan VGZ heeft gestuurd waarin zij er voor de duidelijkheid nog eens op heeft gewezen dat het Generieke Product uitsluitend voor de behandeling van de ziekte van Paget is en dat de indicatie osteoporose nog beschermd wordt door een octrooi van Novartis doet daar niet aan af nu zij aan die mededeling verder geen enkele consequentie verbindt ten aanzien van de door haar voordien aangegane onvoorwaardelijke en onbeperkte leveringsverplichting. 
+4.33 Gegeven het door VGZ gehanteerde preferentiebeleid is de conclusie tevens onontkoombaar dat het Generieke Product ook zal worden geleverd ten behoeve van en gebruikt voor de behandeling van osteoporose. Zoals Sun erkent wordt door artsen in het algemeen uitsluitend het werkzame bestanddeel voorgeschreven en zijn apothekers bovendien verplicht het aangewezen preferente product uit te leveren zelfs als Aclasta op merknaam is voorgeschreven (behoudens in het verwaarloosbaar aantal gevallen van medische noodzaak). Gelet op de verhouding van aantallen patiënten die lijden aan de ziekte van Paget enerzijds en die lijden aan osteoporose anderzijds is zo goed als uitgesloten dat het Generieke Product niet ook voor de laatste aandoening uitgeleverd en gebruikt wordt. Sun moest daarom weten dat haar product aan het einde van de verticale keten van verhandeling ook zal worden uitgeleverd voor de geoctrooieerde indicatie. Ook de verkoop van 142 eenheden van het Generieke Product over alleen al de maanden januari en februari 2014 maakt dat Sun moet inzien dat haar product met aan zekerheid grenzende waarschijnlijkheid ook wordt uitgeleverd en gebruikt voor de geoctrooieerde toepassing zelfs indien Sun in haar overigens niet onderbouwde stelling moet worden gevolgd dat zoledroninezuur 5mg/100ml nu vaker zou worden voorgeschreven dan voorheen omdat thans een goedkoper alternatief voorhanden is en ook indien het Generieke Product zou worden geëxporteerd zoals Sun heeft gesuggereerd maar evenmin heeft onderbouwd. Naar voorlopig oordeel is derhalve voldaan aan de voor het aannemen van indirecte inbreuk vereiste wetenschap bij Sun van inbreukmakend gebruik van het Generiek Product. 
+
+
+4.34 Sun heeft aangevoerd dat haar van een en ander geen verwijt kan worden gemaakt omdat dit de consequenties zijn van het door VGZ gehanteerde preferentiebeleid en van de door VGZ uitgeschreven tender die inschrijving onder voorwaarden (alleen voor gebruik bij de indicatie ziekte van Paget) niet toestond. Het hof is voorshands van oordeel dat dit Sun niet vrijpleit. Onder de gegeven omstandigheden waarin het voor Sun op voorhand duidelijk was dat de handelwijze van VGZ er onontkoombaar toe zou leiden dat het Generieke Product ook zou worden gebruikt voor osteoporose en dus voor de door het octrooi onder bescherming gestelde indicatie lag het op de weg van Sun om al het mogelijke in het werk te stellen om te voorkomen dat het Generieke Product zou worden uitgeleverd voor de behandeling van osteoporose waarmee inbreuk zou worden gemaakt op het octrooi van Novartis. Daarin is Sun tekortgeschoten. 
+
+
+4.35 Na sommatie door Novartis heeft Sun een e-mail gestuurd aan de groothandels (en ziekenhuisapotheken die rechtstreeks bij haar bestellen) met de navolgende inhoud:
+
+
+
+Geachte relatie
+
+
+Deze informatie betreft een formaliteit.
+
+
+Op advies van onze jurist wijzen wij u er op dat ons product Zoledroninezuur SUN 
+5mg/100ml Z-indexnummer: 15958264 door ons op de markt wordt gebracht momenteel alleen voor de behandeling van de ziekte van Paget is bestemd. Dit is ook de indicatie die wordt vermeld in de bijsluiter Zoledroninezuur SUN 5mg/100ml.
+
+
+Vooralsnog is de indicatie osteoporose niet opgenomen aangezien deze indicatie nog beschermd wordt door een patent van Novartis.
+
+
+Door de zending Zoledroninezuur SUN 5mg/100ml oplossing voor infusie te accepteren geeft u aan op de hoogte te zijn van bovengenoemde.
+
+
+
+Onder de gegeven omstandigheden was dat onvoldoende. Zij had ten minste (ook) duidelijk moeten maken dat het Generieke Product niet mocht worden voorgeschreven en geleverd voor de behandeling van osteoporose omdat daarmee inbreuk zou worden gemaakt op de octrooirechten van Novartis. Zij diende zich ervan te vergewissen dat effectieve maatregelen zouden worden genomen om ervoor te zorgen dat dit ook niet zou gebeuren. Door in plaats daarvan de e-mail aan te vangen met “Deze mededeling betreft slechts een formaliteit” heeft zij daarentegen juist de suggestie gewekt dat aan het feit dat het Generieke Product alleen is bestemd voor de behandeling van de ziekte van Paget en dat de indicatie osteoporose nog beschermd wordt door een octrooi van Novartis in de praktijk geen belang behoefde te worden gehecht en niet noopte tot enige maatregel.
+
+
+4.36 Sun heeft ook onvoldoende gemotiveerd gesteld dat zij er moeite voor heeft gedaan om VGZ ervan te overtuigen dat zij haar tender anders diende in te richten om inschrijving door Sun mogelijk te maken met respectering van de octrooirechten van Novartis bijvoorbeeld door de tender voor zoledroninezuur voor de toepassing van osteoporose enerzijds en voor de toepassing voor Paget anderzijds te scheiden. Indien VGZ voor dat argument ongevoelig zou zijn (geweest) en de wijze van inrichting van de tender het Sun onmogelijk zou maken daarop in te schrijven dan is dat een omstandigheid die Sun aan VGZ moet tegenwerpen. Het levert Sun evenwel niet een vrijbrief op om inbreuk te maken op octrooirechten van Novartis. 
+
+
+4.37 De slotsom is dat het hof voorshands van oordeel is dat Sun indirect inbreuk maakt op het Octrooi in de zin van art. 73 jo.70 ROW.
+
+
+
+De vorderingen
+
+
+
+4.38 Het door Novartis gevorderde indirecte inbreukverbod komt voor toewijzing in aanmerking. Het standpunt van Sun dat een dergelijk verbod in strijd zou zijn met het Nederlandse of Europese mededingingsrecht wordt verworpen. Vooropgesteld moet worden dat de vrijheid van Sun om haar Generieke Product aan te bieden en te leveren voor de behandeling van de ziekte van Paget door het door Novartis verzochte verbod om indirecte inbreuk te maken op haar octrooi niet wordt aangetast. Dat een dergelijk verbod er in de praktijk toe zou kunnen leiden dat de levering van het Generieke Product voor de behandeling van de ziekte van Paget wordt bemoeilijkt is een gevolg van de door VGZ gehanteerde wijze van vergoeding van geneesmiddelen aan haar verzekerden – zolang VGZ er voor zou kiezen het thans door haar gehanteerde preferentiebeleid onverkort toe te passen – en beperkt tot de verzekerden van VGZ. Het is niet een omstandigheid waarop Novartis enige invloed heeft of die aan haar valt toe te rekenen. Het opleggen van een algemeen verbod om indirecte inbreuk te maken is daarenboven niet te kwalificeren als een mededingingsrechtelijk ontoelaatbare ‘afspraak’ maar als de handhaving van een wettelijk monopolie door Novartis op grond van de aan haar toegekende octrooirechten. Dat Novartis misbruik maakt van een machtspositie door haar octrooirechten jegens Sun te handhaven is door Sun niet voldoende gemotiveerd gesteld. 
+
+
+4.39 De stelling van Sun voorts dat het opleggen van een algemeen verbod om indirect inbreuk te maken mogelijk executieperikelen zou opleveren is onvoldoende aanleiding om daarvan af te zien gegeven het gerechtvaardigde belang van Novartis om tegen indirecte inbreuk op haar octrooirechten op te treden. 
+
+
+4.40 De omstandigheid dat Novartis wellicht ook derden zou kunnen aanspreken op grond van directe inbreuk dan wel onrechtmatige daad zoals nog door Sun gesteld doet er niet aan af dat Novartis niet alleen het recht maar ook een gerechtvaardigd belang heeft om Sun aan te spreken op grond van indirecte inbreuk. Daarmee kan zij het inbreukmakend handelen verderop in het distributiekanaal – en daarmee verdere schade - effectief tegengaan. De stelling van Sun dat Novartis eerst (of alleen) alle afzonderlijke directe inbreukmakers zou moeten aanspreken teneinde haar schade te beperken kan niet als juist worden aanvaard. 
+
+
+4.41 Het tevens door Novartis gevorderde verbod om deel te nemen aan tenders en/of om overeenkomsten aan te gaan voor de levering van het Generieke Product indien niet uitsluitend beperkt tot de behandeling van de ziekte van Paget wordt afgewezen omdat daarbij Novartis geen afzonderlijk belang heeft. Uit hetgeen hiervoor is overwogen vloeit voort dat dergelijke handelingen van Sun onder omstandigheden – in het bijzonder indien niet tevens effectieve maatregelen zijn genomen om ervoor te zorgen dat verderop in het distributiekanaal geen inbreuk wordt gemaakt op de octrooirechten van Novartis – kunnen worden aangemerkt als indirecte inbreuk. Het algemene indirecte inbreukverbod volstaat derhalve. 
+
+
+4.42 Voor het door Novartis gevorderde gebod om administratie te houden van nog te verkopen Generiek Product en daarover verantwoording af te leggen ziet het hof geen aanleiding naast het algemene indirecte inbreukverbod. 
+
+
+4.43 Het gevorderde gebod een brief te zenden aan alle verzekeringsmaatschappen en ziekenhuizen die een tender hebben uitgeschreven of met wie een overeenkomst is gesloten voor de levering van Generiek Product zal worden toegewezen in de vorm zoals hierna geformuleerd. Bij een gebod tot toezending van een brief aan hen die nog een tender willen gaan organiseren of een overeenkomst willen gaan sluiten heeft Novartis gelet op de toewijzing van het algemene indirecte inbreukverbod geen belang om dezelfde redenen als hiervoor in r.o. 4.41 uiteengezet. 
+
+
+4.44 Het hof zal de gevorderde dwangsommen matigen tot een bedrag van € 5.000- per product waarmee en € 50.000- per dag (of gedeelte daarvan) waarop inbreuk wordt gemaakt en maximeren op een bedrag van € 5.000.000-. Voor de door Sun verzochte uitlooptermijn van 14 dagen om haar in de gelegenheid te stellen haar voorraad te exporteren ziet het hof geen aanleiding nu Sun de vrijheid behoudt haar Generiek Product op niet inbreukmakende wijze te verhandelen en export bovendien geen indirecte inbreuk in Nederland oplevert.” 
+
+
+1.22 Sun is tegen dit arrest tijdig in cassatie opgekomen. Novartis heeft verweer gevoerd.
+Partijen – die over en weer een proceskostenveroordeling op de voet van art. 1019h Rv hebben gevorderd – hebben hun standpunten schriftelijk doen toelichten en hebben bij re- en dupliek op elkaars standpunten gereageerd.
+
+
+
+2 Beoordeling van het cassatieberoep 
+
+2.1
+
+Het cassatieberoep omvat zes onderdelen en verschillende subonderdelen.
+
+Onderdeel 1 ziet op de geldigheid van het octrooi van Novartis en klaagt over het overeind houden van het prioriteitsberoep van Novartis.  
+
+Onderdelen 2-6 zijn gericht tegen overwegingen van het hof over de indirecte inbreukvraag. Deze kaarten de volgende onderwerpen aan: 
+volgens onderdeel 2 is niet aangegeven welke maatregelen Sun had moeten treffen om cross label gebruik (van haar Generieke Product voor de tweede medische indicatie osteoporose) te voorkomen – met een staart in onderdeel 5 over de effectiviteit van het opgelegde indirecte inbreukverbod;
+
+onderdeel 3 bevat een reeks klachten over beweerdelijke strijd met het mededingingsrecht en botsing met het grondrecht van vrijheid van ondernemerschap;
+
+onderdeel 4 regardeert het oordeel van het hof over door Sun aangedragen executieperikelen en
+
+onderdeel 6 bevat klachten over de opgelegde rectificatie.
+ 
+
+
+Prealabele punten 
+
+ 
+
+
+Indirecte inbreuk op Swiss-type claims?
+
+ 
+
+
+2.2
+Deze zaak is een kort geding. Inmiddels heeft de bodemrechter in eerste aanleg op 25 november 2015 een tussenvonnis gewezen7. Evenals het hof in kort geding oordeelt de bodemrechter in dit tussenvonnis dat Novartis voor conclusie 7 van EP 689 een beroep toekomt op de prioriteit van US 689. De bodemrechter oordeelt echter anders over de inbreukvraag en overweegt dat er van indirecte inbreuk op het octrooi van Novartis geen sprake is. De bodemrechter sluit echter niet uit dat er wel sprake is van directe inbreuk en heeft partijen – nu dit punt pas voor het eerst op de zitting in de bodemzaak door Novartis is onderbouwd – in de gelegenheid gesteld zich bij akte uit te laten over de vraag of Sun directe inbreuk op conclusie 7 van EP 689 kan worden verweten.  
+
+
+2.3
+Geïnspireerd door een uitspraak van 6 februari 2015 van de Engelse High Court (Arnold J)8 in de zaak Warner-Lambert v Actavis waarin werd geoordeeld dat octrooirechtelijk geen sprake kan zijn van indirecte inbreuk op een Swiss-type claim is in de bodemzaak voor het eerst aan de orde gekomen of indirecte inbreuk op een Swiss-type claim überhaupt – in octrooirechtelijke zin – wel mogelijk is. Over deze interessante vraag over de beschermingsomvang van Swiss-type claims wordt in Europa verschillend gedacht9. In het onderhavige kort geding is dit aspect echter noch in feitelijke instanties10 noch in cassatie11 aan de orde gesteld. Daarom moet in onze zaak volgens mij uitgangspunt zijn dat indirecte inbreuk op een Swiss-type claim op zichzelf juridisch mogelijk is12.   
+
+
+Geen belang o.g.v. afstemmingsregel?
+
+ 
+
+
+2.4
+Anders dan Sun bij s.t. 2.4 heeft gesteld brengt de afstemmingsregel13 niet mee dat Uw Raad in dit kort geding zijn oordeel dient af te stemmen op de beslissing van de bodemrechter (dat geen sprake is van indirecte inbreuk). De taak van de Hoge Raad is immers beperkt tot het toetsen van de bestreden uitspraak ex tunc14; een herbeoordeling van de vordering vindt in cassatie niet plaats15.  
+
+
+2.5
+Over de cassatieklachten van Sun over de prioriteitstoets (onderdeel 1) heeft Novartis bij s.t. 5.12 gesteld dat Sun geen belang heeft bij deze klachten omdat ook indien Uw Raad het hofarrest op dit punt zou vernietigen een verwijzingshof met toepassing van de afstemmingsregel16 - in lijn met het vonnis van de bodemrechter - tot het oordeel moet komen dat Novartis een beroep op prioriteit van US 689 toekomt. Ook dat lijkt mij niet juist. Op voorhand kan immers niet worden uitgesloten dat op het moment dat een verwijzingshof over de zaak zou moeten oordelen een bodemrechter in hoger beroep inmiddels in andere zin heeft beslist. Sun heeft zodoende belang bij de klachten van onderdeel 117.  
+
+
+Onderdeel 1: Geldigheid; prioriteit van US 689
+
+ 
+
+
+2.6
+
+
+Onderdeel 1 dat bestaat uit twee subonderdelen is gericht tegen het oordeel van het hof dat Novartis beroep kan doen op prioriteit van US 68918 (rov. 4.1 t/m 4.8). 
+
+Subonderdeel 1.1 bevat de rechtsklacht dat het hof een onjuiste want te rekkelijke maatstaf heeft gehanteerd die niet strookt met de strikte wijze waarop de prioriteitstest door de GKB van het EOB wordt toegepast. Het subonderdeel voert aan dat het hof (in rov. 4.1 en voetnoot 2) weliswaar de correcte maatstaf heeft genoemd maar deze vervolgens in zijn beoordeling weer heeft losgelaten althans op een rekkelijke en daarmee onjuiste wijze heeft toegepast.      
+
+Subonderdeel 1.2 richt motiveringsklachten tegen het oordeel van het hof dat de gemiddelde vakman gebruikmakend van zijn algemene vakkennis de in conclusie 7 van het octrooi (hiervoor weergegeven in 1.6 en in vertaling in 1.7) geclaimde uitvinding uit US 689 direct en ondubbelzinnig kan afleiden. Het subonderdeel klaagt dat het hof niet is ingegaan op de essentiële stelling van Sun dat het prioriteitsdocument betrekking heeft op een reeks verschillende aandoeningen met een abnormaal verhoogde botafbreuk terwijl de vakman in dat document geen aanwijzing krijgt voor de behandeling van welke aandoeningen het doseringsbereik van 2-10 mg één keer per jaar geschikt zou zijn. Daarom is geen sprake van een directe en ondubbelzinnige openbaring dat die dosering bedoeld is voor de behandeling van osteoporose (plta Sun eerste aanleg 91-99 MvA 36-40 en 90 en plta Sun appel 53-63). Deze twee klachten kunnen tezamen worden behandeld.
+ 
+
+
+2.7
+De GKB heeft in G 2/9819 de volgende maatstaf gegeven voor de disclosure-test bij de beoordeling van de vraag of een prioriteitsdocument dezelfde uitvinding openbaart als geclaimd in het octrooi dat die prioriteit inroept:  
+
+“The requirement for claiming priority of “the same invention” referred to in Article 87(1) EPC means that priority of a previous application in respect of a claim in a European patent application in accordance with Article 88 EPC is to be acknowledged only if the skilled person can derive the subject-matter of the claim directly and unambiguously using common general knowledge from the previous application as a whole.” (cursivering A-G)
+ 
+
+Het hof diende dus te beoordelen of het prioriteitsdocument in zijn geheel beschouwd de geclaimde uitvinding direct en ondubbelzinnig openbaart aan de gemiddelde vakman die daarbij gebruik maakt van zijn algemene vakkennis. Dat dit de juiste maatstaf is en het hof deze maatstaf op zichzelf ook voor ogen heeft gehad staat als ik de cassatiedagvaarding goed begrijp in cassatie niet ter discussie20. 
+ 
+
+
+2.8
+Ik zie niet dat het hof heeft miskend dat dit een strikt criterium21 is dat zich niet leent voor rekkelijke toepassing; daarmee gaat de klacht uit subonderdeel 1.1 niet op dat voor zover het hof dat wel heeft miskend er is uitgegaan van een onjuiste maatstaf. Voor zover met het woord “losgelaten” in subonderdeel 1.1 is bedoeld te klagen dat het hof weliswaar “formeel” de juiste maatstaf vooropstelt maar vervolgens in feite een onjuiste maatstaf toepast of dit verkeerd (namelijk te rekkelijk) invult lijkt mij dàt niet kloppen. Uit rov. 4.1 in combinatie met rov. 4.3 (hiervoor weergegeven in 1.21) volgt naar ik meen dat het hof wel de juiste strikte maatstaf goed in het vizier heeft. Het hof onderzoekt in rov. 4.4-4.5 wat de gemiddelde vakman (het team uit rov. 4.2) met diens algemene vakkennis uit rov. 4.5 in de visie van het hof direct en ondubbelzinnig afleidt uit US 689 (rov. 4.8). Dat volgt op zich de juiste maatstaf. 
+
+
+2.9
+Het middel lijkt een poging te doen om deze maatstaf (nog) strenger te maken door er in te vlechten dat “directe en ondubbelzinnige openbaring” betekent “dat aan de evidentie daarvan geen enkele twijfel mogelijk is”. Dat is althans een interpretatie van de prioriteitstoets die mogelijk te strikt kan uitpakken22. De openbaring moet tenminste impliciet zijn – en hoeft dus niet expliciet te zijn23. Waar het om gaat is dat voor de octrooirechtelijke maatman – dat wil zeggen de juridische fictie in de vorm van de gemiddelde vakman op het betreffende technische terrein (de constructie kan ook een “team” zijn zoals in onze zaak vgl. rov. 4.2) zelf zonder inventiviteit en creativiteit maar wel behebt met een encyclopedische algemene vakkennis – duidelijk en ondubbelzinnig moet volgen dat wat wordt geclaimd in de conclusie ook wordt geopenbaard in het prioriteitsdocument; dat het dus om dezelfde uitvinding gaat (vgl. art. 87 (1) EOV). Daar mogen best denkstappen in zitten en gevolgtrekkingen die de tekst van het prioriteitsdocument de gemiddelde vakman laat maken (en het mag dus in die zin impliciet worden geopenbaard) omdat hij nu eenmaal die algemene vakkennis als bagage heeft24; hij kan tot conclusies komen die een niet-vakman bij lezing van het priorteitsdocument vanwege het ontbreken van die vakkennis mogelijk niet zou maken. Dat is wat het hof bij de toepassing van de prioriteitstoets in rov. 4.2 t/m 4.8 in wezen doet in onze zaak: hoe leest de gemiddelde vakman de relevante tekst uit het prioriteitsdocument door de bril van zijn algemene vakkennis en hoe combineert hij delen uit het document en legt hij daar verbanden tussen het document in zijn geheel tot zich nemend? Voor zover met “rekkelijke toepassing” in subonderdeel 1.1 wordt bedoeld dat het hof de gemiddelde vakman denkstappen laat zetten en gevolgtrekkingen laat maken (“verwachten van een zekere range” het “zien van een zekere mate van extrapolatie”) is dat op zich geen rekkelijkheid van de prioriteitstoetstoepassing zoals de klachten poneren maar vormt dat het opzetten van de vakkennisbril van de gemiddelde vakman en “proeven” wat er dan voor die vakman nu werkelijk (deels mogelijk impliciet maar niettemin direct en ondubbelzinnig voor hem als vakman) in het prioriteitsdocument staat. Dit lijkt mij cassatie-technisch naar Nederlands octrooirecht een goeddeels feitelijke aangelegenheid. De invulling of toepassing door het hof van de prioriteitstoets in concreto is namelijk verweven met waarderingen van feitelijke aard zodat deze daarom in cassatie maar in beperkte mate toetsbaar is. Voor uitleg van octrooien en het vaststellen van de beschermingsomvang daarvan is dat onlangs weer bevestigd in Bayer/Sandoz25. Er is geen aansprekende reden om aan te nemen dat voor de uitleg van een prioriteitsdocument als hier aan de orde een andere benadering zou gelden naar huidig Nederlands octrooirecht. 
+
+
+2.10
+
+Voor een verdere beschouwing of hier niet toch sprake is van een in wezen verkeerde maatstaf die het hof aanlegt zoals onderdeel 1.1 aankaart is het goed ons te realiseren dat de hier bedoelde vraag of een prioriteitsdocument aan de gemiddelde vakman dezelfde uitvinding openbaart als geclaimd in het octrooi (art. 87(1) EOV) eenzelfde vraag is met eenzelfde toets als de vraag of sprake is van vóór verlening toegevoegde materie ten opzichte van de oorspronkelijk geopenbaarde aanvrage (art. 123(2) jo. 138 (1)(c) EOV art. 75(1)(c) ROW 1995) en in iets mindere mate26 ook de vraag of sprake is van nieuwheid (art. 54 EOV art. 4 ROW 1995). Daar is een uitgebreide “body” van rechtspraak over voorhanden van rechtsprekende instanties van het EOB. Het is behulpzaam daar kennis van te nemen zoals door de octrooirechters in landen aangesloten bij het EOV in hun respectievelijke nationale rechtspraak ook veelvuldig pleegt te gebeuren (terecht en op diverse octrooirechtelijke terreinen). In G2/10 overwoog de GKB dat voor prioriteit toegevoegde materie en nieuwheid één en dezelfde disclosure-test geldt  (punt 4.6 van de Reasons): 
+“(...) the structural relationship established in the EPC based on the first-to-file system between the provisions defining the state of the art and their impact on patentability the substantive requirements for validity claiming a priority (concept of the same invention) or for the filing of divisional applications and for the right to amend the application. It is vital that a uniform concept of disclosure is applied in all these respects and that the rights of an applicant are uniformly determined in all these contexts as extending to but at the same time being limited to the disclosure made at the relevant point in time.”27
+ 
+
+Er is dus volgens deze in het Europese octrooirecht gezaghebbende rechtspraak uit München in principe maar één disclosure-test voor nieuwheid prioriteit en toegevoegde materie – met een zekere nuancering voor de nieuwheidstest zoals we hebben gezien. 
+ 
+
+
+2.11
+
+Uit de disclosure-test bij nieuwheid is bekend dat het combineren van separate elementen uit één document om te komen tot gecombineerde nieuwheidsschadelijkheid alleen mogelijk is in twee gevallen (en daarbuiten dus niet is toegestaan en niet tot nieuwheidsschadelijkheid leidt): 1) die combinatie volgt ondubbelzinnig uit het geanalyseerde stuk uit de stand van de techniek of 2) de gemiddelde vakman “would incontestably infer that particular combination from the document as a whole” (vgl. EPO Guidelines C-IV 9.1). In een geval waarin een stuk uit de stand van de techniek twee of meer lijsten van producten of processen bevat is er bijvoorbeeld geen nieuwheidsschadelijke anticipatie als er vervolgens geselecteerd moet worden uit meer dan één lijst om tot de geclaimde uitvinding te kunnen komen28.  
+Uit de disclosure-test bij toegevoegde materie is bekend dat zogenoemde intermediate generalisation niet is toegestaan. Daarbij wordt de oorspronkelijke conclusie beperkt door daarin een technisch kenmerk op te nemen uit een uitvoeringsvoorbeeld. Dat kan veralgemenisering opleveren van een kenmerk buiten de oorspronkelijk geopenbaarde context en dat is niet de bedoeling29. In de woorden van Blomme (a.w. p. 208): het gaat om gevallen waarin selectief andere kenmerken van een bepaald uitvoeringsvoorbeeld of een bepaalde openbaarmaking worden weggelaten in de gewijzigde conclusie.
+ 
+
+
+2.12
+
+Keren wij terug naar de disclosure-test toepassing door het hof in het bestreden arrest. Ik geef toe dat het hof hier de grenzen lijkt op te zoeken maar van een rechtens verkeerde maatstaf aanleggen is volgens mij geen sprake en van het passeren van essentiële stellingen evenmin. 
+Teruggrijpend op het wel toegestane combineren van elementen uit de disclosure-test bij nieuwheid van zo-even uit München: dat leest op wat het hof hier doet in onze zaak; vertaald naar die test: volgens het hof zou door de gemiddelde vakman die combinatie incontestably worden infered from the document as a whole. De concrete invulling zelf is feitelijk.
+Een blik op de toegevoegde materie disclosure-test vervolgens: is er sprake van verboden intermediate generalisation zoals Sun bij s.t. 1.15-1.18 aandraagt30? Ik denk het niet. Het hof geeft in zijn motivering in rov. 4.5 t/m 4.7 aan waarom de vakman hier “een zekere mate van extrapolatie” ziet van voorbeeld 531 in het algemene gedeelte mede gelet op zijn algemene vakkennis. De denklijn is hetzelfde in het inmiddels voorhanden tussenvonnis van de rechtbank in de bodemzaak – in rov. 4.18 en 4.19 van dit bodemvonnis wordt expliciet onderschreven wat het hof heeft overwogen in ons kort geding. Het bodemoordeel illustreert nog scherper – aan de motivering in kort geding kunnen minder hoge eisen worden gesteld32 – hoe de klaarblijkelijk ook door het hof in kort geding gevolgde gedachtegang hier loopt over die “zekere mate van extrapolatie” uit voorbeeld 5 (vgl. rov. 4.21-4.27 uit het tussenvonnis in de bodemzaak33): op grond van de klinische studie uit voorbeeld 5 met zoledroninezuur met osteoporosepatiënten en zijn algemene vakkennis zal de vakman verwachten dat een zekere range rondom 4 mg uit die studie als jaardosering werkzaam zal zijn want de werkzame dosis van bisfosfonaten is afhankelijk van verschillende factoren en voorbeeld 5 laat ook verschillende doseringen met verschillende intervallen zien die werken. Dat is geen combinatie van verschillende los van elkaar staande elementen uit het prioriteitsdocument (zoals hiervoor aangegeven in de disclosure-test bij nieuwheid niet is toegestaan zo voeg ik daar aan toe). Ook ziet de vakman in US 689 dat meer potente bisfosfonaten zoals het met name genoemde zoledroninezuur werkt in een doseringsrange van 2 tot 10 mg. Dus als de vakman ermee bekend dat een werkzame dosis van bisfosfonaten zoals zoledroninezuur multifactor-afhankelijk is en op zoek gaat naar een werkzame range dan ligt de combinatie met precies die 2 tot 10 mg voor het oprapen waarbij verwacht kan worden dat een dergelijke range die zo dicht rond de 4 mg zit effectief zal zijn. De koppeling met intraveneuze toediening legt de vakman al vanuit zijn algemene vakkennis dat zoledroninezuur altijd intraveneus wordt toegediend. Dat alles is geen uitsluitend uit dit voorbeeld putten en veralgemeniseren of selectief kenmerken uit het uitvoeringsvoorbeeld weglaten wat verboden intermediate generalisation zou opleveren zo voeg ik daar aan toe. Anders gezegd: dat levert geen veralgemenisering op in conclusie 7 buiten de in het prioriteitsdocument geopenbaarde context om zoals (cassatie-technisch feitelijk) begrepen door het hof. Het is ook niet zo dat er nooit kenmerken uit een voorbeeld mogen worden geëxtrapoleerd naar kenmerken die in een algemenere context zijn geopenbaard. Dat hangt er maar van af zie bijvoorbeeld T 962/9834 (door Sun bij s.t. onder 1.15 overigens aangehaald ter onderbouwing dat het hof hier juist wel over de schreef zou zijn gegaan maar ik heb hiervoor betoogd dat daarvan geen sprake is naar mijn inzicht):
+
+
+
+
+“The Board does not exclude that there may exist situations where some characteristics taken from a working example may be combined with other features disclosed in a more general context without necessarily creating an objectionable intermediate generalisation. However under Art. 123(2) EPC 1973 such an intermediate generalisation is only admissible if the skilled person can recognise without any doubt from the application as filed that those characteristics are not closely related to the other characteristics of the working example and apply directly and unabiguously to the more general context. In other words in order to be acceptable this intermediate generalisation must be the result of unambiguous information that a skilled person would draw from a review of the example and the content of the application as filed.”
+ 
+
+Het lijkt mij dat het hof meent dat hier sprake is van zo’n geval van “geen twijfel mogelijk dat de vakman dit zo deduceert”. Dat daar feitelijk mogelijk ook anders over gedacht kan worden moge zo zijn maar dat is aan de rechter die over de feiten oordeelt. 
+ 
+
+
+2.13
+Nog iets specifieker over de motiveringsklacht van subonderdeel 1.2: het passeren van een essentiële stelling van Sun doordat het hof eraan voorbij gaat dat de onduidelijkheid in de laatste paragraaf op p. 8 - doorlopend op p. 9 van US 68935 niet alleen betrekking heeft op het verband tussen het doseringsbereik en de toedieningswijze(n) maar ook op het verband tussen het doseringsbereik en de specifiek te behandelen aandoening(en) omdat de 2-10 mg één keer per jaar niet direct en ondubbelzinnig is geopenbaard voor osteoporose. Uit de voorgaande uiteenzetting volgt al dat ik denk dat dat niet opgaat. Het hof komt voor de vakman tot “een zekere extrapolatie” vanuit voorbeeld 5. In rov. 4.4 (en nog een keer in rov. 4.9 waar het hof in rov. 4.4 ook naar verwijst) overweegt het hof dat de gemiddelde vakman uit dat voorbeeld zal begrijpen dat eenmalige intraveneuse toediening van 4 mg zoledroninezuur 12 maanden werkzaam is bij de behandeling van postmenopauzale osteoporose. Het hof heeft hiermee de stelling van Sun dat geen sprake is van een directe en ondubbelzinnige openbaring dat de genoemde dosering bedoeld is voor de behandeling van osteoporose (impliciet) verworpen. Ik heb al aangegeven dat dat volgens mij geen ongeoorloofde veralgemnisering uit een uitvoeringsvoorbeeld oplevert of ongeoorloofde combinatie van niet verbonden elementen uit US 689 en dat het hof in dit kort geding niet gehouden was dit nog nader te motiveren. Uit titel en abstract van US 689 is ook duidelijk dat het prioriteitsdocument het vizier met een zekere nadruk ook mede heeft gericht op de behandeling van osteoporose. Van het passeren van bedoelde essentiële stelling is zodoende geen sprake. 
+
+
+2.14
+
+Het is intussen wel een beslispunt onderdeel 1. Hoewel uitleg feitelijke materie is is er een kleine mogelijkheid dat het hof in de ogen van Uw Raad hier kennelijk de grens is overgegaan van de strikte disclosure-test door selectief te veralgemeniseren buiten de in het prioriteitsdocument geopenbaarde context om of omdat het hof niet kon menen dat de vakman incontestably deze combinatie van elementen uit het prioriteitsdocument zou maken en/of omdat dit een geval van intermediate generalisation oplevert. De denklijn van het hof is dan de strikte prioriteitstoets te buiten gegaan en die komt dan neer op een soort “hindsight”-redenering met name door de wijze van combineren van kenmerken uit voorbeeld 5 met elementen uit de algemene beschrijving (zoals Sun bij s.t. 1.14 aankaart maar daar volgens mij over het hoofd ziet dat ’s hofs redenering zwaar leunt op “inlezen” gevoed door algemene vakkennis die de gemiddelde vakman met zich meedraagt). Dan zou de rechts- en/of motiveringsklacht uit onderdeel 1 opgaan.
+Ik houd het erop dat het hof op de aangegeven wijze binnen de te stellen kaders is gebleven en dat dat is hoe ver de cassatiecontrole hier reikt naar huidig Nederlands octrooirecht. 
+ 
+
+
+Onderdeel 2: Indirecte inbreuk; effectieve maatregelen tegen cross label gebruik
+
+ 
+
+
+2.15
+
+Onderdeel 2.1 richt een aantal motiveringsklachten tegen rov. 4.33 t/m 4.35 en 4.41 waarin het hof komt tot indirecte octrooi-inbreuk door Sun.  
+
+
+2.16
+Deze klachten raken aan het probleem dat het octrooisysteem niet adequaat lijkt toegerust voor de bescherming van tweede medische indicaties en dat men er met carve outs als zodanig nog niet is mede gelet op het regulatoire framewerk voor geneesmiddelen. Het hof heeft dit in deze zaak kennelijk willen ondervangen via indirecte inbreuk36.  
+
+
+2.17
+De ROW 1995 regelt indirecte inbreuk in art. 73 lid 137: 
+
+De octrooihouder kan de vorderingen die hem ten dienste staan bij de handhaving van zijn octrooi instellen tegen iedere persoon die in Nederland Curaçao of Sint Maarten in of voor zijn bedrijf middelen betreffende een wezenlijk bestanddeel van de uitvinding aan anderen dan hen die krachtens de artikelen 55 tot en met 60 (http://maxius.nl/rijksoctrooiwet-1995/artikel55/) tot toepassing van de geoctrooieerde uitvinding bevoegd zijn aanbiedt of levert voor de toepassing van de geoctrooieerde uitvinding in Nederland Curaçao of Sint Maarten een en ander mits die persoon weet dan wel het gezien de omstandigheden duidelijk is dat die middelen voor die toepassing geschikt en bestemd zijn.
+ 
+
+Dit artikel is ontleend aan art. 30 lid 1 Gemeenschapsoctrooiverdrag38 welk verdrag uiteindelijk niet in in werking is getreden maar er wel toe heeft geleid dat het materiële octrooirecht van de landen die het verdrag getekend hebben op punten vrijwillig is geharmoniseerd naar die verdragsregeling39. Dat is ook gebeurd voor indirecte inbreuk. Benyamini schreef over de indirecte inbreukbepaling uit het Gemeenschapsoctrooiverdrag het volgende40:
+ 
+
+“In fact a provision on indirect infringement is vital for the protection of the patentee against direct infringers; it enables him to prevent the violation of his rights by taking a single action against the source of the infringement where it is impractical to locate or sue numerous direct infringers who may act on a small scale privately or secretly.” 
+ 
+
+
+2.18
+
+Voor een geslaagd beroep op indirecte octrooi-inbreuk moet volgens de tekst van art. 73 lid 1 ROW 1995 sprake zijn van:
+a)	het aanbieden of leveren van een wezenlijk bestanddeel van de uitvinding aan anderen dan die tot toepassing van de geoctrooieerde uitvinding bevoegd zijn (hierna: het wezenlijk bestanddeel-vereiste);
+b)	terwijl de aanbieder of leverancier weet dan wel het gezien de omstandigheden duidelijk is dat die middelen voor die toepassing geschikt en bestemd zijn.
+ 	(hierna: het wetenschapsvereiste).
+ 
+
+
+2.19
+Het hof heeft in rov. 4.31 (onbestreden) vastgesteld dat niet in geschil is dat aan het wezenlijk bestanddeel-vereiste wordt voldaan. Op dit vereiste zal ik daarom hier niet nader ingaan41. Wel is uitgebreid gedebatteerd over het wetenschapsvereiste. 
+
+
+2.20
+In de memorie van toelichting van de ROW 1995 staat over het wetenschapsvereiste42 onder meer het volgende43: 
+
+“Wat het de leverancier te maken verwijt betreft hiervoor is voldoende dat uit de omstandigheden duidelijk aard en bestemming van de aangeboden of geleverde middelen blijkt. (…)
+ 
+
+Er moet dus bij de leverancier een zekere kennis aanwezig zijn omtrent de geschiktheid en de bestemming van de middelen alsmede omtrent het geoctrooieerd zijn van de uitvinding. Aan de andere kant wordt bewijslast op dit punt voor de octrooihouder enigszins verlicht doordat van hem niet het bewijs wordt gevergd dat de leverancier wetenschap op deze punten had; de octrooihouder kan volstaan met het lichtere bewijs dat een en ander duidelijk uit de omstandigheden volgde. Hierdoor is een systeem bereikt waarbij met de belangen zowel van de octrooihouder als van de leverancier is rekening gehouden.”  
+ 
+
+
+2.21
+In zaken waarin de vraag aan de orde is of (indirecte) inbreuk wordt gemaakt op een octrooi op een tweede medische indicatie wordt vaak zoals ook in onze zaak44 door de beweerde inbreukmaker aangevoerd dat aan het CBG is verzocht om de geoctrooieerde indicatie uit de SmPC en de bijsluiter van het product te verwijderen. Men spreekt in dit verband wel van een carve-out of van skinny labelling45. Het probleem dat zich vervolgens in de praktijk manifesteert is cross-label gebruik; dat is behandeling van de tweede medische indicatie met het generieke product en vaak is juist dat laatste alleen commercieel interessant – maar intrinsiek octrooirechtelijk problematisch. 
+
+
+2.22
+Een werkgroep van de Nederlandse groep van AIPPI (VIE46) concludeerde in 2014 dat een carve-out niet per definitie met zich brengt dat niet aan het wetenschapsvereiste is voldaan en er van (indirecte) inbreuk geen sprake kan zijn. De werkgroep constateerde47: 
+
+“Overall the Dutch group feels that skinny labelling should not be the end of the discussion. All merits of the case should be taken into account in order to assess how likely it is that the generics know or should have known that their generic drugs will be used for the patent indication despite a carve out. (…)
+ 
+
+When assessing whether the requirements of direct infringement indirect infringement and/or civil tort have been met the court should take all relevant facts into account. The Summary of Product Characteristics (SmPC) and patient information leaflet (PIL) will normally be taken into account. The court may also take other factors into account such as advertising materials market information and any acts the generic may or may not have taken to prevent the generic drug being sold delivered or used for the patented use. (…)
+ 
+
+Offering or supplying the generic version of a drug for a non-patented use whilst knowing that the medical practitioners will (also) use the drug for an application protected by a second medical use patent can constitute infringing acts if the alleged infringer knows or it is evident considering the circumstances that the drug is suitable and intended for the patented use. The burden of proof for the existence of such facts and circumstances lies with the patentee. (…)
+ 
+
+When trying to prove that the medicine is likely to be used for the patented indication despite carve outs in the SmPC and/or the PIL presumably Dutch courts may find patent infringement if the patentee can – amongst others – substantiate the following circumstances: 
+− internal documents of the generic company revealing their intention; 
+− the relative size of the markets for the different indications in relation to the number of sales of a medicine; 
+− the likelihood of cross-label prescriptions; 
+− lack of steps taken by the generic company and/or insurance companies to prevent patented use.” 
+ 
+
+
+2.23
+Uit de resolutie Q238 die AIPPI op 17 september 2014 tijdens het World Intellectual Property Congres in Toronto heeft aangenomen blijkt dat ook op mondiaal niveau wordt aangenomen dat “skinny labelling” niet per definitie met zich brengt dat er geen sprake kan zijn van (indirecte) inbreuk. De (indirecte) inbreukvraag moet volgens deze resolutie steeds worden beoordeeld aan de hand van de omstandigheden van het geval48: 
+
+“9) The fact that a pharmaceutical does not contain label instructions specifying the patented second medical use should not per se exclude the finding of infringement of a patent for the second medical use. In particular: 
+ 
+
+a) Offering selling or promoting a pharmaceutical for a patented second medical use but without label instructions for such use as well as placing such pharmaceutical on the market with concomitant references to such second medical use by means other than the label instructions should constitute infringement; 
+ 
+
+b) Whether or not other acts directed to putting a pharmaceutical without label instructions for a patented second medical use to such use amount to infringement should be assessed on a case-by-case basis taking into account factors such as: 
+ 
+
+i. the intent of the alleged infringer; 
+ii. knowledge of the uses of the pharmaceutical by the alleged infringer or whether such uses are obvious in the circumstances; 
+iii. the ability to identify the uses to which the pharmaceutical is put; 
+iv. the labelling of the pharmaceutical including whether the label is mandated to include any reference to carved out indications; 
+v. any marketing or promotional activity carried out by the alleged infringer; 
+vi. any steps taken by the alleged infringer to discourage/encourage infringing use; 
+vii. economic conditions of the relevant market including the relative sizes of the markets for the different uses and the volume of the allegedly infringing pharmaceutical; 
+viii. prescription practices of relevant professionals including whether the prescribed use is conveyed to the person who chooses the particular pharmaceutical to be administered; and 
+ix. dispensing practices including regulatory provisions aimed at generic substitution.” 
+ 
+
+
+2.24
+In onze zaak overwoog het hof in rov. 4.32 en 4.33 dat Sun – ondanks de carve-out – gelet op de omstandigheden van het geval – te weten i) het door VGZ gehanteerde preferentiebeleid ii) de onvoorwaardelijke en onbeperkte leveringsverplichting die Sun in dit kader is aangegaan iii) de werkwijze van artsen en apothekers en iv) de verhouding tussen het aantal patiënten dat lijdt aan de ziekte van Paget enerzijds en het aantal patiënten dat lijdt aan osteoporose anderzijds – moest weten dat haar product aan het einde van de verticale keten van verhandeling ook zou worden uitgeleverd en gebruikt voor de geoctrooieerde toepassing. Op deze invulling van het wetenschapsvereiste laat Sun motiveringsklachten los maar die zie ik niet opgaan. Het op deze pijlers gefundeerde wetenschapstoerekeningsoordeel dat aansluit bij wat in AIPPI-kringen aan consensus hieromtrent groeit blijft in mijn optiek overeind. 
+
+
+2.25
+De eerste motiveringsklacht van onderdeel 2.1 dat het hof niet aangeeft welke effectieve maatregelen Sun zou hebben moeten treffen mist feitelijke substantie omdat het hof dat in rov. 4.35 en 4.36 wel doet49: de e-mail die Sun na sommatie door Novartis aan de groothandels heeft gestuurd was onder de gegeven omstandigheden onvoldoende; Sun had volgens het hof tenminste (ook) duidelijk moeten maken dat het Generieke Product niet mocht worden voorgeschreven en geleverd voor de behandeling van osteoporose omdat daarmee inbreuk zou worden gemaakt op de octrooirechten van Novartis en zij had zich ervan moeten vergewissen dat effectieve maatregelen tegen cross label gebruik zouden worden genomen (rov. 4.35). In de derde plaats heeft Sun volgens het hof (rov. 4.36) onvoldoende gesubstantieerd dat zij moeite heeft gedaan om VGZ ervan te overtuigen dat zij haar tender anders diende in te richten om inschrijving door Sun mogelijk te maken met respectering van de octrooirechten van Novartis. Dat volstaat ruimschoots in kort geding. Voor zover de klachten veronderstellen dat de maatregelen de inbreuk geheel zouden moeten kunnen voorkomen om effectief te zijn lijkt mij dat een onjuiste rechtsopvatting omdat volgens mij voldoende is dat de maatregelen de inbreuk bemoeilijken en het cross label gebruik ernstig wordt ontraden. Hier valt een parallel te trekken met de Pirate Bay-uitspraak50 van Uw Raad waarin het ging om de effectiviteit van blokkeringsmaatregelen die van internetproviders kunnen worden verlangd om auteursrechtinbreuken tegen te gaan. Dat is wel een ander IE-rechtsgebied maar de in deze zaak geformuleerde regel leent zich naar mij wil voorkomen voor overeenkomstige toepassing in onze zaak51.  
+
+
+
+
+2.26
+De tweede motiveringsklacht behelst dat het hof essentiële stellingen van Sun heeft gepasseerd die inhouden dat het niet in haar macht ligt om cross label gebruik te voorkomen: het voorschrijven van een geneesmiddel is een zaak van de arts en Sun kan niet nagaan en/of beïnvloeden wat er na de levering van haar aan de groothandels en apothekers met haar product gebeurt (MvA 172-182 en plta Sun appel 46). Dat maakt het oordeel dat Sun is tekortgeschoten in haar inspanningsplicht om cross label gebruik te voorkomen onbegrijpelijk volgens de vervolgklacht en daarmee heeft het hof zich van de door Sun genoemde moeilijkheden danwel onmogelijkheden op dit punt ten onrechte geen rekenschap gegeven en valt niet in te zien dat Sun kan worden aangesproken op gedrag van derden. Ook deze klachten falen volgens mij. Sun wordt niet aangesproken op het gedrag van derden. Dragend is de redenering van het hof dat nu het voor Sun op voorhand duidelijk was dat de handelwijze van VGZ onontkoombaar zou leiden tot cross label gebruik het op de weg van Sun lag al het mogelijke in het werk te stellen om te voorkomen dat het Generieke Product zou worden uitgeleverd voor de behandeling van osteoporose waarmee inbreuk zou worden gemaakt op het octrooi van Novartis (rov. 4.34). Uit “al het mogelijke” volgt al dat het hof zich er wel rekenschap van geeft dat het niet volledig in de macht van Sun ligt om cross label gebruik te voorkomen en dat het onmogelijke niet van haar kan worden gevergd. Uit rov. 4.33 blijkt anders dan de klacht op dit punt wil dat het hof rekening heeft gehouden met het voorschrijfgedrag van artsen en het aflevergedrag van apothekers52. Sun had zich volgens het hof ervoor moeten inspannen dat VGZ onderscheid naar indicatie zou maken; Novartis heeft betoogd dat daar ruimte voor bestond in de tenderprocedure (vgl. plta appel 96 e.v.) Hierop stranden de motiveringsklachten van subonderdeel 2.1. 
+
+
+Onderdeel 3: Verbod; strijd met het mededingingsrecht en het grondrecht van vrijheid van ondernemerschap
+
+ 
+
+
+2.27
+
+Onderdeel 3 is gericht tegen rov. 4.38 waarin de “Euro-defense” van Sun wordt verworpen dat toewijzing van een verbod van indirecte octrooi-inbreuk in deze zaak neerkomt op strijd met het Nederlandse of Europese mededingingsrecht. Het heeft zes subonderdelen. In de kern klaagt het onderdeel dat het hof hiermee heeft miskend dat Sun door het indirecte inbreukverbod ook wordt beperkt in de haar toegestane vermarkting van haar Generieke Product voor de behandeling van de ziekte van Paget. Subonderdelen 3.1-3.3 voeren aan dat het hof de consequenties van het indirecte inbreukverbod voor Sun miskent omdat het haar vrijheid om te leveren voor Paget aantast. Subonderdelen 3.4-3.6 kaarten aan dat het hof de grenzen van octrooihandhaving uit het oog verliest. 
+
+
+2.28
+Ik teken om te beginnen aan dat een zekere spanning tussen de belangen van octrooihouders en leveranciers eigen is aan het concept van indirecte octrooi-inbreuk (vgl. ook Novartis s.t. 7.5-7.7). Dat is ook door de wetgever onderkend. Over de afweging tussen deze belangen valt in de wetsgeschiedenis dit te lezen53: 
+
+“De leverancier in het bijzonder als hij te goeder trouw is moet een zekere bescherming genieten in die zin dat zijn handelsactiviteiten niet onnodig worden belemmerd. Deze bescherming mag echter niet weer zover gaan dat de belangen van de octrooihouder te zeer in het gedrang komen. (...) De leverancier maakt zich daarom volgens het eerste lid alleen dan schuldig aan indirecte octrooi-inbreuk als hij weet dan wel het gezien de omstandigheden duidelijk is dat de eerder omschreven middelen a geschikt zijn en b ook bestemd zijn voor toepassing van een uitvinding die geoctrooieerd is. Er moet dus bij de leverancier een zekere kennis aanwezig zijn omtrent de geschiktheid en de bestemming van de middelen alsmede omtrent het geoctrooieerd zijn van de uitvinding. Aan de andere kant wordt de bewijslast op dit punt voor de octrooihouder enigszins verlicht doordat van hem niet het bewijs wordt gevergd dat de leverancier wetenschap op deze punten had; de octrooihouder kan volstaan met het lichtere bewijs dat een en ander duidelijk uit de omstandigheden volgde. Hierdoor is een systeem bereikt waarbij met de belangen van zowel van de octrooihouder als van de leverancier is rekening gehouden.”
+ 
+
+
+2.29
+
+
+Subonderdeel 3.1 beklaagt als in het licht van de gedingstukken onbegrijpelijk dat het indirecte inbreukverbod de vrijheid van Sun om de markt voor de ziekte van Paget te bedienen niet zou aantasten want dat passeert het betoog van Sun dat dit de strekking heeft de mededinging te beperken in de vorm van aanzienlijke belemmering voor deze toegestane vermarkting voor Paget: tenders in Nederland hebben niet de mogelijkheid te onderscheiden naar indicatie zodat Sun daar (ook) niet meer op in kan schrijven voor Paget (plta Sun eerste aanleg 75 en prod. 8 MvA 170 plta appel 40-46). Erkenning van deze bemoeilijking is er wel maar het hof ziet genoemde implicaties voor Sun over het hoofd zodat onvoldoende toereikend is gemotiveerd volgens Sun. 
+Ik zie dat niet. Uit rov. 4.34 4.36 en 4.41 volgt dat het hof deze stelling in zijn oordeel heeft betrokken maar dat dit niet aan een verbod in de weg staat omdat voor het hof in rov. 4.34 dragend is dat Sun onvoldoende heeft gedaan om cross label gebruik te voorkomen nader uitgewerkt in rov. 4.35 en 4.36 zoals hiervoor aangegeven bij de behandeling van onderdeel 254. 
+Dat dit zoals subonderdeel 3.2 aankaart innerlijk tegenstrijdig of althans niet te rijmen is met de passage dat zo’n verbod er in de praktijk toe kan leiden dat vermarkting voor Paget wordt bemoeilijkt zie ik evenmin55. De motivering die het hof geeft is voldoende in kort geding van innerlijke tegenstrijdigheid is geen sprake. Het indirecte inbreukverbod strekt ertoe dat Sun de belangen van Novartis respecteert door zo effectief mogelijke maatregelen te treffen om misbruik verderop in het distributiekanaal in de vorm van vermarkting voor osteoporose tegen te gaan56. Indirecte octrooi-inbreuk is nu eenmaal niet toegestaan ook niet als dat (door het preferentiebeleid van een derde in dit geval VGZ) als neveneffect heeft dat daardoor wel toegestane vermarkting voor Paget wordt bemoeilijkt. Bij die vermarkting moet Sun de octrooirechten van Novartis respecteren (en niet kennelijk profiteren van octrooi-inbreuk door anderen).
+ 
+
+
+2.30
+
+Subonderdeel 3.3 beklaagt als rechtens onjuist de passage in rov. 3.48 dat “dit niet een omstandigheid is waarop Novartis enige invloed heeft of die aan haar valt toe te rekenen” voor zover het hof meende dat het alleen de vraag moest beantwoorden of Novartis de mededinging beperkt door middel van haar vorderingen. Dat miskent volgens de klacht de rol van het hof in deze namelijk of de nationale rechter zelf vanwege primair Unierechtelijke verplichtingen ervan moet afzien zo’n verbod toe te wijzen met mededingingsbeperkende strekking – onder verwijzing naar het Eco Swiss/Benetton-arrest57.   
+
+
+2.31
+Deze klacht gaat volgens mij uit van een verkeerde lezing van het arrest zodat deze om die reden niet opgaat. Ik lees in deze passage niet dat het hof ervan is uitgegaan dat het alleen de vraag had te beantwoorden of Novartis op enigerlei wijze de mededinging beperkt door middel van haar vorderingen58. Het hof heeft namelijk “daarenboven” (dragend) geoordeeld dat een indirect inbreukverbod opleggen niet is te kwalificeren als een mededingingsrechtelijk ontoelaatbare afspraak maar als handhaving van een wettelijke monopolie van aan Novartis toegekende octrooirechten en dat misbruik maken van een machtspositie door octrooihandhaving niet voldoende is onderbouwd door Sun. Geen strijd met het mededingingsrecht dus en er doet zich zodoende geen geval voor van (toewijzing van) een vordering die ertoe strekt de mededinging te beperken. Het hof stelt bovendien in rov. 4.38 voorop dat “de vrijheid van Sun om haar Generieke Product aan te bieden en te leveren voor de behandeling van de ziekte van Paget door het door Novartis verzochte verbod om indirecte inbreuk te maken op haar octrooi niet wordt aangetast”59. Toegestane vermarkting voor Paget wordt niet naar de strekking beperkt en voor zover dat in de praktijk wel gebeurt is dat inherent aan het octrooistelsel.  
+
+
+2.32
+
+Subonderdeel 3.4 richt een rechtsklacht tegen het oordeel van het hof dat het opleggen van een indirect inbreukverbod niet is te kwalificeren als een mededingingsrechtelijk ontoelaatbare “afspraak” maar als de handhaving van een wettelijk monopolie door Novartis op grond van de aan haar toegekende octrooirechten. Volgens het subonderdeel is dit oordeel onjuist voor zover het hof ervan is uitgegaan dat een door de rechter opgelegde maatregel geen mededingingsrechtelijke ontoelaatbare afspraak kan inhouden. Het hof miskent in dat geval dat het de rechter niet vrijstaat een beperking van de mededinging tot stand te brengen of te faciliteren aldus het subonderdeel onder verwijzing naar rechtspraak die leert dat op overheidsorganen met inbegrip van rechters de verplichting rust om met het mededingingsrecht strijdige nationale regelingen buiten toepassing te laten60. Ook uit het beginsel van Unietrouw uit art. 4 lid 3 VWEU zou dat volgen. 
+
+
+2.33
+Deze rechtsklacht faalt omdat het hof een inbreukverbod juist kwalificeert als handhaving van een op de wet gebaseerd monopolie in plaats van als een mededingingsbeperkende afspraak. Met “afspraak” doelt het hof gelet op het eerste deel van rov. 4.38 op het kartelverbod uit art. 6 Mw en art. 101 VWEU61. Dat verbiedt mededingingsbeperkende afspraken tussen ondernemingen. Volgens vaste rechtspraak van het HvJ EU is een “onderneming” iedere entiteit die een economische activiteit uitoefent62. In het geval van activiteiten tot uitoefening van bevoegdheden van openbaar gezag63 zoals het opleggen van maatregelen door de rechter kan van een “onderneming” niet worden gesproken en is het kartelverbod zoals het hof in rov. 4.38 kennelijk en terecht aanneemt dus niet aan de orde. Met Unietrouw-schending heeft dit evenmin wat van doen. Dat het hof zijn Unierechtelijke verplichting miskent door in feite een mededingingsbeperkende “regeling” op te leggen aan partijen (zoals Sun bij s.t. 3.11 stelt) miskent ten gronde wat het hof doet in het kader van octrooirechthandhaving en vormt natuurlijk geen “marktverdeling” voor Paget of een output-restrictie daarvoor zoals Sun meent. De klacht van Sun zou erop neerkomen dat een indirect octrooi-inbreukverbod inherent in strijd is met het mededingingsrecht in skinny labelling gevallen als het onderhavige met een tenderprocedure die niet onderscheidt naar indicatie. Ik zie daarvoor geen aansprekende reden. In feite betoogt Sun dat in dergelijke situaties een indirect octrooi-inbreukverbod niet proportioneel en effectief is (s.t. Sun 1 3.16-3.21). Dat lijkt mij “categorisch” te ver gaan omdat dat in wezen handhaving van tweede medische indicatie-octrooien zo ongeveer illusoir maakt wanneer je dat omkeert: indirecte inbreuk moet maar op de koop toe worden genomen omdat vermarkting voor octrooivrije doeleinden daarzonder praktisch niet zou gaan (in die zin s.t. Novartis 7.24 in fine). Het is in wezen een rechtspolitiek punt maar dit zou bepaald niet sporen met de gesignaleerde AIPPI-consensus en een premie zetten op ongerechtvaardigd commercieel voordeel behalen uit cross label gebruik. Ook onderdeel 3.4 kan niet slagen. 
+
+
+2.34
+
+Subonderdeel 3.5 vervolgt dat dit rechtsoordeel ook onjuist is voor zover het hof er daarbij vanuit is gegaan dat toewijzing van de vorderingen niet in strijd is met het mededingingsrecht omdat deze strekt tot bescherming van het wettelijk monopolie van Novartis. Volgens de klacht miskent het hof in dat geval dat de handhaving van een octrooirecht niet is onttrokken aan de werking van het mededingingsrecht althans dat ook de wijze waarop een octrooirecht wordt uitgeoefend onder het bereik valt van de Unierechtelijke verboden waaronder die van het mededingingsrecht. 
+
+
+2.35
+Deze klacht leest rov. 4.38 opnieuw verkeerd. Het hof is er niet vanuit gegaan dat toewijzing van de vorderingen niet in strijd is met het mededingingsrecht omdat deze strekt tot bescherming van het wettelijk monopolie van Novartis64. Het hof overweegt dat het opleggen van het gevorderde indirecte inbreukverbod geen strijd oplevert met het Nederlandse of Europese mededingingsrecht omdat de vrijheid van Sun om te vermarkten voor Paget door het indirecte inbreukverbod niet wordt aangetast. Het hof specificeert vervolgens dat het opleggen van zo’n indirect inbreukverbod geen overtreding van het kartelverbod oplevert (art. 6 Mw en art. 101 VWEU) en dat Sun niet voldoende gemotiveerd heeft gesteld dat Novartis misbruik maakt van een machtspositie door haar octrooirechten jegens Sun te handhaven (art. 24 Mw en art. 102 VWEU). Dat is iets heel anders. Subonderdeel 3.5 faalt. 
+
+
+2.36
+
+Subonderdeel 3.6 klaagt ten slotte dat het hof heeft miskend dat aan de Novartis toegekende octrooirechten geen absolute bescherming toekomt nu deze rechten moeten worden afgewogen tegen de belangen van Sun waaronder haar grondrechtelijk beschermde vrijheid van ondernemerschap. Volgens het subonderdeel “blijkt uit de gedingstukken dat de onderhavige omstandigheden van het geval alleszins aanleiding geven tot een afweging van het beschermde belang van handhaving door Novartis enerzijds en het beschermde belang van Sun haar legitieme handel met het Generieke Product voor de vrije indicaties te kunnen voortzetten terwijl daarmee tevens aan Novartis een verderstrekkende bescherming wordt gegeven dan waarop zij op basis van haar octrooi recht heeft” (onder verwijzing naar plta Sun eerste aanleg 67 75; MvA 170 en plta Sun appel 40-45). Door bij de beoordeling van de toewijsbaarheid van het gevorderde inbreukverbod geen (kenbare) aandacht te besteden aan die stellingen van Sun is het hof althans in zijn motiveringsplicht tekortgeschoten zo luidt de slotklacht.  
+
+
+2.37
+Deze klachten stranden alleen al op het feit dat geen beroep is gedaan op botsing van grondrechten in de vorm van handhaving van IE-rechten enerzijds tegenover uitoefening van vrijheid van onderneming anderzijds. Uw Raad heeft in GeenStijl/Sanoma65 het volgende overwogen over de in die zaak aan de orde zijnde grondrechtenafweging:  
+
+“5.24 Bij de beoordeling van deze klachten dient tot uitgangspunt dat intellectuele eigendomsrechten deel uitmaken van het fundamentele recht op eigendom dat is gewaarborgd in art. 1 van het Eerste Protocol bij het EVRM en art. 17 van het Handvest van de grondrechten van de Europese Unie.
+
+
+
+5.25
+Onderdeel II.4 neemt terecht tot uitgangspunt dat de rechter indien een daarop gericht verweer wordt gevoerd dient te onderzoeken of in het concrete geval de handhaving van een intellectueel eigendomsrecht afstuit op een ander grondrecht. Weliswaar dient reeds bij de totstandbrenging van regelgeving betreffende intellectuele eigendom een juist evenwicht tussen de diverse grondrechten te worden verzekerd maar dat laat onverlet dat ook de rechter in een hem voorgelegd geschil indien de stellingen van de aangesproken partij daartoe aanleiding geven dient te onderzoeken of in de omstandigheden van het geval bij toewijzing van de gevraagde maatregel gelet op het beginsel van proportionaliteit niet te zeer afbreuk wordt gedaan aan het grondrecht waarop de aangesproken partij zich beroept (vgl. bv. HvJEU 24 november 2011 zaak C-70/10 ECLI:EU:C:2011:771 NJ 2012/479 (Scarlet/Sabam) HvJEU 27 maart 2014 zaak C-314/12 ECLI:EU:C:2014:192 (UPC Telekabel Wien) en EHRM 10 januari 2013 zaak 36769/08 ECLI:NL:XX:2013:BZ9845 (Ashby Donald e.a./Frankrijk).”   
+
+Uit dit arrest volgt dat de rechter alleen dient te onderzoeken of de handhaving van een intellectueel eigendomsrecht in een concreet geval afstuit op een ander grondrecht indien een daarop gericht verweer is gevoerd. Subonderdeel 3.6 suggereert dat er door Sun in deze zaak een beroep is gedaan op het grondrecht van vrijheid van ondernemerschap (art. 16 van het Handvest van de grondrechten van de Europese Unie66) maar uit de daarvoor door Sun aangedragen vindplaatsen blijkt helemaal niet dat Sun zo’n verweer heeft gevoerd. De verwijzingen gaan over de kwestie dat toewijzing van het verbod gelet op het feit dat tenderprocedures in Nederland geen onderscheid mogelijk maken naar indicatie in feite een beperking van de verkoop van Sun’s product voor de behandeling van de ziekte van Paget zou betekenen67. Dit zou volgens Sun leiden tot strijd met het mededingingsrecht en executieproblemen68. Ik lees daar geen beroep in op het grondrecht van vrijheid van ondernemerschap (ook niet met aanvulling van rechtsgronden zoals Sun bij repliek onder 5 nog aandraagt: in haar stellingen dat zij vrij moet zijn te vermarkten voor Paget maar toewijzing van het indirecte inbreukverbod haar daarin beperkt zou “derhalve besloten (...liggen) dat zij door het indirecte inbreukverbod in haar vrijheid van ondernemerschap wordt aangetast”; dat gaat m.i. te ver)69. De klachten van subonderdeel 3.6 ketsen daarop af.  
+ 
+
+
+Onderdeel 4: Mogelijke executieperikelen geen aanleiding tot afwijzing verbod
+
+ 
+
+
+2.38
+
+Subonderdeel 4.1 richt een motiveringsklacht tegen rov. 4.39 waar het hof oordeelt dat door Sun opgerakelde potentiële executieperikelen bij het opleggen van een indirect inbreukverbod niet maakt dat van een verbod af moet worden gezien. Volgens de klacht is deze beslissing onbegrijpelijk gemotiveerd nu de door Sun aangeduide executieperikelen erop neerkomen dat zij niet kan controleren voor welke indicatie haar product wordt verstrekt en dat zij na aflevering aan de groothandels en apothekers evenmin invloed en controle op de bestemming van haar product heeft (vgl. plta Sun eerste aanleg 67-69 MvA 77 182 en plta Sun appel 40-46). Niet valt in te zien waarom dergelijke perikelen die mede duiden op de ineffectiviteit van het verzochte verbod onvoldoende aanleiding zouden kunnen vormen om het verbod in deze vorm af te wijzen nu niemand – zoals bekend – kan worden gehouden tot het onmogelijke zo betoogt Sun. 
+
+
+2.39
+Subonderdeel 4.1 bouwt voort op subonderdeel 2.1 en gaat als ik het goed zie (eveneens) uit van de onjuiste opvatting dat de maatregelen de inbreuk geheel zouden moeten voorkomen om effectief te zijn. Zoals hiervoor bij de behandeling van subonderdeel 2.1 toegelicht is het in dit geval voldoende dat de maatregelen de inbreuk bemoeilijken en het gebruik van het Generieke Product voor de geoctrooieerde toepassing ernstig wordt ontraden. Het hof heeft dan ook in rov. 4.34 geoordeeld dat Sun “al het mogelijke” dient te doen; het onmogelijke wordt niet van haar gevergd. Indien zij het mogelijke wel zou hebben gedaan wordt het indirecte inbreukverbod niet overtreden (vgl. s.t. Novartis 6.18) en is de vrees voor executieperikelen ongegrond. Hieruit blijkt dat het hof zich (serieuze) rekenschap heeft gegeven van de moeilijkheden van de kant van Sun. Het hof was niet gehouden om dit in dit kort geding anders of nader te motiveren. De klacht van subonderdeel 4.1 strandt daarop.   
+
+
+Onderdeel 5: Effectiviteit verbod
+
+ 
+
+
+2.40
+
+Subonderdeel 5.1 richt een motiveringsklacht tegen rov. 4.40 dat het hof voorbij is gegaan aan stellingen over Sun’s onmogelijkheid om inbreukmakend handelen verderop in het distrubutiekanaal effectief tegen te gaan. Dit komt neer op een herhaling van zetten die het lot moet delen van subonderdelen 2.1 en 4.1.   
+
+
+Onderdeel 6: Rectificatie
+
+ 
+
+
+2.41
+
+Subonderdeel 6.1 is gericht tegen rov. 4.43 en 5.3 waarin het hof het gevorderde gebod toewijst om een brief te zenden aan alle verzekeringsmaatschappijen en ziekenhuizen die een tender hebben uitgeschreven of met wie een overeenkomst is gesloten voor de levering van het Generieke Product en een tekst formuleert die in deze brief moet worden opgenomen. Volgens de klacht is dit oordeel onbegrijpelijk voor zover het hof zich (ook hier) geen rekenschap heeft gegeven van de essentiële stelling van Sun dat met deze maatregel de facto voor haar ook de niet beschermde Paget-markt in belangrijke mate wordt afgesloten en dat zij geen invloed heeft op de bestemming van haar producten na aflevering aan de groothandels en apothekers (MvA 170 en plta Sun appel 40-46). Met deze stellingen valt volgens de klacht niet te rijmen de door het hof in het dictum (rov. 5.3) verlangde garantie dat de levering van 5mg/100ml zoledroninezuur voor de behandeling van osteoporose wordt voorkomen.    
+
+
+2.42
+Hiervoor zagen we al dat het uitgangspunt van deze klacht dat is veronachtzaamd dat het inbreukverbod de facto de markt voor Paget ernstig bemoeilijkt en dat Sun geen invloed heeft op de eindbestemming niet als zodanig kan worden aanvaard omdat het hof deze aspecten wel voldoende kenbaar en begrijpelijk in zijn oordeelsvorming heeft betrokken. Daar gaat het al mis. Het hof vindt deze aspecten niet in de weg staan aan toewijzing van deze nevenvordering aangezien Sun volgens het hof indirecte inbreuk maakt. Overigens bevat de tekst van de verordonneerde rectificatie geen “harde garantie” dat de levering van 5mg/100ml zoledroninezuur voor de behandeling van osteoporose wordt voorkomen. De betreffende tekst luidt immers: “Wij kunnen uitsluitend deelnemen in een tenderprocedure/overeenkomst die voldoende garandeert dat de levering van 5mg/100 ml zoledroninezuur voor de behandeling van osteoporose wordt voorkomen.” (cursivering A-G).  
+
+
+Proceskosten 
+
+ 
+
+
+2.43
+Partijen hebben over de proceskosten in de cassatie-instantie een regeling bereikt70.  
+
+
+
+
+3 Conclusie 
+
+Ik concludeer tot verwerping van het cassatieberoep.
+ 
+
+De Procureur-Generaal bij de
+Hoge Raad der Nederlanden
+ 
+
+Advocaat-Generaal
+ 
+
+1
+ Claimen van een dergelijke nieuwe medische toepassing van een werkzame stof waar al een eerste medische indicatie voor bekend is (en waar het stofoctrooi doorgaans net als in onze zaak al voor is verlopen zodat generieke producenten voor de eerste medische indicatie op de markt verschijnen) stuit op het verbod van octrooiering van therapeutische werkwijzen. Langs de omweg van Swiss-type claims  kwam men tot bescherming hiervoor in de vorm van een werkwijzeconclusie. Al in G 5/83 5 december 1984 ECLI:EP:BA:1984:G000583.19841205 (Eisai) is  deze  mogelijkheid gefiatteerd door de Grote Kamer van Beroep (GKB) van het Europees Octrooibureau (EOB). Een Swiss-type conclusie heeft deze vorm: gebruik van stof X voor de vervaardiging van een geneesmiddel voor de behandeling van ziekte Y. In G 2/08 19 februari 2010 ECLI:EP:BA:2010:G0000208.201200219 (Dosage regime/Abbott Respiratory) oordeelde de GKB nadien dat Swiss-type claims voor Europese octrooiaanvragen van ná 29 januari 2011 op grond van het herziene Europese Octrooiverdrag (EOV 2000) niet langer meer zijn toegestaan om redenen die er nu niet verder toe doen (zie hierover nader: S. Dack Het claimen van medische indicaties BIE 2010 p. 83-92). Tweede medische indicaties kunnen onder het herziene EOV 2000 worden geclaimd volgens art. 54 lid 5 EOV en art. 4 lid 6 ROW 1995 in deze vorm: gebruik van stof X voor behandeling van ziekte Y. Het verschil is dat een Swiss-type conclusie een doelgebonden werkwijzeconclusie is en een EOV 2000 2e medische indicatie conclusie een doelgebonden productconclusie vgl. T 1780/12 ECLI:EP:BA:178012.20140130 punten 18-25 van de Reasons. In onze zaak gaat het nog om een “oude” Swiss-type claim die blijkens G 2/08 zijn effect behoudt. 
+
+2
+ De Engelse term voor bijsluiter wordt in jargon afgekort tot PIL wat staat voor “Patient Information Leaflet”. 
+3
+ High Court (Arnold J) 15 maart 2013 [2013] EWHC 516 (Pat) (Hospira v Novartis).
+4
+ Court of Appeal 19 december 2013 [2013] EWCA Civ 1663 (Hospira v Novartis). Genoemde en verder te noemen Engelse rechtspraak staat ook online op de website www.bailii.org van de British and Irish Legal Information Institute.
+5
+ Ontleend aan rov. 2.1-2.18 van het bestreden arrest van Gerechtshof Den Haag 27 januari 2015 ECLI:NL:GHDHE:2015:1769 BIE 2015 nr. 15 m.nt. T.M. Blomme. 
+6
+ De beschrijving van het mechanisme achter botvorming en botresorptie in het algemeen de ziekte osteoporose en de ziekte van Paget heeft het hof grotendeels ontleend aan de niet bestreden uiteenzetting door Novartis in de inleidende dagvaarding in eerste aanleg aldus rov. 2.12 van het bestreden arrest. Ik laat dat hier volgen. 
+7
+ Rb Den Haag 25 november 2015 ECLI:NL:RBDHA:2015:14337 IEPT20151125 (Sun/Novartis).
+8
+ High Court (Arnold J) 6 februari 2015 [2015] EWHC 249 (Pat) (Warner-Lambert v Actavis). Bij arrest van 28 mei 2015 [2015] EWCA Civ 556 heeft de Court of Appeal appel toegestaan van dit vonnis van 6 februari 2015 en bepaald dat (ook) de indirecte inbreukzaak naar trial mag. Bij vonnis van 10 september 2015 [2015] EWHC 2548 (Pat) heeft de High Court (Arnold J) inmiddels geoordeeld dat geen sprake kan zijn van indirecte inbreuk op een Swiss-type claim.  
+9
+ Zie voor een overzicht van de verschillende benaderingen in Engeland Duitsland en Nederland: A. McCulloch en C. Paul Approach To ‘2nd Medical Use’ Claims Varies Across EU Law360. De huidige status lijkt te zijn dat in Duitsland wordt aangenomen dat indirecte inbreuk op een Swiss-type claim mogelijk is (LG Hamburg 2 april 2015 327 O 143/15 (Warner-Lambert/A Pharma)) maar dat in Engeland zo zagen we net voor de route van de directe inbreuk wordt gekozen: bij Swiss-type claims wordt niet voldaan aan het vereiste van “putting the invention into effect”. De Haagse bodemrechter in de zaak volgend op ons kort geding heeft deze Engelse benadering gevolgd in het twee voetnoten eerder genoemde tussenvonnis van 25 november 2015 rov. 4.44-4.54 (indirecte inbreuk op een Swiss-type conclusie niet mogelijk want dat is een werkwijzeconclusie en nergens in de keten wordt na levering door Sun de werkwijze geneesmiddelbereiding meer toegepast (rov. 4.54)) maar de Haagse kort geding appelrechter vond indirecte inbreuk op Swiss-type claims zoals volgt uit het bestreden arrest dat nu in cassatie ten toets voorligt dus wel mogelijk (deze kwestie was in kort geding als zodanig niet aangekaart). Volgens deze blogspot: http://kluwerpatentblog.com/2016/07/24/court-of-appeal-of-barcelona-seeks-to-shed-some-light-on-second-medical-use-claims/ is ook door de appelrechter in Barcelona inmiddels indirecte inbreuk op een Swiss-type claim aangenomen (uitspraak zelf laat staan vertaling daarvan niet kunnen traceren). Het lijkt een nog lang niet uitgemaakte zaak.
+10
+ Zie ook het 3 voetnoten eerder genoemde tussenvonnis in de bodemzaak Rb. Den Haag 25 november 2015 rov. 4.61: “(…) Beide partijen hebben zich noch in de kort-geding-procedures noch eerder in deze procedure over en weer bekommerd om de vraag of indirecte inbreuk op een Swiss-type claim überhaupt – in octrooirechtelijke zin – wel mogelijk is. Het thans gevoerde verweer is ook niet in de procedure bij het hof Den Haag aan de orde gekomen zo heeft Sun desgevraagd aangegeven. De uitspraak van Arnold J van 21 januari 2015 vormde de katalysator voor partijen het debat over een andere boeg te gooien.”
+11
+ S.t. Sun 2.4: “(…) Aangezien in het onderhavige kort geding geen discussie is gevoerd over de interpretatie van de beschermingsomvang van deze Swiss-type-claim heeft het hof daarover geen oordeel gegeven en bevat het middel bijgevolg geen daarop toegesneden klacht.” Ook Novartis constateert dit in haar s.t. 3.22 en voegt daar in 6.10 onder verwijzing naar het bodemoordeel van de rechtbank aan toe: “Het cassatiemiddel van Sun stelt niet aan de orde dat na aflevering door Sun van haar geneesmiddel de geoctrooieerde werkwijze niet zou worden toegepast. Evenmin klaagt het cassatiemiddel dat indirecte inbreuk op een Swiss type claim wegens de specifieke claim construction daarvan in octrooi-technische zin niet mogelijk zou zijn. Novartis aanvaardt dan ook niet dat de rechtsstrijd in cassatie in deze zin zou worden uitgebreid.”
+12
+ De cassatierechter behoeft zich niet ambtshalve af te vragen – alsdan voorlopig oordelend in dit kort geding – of in een dergelijke situatie een indirect octrooi-inbreukverbod op een Swiss-type conclusie in stand kan worden gelaten vanwege de vraag of zo’n indirect inbreukverbod juridisch mogelijk is omdat het daar in cassatie niet over gaat. Anders dan de feitenrechter kan de cassatierechter immers in beginsel niet buiten de rechtsstrijd van partijen treden en buiten de middelen om vernietigen teneinde toepassing te geven aan een bepaling van openbare orde vgl. bijv. A.G.F. Ancery Ambtshalve toetsing van EU-recht 2012 p. 37; Asser Civiele cassatie 2011 p. 85-86; Winters T&C Burgerlijke Rechtsvordering 2016 art. 419 Rv aant. 1. Overigens betwijfel ik of de openbare orde hier in het geding is (zie kennelijk anders de Haagse bodemrechter in eerste aanleg bij het in voetnoot 7 genoemde tussenvonnis rov. 4.46) gelet op het gegeven dat de vraag of indirecte inbreuk op een Swiss-type conclusie juridisch mogelijk is lang geen uitgemaakte kwestie is (vgl. hiervoor voetnoot 9). Zie over openbare orde Asser Procesrecht/Van Schaick 2 2016/100.
+13
+ Zie bijv. HR 24 april 2015 ECLI:NL:HR:2015:1128 NJ 2015/266 m.nt. Zwemmer (Staat/X); HR 7 januari 2011 ECLI:NL:HR:2011:BP0015 NJ 2011/304 m.nt. Krans (Yukos).
+14
+ Een uitzondering vormt het vereiste van belang bij cassatie.
+15
+ L.A.R. Siemerink Kort geding in cassatie versus bodemprocedure TCR 2010/2 schrijft (p. 50): “Met Keus ben ik het eens dat de Hoge Raad niet kan ‘afstemmen’ op een vonnis dan wel arrest van een bodemrechter. De Hoge Raad is immers ons hoogste rechtscollege dat als taak heeft het scheppen van rechtseenheid het tegengaan van onjuiste beslissingen en het bevorderen van de rechtsontwikkeling door rechtsvorming. Wanneer het hof het recht geschonden heeft zou de Hoge Raad moeten vernietigen en is het aan het verwijzingshof in de kortgedingprocedure om af te stemmen op de bodemrechter.” Van Rijssen merkt in zijn annotatie in JBPR 2011/20 bij HR 7 januari 2011 ECLI:NL:HR:2011:BP0015 op: “Alleen voor de Hoge Raad geldt de afstemmingsregel minder stringent. In cassatie wordt immers het bestreden arrest getoetst en gaat het niet zo zeer om een herbeoordeling van de vordering. Het ligt daarom niet voor de hand dat de Hoge Raad zijn rechtsoordelen afstemt op die van de bodemrechter (…).” J.C.S. Pinckaers in: F.W. Grosheide (red.) Handhaving van intellectuele eigendom 2016 p. 157: “Voor de cassatieprocedure geldt de afstemmingsregel niet voor zover de Hoge Raad de bestreden kort geding beslissing toetst aan het recht” onder verwijzing naar GS Burgerlijke Rechtsvordering art. 257 Rv aant. 5 en genoemd artikel van Siemerink.
+16
+ Zie bijv. HR 24 april 2015 ECLI:NL:HR:2015:1128 NJ 2015/266 m.nt. Zwemmer (Staat/X); HR 7 januari 2011 ECLI:NL:HR:2011:BP0015 NJ 2011/304 m.nt. Krans (Yukos).
+17
+ Vgl. mijn conclusie van 30 oktober 2015 ECLI:NL:PHR:2015:2200 voor HR 5 februari 2016 ECLI:NL:HR:2016:196 RvdW 2016/240 AA20160650 m.nt. Th.C.J.A. van Engelen BIE 2016 p. 112 m.nt. J. den Hartog en T. Blomme (Bayer/Sandoz) onder 3.3. Het is in deze zaak met deze partijen en dit belang geen wilde veronderstelling dat in de bodemzaak t.z.t. zal worden geappelleerd.
+18
+ Dit is van belang in deze zaak omdat in confesso is dat wanneer deze ingeroepen priorteit niet houdt het octrooi nietig is vanwege de tussenkomende publicatie van Reid e.a. “A single annual injection of the bisphosphonate zoledronic acid stably reduces bone turnover and increases bone density in postmenopausal osteoporosis” in het mei 2001-nummer van het tijdschrift Bone overgelegd als bijlage H bij Novartis’ productie 27; US 689 dateert van 9 februari 2001 (gaat vooraf aan Reid) en EP 689 van 18 juni 2001 is post-Reid. Vgl. rov. 2.12 en 4.2 e.v. van het vonnis van de voorzieningenrechter in onze zaak in eerste aanleg. In cassatie staat vast dat wanneer beroep op de prioriteit van US 689 niet houdt evenmin beroep kan worden gedaan op het tweede ingeroepen prioriteitsdocument (vgl. rov. 4.4 uitspraak in eerste aanleg).
+19
+ G 2/98 31 mei 2001 ECLI:EP:2001:G000298.20010531 vgl. ook Case Law of the Boards of Appeal of the European Patent Office 8th. Ed. 2016 (hierna: Case Law) p. 372. Alle rechtspraak van GKB (zaken aangeduid met G-nummers) en Technische Kamers van Beroep (TKB of in het Engels TBA (Technical Boards of Appeal) zaken aangeduid met T-nummers) staat online en is op zaaksnummer te vinden op de website van het EOB: www.epo.org. 
+20
+ Zie cassatiedagvaarding p. 3 onder 1.1: “(…) Het hof heeft dit aan de rechtspraak van de Grote Kamer van Beroep van het Europees Octrooibureau in G2/98 (OJ 2001 413) ontleende criterium in het begin van zijn overwegingen weliswaar correct genoemd (vgl. rov. 4.1 en voetnoot 2) maar die maatstaf vervolgens in zijn beoordeling (...) losgelaten althans op een rekkelijke en daarmee onjuiste wijze toegepast(…)”.    
+21
+ De bedoeling is inderdaad dat geen ruime uitleg plaatsvindt volgens G2/98 punt 9:
+“From the analysis under point 8 supra it follows that an extensive or broad interpretation of the concept of ‘the same invention’ referred to in article 87(1) EPC making a distinction between technical features which are related to the function and effect of the invention and technical features which are not with the possible consequence that a claimed invention is considered to remain the same even though a feature is modified or deleted or a further feature is added (cf. point 8.3 supra) is inappropriate and prejudicial to a proper exersice of priority rights. Rather according to that analysis a narrow or strict interpretation of the concept of “the same invention” equating it to the concept of “the same subject matter” referred to in article 87(4) EPC (cf. point 2 supra) is necessary to ensure a proper exercise of priority rights in full conformity inter alia with the principles of equal treatment of the applicant and third parties (cf. point 8.1 supra) and legal certainty (cf. point 8.3 supra) and with the requirement of consistency with regard to the assessment of novelty and inventive step (cf. point 8.1 supra).”
+22
+ Mogelijk is dit ontleend aan deze passage uit Case Law p. 102 over de disclosure-test bij nieuwheid (waar ik zo nader over kom te spreken in 2.10): daarin wordt “directly and unambiguously derivable from the prior art” geparafraseerd als volgt “In other words it has to be beyond doubt – not merely probable – that the claimed subject-matter was directly and unambiguously disclosed in a patent document” onder verwijzing naar onder meer T 1029/96 ECLI:EP:BA:2001:T102996.20010821 (BASF). “Beyond doubt” wordt daar geplaatst tegenover “not merely probable” en die laatste nuance laat de klacht van Sun weg waardoor dit een grotere betekenis krijgt dan kennelijk bedoeld. Het kan ook zijn dat is gekeken naar de disclosure-test toepassing bij toegevoegde materie waar je deze “geen twijfel”-leer met name bij het hierna nog te bespreken verschijnsel van intermediate generalisation wel aantreft. Ik vind zelf dat ook terughoudendheid past bij een te grote parallel trekken bij de toegevoegde materie rechtspraak uit München (over de parallel daarmee voor onze zaak kom ik meteen hierna te spreken in 2.10) gelet op het in meerderheid in gemachtigdenkring vigerende gevoelen dat de lat daarvoor wel erg hoog ligt bij het EOB vgl. A. Kupecz Toegevoegde materie: artikel 123(2) EOV te streng toegepast? IER 2014/13 pp. 87-88.
+23
+ Case Law pp. 372 en 373 spreekt over “at least implicit disclosure” en verwijst naar de overeenkomstige disclosure-test voor toegevoegde materie (art. 123(2) jo 138 lid 1 sub c EOV art. 75 lid 1 sub c ROW 1995).
+24
+ Een belangrijk stukje algemene vakkennis dat in onze zaak vaststaat (vgl. rov. 4.5 in cassatie als zodanig onbestreden) is bijvoorbeeld dat de vakman weet dat zoledroninezuur alleen intraveneus wordt toegediend een “piece of common general kowledge” waar de Engelse rechters in de parallelle zaak niet van uitgingen en dat goeddeels het verschil in appreciatie over het standhouden van de prioriteit aan (inmiddels) deze en gene zijde van het Kanaal verklaart; vgl. rov. 4.18 van het verderop te bespreken bodemtussenvonnis Rb Den Haag 25 november 2015 ECLI:NL:RBDHA:2015:14337.
+25
+ HR 5 februari 2016 ECLI:NL:HR:2016:196 RvdW 2016/240 AA20160650 m.nt. Th.C.J.A. van Engelen BIE 2016 p. 112 m.nt. J. den Hartog en T. Blomme (Bayer/Sandoz) rov. 3.3.3: “Vooropgesteld wordt dat volgens vaste rechtspraak de uitleg van octrooien zozeer verweven is met waarderingen van feitelijke aard dat deze daarom in cassatie slechts beperkt toetsbaar is (vgl. HR 7 september 2007 ECLI:NL:HR:2007:BA3522 NJ 2007/466 (Lely/Delaval))”. Vgl. in gelijke zin s.t. Novartis 3.7-3.9 en 5.20. Vgl. ook HR 16 februari 2001 ECLI:NL:HR:2001:AB0031 NJ 2001/393 (Van Egmond/Wiva) waarin Uw Raad in rov. 3.5 inderdaad de uitleg van een zinsnede uit een conclusie door het hof als feitelijk bestempelt waarover A-G Langemeijer in zijn conclusie voor dit arrest onder 2.8: “De vaststelling van hetgeen de vakman nog juist wel of juist niet in het octrooischrift leest is feitelijk van aard en daarom voorbehouden aan de rechter die over de feiten oordeelt.” In Duitsland en Engeland toetst de hoogste rechterlijke instantie octrooien overigens wel “vol”. 
+26
+ Johnson in Hacon/Pagenberg Concise European Patent Law 2008 EPC 2000 87 note 4 wijst erop dat de analogie met de nieuwheidstest “not exact” is en dat die analogie “should be treated with caution. It is possible for a priority document to disclose something that falls within the invention claimed in the European application so depriving it of novelty but nevertheless to be also too narrow in scope to be ‘the same invention’ as that claimed in the European application.”
+27
+ G 2/10 30 augustus 2011 ECLI:EP:BA:2011:G000210.20110830 (Disclaimers). Zie voor een recent overzichtsartikel over toegevoegde materie: T. Blomme Uitbreiding van materie in het octrooirecht BIE 2016 p. 206-211. Dat het bij prioriteit en toegevoegde materie om dezelfde test gaat volgt ook uit Case law p. 372 en bijv. Johnson in Hacon/Pagenberg Concise European Patent Law 2008 EPC 2000 87 note 4: “This is the same test as the test for determining whether or not an amendment to an application satisfies the requirement of art. 123(2).”; vgl. eveneens Lang in Hacon/Pagenberg a.w. EPC 2000 123 note 6: “This is the same test for whether a claim is entitled to the date of the priority document: the ‘same invention’ must have been disclosed in the priority document (EPO Guidelines C-V 2.2 and C-VI 5.3.1) which depends on whether the subject matter of the claim is derivable directly and unambiguously from the previous application as a whole taking into account the common general knowledge of the person skilled in the art (see art. 87).” Zie ook A. Kupecz Toegevoegde materie: artikel 123(2) EOV te streng toegepast? IER 2014/13 pp. 87-88.
+28
+ Zie T 12/81 9 februari 1982 ECLI:EP:BA:1982:T001281.19820209 (Diastereomers) en Johnson in Hacon/Pagenberg a.w. EPC 2000 54 note 13.
+29
+ Zie in dezelfde zin Blomme a.w. voetnoot 27. Onder verwijzing naar de zaken T 582/91 11 november 1992 ECLI:EP:BA:1992:T058291.19921111 T 938/95 6 maart 1997 ECLI:EP:BA:1997:T093895.19970306 en T 288/89 15 januari 1992 ECLI:EP:BA:1992:T028889.19920115. Onder verwijzing naar T 1067/97 4 oktober 2000 ECLI:EP:BA:2000:T106797.20001004 en T 714/00 6 augustus 2002 ECLI:EP:BA:T071400.20020806 vat hij de porté van het intermediate generalisation verbod als volgt samen (p. 208): “Het wijzigen van een conclusie door daarin een technisch kenmerk op te nemen dat alleen in samenhang met andere technische kenmerken is geopenbaard (bijvoorbeeld in een concreet uitvoeringsvoorbeeld) is uitsluitend toegestaan indien er geen structureel of functioneel (d.w.z. onlosmakelijk) verband is tussen die in combinatie beschreven kenmerken.”
+30
+ Onder verwijzing naar  T 962/98 15 januari 2004 ECLI:EP:BA:T0962298.20040115 zie ook Case Law p. 373.
+31
+ US 689 is Novartis’ productie 11 en voorbeeld 5 daaruit heeft als kopje: “Treatment of Patients” en als onderwerp: “A Multinational Randomized Double-Blind Placebo-Controlled Parallel-Group Dose-Ranging Safety and Efficacy Trial With Intravenous Bolus Injections of Zoledronate In the Treatment of Postmenopausal Osteoporosis” (p. 14) op p. 16 gevolgd door: “A reduction of risk of osteoporotic fracture is expected to accompany the bone mass increases.”
+32
+ Recent voor uitleg van octrooien bevestigd in HR 5 februari 2016 ECLI:NL:HR:2016:196 RvdW 2016/240 AA20160650 m.nt. Th.C.J.A. van Engelen BIE 2016 p. 112 m.nt. J. den Hartog en T. Blomme (Bayer/Sandoz) rov. 3.3.3: “De onderhavige zaak is bovendien een kort geding zodat aan de uitspraak minder strenge motiveringseisen worden gesteld.”
+33
+ In rov. 4.19-4.20 analyseert de bodemrechter dat de klinische studie uit voorbeeld 5 van US 689 oplevert dat de gemiddelde vakman in deze resultaten zonder meer ook (zal) lezen dat intraveneuze toediening van 4 mg zoledroninezuur met een toedieningsinterval van een jaar therapeutisch werkzaam zal zijn voor de behandeling van osteoporose. Het vonnis vervolgt dan hiermee:
+“4.21. In de studie van Voorbeeld 5 zijn (kennelijk) naast eenmaal per jaar dosering van 4 mg   zoledroninezuur niet ook andere eenmaal per jaar doseringen zoals de doseringen die vallen binnen het in het octrooi geclaimde doseringsbereik van 2-10 mg getest. Dat neemt niet weg dat de gemiddelde vakman op basis van de klinische studie en zijn algemene vakkennis zal verwachten dat ook een zekere range om de dosering van 4 mg heen als jaardosering werkzaam zal zijn. Zoals immers ook opgemerkt in de beschrijving is onderdeel van zijn algemene vakkennis dat de werkzame dosis van bisfosfonaten afhankelijk is van verschillende factoren en geen vastliggend gegeven is (zie 2.6.):
+
+
+“The particular mode of administration and the dosage may be selected by the attending physician taking into account the particulars of the patient especially age weight life style activity level hormonal status (e.g. post-menopausal) and bone mineral density as appropriate.
+
+
+
+The dosage of the Agents of the Invention may depend on various factors such as 
+
+
+effectiveness and duration of action of the active ingredient e.g. including the relative potency of the bisphosphonate used mode of administration warm-blooded species and/or sex age weight and individual condition of the warm-blooded animal.”
+
+
+4.22. Deze kennis over de werking van bisfosfonaten gecombineerd met hetgeen valt af te leiden uit de klinische studie namelijk dat bij verschillende doseringen (met verschillende intervallen) een significant toegenomen BMD wordt waargenomen zal voornoemde verwachting bij de gemiddelde vakman doen ontstaan.
+
+4.23. De rechtbank gaat al vanwege Voorbeeld 5 voorbij aan het betoog van Sun dat Novartis verschillende elementen uit los van elkaar staande passages in het prioriteitsdocument zonder grond met elkaar combineert tot conclusie 7. De gemiddelde vakman zal bij het lezen van US 689 door de resultaten van de klinische studie de elementen a) gebruik van zoledroninezuur b) voor de bereiding van een geneesmiddel voor de behandeling van osteoporose c) intraveneus toegediend en e) met een toedieningsinterval van ongeveer één keer per jaar reeds met elkaar hebben gecombineerd. Het enige element dat nog ontbreekt is de doseringsrange van het eerder onder d) genoemde element.
+
+4.24. De doseringsrange van ongeveer 2-10 mg wordt in de beschrijving van US 689 genoemd namelijk in de alinea die luidt als volgt (zie 2.6.):
+
+
+“Formulations in single dose unit form contain preferably from about 1% to about 90% and 
+
+
+formulations not in single dose unit form contain preferably from about 0.1% to about 20% of the active ingredient. Single dose unit forms such as ampoules of infusion solution or solid for preparation of infusion solution doses capsules tablets or dragées contain e.g from about 0.5 mg to about 500mg of the active ingredient. It will be appreciated that the actual unit dose used will depend upon the potency of the bisphosphonate and the dosing interval amongst other things. Thus the size of the unit dose is typically lower for more potent bisphosphonates and greater the longer the dosing interval. For example for more potent recent bisphosphonates such as zoledronic acid a unit dose of from about 1 up to about 10 mg may be used. For example also for such recent more potent bisphosphonates a unit dose of from about 1 to about 5 mg may be used for dosing once every 6 months; whereas a dose of from about 2 up to about 10 mg may be used for once a year dosing.”
+
+
+4.25. De gemiddelde vakman zal naar het oordeel van de rechtbank het verband tussen de elementen die volgen uit Voorbeeld 5 en deze doseringsrange leggen alleen al omdat de doseringsrange van ongeveer 2 tot ongeveer 10 mg volgens de hiervoor weergegeven alinea juist ziet op potente bisfosfonaten in het bijzonder op het met name genoemde zoledroninezuur. De gemiddelde vakman die door Voorbeeld 5 op zoek is naar een doseringsrange om 4 mg zoledroninezuur heen zal die doseringsrange dan in deze alinea hebben gevonden.
+
+4.26. Sun heeft naar voren gebracht dat in voornoemde alinea van de beschrijving van US 689 in het geheel geen koppeling met intraveneuze toediening wordt gemaakt. De rechtbank verwerpt dit argument reeds omdat – zoals hiervoor al aan de orde – Sun zelf stelt dat het op de prioriteitsdatum algemene vakkennis was dat zoledroninezuur alleen intraveneus werd toegediend. Om die reden zou de gemiddelde vakman het verband tussen de doseringsrange van ongeveer 2-10 mg voor zoledroninezuur en intraveneuze toediening eenvoudig leggen. 
+
+4.27. De rechtbank verwerpt ook de stelling van Sun dat US 689 niet voor de volledige range van 2-10 mg de geschiktheid van zoledroninezuur voor de behandeling van osteoporose openbaart. Naar het oordeel van de rechtbank bevatten de resultaten van de klinische studie weergegeven in Voorbeeld 5 voor de gemiddelde vakman voldoende aanwijzingen om daaruit direct en ondubbelzinnig te kunnen afleiden dat een behandeling met zoledroninezuur volgens conclusie 7 derhalve met een doseringsrange van 2-10 mg met een toedieningsinterval van een jaar geschikt is voor de geclaimde behandeling en een therapeutisch effect inderdaad wordt bereikt. Dat geen resultaten zijn opgenomen van een studie naar de effecten van behandeling over de hele breedte van de doseringsrange van 2-10 mg met een toedieningsinterval van een jaar staat aan dat oordeel niet in de weg. Dat toediening van 4 mg werkzaam is volgt rechtstreeks uit Voorbeeld 5 zoals hiervoor reeds overwogen in r.o. 4.20. en wordt als zodanig ook niet door Sun betwist. De doseringsrange van ongeveer 2-10 mg ligt zo dicht om de 4 mg dosering heen dat de gemiddelde vakman op basis van Voorbeeld 5 gelezen in samenhang met de volledige beschrijving zou aannemen dat de dosering binnen die range ook werkzaam zal zijn. In Voorbeeld 5 is ook niet uitsluitend 4 mg met een toedieningsinterval van een jaar getest maar zijn ook andere doseringsregimes en -intervallen getest zoals 2 mg halfjaarlijks en 1 mg per drie maanden die ook werkzaam bleken. Het prioriteitsdocument dient enige informatie te bevatten waaruit kan worden afgeleid dat de behandeling het geclaimde therapeutische effect heeft. Aan dat vereiste voldoet US 689 met Voorbeeld 5. Er is ten slotte ook geen enkele aanwijzing en Sun – op wie volgens de hoofdregel van artikel 150 Rv de stelplicht en bij gemotiveerde betwisting de bewijslast rust – heeft niets gesteld waaruit zou moeten volgen dat de dosering van 4 mg wel en één of meer van de andere doseringen binnen de doseringsrange van 2-10 mg niet werkzaam zal zijn.
+
+4.28. Uit het voorgaande volgt dat Novartis ten aanzien van conclusie 7 van EP 689 een beroep toekomt op de prioriteit van US 689. Gelet op hetgeen hiervoor is overwogen over het artikel van Reid (vgl. r.o. 4.14.) betekent dit dat conclusie 7 geacht wordt nieuw te zijn.”
+34
+ T 962/98 15 januari 2004 ECLI:EP:BA:2004:T096298.20040115.
+35
+ Deze luidt zo:
+“Formulations in single dose unit form contain preferably from about 1% to about 90% and formulations not in single dose unit form contain preferably from about 0.1% to about 20% of the active ingredient. Single dose unit forms such as ampoules of infusion or solid for preparation of infusion solution doses capsules tablets or dragées contain e.g. from about 0.5 mg to about 500 mg of the active ingredient. It will be appreciated that the actual unit dose used will depend upon the potency of the bisphosphonate and the dosing interval amongst other things. Thus the size of the unit dose is typically lower for more potent bisphosphonates and greater the longer the dosing interval. For example for more potent recent bisphosphonates such as zolendronic acid a unit dose of from about 1 up to about 10 mg may be used. For example also for such recent more potent bisphosphonates a unit dose from about 1 to about 5 mg may be used for dosing once every 6 months; whereas a dose of from about 2 up to about 10 mg may be used for once a year dosing.”
+36
+ Zie noot van T. Blomme onder het bestreden arrest (BIE 2015/15 p. 93): “Het lijkt in de Nederlandse rechtspraak geen uitgemaakte zaak te zijn of er pas sprake kan zijn van (indirecte) inbreuk op een Swiss-type claim wanneer de fabrikant niet alleen wetenschap heeft van de verhandeling of toepassing van het generieke geneesmiddel voor de geoctrooieerde indicatie verderop in de keten maar dit tevens de kennelijke bedoeling was [voetnoot 8: Zie bijv. Vzr. Rechtbank Den Haag 2 december 2000 (Melles/Alfa Intes) IEPT20031202 en Rechtbank Den Haag 10 november 2010 (Schering/Teva) IEF 9210).]. (…) Het is mogelijk dat het hof (en Novartis) voor indirecte inbreuk heeft gekozen omdat dan slechts de wetenschap van het gebruik van het generieke geneesmiddel voor de geoctrooieerde indicatie (of dat behoren te weten) aannemelijk diende te worden. Zo kon in het midden blijven of Sun tevens de kennelijke bedoeling moet hebben gehad dat dit zou gebeuren.”
+Ook in Duitsland heeft Langericht Hamburg recent indirecte inbreuk aangenomen op een second medical use octrooi: LG Hamburg 2 april 2015 327 O 143/15 (Warner-Lambert/A Pharma).
+37
+ Kamerstukken II 1984/85 19 131 nr. 3 p. 33.
+38
+ Trb 1976 103.
+39
+ Kamerstukken II 1984/85 19 131 nr. 3 p. 1. Het gaat om België Denemarken Duitsland Frankrijk Ierland Italië Luxemburg Nederland en het Verenigd Koninkrijk.
+40
+ A. Benyamini Patent infringement in the European Community IIC Studies Vol. 13 1992 p. 175. Vgl. ook i.h.a. over indirecte octrooi-inbreuk Huydecoper/Van der Kooij/Van Nispen/Cohen Jehoram Industriële eigendom 1 2016 nrs. 3.5.5.12 – 3.5.5.19 Benkard/Scharen PatG 2015 §10 Rdn 1-30 Schulte/Rinken/Kühnen PatG 2014 §10 Rdn 1-48 Kühnen Hdb. Patentverletzung 2016 Kap. A Rdn. 300-366 Busse/Keukenschrijver PatG 2013 § 10 Rdn 1-39 Mes PatG GebrmG 2015 § 10 Rdn 1-57 Terrel on the Law of Patents 2011 14-54 t/m 14-60.
+41
+ Dit criterium is wel onderwerp van geschil in de zaak MSD/Teva waar het ook om een second medical use octrooi gaat. Zie Gerechtshof 14 juli 2015 ECLI:NL:GHDHA:2015:1899 BIE 2015/53 m.nt. T. Blomme. In deze zaak is cassatieberoep ingesteld waarin op 30 september 2016 mondeling wordt gepleit voor Uw Raad.    
+42
+ Voor de inwerkingtreding van art. 73 ROW 1995 hanteerde de Hoge Raad een strenger wetenschapsvereiste. Vereist was dat de aanbieder of leverancier “bepaaldelijk wist” dat de afnemer de geoctrooieerde werkwijze toepaste. HR 18 februari 1949 NJ 1949/357 (Staat/Bonda). Zie ook Kamerstukken II 1984/85 19 131 nr. 3 p. 34 (bovenaan). 
+43
+ Kamerstukken II 1984/85 19 131 nr. 3 p. 34-35.
+44
+ Zie rov. 2.8 van het bestreden arrest. 
+45
+ Volgens het sinds 2009 door het CBG gevoerde beleid wordt de carve-out doorgevoerd in de papieren bijsluiter en SmPC. Op de website van het CBG wordt echter een full label versie (dus zonder carve-out) van de bijsluiter en SmPC gepubliceerd. Warner-Lambert heeft recent in een procedure die speelde bij de Haagse voorzieningenrechter bezwaar gemaakt tegen het beleid van het CBG om full label bijsluiters en SmPC’s op hun website te plaatsen (Vzr. Rechtbank Den Haag 15 januari 2016 ECLI:NL:RBDHA:2016:334 JGR 2016/3 m.nt. Lisman (Warner-Lambert/CBG)). Onrechtmatig werd geacht dat het CBG “onverplicht en in weerwil van het  verzoek van de aanvrager van de betreffende handelsvergunning melding (...) (maakte) van de geoctrooieerde indicatie zonder daarbij te waarschuwen of zelfs maar aan te geven dat het een geoctrooieerde indicatie betreft. Bij dit oordeel heeft de voorzieningenrechter mede in aanmerking genomen dat aan informatieverstrekking door het CBG een bijzonder gewicht toekomt nu dit tot zijn wettelijke taken behoort.” (vgl. rov. 4.15). 
+46
+ L’Association internationale pour la Protection de la Propriété Intellectuelle met als Nederlandse tak de Vereniging voor Intellectuele Eigendom.
+47
+ VIE rapportage inzake Q238 “Second medical use or indication claims” d.d. 25 april 2014 p. 1 6 en 10. De rapportage staat online: http://www.aippi.nl/nl/documents/AIPPI-QuestionQ238-Secondmedicaluseorindicationsclaims-version2542014.pdf. 
+48
+ Congress Toronto Adopted resolution September 17 2014 Q238 “Second medical use or indication claims”. De resolutie is beschikbaar via: http://aippi.org/wp-content/uploads/committees/238/RS238English.pdf. 
+49
+ Novartis heeft gewezen (inleidende dagvaarding 8.20 en 8.21) op Nederlandse en Engelse rechtspraak dat een instructie dat cross label gebruik niet is toegestaan de indirecte inbreukmaker niet exonereert wanneer deze weet of dient te beseffen dat afnemers het middel niettemin voor het voorbehouden gebruik zullen hanteren vgl. Vzr Rb Den Haag 18 okotber 2010 ECLI:NL:RBSGR:2010:BQ2248 IER 2011/8 m.nt. A. Kupecz (Safeway/Kedge) en CoA 15 oktober 2010 [2010] EWCA Civ 1110 (Grimme v Scott).
+50
+ HR 13 november 2015 ECLI:NL:HR:2015:3307 RvdW 2015/1230 (Pirate Bay) rov. 4.4.2.
+51
+ Ik heb daarover in mijn conclusie voor dit arrest onder meer het volgende opgemerkt conclusie van 29 mei 2015 ECLI:NL:PHR:2015:729 RvdW 2015/1230:
+“2.3.4 Dat criterium uit Telekabel Wien in punten 62/63 over effectiviteit van maatregelen tegen tussenpersonen als de onderhavige is in weerwil van wat de providers betogen geen al te hoge: voldoende doeltreffend om een effectieve bescherming te verzekeren wat inhoudt dat zij tot gevolg moeten hebben dat niet-toegestane oproepingen van beschermde werken worden verhinderd of minstens bemoeilijkt en zij internetgebruikers die gebruik maken van de diensten van de providers ernstig ontmoedigen om zich toegang te verschaffen tot deze illegale content. Volledige beëindiging wordt niet verlangd. Dit wordt in (buitenlandse) literatuur en rechtspraak ook in deze zin opgevat. Dat nemen wij nu in ogenschouw. (…)
+
+2.3.7 (…) Het gaat om de effectiviteit van de maatregel en de door de tussenpersoon te leveren inspanning die in een redelijke verhouding moeten staan. Het “meten” van de effectiviteit in een concreet geval is niet eenvoudig. Het is te kort door de bocht om de effectiviteit slechts op statistieken te baseren. Ook moet rekening worden gehouden met indirecte en lange termijn effecten van de maatregelen. Ook als verstokte inbreukmakers zich door de maatregelen niet laten weerhouden dan nog moet worden aangenomen dat een niet onaanzienlijk deel van de gebruikers eenvoudigweg niet in staat is of bereid is om de maatregelen te ontwijken. Bovendien hoe meer obstakels moeten worden overwonnen hoe waarschijnlijker het wordt dat het tot gebruikers doordringt dat zij inbreuk maken.”
+52
+ “4.33 (…) Zoals Sun erkent wordt door artsen in het algemeen uitsluitend het werkzame bestanddeel voorgeschreven en zijn apothekers bovendien verplicht het aangewezen preferente product uit te leveren zelfs als Aclasta op merknaam is voorgeschreven (behoudens in het verwaarloosbaar aantal gevallen van medische noodzaak). (…)”
+53
+ Kamerstukken II 1984/85 19 131 (R 1295) nr. 3 p. 35.
+54
+ Novartis heeft in dit kader gesteld dat de tenderprocedure weliswaar niet voorziet in onderscheid naar indicatie maar dat de procedure wel ruimte laat voor het indienen van vragen (plta Novartis appel 94-97). Indien VGZ hiervoor ongevoelig zou zijn geweest en het zodoende onmogelijk zou maken om in te schrijven voor alleen Paget dan had Sun dit volgens het hof aan VGZ moeten tegenwerpen. Ik wijs ook op de noot van Schutjens onder het bestreden arrest (JGR 2015/4). Volgens haar zou een actie richting de zorgverzekeraar in dit geval kans van slagen hebben gehad. Zij wijst erop dat afhankelijk van hoe de verzekeraar de procedure heeft ingericht de verzekeraar zelf kan worden aangesproken op het uitlokken of aanzetten tot inbreuk. In de zaak Pfizer/UVIT (Gerechtshof Den Haag 24 juli 2012 ECLI:NL:GHSGR:2012:BX6075 IER 2013/27 m.nt. A.F. Kupecz) waar dit aan de orde was werd geoordeeld dat de procedure van de verzekeraar zorgvuldig was ingericht: “ 5.4 (…) Van belang is voorts dat UVIT/VGZ (in procedure I) door middel van de vragen en antwoorden met name onder 7. en 10 die voor de sluitingsdatum van inschrijving zijn gepubliceerd aan de geadresseerden van de uitnodiging kenbaar heeft gemaakt dat UVIT/VGZ octrooirechten van derden zal respecteren en dat ook de geadresseerde leveranciers dat dienen te doen. Onder deze omstandigheden kan niet worden gezegd dat leveranciers van generieke geneesmiddelen ertoe worden uitgelokt of aangezet een aanbod te doen voor levering van geneesmiddelen met een werkzame stof die op dat moment nog onder bescherming valt. (…)”
+55
+ Het hof heeft anders dan subonderdeel 3.2 bepleit volgens mij dus ook niet gemeend de tegenstrijdigheid weg te kunnen nemen door te overwegen dat het feit dat een verbod er in de praktijk toe zou kunnen leiden dat de vermarkting voor Paget wordt bemoeilijkt niet een omstandigheid is waarop Novartis enige invloed heeft of die haar valt toe te rekenen.  
+56
+ Dat was een gedachte die ook al speelde in HR 18 februari 1949 NJ 1949/357 (Staat/Bonda) toen indirecte octrooi-inbreuk nog niet in de wet stond. Daarin overwoog de Hoge Raad: “dat mag worden verlangd dat de zorgvuldigheid in het maatschappelijk verkeer ten opzichte van de rechtmatige belangen van den octrooihouder in acht te nemen in ieder geval zover ga dat men er zich van onthoude om onder de hierboven weergegeven omstandigheden willens en wetens profijt te trekken van octrooi-inbreuk door anderen en deze te bevorderen; 
+dat het stellen van dezen eis van zorgvuldigheid in het verkeer geen uitbreiding geeft aan de uitsluitende bevoegdheden welke art. 30 der Octrooiwet den octrooihouder toekent doch slechts den octrooihouder de bescherming verleent van het gemene recht nodig om hem in de hem in de Octrooiwet toegedachte positie te handhaven in gevallen waarin de rechtsmiddelen welke deze wet hem geeft ter rechtstreekse bestrijding van octrooi-inbreuk in feite te kort schieten; 
+dat het stellen van dezen eis evenmin gezegd kan worden de vrijheid te beperken die handel en verkeer voor hun normale ontwikkeling behoeven;”. 
+57
+ HvJ EG 1 juni 1999 zaak C-126/97 ECLI:EU:C:1999:269 NJ 2000/339 m.nt. H.J. Snijders (Eco Swiss/Benetton). In deze zaak werd geoordeeld dat wanneer een nationale rechter volgens de regels van zijn nationale procesrecht een vordering tot vernietiging van een arbitraal vonnis op grond van strijd met nationale regels van openbare orde moet toewijzen hij dat ook moet doen ingeval een vordering is gebaseerd op schending van het [thans] in art. 101 VWEU neergelegde (kartel)verbod (punt 37). Het hof heeft in onze zaak echter in rov. 4.38 terecht overwogen dat van schending van het kartelverbod helemaal geen sprake is (zie hierna ook onder 2.33) waardoor het arrest Eco Swiss/Benetton voor deze zaak niet relevant is. In de s.t. 3.4 verwijst Sun voor wat betreft de klacht van subonderdeel 3.3 naar HvJ EG 9 september 2003 zaak C-198/01 ECLI:EU:C:2003:430 NJ 2004/437 m.nt. M.R. Mok (Consorzio Industrie Fiammiferi). In punt 49 van dit arrest (waarnaar in de s.t. wordt verwezen) wordt geoordeeld dat de verplichting om nationale wetgeving die in strijd is met het gemeenschapsrecht buiten toepassing te laten niet alleen rust op de nationale rechter maar op alle overheidsorganen met inbegrip van de bestuursorganen hetgeen eventueel de verplichting inhoudt alle maatregelen te nemen om de volledige doorwerking van het gemeenschapsrecht te vergemakkelijken. De relevantie van dit arrest voor onze zaak is mij niet duidelijk (nu het buiten toepassing laten van nationale wetgeving die in strijd is met het Unierecht niet aan de orde is) en wordt door Sun ook niet verder toegelicht (ook niet in 3.4 van de cassatiedagvaarding waar Sun eveneens op dit arrest wijst). 
+58
+ Dat valt anders dan het subonderdeel betoogt ook niet af te leiden uit de passage uit rov. 4.38 “dit niet een omstandigheid is waarop Novartis enige invloed heeft of die aan haar valt toe te rekenen”. 
+59
+ Vgl. in dit verband de overweging van Arnold J in de interim injunction zaak Warner-Lambert/Actavis (Engelse High Court 21 januari 2015 [2015] EWHC 72 (Pat)) naar aanleiding van het argument van Actavis dat het toewijzen van een verbod in strijd zou zijn met het mededingingsrecht: 
+“138. Having regard to the conclusions I have reached above Actavis do not need to rely upon their competition law arguments. I shall therefore not lengthen this judgment by considering those arguments. I should make it clear however that had I concluded both that there was a serious issue to be tried and that the balance of the risk of injustice otherwise favoured the grant of the relief sought by Warner-Lambert I would not have refused such relief on competition law grounds.” In de Engelse bodemzaak is het beroep van Actavis op strijd met het mededingingsrecht niet behandeld (Engelse High Court (Arnold J) 10 september 2015 [2015] EWHC 2548 (Pat) onder 6).
+60
+ Onder verwijzing naar de Fiammiferi-zaak vindplaats 3 voetnoten terug. De jurisprudentie die Sun in de s.t. 3.6-3.7 aanhaalt waaronder HvJ EU 4 september 2014 C-184/13 C-187/13 C-194/13 C-195/13 en C-208/13 ECLI:EU:C:2014:2147 (Api) en HvJ EG 5 december 2006 C-94/04 en C-202/04 ECLI:EU:C:2006:758 (Cipolla e.a.) is naar ik meen voor onze zaak niet relevant. In die zaken is aan de orde of lidstaten via (quasi) overheidsregelingen maatregelen nemen of handhaven die het nuttig effect van de op ondernemingen toepasselijke mededingingsregels ongedaan kunnen maken. Daarvan is hier geen sprake. Zie over de door Sun aangehaalde jurisprudentie: S.F.M. Vollering en T.D.O. van der Vijver 'API een noot over mededingingsbeperkingen en overheden' NtER 2015-5 p. 148-153. 
+61
+ Vgl. plta Sun appel 42-44. 
+62
+ Zie bijv. HvJ EG 23 april 1991 zaak C-41/90 ECLI:EU:C:1991:161 NJ 1993/592 (Höfner) punt 21 en recenter HvJ EU 12 juli 2012 zaak C-138/11 ECLI:EU:C:2012:449 NJ 2012/564 m.nt. M.R. Mok  (Compass) punt 35 e.v.
+63
+ Zie bijv. HvJ EG 19 januari 1994 zaak C-364/92 ECLI:EU:C:1994:7 NJ 1994/460 (SAT Fluggesellschaft/Eurocontrol) HvJ EG 26 maart 2009 zaak C-113/07 ECLI:EU:C:2009:191 NJ 2009/316 m.nt. M.R. Mok (SELEX/Eurocontrol) punt 82 en HvJ EU 12 juli 2012 zaak C-138/11 ECLI:EU:C:2012:449 NJ 2012/564 m.nt. M.R. Mok (Compass) punt 36.
+64
+ Sun merkt in de s.t. 3.13-3.15 overigens terecht op dat de uitoefening van octrooirechten kan worden getoetst aan de mededingingsregels zie bijv. HvJ EG 31 oktober 1974 zaak 15-74 ECLI:EU:C:1974:114 (Centrafarm e.a./Sterling Drug) punten 39 en 40 (naar welk arrest Sun verwijst in subonderdeel 3.5) .     
+65
+ HR 3 april 2015 ECLI:NL:HR:2015:841 NJ 2015/183 (GeenStijl/Sanoma).
+66
+ Waar Sun overigens bij repliek onder 7 tegenover zet dat zij zich uitdrukkelijk op art. 3(2) Handhavingsrichtlijn heeft beroepen (IE-handhaving mag geen belemmering opleveren voor legitiem handelsverkeer) en dat het Handvest voor de Grondrechten een ruim (en mogelijk direct horizontaal werkend) toepassingbereik heeft. Wat daar verder allemaal van zij kan ik laten rusten.
+67
+ Plta Sun eerste aanleg 67 75 en MvA 170.
+68
+ Plta Sun appel 40-45. 
+69
+ Zie overigens over de verhouding tussen het octrooirecht en de vrijheid van ondernemerschap Hof Amsterdam 24 april 2012 ECLI:NL:GHAMS:2012:BW4100 IER 2012/45 m.nt. F.W.E Eijsvogels: “3.14 (…) De vrijheid van ondernemerschap en het recht op eigendom van VAT c.s. vinden hun limiet waar het octrooirecht van Rhodia begint (…)”. 
+70
+ Zie s.t. Novartis 9.1 en s.t. Sun 7. 

@@ -1,0 +1,703 @@
+
+
+
+
+
+
+
+
+
+
+
+
+vonnis
+RECHTBANK DEN HAAG
+
+Team handel
+Zittingsplaats Den Haag
+ 
+
+zaaknummer / rolnummer: C/09/481573/ HA ZA 15-111
+ 
+
+
+Vonnis van 30 maart 2016
+
+ 
+
+in de zaak van
+ 
+
+de rechtspersoon naar vreemd recht
+
+JP RUSSELL SCIENCE LTD
+gevestigd te Nicosia Cyprus 
+woonplaats kiezend te Amsterdam ten kantore van haar behandelend advocaat
+eiseres
+advocaat mr. L.Ph.J. Baron van Utenhove
+ 
+
+tegen
+ 
+
+de rechtspersoon naar vreemd recht
+
+INNOVET ITALIA S.r.l.
+gevestigd te Milaan Italië
+gedaagde
+advocaat mr. F.S.G. Tuinzing-Westerhuis.
+ 
+
+Partijen zullen hierna JP Russell en Innovet genoemd worden.
+ 
+
+De zaak is voor JP Russell behandeld door mr. ir. A.E. Heezius advocaat te Amsterdam en voor Innovet door mr. A.F. Kupecz eveneens advocaat te Amsterdam en de octrooigemachtigde drs. K.M.L. Bijvank.
+ 
+
+
+
+1 De procedure
+
+1.1.
+Het verloop van de procedure blijkt uit:
+- de beschikking van de voorzieningenrechter van deze rechtbank van 12 december 2014 waarbij het JP Russell is toegestaan Innovet te dagvaarden in de versnelde bodemprocedure in octrooizaken;
+- de dagvaarding van 19 december 2014;
+- de akte overlegging producties 1 tot en met 19 van JP Russell gedateerd 28 januari 2015;
+- de conclusie van antwoord van Innovet van 8 april 2015 met producties 1 tot en met 16;
+- de akte houdende overlegging van producties 20 tot en met 41 alsmede aanvulling van de gronden van eis van JP Russell gedateerd 11 september 2015;
+- de akte houdende overlegging nadere productie van Innovet gedateerd 11 september 2015 met productie 17;
+- de akte houdende overlegging nadere producties van Innovet gedateerd 11 september 2015 met producties 18A 18B 19A (hulpverzoek geannoteerde versie) en 19B (hulpverzoek schone versie);
+- het per e-mail van 9 september 2015 door JP Russell toegezonden definitieve overzicht van proceskosten;
+- het per e-mail van 9 september 2015 door Innovet als productie 20 toegezonden definitieve overzicht van proceskosten;
+- het pleidooi op 11 september 2015 en de daarbij door beide partijen overgelegde pleitnotities. 
+
+
+1.2.
+Bij e-mail van 21 juli 2015 heeft Innovet bezwaar gemaakt tegen een aantal door JP Russell bij akte houdende overlegging van producties 20 tot en met 41 alsmede aanvulling van de gronden van eis overgelegde producties. JP Russell heeft bij e-mail van 22 juli 2015 op het bezwaar gereageerd. Na nadere reacties van partijen eveneens op 22 juli 2015 heeft de rechtbank partijen op 28 juli 2015 bericht dat bedoelde akte van JP Russell wordt geweigerd voor wat betreft randnummers 4 en 11 de producties 29 tot en met 33 randnummers 8 en 9 en de producties 37 en 38 nu daarin in strijd met de eisen van de versnelde procedure in octrooizaken nieuwe nietigheidsgronden aan de orde worden gesteld. De rechtbank heeft voorts bericht er kennis van te hebben genomen dat producties 34 en 35 van JP Russell vervallen zijn. 
+
+
+1.3.
+Voor het geval de rechtbank zou oordelen dat conclusie 3 van het hierna te noemen octrooi van Innovet niet geldig zou zijn heeft Innovet beroep gedaan op het als productie 19A en 19B overgelegde hulpverzoek. JP Russell heeft zich tegen het hulpverzoek verzet. Ter zitting heeft de rechtbank het bezwaar tegen het hulpverzoek afgewezen. 
+
+
+1.4.
+Vonnis is nader bepaald op heden. 
+
+
+
+
+2 De feiten
+
+2.1.
+JP Russell ontwikkelt en verkoopt voedingssupplementen en dieetvoeding voor medisch gebruik. Zij brengt in Nederland onder het merk PEAPURE een product op de markt dat de stof N-palmitoylethanolamide bevat (ook bekend onder de naam palmidrol en verder aan te duiden als: PEA). PEA heeft een pijnstillende en ontstekingsremmende werking. Deze werking is al langere tijd bekend. 
+
+
+2.2.
+Innovet is houdster van Europees octrooi EP 1 207 870 B1 (verder: EP 870 of het octrooi) voor ‘pharmaceutical compositions containing N-palmitoylethanolamide and use thereof in the veterinary field’. Het octrooi is verleend op 16 maart 2005 op een aanvrage van 6 augustus 1999. Het octrooi is onder meer van kracht in Nederland en in Italië. Tegen de verlening van het octrooi is oppositie ingesteld. De oppositie is door de oppositieafdeling van het Europees Octrooibureau bij beslissing van 11 december 2008 afgewezen. Van die beslissing is geen beroep ingesteld. 
+
+
+2.3.
+De thans relevante conclusies 3 tot en met 6 van EP 870 luiden in de oorspronkelijke Engelse taal als volgt. 
+
+3. A pharmaceutical composition containing N-palmitoylethanolamide in micronized form or co-micronized with an excipient together with pharmaceutically acceptable excipients.
+4. A pharmaceutical composition according to claim 3 containing from 20 mg to 4 g of N-palmitoylethanolamide per 100 g of composition for use in the cat.
+5. A pharmaceutical composition according to claim 3 or to claim 4 in the form of an oral powder oral granules tablets or gel.
+6. Process for the preparation of a pharmaceutical composition comprising N-palmitoylethanolamide together with pharmaceutically acceptable excipient said process comprising the step of micronizing or co-micronizing said N-palmitoylethanolamide with an excipient.
+ 
+
+
+2.4.
+De beschrijving houdt onder meer het volgende in. 
+
+
+[0001] The present invention relates to pharmaceutical compositions containing N-palmitoylethanolamide (palmidrol) for use in the veterinary field particularly for the treatment of the eosinophilic skin condition in felines which is normally known as Eosinophilic Granuloma Complex.
+
+
+(…)
+
+
+[0014] The subject of the present invention is therefore the use of n-palmitoylethanolamide in micronized and/or co-micronized form for the preparation of pharmaceutical compositions for veterinary use particularly for the treatment of eosinophilic granuloma in cats for both EP and EG lesions.
+
+
+[0015] A further subject of the present invention is pharmaceutical compositions containing N-palmitoylethanolamide in micronized and/or co-micronized form.
+
+
+(…)
+
+
+[0017] The following examples explain the invention and the preferred method of implementing it without however being limiting thereof.
+
+ 
+
+
+BIOLOGICAL EXAMPLES 
+
+ 
+
+
+Example A - Effect of oral treatment with N-palmitoylethanolamide in eosinophilic skin condition in cats 
+
+ 
+
+
+Method
+
+ 
+
+
+[0018] Included in the investigation were 15 cats of European race with short hair of which 9 were female and 6 were male with ages of between 7 and 123 months. All of the animals had symptoms of the eosinophilic condition (…) The improvements in the clinical signs and in the associated lesions were evaluated on the 15th and 30th days of treatment. The treatment consisted of a preparation in accordance with Example 3 of the pharmaceutical preparations given below containing 120 mg of micronized N-palmitoylethanolamide. The active ingredient was administered in a proportion of 10 mg/kg/die for 30 days.
+
+
+[0019] Table 1 below summarizes the results of the test (PEA = 
+
+
+N-palmitoylethanolamide):   
+
+
+
+
+
+
+
+
+
+
+[0020] It is clear from the results given above that N-palmitoylethanolamide in micronized form or comicronized with an excipient can advantageously be used in the treatment of eosinophilic granuloma in cats for both EP and EG lesions both when these conditions are acute and when they are chronic.
+
+
+[0021] The treatment of the cat with N-palmitoylethanolamide gave results comparable to treatment with cortisones with the substantial advantage that it does not have the serious side effects typical of these drugs.
+
+
+[0022] The use of N-palmitoylethanolamide in micronized and/or co-micronized form (for example with lactose) is particularly advantageous in bringing about the positive outcome of the treatment.
+
+
+[0023] Clearly the use of N-palmitoylethanolamide in micronized and/or co-micronized form for the treatment of eosinophilic granuloma in cats for lesions in both EP and EG forms may be extended to all animals which have conditions of the same type.
+
+ 
+
+
+PREPARATION OF N-PALMITOYLETHANOLAMIDE (PEA)
+
+ 
+
+
+[0024] PEA is a known compound and can be prepared in accordance with the synthesis method described in EP 0 550 008.
+
+
+[0025] The micronization of PEA and its co-micronization with excipients were performed with compressed-air turbine micronizing apparatus. This apparatus is known and is not therefore described in greater detail.
+
+
+[0026] The product obtained was subjected to analysis of the particles with Mastersizer µ version apparatus from Malvern Instruments Co. UK. The final fineness of the PEA particles produced can be summarized as follows:
+
+ 
+
+
+
+
+particle size
+
+
+
+
+quantity %
+
+
+
+
+
+
+> 14 µ
+
+
+
+
+traces
+
+
+
+
+
+
+< 10 µ
+
+
+
+
+96% approx.
+
+
+
+
+
+
+< 6 µ
+
+
+
+
+80%
+
+
+
+
+
+
+It should be noted that this result of the micronization method obtained with PEA is surprising since it is unusual for a molecule of a lipid nature to produce particles with a mean fineness much less than 10 µ. The extreme fineness of the particles can be translated into improved absorption of the drug.
+
+ 
+
+
+2.5.
+Voor EP 870 behoort Europese Octrooiaanvrage 0 550 006 A2 (verder: EP 006) tot de stand van de techniek. EP 006 betreft ‘Use of N-acyl derivatives of aminoalcohols for the manufacture of a medicament for the treatment of pathologies involving mast cells’. EP 006 beschrijft het gebruik van stoffen volgens de Markush-formule van conclusie 1 van EP 006 voor de behandeling van auto-immuunziekten. Conclusie 1 van EP 006 luidt:  
+
+
+
+
+
+
+
+2.6.
+In voorbeeld 1 van EP 006 (pagina 5 regel 52 - pagina 6 regel 14) wordt de bereiding van PEA beschreven (Synthesis of N-palmitoylethanolamide). Op pagina 14 regels 40 tot en met 48 is vermeld:  
+
+
+
+
+
+
+
+2.7.
+EP 006 geeft op pagina 16 het volgende voorbeeld van een farmaceutische samenstelling volgens de uitvinding: 
+
+
+
+
+
+
+
+2.8.
+Internationale octrooiaanvrage WO 2011/027373 A1 (verder: WO 373) is gedaan op 7 september 2009 (dus na de aanvraag van EP 870) en betreft een ‘Composition containing ultra-micronized palmitoyl-ethanolamide’. WO 373 vermeldt onder meer het volgende: 
+
+(pagina 8 regel 16 – pagina 9 regel 4)
+ 
+
+
+
+
+
+
+
+
+
+
+
+(pagina 17 regel 23 – pagina 19 regel 8)
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ (pagina 19 regel 9 pagina 21 regel 20)
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2.9.
+Een artikel van D. Impellizzeri e.a. getiteld Micronized/ultramicronized palmitoylethanolamide displays superior oral efficacy compared to nonmicronized palmitoylethanolamide in a rat model of inflammatory pain uit 20141 (verder te noemen: Impellizzeri) vermeldt onder meer de resultaten van metingen van de deeltjesgrootteverdeling van een monster (lot 12126A) van PEAPURE dat is verkregen van JP Russell (verder: JPR PEA). Het artikel bevat de volgende figuren. 
+
+
+
+
+
+
+
+
+
+
+
+
+2.10.
+Impellizzeri houdt onder meer het volgende in (pagina 4): ‘The particle size distinction between nonmicronized and ultramicronized PEA is illustrated morphologically in the scanning electron microscopic images in Figure 2.’; (pagina 8) ‘Using the air-jet milling technique micronized and ultramicronized formulations of PEA were produced and shown to possess superior pharmacological action against carrageenan-induced inflammatory pain. This was in contrast to a preparation of nonmicronized PEA (PeaPure) which failed to show efficacy when given orally in this model.’  
+
+
+2.11.
+JP Russell verkoopt haar producten onder meer op de website PeaVera.com. Op deze website werd op 13 juni 2014 met betrekking tot de eigenschappen van PEAVERA (een soortgelijk product van JP Russell als PEAPURE) vermeld: ‘micronizzata in modo ottimale’. 
+
+
+2.12.
+Innovet heeft JP Russell in Italië in een procedure betrokken voor de handelsrechtbank te Venetië. In deze procedure heeft Innovet gesteld dat JP Russell inbreuk maakt op conclusie 3 van het Italiaanse deel van EP 870. 
+
+
+2.13.
+JP Russell heeft Innovet verzocht te verklaren dat zij Innovet zich zal onthouden van inbreukacties op basis van EP 870 met betrekking tot JPR PEA en producten die eenzelfde of grotere gemiddelde deeltjesgrootte bevatten. Innovet heeft hier niet aan voldaan. 
+
+
+
+
+3 Het geschil
+
+3.1.
+JP Russell vordert: 
+
+I. Primair: vernietiging van conclusies 3 tot en met 6 van het Nederlandse deel van EP 870;
+ 
+
+II. Subsidiair: indien en voor zover de vordering onder I niet of niet volledig wordt toegewezen een verklaring voor recht dat JPR PEA en soortgelijke voedingssupplementen en dieetvoeding voor medisch gebruik die PEA bevatten met dezelfde of een grotere gemiddelde deeltjesgrootte dan JPR PEA (gemeten conform Impellizzeri) niet onder de beschermingsomvang vallen van conclusies 3 tot en met 6 van het Nederlandse deel van EP 870 en derhalve dat het door JP Russell in Nederland in of voor haar bedrijf vervaardigen of gebruiken in het verkeer brengen of verder verkopen afleveren of anderszins verhandelen dan wel voor een of ander aanbieden invoeren of in voorraad hebben van JPR PEA en soortgelijke voedingssupplementen en dieetvoeding voor medisch gebruik die N-palmitoylethanolamide bevatten met dezelfde of een grotere gemiddelde deeltjesgrootte dan JPR PEA (gemeten conform Impellizzeri) geen inbreuk maakt op conclusies 3 tot en met 6 van EP 870;
+ 
+
+III. met veroordeling van Innovet in de volgens artikel 1019h Rv2 te begroten proceskosten.
+ 
+
+
+3.2.
+JP Russell baseert haar vorderingen voor zover thans van belang op de navolgende stellingen. 
+
+3.2.1.
+EP 870 beschrijft niet tot welke deeltjesgrootteverdeling micronisatie zou dienen te leiden. Voor de gemiddelde vakman is micronisatie geen vastomlijnd begrip. Gezien de afwezigheid in EP 870 van enige definitie van micronisatie of co-micronisatie dient aan die termen de meest ruime technisch zinvolle betekenis te worden toegekend. Voor de beoordeling van de geldigheid dient daaronder dan ook te worden verstaan het verkleinen van de PEA-deeltjes tot een afmeting in de orde van grootte van 1 tot enkele honderden micrometer. 
+
+
+3.2.2.
+Conclusie 3 is niet nieuw ten opzichte van EP 006. Zo wordt op pagina 14 van EP 006 een formulering met PEA beschreven in de vorm van een aerosol een formulering voor toediening via de longen en collyria een oogformulering. Voor die formuleringen moet PEA in gemicroniseerde vorm aanwezig zijn omdat de deeltjesgrootte van het actieve bestanddeel bij deze formuleringen noodzakelijk zeer klein moet zijn. Ook de oogzalf van voorbeeld 5 van EP 006 is nieuwheidsschadelijk omdat het de vakman bekend was dat een oogzalf uitsluitend zeer kleine (micron)deeltjes PEA dient te bevatten om beschadiging van het oog te voorkomen. 
+
+
+3.2.3.
+Ruwe PEA-deeltjes hebben vanwege de vorming van agglomeraten een grootte van 300m (micrometer) tot enkele centimeters. Die agglomeraten dienen voorafgaand aan elke formulering verpulverd te worden. Voor de andere in EP 006 geopenbaarde farmaceutische samenstellingen (tablet suspensie en crème) geldt daarom eveneens dat PEA daarin in gemicroniseerde vorm aanwezig is. 
+
+
+3.2.4.
+Conclusie 3 is niet nieuw gezien het openbaar voorgebruik van de producten REDONYL en PALMIDROL.  
+
+
+3.2.5.
+Uit een artikel van W. Tarello3 blijkt dat het product REDONYL al in de periode tussen mei en augustus 1999 vóór de indieningsdatum van EP 870 publiek verkrijgbaar was. Volgens de website van Innovet www.innovet.ro bevat dit product micronized Palmidrol. 
+
+
+3.2.6.
+Vóór de indieningsdatum was op de Spaanse markt het product PALMIDROL als geneesmiddel verkrijgbaar. Dit product bevatte PEA-deeltjes. JP Russell heeft de deeltjesgrootteverdeling van de PEA-deeltjes in dit product laten onderzoeken. Uit de analyse blijkt dat gezien de kleine deeltjesgrootte de deeltjes moeten zijn gemicroniseerd. 
+
+
+3.2.7.
+Conclusies 4 en 5 zijn evenmin nieuw. 
+
+
+3.2.8.
+Conclusie 6 is niet nieuw omdat het vervaardigen van de geclaimde samenstelling bekend is uit EP 006 of op basis van de samenstelling van de bekende producten REDONYL en/of PALMIDROL. 
+
+
+3.2.9.
+Conclusie 3 is niet inventief. Farmaceutische samenstellingen die PEA bevatten waren reeds bekend bijvoorbeeld uit EP 006. Uitgaande van EP 006 als meest nabije stand van de techniek is het enige verschil tussen deze samenstellingen en de samenstelling van conclusie 3 de deeltjesgrootteverdeling van de PEA-deeltjes als gevolg van de micronisatie. Het technisch effect daarvan is volgens EP 870 dat de absorptie van het geneesmiddel verbetert. 
+
+
+3.2.10.
+EP 870 openbaart geen algeheel verbeterd therapeutisch effect van gemicroniseerd PEA. Het openbaart hoogstens een verbeterd therapeutisch effect bij katten maar de conclusies zijn niet beperkt tot toepassing bij katten. JP Russell verwijst naar wat wordt opgemerkt op pagina 8 van Impellizzeri over het effect van orale toediening van PEAPURE. Gemicroniseerd PEA leidt in ieder geval niet tot een verbeterd therapeutisch effect bij de behandeling van neuro inflammatoire ziekten zoals blijkt uit octrooi-aanvrage WO 373 pagina 8 regel 16 - pagina 9 regel 4 pagina 19 regel 5 - 8 en pagina 21 regel 16 - 20. Een verbeterde therapeutische werking kan dus niet als technisch effect van de micronisatie worden aangemerkt. 
+
+
+3.2.11.
+Het objectieve op te lossen probleem is daarom te omschrijven als het verschaffen van een farmaceutische samenstelling die PEA in vaste deeltjes bevat met een verbeterde absorptie. De oplossing het onderwerpen van de PEA-deeltjes aan een micronisatie- of co-micronisatiebehandeling is voor de vakman voor de hand liggend. Het was immers op de indieningsdatum van EP 870 algemeen bekend - en in handboeken zijn daarvoor vele pointers te vinden - dat de absorptie van slecht in water oplosbare geneesmiddelen zoals PEA kon worden verbeterd door de deeltjesgrootte door middel van micronisatie te verkleinen. De vakman kon daarvoor op de indieningsdatum gebruikelijke technieken hanteren zoals de in EP 870 genoemde compressed-air turbine micronizing apparatus. 
+
+
+3.2.12.
+Ook voorbeeld 5 van EP 006 is schadelijk voor de inventiviteit van conclusie 3 en 6. Vanwege het voorkomen van schade aan het oog lag het voor de vakman voor de hand om in een farmaceutische oogzalf gemicroniseerde PEA-deeltjes toe te passen met een maximale deeltjesgrootte van 20 m. 
+
+
+3.2.13.
+Conclusies 4 en 5 zijn evenmin inventief. 
+
+
+3.2.14.
+Conclusie 6 is niet inventief omdat zoals met betrekking tot conclusie 3 betoogd de vakman die de absorptie van PEA wilde verbeteren een sterke motivatie had om de deeltjes te onderwerpen aan een micronisatiebehandeling. 
+
+
+3.2.15.
+Voor zover het kenmerk micronized moet worden geïnterpreteerd als het verkleinen van PEA tot een meer specifieke deeltjesgrootteverdeling zijn conclusies 3 tot en met 6 niet nawerkbaar omdat geen meetmethode is gespecifieerd. 
+
+
+3.2.16.
+Verhandeling van een product dat overeenstemt met JPR PEA maakt geen inbreuk op conclusies 3 tot en met 6.  
+
+
+3.2.17.
+Uit figuur 1 van het artikel van Impellizzeri volgt dat 10% van de deeltjes van het JPR PEA-monster kleiner is dan 3.19 m 50% kleiner dan 21.1 m en 90% kleiner is dan 82.9 m. Impellizzeri komt op grond van de metingen tot de conclusie dat het monster als niet-gemicroniseerd moet worden beschouwd zoals blijkt uit de legenda onder figuur 1. Hetzelfde blijkt uit de toelichting op figuur 2. 
+
+
+3.2.18.
+Voor zover de vakman conclusie 3 zo zou mogen en kunnen uitleggen dat het verkleinen van de PEA-deeltjes tot een bepaalde grootte moet worden ingelezen vormt micronisatie tot deeltjes waarvan 96% een gemiddelde grootte van minder dan 10 m heeft het enige onderscheid met de stand van de techniek. De deeltjes in JPR PEA zijn aanzienlijk groter zodat geen inbreuk wordt gemaakt op conclusie 3 op afhankelijke conclusie 4  - waarop ook al geen inbreuk wordt gemaakt omdat PEAPURE een veel hogere dosering bevat - en afhankelijke conclusie 5 noch op conclusie 6.  
+
+
+3.2.19.
+PEA voor PEAPURE en PEAVERA wordt bovendien verkleind door een conventionele hamerslagmolen. Het wordt niet onderworpen aan enige werkwijze om deeltjes kleiner dan 10 m te verkrijgen. 
+
+
+
+3.3.
+Innovet heeft hiertegen voor zover thans van belang zakelijk weergegeven het navolgende ingebracht. 
+
+3.3.1.
+Uit de beschrijving van het octrooi in het bijzonder paragraaf 25 volgt dat onder ‘micronized’ moet worden verstaan dat PEA is onderworpen aan een micronisatie- of co-micronisatiestap. Dit is een algemeen bekende handeling die op de prioriteitsdatum4 behoorde tot het standaard-arsenaal van de gemiddelde vakman. De gemiddelde vakman kan die stap uitvoeren met de genoemde en hem bekende compressed-air turbine micronizing apparatus. Paragraaf 26 geeft de resulterende deeltjesgrootte aan wanneer die wordt gemeten met de op de prioriteitsdatum bekende Mastermizer. Die deeltjesgrootte komt in de conclusies echter niet voor.  
+
+
+3.3.2.
+Een micronisatiestap wordt in EP 006 niet expliciet vermeld en de vakman zal een dergelijke stap er ook niet in meelezen. EP 006 beschrijft een klasse van chemische verbindingen N-acrylderivaten van aminoalcoholen. Eén van die verbindingen is PEA. EP 006 beschrijft voorts een aantal farmaceutische formuleringen waarin de verbindingen kunnen worden verwerkt. Uit EP 006 blijkt niet dat van de genoemde verbindingen juist PEA verwerkt zou moeten worden in aerosolen en collyria. Bij de formuleringsvoorbeelden van PEA komen aerosolen en collyria niet voor. In voorbeeld 5 is PEA in opgeloste vorm aanwezig in de mineral jelly. De PEA is dan op moleculair niveau homogeen verdeeld en niet gemicroniseerd in vaste vorm. 
+
+
+3.3.3.
+REDONYL is sinds 1 juli 1997 op de markt maar dit product bevat pas sinds juli 2001 PEA in gemicroniseerde vorm. Het door Tarello gebruikte REDONYL bevatte niet-gemicroniseerde PEA. 
+
+
+3.3.4.
+Het is onduidelijk hoe JP Russell aan het PALMIDROL-monster is gekomen. Het geanalyseerde monster kan echter niet van een palmidrolproduct van vóór de prioriteitsdatum5 zijn omdat de expiry date van het geteste product eind 2015 is ruim 16 jaar na de indieningsdatum van EP 870 en de houdbaarheid van PEA beperkt is tot circa drie jaar. De samenstelling van het product met dezelfde merknaam kan sinds de prioriteitsdatum wezenlijk zijn gewijzigd. 
+
+
+3.3.5.
+Het technisch effect van de micronisatie of co-micronisatiestap is een verbeterd therapeutisch effect zoals blijkt uit tabel 1 van het octrooi. De stand van de techniek bevat geen enkele pointer op basis waarvan een vakman zou verwachten dat een formulering die PEA in gemicroniseerde vorm of in geco-microniseerde vorm met een excipiëns bevat tot een beter therapeutisch effect zou leiden dan de formuleringen op basis van PEA in EP 006. Er waren vele verschillende mogelijkheden die de vakman kon onderzoeken om het therapeutische effect van de op PEA gebaseerde formuleringen in EP 006 te verbeteren. Bij het ontbreken van een pointer die een redelijke verwachting op succes oplevert zou de vakman PEA niet hebben gemicroniseerd.  
+
+
+3.3.6.
+Van een gebrek aan nawerkbaarheid is geen sprake. De uitvinding wordt in de conclusies 3 tot en met 6 niet gedefinieerd aan de hand van een specifieke deeltjesgrootte of deeltjesgrootteverdeling maar aan de hand van een werkwijzestap waarvan de vakman heel goed weet hoe deze wordt uitgevoerd. 
+
+
+3.3.7.
+De conclusies van EP 870 zien niet op een gemiddelde deeltjesgrootte. Het gaat er om of het product is onderworpen aan een micronisatiestap. JP Russell heeft geweigerd te verklaren dat zij in haar producten geen PEA in gemicroniseerde vorm gebruikt. Tot voor kort vermeldde JP Russell bovendien zelf op haar website PeaVera.com dat haar PEAVERA en dus ook PEAPURE producten gemicroniseerd zijn.  
+
+
+
+
+
+4 De beoordeling
+Bevoegdheid
+
+4.1.
+De rechtbank is internationaal bevoegd kennis te nemen van de vordering tot vernietiging van conclusies 3 tot en met 6 van EP 870 op grond van artikel 22 lid 4 EEX-Vo oud.6 Voor zover een verklaring van niet-inbreuk wordt gevorderd bestaat bevoegdheid al omdat die door Innovet niet is bestreden. De relatieve bevoegdheid berust op artikel 80 ROW.7 
+
+
+Het kenmerk ‘micronized or co-micronized’
+ 
+
+
+4.2.
+Gezien de door JP Russell overgelegde publicaties is ervan uit te gaan dat de deeltjesgrootte die het resultaat is van microniseren voor de gemiddelde vakman (verder: de vakman) niet exact is gedefinieerd. Als vakman is hier aan te merken zoals Innovet heeft betoogd en JP Russell onvoldoende heeft weersproken een team waarvan in ieder geval een farmacoloog deel uitmaakt. JP Russell bestrijdt echter niet althans niet gemotiveerd dat de vakman op de aanvraagdatum van EP 870 bekend was met het proces microniseren en met de handelingen die hij ter uitvoering daarvan zou moeten verrichten. Aldus wordt aangenomen dat de vakman het proces microniseren kende maar niet de (exacte) deeltjesgrootte die daardoor werd verkregen. 
+
+
+4.3.
+Het octrooi beschrijft en claimt (het vervaardigen van) formuleringen die PEA in ge(co-)microniseerde vorm bevatten maar leert de vakman niet dat de PEA-deeltjes verkleind zouden moeten worden tot een bepaalde grootte. Hij zal daarom zoals Innovet terecht aanvoert niet meer of anders begrijpen dan dat voldoende is dat PEA wordt onderworpen aan een micronisatiestap. Voor de door JP Russell bepleite betekenis van microniseren - het verkleinen van de PEA deeltjes tot een afmeting in de orde van grootte van 1 tot enkele honderden micrometer - is in het licht van het voorgaande dus geen plaats.   
+
+
+4.4.
+Bij pleidooi heeft JP Russell zich op het standpunt gesteld dat nu de deeltjesgrootte van gemicroniseerde stof niet is gestandaardiseerd dit kenmerk geen duidelijke afbakening biedt van de stand van de techniek en om die reden geen nieuwheid tot stand kan brengen. In beginsel dient aan deze stelling voorbijgegaan te worden omdat JP Russell daarmee in strijd met de eisen van een goede procesorde en in het bijzonder die van het versneld regime voor octrooizaken bij pleidooi een nieuwe nietigheidsaanval heeft gedaan. Nu door Innovet geen bezwaar is gemaakt zij er blijk van heeft gegeven adequaat op deze nieuwe stelling te kunnen reageren en ook het onderzoek door de rechtbank niet is bemoeilijkt kan de stelling onder die bijzondere omstandigheden niettemin bij de beoordeling worden betrokken.  
+
+
+4.5.
+De stelling moet echter worden verworpen. Volgens Innovet leidt bereiding van het ruwe (synthese)product PEA volgens de stand van de techniek zoals bijvoorbeeld beschreven in voorbeeld 1 van EP 006 tot een normaalverdeling van de deeltjesgrootte in ordegrootte van 50 tot 100 micrometers. Micronisatie van PEA resulteert volgens Innovet in een aanmerkelijk kleinere deeltjesgrootte in de orde van grootte van enkele micrometers. Volgens JP Russell leidt toepassing van de micronisatiestap tot een groot scala aan deeltjesgrootteverdelingen maar zij bestrijdt niet dat de deeltjesgrootte na micronisatie aanmerkelijk kleiner is dan die van de volgens de stand van de techniek gesynthetiseerde PEA. De gemicroniseerde PEA onderscheidt zich daarmee van de PEA volgens de stand van de techniek en is dus als nieuw aan te merken. 
+
+
+4.6.
+Gelet op deze uitleg van het kenmerk ‘micronized or co-micronized’ behoeft het nawerkbaarheidsbezwaar van JP Russell geen bespreking. 
+
+
+Nieuwheid ten opzichte van EP 006
+
+ 
+
+
+4.7.
+EP 006 openbaart het microniseren van PEA niet expliciet. Volgens JP Russell is het voor de vakman in elk geval bij kennisneming van formuleringen van PEA als aerosol of collyria echter duidelijk dat de PEA is gemicroniseerd. Naar het oordeel van de rechtbank  kan dat alleen dán het geval zijn wanneer hem die formuleringen duidelijk en ondubbelzinnig door EP 006 worden geopenbaard. 
+
+
+4.8.
+
+EP 006 openbaart een groep van stoffen beschreven door de in conclusie 1 weergegeven Markush-formule en noemt PEA als voorbeeld van één van die stoffen. 
+EP 006 geeft daarnaast een opsomming van mogelijke formuleringen van deze stoffen maar een concreet voorbeeld van PEA in de vorm van aerosol of collyria ontbreekt.8 Om te komen tot de door JP Russell genoemde formuleringen dient de vakman dus een keuze te maken uit enerzijds een groot aantal stoffen als actief ingrediënt en anderzijds een van de op pagina 14 genoemde formuleringsvormen. Om die reden kan niet worden geoordeeld dat EP 006 duidelijk en dubbelzinnig een aerosol- of collyriaformulering van PEA openbaart. De rechtbank acht bovendien niet aannemelijk dat de vakman in EP 006 zonder meer zou meelezen dat de PEA in een dergelijke formulering gemicroniseerd is ook al zou hij mogelijk wel een verkleiningsstap uitvoeren wanneer hij de formulering zou bereiden. 
+ 
+
+
+4.9.
+Dit laatste geldt evenzeer zo niet te meer voor zover JP Russell heeft gesteld dat PEA ook in de in EP 006 geopenbaarde tablet- crème- of capsulevorm gemicroniseerd is.9 EP 006 openbaart in formuleringsvoorbeeld 1 inderdaad PEA in tabletvorm. Echter valt niet in te zien dat en waarom de vakman in deze specifieke formulering zou meelezen dat het daarin aanwezige PEA aan een micronisatiestap is onderworpen. De stelling van JP Russell dat PEA de neiging heeft agglomeraten te vormen die voorafgaand aan de formulering verkleind moeten worden wat daar verder van zij is daarvoor onvoldoende. Hieruit volgt immers niet dat verkleining van geagglomereerde PEA-deeltjes noodzakelijkerwijs uit een micronisatiestap bestaat. 
+
+
+4.10.
+Voor wat betreft de farmaceutische formulering van voorbeeld 5 van EP 006 heeft JP Russell niet weersproken dat de PEA is opgelost in de gebruikte mineral jelly in welk geval de grootte van de PEA-deeltjes geen rol speelt. Er is dus evenmin aanleiding voor de veronderstelling dat de vakman in dit voorbeeld zal meelezen dat de PEA is gemicroniseerd.  
+
+
+4.11.
+EP 006 is derhalve niet nieuwheidsschadelijk. 
+
+
+Openbaar voorgebruik REDONYL en PALMIDROL
+
+ 
+
+
+4.12.
+De stelling van Innovet dat REDONYL tot juli 2001 ruim na de aanvraagdatum van EP 870 niet-gemicroniseerde PEA bevatte wordt bevestigd in een door Innovet overgelegde verklaring van de aan haar verbonden [X]  de oprichter van Innovet en sinds de jaren ’90 onderzoeker van PEA. JP Russell heeft de juistheid van deze verklaring niet in twijfel getrokken zodat daarvan is uit te gaan. Bij pleidooi heeft zij opgemerkt dat ruw PEA in REDONYL deeltjes zou bevatten in de orde van grootte van 50 -100 micrometer en dat dit dus valt binnen het bereik van de deeltjesgrootte van conclusie 3 van EP 870. Zoals hiervoor is overwogen ziet conclusie 3 echter niet op een bepaalde deeltjesgrootte maar op een bewerking micronisatie van PEA. 
+
+
+4.13.
+JP Russell heeft voorts naar aanleiding van de twijfel die Innovet over de datering van het PALMIDROL-monster heeft geuit niet verder toegelicht waarom moet worden aangenomen dat het in haar opdracht door Delft Solids Solutions onderzochte monster PEA betreft dat op of voor de aanvraagdatum van EP 870 op de Spaanse markt verkrijgbaar was. Nu dat niet als vaststaand kan worden aangenomen is de verkrijgbaarheid van PALMIDROL op de Spaanse markt al om die reden niet nieuwheidsschadelijk voor EP 870. 
+
+
+4.14.
+Het beroep op openbaar voorgebruik van gemicroniseerde PEA faalt dan ook.  
+
+
+4.15.
+Omdat moet worden aangenomen dat de materie van conclusie 3 nieuw is geldt hetzelfde voor de afhankelijke conclusies 4 en 5 en voor de werkwijzeconclusie 6. 
+
+
+Inventiviteit van conclusie 3
+
+ 
+
+
+4.16.
+Partijen zijn het erover eens dat EP 006 als meest nabije stand van de techniek kan worden beschouwd. De materie van conclusie 3 van EP 870 verschilt slechts van EP 006 in het gebruik van gemicroniseerd PEA.  
+
+
+4.17.
+JP Russell bestrijdt niet dat deze verschilmaatregel leidt tot een verbeterd therapeutisch effect van gemicroniseerd PEA bij de behandeling van katten met een (bepaalde) huidaandoening zoals volgt uit tabel 1 van EP 870.  
+
+
+4.18.
+Uit de documenten waarnaar JP Russell verwijst – de hiervoor vermelde passage in het artikel van Impellizzeri op pagina 8 en WO 373 – is om de navolgende redenen niet af te leiden dat het verbeterde therapeutische effect van gemicroniseerd PEA beperkt zou zijn tot katten.  
+
+
+4.19.
+De opmerking in Impellizzeri “This was in contrast to (…) when given orally in this model” betreft niet gemicroniseerd PEA maar niet-gemicroniseerd PEA.  
+
+
+4.20.
+Uit tabel III op pagina 19 van WO 373 is af te leiden dat behandeling van de muis met gemicroniseerd PEA een verbetering laat zien van de gemeten waarden bij vergelijking met de waarden na introductie van de aandoening zonder behandeling (CCI/Vehicle) en met de controlewaarden (Sham/vehicle (control)). Een vergelijking van niet-gemicroniseerd PEA met gemicroniseerd PEA ontbreekt zodat uit dit experiment niet kan worden afgeleid dat het effect van behandeling met niet-gemicroniseerd PEA en met gemicroniseerd PEA gelijk is. Ook tabel IV op pagina 21 lijkt een verbetering te laten zien van behandeling met gemicroniseerd PEA na 1 respectievelijk 2 uur na toediening en ook hier geldt dat een vergelijking met niet-gemicroniseerd PEA ontbreekt. 
+
+
+4.21.
+Aannemelijk is integendeel dat de resultaten van tabel 1 van EP 870 in meer of mindere mate geëxtrapoleerd kunnen worden. Maar zelfs indien dit niet toelaatbaar is dient het daaruit blijkende therapeutisch effect in beschouwing te worden genomen bij de formulering van het technische probleem waarvoor het octrooi een oplossing biedt. Het probleem moet daarom worden omschreven als de verbetering van het therapeutisch effect van PEA in ieder geval bij de behandeling van de in het octrooi genoemde huidaandoening. Het door JP Russell voorgestelde probleem verbetering van de absorptie van PEA leunt naar het oordeel van de rechtbank op hindsight en doet geen recht aan de bijdrage van het octrooi aan de stand van de techniek. 
+
+
+4.22.
+De vakman aan wie dit probleem zou worden voorgelegd bestaat zoals overwogen uit een team waarvan een farmacoloog deel uitmaakt. Partijen zijn het er verder over eens dat ook een formuleringsdeskundige deel van het team zou uitmaken. JP Russell heeft niet bestreden dat die vakman geen reden had verbetering van het therapeutisch effect te verwachten van micronisatie van PEA. JP Russell bestrijdt evenmin dat zoals Innovet met onderbouwing door een verklaring van de deskundige Reverchon heeft gesteld micronisatie van lipide stoffen zoals PEA op problemen kan stuiten. Er is dan geen aanleiding te veronderstellen dat de vakman het probleem zou oplossen door de micronisatiestap.  
+
+
+4.23.
+Voor voorbeeld 5 van EP 006 geldt dat dit voorbeeld niet tot de uitvinding kan leiden omdat zoals hiervoor overwogen moet worden aangenomen dat de PEA in de gebruikte mineral jelly is opgelost. 
+
+
+4.24.
+Gezien het voorgaande moet de materie van conclusie 3 als inventief worden aangemerkt. 
+
+
+Inventiviteit conclusies 4 5 en 6.
+ 
+
+
+4.25.
+
+Nu conclusie 3 als inventief moet worden aangemerkt geldt hetzelfde voor de afhankelijke volgconclusies 4 en 5 en ook voor volgconclusie 6 die de niet voor de hand liggende micronisatiestap omvat. 
+
+Hulpverzoek
+
+ 
+
+
+4.26.
+Het voorwaardelijke hulpverzoek van Innovet is niet aan de orde omdat conclusie 3 geldig moet worden geacht. 
+
+
+Inbreuk op conclusies 3 tot en met 6
+
+ 
+
+
+4.27.
+Zoals hiervoor is overwogen moet het kenmerk micronized or co-micronized aldus worden begrepen dat de PEA is onderworpen aan een micronisatiestap. Volgens JP Russell is de door haar in haar producten gebruikte PEA niet op die wijze bewerkt maar wordt de PEA verkleind door gebruik van een zogenaamde hamermolen. Ter onderbouwing van deze stelling heeft zij een verklaring overgelegd van SoliPharma B.V. van 13 april 2015. Deze verklaring houdt het volgende in: 
+
+
+
+
+
+
+
+4.28.
+Ter zitting heeft Innovet erkend dat wanneer ruw PEA wordt verkleind door een hamermolen (in plaats van door micronisatie) het verkregen product niet onder de conclusies 3 tot en met 6 van EP 870 valt. Zij bestrijdt echter de inhoud van de verklaring en wijst op de onder 2.11 weergegeven vermelding op de website van JP Russell.  
+
+
+4.29.
+Gezien de gemotiveerde betwisting door Innovet dient JP Russell haar stelling te bewijzen. Het artikel van Impellizzeri is hiervoor onvoldoende. Voor zover het JPR PEA- monster daarin door de auteurs wordt aangeduid als nonmicronized betreft het een kwalificatie die kennelijk ziet op (het onderscheid met) de in het onderzoek uitgevoerde micronisatiestap (vergelijk pagina 2 rechter kolom: PEA was subjected to the air-jet milling technique in which a coarse powder is slowly fed into a jet-mill apparatus… en pagina 3 linker kolom: Powders recovered from PeaPure and PeaVera (JP Russell Science Ltd Netherlands) capsules were analyzed as such). Het laat daarom de mogelijkheid open dat de JPR PEA door JP Russell zelf is gemicroniseerd. Voor zover in Impellizzeri de deeltjesgrootte wordt gerapporteerd kan ook daaruit niet worden afgeleid dat de JPR PEA niet door JP Russell is gemicroniseerd omdat onvoldoende duidelijk is welke deeltjesgrootteverdeling daarvan het resultaat zou zijn. Dit is uitsluitend onderzocht voor de van Epitech Group (gelieerd aan Innovet) afkomstige monsters 02/10 en 03/08. De niet betwiste vermelding op de website van JP Russell (zie 2.11) doet bovendien twijfel rijzen aan de juistheid van haar stelling. 
+
+
+4.30.
+De rechtbank zal JP Russell overeenkomstig haar algemene bewijsaanbod tot (aanvullend) bewijs toelaten. De zaak zal worden verwezen naar de rol voor opgave van getuigen die JP Russell zou willen laten horen. Partijen kunnen op die rol tevens verhinderdata overleggen en JP Russell kan desgewenst aanvullend schriftelijk bewijs overleggen. Indien zij bewijs op andere wijze wil leveren dan door getuigen of schriftelijk bewijs kan zij dat op de rol aangeven. Vervolgens zal indien nodig het tijdstip voor het verhoor van getuigen worden bepaald. 
+
+
+
+
+5 De beslissing
+De rechtbank: 
+
+5.1.
+laat JP Russell toe tot het bewijs van haar stelling dat bij de vervaardiging van de door haar in haar producten gebruikte PEA geen micronisatiestap wordt toegepast; 
+
+
+5.2.
+verwijst de zaak naar de rol van 4 mei 2016 voor opgave als hiervoor vermeld; 
+
+
+5.3.
+houdt iedere verdere beslissing aan. 
+
+Dit vonnis is gewezen door mr. P.G.J. de Heij mr. M. Knijff en mr. C.T. Aalbers en in het openbaar uitgesproken op 30 maart 2016.
+ 
+
+Bij afwezigheid van de voorzitter is dit vonnis getekend door de oudste rechter.
+
+
+
+1
+
+Journal of Neuroinflammation 2014 11:136
+
+2
+Wetboek van Burgerlijke Rechtsvordering
+3
+
+Un cas de dirofilariose sous-cutanée chronique à Dirofilaria (Nochtiella) repens ches un chat Revue Méd. Vét. 2000 151 10
+4
+De rechtbank begrijpt: indieningsdatum. Het octrooi roept immers geen prioriteit in.
+5
+Indieningsdatum zie vorige voetnoot.
+6
+Verordening (EG) 44/2001 van de Raad van 22 december 2000 betreffende de rechterlijke bevoegdheden de erkenning en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken. Deze verordening is nog van toepassing nu de dagvaarding is uitgebracht vóór 10 januari 2015.
+7
+Rijksoctrooiwet 1995
+8
+JP Russel heeft niet gesteld dat voorbeeld 5 van EP 006 een collyria zou betreffen. maar niet-gemicroniseerd pea. zodat tikel van t zou zijn tot katten. de documenten waarnaar russel verwijst - Impellizzeri  da
+9
+JP Russel heeft dit eerst bij pleidooi aangevoerd.

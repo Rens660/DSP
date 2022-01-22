@@ -1,0 +1,945 @@
+
+
+
+
+
+
+
+
+
+
+
+
+vonnis
+RECHTBANK DEN HAAG
+
+Team handel
+ 
+
+zaaknummer / rolnummer: C/09/517753 / HA ZA 16-1056
+ 
+
+
+Vonnis van 21 februari 2018
+
+ 
+
+in de zaak van
+ 
+
+de vennootschap naar vreemd recht CELLTRION INC.
+gevestigd te Incheon (Zuid-Korea)
+eiseres
+advocaat: voorheen mr. M.G.R. van Gardingen te Amsterdam thans mr. D.F. de Lange te Amsterdam
+ 
+
+tegen
+ 
+
+de rechtspersoon naar vreemd recht BIOGEN INC.
+gevestigd te Cambridge (Massachusetts Verenigde Staten)
+gedaagde
+advocaat: mr. J.A. Dullaart te Naaldwijk.
+ 
+
+Partijen zullen hierna Celltrion en Biogen genoemd worden.
+ 
+
+Voor Celltrion is de zaak bepleit door mrs. D.F. de Lange en H.J. Pot advocaten te Amsterdam. Voor Biogen zijn opgetreden mrs. R.M. Kleemans en M.G.A. Egeler advocaten te Amsterdam bijgestaan door octrooigemachtigde dr. M. Klok.
+ 
+
+
+
+1 De procedure
+
+1.1.
+Het verloop van de procedure blijkt uit:
+- de beschikking van de voorzieningenrechter van deze rechtbank van 10 mei 2016 waarbij Celltrion verlof is verleend om te procederen volgens het Versneld Regime in Octrooizaken;
+- de herstelbeschikking van de voorzieningenrechter van deze rechtbank van 12 mei 2016 waarin een kennelijke fout in de beschikking van 10 mei 2016 is hersteld;
+- de dagvaarding van 13 mei 2016;
+- de akte houdende overlegging producties zijdens Celltrion van 7 september 2016 met producties 1-33;
+- de conclusie van antwoord van 16 november 2016 met producties 1-18;
+- de akte houdende overlegging nadere producties tevens wijziging van eis zijdens Celltrion van 22 februari 2017 met producties 34-43;
+- de akte houdende overlegging nadere producties zijdens Biogen van 22 februari 2017 met productie 19;
+- de akte houdende overlegging reactieve producties zijdens Celltrion van 21 april 2017 met producties 44-53;
+- de akte houdende overlegging reactieve producties zijdens Biogen van 21 april 2017 met producties 20-24 tevens bezwaar tegen wijziging van eis en overlegging productie 39;
+- de bij brief van 10 mei 2017 verzonden nadere akte zijdens Celltrion met productie 54;
+- de nadere akte zijdens Biogen van 12 mei 2017 met productie 25;
+- het e-mailbericht van mr. De Lange mede namens de advocaten van Biogen van 16 mei 2017 met betrekking tot een regeling over de proceskosten;
+- de ter gelegenheid van het pleidooi van 19 mei 2017 overgelegde pleitnotities zijdens Celltrion waarbij randnummers 42 en 49-56 zijn doorgehaald omdat die niet zijn gepleit;
+- de ter gelegenheid van het pleidooi van 19 mei 2017 overgelegde pleitnotities zijdens Biogen waarbij randnummers 67 81 103 vanaf tweede zin t/m 105 107 vanaf tweede zin t/m 110 112-113 115-118 en 120-121 zijn doorgehaald omdat die niet zijn gepleit. 
+
+
+1.2.
+De rechtbank heeft ter zitting mede gelet op de bezwaren zijdens Biogen daartegen de wijziging van eis door Celltrion alsmede productie 39 (studieprotocol van de O’Brien studie) en productie 54 (verklaring van prof. dr. [partij-deskundige 1] van 11 april 2017) zijdens Celltrion geweigerd wegens strijd met de goede procesorde. Voor de weigering van de wijziging van eis weegt zwaar dat Celltrion niet in staat is gebleken ook desgevraagd niet de juridische grondslag voor haar eiswijziging te concretiseren. Dat maakt het voor de wederpartij en de rechtbank niet mogelijk om een daarover eerst ter zitting te houden debat adequaat te volgen. Wat productie 39 betreft geldt dat Celltrion zelf heeft gekozen voor een procedure volgens het versneld regime en zich daarmee de pas heeft afgesneden gaandeweg de procedure nieuwe publicaties (hoewel die voor haar al bekend konden zijn uit de oppositieprocedure en dus eerder hadden kunnen worden overgelegd) in het geding te brengen. Productie 54 is geweigerd nu deze buiten de in de VRO-beschikking genoemde termijnen is overgelegd. Productie 40 (The University of Texas M.D. Anderson Cancer Center Leukemia Insights Newsletter vol. 3 no. 2 summer 1998) en bijbehorende producties 41 (elektronische online versie van voornoemde nieuwsbrief) en productie 42 (verklaring van Dr. [Dr. A] ) zijdens Celltrion zijn door de rechtbank ambtshalve geweigerd nu deze producties prior art betreffen waarop Celltrion een nieuwe inventiviteitsaanval baseert hetgeen eveneens in strijd is met de goede procesorde.  
+
+
+1.3.
+Ten slotte is vonnis nader bepaald op heden. 
+
+
+
+
+2 De feiten
+Partijen
+
+2.1.
+Celltrion is een wereldwijd opererend biofarmaceutisch bedrijf met hoofdkantoor in Zuid-Korea. Eén van Celltrions activiteiten is de ontwikkeling van zogenaamde biosimilars alternatieven voor bekende biologische geneesmiddelen die een vergelijkbaar farmacokinetisch profiel hebben. Celltrion heeft een biosimilar ontwikkeld van een chimerisch monoklonaal anti-CD20 antilichaam genaamd “rituximab” die volgens Celltrion bio-equivalent is aan het hierna te noemen geneesmiddel MabThera. Celltrion heeft inmiddels een Europese marktvergunning voor de betreffende biosimilar verkregen en is naar eigen zeggen van plan om de biosimilar samen met het farmaceutische concern Teva in Nederland op de markt te brengen. 
+
+
+2.2.
+Biogen is een Amerikaans (bio)farmaceutisch bedrijf. Zij is houdster van het Europees octrooi EP 2 055 313 (hierna: EP 313 of het octrooi) voor een ‘Treatment of hematologic malignancies associated with circulating tumor cells using chimeric anti-CD20 antibody’. Het octrooi is verleend op 29 april 2015 op een aanvrage daartoe van 9 november 1999.  Het octrooi doet een beroep op prioriteit op basis van de Amerikaanse octrooi-aanvrage met nummer US 60/107658 (hierna: US 658) en indieningsdatum 9 november 1998. EP 313 heeft onder meer gelding in Nederland. F. Hoffman La Roche AG en Genentech Inc. zijn licentienemer onder dit octrooi van Biogen en brengen een op dat octrooi gebaseerd geneesmiddel op de markt onder de merken MabThera® – onder dit merk wordt het middel in Nederland op de markt gebracht – en Rituxan® (in de Verenigde Staten).  
+
+
+De octrooifamilie en verleningsgeschiedenis
+
+ 
+
+
+2.3.
+EP 313 betreft een afsplitsing van het Europees octrooi met nummer EP 1 616 572 (hierna: EP 572) eveneens op naam van Biogen met de titel ‘Chimeric anti-CD20 antibody rituxan for use in the treatment of chronic lymphocytic leukemia’. EP 572 is verleend op 1 september 2010 op een aanvrage daartoe van 9 november 1999. Ook EP 572 doet een beroep op prioriteit op basis van US 658. EP 572 is op zijn beurt een afsplitsing van Europese octrooiaanvrage EP 1 131 093 (hierna: de moederaanvrage of EP 093) op 18 mei 2000 gepubliceerd als internationale aanvrage WO 00/27428 eveneens met een beroep op prioriteit van US 658. Nadat Biogen de afgesplitste aanvraag voor EP 572 had ingediend heeft zij de moederaanvrage ingetrokken. EP 572 is door de Oppositiedivisie van het Europees Octrooi Bureau (EOB) herroepen op 24 september 2013. Daartegen is beroep ingesteld bij de Technische Kamer van Beroep van het EOB. Dit beroep is op 20 september 2016 afgewezen. Ten tijde van het pleidooi in deze zaak waren de schriftelijke gronden van die beslissing nog niet beschikbaar. 
+
+
+2.4.
+Tegen de verlening van EP 313 is oppositie ingesteld. Op 9 maart 2017 heeft de Oppositiedivisie van het EOB een voorlopige (niet-bindende) opinie gegeven inhoudende dat EP 313 nietig is wegens toegevoegde materie. Ambtshalve is het de rechtbank bekend dat de oral hearings bij de Oppositiedivisie van het EOB op 6 november 2017 hebben plaatsgevonden. De Oppositiedivisie heeft het octrooi op diezelfde dag herroepen wegens toegevoegde materie. 
+
+
+2.5.
+De conclusies van EP 313 als verleend luiden in de oorspronkelijke Engelse taal als volgt: 
+
+
+Use of an anti-CD20 antibody comprising human gamma 1 constant regions in the manufacture of a medicament for treatment of chronic lymphocytic leukemia (CLL) in a human patient wherein the medicament is for administration to the human patient at a dosage of 500 to 1500 mg/m2. 
+
+
+Use according to claim 1 wherein the medicament is for use in combination with chemotherapy. 
+
+
+Use according to claim 1 or claim 2 wherein the anti-CD20 antibody is a chimeric antibody. 
+
+
+Use according to claim 1 or claim 2 wherein the anti-CD20 antibody is a humanized antibody. 
+
+
+Use according to claim 1 or claim 2 wherein the anti-CD20 antibody is a human antibody. 
+
+
+Use according to claim 1 or claim 2 wherein the anti-CD20 antibody comprises a CD20-binding antibody fragment. 
+
+
+Use according to claim 3 wherein the anti-CD20 antibody is rituximab. 
+
+
+Use according to any one of claims 1-7 wherein the patient is refractory to a treatment previously administered for the chronic lymphocytic leukemia. 
+
+
+An anti-CD20 antibody comprising human gamma 1 constant regions for use in a method for treatment of chronic lymphocytic leukemia (CLL) in a human patient the method comprising administering the antibody to the human patient at a dosage of 500 to 1500 mg/m2.
+
+
+The antibody for use according to claim 9 wherein the method comprises administering the antibody in combination with chemotherapy. 
+
+
+The antibody for use according to claim 9 or claim 10 wherein the anti-CD20 antibody is a chimeric antibody. 
+
+
+The antibody for use according to claim 9 or claim 10 wherein the anti-CD20 antibody is a humanized antibody. 
+
+
+The antibody for use according to claim 9 or claim 10 wherein the anti-CD20 antibody is a human antibody. 
+
+
+The antibody for use according to claim 9 or claim 10 wherein the anti-CD20 antibody comprises a CD20-binding antibody fragment. 
+
+
+The antibody for use according to claim 11 wherein the anti-CD20 antibody is rituximab. 
+
+
+The antibody for use according to any one of claims 10 to 15 wherein the patient is refractory to a treatment previously administered for the chronic lymphocytic leukemia. 
+
+
+
+
+2.6.
+In de onbestreden Nederlandse vertaling luiden deze conclusies als volgt: 
+
+
+Toepassing van een anti-CD20-antilichaam omvattende menselijke gamma 1 constante regio's bij de bereiding van een geneesmiddel voor behandeling van chronische lymfocytische leukemie (CLL) bij een menselijke patiënt waarbij het geneesmiddel dient voor toediening aan de menselijke patiënt in een dosering van 500 tot 1500 mg/m2.
+
+
+Toepassing volgens conclusie 1 waarbij het geneesmiddel dient voor toepassing in combinatie met chemotherapie.
+
+
+Toepassing volgens conclusie 1 of 2 waarbij het anti-CD20-antilichaam een chimeer antilichaam is.
+
+
+Toepassing volgens conclusie 1 of 2 waarbij het anti-CD20-antilichaam een gehumaniseerd antilichaam is.
+
+
+Toepassing volgens conclusie 1 of 2 waarbij het anti-CD20-antilichaam een menselijk antilichaam is.
+
+
+Toepassing volgens conclusie 1 of 2 waarbij het anti-CD20-antilichaam een CD20-bindend antilichaamfragment omvat.
+
+
+Toepassing volgens conclusie 3 waarbij het anti-CD20-antilichaam rituximab is.
+
+
+Toepassing volgens één van de conclusies 1-7 waarbij de patiënt ongevoelig is voor een behandeling die eerder voor de chronische lymfocytische leukemie is toegediend.
+
+
+Anti-CD20-antilichaam omvattende menselijke gamma 1 constante regio's voor toepassing bij een werkwijze voor behandeling van chronische lymfocytische leukemie (CLL) bij een menselijke patiënt waarbij de werkwijze toediening van het antilichaam aan de menselijke patiënt in een dosering van 500 tot 1500 mg/m2 omvat.
+
+
+Antilichaam voor toepassing volgens conclusie 9 waarbij de werkwijze toediening van het antilichaam in combinatie met chemotherapie omvat.
+
+
+Antilichaam voor toepassing volgens conclusie 9 of 10 waarbij het anti-CD20-antilichaam een chimeer antilichaam is.
+
+
+Antilichaam voor toepassing volgens conclusie 9 of 10 waarbij het anti-CD20-antilichaam een gehumaniseerd antilichaam is.
+
+
+Antilichaam voor toepassing volgens conclusie 9 of 10 waarbij het anti-CD20-antilichaam een menselijk antilichaam is.
+
+
+Antilichaam voor toepassing volgens conclusie 9 of 10 waarbij het anti-CD20-antilichaam een CD20-bindend antilichaamfragment omvat.
+
+
+Antilichaam voor toepassing volgens conclusie 11 waarbij het anti-CD20-antilichaam rituximab is.
+
+
+Antilichaam voor toepassing volgens één van de conclusies 10-15 waarbij de patiënt ongevoelig is voor een behandeling die eerder voor de chronische lymfocytische leukemie is toegediend.
+
+
+
+
+2.7.
+Door Biogen is in deze procedure een hulpverzoek ingediend met betrekking tot EP 313. De conclusies daarvan verschillen van de verleende conclusies van EP 313 doordat in het hulpverzoek in conclusies 1 en 3 is gespecificeerd dat het anti-CD20 antilichaam  rituximab betreft zoals thans opgenomen in verleende conclusies 7 en 15. Conclusies 3-8 en 11-16 van de verleende conclusies zijn in het hulpverzoek geschrapt en alle conclusies zijn opnieuw genummerd. De conclusies volgens het hulpverzoek luiden in de overgelegde Nederlandstalige versie als volgt: 
+
+
+Toepassing van een anti-CD20-antilichaam omvattende menselijke gamma 1 constante regio’s bij de bereiding van een geneesmiddel voor behandeling van chronische lymfocytische leukemie (CLL) bij een menselijke patiënt waarbij het geneesmiddel dient voor toediening aan de menselijke patiënt in een dosering van 500 tot 1500 mg/m2 en waarbij het anti-CD20-antilichaam rituximab is.
+
+
+Toepassing volgens conclusie 1 waarbij het geneesmiddel dient voor toepassing in combinatie met chemotherapie.
+
+
+Anti-CD20-antilichaam omvattende menselijke gamma 1 constante regio’s voor toepassing bij een werkwijze voor behandeling van chronische lymfocytische leukemie (CLL) bij een menselijke patiënt waarbij de werkwijze toediening van het antilichaam aan de menselijke patiënt in een dosering van 500 tot 1500 mg/m2 omvat en waarbij het anti-CD20-antilichaam rituximab is.
+
+
+Antilichaam voor toepassing volgens conclusie 3 waarbij de werkwijze toediening van het antilichaam in combinatie met chemotherapie omvat.
+
+
+
+
+2.8.
+In de beschrijving van EP 313 is onder meer het volgende voorbeeld opgenomen1: 
+
+
+EXAMPLE 3
+
+ 
+
+Phase I/II Study of RITUXAN® in CLL
+ 
+
+
+[0033]	RITUXAN® is a monoclonal antibody targeting CD20 that has significant activity in the treatment of low-grade lymphoma (LGL). When given at a dosage of 375 mg/m2 weekly/four response rate in relapsed patients (PTS) was 43% (McClaughlin et al KOO Vol. 14 1998). Patients with small lymphocytic lymphoma had lower response rates (13%) than patients with other subtypes of LGL and lower serum levels of RITUXAN®. Reduced response seen in SLL could be related to lower density of CD20 antigen and/or higher circulating B-cell counts. Both factors would be expected to impact (negatively) on response seen in CLL. In an attempt to maximize activities in CLL we are conducting a Phase I/II study. All patients receive a first dose of 375 mg/m2 to m2 minimize infusion-relapsed side effects.
+
+[0034]	Subsequent weekly dosages (3) remain the same but are given at an increased dose level. Sixteen patients have been treated at dosages of 500-1500 mg/m2. Medium age was 66 years (range 25-78). Eighty-one percent had end-stage III-IV disease. Medium white blood cell count was 40 x 109/L (range 4-200) Hgb 11.6 g/dl (range 7.7-14.7) platelets 75 x 109/L (range 16-160) median β2 immunoglobulin was 4.5 mg/L (range 3.1-9.2). Median numbers of prior therapies was 2.5 (range 1-9). Sixty percent of patients were refractory to treatment. Two patients developed severe hypertension with the first dose (375 mgm2); another one received further therapy. Toxicity at subsequent escalated dosages has been mild although no patient at the 1500 mg/m3  [bedoeld wordt: 1500 mg/m2 huidoppervlak rb] dose level has been fully evaluated. Eight patients have completed therapy (4 at 500 mg/m2 3 at 650 mg/m2 1 at 825 mg/m2). One patient treated at 560 mg/m2 achieved full remission. One patient has progressive lymphocytosis on treatment and all other patients had reduction in peripheral blood lymphocytosis but less effect on lymph nodes. Dose escalation studies are ongoing.
+ 
+
+
+De stand van de techniek
+2
+
+ 
+
+
+2.9.
+In 1992 verscheen in het tijdschrift Cancer het artikel Relationship between Chronic Lymphocytic Leukemia and Small Lymphocytic Lymphoma van A. Batata en B. Shen.3 In de samenvatting aan het begin van dit artikel zijn onder meer de volgende passages opgenomen: 
+
+
+Background. Chronic lymphocytic leukemia (CLL) and small lymphocytic lymphoma (SLL) are considered different tissue expressions of the same disease process although they are clinically separable nosologic entities. A systematic comparison of the membrane phenotypes in the two entities needs to be investigated.
+(…)
+
+Methods. Cell suspensions from peripheral blood of 184 patients with CLL bone marrow from 23 patients with CLL and lymph nodes from 86 patients with SLL were analyzed to compare the membrane phenotypes.
+
+Results. There were no significant differences between the three groups in the mean percentages of cells expressing surface immunoglobulin (SIg) CD5 CD19 CD20 CD2 or in the frequency of cases with weak SIg.  
+(…)
+
+Conclusions. The similarity of membrane phenotypes between CLL and SLL provided evidence that the two are different tissue expressions of the same disease.
+ 
+
+
+2.10.
+In 1993 verscheen in het tijdschrift American Journal of Clinical Pathology het artikel Malignant Disorders of Small Lymphocytes – Small Lymphocytic Lymphoma Lymphoplasmacytic Lymphoma and Chronic Lymphocytic Leukemia: Their Clinical and Laboratory Relationship van G.A. Pangalis e.a.4In dit artikel zijn onder meer de volgende passages opgenomen: 
+
+
+IMMUNOLOGIC FINDINGS
+
+(…)
+
+Chronic Lymphocytic Leukemia
+
+ 
+
+Chronic lymphocytic leukemia appears to be the leukemic equivalent of SLL because the immunophenotype of the two is similar. (…)
+(…)
+ 
+
+
+COMMENTARY
+
+ 
+
+Malignant disorders of small lymphocytes despite their morphologic and immunologic similarity differ clinically and hematologically; therefore they require separate classification and clinical consideration. This is particularly significant because some of the modern lymphoma classifications fail to recognize them as separate entities (particularly the category of SLL). The simple fact for example that a patient with the lymph node
+histology of SLL and blood lymphocytosis has CLL and not SLL is overlooked. As a result of this approach in a
+recent report of 268 cases of SLL more than 30% of the patients had absolute blood lymphocytosis (the higher
+number of white blood cells in this report was 232.7 X 109/1) and therefore they were cases of CLL. Another
+significant implication of making no distinction between SLL and CLL is the fact that if CLL cases are classified as SLL on the basis of lymph node histology alone automatically all are going to be considered as stage IV according to the Ann Arbor staging system because in CLL the bone marrow is always involved. Small lymphocytic lymphoma and CLL however have other significant differences that make their distinction necessary. SLL involves the bone marrow occasionally and its pattern of positivity is nodular whereas in CLL the bone marrow is always involved and four patterns have been demonstrated; SLL is rarely complicated by bone marrow failure or autoimmune cytopenias and hypogammaglobulinemia findings that are frequent in CLL.
+Furthermore SLL lymph node lymphocytes express the adhesion molecule LFA-1 (CD11a/CD 18) which is absent from the lymph nodes or blood lymphocytes of CLL although both SLL and CLL share a large number
+of common antigens including CD5. These observations support the notion that CLL is primarily a disease
+of the bone marrow and SLL a disease of the lymph nodes.
+ 
+
+
+2.11.
+In oktober 1994 verscheen in het tijdschrift Blood het artikel Phase I Clinical Trial Using Escalating Single-Dose Infusion of Chimeric Anti-CD20 Monoclonal Antibody (IDEC-C2B8) in Patients With Recurrent B-cell Lymphoma van D.G. Maloney e.a.5In dit artikel zijn onder meer de volgende passages opgenomen: 
+
+The B-cell antigen CD20 is expressed on normal B cells and by nearly all B-cell lymphomas. This nonmodulating antigen provides an excellent target for antibody-directed therapies. A chimeric anti-CD20 antibody (IDEC-C2B8) consisting of human IgG1-k constant regions and variable regions from the murine monoclonal anti-CD20 antibody IDEC-2B8 has been produced for clinical trials. It lyses CD20+ cells in vitro
+via complement and antibody-dependent cell-mediated lysis. Preclinical studies have shown that the chimeric antibody selectively depletes B cells in blood and lymph nodes in macaque monkeys. In this phase I clinical trial 15 patients (3 per dose level) with relapsed low-grade B-cell lymphoma were treated with a single dose (10 50 100 250 or 500 mg/m2) of antibody administered intravenously. Treatment-related symptoms correlated with the number of circulating CD20 cells and grade II events consisted of fever (5 patients) nausea (2) rigor (2) orthostatic hypotension (2) bronchospasm (1) and thrombocytopenia (1). No significant toxicities were observed during the 3 months of follow-up. Serum C3 IgG and IgM levels neutrophils and T cells were largely
+unchanged. At the three higher dose levels pharmacokinetics of the free antibody showed a serum half-life of 4.4 days (range 1.6 to 10.5). Levels greater than 10 µg/mL persisted in 6 of 9 patients for more than 14 days. No quantifiable immune responses to the infused antibody have been detected. CD20+ B cells were rapidly and specifically depleted in the peripheral blood at 24 to 72 hours and remained depleted for at least 2 to 3 months in most patients. Two-week postinfusion tumor biopsies showed the chimeric antibody bound to tumor cells and a decrease in the percentage of B cells. Tumor regressions occurred in 6 of 15 patients (2 partial and 4 minor responses). The results of this single-dose trial have been used to design a multiple-dose phase I/II study.
+ 
+
+(…)
+ 
+
+In contrast the antigen CD20 a 32-kD nonglycosylated phosphoprotein present on the surface of nearly all B cells provides a more universal target for immunotherapy. CD20 is expressed on the surface of normal B cells from the time of cytoplasmic µH chain expression throughout differentiation until the antibody-secreting plasma cell stage. Importantly it is not expressed on early pre-B cells stem cells or antigen-presenting dendritic reticulum cells. More than 90% of B-cell NHLs express this surface protein. It is also expressed at a lower density on B-cell chronic lymphocytic leukemia. Although the function of this molecule is not completely defined it may aggregate and function as a calcium channel. Antibodies binding to surface CD20 can induce a transmembrane signal that can cause a variety of effects from cell activation to blocking cell cycle progression and differentiation.
+The CD20 protein has multiple trans-membrane domains and does not modulate from the cell surface in response to antibody binding and thus provides an ideal target for immunotherapeutic strategies not depending on internalization for their antitumor effect.
+(…)
+ 
+
+
+DISCUSSION
+
+ 
+
+In this phase 1 clinical trial patients with relapsed NHL received a single infusion of chimeric anti-CD20 MoAb IDEC-C2B8 in doses ranging from 10 to 500 mg/m2. All patients received the planned dose and no dose-limiting toxicities were identified. Symptoms were mild to moderate and easy manageable and more commonly observed in the three patients with high numbers of CD20 antigen-bearing B cells (normal or malignant) present in the peripheral blood suggesting that the destruction or removal of these cells during the early portions of the antibody infusion may contribute to the adverse events observed.
+(…)
+Treatment caused a selective elimination of the peripheral CD20-expressing B cells in all but 1 patient receiving doses of 100 mg/m2 or greater. (…)(…)The mechanism of the antibody-induced antitumor effect is not clear. Serum complement levels (C3) were slightly changed in only 2 patients during therapy. The chimeric antibody is capable of lysing target tumor cell lines in vitro by complement and antibody-dependent cell-mediated lysis. (…)
+(…)
+Based on these observations of safety and tumor responses to a single infusion of this chimeric anti-CD20 MoAb a phase I/II trial using four weekly doses of antibody in patients with relapsed B-cell NHL has been initiated.  
+ 
+
+
+2.12.
+In september 1997 verscheen in het tijdschrift Blood in de vorm van een “rapid communication” het artikel IDEC-C2B8 (Rituximab) Anti-CD20 Monoclonal Antibody Therapy in Patients With Relapsed Low-Grade Non-Hodgkin’s Lymphoma van D.G. Maloney e.a6. In dit artikel zijn onder meer de volgende passages opgenomen: 
+
+IDEC-C2B8 is a chimeric monoclonal antibody (MoAb) directed against the B·cell-specific antigen CD20 expressed on non·Hodgkin's lymphomas (NHL). The MoAb mediates complement and antibody-dependent cell-mediated cytotoxicity and has direct antiproliferative effects against malignant B-cell lines in vitro. Phase I trials of single doses up to 500 mg/m2 and 4 weakly doses of 375 mg/m2 showed clinical responses with no dose-limiting toxicity. We conducted a phase II multicenter study evaluating four weekly infusions of 375 mg/m2 IDEC·C2B8 in patients with relapsed low·grade or follicular NHL (Working Formulation groups A-D). Patients
+were monitored for adverse events antibody pharmacokinetics and clinical response. Thirty-seven patients with a median age of 58 years (range 29 to 81 years) were treated. All patients had relapsed after chemotherapy (median of 2 prior regimens) and 54% had failed aggressive chemotherapy. Infusional side effects (grade 1-2) consisting of mild fever chills respiratory symptoms and occasionally hypotension were observed mostly with the initial antibody infusion and were rare with subsequent doses. Peripheral blood B-cell depletion occurred rapidly with recovery beginning 6 months posttreatment. There were no significant changes in mean lgG levels and infections were not increased over what would be expected in this population. Clinical remissions were observed in 17 patients (3 complete remissions and 14 partial remissions) yielding an intent to treat response rate of 46%. The onset of these tumor responses was as soon as 1 month posttreatment and reached a maximum
+by 4 months posttreatment. In the 17 responders the median time to progression was 10.2 months (5 patients exceeding 20 months). Likelihood of tumor response was associated with a follicular histology with the ability to sustain a high serum level of antibody after the first infusion and with a longer duration of remission to prior chemotherapy. One patient developed a detectable but not quantifiable immune response to the antibody that had no clinical significance. IDEC·C2B8 in a dose of 375 mg/m2 weekly for 4 weeks has antitumor activity in patients with relapsed low-grade or follicular NHL. Results with this brief outpatient treatment compare favorably with results with standard chemotherapy and IDEC·C2B8 has a better safety profile. Further studies evaluating IDEC-C2B8 in other types of lymphoma either alone or combined with chemotherapy are warranted.
+(…)
+IDEC-C2B8 is a chimeric anti-CD20 MoAb containing human IgGl and k constant regions with murine variable regions. It binds the CD20 antigen with high affinity (5x10-9 mol/L). Because of the human constant Ig regions the chimeric antibody efficiently kills CD20 cells in virtro by augmented complement-mediated lysis and participates in antibody-dependent cell-mediated cytotoxicity (ADCC) using human complement and immune effector cells. In some NHL cell lines the binding of the antibody inhibits proliferation and directly induces apoptosis. In patients with lymphoma the administration of single doses up to 500 mg/m2 was not associated with any dose limiting toxicity. Rapid binding to and depletion of CD20+ normal B cells and tumor cells in the peripheral blood and bone marrow was observed and tumor cells in lymph node biopsies obtained 2 weeks after antibody therapy showed that the chimeric MoAb bound to CD20 antigen sites. The treatment was well tolerated causing only minimal infusion-related symptoms. (…)
+ 
+
+
+2.13.
+In juli/augustus 1998 verscheen in het tijdschrift Annals of Hematology in de vorm van een “rapid communication” het artikel Rapid tumor lysis in a patient with B-cell chronic lymphocytic leukemia and lymphocytosis treated with an anti-CD20 monoclonal antibody (IDEC-C2B8 rituximab) van M. Jensen e.a.7Het artikel luidt als volgt: 
+
+
+Summary	In this report we present a patient with B-cell chronic lymphocytic leukemia who developed an acute tumor lysis syndrome after administration of the human anti-CD20 antibody IDEC-C2B8 (RITUXIMAB) in standard dose of 375 mg/m2. IDEC-C2B8 has been demonstrated to have only mild and tolerable side effects in patients with follicular lymphoma. In these trials patients with lymphocytosis >5000/l were excluded. Physicians must be aware of this hitherto unreported phenomenon in patients with high CD20-positive blood counts.
+ 
+
+(…)
+ 
+
+
+Introduction
+
+
+Clinical trials with the chimeric human monoclonal anti-CD20 antibody IDEC-C2B8 (rituximab) demonstrated remission rates up to 50% in relapsed low-grade follicular non-Hodgkin's lymphoma. Efficacy and safety in the treatment of chronic lymphocytic leukemia (CLL) and other blood-born tumors has not been investigated yet. Here we report on a 26-year-old woman with B-CLL who experienced a rapid reduction of circulating malignant cells accompanied by severe side effects after her first rituximab infusion.
+ 
+
+
+Case report
+
+In October 1997 a 26-year-old female patient with progressive low-grade B-cell lymphoma was admitted to our hospital. She had been heavily pretreated including 12 cycles of intensive chemotherapy and high dose chemotherapy with peripheral stem cell support. She had enlarged cervical and abdominal lymph nodes hepatosplenomegaly and bone marrow infiltration. A leukocytosis of 111.9 x 109/L with 97% small malignant lymphocytes was noticeable phenotypically resembling B-cell chronic lymphocytic leukemia (CD5+ CDl0-
+CD19+ CD23+ CD25+). The CD20 surface marker was expressed on 100% of these cells. As a result of clinical reevaluation a treatment with the anti-CD20 antibody rituximab was initiated.
+After prophylactic hydration as well as administration of 1000 mg acetaminophen and 300 mg allopurinol treatment was begun with a predose of 50 mg antibody. The patient complained about moderate scratching sensations in her throat chills and a moderate rise in body temperature 90 min after this test infusion. Following pethidine she recovered quickly and the remaining 550 mg of the planned dose (375 mg/m2) was given over
+four and one-half hours. Shortly after the infusion was completed chills occurred again and fever up to 39.7C developed. The pulse increased to 124/min. The patient complained about nausea and vomiting. A blood count revealed a sharp decline in leukocytes from 111.9 x 109/L to 24.0 x 109/L and a drop in platelets from 137.0 x 109/L to 35.0 x 109/L. The plasma prothrombin time fell from 92% to 65% and serum LDH activity rose from 464 U/L to 793 U/L.
+During the following 24 hours the clinical condition and laboratory parameters of the patient further deteriorated (see Figure) resembling an acute tumor lysis syndrome with disseminated intravascular coagulation. Serum LDH rose to >2000 U/L; plasma prothrombin time and platelets continued to drop to 47% and 23 x 109/L respectively. The plasma D-dimers rose from 4.8 mg/L to 42.2 mg/L; serum transaminase activities were moderately increased (Figure). Importantly complement factors were undetectable 7 hours after the beginning of the infusion. The patient was intensively treated with forced diuresis including furosemide bicarbonate calcium potassium platelet transfusion as well as ondansetron. As a result the clinical performance status gradually improved from day two onwards and laboratory parameters began to normalize. Three further infusions of rituximab were administered in full dose on days 8 15 and 22 without clinical problems. The patient's leukocyte count subsequently normalized (8.8 x 109/L) for 3 weeks whereafter she showed signs of progressive disease requiring salvage chemotherapy.
+ 
+
+
+Discussion
+
+ 
+
+Fast but transient clearance of circulating lymphoma cells without major side effects using a monoclonal antibody was reported by Nadler et al. in a patient with diffuse poorly differentiated lymphocytic lymphoma
+(DPDL) and a WBC of 110.000 x 109/L. In patients with chronic lymphocytic leukemia elimination of malignant cells from the blood stream has been observed using another human monoclonal antibody Campath-
+1H (anti-CD52). The effector mechanisms of Campath-1H include complement-mediated lysis and cellular
+cytotoxicity and are very similar to those employed by rituximab. Since complement factors dropped to
+undetectable levels in our patient within seven hours it might be speculated that the complement-mediated cell
+lysis played a decisive role in triggering the acute tumor lysis observed.
+Although the major non-hematological side effects such as nausea fever rigor or hypotension are similar for rituximab and Campath-1H none of 29 CLL patients treated with Campath-1H showed signs of rapid tumor lysis. One possible explanation is the different schedule used: Campath-1H was administered three times weekly at initial doses of 3 or 10 mg which were escalated to 30 mg. The recommended standard dose of 375 mg/m2 for rituximab was established in patients with follicular lymphoma and lymphocyte counts of less than 5.0 x 109/L. Thus this dose might be too high for the treatment of patients with substantial peripheral tumor load. Alternatively high peripheral tumor cell counts must be reduced using cytostatic drugs prior to
+administration of rituximab.
+Recently we have treated six additional B-CLL patients and one patient with a leukemic mantle cell lymphoma
+with rituximab. The clinical side effects were minor in three patients with lymphocyte counts of 0.2 x 109/L 6.6 x 109/L and 9.4 x 109/L respectively. Signs of acute tumor lysis and NCI grade III and IV toxicities occurred in patients with marked lymphocytosis who had 30.7 x 109/L 60.8 x 109/L 69.8 x 109/L 108.5 x 109/L and 294.3 x 109/L lymphocytes respectively.
+When treating patients with CLL and marked lymphocytosis with the monoclonal antibody rituximab physicians need to be aware of the risk of hitherto unreported acute tumor lysis and intravascular coagulation.
+ 
+
+
+2.14.
+In augustus 1998 verscheen in het tijdschrift Journal of Clinical Oncology het artikel Rituximab Chimeric Anti-CD20 Monoclonal Antibody Therapy for Relapsed Indolent Lymphoma: Half of Patients Respond to a Four-Dose treatment program van P. McLaughlin e.a.8 
+
+
+Purpose
+: The CD20 antigen is expressed on more than 90% of B-cell lymphomas. It is appealing for targeted therapy because it does not shed or modulate. A chimeric monoclonal antibody more effectively mediates host effector functions and is itself less immunogenic than are murine antibodies.
+
+Patients and Methods
+: This was a multiinstitutional trial of the chimeric anti-CD20 antibody IDEC-C2B8.
+Patients with relapsed low grade or follicular lymphoma received an outpatient treatment course of IDEC·
+C2B8 375 mg/m2 intravenously weekly for four doses.
+
+Results
+: From 31 centers 166 patients were entered. Of this intent-to-treat group 48% responded. With a
+median follow-up duration of 11.8 months the projected median time to progression for responders is
+
+
+
+13.0
+
+months. Serum antibody levels were sustained longer after the fourth infusion than after the first and
+were higher in responders and in patients with lower tumor burden. The majority of adverse events occurred
+during the first infusion and were grade 1 or 2; fever and chills were the most common events. Only 12% of
+patients had grade 3 and 3% grade 4 toxicities. A human antichimeric antibody was detected in only one
+patient.
+
+Conclusion
+: The response rate of 48% with IDEC-C2B8 is comparable to results with single-agent cytotoxic chemotherapy. Toxicity was mild. Attention needs to be paid to the rate of antibody infusion with titration
+according to toxicity. Further investigation of this agent is warranted including its use in conjunction with standard chemotherapy.
+ 
+
+Approximately 80% of malignant lymphomas are of B-cell origin. Virtually all patients with low grade or follicular histology will eventually relapse after treatment with currently available standard therapies as will many with more aggressive histologic categories. Those who relapse need alternative therapeutic approaches.
+The cell-surface antigen CD20 is expressed on more than 90% of B-cell lymphomas and chronic lymphocytic leukemias and on 50% of pre-B-cell acute lymphoblastic leukemia. It is expressed on normal B cells from the pre-B-cell stage to the activated B-cell stage but is not expressed on stem cells plasma cells or cells of other lineages. It is a transmembrane protein that appears to act as a calcium channel and to play an important role in cell-cycle progression and differentiation. Monoclonal antibodies that target the CD20 antigen have been developed both for diagnostic and therapeutic purposes. The CD20 antigen is appealing for targeted therapy because it does not shed modulate or internalize.
+(…)
+The chimeric human-mouse anti-CD20 monoclonal antibody Rituximab (IDEC-C2B8; IDEC Pharmaceuticals Corp San Diego CA) is a human immunoglobulin (Ig) G1 kappa antibody with mouse variable regions isolated from a murine anti-CD20 monoclonal antibody IDEC-2B8. A single-dose phase I trial demonstrated both biologic efficacy in terms of transient B-cell depletion and a good safety profile. [voetnoot 18: Maloney DG Liles TM Czerwinski DK et al; Phase I clinical trial using escalating single-dose infusion of chimeric anti-CD20 monoclonal antibody (IDEC-C2B8) in patients with recurrent B-cell lymphoma Blood 84:2457-2466 1994] Subsequently a multiple-dose schedule was shown to be feasible and to achieve a 50% response rate in a cohort of 34 patients with relapsed low grade lymphoma. [voetnoot 19: Maloney DG Grillo-Lopez AJ White CA et al: IDEC-C2B8 (Rituximab) anti-CD20 antibody therapy in patients with relapsed low-grade non-Hodgkin’s lymphoma Blood 90:2188-2195 1997]
+The current report summarizes results of a multiinstitutional trial of a four-dose course of therapy with this chimeric anti-CD20 monoclonal antibody.
+ 
+
+PATIENTS AND METHODS
+ 
+
+
+Eligibility
+
+Adult patients with relapsed low grade or follicular B-cell lymphoma histologically confirmed and positive for CD20 were eligible. Patients with chronic lymphocytic leukemia (lymphocytes >5x109/L) were excluded. Patients had to have either not responded to primary therapy or relapsed (…) have progressive measurable disease and sign an institutional review board-approved informed consent. (…)
+ 
+
+
+Therapy
+
+The antibody dose was 375 mg/m2 administered intravenously once weekly for a total of four infusions (days 1 8 15 and 22) on an outpatient basis. (…)
+ 
+
+(…)
+ 
+
+RESULTS
+ 
+
+
+Patient Features
+
+The 166 patients were enrolled at 31 centers in the United States and Canada between April 1995 and March 1996. The median age was 58 years (range 22 to 79). There were 105 men and 61 women. There were 33 with small lymphocytic lymphoma (SL) 67 with follicular small cleaved 53 with follicular mixed three with other low grade lymphoma variants and 10 with follicular large cell. The median time since diagnosis was 4.1 years (range 0.5 to 25).
+(…)
+
+Response
+
+The overall response rate for the intent-to-treat group of all 166 patients was 48% of which 6% were CRs and the remainder PRs.
+(…)
+ 
+
+DISCUSSION
+ 
+
+The response rate was 50% with this outpatient four-dose course of therapy with IDEC-C2B8 for patients with relapsed low grade or follicular lymphoma. Most of the responses were partial (6% complete) which is typical of single-agent therapy in the setting of relapsed lymphoma. These results are comparable to some of the most encouraging recent chemotherapy results for relapsed indolent lymphoma such as with fludarabine or 2-chlorodeoxyadenosine.
+(…)
+The toxicity of the current program was notably mild particularly with respect to myelosuppressive toxicities that are typical of standard chemotherapy or RIT. Adverse events occurred mainly with the first infusion in a constellation that typically included modest (grade 1 or 2) and brief (minutes to hours) fever chills and aches. By the second and subsequent infusions the majority of patients experienced no further infusion-related toxicities. (…)
+(…)
+The high response rate with this antibody was encouraging including its efficacy in patients with adverse prognostic features (…) and in patients who often tolerate standard therapies poorly (…). Observations in patient subsets with low response rates were also informative. A rapid clearance of the antibody which may be related in part to high tumor burden (“antigen sink”) correlated with a lower response rate. Conceivably higher doses or more protracted dosing schedules might overcome this problem. The lower response rate with SL lymphoma compared with follicular lymphoma may relate to the lower density of CD20 antigen expression on SL cells. However patients with SL in this trial also typically had higher circulating B-cell counts and consequently a more rapid clearance of the agent than other patients so the lower response rate in SL lymphoma may also be related to their lower measurable antibody levels.
+(…)
+Many additional issues about this agent remain to be explored. (…) On the basis of the 50% response rate in this trial using this well-tolerated outpatient treatment schedule that is completed in 22 days further trials with this agent are warranted.
+ 
+
+
+2.15.
+In september 1998 verscheen in het tijdschrift Annals of Oncology het artikel Association of serum Rituximab (IDEC-C2B8) concentration and anti-tumor response in the treatment of recurrent low-grade or follicular non-Hodgkin’s lymphoma van N.L. Berinstein e.a.9In dit artikel zijn onder meer de volgende passages opgenomen: 
+
+
+Summary
+
+ 
+
+
+Background: Monoclonal antibodies are being utilized for treatment of patients with low-grade non-Hodgkin's lymphoma as well as other cancers. Results from phase I and II clinical studies has shown that the chimeric monoclonal antibody Rituximab has minimal toxicity and significant therapeutic activity in low grade non-Hodgkin's lymphoma.
+
+Patients and methods: We have recently reported on a multi-centre pivotal phase III clinical trial involving 166 patients with recurrent low-grade lymphoma who were treated with four infusions of Rituximab. Eighty patients (48%) achieved objective responses including 10 patients (6%) with complete responses. Overall 126 patients (76%) had a 20% reduction in overall tumor size. The median response duration and time to progression are 11.6 and 13.2 months respectively. The infusional and long term toxicities were limited.
+
+Results: In this report we describe the pharmacokinetic data obtained on these patients. Measurable concentrations of Rituximab were detected in all patients after the first infusion and increased throughout the treatment course. The half-life of the monoclonal antibody increased from 76.3 hours after the first infusion to 205.8 hours after the fourth infusion and was concomitant with a four-fold decrease in the antibody clearance. At three months and six months post-treatment the median Rituximab serum levels were 20.3 µg/ml (range 0.0 to
+
+
+
+96.8
+
+µg/ml in 104 patients) and 1.3 µg/ml (range 0.0-28.7 µg/ml in 13 patients) respectively. A statistically significant correlation was found between the median antibody concentration and response for multiple time points during the treatment and followup. The mean serum antibody concentration was also inversely correlated with measurements of tumor bulk and with the number of circulating B cells at baseline.
+
+Conclusions: We conclude that Rituximab is therapeutically effective against B-cell lymphoma. Pharmacokinetic data suggests that certain subsets of patients may possibly benefit from increased dosing and studies to address this are currently underway.
+ 
+
+(…)
+ 
+
+
+Discussion
+
+(…)
+The level of Rituximab used in this study (375 mg/m2) was chosen based upon these previous studies because it was a safe non toxic dose with demonstrable therapeutic activity. However extrapolation of these results suggest that higher doses of Rituximab may result in even higher serum levels of Rituximab and possibly greater therapeutic activity in certain patient subsets.
+(…)
+The association of high serum antibody concentration and response and the association of high serum antibody concentration with lower tumor bulk suggest that higher doses (or more doses) of Rituximab may be necessary to induce responses in some subsets of patients such as those with bulky disease.
+(…)
+Future studies will address whether anti-tumor activity can be enhanced even further by administration of larger total doses of Rituximab.
+ 
+
+
+2.16.
+In september 1998 verscheen in het tijdschrift Blood het artikel Rituximab (Anti-CD20 Monoclonal Antibody) for the Treatment of Patients With Relapsing or Refractory Agressive Lymphoma: A Multicenter Phase II Study van B. Coiffier e.a.10De laatste paragraaf van dit artikel (p. 1932 rechter kolom) luidt:  
+
+In conclusion the results of this study indicate that rituximab therapy has significant anti-lymphoma activity in DLCL and MCL patients without the toxicity commonly observed with combination chemotherapy regimens. There was no marked differences in efficacy between the two dosing regimens but the safety profile of the higher dose (500 mg/m2) was less favorable as compared with the standard dose regimen (375 mg/m2). This regimen should be evaluated in combination with standard chemotherapy in patients with aggressive B-cell lymphoma.
+ 
+
+
+De kort geding procedure
+
+ 
+
+
+2.17.
+Bij vonnis van 12 mei 2017 heeft de voorzieningenrechter van deze rechtbank in een procedure tussen onder meer Biogen en Celltrion de inbreukvorderingen van Biogen afgewezen omdat er naar zijn voorlopig oordeel een serieuze niet te verwaarlozen kans bestaat dat het octrooi in een bodemprocedure wordt vernietigd of in oppositie wordt herroepen vanwege toegevoegde materie. 
+
+
+
+
+3 Het geschil
+
+3.1.
+Celltrion vordert: 
+1. het Nederlandse deel van EP 572 en EP 313 te vernietigen;
+2. Biogen bij uitvoerbaar bij voorraad te verklaren vonnis te veroordelen tot de redelijke en evenredige kosten van deze procedure overeenkomstig artikel 1019h Rv11 te voldoen binnen twee werkdagen na de datum van het vonnis bij gebreke waarvan dit bedrag verhoogd wordt met de wettelijke rente als vermeld in artikel 6:119 BW12 vanaf de derde werkdag na het vonnis tot aan de dag van volledige voldoening. 
+
+
+3.2.
+Bij akte van 22 februari 2017 heeft Celltrion haar vordering sub 1 als volgt aangevuld: 
+
+- althans voor recht te verklaren dat Biogen niet gerechtigd is tot handhaving van het Nederlandse deel van EP 313 jegens Celltrion.
+ 
+
+Zoals hiervoor sub 1.2. is overwogen is deze wijziging van eis ter zitting geweigerd.
+ 
+
+
+3.3.
+Ter zitting heeft Celltrion aangegeven bereid te zijn haar vordering tot nietigverklaring van het Nederlandse deel van EP 572 in te trekken nu dit octrooi na het uitbrengen van de dagvaarding onherroepelijk is herroepen met dien verstande dat zij haar vordering om Biogen te veroordelen in de kosten van de procedure met betrekking tot EP 572 handhaaft. 
+
+
+3.4.
+Celltrion heeft met betrekking tot EP 313 een beroep gedaan op artikel 76 lid 1 EOV (hetgeen de rechtbank ten aanzien van het Nederlandse deel van EP 313 begrijpt als een beroep op artikel 75 lid 1 sub c Rijksoctrooiwet 1995 (hierna: ROW)) en aangevoerd dat de materie van EP 313 toegevoegde materie bevat ten opzichte van de oorspronkelijke aanvrage. Verder meent Celltrion dat EP 313 geen prioriteit kan ontlenen aan het prioriteitsdocument waarop een beroep wordt gedaan waarmee het door haar als productie 25 overgelegde O’Brien Abstract nieuwheidsschadelijke stand van de techniek wordt. Voorts is EP 313 niet inventief en evenmin nawerkbaar aldus nog steeds Celltrion.  
+
+
+3.5.
+Biogen voert verweer.  
+
+
+3.6.
+Op de stellingen van partijen wordt hierna voor zover van belang nader ingegaan. 
+
+
+
+
+4 De beoordeling
+Bevoegdheid
+
+4.1.
+De rechtbank is internationaal bevoegd kennis te nemen van de vorderingen op grond van artikel 24 lid 4 EEX-Vo13. De relatieve bevoegdheid berust op artikel 80 lid 1 sub a ROW. 
+
+
+EP 572
+
+ 
+
+
+4.2.
+De rechtbank beschouwt de vordering met betrekking tot de nietigverklaring van EP 572 gelet op Celltrions verklaring ter zitting als ingetrokken zodat die geen bespreking meer behoeft. 
+
+
+EP 313
+
+ 
+
+
+Inleiding in de techniek
+
+ 
+
+
+4.3.
+De volgende inleiding op de techniek van het octrooi is ontleend aan onbetwiste gedeelten van – onder meer – de dagvaarding de conclusie van antwoord door partijen overgelegde producties en hetgeen ter zitting is besproken. 
+
+
+4.4.
+
+kanker
+ 
+
+4.4.1.
+Kanker is een ziekte waarbij cellen zich ongecontroleerd vermenigvuldigen. Bij veel vormen van kanker leidt dit tot tumoren i.e. een wildgroei aan gemuteerde en (initieel) plaatselijk groeiende cellen. Kankercellen kunnen naburig weefsel binnendringen of zich zelfs door het lichaam verspreiden en op andere plaatsen nieuwe tumoren vormen (metastase). Vormen van kanker worden doorgaans aangeduid met een naam die is afgeleid van de plaats in het lichaam waar (solide) tumoren worden aangetroffen. Bekende vormen van kanker zijn bijvoorbeeld slokdarmkanker longkanker en borstkanker.  
+
+
+4.4.2.
+Bij andere vormen van kanker zoals leukemie worden er geen solide tumoren gevormd maar muteren cellen van bepaalde celtypes in het bloed en gaan op een ongecontroleerde manier delen. Chronische Lymfatische Leukemie (of in het Engels: chronic lymphocytic leukemia (hierna: CLL)) is het meest voorkomende subtype van leukemie in Amerika en Europa.  
+
+
+4.4.3.
+Bij CLL muteert een bepaald type witte bloedcellen (de B-cellen ook wel B-lymfocyten genoemd; zie ook hierna onder 4.5.1.). Deze gemuteerde B-cellen zijn in ongewoon grote aantallen in bloed en beenmerg (waar bloedcellen aangemaakt worden) aanwezig zodat het totale aantal witte bloedcellen (normale en kankercellen) erg groot is. Het meten van een ongewoon groot aantal in het bloed circulerende lymfocyten is de meest voorkomende manier om CLL te diagnosticeren. Op de prioriteitsdatum had het Amerikaanse National Cancer Institute (NCI) twee sets richtlijnen één die in 1988 was gepubliceerd en een update daarvan uit 1996. Volgens die richtlijnen werd CLL gediagnosticeerd als er bij patiënten meer dan 5 x 109/L circulerende lymfocyten in het bloed aanwezig zijn. 
+
+
+4.4.4.
+Het lymfestelsel is onderdeel van het circulair systeem dat samen met de bloedvaten voor het transport van allerlei soorten stoffen zorgt. Het lymfestelsel is een belangrijk onderdeel van het immuunsysteem. In het lymfestelsel is geen bloed maar lymfevocht aanwezig een heldere vloeistof die net als bloed lymfocyten bevat.  
+
+
+4.4.5.
+Lymfoom is kanker van het lymfestelsel. In tegenstelling tot leukemie zijn lymfomen vaste tumoren die zich ophopen in het lymfegebied. 
+
+
+4.4.6.
+Klein lymfocytair lymfoom of small lymphocytic lymphoma (SLL) is een lymfoom. SLL wordt vaak geclassificeerd als een subcategorie van Non-Hodgkin lymfoom (NHL). SLL-patiënten hebben over het algemeen geen circulerende tumorcellen. 
+
+
+4.4.7.
+Volgens de huidige classificatie van de Wereldgezondheidsorganisatie (WHO) worden CLL en SLL als verschillende verschijningsvormen van dezelfde ziekte beschouwd waarbij CLL zich voornamelijk manifesteert in het bloed/beenmerg en SLL voornamelijk in de lymfeklieren. 
+
+
+4.4.8.
+De behandeling van kanker richt zich op het verwijderen of doden van de kankercellen. De verwijdering van de gemuteerde cellen dient zo selectief mogelijk te gebeuren zodat gezond zich normaal vermenigvuldigend weefsel zo min mogelijk beschadigd raakt. In het geval van vaste tumoren kan dit chirurgisch bereikt worden. Kankercellen kunnen ook blootgesteld worden aan middelen die de kankercellen doden. Bekende methodes zijn het onderwerpen van tumoren aan straling (radiotherapie) of het toedienen van geneesmiddelen (chemotherapie). In bijna alle gevallen wordt echter onvermijdelijk ook gezond weefsel aangetast. Een andere vorm van therapie is immunotherapie waarbij het immuunsysteem van de patiënt wordt ingezet om kankercellen te bestrijden. In deze zaak gaat het om een geneesmiddel voor immunotherapie.  
+
+
+
+4.5.
+
+het immuunsysteem en monoklonale antilichamen 
+ 
+
+4.5.1.
+Wanneer het lichaam wordt geconfronteerd met pathogenen (ziekteverwekkers) zoals bacteriën of virussen maakt het menselijk immuunsysteem antilichamen aan om deze schadelijke stoffen te identificeren en neutraliseren. Het immuunsysteem omvat verschillende soorten cellen die betrokken zijn bij de bescherming van het lichaam tegen pathogenen waaronder witte bloedcellen. Een belangrijke subcategorie van witte bloedcellen zijn de zogenaamde lymfocyten die bij een gezond persoon ongeveer 30% van de witte bloedcellen vormen. Lymfocyten kunnen verder weer worden onderverdeeld in natural killer-cells (NK-cellen) T-cellen en B-cellen.  
+
+
+4.5.2.
+Antilichamen zijn relatief grote Y-vormige eiwitten en bevatten zowel constante regio’s als variabele regio’s die wisselen afhankelijk van het specifieke antigeen waaraan dit antilichaam kan binden. Een antigeen is een molecuul dat in staat is een reactie van het afweersysteem op te wekken. Ziekteverwekkers bevatten allerlei uitstekende molecuul-uiteinden die als antigenen kunnen fungeren. Een antilichaam bindt aan een specifiek antigeen via de variabele regio aan het ‘uiteinde’ van de Y zoals hieronder afgebeeld:  
+
+
+
+
+
+
+Er zijn miljoenen variaties mogelijk in de variabele regio. Daardoor zijn de verschillende antilichamen in staat een corresponderend aantal antigenen te herkennen en neutraliseren. 
+ 
+
+
+4.5.3.
+Hoewel antilichamen op natuurlijke wijze worden aangemaakt door het immuunsysteem kunnen zij ook buiten het lichaam van een patiënt worden geproduceerd en vervolgens geïnjecteerd om een ziekte te bestrijden of het immuunsysteem te helpen bij het bestrijden van een ziekte. Deze antilichamen kunnen gebruikt worden ingeval de betrokken antigenen niet op natuurlijke wijze een (voldoende en/of voldoende snelle) immuunreactie teweegbrengen. De meest gebruikte methode voor het produceren van antilichamen bestaat uit het selecteren en vervolgens klonen van cellijnen die uit antilichaam-producerende cellen van muizen gehaald worden. Aangezien alle antilichamen die worden gemaakt via deze methode voortkomen uit het klonen van dezelfde cellijn worden dergelijke antilichamen ‘monoklonale antilichamen’ genoemd.  
+
+
+4.5.4.
+
+Een bekend probleem met antilichamen die (oorspronkelijk) zijn verkregen uit muizen (zogenaamde ‘murine antibodies’) is dat het menselijk immuunsysteem deze antilichamen herkent als pathogenen (ziekteverwekkers) en dus zijn eigen antilichamen aanmaakt om deze van muizen verkregen antilichamen te bestrijden. Dit staat bekend als de ‘human anti-mouse antibody (HAMA)-response’. Aangezien de HAMA-reactie de antilichamen die aan de patiënt zijn toegediend neutraliseert staat zij de werkzaamheid daarvan in de weg. De reactie resulteert ook in systemische ontstekingsverschijnselen. 
+Om de HAMA-reactie te voorkomen kunnen de antilichamen zo ontworpen worden dat ze meer lijken op menselijke antilichamen. Eén manier om dit te doen is door het aanmaken van zogenaamde ‘chimerische antilichamen’ (chimeric antibodies). Deze antilichamen worden gemaakt door de variabele regio’s van het muizenantilichaam te versmelten met de constante regio’s van menselijke antilichamen. Het aldus verkregen antilichaam lijkt meer op een door het menselijke lichaam zelf gegenereerd antilichaam. 
+ 
+
+
+
+4.6.
+
+rituximab
+ 
+
+4.6.1.
+Rituximab (aanvankelijk ook aangeduid met IDEC-C2B8) is een chimerisch monoklonaal antilichaam dat zich specifiek richt op een antigeen dat bekend staat als ‘CD20’. Het CD20-antigeen is een eiwit dat voorkomt op het oppervlak van één type witte bloedcellen namelijk volwassen B-cellen. Dit antigeen komt niet voor bij andere celtypen. Omdat rituximab zich richt op het CD20-antigen wordt rituximab een anti-CD20-antilichaam genoemd. Rituximab valt geen cellen aan die het CD20-antigeen niet hebben. Ook richt rituximab zich niet op vroege vormen van B-cellen zoals stam-B-cellen en pro-B-cellen nu deze het CD20-antigeen nog niet bevatten. Dit betekent dat het lichaam verder kan gaan met het aanmaken van nieuwe B-cellen; het immuunsysteem wordt dus niet permanent aangetast door rituximab.  
+
+
+4.6.2.
+Rituximab wordt gebruikt voor de behandeling van ziektes waarbij B-cellen of afwijkingen in de B-cellen betrokken zijn zoals de hiervoor besproken vormen van kanker CLL en SLL. 
+
+
+4.6.3.
+
+Wanneer rituximab bindt aan het CD20-oppervlakte-eiwit op een B-cel wordt een proces in gang gezet dat het membraan van die cel doet scheuren waardoor de cel wordt vernietigd. Dit proces wordt ‘lysis’ genoemd. De inhoud van de cel komt daarbij in de bloedbaan terecht. Wanneer een groot aantal cellen wordt vernietigd kan de patiënt als gevolg hiervan last krijgen van bijwerkingen. Bij de bestrijding van kanker worden dergelijke bijwerkingen in serieuze gevallen aangeduid als ‘acute tumor lysis syndrome’ (TLS). Aangezien TLS veroorzaakt wordt door het afsterven van cellen (waar de behandeling op is gericht) is het optreden van TLS op zich een aanwijzing voor de werkzaamheid van de therapie. TLS is niet specifiek voor rituximab en kan ook optreden bij andere geneesmiddelen die cellen doden. Het is en was een bekende bijwerking van chemotherapie. 
+
+Gebrek aan inventiviteit
+
+ 
+
+
+
+4.7.
+De rechtbank ziet aanleiding eerst te beoordelen of EP 313 zoals Celltrion heeft gesteld nietig is wegens gebrek aan uitvindingshoogte. Daarbij zal zij zich focussen op de conclusies volgens het hulpverzoek. Als die nietig worden bevonden geldt zulks immers evenzeer voor de bredere conclusies van het octrooi zoals verleend.  
+
+
+4.8.
+Celltrion gaat bij haar inventiviteitsaanval uit van McLaughlin als meest nabije stand van de techniek (zie 2.14.). Biogen heeft evenwel aangevoerd dat de vakman die een behandelwijze zoekt voor CLL op de prioriteitsdatum gezocht zou hebben naar publicaties die gaan over de behandeling van CLL. Biogen meent dat Jensen (zie 2.13.) de most promising springboard vormt zoals ook de Oppositie Afdeling heeft aangenomen. 
+
+
+4.9.
+Hoewel aan Biogen kan worden toegegeven dat McLaughlin niet ziet op de behandeling van CLL – McLaughlin gaat over de behandeling van lymfomen zoals SLL en patiënten met CLL worden in McLaughlin expliciet uitgesloten van onderzoek (zie r.o. 4.16 - 4.18 hierna) – geldt dat een octrooi in beginsel inventief moet zijn ten opzichte van alle stand van de techniek zolang een publicatie maar een reëel vertrekpunt vormt. 
+
+
+4.10.
+Hoewel partijen bepaald van mening verschillen over de vraag of SLL en CLL als dezelfde ziekte kunnen worden aangemerkt is niet in geschil dat SLL en CLL ten minste gerelateerde ziektebeelden zijn14 omdat beide ziektes als gelijkenis hebben dat zij hun oorsprong vinden in een mutatie van B-cellen die leidt tot ongecontroleerd delen van die cellen. Zulks wordt ondersteund door de verklaringen van de partij-deskundigen van beide zijden prof. [partij-deskundige 2] en prof. [partij-deskundige 3] voor Celltrion en prof. [partij-deskundige 4] voor Biogen. 
+
+
+4.11.
+Prof. [partij-deskundige 2] en prof. [partij-deskundige 3] hebben onder verwijzing naar Batata en Shen (zie 2.9.) en de publicatie van Pangalis (zie 2.10.) waarvan [partij-deskundige 3] co-auteur was in hun verklaringen nog uitgelegd dat de morfologie het immunofenotype en de moleculaire eigenschappen van tumorcellen bij CLL en SLL gelijk zijn (voor deze zaak is in het bijzonder relevant de gelijkheid van de CD20 eiwitten op het oppervlak van de cellen) zodat CLL hoewel deze ziekte zich klinisch anders manifesteert dan SLL (namelijk in het bloed en niet in het lymfe-gebied) en ook anders geclassificeerd wordt (de ‘cut off’ ligt bij CLL op meer dan 50 x 109/L circulerende lymfocyten waar dat bij SLL ≤ 40 x 109/L is) als een aan SLL gerelateerde ziekte kan worden gezien. Dit alles heeft Biogen niet althans onvoldoende gemotiveerd bestreden. 
+
+
+4.12.
+Gelet op het vorenstaande kan niet gezegd worden dat McLaughlin geen reëel vertrekpunt is zodat de rechtbank de inventiviteit van (het hulpverzoek van) EP 313 startend vanuit die publicatie zal beoordelen. 
+
+
+4.13.
+Met Celltrion neemt de rechtbank aan dat de vakman in deze zaak bestaat uit een team met in ieder geval een clinicus gespecialiseerd in hematologische maligniteiten met kennis van CLL en SLL. Of de behandelend clinicus nu een hematoloog is of een oncoloog is niet zo zeer ter zake doende nu ook Biogen bij pleidooi desgevraagd heeft erkend dat er in Nederland (anders dan in de Verenigde Staten) ten tijde van de prioriteitsdatum waarop Biogen zich beroept en waar de rechtbank veronderstellenderwijs vanuit gaat (9 november 1998) geen strikte scheiding bestond in die zin dat SLL steeds door een oncoloog werd behandeld en CLL door een hematoloog. Dit rijmt ook met de verklaring van de eigen deskundige van Biogen prof. [partij-deskundige 1]  emeritus hoogleraar hematologie dat hij ‘prior to as well as after November 1998 […’’] was’ treating patients having hematologic malignancies including lymphoma and leukemia’15 
+
+
+4.14.
+McLaughlin beschrijft een klinisch onderzoek met 166 patiënten met B-cel lymfoom (‘patients with relapsed low grade or follicular lymphoma’) die zijn behandeld met vier wekelijkse intraveneuze doseringen van het anti-CD20 antilichaam rituximab (in de publicatie ook wel aangeduid als: ‘IDEC-C2B8’) van 375 mg/m2. Onder het kopje ‘Eligibility’ wordt aangegeven dat ‘Patients with chronic lymphocytic leukemia (lymphocytes > 5 x 109/L) were excluded’. 
+
+
+4.15.
+Tussen partijen is niet in geschil dat conclusies 1 en 3 van het hulpverzoek van EP 313 ten opzichte van McLaughlin verschillen in een hogere dosering van 500 – 1500 mg/m2 rituximab. 
+
+
+4.16.
+Biogen meent dat de toepassing van rituximab voor de behandeling van CLL een tweede verschilmaatregel vormt. Celltrion is het daar niet mee eens omdat McLaughlin hoewel in die publicatie wordt gezegd dat dit niet zo is feitelijk wél patiënten met CLL meeneemt in de studie. Celltrion verwijst in dat verband naar voorbeeld 3 van EP 313 dat vermeldt dat het aantal witte bloedcellen van de patiënten die deelnemen aan het onderzoek tussen de 4 x 109/L en 200 x 109/L ligt. Aangezien ongeveer 30% van de witte bloedcellen uit lymfocyten bestaat ligt de ondergrens voor lymfocyten in voorbeeld 3 rond de 12 x 109/L. Omdat McLaughlin de bovengrens voor het aantal lymfocyten in zijn onderzoek definieert op 5 x 109/L is sprake van een overlap aldus nog steeds Celltrion. 
+
+
+4.17.
+Biogen heeft dit betoog gemotiveerd weersproken. Zij heeft onder verwijzing naar het artikel van Cheson16 aangevoerd dat het algemeen bekend was dat CLL wordt gediagnosticeerd door een hoeveelheid van meer dan 5 x 109/L circulerende lymfocyten op het moment van diagnose. Hoewel na behandeling de hoeveelheid circulerende lymfocyten kan afnemen onder genoemde waarde verandert de diagnose van patiënten niet zij blijven CLL-patiënt. Voorbeeld 3 van het octrooi ziet op CLL-patiënten die ten minste één keer eerder zijn behandeld. Gelet op de ondergrens van het aantal witte bloedcellen dat in het voorbeeld wordt genoemd zijn in dat onderzoek kennelijk patiënten meegenomen bij wie eerdere behandeling zo goed is aangeslagen dat de hoeveelheid lymfocyten bij hen inderdaad onder de ‘cut off’ van 5 x 109/L is komen te liggen. Dat maakt echter niet dat gesproken kan worden van een overlap tussen de patiëntenpopulatie van dit voorbeeld en die van McLaughlin aldus Biogen. 
+
+
+4.18.
+Bij pleidooi heeft Celltrion de lezing van Biogen niet meer bestreden zodat het andersluidende betoog van Celltrion wordt verworpen.  
+
+
+4.19.
+De verschilmaatregelen van conclusies 1 en 3 van het hulpverzoek van EP 313 ten opzichte van McLaughlin zijn derhalve 1) de toepassing van rituximab voor de behandeling van CLL en 2) de hogere dosering van 500 – 1500 mg/m2. 
+
+
+4.20.
+Het technisch effect van de verschilmaatregelen is een effectieve behandeling van CLL patiënten met rituximab zodat het objectief technische probleem geformuleerd kan worden als het verschaffen van een effectieve behandeling voor CLL. 
+
+
+4.21.
+McLaughlin leert de vakman eerst dat het antigeen CD20 voorkomt op meer dan 90% van het oppervlak van B-cellen bij zowel lymfomen als chronische lymfatische leukemie (CLL) en dat het ‘appealing is for targeted therapy’. Vervolgens beschrijft McLaughlin het anti-CD20 antilichaam rituximab en de eerdere fase I en II onderzoeken waarbij dit antilichaam is gebruikt voor de behandeling van relapsed low grade NHL en folliculair NHL als weergegeven in de publicaties van Maloney 1994 (15 patiënten met een single dose rituximab van 10 50 100 250 of 500 mg/m2 – zie 2.11.) en Maloney 1997 (34 patiënten met een dosering rituximab van 375 mg/m2 – zie 2.12.). Dan gaat McLaughlin in op het eigen onderzoek met 166 patiënten waarvan wordt gezegd dat ‘adult patients with relapsed low grade or follicular B-cell lymphoma histologically confirmed and positive for CD20 were eligible’ terwijl ‘patients with chronic lymphocytic leukemia (lymphocytes > 5 x 109/L)’ waren uitgesloten. Het subtype SLL is specifiek in de studie begrepen zoals blijkt uit verschillende passages in McLaughlin waar SLL wordt genoemd of besproken. McLaughlin laat een ‘over all response rate’ zien van 48% waarvan bij de ‘discussion’-paragraaf wordt aangeven dat ‘These results are comparable to some of the most encouraging recent chemotherapy results for relapsed indolent lymphoma such as with fludarabine or 2-chlorodeoxyadenosine’. McLaughlin benoemt dat de ‘toxicity of the current program was notably mild’. Ongunstige reacties deden zich hoofdzakelijk voor bij de eerste injectie terwijl bij de tweede en volgende injecties bij het merendeel van de patiënten die infusie-gerelateerde toxiciteitsproblemen achterwege bleven. McLaughlin stelt vervolgens vast dat: 
+
+Observations in patients with low response rates were also informative. A rapid clearance of the antibody which may be related in part to high tumor burden (“antigen sink”) correlated with a lower response rate. Conceivably higher doses or more protracted dosing schedules might overcome this problem.
+ 
+
+McLaughlin eindigt met de volgende conclusie:
+ 
+
+On the basis of the 50% response rate in this trial using this well-tolerated outpatient treatment schedule that is completed in 22 days further trials with this agent are warranted.
+ 
+
+
+4.22.
+De rechtbank is met Celltrion van oordeel dat McLaughlin een voldoende incentive voor de gemiddelde vakman vormt voor het onderzoeken van het gebruik van rituximab voor de behandeling van CLL patiënten in hogere doseringen dan wekelijks 375 mg/m2. 
+
+
+4.23.
+Niet in geschil is dat de vakman die McLaughlin leest het werkingsmechanisme van het anti-CD20 antilichaam rituximab op het antigeen CD20 op bij FL (folliculair lymfoom)17 of SLL betrokken maligne B-cellen zou begrijpen iets wat immers in de publicaties van Maloney uit 1994 en 1997 die in McLaughlin in herinnering worden geroepen en waarnaar wordt verwezen al was uiteengezet. McLaughlin zelf legt vervolgens in de inleiding uit dat het antigeen CD20 niet alleen op het oppervlak van B-cellen bij lymfomen wordt aangetroffen maar óók op B-cellen bij CLL. Gelet hierop mag worden aangenomen dat de vakman zou begrijpen dat het anti-CD20 antilichaam rituximab op dezelfde manier zou aangrijpen op het antigeen CD20 op de bij CLL betrokken kwaadaardige B-cellen. 
+
+
+4.24.
+Biogen heeft hier alleen maar tegen in gebracht dat SLL op de prioriteitsdatum als een andere ziekte werd gezien dan CLL en dat hoewel bekend was dat beide ziekten gepaard gaan met gemuteerde B-cellen er belangrijke verschillen bestonden tussen de ziekten die zich ook op verschillende plaatsen en in verschillende vorm in het lichaam manifesteerden (CLL met vrij circulerende cellen in bloed en beenmerg NHL/SLL met tumoren in het lymfe-gebied). Prof. [partij-deskundige 3] constateert echter terecht in haar verklaring dat Biogen noch haar deskundige prof. [partij-deskundige 4] uitlegt waarom dit relevant zou zijn voor de behandeling van CLL patiënten met rituximab. Anders gezegd: Biogen heeft niet gemotiveerd betoogd dat het hiervoor besproken mechanisme bij CLL niet of anders zou werken dan bij SLL zodat de rechtbank van diezelfde werking en de aanwezigheid van kennis daarvan bij de vakman op de prioriteitsdatum uitgaat. 
+
+
+4.25.
+Gegeven het feit dat het onderzoek waarvan McLaughlin verslag doet in ieder geval ‘over all’ zeer succesvol was (McLaughlin zegt dat de resultaten vergelijkbaar zijn met sommige van de meest bemoedigende recente chemotherapie resultaten en Biogen’s eigen deskundige [partij-deskundige 1] spreekt – zoals Celltrion ter zitting onweersproken heeft bepleit18 – over een ‘pivotal trial’ dat ‘generated much attention in the field because it was a ground-breaking article’) en de toxiciteit mild bleek te zijn zou de vakman voorts voldoende gemotiveerd zijn zulks te onderzoeken en had hij ook een redelijke verwachting van succes. Daartoe geldt ook het volgende. 
+
+
+4.26.
+McLaughlin wijst er op dat er een lagere respons werd gezien bij SLL vergeleken met folliculair lymfoom. De vakman zou hier mogelijk een ogenblik kunnen denken dat het gebruik van rituximab voor CLL patiënten dan misschien ook minder aantrekkelijk zou zijn. McLaughlin geeft echter meteen ook twee verklaringen. De publicatie wijst er in zijn algemeenheid op dat een ‘rapid clearance of the antibody which may be related in part to high tumor burden (“antigen sink”)’ samenhing met een lagere ‘response rate’ en dat denkbaar hogere doseringen of ‘more protracting dosing schedules’ hieraan tegemoet kunnen komen. Ten aanzien van SLL in het bijzonder wordt opgemerkt dat: 
+
+The lower response rate with SL lymphoma compared with follicular lymphoma may relate to the lower density of CD20 antigen expression on SL cells. However patients with SL in this trial also typically had higher circulating B-cell counts and consequently a more rapid clearance of the agent than other patients so the lower response rate in SL lymphoma may also be related to their lower measurable antibody levels.
+ 
+
+Deze verklaring van McLaughlin maakt het voor de vakman voor de hand liggend een hogere dosering rituximab bij SLL toe te passen. Tegelijkertijd zal zoals prof. [partij-deskundige 2] en prof. [partij-deskundige 3] hebben verklaard de verklaring van McLaughlin de vakman er om dezelfde reden ook toe brengen hogere doseringen te onderzoeken bij de behandeling van CLL. De bij SLL en CLL betrokken tumorcellen zijn qua morfologie immunofenotype en moleculaire eigenschappen immers gelijk (vgl. r.o. 4.11.). In vergelijking met FL is bij de bij SLL en CLL betrokken B-cellen sprake van een lagere concentratie van CD20-antigeen op het oppervlak en bij CLL is sprake van een hoger aantal circulerende B-cellen. Daardoor zou de vakman bij zijn onderzoek naar toepassing van rituximab bij CLL patiënten worden aangezet om zo nodig een hogere dosering dan 375 mg/m2 te gebruiken. In de woorden van prof. [partij-deskundige 3] :
+ 
+
+The finding of McLaughlin would prompt me to try rituximab also in the treatment of CLL. Due to the higher amount of circulating B-cells it would be logical to try higher doses as also suggested by McLaughlin. I would have felt comfortable to try higher doses on subsequent infusions due to the reported safety profile which is very favourable.
+ 
+
+Prof. [partij-deskundige 2] heeft in gelijke zin verklaard:
+ 
+
+I think it would have been obvious to try dose escalation for the treatment of SLL. Given that CLL cells were also known to express low levels of CD20 and that Rituximab appeared to lack most of the toxicities associated with chemotherapy it would also have been obvious to consider the use of higher (subsequent) doses of Rituximab in CLL. 
+ 
+
+
+4.27.
+Dat de vakman bij het verhogen van de dosering van rituximab bij CLL een dosering van 500 mg/m2 zou proberen ligt voor de hand nu Maloney in zijn hiervoor in 2.11. aangehaalde publicatie uit 1994 al een zelfde dosering toepaste bij de behandeling van SLL en rapporteerde dat er ‘no significant toxicities’ waren. Die dosering ligt in de in EP 313 door Biogen geclaimde range. Biogen heeft niet bestreden dat de specifieke range van 500 mg/m2 – 1500 mg/m2 geen inventiviteit kan verschaffen omdat dit een gebruikelijke dosisescalatie betreft. 
+
+
+4.28.
+Dat het verhogen van de dosering bij CLL een aangewezen maatregel leek volgt bovendien uit de hiervoor in 2.15. genoemde publicatie van Berinstein welke Celltrion in combinatie met McLaughlin aan haar inventiviteitsaanval ten grondslag heeft gelegd.19 Berinstein (waarvan McLaughlin en overigens ook Maloney co-auteur was) werd gepubliceerd in september 1998 derhalve een maand na de publicatie van McLaughlin in augustus 1998 en bevat de pharmacokinetische data die werden verkregen van het in McLaughlin beschreven onderzoek op FL/SLL patiënten (zie de aangehaalde passage onder ‘Summary’ bij ‘Results’). Berinstein hint op een aantal plaatsen dat verhoging van de dosering nuttig kan zijn bijvoorbeeld meteen in de ‘Summary’: 
+
+We conclude that Rituximab is therapeutically effective against B-cell lymphoma. Pharmacokinetic data suggests that certain subsets of patients may possibly benefit from increased dosing and studies to address this are currently underway.
+ 
+
+Deze suggestie wordt voorts gedaan op p. 999 l.k.:
+ 
+
+The level of Rituximab used in this study (375 mg/m2) was chosen based upon these previous studies because it was a safe non toxic dose with demonstrable therapeutic activity. However extrapolation of these results suggest that higher doses of Rituximab may result in even higher serum levels of Rituximab and possibly greater therapeutic activity in certain patient subsets.
+ 
+
+en p. 1000 l.k.:
+ 
+
+The association of high serum antibody concentration and response and the association of high serum antibody concentration with lower tumor bulk suggest that higher doses (or more doses) of Rituximab may be necessary to induce responses in some subsets of patients such as those with bulky disease.	
+ 
+
+en ten slotte bij de conclusie (p. 1000 r.k.):
+ 
+
+Future studies will address whether anti-tumor activity can be enhanced even further by administration of larger total doses of Rituximab.
+ 
+
+
+4.29.
+Berinstein is voor de vakman aldus een extra aansporing om hogere doseringen toe te passen bij de behandeling van SLL en dus zoals hiervoor uitgelegd ook CLL. Het verweer van Biogen dat het hinten op hogere doseringen in Berinstein alleen geldt voor vergrote tumoren in de lymfen (‘bulky disease’) faalt. In de eerste plaats omdat Berinstein de vakman op meer plaatsen aanzet tot het gebruiken van hogere doseringen in het algemeen en niet uitsluitend in verband met ‘bulky disease’. In de tweede plaats miskent Biogen opnieuw dat de vakman zou inzien dat het werkingsmechanisme van rituximab bij SLL en CLL hetzelfde zal zijn en aansporingen in het kader van SLL zeker zou toepassen bij de behandeling van patiënten met CLL.  
+
+
+4.30.
+Ten slotte heeft Biogen aangevoerd dat de hiervoor in 2.13. genoemde publicatie van Jensen die ziet op de behandeling van CLL met rituximab de vakman zou wegwijzen van de uitvinding omdat die publicatie zou leren dat de dosis lager moet zijn dan 375 mg/m2. Dat betoog faalt om twee redenen. 
+
+
+4.31.
+Jensen werd gepubliceerd in juli/augustus 1998 als een zogenaamde ‘Rapid Communication’ en beschrijft dat een ernstig zieke CLL-patiënte van 26 jaar oud met hoge CD20 antigeen bloedwaarden (111.9 x 109/L) – kort gezegd – bijwerkingen (TLS) kreeg na de eerste toediening van een dosering van 375 mg/m2 rituximab. 
+
+
+4.32.
+In de eerste plaats wordt in Jensen anders dan Biogen betoogt niet gezegd dat de dosering lager moet zijn dan 375 mg/m2. Jensen geeft aan dat ‘the recommended standard dose of 375 mg/m2 for rituximab was established in patients with follicular lymphoma and lymphocyte counts of less than 5.0x109/L’ en dat die dosis ‘might be too high for the treatment of patients with substantial peripheral tumor load’ althans dat bij die patiënten de ‘high peripheral tumor cell counts must be reduced using cytostatic drugs prior to administration of rituximab’. 
+
+
+4.33.
+In de tweede plaats geldt dat TLS een bekende maar vervelende bijwerking is van bijna alle kankergeneesmiddelen. Het kán levensbedreigend zijn maar over het algemeen kan het goed behandeld en/of voorkomen worden. Jensen zou voor de vakman dan ook geen obstakel zijn in zijn onderzoek naar gebruik van rituximab bij CLL-patiënten in een hogere dosering. Zoals prof. [partij-deskundige 2] heeft verklaard dienen de effectiviteit van het middel en de bijwerkingen goed van elkaar te worden onderscheiden. Dat de in Jensen beschreven patiënt heftige bijwerkingen had lijkt erop te duiden dat de behandeling aansloeg (i.e. de maligne B-cellen werden afgebroken met als gevolg het optreden van TLS). Bovendien kunnen de resultaten bij deze specifieke patiënte niet worden geëxtrapoleerd naar de gehele patiëntenpopulatie zoals prof. [partij-deskundige 2] in zijn verklaring uitlegt. Daarbij dient te worden bedacht dat CLL ongeneeslijk is en arts en patiënt de voor- en nadelen van behandeling tegen elkaar zullen afwegen. 
+
+
+4.34.
+Overigens weerhielden de bijwerkingen bij de in Jensen beschreven patiënte de onderzoekers er niet van de behandeling met rituximab bij haar voort te zetten (p. 90 l.k.) net als bij nog zes andere patiënten (symptomen van TLS leken op te treden bij drie van hen bij wie eveneens hoge lymfocyten-waarden werden gemeten). Dat zou niet gedaan zijn als de onderzoekers zouden hebben gemeend dat de behandeling met rituximab niet veilig zou zijn. 
+
+
+4.35.
+Afrondend kan worden gezegd dat de publicatie van Jensen de vakman alert zou hebben doen zijn op het optreden van TLS bij CLL-patiënten met hoge lymfocyten- waarden maar hem niet zou hebben afgehouden zijn onderzoek naar de toepassing van rituximab in een hogere dosering bij CLL-patiënten uit te voeren. 
+
+
+4.36.
+Biogen heeft niet gesteld dat er andere ‘pointers-away’ zouden zijn die de vakman zouden afhouden van het onderzoeken van het gebruik van rituximab bij CLL-patiënten in een hogere dosering dan 375 mg/m2. Voor zover Biogen in dit verband een beroep doet op het artikel van Coiffier heeft zij niet duidelijk gemaakt waarom dit als een dergelijke pointer is aan te merken. De enkele stelling dat uit dit artikel volgt dat een hogere dosis rituximab bij andere B-cel aandoeningen – het gaat zo begrijpt de rechtbank niet om SLL of CLL maar om bepaalde types agressieve B-cel lymfomen – niet per se tot verbeterde resultaten leidt en een lagere dosis moet worden gebruikt bij hogere toxiciteit (dit laatste valt uit de door Biogen aangehaalde passage op p. 1932 laatste paragraaf (zie 2.16)  overigens niet op te maken) is daartoe zonder nadere toelichting onvoldoende. 
+
+
+Slotsom
+
+ 
+
+
+4.37.
+Het vorenstaande betekent dat conclusies 1 en 3 van het hulpverzoek nietig zijn wegens gebrek aan inventiviteit. Dat geldt eveneens voor de afhankelijke conclusies 2 en 4 die Biogen ook niet afzonderlijk  heeft verdedigd. Dit betekent dat het hulpverzoek het octrooi niet kan redden. 
+
+
+4.38.
+De slotsom is dat het Nederlandse deel van EP 313 zal worden vernietigd zoals gevorderd. Daarmee behoeven de overige argumenten die Celltrion heeft aangevoerd zoals de stelling dat er sprake is van toegevoegde materie geen bespreking meer. 
+
+
+Proceskosten
+
+ 
+
+
+4.39.
+Biogen zal als de in het ongelijk gestelde partij in de proceskosten worden veroordeeld. 
+
+
+4.40.
+Partijen zijn het er over eens dat de vorderingen van Celltrion moeten worden beschouwd als een vooruitgeschoven niet-inbreukverweer dat derhalve artikel 1019h Rv van toepassing is en dat € 250.000- een redelijke en evenredige vergoeding is voor de proceskosten van de in het gelijk gestelde partij. Partijen zijn het er ook over eens dat het genoemde bedrag ziet op zowel de inmiddels ingetrokken vordering met betrekking tot EP 572 als de vordering met betrekking tot EP 313. 
+
+
+4.41.
+De rechtbank begroot de door Celltrion gemaakte proceskosten derhalve op het door partijen overeengekomen bedrag ad € 250.000-. De proceskostenveroordeling zal uitvoerbaar bij voorraad worden verklaard zoals gevorderd en voor het overige worden toegewezen als na te melden. 
+
+
+
+
+5 De beslissing
+De rechtbank 
+
+5.1.
+vernietigt het Nederlandse deel van EP 313; 
+
+
+5.2.
+veroordeelt Biogen in de proceskosten aan de zijde van Celltrion tot zover begroot op € 250.000- te vermeerderen met de wettelijke rente met ingang van 14 dagen na betekening van dit vonnis tot de dag van volledige betaling; 
+
+
+5.3.
+verklaart dit vonnis wat betreft de kostenveroordeling uitvoerbaar bij voorraad. 
+
+Dit vonnis is gewezen door mr. J.Th. van Walderveen mr. A.M. Brakel en mr. C.T. Aalbers en in het openbaar uitgesproken op 21 februari 2018.
+
+
+
+1
+ Schrijffouten zijn in dit citaat niet gecorrigeerd.
+2
+ In de hierna geciteerde passages worden de voetnoten weggelaten tenzij anders vermeld. De aangehaalde literatuur wordt in het vervolg van dit vonnis steeds aangeduid met uitsluitend de achternaam van de eerste auteur.
+3
+ Cancer (1 augustus) 1993 vol. 70 no. 3: pp. 625-632
+4
+American Journal of Clinical Pathology Volume 99 Issue 4 1 April 1993 pp. 402–408
+(overgelegd door Biogen als productie 21 bijlage A)
+5
+ Blood vol. 84 no. 8 (15 oktober) 1994: pp. 2457-2466; hierna: Maloney 1994
+6
+ Blood vol. 90 no. 6 (15 september) 1997: pp. 2188-2195; hierna: Maloney 1997
+7
+ Ann Hematol 1998 77: pp. 89-91
+8
+ Journal of Clinical Oncology vol. 16 no. 8 (augustus) 1998: pp. 2825-2833
+9
+ Annals of Oncology 9:995-1001 1998
+10
+Blood vol 92 no 6 (15 september) 1998: pp. 1927-1932
+11
+ Wetboek van Burgerlijke Rechtsvordering
+12
+ Burgerlijk Wetboek
+13
+ Verordening (EU) Nr. 1215/2012 van het Europees Parlement en de Raad van 12 december 2012 betreffende de rechterlijke bevoegdheid de erkenning en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken.
+14
+ vgl. paragrafen 12 14 en 18 pleitnota Biogen
+15
+ Productie 22 van Biogen paragraaf 1
+16
+ B.D. Cheson e.a. National Cancer Institute - Sponsored Working Group Guidelines for Chronic Lymphocytic Leukemia: Revised Guidelines for Diagnosis and Treatment in: Blood Vol 87 No 12 (15 juni) 1996 pp 4990-4997
+17
+ Folliculair lymfoom is een andere vorm van NHL waarbij kwaadaardige B-cellen zijn betrokken.
+18
+ paragraaf 57 pleitnota Celltrion
+19
+ Paragraaf 80 van de dagvaarding

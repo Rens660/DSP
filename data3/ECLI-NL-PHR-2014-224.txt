@@ -1,0 +1,846 @@
+
+Nr. 13/03763	
+				Mr. D.W.F. Verkade
+Zitting 21 maart 2014 (bij vervroeging)  
+ Conclusie inzake:  
+			de vennootschap naar vreemd recht Leo Pharmaceutical Products Ltd A/S
+gevestigd te Ballerup Denemarken 
+eiseres in het principale beroep verweerster in het voorwaardelijk incidentele beroep  
+
+tegen: 
+Sandoz BV 
+					 	gevestigd te Weesp 
+verweerster in het principale beroep eiseres in het voorwaardelijk incidentele beroep  
+1. Inleiding
+
+1.1. Partijen zullen hierna doorgaans worden aangeduid als ‘Leo Pharma’ en ‘Sandoz’. 
+ 
+
+1.2. In deze zaak waarin het hof de nietigheid van het Nederlandse deel van een octrooi van Leo Pharma heeft uitgesproken wegens gebrek aan inventiviteit klaagt het principale cassatiemiddel in de onderdelen 1 en 2 over de daarbij door het hof toegepaste criteria. 
+  Ik meen dat het hof geen rechtsregel(s) heeft geschonden. Ten aanzien van menige klachten heb ik mij afgevraagd of zij – in de vorm van rechts- en motiveringsklachten – niet in wezen een hernieuwde beoordeling van de daarin vervatte stellingen van Leo Pharma vragen welke beoordeling evenwel de taak van de cassatierechter te buiten gaat.
+ 
+
+1.3. Onderdeel 3 van het principale middel klaagt over de toepassing door het hof van art. 1019h Rv. (kostenveroordeling) op de reconventionele nietigheidsvordering. Ik meen dat ook die klacht faalt. 
+ 
+
+1.4. Bij deze stand van zaken behoeven de voorwaardelijk incidentele klachten geen behandeling. 
+ 
+
+2. Feiten
+1
+ 
+
+2.1. Leo Pharma brengt geneesmiddelen op de markt voor de uitwendige behandeling van psoriasis met als actiefbestanddeel ‘calcipotriol’ onder andere onder het merk Daivonex®. Psoriasis is een ziekte waarbij cellen in de huid te snel worden aangemaakt waardoor rode plekken en schilfers ontstaan. Het geneesmiddel wordt afhankelijk van de toepassing aangeboden in verschillende vormen zoals lotions zalven en crèmes. 
+ 
+
+2.2. Leo Pharma is houdster van Europees octrooi 0 679 154 (hierna: het octrooi of EP 154) dat betrekking heeft op een ‘New crystalline form of a Vitamin D Analogue’ (in de niet-bestreden Nederlandse vertaling: ‘Nieuwe kristallijne vorm van een analogon van vitamine D’). Het octrooi is verleend op 29 oktober 1997 op een aanvrage daartoe van 7 januari 1994 onder inroeping van prioriteit van 15 januari 1993 op basis van de Britse octrooiaanvrage GB 9300763. Het octrooi heeft onder meer gelding in Nederland. 
+ 
+
+2.3. In de niet bestreden Nederlandse vertaling luiden de conclusies als volgt: 
+
+1.   1. Calcipotriol-monohydraat (1a 3ß 5Z 7E 22E 24S)-24-cyclopropyl-910-secochola- 5710(19)22-tetraeen-1324-triol-monohydraat). 
+2.   2. Farmaceutisch preparaat bevattende de verbinding volgens conclusie 1. 
+3.   3. Farmaceutisch preparaat volgens conclusie 2 dat een crème is. 
+4.   4. Farmaceutisch preparaat volgens conclusie 2 dat een gel is. 
+5.   5. Farmaceutisch preparaat volgens één der conclusies 2 tot 4 met een gehalte aan de actieve component van 1-100 µg/g van het preparaat. 
+
+  Bij het octrooi behoren geen figuren. 
+  Tegen de verlening van het octrooi is geen oppositie ingesteld. 
+ 
+
+2.4. Het octrooi is afgebakend van de PCT-aanvrage WO 87/00834 (hierna ook: ‘WO 834’) eveneens op naam van Leo Pharma. 
+  In WO 834 is voor het eerst de stof calcipotriol (een ‘analogon’: een aan vitamine D analoge verbinding) in de vorm van het kristallijn anhydraat beschreven daarin aangeduid als ‘compound 59’ en bereid volgens voorbeelden 5 6 of 7. In rov. 2.4 van het arrest is een afbeelding van de structuurformule van calcipotriol weergegeven. 
+  Op WO 834 is Europees octrooi EP 0 227 826 B1 (hierna ook: ‘EP 826’) verleend dat op 14 juli 2006 is geëxpireerd. 
+ 
+
+2.5. Calcipotriol anhydraat is biologisch actief en zeer bruikbaar in topische behandeling van psoriasis. Vanwege de geringe stabiliteit van de stof calcipotriol is het wenselijk deze niet in een formulering op te lossen maar in suspensie (kleine vaste deeltjes) aan een formulering toe te voegen. 
+ 
+
+2.6. Het onderhavige octrooi EP 154 voorziet in een kristallijne vorm van de stof calcipotriol: calcipotriol monohydraat. Calcipotriol anhydraat en calcipotriol monohydraat zijn (pseudo-) polymorfen. Polymorfen zijn vaste stoffen met eenzelfde chemische samenstelling maar met een verschillend kristalrooster. Bij pseudopolymorfen of solvaten zijn in het kristalrooster een of meer oplosmiddelmoleculen opgenomen. Calcipotriol monohydraat omvat in het kristalrooster per eenheid één watermolecuul. 
+  Het calcipotriol monohydraat bezit ten opzichte van het anhydraat enkele gunstige eigenschappen. Het monohydraat bleek beter te verwerken tot uniforme kristallijne deeltjes is stabieler tijdens opslag minder gevoelig voor degradatie en geschikter voor grootschalige productie omdat een hogere opbrengst en betere zuiverheid worden verkregen. 
+  In de beschrijving van het octrooischrift wordt uitgelegd hoe het monohydraat bereid kan worden (p. 2 regels 31-32): 
+
+Calcipotriol monohydrate may be prepared by dissolving crystalline or non-crystalline calcipotriol in an organic solvent e.g. ethyl acetate or acetone followed by the addition of water and optionally a non polar solvent e.g. hexane. 
+
+ 
+
+2.7. De kristallijne structuur van een vaste stof kan met verschillende technieken worden geanalyseerd bijvoorbeeld IR spectroscopie (absorptie van infrarood licht) en Ramanspectroscopie (inelastische strooiing van monochromatisch licht). Doordat deze analysemethoden zijn gebaseerd op verschillende effecten is de daardoor verkregen informatie complementair. 
+ 
+
+2.8. Sandoz verkoopt onder meer in Nederland geneesmiddelen voor topische toepassing op de huid bedoeld voor de behandeling van psoriasis die het actieve bestanddeel calcipotriol bevatten. Deze producten worden in de vorm van een zalf op de markt gebracht. Sandoz heeft aangegeven ook de crème te willen verhandelen in Nederland. 
+ 
+
+2.9. Behalve in Nederland heeft Leo Pharma ook inbreukacties tegen Sandoz ingesteld in Engeland Duitsland en België. Sandoz heeft op haar beurt nietigheidsprocedures aangespannen in Zweden Italië en Duitsland. Het octrooi is in de Engelse en Zweedse procedure in stand is gelaten en in de procedures in Italië en Duitsland in twee instanties vernietigd op grond van gebrek aan inventiviteit. 
+ 
+3. Procesverloop
+
+3.1. Leo Pharma heeft bij inleidende dagvaarding van 20 december 2007 Sandoz gedagvaard voor de rechtbank ’s‑Gravenhage. Leo Pharma vorderde verbod van inbreuk op haar octrooi EP 154 met (tal van) nevenvorderingen. In voorwaardelijke reconventie vorderde Sandoz nietigverklaring van het Nederlandse deel van dit octrooi. 
+ 
+
+3.2. Partijen voerden over en weer verweer. 
+ 
+
+3.3. In haar vonnis van 11 februari 2009 heeft de rechtbank kort gezegd de reconventionele nietigheidsvordering afgewezen en de conventionele inbreukvorderingen in hoofdzaak toegewezen. 
+ 
+
+3.4. Sandoz ging in hoger beroep bij het gerechtshof te ’s‑Gravenhage. Een incidentele vordering tot schorsing van tenuitvoerlegging (art 351 Rv.) leed schipbreuk bij (tussen-) arrest van het hof van 28 september 2010. 
+ 
+
+3.5. In de hoofdzaak vorderde Sandoz voor zover hier van belang alsnog de nietigverklaring van het Nederlandse deel van octrooi EP 154 van Leo Pharma. Na verweer van Leo Pharma heeft het hof in het nu bestreden arrest van 9 april 2013 de gevorderde nietigverklaring toegewezen. Het hof heeft tevens geoordeeld dat Leo Pharma onrechtmatig heeft gehandeld door het vonnis waarvan beroep ten uitvoer te leggen met veroordeling van Leo Pharma tot vergoeding aan Sandoz van de daardoor door Sandoz geleden schade. Het arrest omvat ook een proceskostenveroordeling op de voet van art. 1019h Rv. 
+ 
+
+3.6. Wat de nietigverklaring van octrooi EP 154 betreft overwoog het hof voor zover in cassatie van belang in rov. 10 t/m 24: 
+ 
+
+‘10. Hoewel dat niet altijd is aangewezen kan de inventiviteit van het octrooi in dit geval worden beoordeeld met toepassing van de zogenaamde problem solution approach. Beide partijen bepleiten de (niet-) inventiviteit met toepassing van deze methode. Ook de rechtbank heeft haar toegepast waartegen geen van beide partijen bezwaar heeft gemaakt. 
+ 
+11. Partijen zijn het eens over de in dat kader aan te wijzen meest nabije stand van de techniek te weten: WO 834 waarin voor het eerst de stof calcipotriol in een kristallijne vorm (te weten: anhydraat) is beschreven. Dit octrooi is gepubliceerd op 12 februari 1987 en heeft als prioriteitsdatum 2 augustus 1985.  
+12. De rechtbank heeft daarvan uitgaand in rov. 4.12 als het objectieve probleem dat het octrooi beoogt op te lossen omschreven: het zoeken naar een kristallijne vorm van calcipotriol die voor therapeutisch gebruik geschikt is en die stabieler is dan het anhydraat gedurende opslag dat wil zeggen: minder degradeert. De rechtbank heeft daaraan toegevoegd dat niet in geschil is dat calcipotriol anhydraat op zichzelf thermodynamisch stabiel is.  
+13. In haar memorie van grieven onderschrijft Sandoz het aldus gedefinieerde probleem zij het zonder uitdrukkelijk aan te geven dat het bij het op te lossen probleem om de opslagstabiliteit gaat (zie memorie van grieven 93-95). Leo Pharma wijst daar terecht op (memorie van antwoord 329). Echter uit de omstandigheid dat Sandoz geen grief heeft gericht tegen de vaststelling van de rechtbank dat niet in geschil is dat calcipotriol anhydraat thermodynamisch stabiel is volgt dat Sandoz inderdaad het oog heeft op de opslagstabiliteit. Dat dit juist is volgt uit de pleitnota van Sandoz in appel onder 20 en heeft zij tijdens het pleidooi desgevraagd nog eens uitdrukkelijk bevestigd.  
+
+[…] 
+ 
+15. Derhalve moet zoals ook Leo Pharma stelt (memorie van antwoord 128) onderzocht worden of het voor de gemiddelde vakman (hierna ook ‘de vakman’) op de prioriteitsdatum (15 januari 1993) voor de hand lag om uitgaand van het kristallijne anhydrate calcipotriol van WO 834 te zoeken naar een kristallijne vorm van calcipotriol die voor therapeutisch gebruik geschikt is en stabieler is dan het anhydraat gedurende opslag dat wil zeggen minder degradeert en of hij calcipotriol monohydraat zou hebben gevonden.  
+16. De vakman op het onderhavige vakgebied van vitamine D-derivaten bestaat in dit geval uit een team van een formuleringsdeskundige die ervaring heeft met topische formuleringen en een analytisch farmaceutisch chemicus (pleitnota Sandoz in appel onder 2; vgl. ook Bundesgerichtshof (prod. 42 Sandoz) rov. 34 en High Court of Justice Chancery Division Patents Court (Justice Floyd) (prod. 42 Leo Pharma) rov. 21 en 22; rechtbank van Turijn (prod. 47 Sandoz)).  
+17. Deze vakman opereerde begin jaren ’90 in een omgeving waarin het belang van het zoeken naar (pseudo)polymorfen van werkzame stoffen bij de ontwikkeling van geneesmiddelen bekend was. De vakman was zich ervan bewust dat polymorfisme invloed heeft op de eigenschappen van een werkzame stof waaronder de biologische beschikbaarheid van die stof maar ook de (diverse vormen van) stabiliteit daarvan. Zo was de vakman bekend met de publicatie ‘Solid State Chemistry of Drugs’ van S.R. Byrn (1982) 79-148 (bijlage bij de verklaring van dr. I. M. Cunningham prod. 41 Sandoz) waarin valt te lezen (blz.79): 
+
+
+“Compounds that crystallize in polymorphs can show a wide range of physical and chemical properties including different melting points and spectral properties. Polymorphism is particularly important for pharmaceuticals where the polymorph present can alter the dissolution rate bioavailability chemical stability and physical stability.” 
+
+  De vakman was ook bekend met de “Guideline for submitting supporting documentation in drug applications for the manufacture of drug substances” (1987) blz. 31-34 van de “Food and Drug Administration” (prod. 40 Sandoz) waarin het belang van onderzoek naar de verschillende verschijningsvormen van een werkzame stof in verband met de daaraan verbonden farmaceutische en chemische eigenschappen tot uiting komt (vgl. ook de door het Bundesgerichtshof benoemde deskundige Prof. Dr. G. Kutz (prod. 43 Sandoz) blz. 12 e.v.). 
+  Dat onderzoek naar polymorfisme ook in het begin van de jaren ’90 de aandacht had van farmaceutische bedrijven blijkt voorts uit de publicatie “Crystal polymorphism of pharmaceuticals” van L. Borka en J.K. Haleblian in “Acta Pharm. Jugosl.” 40 (1990) 71-94 waarin op blz. 71 is vermeld (prod. 17 Sandoz): 
+
+“The discovery of polymorphism among pharmaceutical substances however initiated a growing interest in this field. The synthetic and analytic departments of leading pharmaceutical companies nowadays carry out systematic work to detect polymorphism of their drugs and to find intelligent applications of this phenomenon. Drug registration documents submitted by leading pharmaceutical companies to regulatory bodies will today almost without exception have a section on polymorphism when describing the physico-chemical properties of the active substance.” 
+
+Of het uitvoeren van een volledig polymorfie-onderzoek begin 1993 tot de standaard procedures behoorde (in het bijzonder ten aanzien van vitamine D-derivaten) – zoals Sandoz stelt maar Leo Pharma betwist – is niet doorslaggevend. Waar het om gaat is dat de vakman bekend was met onderzoek naar polymorfisme en het belang daarvan. 
+ 
+18. Daarvan uitgaand zou de vakman geconfronteerd met het hiervoor gedefinieerde probleem naar ’s hofs overtuiging onderzoek hebben gedaan naar het bestaan van andere kristallijne verschijningsvormen van calcipotriol met een mogelijk grotere opslagstabiliteit. Het hof verwerpt in dit verband de stelling van Leo Pharma dat de vakman geen enkele aanleiding had om te zoeken naar andere kristallijne vormen aangezien het zoeken naar andere kristallijne vormen destijds geen routine was en daartoe ook geen concrete aanleiding bestond omdat het calcipotriol anhydraat goed bruikbaar en voldoende stabiel was. Leo Pharma ziet hierbij over het hoofd dat het vertrekpunt is het hiervoor genoemde objectieve technische probleem namelijk of de opslagstabiliteit van het bekende calcipotriol (anhydraat) zou kunnen worden verbeterd. Het hof gaat voorts voorbij aan het betoog van Leo Pharma dat de vakman geen volledig polymorfie-onderzoek zou hebben uitgevoerd omdat dat begin 1993 (in de farmaceutische industrie) niet gebruikelijk was. Het gaat immers niet om een onderzoek naar alle mogelijke kristallijne vormen van calcipotriol maar om het zoeken naar een kristallijne vorm die een betere opslagstabiliteit zou hebben dan het anhydraat. Zoals in rov. 17 is overwogen was de vakman zich er ook begin 1993 terdege van bewust dat het onderzoek naar (andere) (pseudo)polymorfe verschijningsvormen van een werkzame stof mede met het oog op de opslagstabiliteit daarvan zinvol was.  
+19. Aangezien calcipotriol een vitamine D-analogon voor topische toepassing is zou de vakman hebben gezocht naar andere documenten over dergelijke vitamine D-verbindingen (vgl. Prof. Kutz (blz. 39 voorlaatste alinea): “... eine suche nach strukturell ähnlichen Wirkstoffmolekülen die in den gleichen Darreichungsform eingesetzt werden bzw. dafür geeignet sein sollen (spiegelt) eine Standardvorgehensweise im Rahmen der Pharmazeutisch-technologischen Arzneimittelentwicklung wieder.”) Daarbij zou hij zijn gestuit op de Amerikaanse octrooischriften US 3.883.622 (3 september 1974) en US 4.435.325 (6 maart 1984) alsmede de ter inzage gelegde Japanse octrooiaanvrage JP 59-104358 (16 juni 1984) hierna te noemen: respectievelijk US 622 US 325 en JP 358. In deze documenten wordt kort gezegd de vorming van een (mono)hydraat van de vitamine D-analoga 25-hydroxycholecal-ciferol (US 622) 1a25-dihydroxycholecalciferol (US 325) en 1a24-dihydroxycholecalciferol (JP 358) beschreven. In deze octrooien worden de gunstige eigenschappen van (mono) hydraten genoemd waaronder een grote stabiliteit terwijl ook melding wordt gemaakt van de geschiktheid tot gebruik in therapeutische werkzame formuleringen.  
+
+US 622 beschrijft een groep van kristallijne op vitamine D gelijkende hydraten aldaar aangeduid met de algemene structuurformule VI waaronder in het bijzonder kristallijn 25-hydroxycholecalciferol monohydraat (smeltpunt 81-83 0C “Example 8”). Het 25-hydroxycholecalciferol monohydraat wordt bereid door oplossen van 25-hydroxycholecalciferolanhydraat (als amorfe olie) in een organisch oplosmiddel zoals watervrij methyleenchloride benzeen ethanol en aceton gevolgd door toevoegen van water (“a drop of water” “Example 15”) waarbij het kristallijne monohydraat neerslaat (in de vorm van “nice crystals”). De kristallijne hydraten met algemene formule VI waaronder het monohydraat van 25-hydroxycholecalciferol “are more readily purified and more stable and less sensitive to autoxidation” (dan de anhydraten) (kolom 3 regels 25-50). Deze hydraten kunnen worden toegepast in “common unit dosage forms e.g. oil solution aqueous suspension...” (kolom 6 regels 51-62). 
+ 
+
+US 325 heeft meer specifiek betrekking op de bereiding van kristallijn monohydraat van 1a25-dihydroxycholecalciferol (met vitamine D activiteit) in zuivere vorm. Hierbij wordt uitgegaan van watervrij amorf 1a25-dihydroxycholecalciferol (of 1a25-dihydroxycholecalciferol in solvaatvorm) waarbij deze verbinding wordt opgelost in een (watervrij) organisch oplosmiddel zoals methanol ethanol en bij voorkeur aceton gevolgd door de toevoeging van water waarbij het monohydraat van 1a25-dihydroxycholecalciferol wordt verkregen “which is perfectly crystalline very stable and is easily obtained in a pure form” (kolom 1 regels 46-51). 
+Het 1a25-dihydroxycholecalciferol monohydraat kan worden geformuleerd in uiteenlopende farmaceutische toepassingen waaronder suspensies (kolom 2 regels 4-9).
+ 
+
+JP 358 heeft betrekking op zuiver 1a24-dihydroxycholecalciferol monohydraat in kristalvorm. Deze verbinding met vitamine D-activiteit (blz. 2 eerste alinea en blz. 3 laatste alinea) wordt verkregen door het 1a24-dihydroxycholecalciferol anhydraat (“a very unstable substance”) op te lossen in een lagere alcohol zoals methanol of ethanol gevolgd door de toevoeging van water waarbij het monohydraat neerslaat in de vorm van kristallijne naaldjes. 
+In het document wordt voorts gerefereerd aan de Japanse octrooiaanvraag JP 55-160758 waarin is vermeld dat 1a25-dihydroxycholecalciferol een analoog van 1a24-dihydroxycholecalciferol gemakkelijk kan worden gekristalliseerd als monohydraat door de stof (als anhydraat) op te lossen in een organisch oplosmiddel als aceton of ethylether gevolgd door de toevoeging van water.
+ 
+
+De structuurformules van deze vitamine D-analoga alsmede die van calcipotriol zijn als volgt: 
+ 
+
+
+
+
+
+
+Deze vitamine D-analoga bezitten alle twee gefuseerde ringen een cyclohexaanring met daaraan één of twee hydroxylgroepen en een zijgroep met daaraan een OH-groep. 
+ 
+20. Voorts zou de vakman hebben kennis genomen van het artikel van K. Kragballe getiteld “Vitamin D Analogues in the Treatment of Psoriasis” in “Journal of Cellular Biochemistry” 49 (1992) 46-52 (productie 35 Sandoz). In dit artikel vergelijkt Kragballe de geschiktheid van calcipotriol voor de topische behandeling van psoriasis met die van de stoffen 1a25-dihydroxycholecalciferol (125-(OH)2-D3) en 1a24-dihydroxycholecalciferol (124-(OH)2-D3) de vitamine D (D3)-analoga die onderwerp zijn van de zojuist besproken documenten US 325 en JP 358). In figuur 1 zijn de structuurformules van 1a25-dihydroxycholecalciferol (125-(OH)2-D3) en calcipotriol naast elkaar gezet. Zoals ook uit de in rov. 19 weergegeven formules blijkt vertonen deze grote gelijkenis. Hetzelfde geldt voor calcipotriol in vergelijking met 1a24-dihydroxycholecalciferol (124-(OH)2-D3). Ook Prof. Kutz (t.a.p. blz. 37-39) en dr. Freyria Fava (de deskundige in de Italiaanse procedure prod. 29B Sandoz blz. 37-38) constateren dat de betreffende stoffen qua structuur grote gelijkenis vertonen.  
+21. Uitgaande van het objectieve technische probleem zou de vakman in voornoemde documenten naar het oordeel van het hof een sterke aansporing hebben gevonden om met toepassing van de werkwijzen beschreven in US 622 US 325 en JP 358 monohydraat van calcipotriol te verkrijgen. Tijdens het pleidooi voor het hof heeft Sandoz er nogmaals op gewezen dat het gaat om eenvoudige routinematige proeven. De deskundigen Prof. Kutz (blz. 40) en dr. Freyria Fava (blz.38) bevestigen dat het gaat om eenvoudige niet kostbare proeven die tot het standaard gereedschap van de vakman behoren (Prof. Kutz: “...sehr einfach durchzuführendes Kristallisationsverfahren...”). Leo Pharma heeft dat ook onvoldoende gemotiveerd bestreden. De omstandigheid dat zoals Leo Pharma stelt op basis van de theorie geen voorspelling kan worden gedaan over de uitkomst van een dergelijk polymorfie-onderzoek zou de vakman niet hebben weerhouden van het uitvoeren van bedoelde proeven juist omdat het doen daarvan eenvoudig en niet kostbaar is (en was ook op de prioriteitsdatum). Om dezelfde reden zouden ook de door Leo Pharma genoemde omstandigheden i) dat van de in US 622 US 325 en JP 358 beschreven vitamine D-derivaten nog helemaal geen kristallijne vorm beschikbaar was doch slechts de amorfe stof en ii) dat kristallisatie van vitamine D-derivaten moeilijk is en iii) dat er op de prioriteitsdatum meer dan 600 vitamine D-derivaten bekend waren waarvan slechts 3 als monohydraat waren geregistreerd de vakman geconfronteerd met de beperkte opslagstabiliteit van calcipotriol anhydraat en opererend in de in rov. 17 beschreven omgeving er niet van hebben weerhouden bedoelde experimenten uit te voeren. Uit WO 834 was al bekend dat calcipotriol wél te kristalliseren was en uit US 622 US 325 en JP 358 was het de vakman bekend dat het mogelijk was bij deze drie qua structuur op calcipotriol gelijkende vitamine D-analoga een monohydraat te vormen en wel op een vrij simpele manier. Hieraan ontleende de vakman een voldoende verwachting van succes om tot het doen van proeven over te gaan. 
+22. Het hof gaat voorbij aan de voor het eerst bij pleidooi door Leo Pharma aangevoerde stelling dat niet zeker is dat de vakman het monohydraat zou hebben gevonden. Leo Pharma voert aan dat de vakman had moeten kiezen uit een reeks variabelen waaronder het soort oplosmiddel de temperatuur de hoeveelheden en de mate van roeren. Zij verwijst daarbij naar de door haar als bijlage 3 bij productie 70 overgelegde opinie van Prof. Bernstein. Het hof hecht echter meer waarde aan de verklaring van dr. Rasmussen werkzaam bij Leo Pharma in de cross examination voor Justice Floyd (prod. 42 Leo Pharma) weergegeven in rov. 139 en 140:  
+
+
+“(...) 
+
+
+  Q. I mean you are not suggesting if a polymorph screen had been carried out on calcipotriol that the hydrate would not have been found? 
+
+
+  A. It would probably have been found yes. 
+
+
+  Q. I thought you agreed that you are not suggesting that the monohydrate would not have been found in the screen? 
+
+
+  A. It is likely it would because as we also agreed yesterday acetone and water are pretty common solvents in crystallization experiments.” 
+
+ 
+
+In rov. 141 overweegt Justice Floyd dat het als eerste aangehaalde antwoord betrekking heeft op de uitvoering van een “polymorph screen” en het tweede op het gebruik van een combinatie van aceton en water “a combination of solvents now known to produce the monohydrate”. Judge Floyd acht echter niet aannemelijk dat de vakman een dergelijke combinatie zou hebben geprobeerd (rov. 142).
+In de procedure in het Verenigd Koninkrijk zijn US 622 US 325 en JP 358 evenwel niet overgelegd. Naar het oordeel van het hof zou de vakman die kennis had genomen van deze documenten de combinatie van aceton en water zeker hebben geprobeerd: in US 325 is reeds vermeld (kolom 1 regels 60-67) dat het organische oplosmiddel dat de voorkeur verdient aceton is waarbij water wordt gebruikt om de stof neer te slaan. Uit de verklaring van Rasmussen volgt dat de vakman daarbij het monohydraat van calcipotriol zou hebben gevonden. Zo ook: dr. Freyria Fava t.a.p. blz. 38. Terzijde merkt het hof op dat het in voorbeeld 1 van het onderhavige octrooi toegepaste ethylacetaat ook reeds als oplosmiddel is voorgesteld in US 622 (kolom 3 regels 38-44 en 56) waaraan vervolgens water wordt toegevoegd. 
+ 
+23. Tot slot zou de vakman op de prioriteitsdatum de vorming van calcipotriol monohydraat hebben kunnen vaststellen. Leo Pharma weerspreekt niet dat dit mogelijk was door middel van IR-spectroscopie en Raman spectroscopie welke technieken op de prioriteitsdatum tot de algemene vakkennis van de vakman behoorden (memorie van antwoord 21).  
+24. Uit het voorgaande volgt dat conclusie 1 naar het oordeel van het hof inventiviteit ontbeert. De vakman zou zonder uitvinderswerkzaamheid tot de bereiding van calcipotriol monohydraat zijn gekomen. Het in rov. 14 genoemde bonuseffect dat calcipotriol monohydraat anders dan het bekende kristallijne calcipotriol anhydraat bij wet ball milling geen stabiel schuim vormt leidt bij die stand van zaken niet tot het oordeel dat het octrooi alsnog als inventief moet worden aangemerkt (vgl. Guidelines EOB G-VII 10.2; zo ook het gerechtshof van Turijn (prod. 48 Sandoz) blz. 25 en 26).’  
+
+3.7. Onder vernietiging van het vonnis waarvan beroep wees het hof – in conventie – alsnog de vorderingen van Leo Pharma af terwijl het hof – in reconventie – voor zover in cassatie van belang de vernietiging uitsprak van het Nederlandse deel van het Leo Pharma’s Europese octrooi 0 679 154 B1. In conventie en in reconventie veroordeelde het hof voor zover in cassatie van belang Leo Pharma in de door Sandoz in hoger beroep gemaakte kosten begroot (op de voet van art. 1019 Rv.) op € 277.92157. 
+ 
+
+3.8. Leo Pharma heeft – tijdig – beroep in cassatie ingesteld. Sandoz heeft geconcludeerd tot verwerping van het beroep en voorwaardelijk incidenteel beroep ingesteld. Leo Pharma concludeerde tot verwerping daarvan. Partijen hebben hun standpunten schriftelijk toegelicht en vervolgens van re- en dupliek gediend. 
+ 
+4. Principale onderdelen 1 en 2 
+
+
+4.A. Enkele inleidende beschouwingen 
+ 
+
+4.1. Bij de beoordeling van de onderdelen 1 en 2 van het cassatiemiddel zijn enige algemene beschouwingen over de beoordeling van de voor een te octrooieren uitvinding vereiste inventiviteit dienstig; hetzelfde geldt voor de toetsing in cassatie van die beoordeling door de feitenrechter. 
+  Ik zou zulke beschouwingen (op basis van literatuur en rechtspraak) hieronder in eigen bewoordingen kunnen geven. Ik meen evenwel dat het ieders gemak dient – niet alleen het mijne maar ook dat van de Hoge Raad en van andere lezers van deze conclusie – om in plaats daarvan desbetreffende beschouwingen te citeren uit conclusies van twee ambtgenoten. Het gaat om de conclusies
+
+- van A-G Langemeijer voor HR 15 februari 2008 (Rockwool/Isover)2; 
+- van A-G Huydecoper voor HR 13 september 2013 (GBT c.s./Ajinomoto c.s.)3. 
+  In zijn arresten in deze zaken heeft de Hoge Raad de aangehaalde beschouwingen van de A-G’s klaarblijkelijk tot richtsnoer genomen. Ondergetekende heeft geen aanleiding gezien een andere visie te verdedigen.  
+
+
+4.A.1. Beoordeling van inventiviteit: gevaar van ‘hindsight’ en voorkoming daarvan 
+
+ 
+
+4.2. Het inventiviteitsvereiste is neergelegd in art. 56 Europees Octrooiverdrag (EOV) respectievelijk art. 6 Rijksoctrooiwet 1995 (ROW 1995). Het houdt in dat het moet gaan om een vinding die ‘voor een deskundige niet op een voor de hand liggende wijze voortvloeit uit de stand van de techniek’. 
+ 
+
+4.3. Over de beoordeling daarvan lezen wij in de genoemde conclusie van A-G Langemeijer: 
+ 
+
+‘2.22. […] De vraag naar de mate van inventiviteit mag niet worden beantwoord door achteraf voorzien van de kennis van de geoctrooieerde werkwijze te zoeken naar eerdere openbaarmakingen waartoe die werkwijze herleid kan worden. Het gaat erom of de gemiddelde vakman het door de geoctrooieerde werkwijze opgeloste probleem zou hebben onderkend en voor de oplossing ervan te rade zou zijn gegaan bij de door het hof bedoelde publicaties en dan de litigieuze werkwijze als de voor de hand liggende oplossing uit de toenmalige stand der techniek zou hebben afgeleid. 
+ 
+
+2.23. De laatstbedoelde maatstaf is juist. In de octrooirechtelijke vakliteratuur wordt ervoor gewaarschuwd dat bij de beoordeling van de inventiviteit van een uitvinding (of het nu gaat om een nieuwe werkwijze of om een nieuw voortbrengsel) het terugredeneren vanuit de uitvinding waarvoor het octrooi is gevraagd veel gemakkelijker is dan wanneer de beoordelaar zich moet verplaatsen in de positie van de gemiddelde vakman in de periode vóór de datum van de aanvrage. Bij het terugredeneren is het technische probleem immers al bekend en de oplossing ook. Dit is het gevaar dat in het middelonderdeel is aangeduid als “hindsight”4: een wijsheid achteraf. 
+ 
+
+2.24. In de praktijk wordt dikwijls gebruik gemaakt van de zgn. problem-solution approach. In de Guidelines van het Europees octrooibureau is deze methode omschreven als volgt: 
+“In the problem-and-solution approach there are three main stages:
+
+( i) determining the ‘closest prior art’
+
+  (ii) establishing the ‘objective technical problem’ to be solved and
+  (iii) considering whether of not the claimed invention starting from the closest prior art and the objective technical problem would have been obvious to the skilled person.”5
+Het gerechtshof te ’s‑Gravenhage heeft in een andere zaak overwogen dat de problem-solution benadering goede diensten kan bewijzen. Voordeel van deze methode is dat voorkomen wordt dat iets als voor de hand liggend wordt aangemerkt op basis van een combinatie van verschillende bekende technieken die in werkelijkheid nooit gecombineerd zouden worden. Deze methode is volgens het hof echter niet zonder bezwaren. Volgens het hof dient men er rekening mee te houden dat art. 56 Europees Octrooiverdrag uitgaat van de vooronderstelling dat de vakman juist geen kennis heeft van de uitvinding en wordt geconfronteerd met het geheel van de stand van de techniek. Dit betekent dat de vakman zowel kan worden geconfronteerd met technieken die in de richting van de uitvinding gaan als met technieken die in een andere richting wijzen dus niet met geselecteerde bestanddelen van de techniek die de problemen kennen waarvoor de uitvinding de oplossing geeft6. Mijns inziens is deze waarschuwing terecht. Het gevaar wordt ondervangen door als maatstaf te nemen: niet of de gemiddelde vakman op de peildatum gesteld voor dit technische probleem (achteraf beschouwd) tot de litigieuze oplossing kon komen maar: of de gemiddelde vakman op de peildatum gesteld voor dit technische probleem tot de litigieuze oplossing zou zijn gekomen. In de vakliteratuur wordt dit wel aangeduid als het verschil tussen “could have been obvious to the skilled person” en “would have been obvious to the skilled person”.’ 
+ 
+
+4.4. In de genoemde conclusie van A-G Huydecoper lezen wij: 
+ 
+
+‘27. […] Voor ik nader op het inventiviteitsvereiste inga wil ik er op wijzen dat de hier omschreven toetsingsmaatstaf een heel scala van vooral aan de hand van feitelijke waarderingen te beoordelen gegevens aan de beoordelaar voorhoudt. 
+ 
+28. Ten eerste moet immers worden vastgesteld wat de bekende stand van de techniek de deskundige precies leert – wie enige malen bij octrooiconflicten betrokken is geweest ervaart al gauw dat daarover sterk uiteenlopende meningen mogelijk zijn en dat de rechter dus een brede marge aan waarderingsmogelijkheden wordt voorgehouden.
+  Het gaat daarbij niet alleen om de betekenis die aan de inhoud van verschillende bronnen uit de bekende stand van de techniek toekomt maar ook om de vraag óf de deskundige aanleiding zal zien om een bepaalde niet tot de “centrale” stand van de techniek behorende bron te raadplegen7 en de vraag hoe bronnen die verder van het onderwerp van de uitvinding af staan het beeld van de deskundige zullen beïnvloeden8. 
+29. Men begrijpt de invloed van deze gegevens misschien beter als men zich realiseert dat de beoordeling van de inventiviteit van de in een octrooi beschreven uitvinding achteraf dus met kennis van de uitvinding en vaak ook van allerhande door de uitvinding uitgelokte reacties en ontwikkelingen een groot gevaar in zich bergt dat men “with the wisdom of hindsight” oordeelt. Octrooirechtelijke bronnen waarschuwen dan ook telkens weer tegen het risico van beoordeling “with hindsight”9.  
+30. Eenmaal wetend wat een in een octrooi beschreven uitvinding inhoudt valt het meestal niet moeilijk om bronnen uit de bekende stand van de techniek te vinden die de meeste elementen die de uitvinding vertoont – en niet zelden: ál die elementen – openbaren. Daarmee zal dadelijk duidelijk zijn dat de beoordeling van de inventiviteit zich niet kan beperken tot de constatering dat (nagenoeg) alle elementen van een beschreven uitvinding al in de stand van de techniek te vinden zijn. De vraag is of die elementen in een dusdanige context en een dusdanige proximiteit te vinden zijn én of daardoor een dusdanig verband tussen die elementen wordt geopenbaard dat het inderdaad voor de hand ligt – in de aanstonds in voetnoot 21 aan te duiden betekenis – om die elementen in de door de uitvinding geopenbaarde vorm met elkaar te combineren en daarmee: inderdaad tot de uitvinding te geraken10. 
+  Bij de beoordeling van de betekenis van elementen uit de stand van de techniek is de beoordelaar daarom – vaak – genoodzaakt om al tot op zekere hoogte op de vraag die tenslotte beoordeeld moet worden (namelijk: die van de voor-de-hand-liggendheid) te prejudiciëren.  
+31. Om inventiviteit te beoordelen moet tegelijk met het in de voorafgaande alinea’s besproken onderzoek ook worden vastgesteld wat precies de inhoud van de door het octrooi geopenbaarde en voor bescherming voorgedragen materie is. 
+
+  (Ook) hier is overigens van een wisselwerking met het eerder besproken onderzoek sprake: welke bronnen uit de stand van de techniek relevant zijn en hoe men die bronnen “plaatst” en waardeert staat immers niet los van de vraag naar welke uitvinding men nu eigenlijk een onderzoek aan het doen is. 
+  Ook dit blijkt in de octrooipraktijk bepaald niet altijd een eenduidig gegeven te zijn. 
+ 
+32. Tenslotte komt het dan aan op vergelijking van de twee onderzochte grootheden – de relevante stand van de techniek en de uitvinding zoals die in het octrooi is geopenbaard – en waardering van de vraag of de deskundige de materie van het octrooi als voor de hand liggend uit de bekende stand van de techniek zal afleiden11. 
+
+  Zoals hiervóór echter al bleek houdt men bij de beoordeling van de eerder genoemde gegevens al tot op zekere hoogte met het als laatste te beoordelen gegeven rekening – relevantie van bronnen uit de stand van de techniek wordt mede afgemeten aan de hand van de vraag hoe die bronnen bijdragen tot de mogelijke voor-de-hand-liggendheid van de uiteindelijk te beoordelen materie en stand van de techniek wordt naar relevantie gewaardeerd met in achtneming van de aan de uitvinding toe te kennen betekenis. 
+  Hoewel men de hierbij af te leggen weg logisch in de drie hiervóór aangewezen stappen kan onderscheiden is de beoordeling zoals die in werkelijkheid gemaakt moet worden in dit opzicht gecompliceerder dan het logische schema suggereert. 
+ 
+33. Ieder van de hiervóór beschreven stappen kan – en zal in de meeste gevallen ook – weging van voor verschillende waardering vatbare feitelijke gegevens met zich meebrengen. 
+
+  Wanneer zoals in de onderhavige zaak beoordeling van het uitgevondene wordt gevraagd in het licht van een vrij aanzienlijk aantal vindplaatsen die tot de stand van de techniek bijdragen moet de rechter eens temeer een aanmerkelijk bestand aan voor verschillende waardering vatbare feitelijke gegevens in zijn oordeel betrekken. 
+  Dat geldt als zo vaak voor ieder van de gegevens waarop een beroep wordt gedaan maar dat geldt dan ook en in versterkte mate voor de “gesaldeerde” waardering van het geheel dat de individuele gegevens samen opleveren. 
+ 
+34. Waardering van de betekenis van individuele gegevens en tegelijk motivering van het oordeel daarover is gewoonlijk eenvoudiger te realiseren dan waardering van het gezamenlijke effect van een hoeveelheid voor verschillende waardering vatbare gegevens; en dat geldt ook voor de motivering van die laatste waardering. 
+  Het verbaast dan ook niet dat beoordelaars vaak hun oordeel over individuele wegingsfactoren met enige precisie (kunnen) uitspreken en onderbouwen maar dat de uitkomst van de weging van de gezamenlijke factoren in veel gevallen niet met een vergelijkbare precisie wordt gemotiveerd. Het is bepaald geen uitzondering dat daarbij wordt volstaan met een formulering in de trant dat al het voorgaande in aanmerking genomen de beoordelaar de conclusie die hij tenslotte heeft bereikt gerechtvaardigd acht. 
+
+[…] 
+ 
+37. Bij de beoordeling van inventiviteit heeft een praktische benadering ingang gevonden die onder de naam “problem-and-solution-approach” bekend staat. In de Guidelines for Examination in the European Patent Office12 wordt deze methode aldus uiteengezet dat men drie stappen neemt: 
+( i) determining the closest prior art
+
+  (ii) establishing the “objective technical problem” to be solved and
+  (iii) considering whether or not the claimed invention starting from the closest prior art and the objective technical problem would have been obvious to the skilled person. 
+ 
+38. Men herkent in deze benadering de hiervóór besproken drie stappen. Alleen worden in de korte beschrijving uit de “Guidelines” een aantal van de complicaties waarvoor ik zojuist aandacht heb gevraagd weggelaten; en wordt ter vergemakkelijking van de beoordeling van de voor-de-hand-liggendheid uit de uitvinding zoals die in het octrooi wordt geopenbaard een probleemstelling geanalyseerd ten opzichte van de bekende stand van de techniek. 
+  De bedoeling zal duidelijk zijn: door zich af te vragen welk probleem de uitvinding ten opzichte van de bekende stand van de techniek oplost vindt men een nadere factor die kan helpen bij de beoordeling hoe groot men de kans moet waarderen dat de deskundige die de stand van de techniek kent op het idee van de uitvinding komt. Daarbij is overigens rekening te houden met het bekende gegeven dat de probleemstelling langs twee wegen op de inventiviteit van invloed is: het kan wel of niet voor de hand liggend zijn om de in de uitvinding geopenbaarde oplossing voor het probleem te onderkennen maar het kan ook wel of niet voor de hand liggend zijn om zich het probleem zelf te realiseren dat opgelost moet worden13. Niet zelden spelen bij de inventiviteitsbeoordeling beide gegevens tegelijk een grotere of kleinere rol.  
+39. Ik denk dat toepassing van de “problem-and-solution-approach” een nuttig hulpmiddel oplevert bij de benadering van het vrij hardnekkige probleem dat ik tot nu toe besprak; maar ik denk ook dat hier geen rechtsregel aan de orde is die een beoordelaar op straffe van het verkeerd te hebben gedaan moet toepassen. Het gaat hier om een zinnige bijdrage tot de vrij complexe analyse die wij hiervóór onder ogen zagen niet om een voorschrift. In de Guidelines wordt dan ook gezegd dat “deviation from this approach should be exceptional”: geen wet van Meden en Perzen maar een hulpmiddel dat in uitzonderingsgevallen toch niet voor toepassing in aanmerking komt.’  
+
+4.5. In de rov. 3.4.4 (eerste drie alinea’s) van het arrest Rockwool/Isover oordeelde uw Raad: 
+ 
+
+‘3.4.4. Het onderdeel neemt terecht tot uitgangspunt dat de vraag naar de mate van inventiviteit niet mag worden beantwoord door achteraf voorzien van de kennis van de geoctrooieerde werkwijze te zoeken naar eerdere openbaarmakingen waartoe die werkwijze herleid kan worden maar dat het bij deze beoordeling erom gaat of de gemiddelde vakman het door de geoctrooieerde werkwijze opgeloste probleem zou hebben onderkend en voor de oplossing ervan te rade zou zijn gegaan bij de door het hof bedoelde publicaties en alsdan ook deze werkwijze als voor de hand liggende oplossing uit de toenmalige stand van de techniek met gebruikmaking van algemene vakkennis (niet kon maar) zou hebben afgeleid. 
+  Dit een en ander heeft het hof echter in rov. 7-11 van zijn arrest niet miskend. Voor zover het onderdeel betoogt dat de rechter bij de beoordeling van de inventiviteit steeds een overweging moet opnemen waaruit blijkt dat hij zich bewust is geweest van het gevaar dat de beoordeling van de inventiviteit wordt beïnvloed door “hindsight” vindt het geen steun in het recht.
+  Anders dan het onderdeel aanneemt is het hof niet op basis van zijn bekendheid met de geoctrooieerde werkwijze gaan zoeken naar eerdere openbaarmakingen waartoe die werkwijze herleid kan worden maar heeft het onderzocht en in rov. 8 en 11 nauwkeurig uiteengezet op grond van welke documenten […] de gemiddelde vakman met zijn algemene vakkennis tot de werkwijze van conclusie 1 van het octrooi van Rockwool zou zijn gekomen.’ 
+ 
+
+
+4.A.2. Beoordelingskader in cassatie 
+
+ 
+
+4.6. Wat het beoordelingskader in cassatie betreft lezen wij in de conclusie van A-G Langemeijer in de zaak Rockwool/Isover: 
+ 
+
+‘2.25. Voor zover het subonderdeel ertoe strekt dat de rechter in octrooizaken standaard een frase moet opnemen waaruit blijkt dat hij zich bewust is geweest van het gevaar dat de beoordeling van de inventiviteit wordt beïnvloed door “hindsight” gaat de klacht niet op. Geen rechtsregel verplicht daartoe. Dit neemt niet weg dat onderzocht moet worden of de bestreden beslissing te zeer door “hindsight” is beïnvloed. In de aangehaalde vakliteratuur en in de bovengenoemde Guidelines is een aantal indicaties voor inventiviteit te vinden grotendeels ontleend aan de jurisprudentie van de Kamers van Beroep van het Europees Octrooibureau14. Met behulp van deze aandachtspunten kan de kans dat de beslissing ten onrechte door “hindsight” wordt beïnvloed worden verkleind. Voorstelbaar is dat de Hoge Raad de motiveringseisen in octrooizaken opvoert en van de feitenrechter verlangt dat deze als ware het een checklist een lijstje met aandachtspunten afvinkt voordat hij een beslissing neemt. Gelet op het grote aantal variaties dat zich in octrooizaken kan voordoen zal het opstellen van zodanig lijstje niet gemakkelijk zijn. Nog los van de vraag of voor ieder octrooi elk van deze aandachtspunten een rol van betekenis speelt lijkt een zodanig verhoogde motiveringseis in Nederland niet nodig om de rechter op het gevaar van “hindsight” te attenderen: de behandeling van octrooizaken is toegewezen aan één rechtbank en in hoger beroep aan één gerechtshof15 zodat specialisatie is verzekerd. Dit neemt niet weg dat partijen in octrooizaken een beroep kunnen doen op een of meer aandachtspunten. Mits een dergelijk beroep voldoende concreet wordt gedaan zal de rechter zich genoodzaakt voelen daarop te responderen.’ 
+ 
+
+4.7. In de hiervoor in nr. 4.4 aangehaalde passages uit de conclusie van A-G Huydecoper in de zaak GBT c.s./Ajinomoto c.s. zijn reeds enige aanwijzingen voor het beoordelingskader in cassatie te vinden. Die vinden wij in het bijzonder ook in de nrs. 35-36 van de conclusie: 
+ 
+
+‘35. De rechtswetenschap worstelt al zeer lang met het gegeven dat nadere onderbouwing van waarderingen in de hiervóór tot voorbeeld genomen situatie(s) zeer wenselijk is maar dat die onderbouwing in veel gevallen hetzij daadwerkelijk onmogelijk is hetzij dusdanig overtrokken eisen aan de beoordelaar stelt dat het aanvaardbaar wordt gevonden dat die (goeddeels) achterwege blijft. 
+  Op het praktische niveau van de cassatierechtspraak speelt deze worsteling overigens geen belangrijke rol. In die rechtspraak zijn wij vertrouwd met het gegeven dat de motivering van feitelijke waarderingen begrijpelijk moet zijn maar bepaald niet uitputtend; en dat de motiveringseis bij lastige afwegingen zoals in de vorige alinea’s beschreven navenant beperkt is. 
+  Uitgangspunt is daarbij natuurlijk dat de cassatierechter zelf de feitelijke waarderingen uit de aan zijn oordeel onderworpen beslissing heeft te accepteren. Art. 419 Rv. verbiedt de cassatierechter zich daarover zelf een oordeel te vormen.
+ 
+36. Ik hoop hiervóór duidelijk te hebben gemaakt dat de feitelijke waardering die te pas komt bij het inventiviteitsoordeel dat in deze zaak van de rechter wordt gevraagd nagenoeg allesbeslissend is; dat bij die waardering een veelheid aan niet goed te kwantificeren en lastig te expliciteren factoren in het geding is16; en dat de motiveringseis die aan een op een dergelijke waardering berustend oordeel gesteld wordt en die wél in cassatie getoetst kan worden daarom aan niet onaanzienlijke beperkingen onderhevig is. 
+  Daarmee zal duidelijk zijn dat cassatiemiddelen die een oordeel als dit bestrijden een vrij aanzienlijke barrière hebben te overwinnen.’  
+
+4.8. In nr. 4.5 citeerde ik al uit rov. 3.4.4 van het arrest Rockwool/Isover. In de slotalinea daarvan oordeelde uw Raad nog: 
+ 
+
+‘Voor het overige is het aan het hof als feitenrechter voorbehouden oordeel omtrent de mate van inventiviteit van de geoctrooieerde werkwijze in het licht van de voor de stand van de techniek bepalende eerdere openbaarmakingen zozeer verweven met waarderingen van feitelijke aard dat dit in cassatie verder niet op juistheid kan worden onderzocht. Het oordeel is niet onbegrijpelijk en behoefde niet nader te worden gemotiveerd.’
+ 
+
+4.9. In rov. 4.3.1 van het arrest GBT c.s./Ajinomoto c.s. oordeelde uw Raad: 
+ 
+
+‘Bij de beoordeling van de klachten van onderdeel 2 wordt vooropgesteld dat het oordeel omtrent de inventiviteit van een uitvinding als bedoeld in art. 56 EOV en art. 6 ROW 1995 – die inhoudt dat de te octrooieren uitvinding voor de gemiddelde vakman niet op een voor de hand liggende manier uit de stand der techniek voortvloeit – is gebaseerd op een aan de feitenrechter voorbehouden uitleg en waardering van de beschikbare documentatie en dan ook als zodanig in verregaande mate feitelijk van aard is en slechts in beperkte mate vatbaar is voor toetsing in cassatie. Dat geldt derhalve ook voor de vaststelling van wat als meest nabijgelegen stand van de techniek valt aan te merken.’ 
+ 
+
+4.10. Ik wijs voorts nog op (vaste) jurisprudentie van de Hoge Raad over klachten die in wezen een nieuwe feitelijke beoordeling in cassatie vragen. In een tamelijk recent arrest17 verwoordde de HR (na de vooropstelling van het feitelijk karakter van de beoordeling die daar aan de orde was daar: auteursrechtelijke beschermingsomvang c.q. inbreuk) dit als volgt: 
+ 
+
+‘(f) […] Klachten die in wezen een nieuwe feitelijke beoordeling in cassatie vragen miskennen de grenzen van de cassatierechtspraak. Overigens dient de wijze waarop de toetsing door de feitenrechter is uitgevoerd in overeenstemming te zijn met de hiervoor weergegeven rechtsregels en moet de uitspraak tenminste zodanig zijn gemotiveerd dat deze voldoende inzicht geeft in de aan haar ten grondslag liggende gedachtegang om de beslissing zowel voor partijen als voor derden - in geval van openstaan van hogere voorzieningen: de hogere rechter daaronder begrepen - controleerbaar en aanvaardbaar te maken (HR 4 juni 1993 LJN ZC0986 NJ 1993/659) NJ 2003 171.   Daartoe is evenwel niet steeds vereist dat alle door een partij aangedragen stellingen door de rechter uitdrukkelijk in de motivering worden betrokken.’ 
+ 
+
+
+4.B. Bespreking van de principale onderdelen 1 en 2 
+
+ 
+
+
+4.B.1. Principaal onderdeel 1 
+
+ 
+
+4.11.1. Onderdeel 1.1 is gericht tegen rov. 18 en klaagt over een onjuiste rechtsopvatting omdat het hof heeft miskend dat het bij de beoordeling van de mate van inventiviteit (mede) erom gaat óf de vakman het door de geoctrooieerde uitvinding opgeloste probleem zou hebben onderkend. Betoogd wordt dat door als ‘vertrekpunt’ te nemen dát de vakman geconfronteerd zou worden met enige beperkte opslagstabiliteit van calcipotriol anhydraat het hof ten onrechte niet heeft beoordeeld óf de vakman daadwerkelijk daarmee zou worden geconfronteerd. 
+ 
+
+4.11.2. Het onderdeel faalt omdat het berust op een onjuiste lezing van het arrest. In ’s hofs (aangevallen) deeloverweging in de derde volzin van rov. 18 ‘dat het vertrekpunt is het hiervoor genoemde objectieve technische probleem namelijk of de opslagstabiliteit van het bekende calcipotriol (anhydraat) zou kunnen worden verbeterd’ ligt besloten ’s hofs oordeel dat de vakman (inderdaad) bekend was met het probleem van beperkte opslagstabiliteit van calcipotriol anhydraat. Dat wordt bevestigd door de (niet aangevallen) eerste volzin van rov. 18 luidende: ‘Daarvan uitgaand zou de vakman geconfronteerd met het hiervoor gedefinieerde probleem naar ’s hofs overtuiging onderzoek hebben gedaan naar het bestaan van andere kristallijne verschijningsvormen van calcipotriol met een mogelijk grotere opslagstabiliteit’. Aan dat oordeel ligt een onderbouwing in de voorafgaande rechtsoverwegingen ten grondslag. Daartegen (nader) gerichte klachten komen hierna aan de orde.  
+ 
+
+4.12.1. In onderdeel 1.2 wordt betoogd dat indien het hof uit het octrooischrift EP 154 heeft afgeleid dat de vakman op de prioriteitsdatum bekend zou zijn met enig ‘probleem’ omtrent de ‘beperkte’ opslagstabiliteit van het kristallijne calcipotriol anhydraat dit oordeel getuigt van een onjuiste rechtsopvatting: het hof heeft dan miskend dat de vraag naar de mate van inventiviteit niet mag worden beantwoord door achteraf met ‘hindsight’ te zoeken naar eerdere openbaarmakingen waartoe die uitvinding herleid kan worden. Betoogd wordt dat uit het enkele feit dat een octrooi vermeldt dat de geoctrooieerde uitvinding voorziet in een verbetering ten opzichte van de stand van de techniek niet mag worden afgeleid dat op de prioriteitsdatum ook in de stand van de techniek enig voor oplossing door verbetering vatbaar ‘probleem’ bekend was of door de vakman zou zijn onderkend. 
+ 
+
+4.12.2. De in onderdeel 1.2 voorgestelde rechtsklacht faalt omdat het onderdeel feitelijke grondslag mist. Het hof heeft in de bestreden rov. 18 niet uit het enkele feit dat de beschrijving van het octrooi vermeldt dat het probleem dat het probeert op te lossen is het zoeken naar een kristallijne vorm van calcipotriol die voor therapeutisch gebruik geschikt is en die stabieler is dan het anhydraat gedurende opslag afgeleid dat in de stand van de techniek enig voor oplossing door verbetering vatbaar ‘probleem’ bekend was. Het hof heeft in rov. 15 tot uitgangspunt genomen dat het voor de gemiddelde vakman op de prioriteitsdatum voor de hand lag om uitgaande van het kritallijne anhydrate calcipotriol van WO 834 te zoeken naar een kristallijne vorm van calcipotriol die voor therapeutisch gebruik geschikt is en stabieler is dan het anhydraat gedurende opslag dat wil zeggen minder degradeert en of hij calcipotriol monohydraat zou hebben gevonden. Vervolgens heeft het hof in rov. 16 de ‘vakman op het onderhavige vakgebied’ benoemd en in rov. 17 de bekende stand van de techniek besproken aan de hand van bekende (en in het geding gebrachte) publicaties. Op grond van een waardering van dit een en ander is het hof in rov. 18 tot de overtuiging gekomen dat de vakman geconfronteerd met het in rov. 15 gedefinieerde probleem onderzoek zou hebben gedaan naar het bestaan van andere kristallijne verschijningsvormen van calcipotriol met een mogelijk grotere opslagstabiliteit. 
+ 
+
+4.13.1. Onderdeel 1.3.1 richt zich met een motiveringsklacht tegen de verwerping door het hof in rov. 18 van de stelling van Leo Pharma dat de vakman op de prioriteitsdatum geen enkele aanleiding had om te zoeken naar andere kristallijne vormen aangezien het zoeken naar andere kristallijne vormen destijds geen routine was en daartoe ook geen aanleiding was omdat het calcipotriol anhydraat goed bruikbaar en voldoende stabiel was. Betoogd wordt dat het hof deze essentiële stelling van Leo Pharma weliswaar heeft opgemerkt maar vervolgens met een ontoereikende motivering heeft verworpen. Geklaagd wordt dat het hof zich immers in het geheel niet heeft begeven in de beantwoording van de vraag of de vakman inderdaad al dan niet het door de geoctrooieerde uitvinding opgeloste probleem zou hebben onderkend maar zonder meer als vertrekpunt heeft genomen dat dit zo is.
+ 
+
+4.13.2. Onderdeel 1.3.1 berust op dezelfde onjuiste lezing als onderdeel 1.1 en deelt het lot daarvan. 
+ 
+
+4.14.1. De – eveneens tegen rov. 18 gerichte – onderdelen 1.3.2 en 1.3.3 lenen zich m.i. voor een gezamenlijke behandeling. 
+  Ervan uitgaande dat het hof Leo Pharma’s in rov. 1.3.1 bedoelde betoog heeft verworpen klaagt onderdeel 1.3.2 over schending van art. 149 Rv. dan wel een onvoldoende begrijpelijke uitleg van de gedingstukken omdat Sandoz in de onderhavige procedure niet (althans: niet voldoende duidelijk onderbouwd en/of tijdig) heeft aangevoerd heeft dat de vakman op de prioriteitsdatum enig probleem met de opslagstabiliteit van calcipotriol anhydraat zou hebben onderkend en evenmin uit welke document behorend tot de stand van de techniek dan zou blijken dat de opslagstabiliteit van het bekende kristallijne calcipotriol anhydraat beperkt is (althans beperkter dan die van kristallijne calcipotriol monohydraat). Bij deze stand van zaken had het hof Leo Pharma’s stelling dat de vakman op de prioriteitsdatum niet bekend was met enig probleem met de opslagstabiliteit van het bekende kristallijne calcipotriol anhydraat als (onvoldoende gemotiveerd bestreden) vaststaand moeten beschouwen. 
+  Aansluitend klaagt onderdeel 1.3.3 dat het hof indien het ambtshalve heeft geoordeeld dat de vakman het objectieve technische probleem zou hebben onderkend in strijd met art. 24 Rv. buiten de rechtsstrijd van partijen is getreden. Betoogd wordt dat Sandoz pas in het kader van het appelpleidooi voor het eerst (gemotiveerd) heeft gesteld dat de vakman een probleem met de opslagstabiliteit van het kristallijne calcipotriol anhydraat zou hebben opgemerkt. Betoogd wordt voorts dat indien het hof op deze stelling zijn oordeel heeft gebaseerd dat de vakman zou zijn geconfronteerd met enige beperkte opslagstabiliteit van calcipotriol anhydraat het hof daarmee heeft miskend dat (naar Leo Pharma bij appelpleidooi heeft aangevoerd) deze stelling als nieuwe grief op grond van de in beginsel strakke regel ontoelaatbaar was. Althans zo wordt betoogd heeft het hof miskend dat het in het licht van Leo Pharma’s bezwaar tegen Sandoz’ nieuwe stelling gehouden was om zo nodig onder ambtshalve aanvulling van de goede procesorde als rechtsgrond kenbaar gemotiveerd te beoordelen of Sandoz’ nieuwe stelling bij de beoordeling mocht worden betrokken. 
+ 
+
+4.14.2. De in onderdelen 1.3.2 en 1.3.3 vervatte klachten falen m.i. (reeds) bij gebrek aan feitelijke grondslag. Anders dan deze onderdelen tot uitgangspunt nemen heeft het hof kennelijk – en begrijpelijk – de volgens Leo Pharma ontbrekende (tijdige) betwisting door Sandoz wél aanwezig geacht. Daartoe heeft het hof kennelijk acht geslagen op de stellingname van Sandoz bij pleidooi in eerste instantie18: 
+ 
+
+‘Het probleem ten opzichte van WO 834 is dat anhydraat ongewild omgezet blijkt te worden in iets anders en dat de formulering dus niet meer constant is (de memo’s van Leo laten zien dat dat het werkelijke probleem is productie 16 Sandoz). Als de vakman dit analyseert zal hij vaststellen dat het calcipotriol in een hem nog onbekende vorm aanwezig is. Omdat hij de samenstelling van zijn product wil – en moet – beheersen zou hij de onbekende vorm analyseren en vinden dat het monohydraat is. Ook als de vakman dus niet zou hebben gescreend zou hij monohydraat zonder uitvinderswerkzaamheid hebben gevonden.’ 
+ 
+
+Het hof kon daarin besloten achten de stelling van Sandoz dat de vakman zou hebben opgemerkt dat het anhydraat onvoldoende stabiel is. Van de in onderdeel 1.3.2 bedoelde ontbrekende bestrijding en van een door onderdeel 1.3.3 verondersteld treden buiten de rechtsstrijd van partijen is derhalve geen sprake. 
+  Onderdeel 1.3.3 mist m.i. bovendien feitelijke grondslag omdat het bestreden oordeel van het hof (mede) voortbouwt op de in cassatie niet bestreden rov. 11-15. 
+ 
+
+4.15.1. Onderdeel 1.3.4 klaagt nog dat het hof om de volgende reden op onvoldoende kenbare wijze Leo Pharma’s verweer dat de vakman het door de geoctrooieerde kristallijne calcipotriol monohydraat opgeloste objectieve technische probleem niet zou hebben onderkend heeft verworpen. Indien het hof al heeft mogen oordelen zo betoogt het onderdeel dat Sandoz voldoende gemotiveerd heeft gesteld dat de vakman het door de geoctrooieerde kristallijne vorm opgeloste probleem zou hebben onderkend (wat de onderdelen 1.3.2 - 1.3.3 bestrijden) had het hof Leo Pharma moeten toelaten tot het door haar aangeboden tegenbewijs. Het onderdeel betoogt in dit verband dat op Sandoz de stelplicht en bewijslast rust van haar stelling dat de vakman het door de geoctrooieerde kristallijne vorm opgeloste probleem zou hebben onderkend (en EP 154 inventiviteit ontbeert) welke stelling door Leo Pharma voldoende gemotiveerd is bestreden. 
+ 
+
+4.15.2. Zoals in de inleidende beschouwingen van par. 4 al naar voren kwam is een rechterlijk oordeel over (wel of niet) aanwezigheid van inventiviteit in de zin van art. 56 EOV respectievelijk art. 6 ROW 1995 per saldo een waarderingsoordeel. In die zin is dat oordeel vergelijkbaar met bijv. het oordeel over de vraag of een object in voldoende mate eigen oorspronkelijk karakter en persoonlijk stempel bezit om als ‘werk’ in auteursrechtelijke zin te worden aangemerkt of voldoende onderscheidend vermogen heeft om als ‘merk’ in merkenrechtelijke zin te kunnen worden aanvaard. 
+  Nu het hierbij gaat om een rechterlijk waarderingsoordeel gaat het tegelijkertijd om een oordeel dat zich niet voor bewijslevering (in de zin van art. 149 e.v. Rv.) leent. 
+ 
+
+4.15.3. Wat in het vorenstaande gezegd is over het oordeel over inventiviteit in octrooirechtelijke zin in het algemeen geldt tevens voor elk van de (hoofd-)stappen in de eerder genoemde ‘Problem Solution Approach’ (PSA-test) kort gezegd: (i) het vaststellen van de meest nabij gelegen stand van de techniek; (ii) het vaststellen van het op te lossen objectieve technische probleem; en (iii) het beoordelen of uitgaande van (i) en (ii) de als uitvinding geclaimde oplossing al dan niet voor de hand ligt (bij dit laatste geldt dan niét de maatstaf dat de vakman tot die oplossing had kúnnen komen maar dat hij daartoe zou zíjn gekomen).19
+ 
+
+4.15.4. Het door Leo Pharma in onderdeel 1.3.4 aangevochten oordeel betreft stap (ii) van de PSA. Het blijft daarmee een waarderingsoordeel in de hiervoor bedoelde zin waarbij bewijslevering in de zin van art. 149 e.v. Rv. niet aan de orde is. 
+  Daarop stuit onderdeel 1.3.4 af. 
+ 
+
+4.15.5. Het vorenstaande betekent uiteraard niet dat de rechter voorbij zou mogen gaan aan ‘essentiële’ stellingen waarmee partijen hun standpunten onderbouwen: daaraan voorbijgaan kan leiden tot een slagende motiveringsklacht. 
+  Daarover gaat het in onderdeel 1.3.4 echter niet. 
+ 
+
+4.16.1. Onderdeel 1.3.5 richt zich met een motiveringsklacht tegen rov. 2.5 waar het hof heeft overwogen: 
+ 
+
+‘2.5  Calcipotriol anhydraat is biologisch actief en zeer bruikbaar in topische behandeling van psoriasis. Vanwege de geringe stabiliteit van de stof calcipotriol is het wenselijk deze niet in een formulering op te lossen maar in suspensie (kleine vaste deeltjes) aan een formulering toe te voegen.’ 
+ 
+
+Het onderdeel betoogt dat indien in dit oordeel besloten ligt het oordeel dat de gemiddelde vakman het door de geoctrooieerde uitvinding opgeloste probleem zou hebben onderkend dit oordeel onvoldoende begrijpelijk gemotiveerd is.
+ 
+
+4.16.2. Het onderdeel oppert zelf al (‘indien in dit oordeel besloten ligt…’) dat het mogelijk berust op verkeerde lezing. Ik meen dat dit inderdaad het geval is: uit het bestreden arrest valt niet af te leiden dat (en het onderdeel geeft ook niet aan waarom) rov. 2.5 (essentieel) dragend zou zijn voor ’s hofs oordeel in rov. 18. 
+ 
+
+4.16.3. Ook om andere redenen faalt het onderdeel. Het richt zich tegen een weergave door het hof van de door de rechtbank vastgestelde feiten. In rov. 3 van het bestreden arrest heeft het hof vastgesteld dat Sandoz twee grieven heeft gericht tegen de feitenvaststelling door de rechtbank in rov. 2.10 en 2.16 van het vonnis. Uit het bestreden arrest blijkt niet dat Leo Pharma grieven heeft geformuleerd tegen de feitenvaststelling door de rechtbank. In cassatie moet de (uit het rechtbankvonnis overgenomen) feitenvaststelling door het hof in rov. 2.5 derhalve als vaststaand gelden. Indien onderdeel 1.3.5 gelezen zou moeten worden als gericht tegen de vaststelling van de feiten door het hof gaat het om een ontoelaatbaar novum in cassatie. 
+ 
+
+
+4.B.2. Principaal onderdeel 2 
+
+ 
+
+4.17.1. Volgens onderdeel 2.1 heeft het hof in rov. 21 blijk gegeven van een onjuiste rechtsopvatting indien het heeft miskend dat de vraag naar de mate van inventiviteit niet mag worden beantwoord door achteraf voorzien van de kennis van de geoctrooieerde uitvinding te zoeken naar eerdere openbaarmakingen waartoe die uitvinding herleid kan worden maar dat het bij deze beoordeling (mede) erom gaat of (i) voor de oplossing ervan te rade zou zijn gegaan bij de door het hof bedoelde publicaties en alsdan ook (ii) deze uitvinding als voor de hand liggende oplossing uit de toenmalige stand van de techniek met gebruikmaking van algemene vakkennis (niet kon maar) zou hebben afgeleid. Volgens de klacht heeft het hof dit inderdaad miskend indien het van oordeel is geweest dat de vakman reeds tot de kristallisatieproeven zou overgaan omdat hij ermee bekend was dat (pseudo)polymorfen van werkzame stoffen kunnen vóórkomen en dat polymorfisme invloed heeft op de eigenschappen van een werkzame stof (rov. 17) en kristallisatieproeven eenvoudig routinematig en niet kostbaar zijn (rov. 21). 
+ 
+
+4.17.2. De klacht faalt omdat zij uitgaat van een onjuiste lezing van het arrest. Uit rov. 21 blijkt immers dat het hof nadrukkelijk niet ‘zou kunnen afleiden’ maar het ‘zou hebben afgeleid’ als maatstaf heeft genomen. 
+  Ik wijs met name op de deeloverwegingen in rov. 21 (cursiveringen toegevoegd): ‘Uitgaande van het objectieve technische probleem zou de vakman in voornoemde documenten naar het oordeel van het hof een sterke aansporing hebben gevonden om met toepassing van de werkwijzen beschreven in US 622 US 325 en JP 358 monohydraat van calcipotriol te verkrijgen’; ‘De omstandigheid dat zoals Leo Pharma stelt op basis van de theorie geen voorspelling kan worden gedaan over de uitkomst van een dergelijk polymorfie-onderzoek zou de vakman niet hebben weerhouden van het uitvoeren van bedoelde proeven juist omdat het doen daarvan eenvoudig en niet kostbaar is (en was ook op de prioriteitsdatum)’; ‘Om dezelfde reden zouden ook de door Leo Pharma genoemde omstandigheden […] de vakman […] er niet van hebben weerhouden bedoelde experimenten uit te voeren; en ‘Hieraan ontleende de vakman een voldoende verwachting van succes om tot het doen van proeven over te gaan’. 
+ 
+
+4.17.3. De deelklacht dat van de miskenning van de maatstaf niettemin sprake zou zijn indien het hof van oordeel is geweest dat de vakman reeds tot de kristallisatieproeven zou overgaan omdat hij ermee bekend was dat (pseudo)polymorfen van werkzame stoffen kunnen voorkomen en dat polymorfisme invloed heeft op de eigenschappen van een werkzame stof (rov. 17) en kristallisatieproeven eenvoudig routinematig en niet kostbaar zijn (rov. 21) faalt eveneens bij gebrek aan feitelijke grondslag. Het hof heeft in rov. 17-21 zijn oordeel niet alleen op de hier bedoelde factoren gebaseerd. 
+ 
+
+4.18.1. Volgens onderdeel 2.2 getuigt ’s hofs oordeel van een onjuiste rechtsopvatting indien het heeft miskend dat de vakman pas tot bedoelde proeven zal overgaan nadat (een document uit) de stand van de techniek hem heeft geleerd dat er ten minste een redelijke verwachting van succes bestaat dat hij met die proeven een (nieuwe) kristallijne vorm van calcipotriol zal verkrijgen met een betere opslagstabiliteit dan het kristallijne calcipotriol anhydraat. Het hof heeft dit inderdaad miskend indien het van oordeel is geweest dat de vakman reeds tot de kristallisatieproeven zou overgaan omdat hij ermee bekend was dat (pseudo) polymorfen van werkzame stoffen kunnen vóórkomen en dat polymorfisme invloed heeft op de eigenschappen van een werkzame stof (rov. 17) en kristallisatieproeven eenvoudig routinematig en niet kostbaar zijn (rov. 21). 
+ 
+
+4.18.2. Ook onderdeel 2.2 berust op onjuiste lezing. Van de in het onderdeel bedoelde miskenning blijkt niet. In de in nr. 4.17.2 aangehaalde deeloverwegingen ligt besloten dat de vakman in verband met de in het onderdeel bedoelde redelijke verwachting van het succes tot die proeven zou zijn overgegaan. Dat wordt nog onderstreept door de deeloverweging in rov. 18 (cursivering toegevoegd): ‘Zoals in rov. 17 is overwogen was de vakman zich er ook begin 1993 terdege van bewust dat het onderzoek naar (andere) (pseudo)polymorfe verschijningsvormen van een werkzame stof mede met het oog op de opslagstabiliteit daarvan zinvol was’. 
+ 
+
+4.18.3. De deelklacht in de tweede volzin van onderdeel 2.2 faalt op dezelfde gronden als vermeld in nr. 4.17.3. 
+ 
+
+4.19.1. De onderdelen 2.3 2.4 en 2.5 bevatten (subsidiaire) motiveringsklachten. 
+ 
+
+4.19.2. Ten aanzien van deze motiveringsklachten roep ik in herinnering hetgeen in par. 4 van deze conclusie is vermeld over het feitelijk karakter en de (zeer) beperkte toetsingsruimte in cassatie van de beoordeling van de (mate) van inventiviteit. Voor het geval de onderdelen 2.3 t/m 2.5 daarop niet aanstonds afstuiten sta ik toch nog bij deze onderdelen stil. 
+ 
+
+4.20.1. Volgens onderdeel 2.3 is ’s hofs oordeel in rov. 21 in verbinding met rov. 17 ongenoegzaam gemotiveerd in het licht van Leo Pharma’s betoog (i) dat de vakman voor de oplossing van het objectieve technische probleem niet te rade zou zijn gegaan bij de door het hof bedoelde publicaties en (ii) dat de vakman de kristallijne vorm van calcipotriol monohydraat niet als voor de hand liggende oplossing uit de toenmalige stand van de techniek met gebruikmaking van algemene vakkennis (niet kon maar) zou hebben afgeleid. Leo Pharma heeft aldus de klacht hiertoe de volgens haar essentiële stellingen betrokken dat deze documenten een ander probleem oplossen namelijk het verschaffen van een eerst bruikbare kristallijne vorm van een farmaceutisch actieve stof en dat US 622 US 325 en JP 358 de vakman derhalve niet leren dat kristallijne monohydraten van vitamine D-derivaten een betere opslagstabiliteit zouden kennen dan kristallijne anhydraten. Het hof heeft op deze stellingen niet gerespondeerd en in het bijzonder heeft het hof niet gemotiveerd waarom US 622 US 325 en JP 358 of Kragballe de vakman dit wél zouden leren. 
+  Leo Pharma had zo vervolgt onderdeel 2.3 verder de volgens haar essentiële stelling betrokken dat de vakman geen redelijke verwachting van succes had dat hij met die proeven een (nieuwe) kristallijne vorm van calcipotriol zou verkrijgen met een betere opslagstabiliteit dan het kristallijne calcipotriol anhydraat. Leo Pharma klaagt dat het hof ook op deze stelling niet heeft gerespondeerd en in het bijzonder niet heeft gemotiveerd waarom de vakman – die op basis van de theorie geen voorspelling kan doen over de uitkomst van de door het hof bedoelde kristallisatieproeven – (desalniettemin) aan de hand van zulke proeven wél redelijkerwijs mocht verwachten dat hij met succes zo’n (nieuwe) kristallijne vorm van calcipotriol met een betere opslagstabiliteit dan het bekende kristallijne calcipotriol zou verkrijgen. 
+ 
+
+4.20.2. De klachten van onderdeel 2.3 berusten op onjuiste lezing van het arrest. ’s Hofs deeloverweging in rov. 21 dat ‘de vakman in voornoemde documenten naar het oordeel van het hof een sterke aansporing [zou] hebben gevonden om met toepassing van de werkwijzen beschreven in US 622 US 325 en JP 358 monohydraat van calcipotriol te verkrijgen’ wordt niet ontzenuwd door het argument dat deze documenten (primair) het in het onderdeel bedoelde ‘andere’ probleem zouden oplossen; nog daargelaten dat de klacht niet duidelijk maakt waarom het hof in de in het onderdeel bedoelde probleem van het verschaffen van een (eerst) bruikbare kristallijne vorm van een farmaceutisch actieve stof een (wezenlijk) ander probleem zou hebben moeten zien dan het beproeven of kristallijne monohydraten van vitamine D-derivaten een betere opslagstabiliteit zouden kennen dan kristallijne anhydraten. 
+  Dat en waarom US 622 US 325 en JP 358 en/of Kragballe de vakman zouden leren om monohydraat van calcipotriol te verkrijgen behoefde het hof niet aan te geven: voldoende is dat deze documenten de vakman tot onderzoek daarnaar zouden hebben bewogen en dat is wat het hof overwogen heeft. 
+  Hieruit blijkt ook het falen van de klacht dat het hof zou hebben moeten responderen op Leo Pharma’s stelling dat de vakman (bij de proeven waartoe hij volgens het hof zou zijn overgegaan) ook meteen een redelijke verwachting van succes gehad zou moeten hebben. Dat de vakman ook zonder zo’n succesverwachting tot de proeven zou zijn overgegaan heeft het hof reeds genoegzaam gemotiveerd: ‘juist omdat het doen daarvan eenvoudig en niet kostbaar is (en was ook op de prioriteitsdatum)’. Dit oordeel wordt in cassatie niet bestreden. ’s Hofs laatste volzinnen van rov. 21 waarin aangegeven word dát en waarom de vakman een voldoende verwachting van succes om tot het doen van proeven over te gaan laten bovendien zien dat het hof aan de stellingname van Leo Pharma niet voorbij gegaan is. 
+ 
+
+4.20.3. Voor zover de klachten van onderdeel 2.3 ’s hofs motivering (nog steeds) ongenoegzaam achten gaan zij uit van een onjuiste rechtsopvatting en/of verlangen zij te zeer een ‘motivering achter de motivering’. 
+ 
+
+4.21.1. Volgens onderdeel 2.4 (uitgewerkt in subonderdelen 2.4.1 - 2.4.3) klemt de motiveringsklacht van onderdeel 2.3 temeer nu ook uit hetgeen het hof in rov. 19-20 heeft overwogen omtrent hetgeen de vakman leert uit US 622 US 325 en JP 358 of Kragballe niet valt af te leiden waarom de vakman in die documenten een sterke aansporing zou hebben gevonden om monohydraat van calcipotriol te verkrijgen. In dit verband heeft het hof weliswaar overwogen dat ‘[i]n deze octrooien de gunstige eigenschappen van (mon)hydraten [worden] genoemd waaronder een grote stabiliteit’ maar deze overweging biedt volgens het onderdeel geen voldoende (begrijpelijke) motivering van de door het hof aangenomen ‘sterke aansporing voor de vakman’ in het licht van Leo Pharma’s betoog dat het begrip ‘stabiliteit’ in US 622 US 325 en JP 358 niet de betekenis heeft van opslagstabiliteit van de kristallijne vorm en dat in US 622 US 325 en JP 358 niet de stabiliteit van een kristallijn monohydraat wordt vergeleken met die van een kristallijn anhydraat. 
+ 
+
+4.21.2. De klachten van onderdeel 2.4 (en de subonderdelen 2.4.1 - 2.4.3) kunnen aan de begrijpelijkheid van ’s hofs oordeel niet afdoen. Het is verre van onbegrijpelijk dat het hof de (door het onderdeel betwiste) aansporing voor de vakman heeft gebaseerd op de gunstige eigenschappen van de monohydraten van de vitamine D-analogen waaronder de opslagstabiliteit die in de (in rov. 19-20 genoemde) publicaties worden besproken: door die gunstige eigenschappen heeft de vakman voldoende verwachting op succes dat ook calcipotriol in de monohydraatvorm stabiel(er) zou zijn. Omdat de vakman uit die publicaties leert dat monohydraatvormen van vitamine D-analogen opslagstabiel kunnen zijn kon het hof het voor de vakman de moeite waard en daarmee voor hand liggend achten om te onderzoeken of dat ook voor het calcipotriolmonohydraat geldt terwijl (blijkens rov. 22 ) de vakman dit monohydraat kan verkrijgen door het proberen van de combinatie van aceton en water en volgens Rasmussen (werkzaam bij Leo Pharma) de vakman daarbij het monohydraat van calcipotriol zou hebben gevonden (hierna zal blijken dat ook klachten over rov. 22 blijken te falen). 
+  Aan dit alles behoefde voor het hof niet af te doen dat in de bedoelde publicaties geen vergelijking van de stabiliteit van anhydraat- en monohydraatvormen is te vinden.
+ 
+
+4.22.1. Onderdeel 2.5 behelst een motiveringsklacht over ’s hofs oordeel in rov. (21 en) 22 dat de vakman het monohydraat zou hebben gevonden waarbij het hof wees (i) op de werkwijzen in US 622 US 325 en JP 358 (ii) op het eenvoudige niet kostbare karakter van de proeven (iii) op het uitvoeren van een polymorph screen en/of (iv) op het proberen van de combinatie van aceton en water. Het onderdeel is uitgewerkt in de subonderdelen 2.5.1 t/m 2.5.5 die klagen over ongenoegzaamheid van deze deelelementen in ’s hofs redengeving. 
+ 
+
+4.22.2. Daarbij verliest onderdeel 2.5 (en verliezen de subonderdelen 2.5.1 t/m 2.5.5) uit het oog dat ook bij eventuele onvoldoende begrijpelijkheid van één of meer van deze afzonderlijke deelelementen voor een oordeel dat de vakman zonder uitvinderswerkzaamheid tot de bereiding van calcipotriol monohydraat zou zijn gekomen het geheel van de (overblijvende) deelelementen daartoe wel degelijk (genoegzaam) redengevend kan worden geacht. Reeds hierop zullen klachten van onderdeel 2.5 – wegens onjuiste lezing van het geheel van de desbetreffende overwegingen van het arrest – blijken te stranden. 
+ 
+
+4.22.3. Zo berust op onjuiste lezing van het geheel van de desbetreffende overwegingen van het arrest de klacht in subonderdeel 2.5.1 dat Leo Pharma had gesteld dat de hydraten van de documenten US 622 US 325 en JP 358 niet als kristallijn anhydraat voorkomen terwijl het hof in rov. 21 ook heeft overwogen dat van de in US 622 US 325 en JP 358 beschreven kristallijne vitamine D-derivaten voordien nog helemaal geen kristallijne vorm beschikbaar was doch slechts de amorfe stof en dat daarom niet begrijpelijk is dat en hoe bedoelde documenten de vakman leerden hoe hij van een anhydraat als het op de prioriteitsdatum bekende kristallijne calcipotriol een monohydraat had kunnen vervaardigen. 
+  Anders dan de klacht wil doen geloven heeft het hof niet overwogen dat de genoemde documenten de vakman zonder meer leerden hoe hij van een anhydraat een monohydraat had kunnen maken. Het hof heeft wél uit US 622 US 325 en JP 358 in combinatie met WO 834 afgeleid dat de vakman een voldoende succesverwachting had om over te gaan tot het doen van proeven om calcipotriol monohydraat te verkrijgen en geoordeeld dat deze documenten de vakman leren dat hij van sterk op calcipotriol gelijkende vitamine D-analoga op een vrij simpele manier monohydraat kan maken. Dat er voordien nog geen kristallijne vorm beschikbaar was is daarbij in het niet onbegrijpelijke oordeel van het hof niet relevant zodat het hof daarop niet (nader) behoefde in te gaan. 
+ 
+
+4.22.4. Subonderdeel 2.5.2 gaat ervan uit dat het hof tot uitgangspunt heeft genomen dat het kristallijne calcipotriol monohydraat zou zijn gevonden door een volledig polymorfie-onderzoek. Volgens deze klacht is het hof dan ten onrechte niet (kenbaar) ingegaan op Leo Pharma’s stelling dat de vakman een dergelijk onderzoek niet zou hebben gedaan. ’s Hofs arrest zou dan ook/althans innerlijk tegenstrijdig zijn nu Leo Pharma heeft betwist dat het uitvoeren van een volledig polymorfie-onderzoek begin 1993 tot de standaard procedures behoorde (in het bijzonder ten aanzien van vitamine D-derivaten) en het hof die betwisting in rov. 17 in het midden heeft gelaten. 
+ 
+
+4.22.5. Ook subonderdeel 2.5.2 berust op onjuiste lezing omdat niet blijkt dat het hof tot uitgangspunt heeft genomen dat de kristallijne calcipotriol monohydraat slechts zou zijn gevonden door een volledig polymorfie-onderzoek en het hof er (dan ook) niet van is uitgegaan dat de vakman zo’n volledig polymorfie-onderzoek zou hebben gedaan. Het hof heeft daarentegen aangenomen dat de vakman enige (in rov. 21 aangegeven) betrekkelijk eenvoudige proeven met enkele voor de hand liggende oplosmiddelen zou hebben gedaan en daarbij het monohydraat van calcipotriol zou hebben verkregen. 
+ 
+
+4.22.6. Subonderdeel 2.5.3 klaagt nog dat het hof voor zover het op grond van Rasmussens verklaring heeft aangenomen dat de vakman een volledig polymorfie-onderzoek wel zou hebben gedaan eraan voorbij gezien heeft dat Rasmussen weliswaar verklaard heeft dat het kristallijne calcipotriol monohydraat waarschijnlijk zou zijn gevonden bij een volledig polymorfie-onderzoek maar dat dit niets zegt over de vraag of een dergelijk onderzoek zou zijn verricht. 
+ 
+
+4.22.7. Ook deze klacht berust op onjuiste lezing van het geheel van de relevante overwegingen van het arrest. Ook al zou Rasmussens verklaring inhouden dat het kristallijne calcipotriol monohydraat waarschijnlijk zou zijn gevonden bij een volledig polymorfie-onderzoek en ook al zou dat niet iets zeggen over de uitkomst van onderzoek dat niet een volledig polymorfie-onderzoek omvat dan doet dat niet af aan ’s hofs eindoordeel mede gebaseerd op de laatste alinea van rov. 22 over de betekenis voor de vakman van US 622 US 325 en JP 358 die in de Britse procedure (waarin Rasmussen zijn daarboven aangehaalde verklaring aflegde) evenwel niet waren overgelegd. 
+ 
+
+4.22.8. Subonderdeel 2.5.4 gaat uit van een (m.i. juiste) lezing van het arrest waarbij het hof ervan is uitgegaan dat het enkele proberen van de combinatie van aceton en water ertoe zou hebben geleid dat het kristallijne calcipotriol monohydraat zou zijn gevonden. Volgens het onderdeel heeft het hof eraan voorbij gezien dat de vakman bij de proeven had moeten kiezen uit een reeks van variabelen waaronder het soort oplosmiddel de temperatuur de hoeveelheid en de mate van roeren en dat dit alleen niet in de weg staat aan het (waarschijnlijk) vinden van het kristallijne calcipotriol monohydraat bij een volledig polymorfie-onderzoek. 
+ 
+
+4.22.9. Subonderdeel 2.5.4 faalt omdat het andere oordeel waartoe het hof gekomen is niet onbegrijpelijk is. Het onderdeel geeft ook niet aan waarom dit oordeel – na het falen van de eerste (sub-)onderdelen – onbegrijpelijk zou moeten heten. Het hof heeft overigens gemotiveerd dat en waarom het onderzoek van de vakman niet uitputtend behoefde te zijn om tot succes te leiden: zie de bespreking van andere (sub-)onderdelen hierboven in nrs. 4.22.3 - 4.22.7. 
+ 
+
+4.22.10. Volgens subonderdeel 2.5.5 klemt ‘het voorgaande’ temeer omdat Leo Pharma heeft aangevoerd dat op basis van de theorie geen voorspelling kan worden gedaan over de uitkomst van een polymorfie-onderzoek en dat kristallisatie van vitamine D-derivaten moeilijk is. Dit een en ander had de vakman er volgens het hof weliswaar niet van weerhouden proeven te doen maar dat wil nog niet zeggen dat een en ander eraan in de weg had gestaan – zoals Leo Pharma heeft aangevoerd – dat het kristallijne calcipotriol monohydraat zou zijn gevonden. 
+ 
+
+4.22.11. De klacht van onderdeel 2.5.5 komt neer op een herhaling van eerdere klachten; zij deelt het lot daarvan. 
+ 
+5. Principaal onderdeel 3 (kostenveroordeling) 
+
+5.1. In onderdeel 3 klaagt Leo Pharma over haar veroordeling in de proceskosten van Sandoz ad € 277.92157 op de voet van art. 1019h Rv. De rechtsklacht (onderdeel 3.1) luidt dat het hof heeft miskend dat een kostenveroordeling op grond van die bepaling alleen aan de orde is bij geschillen over handhaving van rechten van intellectuele eigendom als bedoeld in art. 1019 Rv. Daarvan is geen sprake indien een partij die geen houder van intellectuele eigendomsrechten is vernietiging vordert van eens anders recht van intellectuele eigendom. Volgens de klacht waarborgt de regeling van artikel 1019 e.v. Rv. – althans in een richtlijnconforme uitleg daarvan – immers uitsluitend de handhaving van de verschillende rechten van houders van intellectuele-eigendomsrechten (in casu: Leo Pharma) en beoogt zij niet de verschillende maatregelen en procedures te regelen die ter beschikking worden gesteld van de personen die door anderen verkregen intellectuele-eigendomsrechten (in casu: EP 154) betwisten zonder zelf houders van dergelijke rechten te zijn (in casu: Sandoz). Ter zake van het gedeelte van het geschil dat betrekking had op de vraag of EP 154 al of niet geldig is had het hof derhalve geen toepassing mogen geven aan art. 1019h Rv. 
+  Leo Pharma grondt deze opvatting op het arrest van HvJEU 15 november 2012 zaak C-180/11 (Bericap/Plastinnova) rov. 77-8020. 
+ 
+
+
+5.A. Inleidende beschouwingen 
+
+ 
+
+5.2. Vóórdat ik meer specifiek op deze klacht en op even genoemd HvJEU-arrest inga geef ik in de nrs. 5.3.1 - 5.14.2 een uiteenzetting van het kader waarin art. 1019h Rv. sinds de invoering ervan in 2007 zijn rol speelt met bijzondere aandacht voor de (al dan niet) toepasselijkheid op gevallen waarin een IE-recht wordt betwist door iemand die niet zelf de houder van een dergelijk recht is (bijv.: iemand die van inbreuk wordt of kan worden beticht of wil voorkomen daarvan te worden beticht). 
+ 
+
+5.3.1. De artikelen 1019-1019i Rv. zijn per 1 juli 2007 ingevoerd ter implementatie van de Richtlijn 2004/48/EG van 29 april 2004 betreffende de handhaving van intellectuele-eigendomsrechten (hierna ook wel: ‘de Handhavingsrichtlijn’). Het toepassingsbereik van deze richtlijn wordt bepaald door art. 2 daarvan luidende: 
+ 
+
+Artikel 2  – Toepassingsgebied
+
+1. Onverminderd de middelen die in de communautaire of nationale wetgeving zijn of kunnen worden vastgelegd voorzover deze middelen gunstiger zijn voor de rechthebbenden zijn de bij deze richtlijn vastgestelde maatregelen procedures en rechtsmiddelen overeenkomstig artikel 3 van toepassing op elke inbreuk op intellectuele-eigendomsrechten zoals bepaald in het communautaire recht en/of het nationale recht van de betrokken lidstaat.  
+
+Dit artikel 2 van de Richtlijn is in Nederland geïmplementeerd in art. 1019 Rv. waarin rechten ingevolge Rijksoctrooiwet 1995 met zo veel woorden worden genoemd. Dit geldt uiteraard ook voor zover deze wet van toepassing is op – krachtens het EOV – Europees verleende octrooien. 
+ 
+
+5.3.2. Over de proceskostenveroordeling bepaalt art. 14 van de Handhavingsrichtlijn: 
+ 
+
+Artikel 14  –  Aan de procedure verbonden kosten
+De lidstaten dragen er zorg voor dat als algemene regel redelijke en evenredige gerechtskosten en andere kosten die de in het gelijk gestelde partij heeft gemaakt door de verliezende partij zullen worden gedragen tenzij de billijkheid zich daartegen verzet.
+ 
+
+5.3.3. De Nederlandse wetgever heeft ervoor gekozen om deze richtlijnbepaling om te zetten in art. 1019h Rv. luidende: 
+ 
+
+‘Voor zover nodig in afwijking van de tweede paragraaf van de twaalfde afdeling van de tweede titel van het eerste Boek en in afwijking van artikel 843a eerste lid wordt de in het ongelijk gestelde partij desgevorderd veroordeeld in redelijke en evenredige gerechtskosten en andere kosten die de in het gelijk gestelde partij heeft gemaakt tenzij de billijkheid zich daartegen verzet.’ 
+ 
+
+5.3.4. Óf art. 14 van de Handhavingsrichtlijn in Nederland zo’n (nadere) implementatie behoefde of dat het systeem bestaande systeem van kostenveroordeling volgens de liquidatietarieven daarin voldoende voorzag is in Nederland omstreden geweest en dat is nog steeds zo. Met voorbijgaan aan eerdere publicaties21 wijs ik hier op het tamelijk recente goed gedocumenteerde artikel van Ch. Vrendenbarg in BIE 201322. 
+  Zij wijst (onder veel meer) erop: 
+
+- dat Nederland eerder bij de implementatie van het TRIPs-verdrag géén aanleiding zag om het (met art. 14 van de Handhavingsrichtlijn vergelijkbare) art. 45 lid 2 van dat verdrag te implementeren; 
+- dat er veel weerstand vanuit de lidstaten (ook Nederland) was tegen het ontwerp-artikel (18) van de Richtlijn met name omdat dit te zeer in het nationale procesrecht zou ingrijpen; 
+- dat ‘redelijke en evenredige gerechtskosten en andere kosten’ een zeer flexibele norm inhoudt; 
+- dat die flexibiliteit samenhangt met de omstandigheid dat art. 14 ‘als algemene regel’ voor alle inbreukzaken is neergelegd terwijl het ontwerp-artikel (18) qua proceskostensanctie weliswaar veel strenger was geformuleerd maar toen met name bedoeld was voor gevallen van notoire (grootschalige) piraterij; 
+- dat uit evaluatie door de Europese Commissie blijkt dat de meeste lidstaten van de EU niet tot aanpassing van de geldende proceskostenregels zijn overgegaan omdat het nationale regime reeds zou voldoen aan de Richtlijnbepaling.  
+
+5.3.5. Daargelaten of 1019h Rv. in de Nederlandse wetgeving moest worden opgenomen de tekst daarvan (en van art. 14 van Richtlijn 2004/48/EG) dwingt in elk geval niet tot een systeem van ‘volledige proceskostenveroordeling’ (zoals inmiddels ook de gangbare naam is van het desbetreffende IE-leerstukje is). De Nederlandse rechterlijke praktijk is wél tot zo’n systeem overgegaan. Ik citeer nu C.J.J.C. van Nispen: 
+ 
+
+‘De formuleringen in art. 14 Richtlijn 2004/48 zijn juist opgenomen met het oog op een flexibele toepassing van de proceskostenveroordeling waarbij rekening kan worden gehouden met de specifieke omstandigheden van de zaak zoals de omvang van de inbreuk de toerekenbaarheid van de inbreuk aan de gedaagde en andere specifieke omstandigheden van de zaak (MvA Kamerstukken I 2006/07 30 392 nr. C p. 1-2). Deze gedachten uit de parlementaire geschiedenis hebben weinig invloed gehad op de praktijk. Rechtspraak HR. In HR 30 mei 2008 LJN BC2153 NJ 2008/556 (Endstra/Nieuw Amsterdam) wordt overwogen dat art. 14 Handhavingsrichtlijn aan de in het gelijk te stellen partij vergoeding van de volledige proceskosten in het vooruitzicht stelt. In HR 28 oktober 2011 LJN BQ6079 (Zegveld/ZLTO) wordt overwogen dat de kostenveroordeling van art. 1019h in de regel aanzienlijk hoger uitvalt dan de gebruikelijke kostenveroordeling op de voet van art. 238 en 239 Rv overeenkomstig één van de liquidatietarieven.’23
+ 
+
+Ook Vrendenbarg geeft aan dat en waarom het principe van een ‘volledige proceskostenveroordeling’ niet uit de Richtlijn en haar geschiedenis noch uit art. 1019h Rv. en zijn geschiedenis voortvloeit. 
+ 
+
+5.3.6. Ik herinner nog aan het voorstel van de Commissie Burgerlijk Procesrecht van de Nederlandse Orde van Advocaten in 2006 om de bijzondere kostenveroordelingsregeling te beperken tot ‘flagrante’ inbreuken24. Voor zulke inbreuken hebben wij inmiddels een door het Benelux-Gerechtshof (op de voet van art. 2.21 lid 4 BVIE inbreuk ‘te kwader trouw’) geijkt criterium25. In het kort: ‘gebruik te kwader trouw’ veronderstelt ‘moedwillige inbreuk’; dat veronderstelt op zijn beurt bewustheid van het inbreukmakend karakter; daarvan is geen sprake ‘indien degene wiens handelen achteraf inbreukmakend wordt geoordeeld het verwijt van inbreuk heeft bestreden met een verweer dat in redelijkheid niet als bij voorbaat kansloos kan worden aangemerkt’. 
+ 
+
+5.3.7. Desalniettemin heeft de Nederlandse rechtspraak alras besloten tot een generaal ‘alles-of-omgekeerd-alles’ volledige-proceskostenveroordelingssysteem26. 
+ 
+
+5.3.8. Is zo’n systeem in strijd met de Handhavingsrichtlijn? Niet met de tekst van het reeds geciteerde art. 14: die is ook in die richting voldoende flexibel. 
+  Zo’n systeem staat wel op gespannen voet met punt 17 van de considerans van de Richtlijn: 
+ 
+
+‘(17) De maatregelen procedures en rechtsmiddelen waarin deze richtlijn voorziet moeten in elk afzonderlijk geval zodanig worden vastgesteld dat naar behoren rekening wordt gehouden met de specifieke kenmerken van dat geval waaronder de specifieke kenmerken van elk intellectuele-eigendomsrecht en in voorkomend geval de opzettelijke of onopzettelijke aard van de inbreuk.’ 
+ 
+
+Het heeft er voorts de schijn van dat de rechtspraak in Nederland de verregaande omhelzing van een principe van ‘volledige kostenveroordeling’ in IE-inbreukzaken ten onrechte gelegitimeerd of zelfs geboden acht met een verwijzing naar de Richtlijn en naar art. 1019h Rv. En dat terwijl aan zo’n strak systeem – zoals aan ieder strak systeem – natuurlijk ook aanzienlijke bezwaren kleven27. Met name valt te wijzen op een ‘chilling effect’ hetwelk een financieel zwakkere partij of die nu de potentiële eiser of gedaagde is uiteraard zwaarder kan treffen. 
+ 
+
+5.4. De tekst van art. 14 van de Handhavingsrichtlijn (met de woorden ‘de verliezende partij’) en de tekst van art. 1019h Rv. (met de woorden ‘de in het ongelijk gestelde partij’) laten er intussen geen misverstand over bestaan dat de daar gegeven regeling zowel voor de verliezende verweerder als voor de verliezende eiser geldt. Hierover heeft in Nederland en voor zover ik weet ook elders in de EU nimmer twijfel bestaan. Een ander systeem zou ook botsen met de krachtens art. 6 EVRM te verlangen ‘equality of arms’28. 
+ 
+
+5.5. In het gebruikelijke stramien van een doorsnee IE-zaak stelt eiser E dat gedaagde G inbreuk maakt op E’s (bijv.) auteursrecht merkrecht modelrecht of octrooi door een voorwerp op de markt te brengen dat daarmee (kort gezegd) rechtens ontoelaatbare gelijkenis vertoont. 
+  In een zeer gebruikelijk stramien verweert G zich met de stellingen: 
+
+( i) dat eiser E geen recht heeft omdat zijn object niet aan de wettelijke eisen voor bescherming voldoet (bijv: geen eigen en oorspronkelijk karakter (auteursrecht) resp. onvoldoende onderscheidend vermogen (merkenrecht) resp. niet nieuw of geen eigen karakter (modellenrecht) resp. niet nieuw althans niet inventief (octrooirecht) 
+
+  en vervolgens subsidiair: 
+  (ii.a) dat het object van E slechts nipt over de wettelijke beschermingsdrempel komt zodat 
+  (ii.b) van ontoelaatbare gelijkenis ‘te minder’ sprake is (áls daarvan al sprake zou zijn bij een ‘sterker’ auteursecht merkrecht modelrecht octrooi). 
+  De afwezigheid van wettelijke bescherming van het object van E is dus een verweermiddel bij uitstek tegen de gestelde inbreuk. 
+ 
+
+5.6.1. Zoals hieronder blijken zal kan daartoe soms (niet altijd) de weg gevolgd worden van een desbetreffend verweer in conventie in de door de (pretens) IE-rechthebbende aangespannen inbreukactie. Soms (niet altijd) kan of moet de weg gevolgd worden van een desbetreffende nietigheidsactie: hetzij in reconventie in de al aangevangen inbreukprocedure hetzij in een nog andere procedure. 
+ 
+
+5.6.2. Er blijkt een scala van processuele varianten te zijn waarin de geldigheid van diverse (pretense) IE-rechten kan of moet worden aangevochten. In de nrs. 5.7.1 t/m 5.14.2 ga ik daar met een zekere uitvoerigheid op in. 
+  De reden daarvoor is dat er in elk geval één betwistingsvariant is waarover het HvJEU geoordeeld heeft dat het stelsel van de Handhavingsrichtlijn daarop niét van toepassing is (en dus ook kostenveroordeling op de voet van art. 14 van de richtlijn niet van toepassing kan zijn). Dat is de variant die aan de orde was in HvJEU 15 november 2012 zaak C-180/11 (Bericap/Plastinnova): tegelijk – zoals wij zagen – het precedent waarop Leo Pharma zich beroept in haar middelonderdeel 3 tegen de kostenveroordeling in de reconventionele nietigheidsactie van Sandoz. 
+  Bij de vraag of dat precedent inderdaad maatgevend is voor de onderhavige zaak acht ik het dienstig om de caleidoscoop van processuele varianten de revue te laten passeren. 
+  De lezer die voor kennisneming van dit onderzoekje geen tijd heeft kan ervoor kiezen de nrs. 5.7.1 - 5.9.4 over te slaan en over te springen naar nr. 5.10.1 e.v. waar ik de ‘glijdende schaal’ samenvattend in kaart breng en inga op de plaats van het Bericap/ Plastinnova-arrest op die schaal. 
+ 
+
+5.7.1. Zoals in nr. 5.5 gezegd is de afwezigheid van wettelijke bescherming van het (pretense) IE-object een verweermiddel bij uitstek tegen de gestelde inbreuk. En zoals in nr. 5.6.1 aangeduid zijn er verschillende processuele wegen waarmee die afwezigheid van wettelijke bescherming aan de orde kunnen worden gesteld waarbij de wederpartij soms de keus heeft maar soms wettelijk gedwongen is een bepaalde processuele weg te kiezen. 
+ 
+
+5.7.2. Bij IE-rechten die op basis van registratie bij c.q. verlening door een autoriteit ontstaan (zoals merkrechten en octrooien) is een nietigheidsprocedure in eigenlijk zin mogelijk. De desbetreffende wetten voorzien daar uitdrukkelijk in. 
+  Omdat het auteursrecht niet een stelsel van ‘verlening’ door een verlenende autoriteit kent is in het auteursrecht een ‘nietigheidsprocedure’ van de kant van de tegenpartij van de pretens-auteursrechthebbende niet aan de orde. Hetzelfde geldt voor ‘niet geregistreerde gemeenschapsmodellen’ en voor handelsnamen. Wél kan een verklaring voor recht van het niet bestaan van het gepretendeerde recht gevorderd worden29. 
+ 
+
+5.7.3. In het interne Nederlandse recht en in het Benelux-recht lijkt aanvaard dat in die gevallen waarin de wet voorziet in een nietigheidsprocedure het bewandelen van dié processuele weg hetzij in reconventie hetzij in een afzonderlijk ingeleide nietigheidsprocedure niet per se nodig is. De nietigheid c.q. ongeldigheid mag ook als exceptief verweer opgeworpen worden. Voor het Benelux-merkenrecht heeft de Hoge Raad dat uitdrukkelijk bevestigd30. Naar mijn indruk is het overigens gangbaarder dat het beroep op nietigheid wél in een reconventionele vordering aan de orde komt (waarnaar in het conventionele verweer wordt verwezen). Dat gebeurt allicht om een discussie (toch nog) over de vraag of de reconventionele weg niet ‘moést’ worden bewandeld de pas af te snijden. Voorts kan de van inbreuk betichte partij ook buiten de actuele rechtsstrijd met de IE-pretendent er enig belang bij hebben dat diens pretense IE-recht uit de registers verdwijnt. 
+ 
+
+5.7.4. Een beroep op nietigheid bij wege van verweer in conventie is niet overal toegelaten. Het is niet toegelaten bij gemeenschapsmerken noch bij ‘ingeschreven gemeenschapsmodellen’ zo blijkt uit de desbetreffende Unierechtelijke verordeningen. Ik behoef hier niet in te gaan op allerlei details en beperk mij tot een kort exposé over de gemeenschapsmerken geregeerd door de Gemeenschapsmerkenverordening (hierna: GMVo)31. 
+  Het komt erop neer dat (afgezien van voorlopige maatregelen in kortgedingen) in inbreukzaken én nietigheidszaken slechts een ‘rechtbank voor het gemeenschapsmerk’ bevoegd is (in Nederland alleen: de rechtbank ’s-Gravenhage). Die rechtbank moet uitgaan van de geldigheid van het gemeenschapsmerk. Een exceptief nietigheidsverweer kan als gezegd niet gevoerd worden; er is een reconventionele nietigheidsvordering nodig. 
+  De nietigheid kan door een belanghebbende (spontaan of na een processuele aansporing daartoe) ook worden ingeroepen bij de verlenende instantie het Bureau voor Harmonisatie van de Interne Markt (merken en modellen) te Alicante kortweg het BHIM (of in de Engelstalige afkorting OHIM). De verordening voorziet in verschillende varianten waarmee in geval van synchrone nietigheidsacties tegen hetzelfde gemeenschapsmerk potentieel tegenstrijdige uitspraken kunnen worden voorkomen. 
+  Uiteindelijk komt men steeds bij de hoogste Europese rechter uit. Bij de start bij de ‘rechtbank voor het gemeenschapsmerk’ en het blijven volgen van het nationale parcours gebeurt dat door het instrument van prejudiciële vragen aan het HvJEU op de voet van art. 267 VWEU. Na een nietigheidsprocedure bij het OHIM is er de weg van beroep bij het Gerecht van de Europese Unie met de mogelijkheid van een hogere voorziening bij het HvJEU32. Ik verwijs naar art. 95-105 GMVo respectievelijk 56-57 en 65 GMVo.33
+  In de Gemeenschapsmodellenverordening (hierna: GModVo)34 is voor ‘ingeschreven gemeenschapsmodellen’ een niet wezenlijk ander systeem neergelegd.35
+ 
+
+5.7.5. Afgezien van de even besproken regimes van de GMVo en de GModVo kan het zich in nationale jurisdicties buiten Nederland (ook binnen de EU) voordoen dat het ongeldigheidsverweer niet (of bezwaarlijk) als exceptief verweer gevoerd kán worden. Dat kan zich voordoen indien inbreukprocedures bij diverse rechterlijke instanties gevoerd kunnen worden maar de nietigheidsprocedure alleen bij een (gespecialiseerde) instantie.36 Die instantie kan (meteen) een rechterlijke instantie zijn of een administratieve instantie met – doorgaans37 – daarna een hogere voorziening bij een rechterlijke instantie. 
+ 
+
+5.8.1. Er kan voor de wederpartij van de pretense IE-rechthebbende goede reden zijn om de nietigheid niet pas na een inbreukdagvaarding aan de orde te stellen maar om zelf als eerste een nietigheidsprocedure in te leiden.38 Een ‘most honourable’ wederpartij wíl helemaal geen IE-inbreuk plegen. Als deze wederpartij erover twijfelt of zij dat misschien toch zou doen en als de pretens-rechthebbende niet antwoordt of volstaat met het innemen van een onvoldoende overtuigend standpunt dan moet zij – en mag zij – van haar kant de rechter benaderen.39
+  In het (ik denk: vaker voorkomende) verlengde hiervan ligt het geval waarin de pretense IE-rechthebbende wél dreigt met een inbreukactie (of zich daartoe uitdrukkelijk ‘alle rechten voorbehoudt’ etc.) maar zijnerzijds talmt met dagvaarden terwijl de wederpartij zich daardoor (met reden) belemmerd voelt in haar ondernemingsvrijheid. Dit klemt nog meer in gevallen waarin de IE-rechthebbende ‘wappert’ met sommaties in de relatiekring van zijn concurrent terwijl hij die concurrent alsmaar niet wegens inbreuk aanspreekt.40
+ 
+
+5.9.1. Zoals gezegd41 voorziet de IE-regelgeving waarbij de IE-rechten op basis van registratie bij c.q. verlening door een autoriteit ontstaan (zoals merk- en modelrechten en octrooien) in nietigheidsprocedures achteraf (na de registratie c.q. verlening). Deze IE-regelgeving pleegt echter nog méér te doen ter voorkoming van vestiging van IE-rechten die niet gevestigd behoren te worden. Ik doel op het systeem van oppositieprocedures bij de verlenende instanties. 
+ 
+
+5.9.2. Voorkomen is immers beter dan genezen. Tal van systemen van verlening van IE-rechten zowel op het niveau van de EU (resp. het EOV) als op nationaal niveau voorzien in de mogelijkheid van oppositie door belanghebbenden bij de verlenende instantie vóórdat die instantie het IE-recht verleent. Of als variant42: er wordt een recht verleend maar belanghebbenden kunnen bij de verlenende instantie zelf nog stappen ondernemen om die verlening (met terugwerkende kracht) ongedaan te maken. 
+ 
+
+5.9.3. Het oppositiesysteem kent uitgesproken voordelen. De concurrentie kan – zonder verplichting tot opponeren – in een vroeger stadium zien waar de (concurrerende) aanvrager van het IE-recht mee bezig is en welke exclusiviteitsclaims hij wil leggen; en er kan in de loop van de verleningsprocedure bovendien bezwaar tegen die exclusiviteitsclaims worden gemaakt. Dit alles is van belang voor de opponent. 
+  Het oppositiesysteem dient óók het belang van de verleningsinstantie. Door concurrenten van de aanvrager (en eventueel ook andere ‘watchers’) gelegenheid te geven te opponeren wordt de kans dat die instantie bezwaren tegen de verlening van het recht over het hoofd ziet aanzienlijk verkleind. Dit systeem kan kostenbesparing in het apparaat van de verleningsinstantie met zich brengen – en daarmee weer bijdragen tot lagere tarieven. 
+ 
+
+5.9.4. Het gaat in het hier bedoelde oppositiesysteem om administratieve procedures. Wij kennen die bijv. in het Benelux-merkenrecht43 in het Europese merkenrecht44 en in het Europese modellenrecht45. Wij kennen de administratieve procedure – als gezegd – ook in het Europese octrooirecht. 
+ 
+
+5.10.1. De lezer die inmiddels niet de achtergrond van art. 2 en art. 14 van de Handhavingsrichtlijn en van art. 1019 en 1019h Rv. uit het oog verloren heeft zal hetgeen nu volgt hebben voelen aankomen. Tussen twee uitersten met als pool (A) het conventionele ongeldigheidsverweer in een door de (pretens) rechthebbende aangespannen inbreukprocedure en als pool (Z) het enkele opponeren in een verleningsprocedure bevindt zich een glijdende schaal. 
+ 
+
+5.10.2. Wat pool (A) betreft heeft er in Nederland en voor zover ik weet ook elders in de EU geen twijfel bestaan dat het stelsel van art. 1019h Rv. resp. van art. 14 van Richtlijn 2004/48/EG van toepassing is ten nadele van ‘de verliezende partij’. 
+ 
+
+5.10.3. Wat pool (Z) betreft heb ik nimmer een signaal vernomen dat in deze administratieve procedures voor zover daarin kostenveroordelingen ten behoeve van participerende belanghebbende partijen worden uitgesproken zulke kostenveroordelingen zouden zijn (of moeten worden) uitgesproken op de voet van art. 1019h Rv. resp. art. 14 van Richtlijn 2004/48/EG (ook niet in geval van hogere voorzieningen bij rechterlijke instanties). 
+ 
+
+5.10.4. Het door Leo Pharma in het hier besproken cassatiemiddel ingeroepen arrest van HvJEU 15 november 2012 (C-180/11; Bericap/Plastinnova) bevestigt dit laatste. Ik citeer van het arrest heel wat uit de punten 34-48 met betrekking tot het nationale procesverloop in die zaak en vervolgens de rov. 77-82 waarin het hof ‘toetst’ aan de Handhavingsrichtlijn: 
+ 
+
+‘34  Op 17 mei 1991 heeft Plastinnova bij het Hongaarse octrooibureau een aanvraag tot bescherming van een model van nijverheid ingediend onder nr. 2252‑320/91. […] 
+ 
+35 Op 6 mei 1998 heeft Bericap in het kader van een administratieve procedure verzocht om nietigverklaring van de bescherming van het betrokken gebruiksmodel wegens het ontbreken van nieuwheid en van onderliggende uitvinderswerkzaamheid. 
+
+[…]
+ 
+37 Plastinnova heeft als houdster van het gebruiksmodel de Fővárosi Bíróság verzocht om herziening van die beslissing van het Hongaarse octrooibureau. Deze rechter die in eerste aanleg uitspraak deed heeft deze vordering afgewezen en […] de bescherming van het litigieuze model nietig verklaard.  
+38 Plastinnova heeft daartegen beroep ingesteld bij de Fővárosi Ítélőtábla (hof van beroep te Boedapest) […].  
+39 De Legfelsőbb Bíróság (Hooggerechtshof van Hongarije) waarbij Bericap cassatieberoep instelde heeft de in tweede aanleg gegeven beschikking bevestigd.  
+40 Het hoofdgeding (administratieve procedure) heeft een aanvang genomen op 31 januari 2007 toen Bericap bij het Hongaarse octrooibureau een nieuwe vordering tot nietigverklaring van het litigieuze gebruiksmodel heeft ingesteld. […]  
+41 Plastinnova beriep zich op de eerdere nietigheidsprocedure en verzocht dat de nieuwe vordering tot nietigverklaring werd afgewezen zonder onderzoek ten gronde. […] 
+42 Bij beslissing nr. U9200215/58 heeft het Hongaarse octrooibureau deze vordering tot nietigverklaring afgewezen […]  
+
+[…]
+ 
+44 Bericap heeft bij de verwijzende rechter een beroep tot herziening van beslissing nr. U9200215/58 ingesteld en daarbij verzocht om nietigverklaring van het gebruiksmodel. Zij heeft gevraagd dat rekening wordt gehouden met alle overgelegde stukken en heeft betoogd dat de bescherming door een gebruiksmodel de houder ervan uitsluitende rechten verleent die vergelijkbaar zijn met de door een octrooi verleende rechten. Om deze reden vereist het algemeen belang dat de uitsluitende rechten enkel worden verleend door een gebruiksmodel dat voldoet aan de wettelijke vereisten. Door middel van de rechtsfiguur van de nietigverklaring heeft de wetgever ervoor gezorgd dat het algemeen belang wordt gewaarborgd […].  
+
+[…]
+ 
+46 De verwijzende rechter heeft beslissing nr. U9200215/58 vernietigd en de zaak terugverwezen naar het Hongaarse octrooibureau voor een nieuwe uitspraak […]. 
+47 De Fővárosi Ítélőtábla heeft de in eerste aanleg gegeven beschikking vernietigd en de zaak terugverwezen naar de Fővárosi Bíróság voor een nieuw onderzoek […]  
+48 In de verwijzingsbeslissing preciseert de Fővárosi Bíróság dat hij gelet op de bepalingen van richtlijn 2004/48 in het bijzonder de artikelen 2 lid 1 en 3 lid 2 twijfels heeft over de wijze waarop de bepalingen van nationaal recht inzake de procedures tot nietigverklaring van gebruiksmodellen worden toegepast.  
+
+[…] 
+ 
+77 Zoals overigens ook blijkt uit artikel 2 lid 1 van richtlijn 2004/48 waarborgen de betrokken bepalingen derhalve enkel de handhaving van de verschillende rechten van de personen die intellectuele-eigendomsrechten verkregen hebben te weten de houders van dergelijke rechten en kunnen zij niet in die zin worden uitgelegd dat zij beogen de verschillende maatregelen en procedures te regelen die ter beschikking worden gesteld van de personen die zoals verzoekster in het hoofdgeding door anderen verkregen intellectuele-eigendomsrechten betwisten zonder zelf houders van dergelijke rechten te zijn. 
+78 Een nietigheidsprocedure als die welke in het hoofdgeding aan de orde is wordt juist ter beschikking gesteld van een persoon die zonder houder van een intellectueel-eigendomsrecht te zijn opkomt tegen de bescherming van een gebruiksmodel die aan de houder van de overeenkomstige rechten is verleend. 
+79 Een dergelijke procedure beoogt dus niet de bescherming van houders van intellectuele-eigendomsrechten te verzekeren in de zin van de betrokken bepalingen. 
+80 Die procedure betreft immers geen inbreuk op een intellectueel-eigendomsrecht of het nu gaat om de persoon die deze procedure inleidt aangezien deze geen houder van een dergelijk recht is en derhalve per definitie geen inbreuk op dit recht kan ondergaan of om de houder van een recht waarop die procedure betrekking heeft aangezien een tegen hem gerichte rechtsvordering waarbij het bestaan van zijn intellectueel-eigendomsrecht in rechte wordt betwist per definitie niet als een inbreuk kan worden aangemerkt. 
+81 Uit een en ander volgt dat de betrokken bepalingen niet de regeling beogen van de verschillende aspecten van een nietigheidsprocedure als die welke in het hoofdgeding aan de orde is. 
+82 Bijgevolg dient op de gestelde vragen te worden geantwoord dat aangezien de bepalingen van de artikelen 2 lid 1 en 3 lid 2 van richtlijn 2004/48 uitgelegd tegen de achtergrond van artikel 2 lid 1 van het Verdrag van Parijs en artikel 41 leden 1 en 2 van de TRIPs-Overeenkomst niet van toepassing zijn op een nietigheidsprocedure als die welke in het hoofdgeding aan de orde is deze bepalingen niet kunnen worden geacht zich ertegen te verzetten dat de rechter in een dergelijke gerechtelijke procedure:
+- niet gebonden is aan de vorderingen en andere verklaringen van partijen en ambtshalve de overlegging van de noodzakelijk geachte bewijzen kan gelasten;
+- niet gebonden is aan een administratieve beslissing die op een vordering tot nietigverklaring is gegeven noch aan de daarin vastgestelde feiten en
+- bewijzen die reeds in het kader van een eerdere vordering tot nietigverklaring werden overgelegd niet opnieuw kan onderzoeken.’  
+
+5.10.5. Wat er zij van de door het Hof van Justitie gegeven motivering uit het arrest blijkt dat een procedure tot nietigverklaring waarbij een geschil wegens potentiële inbreuk in het geheel niet aan de orde is door het Hof niet beschouwd wordt als ‘van toepassing op elke inbreuk op intellectuele-eigendomsrechten zoals bepaald in het communautaire recht en/of het nationale recht van de betrokken lidstaat’ in de zin van het eerder (nr. 5.3.1) geciteerde art. 2 van Richtlijn 2004/48/EG. 
+  De hier bedoelde administratieve procedures voorzien ook niet in de mogelijkheid van (al dan niet voorwaardelijke) reconventionele inbreukvorderingen. 
+ 
+
+5.11.1. Daarmee is er duidelijkheid over toepasselijkheid op de uiterste polen (A) en (Z): over pool (A) het conventionele verweer omdat daarbij klaarblijkelijk sprake is van een acte clair en over pool (Z) vanwege het Bericap/Plastinnova-arrest van het HvJEU. 
+ 
+
+5.11.2. Ik geef nu nog een uitwerking aan de eerder bedoelde ‘glijdende schaal’. Omdat ik aanneem dat er zeker EU-wijd nog wel meer (sub-)varianten zijn46 vermeld ik de tussencategorieën tussen de polen (A) en (Z) telkens een interval (dus: van (A) naar (C) enz.). Zo kan de geïnteresseerde kritische lezer desgewenst door mij niet genoemde tussenvarianten gemakkelijk een plek te geven. 
+ 
+
+5.11.3. De door mij bedoelde ‘glijdende schaal’ ziet er als volgt uit: 
+ 
+
+(A) Beroep op nietigheid als exceptief verweer in een inbreukactie bij de civiele rechter (wanneer dat mogelijk is); 
+(C) Inroepen nietigheid in reconventie in een inbreukactie bij de civiele rechter (wanneer dat mogelijk is); 
+(E) Inroepen nietigheid in een vrijwel synchrone maar separate procedure (omdat zulks procesrechtelijk vereist is) hangende inbreukactie bij de civiele rechter; 
+(H) Nietigheidsprocedure na sommatie door pretens rechthebbende (‘vooruitgeschoven niet-inbreukverweer’) beantwoord met een inbreukactie in reconventie; 
+(J) Nietigheidsprocedure na sommatie door pretens rechthebbende (‘vooruitgeschoven niet-inbreukverweer’) beantwoord met een inbreukactie in een vrijwel synchrone maar separate procedure; 
+(L) Nietigheidsprocedure na sommatie door pretens rechthebbende (‘vooruitgeschoven niet-inbreukverweer’) zonder dat die (reeds) gevolgd wordt door een inbreukactie; 
+(O) Oppositie- c.q. nietigheidsprocedure bij een administratieve instantie (in het kader van verleningsprocedure) hangende sommatie (of: schermutselingen) i.v.m. ‘toekomstige’ inbreuk zonder hogere voorziening bij rechterlijke instantie omdat die niet mogelijk is; 
+(Q) Oppositie- c.q. nietigheidsprocedure bij een administratieve instantie (in het kader van verleningsprocedure) hangende sommatie (of: schermutselingen) i.v.m. ‘toekomstige’ inbreuk eventueel gevolgd door hogere voorziening bij rechterlijke instantie waar die mogelijk is; 
+(U) Spontane nietigheids- of negatieve-verklaring-voor-recht-procedure (van de aanvang af) bij een rechterlijke instantie; 
+(W) Spontane oppositie- c.q. nietigheidsprocedure bij administratieve instantie zonder hogere voorziening bij rechterlijke instantie omdat die niet mogelijk is; 
+(Z) Spontane oppositie- c.q. nietigheidsprocedure bij administratieve instantie eventueel gevolgd door hogere voorziening bij rechterlijke instantie waar die mogelijk is.  
+ 
+
+5.12.1. Het zal duidelijk zijn dat in deze door mij opgestelde glijdende schaal zoals bij iedere glijdende schaal de relatief grootste twijfels over toepasselijkheid van het stelsel van de Handhavingsrichtlijn zitten in de ‘middenmoot’: dus bij (L) (O) en (Q). Die varianten zijn in de onderhavige zaak niet aan de orde en daaraan kan dus worden voorbijgegaan. 
+ 
+
+5.12.2. Dat het hoger of lager in de glijdende schaal toch óók ‘lastig’ kan zijn moge blijken uit de status van variant (U). Die ligt volgens mij zeer dicht bij variant (Z) als aan de orde in het Bericap/Plastinnova-arrest van het HvJEU. Variant (U) is het noodzakelijke alternatief in gevallen waarin een spontane oppositie- c.q. nietigheidsactie bij een administratieve instantie eenvoudig niet kán omdat de wet die mogelijkheid niet biedt: denk aan het ter discussie stellen van een gepretendeerd auteursrecht. 
+  Niettemin oordeelde de Hoge Raad in het (auteursrechtelijke) arrest Knooble/Staat en NNI van 22 juni 201247 dat art. 1019h Rv. en daarmee het stelsel van de Handhavingsrichtlijn op zo’n procedure (variant U) wél toepasselijk was. 
+  Met de ‘wisdom of hindsight’ van het Bericap/Plastinnova-arrest meen ik dat de Hoge Raad beter het – met de ‘wisdom of foresight’ gegeven – advies van A-G Langemeijer had kunnen volgen om ten deze prejudiciële vragen aan het HvJEU te stellen.48
+ 
+
+5.12.3. Overigens is als ik het goed zie variant (U) of zelfs variant (L) op het voetspoor van A-G Huydecoper alsnog als deelaspect betrokken in vraag 3 van de Hoge Raad aan het HvJEU in de zaak HR 21 september 2012 nr. 11/01131 ECLI NL:HR:2012:BW5879 NJ 2012 532 (ACI c.s./Thuiskopie c.s.) voor zover hier van belang luidende: 
+ 
+
+‘3. Is de Handhavingsrichtlijn van toepassing op een geding als het onderhavige waarin […] door betalingsplichtigen wordt gevorderd dat de rechter ten aanzien van bepaalde in geschil zijnde omstandigheden die van belang zijn voor de vaststelling van de fair compensation verklaringen voor recht geeft ten laste van de bedoelde organisatie die zich daartegen verweert?’ 
+ 
+
+A-G Cruz Villalón heeft inmiddels – onder verwijzing naar het arrest Bericap/Plastinnova – voorgesteld de vraag ontkennend te beantwoorden.49
+ 
+
+5.13. De onderhavige zaak Leo Pharma/Sandoz bevindt zich op punt (C) van de glijdende schaal. Op die glijdende schaal zie ik tegen de achtergrond van art. 14 Handhavingsrichtlijn en art. 1019h geen relevant verschil van varianten (C) en zelfs (E) met variant (A).50 Zelfs varianten (H) en (J) zou ik daarmee gelijk willen stellen. Hier zou een pretens rechthebbende die zich vergeefs verweert tegen een beroep op nietigheid (hetzij conventioneel hetzij in een simultane al dan niet reconventionele nietigheidsprocedure) op de voet van art. 1019h Rv. in de kosten moeten worden veroordeeld niet anders dan de (gebleken) inbeukmaker die het nietigheidsverweer c.q. de parallelle nietigheidsvordering vergeefs heeft gevoerd. 
+  Ik zal verderop dan ook primair concluderen tot verwerping van onderdeel 3. 
+ 
+
+5.14.1. Dat doet mij niet de ogen ervoor sluiten dat in het vorenstaande – mede aan de hand van de ‘glijdende schaal’ gegeven exposé – gebleken is dat schijnbare vanzelfsprekendheden bij de toepassing van art. 14 Handhavingsrichtlijn/art. 1019h Rv. wel eens minder vanzelfsprekend blijken uit te pakken. 
+  Het zou wel eens zo kunnen zijn dat bij het opzetten van het systeem onvoldoende nagedacht is over alle mogelijke processuele varianten (op een inderdaad ‘glijdende schaal’). 
+ 
+
+5.14.2. Voor het geval dat de Hoge Raad ten deze geen ‘acte clair’ aanwezig acht geef ik de Hoge Raad in overweging (toch) nog niet over te gaan tot het stellen van prejudiciële vragen aan het Hof van Justitie van de EU. Die zouden overbodig kunnen blijken nadat het HvJEU de prejudiciële vraag 3 van de Hoge Raad in zijn arrest van 21 september 2012 (ACI c.s./Thuiskopie c.s.)51 heeft beantwoord52. Tot een zodanige aanhouding zal ik subsidiair concluderen. 
+ 
+
+
+5.B. Bespreking van de klachten van principaal onderdeel 3 
+
+
+
+5.15. Na bovenstaande (wat uitgelopen) inleidende beschouwingen laat het resultaat van een (korte) bespreking van de klachten van onderdeel 3 zich wel raden. 
+  De rechtsklacht van onderdeel 3.1 heb ik hierboven weergegeven in nr. 5.1. 
+ 
+
+5.16. Tegen die rechtsklacht heeft Sandoz in haar schriftelijke toelichting (nrs. 69-71) enige preliminaire verweren naar voren gebracht. 
+ 
+
+5.17.1. Volgens Sandoz heeft Leo Pharma (die zelf in appel op grond van art. 1019h Rv een vergoeding van € 435.70517 heeft gevorderd en daarbij geen onderscheid gemaakt heeft tussen het conventionele (inbreuk)deel en het reconventionele (nietigheids)deel) de toepasselijkheid van art. 1019h Rv. niet bestreden en tegen de hoogte van de gevorderde kosten slechts bezwaar gemaakt voor zover deze een bedrag van € 277.92157 overstegen. Volgens Sandoz kan de stelling dat art. 1019h Rv. op deze procedure niet van toepassing zou zijn niet voor het eerst in cassatie wordt aangevoerd: een dergelijk novum in cassatie is slechts toelaatbaar voor zover de klacht erop neerkomt dat de appelrechter heeft verzuimd ambtshalve de rechtsgronden aan te vullen ex art. 25 Rv. maar daarbij mag de rechter niet buiten de grenzen van de rechtsstrijd van partijen treden. 
+ 
+
+5.17.2. Deze door Sandoz aangevoerde gronden staan m.i. ambtshalve aanvulling van rechtsgronden door de Hoge Raad (met inachtneming van het na de instructie in hoger beroep gewezen Bericap/Plastinnova-arrest van het HvJEU) niet in de weg. Dat een opstelling in de feitelijke instanties een rechtsgrond over het hoofd ziet c.q. niet anticipeert op een (mogelijke) nieuwe rechtsontwikkeling doet de ambtshalve aanvulling van rechtsgronden nog niet buiten de grenzen van de rechtsstrijd van partijen treden. 
+ 
+
+5.18.1. Een aansluitend preliminair verweer van Sandoz is dat nu beide partijen in appel een volledige proceskostenveroordeling van de wederpartij ex art. 1019h Rv. gevorderd hebben zij het er ‘derhalve’ over eens waren in deze zaak art. 1019h Rv. toepassing te laten vinden. Nu regels van proceskostenveroordeling niet van openbare orde zijn en nu partijen daar bij overeenkomst (al dan niet stilzwijgend) van kunnen afwijken stond het het hof niet vrij om in afwijking van deze partijafspraak art. 1019h Rv. niet toe te passen. De omstandigheid dat na pleidooi in appel het Bericap arrest is gewezen door het Hof van Justitie doet aan de partijafspraak niet af. 
+ 
+
+5.18.2. Dit preliminaire verweer van Sandoz houdt (op zijn beurt) de feitelijke stelling in dat tussen partijen overeenstemming bestond over volledige proceskostenveroordeling van de wederpartij ex art. 1019h Rv. onafhankelijk van rechtsontwikkelingen die in een andere richting zouden (kunnen) wijzen. Deze stelling lijkt mij in cassatie een minstens zo ontoelaatbaar feitelijk novum van de kant van Sandoz als een door Sandoz beweerd novum van de kant van Leo Pharma (waarbij Leo Pharma in cassatie een volgens Sandoz aanwezige impliciete partijenafspraak zou ontkennen). 
+ 
+
+5.19. Ten gronde kan ik zoals gezegd nu kort zijn over Leo Pharma’s rechtsklacht in onderdeel 3.1. De klacht faalt omdat zij uitgaat van een onjuiste rechtsopvatting. 
+  Indien tegen een inbreukvordering (mede) verweer wordt gevoerd met een beroep op nietigheid van het gepretendeerde IE-recht al dan niet in reconventie en indien dat verweer (eventueel met naar voren gehaalde behandeling van de reconventionele vordering en – bij gegrondbevinding daarvan – bij gebrek aan belang achterwege laten van de conventionele inbreukvordering) gaat het (nog steeds) om een procedure over ‘inbreuk op intellectuele-eigendomsrechten’ in de zin van art. 2 van Richtlijn 2004/48/EG en is de partij die zich – naar bleek – ten onrechte op het IE-recht beriep (nog steeds) ‘de verliezende partij’ in de zin van art. 14 van die richtlijn resp. ‘de in het ongelijk gestelde partij’ als bedoeld in art. 1019h Rv. 
+  Het hof heeft het vorenstaande op zijn manier mooi verwoord in rov. 29 (waartegen geen klacht is gericht): ‘Uitgaande van de ongeldigheid van het octrooi is van inbreuk daarop door Sandoz geen sprake. De vorderingen van Leo Pharma dienen dus alsnog te worden afgewezen.’ 
+ 
+
+5.20. De in onderdeel 3.2 neergelegde subsidiaire motiveringsklacht is een verkapte herhaalde rechtsklacht. Zij bestrijdt een juist rechtsoordeel waartoe een motiveringklacht niet kan dienen. Ook onderdeel 3.2 faalt dus. 
+ 
+6. Voorwaardelijk incidenteel cassatieberoep 
+
+6.1. Sandoz heeft voorwaardelijk incidenteel cassatieberoep ingesteld met als voorwaarde dat één of meer van de klachten van het principaal cassatieberoep van Leo Pharma gegrond zou worden bevonden en vernietiging van het aangevallen arrest mocht volgen. 
+ 
+
+6.2. Uit de bespreking van het principale cassatiemiddel blijkt dat naar mijn mening aan deze voorwaarde niet voldaan zal zijn. Ik zie daarom af van bespreking van het voorwaardelijke incidentele middel. 
+ 
+7. Conclusie
+
+Mijn conclusie strekt ertoe: 
+
+primair: dat de Hoge Raad het principale beroep verwerpt; 
+
+subsidiair: dat de Hoge Raad alvorens te beslissen over middelonderdeel 3 van het principale beroep en over de proceskostenveroordeling in cassatie de zaak aanhoudt en dit een en ander nader beziet overeenkomstig punt 5.14.2 van deze conclusie. 
+ 
+
+							De procureur-generaal bij de
+							Hoge Raad der Nederlanden
+ 
+
+							A-G i.b.d. 
+
+1
+ Ontleend aan rov. 2.1 t/m rov. 3 van het arrest van het hof (ECLI:NL:GHDHA:2013:BZ6268) waarbij het hof blijkens rov. 2 geput heeft uit de – in appel ten deze onbestreden – rov. 2.1 t/m 2.16 van het vonnis van de rechtbank ’s-Gravenhage van 11 februari 2009. Rov. 2.5 van het hof wordt in onderdeel 1.3.5 van het principale cassatiemiddel bestreden doch m.i. vruchteloos. 
+2
+ Nr. C06/093 ECLI:NL:HR:2008:BB5066 NJ 2008 450.  
+3
+ Nr. 11/04821 ECLI:NL:HR:2013:690 NJ 2013 462. 
+4
+ [Origineel voetnootnummer: 19.] Zie onder meer: Intellectuele eigendom (IEC) losbl. aant. 9 11 en 12 op art. 6 Row 1995 (F.W.E. Eijsvogels); D. Visser The annotated European Patent Convention 2006 aant. op art. 56 EOV. 
+5
+ [20.] Guidelines van het European Patent Office deel C Chapter IV par. 9 (Inventive Step) onder 9.8. In de bijlage bij dit hoofdstuk is een aantal verhelderende praktijkvoorbeelden te vinden (te raadplegen via www.epo.org). 
+6
+ [21.] Hof ’s-Gravenhage 4 juli 1996 BIE 1997 nr. 82. 
+7
+ [17.] Zie in dit verband bijvoorbeeld de passage uit de Case Law of the Boards of Appeal (van het EOB nt. A-G) 2010 p. 164 die het hof in rov. 15.5 heeft geciteerd.
+8
+ [18.] Een van de gegevens die daarbij een rol speelt kan zijn dat de bekende stand van de techniek er blijk van geeft dat er tegen het inslaan van een bepaalde weg een “vooroordeel” bestond (de aanhalingstekens zijn ingegeven door het feit dat er niet zelden sprake is van een weerstand die op zinnige informatie berust en daarmee niet van een “vooroordeel” in de ook wel gangbare betekenis van: zonder deugdelijke grond bestaande negatieve opvatting). Zo’n vooroordeel kan ook betekenen dat aan vindplaatsen die in een bepaalde richting wijzen weinig aandacht wordt besteed of dat die over het hoofd worden gezien. Ik maak van dit gegeven apart melding omdat de beoordeling van het hof voor een deel berust op de vaststelling dat ten aanzien van de door Ajinomoto c.s. gevolgde weg een dergelijk vooroordeel bestond. 
+9
+ [19.] Zie ook HR 15 februari 2008 NJ 2008 450 rov. 3.4.4 en alinea’s 2.22 - 2.29 van de conclusie van A-G Langemeijer voor dit arrest; Guidelines for Examination in the European Patent Office 2012 Deel G Hfdst. VII par. 8 (deze bron is het eenvoudigst te raadplegen via de “website” van het EPO); Benkard Europäisches Patent Übereinkommen 2012 Art. 56 rndnrs. 27 - 28; Terrel on the Law of Patents 2011 nrs. 12 - 69 t/m 12 - 71; Gielen c.s. Kort begrip van het intellectuele eigendomsrecht 2011 nr. 25; Schulte Patentgesetz mit EPÜ 2008 Art. 56 EPÜ nrs. 26 - 27; Singer - Stauder Europäisches Patentübereinkommen 2007 Art. 56 nrs. 47 en 55 e.v. 
+10
+ [20.] Opnieuw: HR 15 februari 2008 NJ 2008 450 rov. 3.4.4. 
+11
+ [21.] In de rechtspraak van het EOB wordt er met grote regelmaat op gehamerd dat niet beslissend is of een deskundige aan de hand van de stand van de techniek tot de uitvinding kán komen – het feit dat de uitvinder dat gedaan heeft maakt al duidelijk dat die mogelijkheid inderdaad bestaat –; maar of de deskundige met een vrij aanmerkelijke mate van waarschijnlijkheid de stap naar de uitvinding zál zetten; zie bijvoorbeeld de Guidelines for Examination in the European Patent Office 2012 Deel G Hfdst. VII par. 5.3; Benkard Europäisches Patent Übereinkommen 2012 Art. 56 rndnrs. 72-75; Terrel on the Law of Patents 2011 nrs. 12 - 64 t/m 12 - 66; Den Hartog BIE 2011 p. 228-229; Schulte Patentgesetz mit EPÜ 2008 Art. 56 EPÜ nr. 61; Hacon - Pagenberg (eds.) Concise European Patent Law 2008 art. 56 EPC §§ 12 13 en 19; Singer - Stauder Europäisches Patentübereinkommen 2007 Art. 56 nrs. 52 - 54; Muir c.s. European Patent Law 2002 §§ 14.29-14.31; Van Nieuwenhoven Helbach - Huydecoper - Van Nispen Industriële Eigendom deel 1 Bescherming van technische innovatie 2002 nrs. III.3.4.5 - III 3.4.8; zie ook opnieuw HR 15 februari 2008 NJ 2008 450 rov. 3.4.4; Hof Den Haag 24 januari 2012 IEPT 20120124 rov. 10.1; Rb. Den Haag 6 juli 2011 IEPT 20110706 rov. 6.13; Rb. Den Haag 26 januari 2011 IER 2011 31 m.nt. FE rov. 4.9. 
+12
+ [23.] Editie 2012 Deel G Hfdst. VII par. 5 e.v. 
+13
+ [24.] Singer - Stauder Europäisches Patentübereinkommen 2007 Art. 56 subparagraaf 10; Van Nieuwenhoven Helbach - Huydecoper - Van Nispen Industriële Eigendom deel 1 Bescherming van technische innovatie 2002 nr. III.3.4.8. 
+14
+ [Origineel voetnootnummer: 22.] Zie noot 19 en noot 20 [= hierboven voetnoot 9 resp. 10 A-G Verkade]. 
+15
+ [23.] Zie art. 80 Rijksoctrooiwet 1995. 
+16
+ [Origineel voetnootnummer: 22.] Beoordeling van inventiviteit betreft (overwegend) feitelijke waardering zie opnieuw HR 15 februari 2008 NJ 2008 450 rov. 3.4.4; HR 23 juni 1995 NJ 1996 463 m.nt. DWFV rov. 3.3.3. 
+17
+ HR 22 februari 2013 nr. 11/02739 ECLI:NL:HR: BY1529 NJ 2013 501 m.nt. PBH onder 503 (Stokke c.s./H3 Products c.s.) rov. 3.4 onder (f). 
+18
+ Zie: pleitnotities (in eerste aanleg) van mrs. Brinkhof Burgers en Soullié namens Sandoz (in het A-dossier stuk 8 in het B-dossier stuk 11) par. 46. 
+19
+ Vgl. in de in par. 4.A.1 geciteerde conclusie van A-G Langemeijer nr. 2.24 en in de in par. 4.A.1 geciteerde conclusie van A-G Huydecoper de nrs. 27-29. 
+20
+ IER 2013 nr. 34 p. 293 m.nt. F.W.E. Eijsvogels. 
+21
+ Ik noem (toch) nog wél de bijdragen van J.L.R.A. Huydecoper Nous maintiendrons AMI 2004 p. 121-123; M. Driessen De willekeur van de proceskostenveroordeling BIE 2007 p. 343-348. Zie ook nr. 5.3.6 hierna. 
+22
+ Ch. Vrendenbarg De ‘volledige’ proceskostenveroordeling in IE-zaken; een kritische bespreking van de implementatie en interpretatie van artikel 14 Handhavingsrichtlijn in Nederland BIE 2013 p. 160-169. 
+23
+ Van Nispen 2013 (T&C IE) art. 1019 Rv. aant. 1 (dit is een recentere versie dan Van Nispen 2012 (T&C Rv.) art. 1019 Rv. aant. 1. 
+24
+ Vgl. MvA I Kamerstukken I 2006-2007 30392C. 
+25
+ BenGH 11 februari 2008 (A-2006/4) IER 2008 nr. 21 p 84. m.nt. ChG NJ 2008 535 m.nt. idem (Ondeo Nalco/Michel); zie dicta 26 en 27. 
+26
+ Behoudens de ‘dubbele redelijkheidstoetsing’ ten aanzien van de hoogte van de declaratie mede aan de hand van de door ‘De rechtspraak’ ontwikkelde ‘Indicatietarieven in IE-zaken’ te vinden op www.rechtspraak.nl. De laatste mij bekende versie is van 11 oktober 2010. 
+27
+ Vgl. de publicaties van Driessen en Vrendenbarg en door hen genoemde verdere bronnen. 
+28
+ In enige andere opzichten vertoont de richtlijn volgens Huydecoper a.w. AMI 2004 p. 121 (123) qua ‘equality of arms’ zwakke punten. 
+29
+ Vgl. de procedure (over de vraag: bestaat auteursrecht op NEN-normen waarnaar de wet verwijst?) die leidde tot HR 22 juni 2012 ECLI:NL:HR:2012:BW0393 NJ 2012 397 AA 2013 p. 758 m.nt. R.J.B. Schutgens BIE 2012 nr. 65 p. 266 m.nt. C.J.S. Vrendenbarg (Knooble/Staat en NNI). 
+30
+ Vgl. HR 2 maart 1990 NJ 1991 148 m.nt. DWFV (Droste/Baronie) rov. 3.4 (daar: in de context van een conventioneel verweer gelegen in nietigheid van het depot wegens kwade trouw). 
+31
+Verordening (EG) nr. 207/2009 van de Raad van 26 februari 2009 inzake het Gemeenschapsmerk (gecodificeerde versie) Pb. EG L78/1. 
+32
+ Vgl. art. 56 van het Statuut van het Hof van Justitie van de Europese Unie. 
+33
+ Zie ook: Cohen Jehoram/Huydecoper/Van Nispen Industriële eigendom 2 Merkenrecht (2008) nr. 15.3 e.v. p. 576-582; resp. nrs. 14.5.3 - 14.6.1 pp. 565-569. 
+34
+Verordening (EG) nr. 6/2002 van de Raad van 12 december 2001 betreffende Gemeenschapsmodellen Pb. EG 2002 L 3/1. 
+35
+ Zoals de GMVo exclusief bevoegde ‘rechtbanken voor het gemeenschapsmerk’ heeft geïntroduceerd heeft GModVo tot de instelling van ‘rechtbanken voor het gemeenschapsmodel’ geleid: in Nederland is ook hier de rechtbank ’s-Gravenhage de enige. Vgl. nader art. 80-92 GModVo. Ook hier is er het alternatief van een nietigheidsactie bij het OHIM: zie art. 52-61 GModVo. Ik ga hier niet in op het regime voor de niet ingeschreven modellen: vgl. daarvoor bijv. art. 85 lid 2 GModVo. 
+36
+ In het Nederlandse octrooirecht bestond die situatie tot 1987: voordien was alleen de nietigheidsprocedure bij de Haagse gerechten geconcentreerd en kon de inbreukprocedure bij alle (toen: 19) rechtbanken worden gevoerd. In 1987 werd ook voor inbreukacties ’s-Gravenhage exclusief aangewezen. 
+37
+ Misschien wel: altijd. Het is in het bestek van deze conclusie niet mogelijk en niet nodig om dat voor alle betrokken IE-rechten in alle EU-lidstaten te controleren. 
+38
+ Als ik hierna (kortheidshalve) spreek over ‘nietigheidsprocedures’ heb ik daarmee ook het oog op vorderingen tot een verklaring voor recht omtrent niet-inbreuk (ook wel aangeduid als ‘negatieve verklaring voor recht’) tenzij het tegendeel blijkt. 
+39
+ Zo begon als ik goed zie ook de procedure van Knooble tegen de Staat en NNI: vgl. punt 5.7 van de conclusie van A-G Langemeijer in die zaak. 
+40
+ Ik ga voorbij aan eventuele aspecten van ‘forum shopping’. 
+41
+ Vgl. nr. 5.7.2. 
+42
+ Zoals in het huidige systeem van het EOV: vgl. art. 99. 
+43
+ Vgl. art. 2.14 - 2.17 BVIE. 
+44
+ Vgl. art. 40-42 GMVo. 
+45
+ Vgl. art. 52-54 GModVo. 
+46
+ Ik ga niet afzonderlijk in op varianten met beslagen en daaruit voortspruitende gedingen. Ook aan executiegeschillen ga ik voorbij. 
+47
+ ECLI:NL:HR:2012:BW0393 NJ 2012 397 AA 2013 p. 758 m.nt. R.J.B. Schutgens BIE 2012 nr. 65 p. 266 m.nt. Ch. Vrendenbarg. 
+48
+ Vgl. in deze zin ook de BIE-noot van Vrendenbarg. 
+49
+ Bij het HvJEU zaak C-436/12; conclusie d.d. 9 januari 2014 punten 85-91. 
+50
+ In deze zin ook: Hof ’s-Gravenhage 26 februari 2013 (Danisco/Novozymes) ECLI:NL:GHDHA:2013:BZ1902 IER 2013 nr. 35 p. 302 m.nt. (onder nr. 34) F.W.E. Eijsvogels. 
+51
+ Vgl. nr. 5.12.3. 
+52
+ In het recente arrest HR 7 maart 2014 nr. 12/03239 ECLI:NL:HR:2014:523 (Staat/Norma c.s.) heeft de Hoge Raad een kostenveroordeling op de voet van art. 1019h Rv. aangehouden in afwachting van het arrest van het HvJEU in de zaak ACI c.s./Thuiskopie. 

@@ -1,0 +1,411 @@
+
+
+Rechtbank Rotterdam
+
+Team straf 2
+ 
+
+Parketnummer: 10/960265-17
+Datum uitspraak: 16 december 2020
+Tegenspraak
+ 
+
+Vonnis van de rechtbank Rotterdam meervoudige kamer voor strafzaken in de zaak tegen de verdachte:
+ 
+
+
+
+          [naam verdachte] 
+
+geboren te [geboorteplaats verdachte] op [geboortedatum verdachte]  
+ingeschreven in de basisregistratie personen op het adres: 
+
+        [adres verdachte]  [postcode verdachte] [woonplaats verdachte]  
+raadsman mr. E.H. Bokhorst advocaat te Veenendaal.
+ 
+
+
+
+1.  Onderzoek op de terechtzitting
+Gelet is op het onderzoek op de terechtzittingen van 16 november 2017 12 april 2018 30 augustus 2018 28 en 29 oktober 2020 2 en 13 november 2020 en 16 december 2020.
+
+
+
+2.  Tenlastelegging
+Aan de verdachte is ten laste gelegd hetgeen is vermeld in de dagvaarding zoals deze op de terechtzitting van 28 oktober 2020 overeenkomstig de vordering van de officier van justitie is gewijzigd. De tekst van de gewijzigde tenlastelegging is als bijlage I aan dit vonnis gehecht. 
+
+
+
+3.  Eis officieren van justitie
+De officieren van justitie mrs. E. van Doorn en Z. Trokic hierna te noemen de officier van justitie hebben gevorderd:
+
+-
+bewezenverklaring van het onder 1 2 3 4 (met partiële vrijspraak van stanozol) en 5 ten laste gelegde;
+
+-
+veroordeling van de verdachte tot een gevangenisstraf voor de duur van 4 jaar met aftrek van voorarrest alsmede tot een geldboete van € 5.000-.
+
+
+
+
+
+4.  Waardering van het bewijs
+
+4.1.
+
+Bewijswaardering
+
+
+4.1.1.
+
+
+Standpunt verdediging
+
+Aangevoerd is dat de verdachte dient te worden vrijgesproken van alle aan hem ten laste gelegde feiten wegens het ontbreken van wettig en overtuigend bewijs. Met betrekking tot de HP laptop die in de auto van de verdachte is aangetroffen kan niet worden vastgesteld dat de verdachte daarvan gebruik heeft gemaakt. Voor zover van de HP laptop gebruik is gemaakt voor de drugshandel is dat blijkens het dossier gebeurd door middel van het dark web waarvoor een wachtwoord is vereist voor de private key. Dat wachtwoord is bij de verdachte niet aangetroffen noch is komen vast te staan dat hij daar over kon beschikken. Ten aanzien van de aangetroffen verdovende middelen in de auto van de verdachte de woning aan de [adres 1] en de schuur van zijn oma aan de [adres 2] geldt dat de verdachte van de aanwezigheid daarvan geen wetenschap heeft gehad. Van een samenwerkingsverband rondom vendor [naam vendor 1] is uit het dossier niets gebleken. 
+
+
+
+4.1.2.
+
+Beoordeling
+ 
+
+
+Feit 1 tot en met 4
+
+Anders dan de verdediging is de rechtbank van oordeel dat de verdachte betrokken was bij de vendor [naam vendor 1] en zij overweegt daartoe het volgende.
+ 
+
+Uit het dossier is gebleken dat [naam vendor 1] een vendor (aanbieder) is op de dark markets ‘Dream Market’ en ‘Valhalla’. [naam vendor 1] biedt diverse middelen aan die vermeld staan op lijst I van de Opiumwet waaronder ketamine cocaïne XTC-pillen en MDMA. De vendor [naam vendor 1] heeft zich op Dream Market aangemeld op 1 december 2016. De laatste keer dat [naam vendor 1] actief was op Dream Market was op 28 augustus 2017. De verdachte en [naam broer verdachte] zijn aangehouden op 29 augustus 2017.
+ 
+
+Uit het dossier blijkt het navolgende. De PGP sleutel aangetroffen op de profielen van [naam vendor 1] op Dream Market en Valhalla was gelijk aan de PGP public en private key zoals aangetroffen op de HP laptop die tijdens de doorzoeking is aangetroffen in de auto van de verdachte. Deze vormden samen een sleutelpaar met de naam [naam] . Het wachtwoord van de PGP private key bleek [wachtwoord 1] en werd onder meer aangetroffen op de telefoon van [naam broer verdachte] . Dit wachtwoord was ook het wachtwoord van het account van de vendor [naam vendor 1] op Dream Market. Uit het dossier blijkt voorts dat PGP kan worden gebruikt om berichten te versleutelen en te ontsleutelen. Een PGP key bestaat uit een PGP public key en een PGP private key. Een bericht kan versleuteld worden door de PGP public key. Het bericht kan vervolgens alleen ontsleuteld worden door gebruikt te maken van de PGP private key. De PGP private key wordt niet gedeeld of bekend gemaakt. 
+ 
+
+Door de Finse douane zijn diverse pakketten onderschept die door [naam vendor 1] waren verzonden. Uit onderzoek naar deze pakketten is gebleken dat de verschillende afzenders van de postpakketten die via DHL waren verstuurd met meerdere accounts waren aangemeld bij DHL namelijk [naam account 1]  [naam account 2] en [naam account 3] . Op 18 augustus 2017 heeft de Finse douane een postpakket onderschept met daarin 105 gram cocaïne verpakt in drie uitgeholde kaarsen. Als verzender van dit pakket werd op het label vermeld: [naam persoon 1]  wonende aan het [adres persoon 1] te Eindhoven. [naam broer verdachte] heeft verklaard dat hij dit pakket op 11 augustus 2017 heeft ingeleverd bij een Texaco Station te Schijndel.
+ 
+
+Uit de gegevens van DHL blijkt dat met het account [naam account 3] in totaal 27 pakketten zijn aangemeld waarvan er 23 daadwerkelijk zijn ingeleverd en verstuurd. Bij de doorzoeking in de woning van de verdachte en [naam broer verdachte]  en de auto van de verdachte op 29 augustus 2017 zijn twee van de bij DHL aangemelde maar nog niet ingeleverde pakketten aangetroffen. Het ene pakket werd aangetroffen in de auto en bleek drie roze uitgeholde kaarsen met 250 XTC pillen te bevatten. Het andere pakket werd aangetroffen in de berging van de woning en bevatte drie bruine uitgeholde kaarsen met 250 XTC pillen. In de auto van de verdachte zijn ook nog MDMA pillen en cocaïne aangetroffen. Verder is in de woning van de verdachte en zijn broer op tafel een uitgeholde kaars aangetroffen. Naast deze kaars lagen boren in een gereedschapskoffer waarop nog kaarsvet zat. In een prullenbak naast deze tafel is een groot aantal witte stukken kaarsvet aangetroffen. 
+ 
+
+In de slaapkamer van [naam broer verdachte] zijn in de binnenzak van een colbert diverse administratieve bescheiden aangetroffen waaronder drie verzendbewijzen van PostNL voor ingeleverde postpakketten verzonden naar Nederland Duitsland en de Verenigde Staten van Amerika als ook een factuur van de firma Vermeij Packaging. De factuur is gedateerd op 7 maart 2017 voor de aanschaf van verpakkingsmaterialen waaronder 100 postdozen 3000 zipbags en drie rollen luchtkussenfolie. De factuur was gericht aan ‘ [voornaam broer verdachte] ’ met het telefoonnummer [gsm-nummer] . Dit telefoonnummer staat op naam van [naam broer verdachte] .
+ 
+
+In de HP laptop die is aangetroffen in de auto van de verdachte zijn verschillende PDF bestanden aangetroffen met labels voor DHL pakketten. Op de labels stonden verschillende afzenders vermeld waaronder:
+
+- [naam persoon 2]  wonende aan de [adres persoon 2] te Eindhoven
+- [naam persoon 3]  wonende aan de [adres persoon 3] te Eindhoven
+- [naam persoon 1]  wonende aan het [adres persoon 1] te Eindhoven
+
+Tevens is op deze laptop een bericht aangetroffen waarin staat beschreven hoe onder valse namen en e-mailadressen pakketten verstuurd kunnen worden.
+In totaal zijn door deze drie afzenders 84 pakketten verzonden waarvan 13 naar Finland. In Finland zijn zes van deze pakketten onderschept. Deze pakketten bevatten diverse hoeveelheden cocaïne en MDMA.
+ 
+
+Verder zijn op de HP laptop meerdere spreadsheets en tekstbestanden aangetroffen met betrekking tot de verkopen van [naam vendor 1] . Daarnaast is nog het programma SaferVPN aangetroffen op de laptop welke automatisch opstart wanneer de laptop aangaat. Het account dat gekoppeld is aan dit programma betreft [naam account 4] .
+ 
+
+Door de verdachte is verklaard dat hij geen gebruiker is geweest van de genoemde HP laptop. De rechtbank verwerpt dit verweer en overweegt daartoe dat op de HP laptop meerdere aanwijzingen zijn aangetroffen die op gebruik van de laptop door de verdachte duiden. Zo is er op de laptop een back-up aangetroffen van een iPhone met de daaraan gekoppelde Apple ID [Apple ID] . Dit e-mailadres is ook tweemaal gebruikt in de internetbrowser bij het invullen van velden in de internetbrowser. Verder is het e-mailadres [naam account 5]  welke gebruikt werd op de Macbook van de verdachte gebruikt in de internetbrowser van de HP laptop. Daar komt nog bij dat de HP laptop in de auto van de verdachte is aangetroffen. Ook ten aanzien van [naam broer verdachte] zijn meerdere aanwijzingen aangetroffen die op gebruik van de laptop door hem duiden. 
+Zo is er een inschrijfformulier voor een huurwoning aangetroffen waarin [naam broer verdachte] als eerste huurder is genoemd en de verdachte als tweede huurder. Tevens zijn er een foto van het paspoort en van de bankpas van [naam broer verdachte] op deze laptop aangetroffen. Daarnaast zijn er inloggegevens aangetroffen van de website van bol.com. Hieraan was de gebruikersnaam [naam account 6] gekoppeld welk e-mailadres volgens zijn eigen verklaring in gebruik was bij [naam broer verdachte] . 
+ 
+
+Voor dit alles is door de verdachte en [naam broer verdachte] geen logische verklaring gegeven. De rechtbank gaat er dan ook van uit dat de verdachte en [naam broer verdachte] gebruikers waren van de HP laptop die in de auto van de verdachte is aangetroffen.
+ 
+
+Na de aanhouding van de verdachte en [naam broer verdachte] zijn in de schuur van hun oma aan de [adres delict] onder meer een grote hoeveelheid XTC pillen MDMA en cocaïne aangetroffen. Ook is in de schuur de stof sildefanil aangetroffen waarvan het bezit zonder daarvoor over de daartoe vereiste registratie te beschikken strafbaar is gesteld in de Geneesmiddelenwet. Daarnaast lag er verpakkingsmateriaal en twee boodschappentassen met kaarsen in de schuur. Verder is een schrift aangetroffen met daarin vermeld diverse wachtwoorden waaronder [wachtwoord 2] [wachtwoord 1] e-mailadressen waaronder [naam account 4] en notities betreffende verdovende middelen waaronder MDMA ketamine en cocaïne. Ook zijn er notities aangetroffen over hoeveelheden en verzendkosten binnen en buiten Europa alsmede verzendbewijzen van PostNL en aankoopfacturen. Verder is er een doos met nieuwe vacuümzakken aangetroffen. De adressering van deze doos was gericht aan de verdachte. In de doos was ook nog een factuur aanwezig eveneens gericht aan de verdachte. Op één van de aankoopfacturen voor verpakkingsmateriaal staat verder de naam [voornaam broer verdachte]  het telefoonnummer [gsm-nummer] en het e-mailadres [naam account 6]  het e-mailadres van [naam broer verdachte] .
+ 
+
+De verklaring van de verdachte dat hij geen wetenschap heeft gehad van de aanwezigheid van de verdovende middelen in zijn woning zijn auto en in de schuur van zijn oma acht de rechtbank ongeloofwaardig. Uit het dossier is niet gebleken dat iemand anders dan de verdachte of [naam broer verdachte] gebruik maakte van hun woning zijn auto en de schuur van hun oma. Ook nadat hem daarover op zitting gericht vragen zijn gesteld heeft de verdachte niet concreet over de toegang door een ander(en) verklaard. Verder bestaat er zoveel samenhang in wat is aangetroffen in de woning de auto van de verdachte op de daarin aangetroffen laptop en in de schuur van hun beider oma dat het niet anders kan zijn dan dat de verdachte samen met zijn broer [naam broer verdachte] onder de naam [naam vendor 1] handelde in verdovende middelen op het dark web. 
+ 
+
+Hieruit volgt dat de rechtbank ook wettig en overtuigend bewezen acht dat de verdachte zich schuldig heeft gemaakt aan de uitvoer van hoeveelheden MDMA en cocaïne. De verdachte zal echter worden vrijgesproken van de uitvoer van a-PVP nu uit het dossier niet is gebleken dat dit product door [naam vendor 1] werd aangeboden op het dark web er geen a-PVP is aangetroffen in de woning van de verdachte of de schuur van zijn oma en er ook geen pakketjes met a-PVP zijn onderschept die terug te leiden zijn naar [naam vendor 1] . Voor dit onderdeel volgt dan ook partiële vrijspraak. 
+ 
+
+
+Feit 5 
+
+Aan de verdachte is onder 5 ten laste gelegd de deelneming aan een criminele organisatie die tot oogmerk heeft het plegen van bepaalde misdrijven van de Opiumwet.
+ 
+
+Een criminele organisatie in de zin van artikel 11b van de Opiumwet vereist een gestructureerd en duurzaam samenwerkingsverband van twee of meer personen met een bepaalde organisatiegraad. Niet vereist is dat de verdachte heeft samengewerkt of bekend was met alle andere personen die deel uitmaken van de organisatie of dat het samenwerkingsverband steeds hetzelfde is. Van deelneming aan het samenwerkingsverband is sprake indien de verdachte daartoe behoort en een aandeel heeft in gedragingen die strekken tot of rechtstreeks verband houden met de verwezenlijking van het oogmerk van de organisatie. Voldoende is dat de verdachte in zijn algemeenheid weet dat de organisatie tot oogmerk heeft het plegen van de betreffende misdrijven van de Opiumwet. 
+ 
+
+Uit de bewijsmiddelen blijkt dat de eenmanszaak [naam bedrijf] via internet handelde in nieuwe psychoactieve stoffen (nps-en). [naam medeverdachte 1] is de oprichter en eigenaar van [naam bedrijf] . Naast de legale handel in chemicaliën heeft [naam medeverdachte 1] zich als vendor (aanbieder) [naam vendor 2] op verschillende dark markets beziggehouden met het verkopen en verzenden van harddrugs als MDMA cocaïne a-PVP en verschillende op lijst I van de Opiumwet voorkomende nps-en. Pakketten met drugs werden verstuurd naar adressen in binnen- en buitenland. Aanvankelijk werden bestellingen op het woonadres van [naam medeverdachte 1] verwerkt en ingepakt. Later gebeurde dit op de bedrijfslocatie aan de [adres 3] te Boxtel. 
+ 
+
+Vast staat dat een deel van de bedrijfsvoering van [naam vendor 2] bestond uit de illegale handel in harddrugs via het dark web en dat [naam medeverdachte 1] hierbij niet alleen heeft geopereerd. 
+ 
+
+Uit het dossier volgt dat [naam medeverdachte 2] vanaf mei 2017 in de woning in Helmond meerdere pakketten met harddrugs heeft ingepakt en verzonden in opdracht van [naam medeverdachte 1] en [naam bedrijf] . Dat [naam medeverdachte 2] wetenschap had van het illegale karakter van de verzonden stoffen leidt de rechtbank af uit de op het werkadres [naam medeverdachte 3] aangetroffen handgeschreven prijslijst met verboden middelen inloggegevens van Alphabay en Valhalla en een handleiding hoe bestellingen af te handelen op de dark markets. 
+Een samenwerkingsverband met [naam medeverdachte 3] acht de rechtbank daarentegen niet bewezen. Het is niet ondenkbaar dat [naam medeverdachte 3] op de hoogte was van de criminele activiteiten van [naam medeverdachte 2] voor [naam medeverdachte 1] en [naam vendor 2] . Dat de woning van [naam medeverdachte 3] door [naam medeverdachte 2] werd gebruikt als inpakadres en dat op hun huisadres pakketten voor [naam medeverdachte 1] en [naam vendor 2] werden ontvangen is echter te gering om te kunnen spreken van een (eigen) aandeel van [naam medeverdachte 3] in de organisatie. 
+ 
+
+Ook de partner van [naam medeverdachte 1]  [naam medeverdachte 4]  verrichtte werkzaamheden voor [naam vendor 2] . Zij hielp onder meer met het inpakken van de pakketten en het maken van adreslabels. Ook onderhield zij contact met [naam medeverdachte 2] en gaf haar op verzoek van [naam medeverdachte 1] instructies over het inpakken en versturen van pakketten via DHL zodat aan de buitenkant niet te voelen was wat er in de enveloppen zat. Verder hielp [naam medeverdachte 4] [naam medeverdachte 2] met het inloggen op de dark markets als haar dat niet lukte. De rechtbank acht bewezen dat [naam medeverdachte 4] wist van het criminele oogmerk van [naam vendor 2] en wijst daarbij onder meer op de notities van [naam medeverdachte 4] in de aangetroffen agenda over XTC a-PVP en Valhalla.
+ 
+
+
+            [naam medeverdachte 5] was sinds maart 2017 in dienst van [naam bedrijf] . Hij hield zich bezig met het verwerken van orders het inpakken van de bestelde chemicaliën en het verzenden van de pakketten. Hoewel vast is komen te staan dat [naam medeverdachte 5] tijdens zijn werkzaamheden middelen als genoemd op lijst I van de Opiumwet heeft ingepakt en verzonden acht de rechtbank niet bewezen dat hij wetenschap had van het illegale karakter van de stoffen en het criminele oogmerk van de organisatie. Van een crimineel samenwerkingsverband met [naam medeverdachte 5] is om die reden geen sprake.  
+ 
+
+Vastgesteld is dat de verdachte in dit verband ook aan te duiden als [naam verdachte]  en [naam broer verdachte] zich als vendor [naam vendor 1] op de dark markets Valhalla en Dream Market bezig hielden met het verkopen en verzenden van harddrugs als ketamine cocaïne XTC-pillen en MDMA. Pakketten met drugs (verstopt in uitgeholde kaarsen) werden door hen vanuit hun woning verstuurd naar adressen in het buitenland. In de berging van de woning en de schuur van hun grootmoeder zijn aanzienlijke hoeveelheden verdovende middelen aangetroffen. Als zodanig is [naam vendor 1] van de verdachte en [naam broer verdachte] dan ook als crimineel samenwerkingsverband in de zin van artikel 11b van de Opiumwet aan te merken. 
+ 
+
+Het dossier bevat verschillende aanwijzingen dat er een verband bestaat tussen de vendor [naam vendor 2] van [naam medeverdachte 1] aan de ene kant en de vendor [naam vendor 1] van [voornaam broer verdachte] en [naam verdachte] aan de andere kant. Gewezen kan worden op de overeenkomsten aangaande de modus operandi van de beide aanbieders. Ook duiden de aangetroffen e-mailberichten op de HP laptop die is gevonden in de auto van de verdachte op zakelijk contact tussen [naam medeverdachte 1] en de broers [achternaam verdachte en broer verdachte] . In het Excel-overzicht Maandoverzicht 2017 (eveneens aangetroffen op de voornoemde HP laptop) waarin een overzicht wordt gegeven van de verkopen per dark market lijkt een verdeling te zijn gemaakt tussen [naam vendor 2] en [naam vendor 1] . Hoewel deze aanwijzingen een zekere relatie tussen de beide aanbieders veronderstellen en het erop lijkt dat [naam vendor 2] op enig moment de handel in harddrugs (the real drugs) heeft overgedragen aan [naam vendor 1]  is dit naar het oordeel van de rechtbank onvoldoende om van een gestructureerd en duurzaam samenwerkingsverband te spreken. Eerder lijkt er sprake van twee zelfstandig naast elkaar opererende organisaties.    
+ 
+
+
+Conclusie 
+
+Gelet op het voorgaande kan wettig en overtuigend worden bewezen dat de verdachte zich samen met [naam broer verdachte] schuldig heeft gemaakt aan de uitvoer van hoeveelheden MDMA en cocaïne alsmede aan het voorhanden hebben van MDMA XTC pillen en cocaïne. Daarnaast hebben zij samen deelgenomen aan een criminele organisatie die tot oogmerk heeft het plegen van misdrijven van de Opiumwet. Niet kan worden bewezen dat de verdachte zich schuldig heeft gemaakt aan de uitvoer van a-PVP zodat de verdachte daarvan partieel zal worden vrijgesproken.
+
+
+
+
+4.2.
+
+Bewezenverklaring
+ 
+
+In bijlage II heeft de rechtbank de inhoud van wettige bewijsmiddelen opgenomen houdende voor de bewezenverklaring redengevende feiten en omstandigheden. Op grond daarvan en op grond van de redengevende inhoud van het voorgaande is wettig en overtuigend bewezen dat de verdachte het onder 1 t/m 5 ten laste gelegde heeft begaan op die wijze dat:
+ 
+
+1.
+hij op tijdstippen in de periode van 1 december 2016 tot en met 29 augustus 2017 te Schijndel en/of Boxtel  en/of Eindhoven  tezamen en in vereniging met een ander 
+(telkens) opzettelijk buiten het grondgebied van Nederland heeft gebracht en heeft verkocht en heeft afgeleverd en heeft vervoerd en heeft verstrekt(telkens) een hoeveelheid MDMA en/of cocaïne zijnde middelen als bedoeld in de bij de Opiumwet behorende lijst I;
+ 
+
+2.
+hij op 29 augustus 2017 te Boxtel tezamen en in vereniging met een ander opzettelijk aanwezig heeft gehad (in poststukken in een auto) ongeveer
+
+- 6 gram cocaïne en
+- 351 MDMA-pillen en (in postpakket in de bergruimte) ongeveer
+- 250 MDMA-pillen
+zijnde middelen als bedoeld in de bij de Opiumwet behorende lijst I; 
+
+3.
+hij op 14 september 2017 te Boxtel tezamen en in vereniging met een ander opzettelijk aanwezig heeft gehad (in een schuur/ garagebox aan de [adres delict] ) ongeveer
+
+- 63.000 MDMA-pillen en
+- 700 gram MDMA-kristallen en
+- 230 gram cocaïne
+ zijnde middelen als bedoeld in de bij de Opiumwet behorende lijst I; 
+4. 
+hij in de periode van 1 december 2016 tot en met 14 september 2017 te Boxtel tezamen en in vereniging met een ander opzettelijk een UR-geneesmiddel te koop heeft aangeboden te weten sildefanil ; 
+5. 
+hij in de periode van 1 december 2016 tot en met 29 augustus 2017 te Boxtel heeft deelgenomen aan een organisatie bestaande uit een samenwerkingsverband van natuurlijke personen te weten met  [naam broer verdachte] welke organisatie tot oogmerk had het plegen van een of meer misdrijven als bedoeld in artikel 10 derde vierde vijfde lid Opiumwet namelijk
+- het opzettelijk buiten het grondgebied van Nederland brengen en/of verkopen en/of afleveren en/of verstrekken en/of vervoeren en/of aanwezig hebben van mdma en/of cocaïne  
+
+Hetgeen meer of anders is ten laste gelegd is niet bewezen. De verdachte moet daarvan worden vrijgesproken.
+
+
+
+
+
+5.  Strafbaarheid feiten
+De bewezen feiten leveren op: 
+1. medeplegen van opzettelijk handelen in strijd met het in artikel 2 onder A en B van de Opiumwet gegeven verbod meermalen gepleegd
+2. medeplegen van opzettelijk handelen in strijd met het in artikel 2 onder C van de Opiumwet gegeven verbod meermalen gepleegd
+3. medeplegen van opzettelijk handelen in strijd met het in artikel 2 onder C van de Opiumwet gegeven verbod meermalen gepleegd
+4. overtreding van een voorschrift gesteld bij artikel 61 van de Geneesmiddelenwet
+5. het deelnemen aan een organisatie die tot oogmerk heeft het plegen van een misdrijf als bedoeld in artikel 10 derde vierde vijfde lid van de Opiumwet
+
+Er zijn geen feiten of omstandigheden aannemelijk geworden die de strafbaarheid van de feiten uitsluiten.
+ 
+
+De feiten zijn dus strafbaar.
+
+
+
+
+6.  Strafbaarheid verdachte
+Er is geen omstandigheid aannemelijk geworden die de strafbaarheid van de verdachte uitsluit. 
+
+De verdachte is dus strafbaar.
+
+
+
+
+7.  Motivering straffen en maatregel
+De straffen die aan de verdachte worden opgelegd zijn gegrond op de ernst van de feiten de omstandigheden waaronder de feiten zijn begaan en de persoon en de persoonlijke omstandigheden van de verdachte. Daarbij wordt in het bijzonder het volgende in aanmerking genomen. 
+
+De verdachte heeft zich gedurende een periode van ongeveer negen maanden schuldig gemaakt aan de handel in verdovende middelen in georganiseerd verband. De verdachte bood samen met zijn mededader verdovende middelen als MDMA en cocaïne aan op het dark web. Afnemers konden een bestelling plaatsen op de verschillende dark markets waar de verdachte als vendor actief was waarna de verdovende middelen onder meer verstopt in kaarsen werden ingepakt en verzonden naar het buitenland. Bij het verzenden werden vervolgens fictieve afzendadressen opgegeven. Op die manier konden de verdachte en zijn mededader zich anoniem op internet begeven en anoniem verdovende middelen te koop aanbieden en vervolgens verhandelen. De verdachte heeft op deze wijze geruime tijd een aanzienlijke hoeveelheid afnemers uit uiteenlopende landen op een planmatige wijze met uitgekiend verpakkingsmateriaal en met fictieve retouradressen bediend. Aldus heeft de verdachte samen met zijn mededader die verdovende middelen naar diverse landen uitgevoerd. Bij de verdachte thuis in zijn auto en in de schuur van zijn oma zijn verder grote hoeveelheden verdovende middelen aangetroffen.
+ 
+
+De verdachte heeft met zijn gedragingen zijn eigen gewin boven de veiligheid van de afnemers van de drugs gesteld en die afnemers willens en wetens bloot gesteld aan zeer ernstige gezondheidsrisico’s. De verdachte heeft een geraffineerde organisatie opgezet. Het spreekt voor zich dat een dergelijke organisatie met als doelstelling de handel in verdovende middelen een ernstige en ontoelaatbare ondermijning van de rechtsorde betekenen. Naast voornoemde handel in verdovende middelen heeft de verdachte ten behoeve van die handel een aanzienlijke hoeveelheid verdovende middelen voorhanden gehad die staan vermeld op lijst I van de Opiumwet. Het is algemeen bekend dat verdovende middelen schade toebrengen aan de gezondheid van de gebruikers van deze middelen en gebruikers hun drugsgebruik vaak door diefstal of ander crimineel gedrag bekostigen waardoor schade en overlast wordt toegebracht aan anderen. Van de handel in verdovende middelen is bovendien algemeen bekend dat dit steeds meer gepaard gaat met andere ook zwaardere vormen van criminaliteit.
+ 
+
+Tevens heeft de verdachte illegaal geneesmiddelen voorhanden gehad. De handel in geneesmiddelen is verbonden aan allerlei voorschriften en vergunningen onder andere omdat op het voorschrijven en gebruik van bepaalde geneesmiddelen controle nodig is in het belang van de volksgezondheid. Hij heeft bij al deze activiteiten slechts oog gehad voor geldelijk gewin. De rechtbank rekent de verdachte dit alles aan.
+ 
+
+De rechtbank heeft acht geslagen op een uittreksel uit de justitiële documentatie van 7 oktober 2020 waaruit blijkt dat de verdachte niet eerder is veroordeeld voor soortgelijke strafbare feiten.
+ 
+
+Gezien de ernst van de feiten kan niet anders worden gereageerd dan met het opleggen van een gevangenisstraf. Bij de bepaling van de duur van de gevangenisstraf heeft de rechtbank gelet op straffen die in min of meer vergelijkbare zaken zijn opgelegd. Verder houdt de rechtbank rekening met de betrekkelijk beperkte periode waarbinnen de strafbare feiten hebben plaatsgevonden. In de persoonlijke omstandigheden van de verdachte ziet de rechtbank aanleiding om aan hem een kortere onvoorwaardelijke gevangenisstraf op te leggen dan aan zijn broer. Dit maakt wel dat de taakstraf die aan de verdachte zal worden opgelegd hoger is dan die van zijn broer.  
+ 
+
+De rechtbank is verder van oordeel dat gezien het totale tijdsverloop in deze zaak het recht van de verdachte op behandeling van zijn strafzaak binnen een redelijke termijn is geschonden. De rechtbank zal hiermee in strafverminderende zin rekening houden.  
+ 
+
+Al deze omstandigheden tezamen maakt dat de rechtbank een lagere straf zal opleggen dan door de officieren van justitie is geëist. 
+ 
+
+De rechtbank zal een deel van de voorgenomen straf voorwaardelijk opleggen. Dit voorwaardelijk strafdeel dient er tevens toe de verdachte ervan te weerhouden in de toekomst opnieuw strafbare feiten te plegen. Daarnaast zal de rechtbank een taakstraf voor de duur van 240 uur opleggen. 
+ 
+
+De rechtbank ziet geen aanleiding om een geldboete op te leggen ter omvang van het in conservatoir in beslag genomen geldbedrag omdat het neer zou komen op een verkapte ontneming van wederrechtelijk verkregen voordeel.
+ 
+
+Alles afwegend acht de rechtbank de hierna te noemen straffen waaronder de hieronder besproken verbeurdverklaringen passend en geboden.
+
+
+
+
+8.  In beslag genomen voorwerpen
+
+8.1.
+
+
+Standpunt officier van justitie
+
+De officier van justitie heeft gevorderd de op de als bijlage III aangehechte beslaglijst onder nummers 1 3 en 4 genoemde goederen verbeurd te verklaren en de onder nummers 5 en 6 genoemde goederen te onttrekken aan het verkeer. 
+
+
+
+8.2.
+
+
+Beoordeling
+
+De op de als bijlage III aangehechte beslaglijst onder nummers 1 3 en 4 genoemde goederen zullen verbeurd worden verklaard nu de bewezen feiten met behulp van deze voorwerpen zijn begaan dan wel voorbereid. 
+ 
+
+De onder nummers 5 en 6 genoemde goederen zullen worden onttrokken aan het verkeer. Het ongecontroleerde bezit daarvan is in strijd met de wet. 
+
+
+
+
+
+9.  Toepasselijke wettelijke voorschriften
+Gelet is op de artikelen 47 en 57 van het Wetboek van Strafrecht de artikelen 2 10 en 11b van de Opiumwet en artikel 61 van de Geneesmiddelenwet.
+
+
+
+10.  Bijlagen
+De in dit vonnis genoemde bijlagen maken deel uit van dit vonnis.
+
+
+
+11.  Beslissing
+De rechtbank: 
+
+verklaart bewezen dat de verdachte de onder 1 t/m 5 ten laste gelegde feiten zoals hiervoor omschreven heeft begaan;
+ 
+
+verklaart niet bewezen hetgeen aan de verdachte meer of anders ten laste is gelegd dan hiervoor bewezen is verklaard en spreekt de verdachte daarvan vrij;
+ 
+
+stelt vast dat het bewezen verklaarde oplevert de hiervoor vermelde strafbare feiten;
+ 
+
+verklaart de verdachte strafbaar;
+ 
+
+veroordeelt de verdachte tot een gevangenisstraf voor de duur van 2 (twee) jaar;  
+bepaalt dat van deze gevangenisstraf een gedeelte groot 649 (zeshonderdnegenenveertig) dagen niet ten uitvoer zal worden gelegd tenzij de rechter later anders mocht gelasten;
+ 
+
+verbindt hieraan een proeftijd die wordt gesteld op 2 jaar;  
+ 
+
+tenuitvoerlegging kan worden gelast als de veroordeelde de algemene voorwaarde niet naleeft;
+ 
+
+stelt als algemene voorwaarde:
+
+- de veroordeelde zal zich vóór het einde van de proeftijd niet aan een strafbaar feit schuldig maken; 
+
+beveelt dat de tijd die door de veroordeelde voor de tenuitvoerlegging van deze uitspraak in verzekering en in voorlopige hechtenis is doorgebracht bij de uitvoering van de opgelegde gevangenisstraf in mindering wordt gebracht voor zover deze tijd niet reeds op een andere vrijheidsstraf in mindering is gebracht;
+
+veroordeelt de verdachte tot een taakstraf voor de duur van 240 (tweehonderdveertig) uren waarbij de Reclassering Nederland dient te bepalen uit welke werkzaamheden de taakstraf dient te bestaan;
+ 
+
+beveelt dat voor het geval de veroordeelde de taakstraf niet naar behoren verricht vervangende hechtenis zal worden toegepast voor de duur van 120 dagen;
+ 
+
+beslist ten aanzien van de voorwerpen geplaatst op de als bijlage III aangehechte lijst van inbeslaggenomen en nog niet teruggegeven voorwerpen als volgt:- verklaart verbeurd als bijkomende straf voor de feiten: de onder nummers 1 3 en 4  genoemde goederen; 
+
+- verklaart onttrokken aan het verkeer: de onder nummers 5 en 6 genoemde goederen;  
+
+heft op het bevel tot voorlopige hechtenis van de verdachte die bij eerdere beslissing is geschorst. 
+ 
+
+Dit vonnis is gewezen door:
+mr. J. van der Groen voorzitter
+en mrs. J. de Lange en M.J.M. van Beckhoven rechters
+in tegenwoordigheid van mr. J.S. Beukema griffier
+en uitgesproken op de openbare terechtzitting van deze rechtbank op 16 december 2020.
+ 
+
+Bijlage I 
+ 
+
+
+Tekst gewijzigde tenlastelegging
+
+ 
+
+Aan de verdachte wordt ten laste gelegd dat
+ 
+
+1.
+Hij op een of meerdere tijdstippen in de periode van 1 december 2016 tot en met 29 augustus 2017 te Schijndel en/of Boxtel en/of Helmond en/of Eindhoven en/of Beek en Donk althans in Nederland
+tezamen en in vereniging met een of meer anderen althans alleen
+(telkens) opzettelijk buiten het grondgebied van Nederland heeft gebracht en/of heeft verkocht en/of heeft afgeleverd en/of heeft vervoerd en/of heeft verstrekt
+(telkens) een hoeveelheid MDMA en/of cocaïne en/of
+(in of omstreeks de periode van 30 juni 2017 tot en met 10 juli 2017) een hoeveelheid a-PVP
+althans een (grote) hoeveelheid van een materiaal bevattende respectievelijk 34-methyleendioxymethamfetamine althans mdma en/of a-PVP en/of
+alfa-pyrrolidinevalerofenon en/of cocaïne zijnde (een) middel(en) als bedoeld in de bij de Opiumwet behorende lijst I dan wel aangewezen krachtens het vijfde lid van artikel 3a van die wet
+ 
+
+(art 2 ahf/ond A en B Opiumwet
+art 47 lid 1 ahf/sub 1 Wetboek van Strafrecht
+art 10 lid 5 Opiumwet)
+ 
+
+2.
+Hij op of omstreeks 29 augustus 2017 te Boxtel althans in Nederland tezamen en in vereniging met een of meer anderen althans alleen opzettelijk aanwezig heeft gehad
+(in poststukken in een auto) ongeveer
+
+- 6 gram cocaïne en/of
+- 351 MDMA-pillen en/of
+(in postpakket in de bergruimte) ongeveer
+- 250 MDMA-pillen
+althans een hoeveelheid van een materiaal bevattende MDMA en/of cocaïne zijnde (een) middel(en) als bedoeld in de bij de Opiumwet behorende lijst I dan wel aangewezen krachtens het vijfde lid van artikel 3a van die wet; 
+
+(art 2 ahf/ond C Opiumwet
+art 47 lid 1 ahf/sub 1 Wetboek van Strafrecht)
+ 
+
+3.
+Hij op of omstreeks 14 september 2017 te Boxtel althans in Nederland tezamen en in vereniging met een of meer anderen althans alleen opzettelijk aanwezig heeft gehad (in een schuur/ garagebox aan de [adres delict] ) ongeveer
+
+- 63.000 MDMA-pillen en/of
+- 700 gram MDMA-kristallen en/of
+- 230 gram cocaïne
+althans een hoeveelheid van een materiaal bevattende MDMA en/of cocaïne zijnde (een) middel(en) als bedoeld in de bij de Opiumwet behorende lijst I dan wel aangewezen krachtens het vijfde lid van artikel 3a van die wet; 
+
+(art 2 ahf/ond C Opiumwet
+art 47 lid 1 ahf/sub 1 Wetboek van Strafrecht
+art 10 lid 3 Opiumwet)
+ 
+4. 
+Hij in of omstreeks de periode van 1 december 2016 tot en met 14 september 2017 te Boxtel althans in Nederland tezamen en in vereniging met een of meer anderen althans alleen opzettelijk (een) UR-geneesmiddel(en) te koop heeft aangeboden en/of ter hand heeft gesteld te weten sildefanil en/of stanozol 
+
+(art. 61 Geneesmiddelenwet)
+ 
+5. 
+Hij in of omstreeks de periode van 1 december 2016 tot en met 29 augustus 2017 te Boxtel en/of Beek en Donk en/of Helmond althans in Nederland heeft deelgenomen aan een organisatie bestaande uit een samenwerkingsverband van natuurlijke personen te weten [naam medeverdachte 1] en/of [naam medeverdachte 4] en/of [naam medeverdachte 5] en/of [naam medeverdachte 2] en/of [naam medeverdachte 3] en/of [voornaam broer verdachte] en/of de natuurlijke perso(o)n(en) achter de/het vendoraccount(s) van [naam vendor 2] en/of [naam vendor 1] en/of een of meer anderen welke organisatie tot oogmerk had het plegen van een of meer misdrijven als bedoeld in artikel 10 derde vierde vijfde lid Opiumwet namelijk
+- het opzettelijk binnen en/of buiten het grondgebied van Nederland brengen en/of het bereiden bewerken en/of verwerken en/of verkopen en/of afleveren en/of verstrekken en/of vervoeren en/of aanwezig hebben van mdma en/of cocaïne en/of a-PVP en/of acetylpsilocine en/of (een ester van) psilocine en/of O-acetylpsilocine en/of 4Fluoramfetamine en/of methoxetamine althans (een) middel(en) als bedoeld op lijst I van de Opiumwet dan wel aangewezen krachtens artikel 3a vijfde lid van de Opiumwet 
+
+(art. 11b Opiumwet)
+ 
+
