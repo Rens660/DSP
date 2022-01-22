@@ -11,7 +11,7 @@ searchQuery = 'drugs'
 baseUrl = 'https://uitspraken.rechtspraak.nl/api/zoek' 
 uitsprakenBaseUrl = 'https://uitspraken.rechtspraak.nl/inziendocument?id='
 case_count = 100000 ## Amount of cases to retrieve. If you want max, just do an insanely high number, it stops when it fetched all cases. Backend does not accept values like 'max'.
-save_text_location = os.getcwd() + 'data/data3/' # You have to have created this folder first. 
+save_text_location = os.getcwd() + 'data/courtcases_new/' # You have to have created this folder first. 
 ################
 
 cases_df = pd.DataFrame()
