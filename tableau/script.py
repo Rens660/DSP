@@ -99,8 +99,9 @@ class DataManager():
     def save_datafiles(self):
         path = 'processed_data'
         self.drug_word_count_df.to_csv(f"{path}/drug_word_count.csv", sep=';', index=False)
-        self.courtdata.to_csv(f"{path}/courtdata.csv", sep=';', index=False)
         self.sewerdata.to_csv(f"{path}/sewerdata.csv", sep=';', index=False)
+        self.courtdata.drop(columns=['Case Text'], inplace=True)
+        self.courtdata.to_csv(f"{path}/courtdata.csv", sep=';', index=False)
 
 
 
