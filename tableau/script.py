@@ -37,7 +37,7 @@ class DataManager():
                 sewerdata[folder].append(daily_mean)
             sewerdata[folder] = pd.Series(sewerdata[folder])
             sewerdata[folder].index = years_of_interest
-        self.sewerdata = pd.DataFrame.from_dict(sewerdata)
+        self.sewerdata = pd.DataFrame.from_dict(sewerdata).reset_index(drop=False)
 
     def collect_courtdata(self):
         case_count = len(os.listdir(self.datapaths['courtcases']))
@@ -98,16 +98,16 @@ class DataManager():
     
     def save_datafiles(self):
         path = 'processed_data'
-        self.drug_word_count_df.to_csv(f"{path}/drug_word_count.csv", sep=';', index=False)
+        # self.drug_word_count_df.to_csv(f"{path}/drug_word_count.csv", sep=';', index=False)
         self.sewerdata.to_csv(f"{path}/sewerdata.csv", sep=';', index=False)
-        self.courtdata.drop(columns=['Case Text'], inplace=True)
-        self.courtdata.to_csv(f"{path}/courtdata.csv", sep=';', index=False)
+        # self.courtdata.drop(columns=['Case Text'], inplace=True)
+        # self.courtdata.to_csv(f"{path}/courtdata.csv", sep=';', index=False)
 
 
 
 if __name__ == '__main__':
     dm = DataManager()
     dm.collect_sewerdata()
-    dm.collect_courtdata()
-    dm.process_search_words()
+    # dm.collect_courtdata()
+    # dm.process_search_words()
     dm.save_datafiles()
